@@ -1,0 +1,21 @@
+subj_id,qid,subj,s_pop,gender,citizenship,citizenship_qids,birth_date,n_sitelinks,s_wiki_title,resolved_title,length_bytes,edit_count,edit_count_capped
+1522074,Q4924056,Blair Bush,312,male,United States,Q30,1956-11-25T00:00:00Z,4,Blair Bush,Blair Bush,4131,83,False
+2929823,Q974840,Koudai Tsukakoshi,457,male,Japan,Q17,1986-11-20T00:00:00Z,9,Koudai Tsukakoshi,Koudai Tsukakoshi,42056,166,False
+634849,Q18684940,Jim Boyd,170,male,United States,Q30,1942-03-26T00:00:00Z,3,Jim Boyd (newscaster),Jim Boyd (newscaster),7717,143,False
+2205307,Q664602,Léopold Robert,455,male,Switzerland,Q39,1794-05-13T00:00:00Z,14,Louis Léopold Robert,Louis Léopold Robert,4651,76,False
+549592,Q17495656,Alleppey Vincent,242,male,,,,2,Alleppey Vincent,Alleppey Vincent,6816,48,False
+2489918,Q7334576,Rinaldo del Mel,62,male,,,1554-01-01T00:00:00Z,7,Rinaldo del Mel,Rinaldo del Mel,4814,39,False
+1283271,Q4184117,Serhiy Zayets,101,male,Ukraine|Soviet Union,Q212|Q15180,1969-08-18T00:00:00Z,7,Serhiy Zayets,Serhiy Zayets,11012,93,False
+2881510,Q909015,Aki Hata,662,female,Japan,Q17,1966-08-13T00:00:00Z,7,Aki Hata,Aki Hata,3328,73,False
+961760,Q2897491,Jacopo Melani,112,male,,,1623-07-06T00:00:00Z,9,Jacopo Melani,Jacopo Melani,2444,51,False
+463605,Q1684872,Jean-Georges Lefranc de Pompignan,68,male,France,Q142,1715-02-22T00:00:00Z,11,Jean Georges Lefranc de Pompignan,Jean Georges Lefranc de Pompignan,3787,48,False
+1666630,Q520459,Teri DeSario,1673,female,United States,Q30,1951-11-27T00:00:00Z,5,Teri DeSario,Teri DeSario,8985,169,False
+1686440,Q5234754,David Harris Willson,130,male,United States,Q30,1901-05-18T00:00:00Z,3,David Harris Willson,David Harris Willson,6111,54,False
+1740541,Q533467,Brandon Bays,401,female,United States,Q30,1953-08-21T00:00:00Z,5,Brandon Bays,Brandon Bays,11680,74,False
+364481,Q1602025,Heath,1132,male,Japan,Q17,1968-01-22T00:00:00Z,19,Heath (musician),Heath (musician),42443,433,False
+275272,Q14927550,Michael Lynton,3812,male,United States,Q30,1960-01-01T00:00:00Z,5,Michael Lynton,Michael Lynton,21412,385,False
+913879,Q2716019,Gilbert Bodart,299,male,Belgium,Q31,1962-09-02T00:00:00Z,18,Gilbert Bodart,Gilbert Bodart,8291,122,False
+55546,Q109023,Björn Böhning,130,male,Germany,Q183,1978-06-02T00:00:00Z,5,Björn Böhning,Björn Böhning,7577,42,False
+2884601,Q914007,Bridie O'Flaherty,65,female,Ireland,Q27,1917-10-27T00:00:00Z,2,Bridie O'Flaherty,Bridie O'Flaherty,4377,58,False
+1152048,Q3523016,Johnson,5158,male,India,Q668,1953-03-26T00:00:00Z,9,Johnson (composer),Johnson (composer),36322,598,False
+355220,Q15999565,Carsten Carlsen,93,male,Norway,Q20,1892-06-05T00:00:00Z,5,Carsten Carlsen,Carsten Carlsen,3453,29,False
