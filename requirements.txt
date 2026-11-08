@@ -1,0 +1,5 @@
+pandas
+requests
+SPARQLWrapper
+matplotlib
+datasets
