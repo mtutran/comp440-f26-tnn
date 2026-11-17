@@ -1,0 +1,32 @@
+historical_qid,historical_label,modern_qids,modern_labels,regions,rule
+Q335070,Alba Longa,Q38,Italy,Europe,manual
+Q129286,British Raj,Q668|Q843,India|Pakistan,Asia,same_region_split
+Q533534,Cisleithania,Q40|Q225|Q224|Q213|Q183|Q38|Q236|Q221|Q36|Q403|Q214|Q215,Austria|Bosnia and Herzegovina|Croatia|Czech Republic|Germany|Italy|Montenegro|North Macedonia|Poland|Serbia|Slovakia|Slovenia,Europe,same_region_split
+Q1233672,County of Barcelona,Q228,Andorra,Europe,single_successor
+Q762943,County of Holland,Q55,Netherlands,Europe,manual
+Q204920,Crown of Aragon,Q40|Q225|Q224|Q213|Q142|Q183|Q28|Q38|Q236|Q221|Q36|Q218|Q403|Q214|Q215|Q29,Austria|Bosnia and Herzegovina|Croatia|Czech Republic|France|Germany|Hungary|Italy|Montenegro|North Macedonia|Poland|Romania|Serbia|Slovakia|Slovenia|Spain,Europe,same_region_split
+Q33946,Czechoslovakia,Q213|Q214,Czech Republic|Slovakia,Europe,manual
+Q1775277,Dominion of India,Q668,India,Asia,single_successor
+Q170072,Dutch Republic,Q55,Netherlands,Europe,manual
+Q188712,Empire of Japan,Q17,Japan,Asia,single_successor
+Q1290149,Federal People's Republic of Yugoslavia,Q225|Q224|Q236|Q221|Q403|Q215,Bosnia and Herzegovina|Croatia|Montenegro|North Macedonia|Serbia|Slovenia,Europe,manual
+Q43287,German Empire,Q183,Germany,Europe,single_successor
+Q1206012,German Reich,Q183,Germany,Europe,single_successor
+Q1031430,Habsburg Netherlands,Q31|Q55,Belgium|Netherlands,Europe,manual
+Q12548,Holy Roman Empire,Q40|Q225|Q224|Q213|Q183|Q28|Q38|Q347|Q32|Q236|Q221|Q36|Q218|Q403|Q214|Q215,Austria|Bosnia and Herzegovina|Croatia|Czech Republic|Germany|Hungary|Italy|Liechtenstein|Luxembourg|Montenegro|North Macedonia|Poland|Romania|Serbia|Slovakia|Slovenia,Europe,same_region_split
+Q153128,Independent State of Croatia,Q225|Q224|Q236|Q221|Q403|Q215,Bosnia and Herzegovina|Croatia|Montenegro|North Macedonia|Serbia|Slovenia,Europe,same_region_split
+Q31747,Irish Free State,Q27,Ireland,Europe,single_successor
+Q154195,Kingdom of Bavaria,Q183,Germany,Europe,manual
+Q179876,Kingdom of England,Q145,United Kingdom,Europe,manual
+Q161885,Kingdom of Great Britain,Q145,United Kingdom,Europe,manual
+Q172579,Kingdom of Italy,Q38,Italy,Europe,single_successor
+Q27306,Kingdom of Prussia,Q183,Germany,Europe,manual
+Q2577303,Kingdom of Sardinia,Q38,Italy,Europe,single_successor
+Q15102440,"Kingdom of Serbs, Croats and Slovenes",Q225|Q224|Q236|Q221|Q403|Q215,Bosnia and Herzegovina|Croatia|Montenegro|North Macedonia|Serbia|Slovenia,Europe,same_region_split
+Q191077,Kingdom of Yugoslavia,Q225|Q224|Q236|Q221|Q403|Q215,Bosnia and Herzegovina|Croatia|Montenegro|North Macedonia|Serbia|Slovenia,Europe,same_region_split
+Q34266,Russian Empire,Q399|Q227|Q184|Q191|Q230|Q232|Q813|Q211|Q37|Q217|Q159|Q863|Q874|Q212|Q265,Armenia|Azerbaijan|Belarus|Estonia|Georgia|Kazakhstan|Kyrgyzstan|Latvia|Lithuania|Moldova|Russia|Tajikistan|Turkmenistan|Ukraine|Uzbekistan,Asia|Europe,ambiguous_split
+Q83286,Socialist Federal Republic of Yugoslavia,Q225|Q224|Q236|Q221|Q403|Q215,Bosnia and Herzegovina|Croatia|Montenegro|North Macedonia|Serbia|Slovenia,Europe,same_region_split
+Q15180,Soviet Union,Q399|Q227|Q184|Q191|Q230|Q232|Q813|Q211|Q37|Q217|Q159|Q863|Q874|Q212|Q265,Armenia|Azerbaijan|Belarus|Estonia|Georgia|Kazakhstan|Kyrgyzstan|Latvia|Lithuania|Moldova|Russia|Tajikistan|Turkmenistan|Ukraine|Uzbekistan,Asia|Europe,ambiguous_split
+Q174193,United Kingdom of Great Britain and Ireland,Q27|Q145,Ireland|United Kingdom,Europe,same_region_split
+Q713750,West Germany,Q183,Germany,Europe,single_successor
+Q652560,West Indies Federation,Q781|Q244|Q784|Q769|Q766|Q763|Q760|Q757|Q754,Antigua and Barbuda|Barbados|Dominica|Grenada|Jamaica|Saint Kitts and Nevis|Saint Lucia|Saint Vincent and the Grenadines|Trinidad and Tobago,Latin America & Caribbean,manual

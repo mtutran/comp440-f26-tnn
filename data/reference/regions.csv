@@ -1,0 +1,198 @@
+qid,country,m49_code,iso3,un_member,m49_name,m49_region,m49_subregion,m49_intermediate_region,region,region_detail,global_south,source
+Q889,Afghanistan,004,AFG,True,Afghanistan,Asia,Southern Asia,,Asia,Asia,True,M49
+Q222,Albania,008,ALB,True,Albania,Europe,Southern Europe,,Europe,Europe,False,M49
+Q262,Algeria,012,DZA,True,Algeria,Africa,Northern Africa,,Africa,Africa,True,M49
+Q228,Andorra,020,AND,True,Andorra,Europe,Southern Europe,,Europe,Europe,False,M49
+Q916,Angola,024,AGO,True,Angola,Africa,Sub-Saharan Africa,Middle Africa,Africa,Africa,True,M49
+Q781,Antigua and Barbuda,028,ATG,True,Antigua and Barbuda,Americas,Latin America and the Caribbean,Caribbean,Latin America & Caribbean,Caribbean,True,M49
+Q414,Argentina,032,ARG,True,Argentina,Americas,Latin America and the Caribbean,South America,Latin America & Caribbean,South America,True,M49
+Q399,Armenia,051,ARM,True,Armenia,Asia,Western Asia,,Asia,Asia,True,M49
+Q408,Australia,036,AUS,True,Australia,Oceania,Australia and New Zealand,,Oceania,Oceania,False,M49
+Q40,Austria,040,AUT,True,Austria,Europe,Western Europe,,Europe,Europe,False,M49
+Q227,Azerbaijan,031,AZE,True,Azerbaijan,Asia,Western Asia,,Asia,Asia,True,M49
+Q398,Bahrain,048,BHR,True,Bahrain,Asia,Western Asia,,Asia,Asia,True,M49
+Q902,Bangladesh,050,BGD,True,Bangladesh,Asia,Southern Asia,,Asia,Asia,True,M49
+Q244,Barbados,052,BRB,True,Barbados,Americas,Latin America and the Caribbean,Caribbean,Latin America & Caribbean,Caribbean,True,M49
+Q184,Belarus,112,BLR,True,Belarus,Europe,Eastern Europe,,Europe,Europe,False,M49
+Q31,Belgium,056,BEL,True,Belgium,Europe,Western Europe,,Europe,Europe,False,M49
+Q242,Belize,084,BLZ,True,Belize,Americas,Latin America and the Caribbean,Central America,Latin America & Caribbean,Central America,True,M49
+Q962,Benin,204,BEN,True,Benin,Africa,Sub-Saharan Africa,Western Africa,Africa,Africa,True,M49
+Q917,Bhutan,064,BTN,True,Bhutan,Asia,Southern Asia,,Asia,Asia,True,M49
+Q750,Bolivia,068,BOL,True,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,South America,Latin America & Caribbean,South America,True,M49
+Q225,Bosnia and Herzegovina,070,BIH,True,Bosnia and Herzegovina,Europe,Southern Europe,,Europe,Europe,False,M49
+Q963,Botswana,072,BWA,True,Botswana,Africa,Sub-Saharan Africa,Southern Africa,Africa,Africa,True,M49
+Q155,Brazil,076,BRA,True,Brazil,Americas,Latin America and the Caribbean,South America,Latin America & Caribbean,South America,True,M49
+Q921,Brunei,096,BRN,True,Brunei Darussalam,Asia,South-eastern Asia,,Asia,Asia,True,M49
+Q219,Bulgaria,100,BGR,True,Bulgaria,Europe,Eastern Europe,,Europe,Europe,False,M49
+Q965,Burkina Faso,854,BFA,True,Burkina Faso,Africa,Sub-Saharan Africa,Western Africa,Africa,Africa,True,M49
+Q967,Burundi,108,BDI,True,Burundi,Africa,Sub-Saharan Africa,Eastern Africa,Africa,Africa,True,M49
+Q424,Cambodia,116,KHM,True,Cambodia,Asia,South-eastern Asia,,Asia,Asia,True,M49
+Q1009,Cameroon,120,CMR,True,Cameroon,Africa,Sub-Saharan Africa,Middle Africa,Africa,Africa,True,M49
+Q16,Canada,124,CAN,True,Canada,Americas,Northern America,,Northern America,Northern America,False,M49
+Q1011,Cape Verde,132,CPV,True,Cabo Verde,Africa,Sub-Saharan Africa,Western Africa,Africa,Africa,True,M49
+Q929,Central African Republic,140,CAF,True,Central African Republic,Africa,Sub-Saharan Africa,Middle Africa,Africa,Africa,True,M49
+Q657,Chad,148,TCD,True,Chad,Africa,Sub-Saharan Africa,Middle Africa,Africa,Africa,True,M49
+Q298,Chile,152,CHL,True,Chile,Americas,Latin America and the Caribbean,South America,Latin America & Caribbean,South America,True,M49
+Q739,Colombia,170,COL,True,Colombia,Americas,Latin America and the Caribbean,South America,Latin America & Caribbean,South America,True,M49
+Q970,Comoros,174,COM,True,Comoros,Africa,Sub-Saharan Africa,Eastern Africa,Africa,Africa,True,M49
+Q800,Costa Rica,188,CRI,True,Costa Rica,Americas,Latin America and the Caribbean,Central America,Latin America & Caribbean,Central America,True,M49
+Q224,Croatia,191,HRV,True,Croatia,Europe,Southern Europe,,Europe,Europe,False,M49
+Q241,Cuba,192,CUB,True,Cuba,Americas,Latin America and the Caribbean,Caribbean,Latin America & Caribbean,Caribbean,True,M49
+Q229,Cyprus,196,CYP,True,Cyprus,Asia,Western Asia,,Asia,Asia,False,M49
+Q213,Czech Republic,203,CZE,True,Czechia,Europe,Eastern Europe,,Europe,Europe,False,M49
+Q974,Democratic Republic of the Congo,180,COD,True,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,Middle Africa,Africa,Africa,True,M49
+Q35,Denmark,208,DNK,False,Denmark,Europe,Northern Europe,,Europe,Europe,False,M49
+Q977,Djibouti,262,DJI,True,Djibouti,Africa,Sub-Saharan Africa,Eastern Africa,Africa,Africa,True,M49
+Q784,Dominica,212,DMA,True,Dominica,Americas,Latin America and the Caribbean,Caribbean,Latin America & Caribbean,Caribbean,True,M49
+Q786,Dominican Republic,214,DOM,True,Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,Latin America & Caribbean,Caribbean,True,M49
+Q736,Ecuador,218,ECU,True,Ecuador,Americas,Latin America and the Caribbean,South America,Latin America & Caribbean,South America,True,M49
+Q79,Egypt,818,EGY,True,Egypt,Africa,Northern Africa,,Africa,Africa,True,M49
+Q792,El Salvador,222,SLV,True,El Salvador,Americas,Latin America and the Caribbean,Central America,Latin America & Caribbean,Central America,True,M49
+Q983,Equatorial Guinea,226,GNQ,True,Equatorial Guinea,Africa,Sub-Saharan Africa,Middle Africa,Africa,Africa,True,M49
+Q986,Eritrea,232,ERI,True,Eritrea,Africa,Sub-Saharan Africa,Eastern Africa,Africa,Africa,True,M49
+Q191,Estonia,233,EST,True,Estonia,Europe,Northern Europe,,Europe,Europe,False,M49
+Q1050,Eswatini,748,SWZ,True,Eswatini,Africa,Sub-Saharan Africa,Southern Africa,Africa,Africa,True,M49
+Q115,Ethiopia,231,ETH,True,Ethiopia,Africa,Sub-Saharan Africa,Eastern Africa,Africa,Africa,True,M49
+Q702,Federated States of Micronesia,583,FSM,True,Micronesia (Federated States of),Oceania,Micronesia,,Oceania,Oceania,True,M49
+Q712,Fiji,242,FJI,True,Fiji,Oceania,Melanesia,,Oceania,Oceania,True,M49
+Q33,Finland,246,FIN,True,Finland,Europe,Northern Europe,,Europe,Europe,False,M49
+Q142,France,250,FRA,True,France,Europe,Western Europe,,Europe,Europe,False,M49
+Q1000,Gabon,266,GAB,True,Gabon,Africa,Sub-Saharan Africa,Middle Africa,Africa,Africa,True,M49
+Q230,Georgia,268,GEO,True,Georgia,Asia,Western Asia,,Asia,Asia,True,M49
+Q183,Germany,276,DEU,True,Germany,Europe,Western Europe,,Europe,Europe,False,M49
+Q117,Ghana,288,GHA,True,Ghana,Africa,Sub-Saharan Africa,Western Africa,Africa,Africa,True,M49
+Q41,Greece,300,GRC,True,Greece,Europe,Southern Europe,,Europe,Europe,False,M49
+Q769,Grenada,308,GRD,True,Grenada,Americas,Latin America and the Caribbean,Caribbean,Latin America & Caribbean,Caribbean,True,M49
+Q774,Guatemala,320,GTM,True,Guatemala,Americas,Latin America and the Caribbean,Central America,Latin America & Caribbean,Central America,True,M49
+Q1006,Guinea,324,GIN,True,Guinea,Africa,Sub-Saharan Africa,Western Africa,Africa,Africa,True,M49
+Q1007,Guinea-Bissau,624,GNB,True,Guinea-Bissau,Africa,Sub-Saharan Africa,Western Africa,Africa,Africa,True,M49
+Q734,Guyana,328,GUY,True,Guyana,Americas,Latin America and the Caribbean,South America,Latin America & Caribbean,South America,True,M49
+Q790,Haiti,332,HTI,True,Haiti,Americas,Latin America and the Caribbean,Caribbean,Latin America & Caribbean,Caribbean,True,M49
+Q783,Honduras,340,HND,True,Honduras,Americas,Latin America and the Caribbean,Central America,Latin America & Caribbean,Central America,True,M49
+Q28,Hungary,348,HUN,True,Hungary,Europe,Eastern Europe,,Europe,Europe,False,M49
+Q189,Iceland,352,ISL,True,Iceland,Europe,Northern Europe,,Europe,Europe,False,M49
+Q668,India,356,IND,True,India,Asia,Southern Asia,,Asia,Asia,True,M49
+Q252,Indonesia,360,IDN,True,Indonesia,Asia,South-eastern Asia,,Asia,Asia,True,M49
+Q794,Iran,364,IRN,True,Iran (Islamic Republic of),Asia,Southern Asia,,Asia,Asia,True,M49
+Q796,Iraq,368,IRQ,True,Iraq,Asia,Western Asia,,Asia,Asia,True,M49
+Q27,Ireland,372,IRL,True,Ireland,Europe,Northern Europe,,Europe,Europe,False,M49
+Q801,Israel,376,ISR,True,Israel,Asia,Western Asia,,Asia,Asia,False,M49
+Q38,Italy,380,ITA,True,Italy,Europe,Southern Europe,,Europe,Europe,False,M49
+Q1008,Ivory Coast,384,CIV,True,Côte d’Ivoire,Africa,Sub-Saharan Africa,Western Africa,Africa,Africa,True,M49
+Q766,Jamaica,388,JAM,True,Jamaica,Americas,Latin America and the Caribbean,Caribbean,Latin America & Caribbean,Caribbean,True,M49
+Q17,Japan,392,JPN,True,Japan,Asia,Eastern Asia,,Asia,Asia,False,M49
+Q810,Jordan,400,JOR,True,Jordan,Asia,Western Asia,,Asia,Asia,True,M49
+Q232,Kazakhstan,398,KAZ,True,Kazakhstan,Asia,Central Asia,,Asia,Asia,True,M49
+Q114,Kenya,404,KEN,True,Kenya,Africa,Sub-Saharan Africa,Eastern Africa,Africa,Africa,True,M49
+Q710,Kiribati,296,KIR,True,Kiribati,Oceania,Micronesia,,Oceania,Oceania,True,M49
+Q1246,Kosovo,,XKS,False,,,,,Europe,Europe,True,manual
+Q817,Kuwait,414,KWT,True,Kuwait,Asia,Western Asia,,Asia,Asia,True,M49
+Q813,Kyrgyzstan,417,KGZ,True,Kyrgyzstan,Asia,Central Asia,,Asia,Asia,True,M49
+Q819,Laos,418,LAO,True,Lao People's Democratic Republic,Asia,South-eastern Asia,,Asia,Asia,True,M49
+Q211,Latvia,428,LVA,True,Latvia,Europe,Northern Europe,,Europe,Europe,False,M49
+Q822,Lebanon,422,LBN,True,Lebanon,Asia,Western Asia,,Asia,Asia,True,M49
+Q1013,Lesotho,426,LSO,True,Lesotho,Africa,Sub-Saharan Africa,Southern Africa,Africa,Africa,True,M49
+Q1014,Liberia,430,LBR,True,Liberia,Africa,Sub-Saharan Africa,Western Africa,Africa,Africa,True,M49
+Q1016,Libya,434,LBY,True,Libya,Africa,Northern Africa,,Africa,Africa,True,M49
+Q347,Liechtenstein,438,LIE,True,Liechtenstein,Europe,Western Europe,,Europe,Europe,False,M49
+Q37,Lithuania,440,LTU,True,Lithuania,Europe,Northern Europe,,Europe,Europe,False,M49
+Q32,Luxembourg,442,LUX,True,Luxembourg,Europe,Western Europe,,Europe,Europe,False,M49
+Q1019,Madagascar,450,MDG,True,Madagascar,Africa,Sub-Saharan Africa,Eastern Africa,Africa,Africa,True,M49
+Q1020,Malawi,454,MWI,True,Malawi,Africa,Sub-Saharan Africa,Eastern Africa,Africa,Africa,True,M49
+Q833,Malaysia,458,MYS,True,Malaysia,Asia,South-eastern Asia,,Asia,Asia,True,M49
+Q826,Maldives,462,MDV,True,Maldives,Asia,Southern Asia,,Asia,Asia,True,M49
+Q912,Mali,466,MLI,True,Mali,Africa,Sub-Saharan Africa,Western Africa,Africa,Africa,True,M49
+Q233,Malta,470,MLT,True,Malta,Europe,Southern Europe,,Europe,Europe,False,M49
+Q709,Marshall Islands,584,MHL,True,Marshall Islands,Oceania,Micronesia,,Oceania,Oceania,True,M49
+Q1025,Mauritania,478,MRT,True,Mauritania,Africa,Sub-Saharan Africa,Western Africa,Africa,Africa,True,M49
+Q1027,Mauritius,480,MUS,True,Mauritius,Africa,Sub-Saharan Africa,Eastern Africa,Africa,Africa,True,M49
+Q96,Mexico,484,MEX,True,Mexico,Americas,Latin America and the Caribbean,Central America,Latin America & Caribbean,Central America,True,M49
+Q217,Moldova,498,MDA,True,Republic of Moldova,Europe,Eastern Europe,,Europe,Europe,False,M49
+Q235,Monaco,492,MCO,True,Monaco,Europe,Western Europe,,Europe,Europe,False,M49
+Q711,Mongolia,496,MNG,True,Mongolia,Asia,Eastern Asia,,Asia,Asia,True,M49
+Q236,Montenegro,499,MNE,True,Montenegro,Europe,Southern Europe,,Europe,Europe,False,M49
+Q1028,Morocco,504,MAR,True,Morocco,Africa,Northern Africa,,Africa,Africa,True,M49
+Q1029,Mozambique,508,MOZ,True,Mozambique,Africa,Sub-Saharan Africa,Eastern Africa,Africa,Africa,True,M49
+Q836,Myanmar,104,MMR,True,Myanmar,Asia,South-eastern Asia,,Asia,Asia,True,M49
+Q1030,Namibia,516,NAM,True,Namibia,Africa,Sub-Saharan Africa,Southern Africa,Africa,Africa,True,M49
+Q697,Nauru,520,NRU,True,Naoero,Oceania,Micronesia,,Oceania,Oceania,True,M49
+Q837,Nepal,524,NPL,True,Nepal,Asia,Southern Asia,,Asia,Asia,True,M49
+Q55,Netherlands,528,NLD,False,Netherlands (Kingdom of the),Europe,Western Europe,,Europe,Europe,False,M49
+Q664,New Zealand,554,NZL,True,New Zealand,Oceania,Australia and New Zealand,,Oceania,Oceania,False,M49
+Q811,Nicaragua,558,NIC,True,Nicaragua,Americas,Latin America and the Caribbean,Central America,Latin America & Caribbean,Central America,True,M49
+Q1032,Niger,562,NER,True,Niger,Africa,Sub-Saharan Africa,Western Africa,Africa,Africa,True,M49
+Q1033,Nigeria,566,NGA,True,Nigeria,Africa,Sub-Saharan Africa,Western Africa,Africa,Africa,True,M49
+Q423,North Korea,408,PRK,True,Democratic People's Republic of Korea,Asia,Eastern Asia,,Asia,Asia,True,M49
+Q221,North Macedonia,807,MKD,True,North Macedonia,Europe,Southern Europe,,Europe,Europe,False,M49
+Q20,Norway,578,NOR,True,Norway,Europe,Northern Europe,,Europe,Europe,False,M49
+Q842,Oman,512,OMN,True,Oman,Asia,Western Asia,,Asia,Asia,True,M49
+Q843,Pakistan,586,PAK,True,Pakistan,Asia,Southern Asia,,Asia,Asia,True,M49
+Q695,Palau,585,PLW,True,Palau,Oceania,Micronesia,,Oceania,Oceania,True,M49
+Q219060,Palestine,275,PSE,False,State of Palestine,Asia,Western Asia,,Asia,Asia,True,M49
+Q804,Panama,591,PAN,True,Panama,Americas,Latin America and the Caribbean,Central America,Latin America & Caribbean,Central America,True,M49
+Q691,Papua New Guinea,598,PNG,True,Papua New Guinea,Oceania,Melanesia,,Oceania,Oceania,True,M49
+Q733,Paraguay,600,PRY,True,Paraguay,Americas,Latin America and the Caribbean,South America,Latin America & Caribbean,South America,True,M49
+Q148,People's Republic of China,156,CHN,True,China,Asia,Eastern Asia,,Asia,Asia,True,M49
+Q419,Peru,604,PER,True,Peru,Americas,Latin America and the Caribbean,South America,Latin America & Caribbean,South America,True,M49
+Q928,Philippines,608,PHL,True,Philippines,Asia,South-eastern Asia,,Asia,Asia,True,M49
+Q36,Poland,616,POL,True,Poland,Europe,Eastern Europe,,Europe,Europe,False,M49
+Q45,Portugal,620,PRT,True,Portugal,Europe,Southern Europe,,Europe,Europe,False,M49
+Q846,Qatar,634,QAT,True,Qatar,Asia,Western Asia,,Asia,Asia,True,M49
+Q971,Republic of the Congo,178,COG,True,Congo,Africa,Sub-Saharan Africa,Middle Africa,Africa,Africa,True,M49
+Q218,Romania,642,ROU,True,Romania,Europe,Eastern Europe,,Europe,Europe,False,M49
+Q159,Russia,643,RUS,True,Russian Federation,Europe,Eastern Europe,,Europe,Europe,False,M49
+Q1037,Rwanda,646,RWA,True,Rwanda,Africa,Sub-Saharan Africa,Eastern Africa,Africa,Africa,True,M49
+Q763,Saint Kitts and Nevis,659,KNA,True,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Caribbean,Latin America & Caribbean,Caribbean,True,M49
+Q760,Saint Lucia,662,LCA,True,Saint Lucia,Americas,Latin America and the Caribbean,Caribbean,Latin America & Caribbean,Caribbean,True,M49
+Q757,Saint Vincent and the Grenadines,670,VCT,True,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,Caribbean,Latin America & Caribbean,Caribbean,True,M49
+Q683,Samoa,882,WSM,True,Samoa,Oceania,Polynesia,,Oceania,Oceania,True,M49
+Q238,San Marino,674,SMR,True,San Marino,Europe,Southern Europe,,Europe,Europe,False,M49
+Q851,Saudi Arabia,682,SAU,True,Saudi Arabia,Asia,Western Asia,,Asia,Asia,True,M49
+Q1041,Senegal,686,SEN,True,Senegal,Africa,Sub-Saharan Africa,Western Africa,Africa,Africa,True,M49
+Q403,Serbia,688,SRB,True,Serbia,Europe,Southern Europe,,Europe,Europe,False,M49
+Q1042,Seychelles,690,SYC,True,Seychelles,Africa,Sub-Saharan Africa,Eastern Africa,Africa,Africa,True,M49
+Q1044,Sierra Leone,694,SLE,True,Sierra Leone,Africa,Sub-Saharan Africa,Western Africa,Africa,Africa,True,M49
+Q334,Singapore,702,SGP,True,Singapore,Asia,South-eastern Asia,,Asia,Asia,True,M49
+Q214,Slovakia,703,SVK,True,Slovakia,Europe,Eastern Europe,,Europe,Europe,False,M49
+Q215,Slovenia,705,SVN,True,Slovenia,Europe,Southern Europe,,Europe,Europe,False,M49
+Q685,Solomon Islands,090,SLB,True,Solomon Islands,Oceania,Melanesia,,Oceania,Oceania,True,M49
+Q1045,Somalia,706,SOM,True,Somalia,Africa,Sub-Saharan Africa,Eastern Africa,Africa,Africa,True,M49
+Q258,South Africa,710,ZAF,True,South Africa,Africa,Sub-Saharan Africa,Southern Africa,Africa,Africa,True,M49
+Q884,South Korea,410,KOR,True,Republic of Korea,Asia,Eastern Asia,,Asia,Asia,True,M49
+Q958,South Sudan,728,SSD,True,South Sudan,Africa,Sub-Saharan Africa,Eastern Africa,Africa,Africa,True,M49
+Q29,Spain,724,ESP,True,Spain,Europe,Southern Europe,,Europe,Europe,False,M49
+Q854,Sri Lanka,144,LKA,True,Sri Lanka,Asia,Southern Asia,,Asia,Asia,True,M49
+Q1049,Sudan,729,SDN,True,Sudan,Africa,Northern Africa,,Africa,Africa,True,M49
+Q730,Suriname,740,SUR,True,Suriname,Americas,Latin America and the Caribbean,South America,Latin America & Caribbean,South America,True,M49
+Q34,Sweden,752,SWE,True,Sweden,Europe,Northern Europe,,Europe,Europe,False,M49
+Q39,Switzerland,756,CHE,True,Switzerland,Europe,Western Europe,,Europe,Europe,False,M49
+Q858,Syria,760,SYR,True,Syrian Arab Republic,Asia,Western Asia,,Asia,Asia,True,M49
+Q1039,São Tomé and Príncipe,678,STP,True,Sao Tome and Principe,Africa,Sub-Saharan Africa,Middle Africa,Africa,Africa,True,M49
+Q865,Taiwan,,TWN,False,,,,,Asia,Asia,False,manual
+Q863,Tajikistan,762,TJK,True,Tajikistan,Asia,Central Asia,,Asia,Asia,True,M49
+Q924,Tanzania,834,TZA,True,United Republic of Tanzania,Africa,Sub-Saharan Africa,Eastern Africa,Africa,Africa,True,M49
+Q869,Thailand,764,THA,True,Thailand,Asia,South-eastern Asia,,Asia,Asia,True,M49
+Q778,The Bahamas,044,BHS,True,Bahamas,Americas,Latin America and the Caribbean,Caribbean,Latin America & Caribbean,Caribbean,True,M49
+Q1005,The Gambia,270,GMB,True,Gambia,Africa,Sub-Saharan Africa,Western Africa,Africa,Africa,True,M49
+Q574,Timor-Leste,626,TLS,True,Timor-Leste,Asia,South-eastern Asia,,Asia,Asia,True,M49
+Q945,Togo,768,TGO,True,Togo,Africa,Sub-Saharan Africa,Western Africa,Africa,Africa,True,M49
+Q678,Tonga,776,TON,True,Tonga,Oceania,Polynesia,,Oceania,Oceania,True,M49
+Q754,Trinidad and Tobago,780,TTO,True,Trinidad and Tobago,Americas,Latin America and the Caribbean,Caribbean,Latin America & Caribbean,Caribbean,True,M49
+Q948,Tunisia,788,TUN,True,Tunisia,Africa,Northern Africa,,Africa,Africa,True,M49
+Q43,Turkey,792,TUR,True,Türkiye,Asia,Western Asia,,Asia,Asia,True,M49
+Q874,Turkmenistan,795,TKM,True,Turkmenistan,Asia,Central Asia,,Asia,Asia,True,M49
+Q672,Tuvalu,798,TUV,True,Tuvalu,Oceania,Polynesia,,Oceania,Oceania,True,M49
+Q1036,Uganda,800,UGA,True,Uganda,Africa,Sub-Saharan Africa,Eastern Africa,Africa,Africa,True,M49
+Q212,Ukraine,804,UKR,True,Ukraine,Europe,Eastern Europe,,Europe,Europe,False,M49
+Q878,United Arab Emirates,784,ARE,True,United Arab Emirates,Asia,Western Asia,,Asia,Asia,True,M49
+Q145,United Kingdom,826,GBR,True,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,,Europe,Europe,False,M49
+Q30,United States,840,USA,True,United States of America,Americas,Northern America,,Northern America,Northern America,False,M49
+Q77,Uruguay,858,URY,True,Uruguay,Americas,Latin America and the Caribbean,South America,Latin America & Caribbean,South America,True,M49
+Q265,Uzbekistan,860,UZB,True,Uzbekistan,Asia,Central Asia,,Asia,Asia,True,M49
+Q686,Vanuatu,548,VUT,True,Vanuatu,Oceania,Melanesia,,Oceania,Oceania,True,M49
+Q237,Vatican City,336,VAT,False,Holy See,Europe,Southern Europe,,Europe,Europe,False,M49
+Q717,Venezuela,862,VEN,True,Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,South America,Latin America & Caribbean,South America,True,M49
+Q881,Vietnam,704,VNM,True,Viet Nam,Asia,South-eastern Asia,,Asia,Asia,True,M49
+Q805,Yemen,887,YEM,True,Yemen,Asia,Western Asia,,Asia,Asia,True,M49
+Q953,Zambia,894,ZMB,True,Zambia,Africa,Sub-Saharan Africa,Eastern Africa,Africa,Africa,True,M49
+Q954,Zimbabwe,716,ZWE,True,Zimbabwe,Africa,Sub-Saharan Africa,Eastern Africa,Africa,Africa,True,M49
