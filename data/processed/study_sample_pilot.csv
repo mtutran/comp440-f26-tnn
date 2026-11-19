@@ -1,0 +1,201 @@
+stratum,qid,label,description,gender,citizenship_qids,birth_date,birthplace_qids,n_sitelinks,enwiki_title,birthplace_country_qids,region,region_detail,global_south,region_rule,coverage
+Africa|female|low,Q133272974,Fiona Mwale,Malawian High Court Judge,female,Q1020,1974-10-30,,2,Fiona Mwale,,Africa,Africa,True,citizenship,low
+Africa|female|low,Q26924850,Eunice Muringo Kiereini,Kenyan nurse,female,Q114,1939-09-24,Q1021572,2,Eunice Muringo Kiereini,,Africa,Africa,True,citizenship,low
+Africa|female|low,Q7660888,Sylvia Blyden,Sierra Leonean news publisher,female,Q1044,1971-10-01,Q3780,3,Sylvia Blyden,,Africa,Africa,True,citizenship,low
+Africa|female|low,Q109395195,Tamara Jozi,South African actress and television personality,female,Q258,1956-01-01,,3,Tamara Jozi,,Africa,Africa,True,citizenship,low
+Africa|female|low,Q119519933,Malak El Allami,Moroccan tennis player,female,Q1028,2006-07-28,Q1028,3,Malak El Allami,,Africa,Africa,True,citizenship,low
+Africa|female|medium,Q42572322,Maya Morsy,politician,female,Q79,1973-12-13,,6,Maya Morsy,,Africa,Africa,True,citizenship,medium
+Africa|female|medium,Q6217286,Johmari Logtenberg,South African cricketer,female,Q258,1989-02-22,Q989955,6,Johmari Logtenberg,,Africa,Africa,True,citizenship,medium
+Africa|female|medium,Q12219372,Shereen Reda,Egyptian actress,female,Q79,1968-07-07,Q79,5,Shereen Reda,,Africa,Africa,True,citizenship,medium
+Africa|female|medium,Q864065,Bintanding Jarju,Gambian politician,female,Q1005,1957-04-10,,5,Bintanding Jarju,,Africa,Africa,True,citizenship,medium
+Africa|female|medium,Q17579951,Nichole Denby,Nigerian-American hurdler,female,Q1033,1982-10-10,Q40347,6,Nichole Denby,,Africa,Africa,True,citizenship,medium
+Africa|female|medium,Q3161575,Jamila Mejri,Tunisian writer,female,Q2017684|Q948,1951-01-01,Q179570,6,Jamila Mejri,,Africa,Africa,True,citizenship,medium
+Africa|female|high,Q113392434,Lucy Ameh,Nigerian actress,female,Q1033,1980-12-03,Q208318,10,Lucy Ameh,,Africa,Africa,True,citizenship,high
+Africa|female|high,Q15819863,Ida Guehai,Ivorian professional footballer,female,Q1008,1994-07-15,Q3119338,7,Ida Guehai,,Africa,Africa,True,citizenship,high
+Africa|female|high,Q2849852,Angéline Nadié,Ivorian actor (1968–2021),female,Q1008,1968-01-01,Q1008,10,Angéline Nadié,,Africa,Africa,True,citizenship,high
+Africa|female|high,Q11002027,Karima Mokhtar,Egyptian actress (1934–2017),female,Q79,1934-01-16,Q5601237,9,Karima Mokhtar,,Africa,Africa,True,citizenship,high
+Africa|female|high,Q78170460,Shade Omoniyi,Nigerian business executive,female,Q1033,1971-01-01,Q868203,8,Lepa Shandy,,Africa,Africa,True,citizenship,high
+Africa|female|high,Q126456149,Delvine Relin Meringor,Romanian athlete,female,Q114|Q218,1992-08-01,Q590860,7,Delvine Relin Meringor,Q114,Africa,Africa,True,birthplace,high
+Africa|male|low,Q21067225,Casper Viviers,Namibian rugby union player,male,Q1030,1988-06-01,Q3935,3,Casper Viviers,,Africa,Africa,True,citizenship,low
+Africa|male|low,Q4855853,Banjo Mosele,"Guitarist, singer and composer born in Kanye, Botswana.",male,Q963,1960-04-01,,3,Banjo Mosele,,Africa,Africa,True,citizenship,low
+Africa|male|low,Q3616552,Andy Marinos,Zimbabwean rugby union and rugby league footballer,male,Q258,1972-11-13,Q3921,2,Andy Marinos,,Africa,Africa,True,citizenship,low
+Africa|male|low,Q34484743,Mulugetta Tadesse,Ethiopian sprinter,male,Q115,1946-07-24,,3,Mulugetta Tadesse,,Africa,Africa,True,citizenship,low
+Africa|male|low,Q24289831,Émile Gros Raymond Nakombo,politician,male,Q929,1956-12-03,Q544701,2,Émile Gros Raymond Nakombo,,Africa,Africa,True,citizenship,low
+Africa|male|medium,Q3098492,Garry Pagel,South African rugby union footballer,male,Q258,1966-09-17,Q1016100,6,Garry Pagel,,Africa,Africa,True,citizenship,medium
+Africa|male|medium,Q96360117,Moustafa Darwish,Egyptian actor (1980–2023),male,Q79,1980-01-11,Q335708,4,Moustafa Darwish,,Africa,Africa,True,citizenship,medium
+Africa|male|medium,Q3484373,Simon Mboso Kiamputu,Congolese politician,male,Q974,1949-06-22,Q3196921,4,Simon Mboso Kiamputu,,Africa,Africa,True,citizenship,medium
+Africa|male|medium,Q519792,Wilfred Osuji,Nigerian footballer,male,Q1033,1990-08-05,Q8673,6,Wilfred Osuji,,Africa,Africa,True,citizenship,medium
+Africa|male|medium,Q3511425,Mohammed Abacha,Eldest surviving son of Sani Abacha,male,Q1033,1953-01-01,,6,Mohammed Abacha,,Africa,Africa,True,citizenship,medium
+Africa|male|high,Q105923530,Josué Doké,Togolese footballer,male,Q945,2004-04-20,Q3792,9,Josué Doké,,Africa,Africa,True,citizenship,high
+Africa|male|high,Q726765,Nando Maria Neves,Cape Verdean association football player,male,Q1011,1978-06-09,Q3751,12,Nando Maria Neves,,Africa,Africa,True,citizenship,high
+Africa|male|high,Q28457144,Bright Tetteh Ackwerh,Ghanaian satirical artist,male,Q117,1989-01-01,Q3761,7,Bright Tetteh Ackwerh,,Africa,Africa,True,citizenship,high
+Africa|male|high,Q18921300,Ahmed El-Ahmar,Egyptian handball player,male,Q79,1984-01-27,Q85,12,Ahmed El-Ahmar,,Africa,Africa,True,citizenship,high
+Africa|male|high,Q72134904,Aguibou Camara,Guinean football player,male,Q1006,2001-05-20,Q1006,18,Aguibou Camara,,Africa,Africa,True,citizenship,high
+Asia|female|low,Q56867952,Sushila Samad,"adivasi Hindi poet (b. 1906, d. 1960)",female,Q668,1906-06-07,,3,Sushila Samad,,Asia,Asia,True,citizenship,low
+Asia|female|low,Q8062733,Yūki Akiyoshi,bowler,female,Q17,1985-10-02,,2,Yūki Akiyoshi,,Asia,Asia,False,citizenship,low
+Asia|female|low,Q11646175,Sawako Noma,Japanese publisher (1943-2011),female,Q17|Q188712,1943-07-27,Q212713,2,Sawako Noma,,Asia,Asia,False,citizenship,low
+Asia|female|low,Q110221846,Hardeep Kaur,Indian athlete,female,Q668,1977-02-17,,3,Hardeep Kaur,,Asia,Asia,True,citizenship,low
+Asia|female|low,Q120490663,Kübra Kocakuş,Turkish mixed martial artist (born 1996),female,Q43,1996-07-24,,3,Kübra Kocakuş,,Asia,Asia,True,citizenship,low
+Asia|female|low,Q66841200,Kundyz Kozhakhmet,Kazakhstani footballer,female,Q232,1999-03-04,,3,Kundyz Kozhakhmet,,Asia,Asia,True,citizenship,low
+Asia|female|medium,Q486119,Jang Youngran,South Korean television personality,female,Q884,1979-09-19,,5,Jang Young-ran,,Asia,Asia,True,citizenship,medium
+Asia|female|medium,Q87961413,Phulo Devi Netam,Indian politician,female,Q668,1972-01-10,,4,Phulo Devi Netam,,Asia,Asia,True,citizenship,medium
+Asia|female|medium,Q28188179,Janine Berdin,Filipina singer-songwriter (born 2002),female,Q928,2002-01-28,Q574903,6,Janine Berdin,,Asia,Asia,True,citizenship,medium
+Asia|female|medium,Q16734536,Chinna Pillai,Indian microfinancier,female,Q668,1965-01-01,,6,Chinna Pillai,,Asia,Asia,True,citizenship,medium
+Asia|female|medium,Q136657195,Tai Zhien,Chinese speed skater (born 2006),female,Q148,2006-09-30,,4,Tai Zhien,,Asia,Asia,True,citizenship,medium
+Asia|female|medium,Q63967969,Lekshmi Krishnamoorthy,prominent character actress in Malayalam films,female,Q668,1928-01-01,,5,Lekshmi Krishnamoorthy,,Asia,Asia,True,citizenship,medium
+Asia|female|high,Q4683038,Aditi Mangaldas,Indian dancer and choreographer,female,Q668,1960-01-01,Q1061,11,Aditi Mangaldas,,Asia,Asia,True,citizenship,high
+Asia|female|high,Q6809160,Megumi,"Japanese actress, gravure idol, singer",female,Q17,1981-09-25,Q467487,9,Megumi (actress),,Asia,Asia,False,citizenship,high
+Asia|female|high,Q3063272,Mariko Masubuchi,Olympic softball player,female,Q17,1980-01-24,Q44843,7,Mariko Masubuchi,,Asia,Asia,False,citizenship,high
+Asia|female|high,Q1042804,Asami Imai,Japanese voice actress and singer,female,Q17,1977-05-16,Q7473516,19,Asami Imai,,Asia,Asia,False,citizenship,high
+Asia|female|high,Q20041436,Tsend-Ayush Naranjargal,Mongol judoka,female,Q711,1992-01-27,Q711,9,Naranjargal Tsend-Ayush,,Asia,Asia,True,citizenship,high
+Asia|female|high,Q21212816,Sona Van,Armenian poet,female,Q15180|Q30|Q399,1952-02-08,Q1953,8,Sona Van,Q399|Q18234383|Q2622868|Q12560,Asia,Asia,True,birthplace,high
+Asia|male|low,Q6017054,Cafer Sadık Kutlay,Turkish statesperson (1912–1988),male,Q12560|Q43,1912-01-01,Q485575,2,Sadık Kutlay,,Asia,Asia,True,citizenship,low
+Asia|male|low,Q70232462,Ahmad Shariatzadeh,Iranian association football player,male,Q794,2002-07-01,Q63049,3,Ahmad Shariatzadeh,,Asia,Asia,True,citizenship,low
+Asia|male|low,Q5340442,Eduard Mazula,Kazakhstani ice hockey player,male,Q232,1990-03-21,Q484706,2,Eduard Mazula,,Asia,Asia,True,citizenship,low
+Asia|male|low,Q7360593,Rolando Uy,Filipino politician,male,Q928,1954-07-05,,1,Rolando Uy,,Asia,Asia,True,citizenship,low
+Asia|male|low,Q28151681,Anwar Mohamed,Yemeni middle-distance runner,male,Q805,1976-12-06,,2,Anwar Mohamed (athlete),,Asia,Asia,True,citizenship,low
+Asia|male|low,Q3478048,Selahattin Çolak,Turkish statesperson (born 2000),male,Q43,2000-01-01,Q38545,3,Selahattin Çolak,,Asia,Asia,True,citizenship,low
+Asia|male|medium,Q2067728,Pejman Dorostkar,Iranian wrestler,male,Q794,1976-08-18,Q3616,6,Pejman Dorostkar,,Asia,Asia,True,citizenship,medium
+Asia|male|medium,Q4263087,Jockie Soerjoprajogo,Indonesian musician and songwriter (1954–2018),male,Q252,1954-09-14,Q3874044,5,Jockie Soerjoprajogo,,Asia,Asia,True,citizenship,medium
+Asia|male|medium,Q100744149,Garegin Poghosyan,Armenian military personnel,male,Q399,1982-02-23,Q12871351,6,Garegin Poghosyan,,Asia,Asia,True,citizenship,medium
+Asia|male|medium,Q16047301,Valiollah Momeni,Iranian Actor,male,Q794,1943-05-31,Q180103,5,Valiollah Momeni,,Asia,Asia,True,citizenship,medium
+Asia|male|medium,Q30926748,Isileli Nakajima,Japanese rugby union footballer,male,Q17,1989-07-09,Q678,4,Isileli Nakajima,,Asia,Asia,False,citizenship,medium
+Asia|male|high,Q623471,Lee Lim-saeng,South Korean footballer,male,Q884,1971-11-18,Q20934,17,Lee Lim-saeng,,Asia,Asia,True,citizenship,high
+Asia|male|high,Q7649788,Susumu Kurobe,Japanese actor,male,Q17,1939-10-22,Q753864,10,Susumu Kurobe,,Asia,Asia,False,citizenship,high
+Asia|male|high,Q14917442,Rizky Pellu,Indonesian footballer,male,Q252,1992-06-26,Q10392,8,Rizky Pellu,,Asia,Asia,True,citizenship,high
+Asia|male|high,Q4116661,Hooshang Kamkar,Iranian musician,male,Q794,1946-01-01,Q272093,7,Hooshang Kamkar,,Asia,Asia,True,citizenship,high
+Asia|male|high,Q189449,Yossi Benayoun,Israeli association football player (born 1980),male,Q801,1980-05-05,Q152396,48,Yossi Benayoun,,Asia,Asia,False,citizenship,high
+Asia|male|high,Q16388469,Hmayak Siras,"writer, editor, translator",male,Q15180,1902-02-15,Q199575,9,Hmayak Siras,Q43,Asia,Asia,True,birthplace,high
+Europe|female|low,Q5550464,Gerd Vollum,Norwegian politician (1920–2009),female,Q20,1920-07-18,,1,Gerd Vollum,,Europe,Europe,False,citizenship,low
+Europe|female|low,Q111309582,Beya Gille Gacha,French sculptor,female,Q142,1990-01-01,,2,Beya Gille Gacha,,Europe,Europe,False,citizenship,low
+Europe|female|low,Q6376186,"Katharine Fraser, 22nd Lady Saltoun",Scottish noble,female,Q145,1957-10-11,Q23436,3,"Katharine Fraser, 22nd Lady Saltoun",,Europe,Europe,False,citizenship,low
+Europe|female|low,Q6678705,Lora Grosu,Moldovan politician,female,Q217,1959-09-14,,2,Lora Grosu,,Europe,Europe,False,citizenship,low
+Europe|female|low,Q20004370,Kate Quilton,British television presenter,female,Q145,1983-11-30,Q175632,3,Kate Quilton,,Europe,Europe,False,citizenship,low
+Europe|female|medium,Q24701054,Cecilia Damström,Finnish composer,female,Q33,1988-07-28,Q1757,4,Cecilia Damström,,Europe,Europe,False,citizenship,medium
+Europe|female|medium,Q21155672,Vittoria Valmaggia,Italian artist (1944–2009),female,Q172579|Q38,1944-03-29,Q51871,5,Vittoria Valmaggia,,Europe,Europe,False,citizenship,medium
+Europe|female|medium,Q63005139,Ellie Mason,English association football player (born 1996),female,Q145,1996-02-16,,5,Ellie Mason,,Europe,Europe,False,citizenship,medium
+Europe|female|medium,Q19787068,Valentina Orlova,Russian association football player,female,Q159,1993-04-19,Q159,5,Valentina Orlova,,Europe,Europe,False,citizenship,medium
+Europe|female|medium,Q40997976,Jessica Tatti,German politician,female,Q183,1981-04-22,Q61890,4,Jessica Tatti,,Europe,Europe,False,citizenship,medium
+Europe|female|high,Q43371144,Esmee Visser,Dutch speedskater,female,Q29999,1996-01-27,Q43631,22,Esmee Visser,,Europe,Europe,False,citizenship,high
+Europe|female|high,Q4010189,Veronica Maya,Italian model and television presenter,female,Q38,1977-07-14,Q90,8,Veronica Maya,,Europe,Europe,False,citizenship,high
+Europe|female|high,Q19364345,Katerina Tikhonova,second child and daughter of Vladimir Putin,female,Q159,1986-08-31,Q1731,28,Katerina Tikhonova,,Europe,Europe,False,citizenship,high
+Europe|female|high,Q2700682,Anna Frithioff,Swedish sportswoman,female,Q34,1962-12-04,Q194353,9,Anna Frithioff,,Europe,Europe,False,citizenship,high
+Europe|female|high,Q7487,Dorothy Hodgkin,British chemist,female,Q145,1910-05-12,Q85,108,Dorothy Hodgkin,,Europe,Europe,False,citizenship,high
+Europe|male|low,Q4721584,Aleš Depta,fencer,male,Q33946,1964-10-28,Q8385,2,Aleš Depta,,Europe,Europe,False,citizenship,low
+Europe|male|low,Q16208582,Roy Dickinson,English rugby league footballer and coach,male,Q145,1956-10-21,Q39121,2,Roy Dickinson,,Europe,Europe,False,citizenship,low
+Europe|male|low,Q2389584,Stéphane Delplace,French composer,male,Q142,1953-11-11,Q1479,3,Stéphane Delplace,,Europe,Europe,False,citizenship,low
+Europe|male|low,Q4706624,Alan Fisher,British trade unionist (1922–1988),male,Q145,1922-06-20,Q2256,1,Alan Fisher (trade unionist),,Europe,Europe,False,citizenship,low
+Europe|male|low,Q5534008,Geof Courtenay,English cricketer (1921-1980),male,Q145|Q174193,1921-12-16,Q1235842,3,Geof Courtenay,,Europe,Europe,False,citizenship,low
+Europe|male|low,Q65095483,Álvaro Gijón,Spanish cross-country skier,male,Q29,1976-04-27,Q8810,3,Álvaro Gijón,,Europe,Europe,False,citizenship,low
+Europe|male|medium,Q4206566,Maksim Kabanov,Russian footballer,male,Q159,1982-12-30,Q649,4,Maksim Kabanov,,Europe,Europe,False,citizenship,medium
+Europe|male|medium,Q7036300,Nikolay Nikolov,Bulgarian pole vaulter,male,Q219,1964-10-15,,4,Nikolay Nikolov (pole vaulter),,Europe,Europe,False,citizenship,medium
+Europe|male|medium,Q15332503,Max Dauphin,Luxembourg painter,male,Q32,1977-08-26,Q1842,5,Max Dauphin,,Europe,Europe,False,citizenship,medium
+Europe|male|medium,Q1452751,Thierry Audel,French footballer,male,Q142,1987-01-15,Q33959,5,Thierry Audel,,Europe,Europe,False,citizenship,medium
+Europe|male|medium,Q14458148,Knut Olsson,politician,male,Q34,1907-11-04,Q10718358,4,Knut Olsson,,Europe,Europe,False,citizenship,medium
+Europe|male|high,Q1268192,Dušan Milo,Slovak ice hockey player,male,Q214,1973-03-05,Q26397,12,Dušan Milo,,Europe,Europe,False,citizenship,high
+Europe|male|high,Q3361248,Martin Laamers,Dutch footballer (1967–2025),male,Q29999,1967-08-02,Q1310,7,Martin Laamers,,Europe,Europe,False,citizenship,high
+Europe|male|high,Q285654,Philippe Jullian,French writer (1919–1977),male,Q142,1919-07-11,Q1479,8,Philippe Jullian,,Europe,Europe,False,citizenship,high
+Europe|male|high,Q27927282,Leonardo Pulcini,Italian racing driver,male,Q38,1998-06-25,Q220,11,Leonardo Pulcini,,Europe,Europe,False,citizenship,high
+Europe|male|high,Q925663,Ján Pivarník,Slovak footballer,male,Q33946,1947-11-13,Q512011,23,Ján Pivarník,,Europe,Europe,False,citizenship,high
+Europe|male|high,Q2538800,Viktor Vlasov,basketball player (1925–2002),male,Q15180|Q159,1925-11-01,Q649,16,Viktor Vlasov (basketball),Q159,Europe,Europe,False,birthplace,high
+Latin America & Caribbean|female|low,Q18704854,María Teresa Álvarez Vázquez,Mexican politician,female,Q96,1965-06-12,Q82112,2,María Teresa Álvarez Vázquez,,Latin America & Caribbean,Central America,True,citizenship,low
+Latin America & Caribbean|female|low,Q16189490,María Lucero Saldaña,Mexican politician,female,Q96,1957-01-18,Q125293,3,María Lucero Saldaña,,Latin America & Caribbean,Central America,True,citizenship,low
+Latin America & Caribbean|female|low,Q110112123,Paola Vessvessian,Argentine politician,female,Q414,1971-03-19,Q44242,3,Paola Vessvessian,,Latin America & Caribbean,South America,True,citizenship,low
+Latin America & Caribbean|female|low,Q107116489,Karen Vega,Mexican model,female,Q96,2001-08-24,Q34110,3,Karen Vega,,Latin America & Caribbean,Central America,True,citizenship,low
+Latin America & Caribbean|female|low,Q18686260,Erika Galván Rivas,Mexican politician,female,Q96,1978-11-14,Q82112,2,Erika Galván Rivas,,Latin America & Caribbean,Central America,True,citizenship,low
+Latin America & Caribbean|female|low,Q6003681,,"Chilean actress, author, screenwriter",female,Q298,1927-01-01,Q14440,3,María Elena Gertner,,Latin America & Caribbean,South America,True,citizenship,low
+Latin America & Caribbean|female|medium,Q42400438,Lucía Garibaldi,Uruguayan film director,female,Q77,1986-01-01,Q1335,4,Lucía Garibaldi,,Latin America & Caribbean,South America,True,citizenship,medium
+Latin America & Caribbean|female|medium,Q21181211,Alison Heydorn,Guyanese association football player,female,Q734,1984-12-05,Q734,5,Alison Heydorn,,Latin America & Caribbean,South America,True,citizenship,medium
+Latin America & Caribbean|female|medium,Q85870302,Carol Biazin,Brazilian singer-songwriter and instrumentalist,female,Q155,1997-04-22,Q15499|Q652176,4,Carol Biazin,,Latin America & Caribbean,South America,True,citizenship,medium
+Latin America & Caribbean|female|medium,Q65403010,Katherine Castillo,Panamanian association football player,female,Q804,1996-03-23,Q3306,5,Katherine Castillo,,Latin America & Caribbean,Central America,True,citizenship,medium
+Latin America & Caribbean|female|medium,Q440306,Gladys Castelvecchi,Uruguayan writer (1922–2008),female,Q77,1922-11-26,Q1017387|Q16582,6,Gladys Castelvecchi,,Latin America & Caribbean,South America,True,citizenship,medium
+Latin America & Caribbean|female|medium,Q6067414,Paula Woyzechowsky,Venezuelan actress,female,Q717,1980-05-12,Q1533,5,Paula Woyzechowsky,,Latin America & Caribbean,South America,True,citizenship,medium
+Latin America & Caribbean|female|high,Q30905658,Andrea Ramírez Vargas,Colombian taekwondoin,female,Q739,1998-09-04,Q989996,7,Andrea Ramírez (taekwondo),,Latin America & Caribbean,South America,True,citizenship,high
+Latin America & Caribbean|female|high,Q18466166,Isabella Santoni,Brazilian actress,female,Q155,1995-05-06,Q983459,8,Isabella Santoni,,Latin America & Caribbean,South America,True,citizenship,high
+Latin America & Caribbean|female|high,Q27978622,Victoria Alonsopérez,Uruguayan electronics and telecommunication engineer and entrepreneur,female,Q77,1987-10-22,Q77,11,Victoria Alonsoperez,,Latin America & Caribbean,South America,True,citizenship,high
+Latin America & Caribbean|female|high,Q291268,Samadhi Zendejas,Mexican actress and model,female,Q96,1994-12-27,Q1489,12,Samadhi Zendejas,,Latin America & Caribbean,Central America,True,citizenship,high
+Latin America & Caribbean|female|high,Q463288,María Sumire,Peruvian politician,female,Q419,1951-04-09,Q4419079,9,María Sumire,,Latin America & Caribbean,South America,True,citizenship,high
+Latin America & Caribbean|female|high,Q9097424,Zaida Muxí,Argentine architect and city planner,female,Q414,1964-01-01,Q1486,9,Zaida Muxí,,Latin America & Caribbean,South America,True,citizenship,high
+Latin America & Caribbean|male|low,Q5042191,Carlos Humberto Cabrera,Colombian racing cyclist,male,Q739,1973-11-28,,2,Carlos Humberto Cabrera,,Latin America & Caribbean,South America,True,citizenship,low
+Latin America & Caribbean|male|low,Q16302537,Eduardo Solari,Argentinian association football player,male,Q414,1950-10-12,Q52535,3,Eduardo Solari,,Latin America & Caribbean,South America,True,citizenship,low
+Latin America & Caribbean|male|low,Q10294819,Henrique Pizzolato,Militant of the Workers Party (PT) .,male,Q155,1952-09-09,Q749798,2,Henrique Pizzolato,,Latin America & Caribbean,South America,True,citizenship,low
+Latin America & Caribbean|male|low,Q130456133,Alejandro Arcos,Mexican politician,male,Q96,1981-02-12,Q207935,2,Alejandro Arcos,,Latin America & Caribbean,Central America,True,citizenship,low
+Latin America & Caribbean|male|low,Q9593161,Airton Ravagniani,Brazilian association football player (1959-2019),male,Q155,1959-05-19,Q174,2,Aírton Ravagniani,,Latin America & Caribbean,South America,True,citizenship,low
+Latin America & Caribbean|male|low,Q2939369,Carlos Huneeus,Chilean academic,male,Q298,1947-01-01,Q2887,3,Carlos Huneeus,,Latin America & Caribbean,South America,True,citizenship,low
+Latin America & Caribbean|male|medium,Q19571601,Kemoy Campbell,Jamaican distance runner,male,Q766,1991-01-14,Q1807660,6,Kemoy Campbell,,Latin America & Caribbean,Caribbean,True,citizenship,medium
+Latin America & Caribbean|male|medium,Q10299782,Idalino Monges,Paraguayan association football player,male,Q733,1940-06-05,Q135975,5,Idalino Monges,,Latin America & Caribbean,South America,True,citizenship,medium
+Latin America & Caribbean|male|medium,Q6525961,Leonardo Da Silva Costa,footballer,male,Q155,1985-03-09,Q155,6,Léo Carioca,,Latin America & Caribbean,South America,True,citizenship,medium
+Latin America & Caribbean|male|medium,Q12200946,Raimundo Soto,Uruguayan actor,male,Q77,1914-01-01,Q1335,5,Raimundo Soto,,Latin America & Caribbean,South America,True,citizenship,medium
+Latin America & Caribbean|male|medium,Q2918085,Julio Gallardo,Chilean association football player,male,Q298,1942-05-16,Q201019,5,Julio Gallardo (footballer),,Latin America & Caribbean,South America,True,citizenship,medium
+Latin America & Caribbean|male|medium,Q16214064,Luis Antonio Macias Lozano,Mexican footballer,male,Q96,1972-10-26,Q189128,4,Luis Macias (Mexican footballer),,Latin America & Caribbean,Central America,True,citizenship,medium
+Latin America & Caribbean|male|high,Q3067895,Federico Browne,Argentine tennis player,male,Q414,1976-04-07,Q1486,9,Federico Browne,,Latin America & Caribbean,South America,True,citizenship,high
+Latin America & Caribbean|male|high,Q19581,Rafael Correa,President of Ecuador (2007 - 2017) y Prófugo de la Justicia,male,Q736,1963-04-06,Q43509,173,Rafael Correa,,Latin America & Caribbean,South America,True,citizenship,high
+Latin America & Caribbean|male|high,Q6300302,Juan Manuel Azconzábal,Argentine footballer,male,Q414,1974-09-08,Q1020277,9,Juan Manuel Azconzábal,,Latin America & Caribbean,South America,True,citizenship,high
+Latin America & Caribbean|male|high,Q2436717,Luis Cequeira,Argentine basketball player (born 1985),male,Q414,1985-02-04,Q44206,7,Luis Cequeira,,Latin America & Caribbean,South America,True,citizenship,high
+Latin America & Caribbean|male|high,Q347510,Jésus Sinisterra,Colombian footballer,male,Q739,1975-09-12,Q816420,10,Jésus Sinisterra,,Latin America & Caribbean,South America,True,citizenship,high
+Northern America|female|low,Q16151747,Nancy Guthrie,American politician,female,Q30,1952-06-15,Q754475,2,Nancy Peoples Guthrie,,Northern America,Northern America,False,citizenship,low
+Northern America|female|low,Q130086352,Catherine Breed,American swimmer,female,Q30,1993-03-22,Q747444,2,Catherine Breed,,Northern America,Northern America,False,citizenship,low
+Northern America|female|low,Q5248509,Debra Saunders,American journalist,female,Q30,1954-01-01,,2,Debra Saunders,,Northern America,Northern America,False,citizenship,low
+Northern America|female|low,Q50131690,Eileen Sullivan,Pulitzer Prize winning journalist,female,Q30,1977-01-01,Q88,3,Eileen Sullivan,,Northern America,Northern America,False,citizenship,low
+Northern America|female|low,Q5289514,Dolores Della Penna,Murdered American child (1954–1972),female,Q30,1954-12-13,,2,Murder of Dolores Della Penna,,Northern America,Northern America,False,citizenship,low
+Northern America|female|low,Q4681875,Adele Cohen,American politician (1942–),female,Q30,1942-07-19,Q60,3,Adele Cohen,,Northern America,Northern America,False,citizenship,low
+Northern America|female|medium,Q7416530,Sandra Alcosser,American poet | academic,female,Q30,1944-02-03,Q61,4,Sandra Alcosser,,Northern America,Northern America,False,citizenship,medium
+Northern America|female|medium,Q116687449,Chloe Domont,film director,female,Q30,1987-09-02,Q65,6,Chloe Domont,,Northern America,Northern America,False,citizenship,medium
+Northern America|female|medium,Q5297963,Doris McLemore,Last speaker of the Wichita language (1927-2016),female,Q30,1927-04-16,Q483647,4,Doris McLemore,,Northern America,Northern America,False,citizenship,medium
+Northern America|female|medium,Q16204605,Maggie Carey,American director and screenwriter,female,Q30,1977-01-01,,5,Maggie Carey,,Northern America,Northern America,False,citizenship,medium
+Northern America|female|medium,Q11986789,Loret Miller Ruppe,American diplomat (1936-1996),female,Q30,1936-01-03,Q37836,4,Loret Miller Ruppe,,Northern America,Northern America,False,citizenship,medium
+Northern America|female|high,Q3978236,Susan Werner,American musician,female,Q30,1965-04-06,Q1657590,7,Susan Werner,,Northern America,Northern America,False,citizenship,high
+Northern America|female|high,Q276408,Kiana Tom,"American television host, fitness expert, author, actress, and businesswoman",female,Q30,1965-03-14,Q188705,10,Kiana Tom,,Northern America,Northern America,False,citizenship,high
+Northern America|female|high,Q11834523,Crystal R. Fox,American actress and singer,female,Q30,1964-01-01,Q2029202,10,Crystal R. Fox,,Northern America,Northern America,False,citizenship,high
+Northern America|female|high,Q533128,Julie Felix,American musician (1938–2020),female,Q30,1938-06-14,Q159288,19,Julie Felix,,Northern America,Northern America,False,citizenship,high
+Northern America|female|high,Q455563,Measha Brueggergosman-Lee,singer,female,Q16,1977-06-28,Q2138,11,Measha Brueggergosman-Lee,,Northern America,Northern America,False,citizenship,high
+Northern America|male|low,Q6912540,Morley Kells,politician and lacrosse player,male,Q16,1936-01-26,Q1020159,1,Morley Kells,,Northern America,Northern America,False,citizenship,low
+Northern America|male|low,Q6709200,Lynn Scott,American football player (born 1977),male,Q30,1977-06-23,Q3474210,3,Lynn Scott,,Northern America,Northern America,False,citizenship,low
+Northern America|male|low,Q5225253,Darren Wyse,American professional wrestler,male,Q30,1965-06-18,Q821105,2,Darren Wyse,,Northern America,Northern America,False,citizenship,low
+Northern America|male|low,Q6524895,Leon Sirois,American racing driver,male,Q30,1935-04-16,,2,Leon Sirois,,Northern America,Northern America,False,citizenship,low
+Northern America|male|low,Q18926894,,American architect,male,Q30,1926-01-01,,1,Edward P. Denning,,Northern America,Northern America,False,citizenship,low
+Northern America|male|low,Q4711242,,American jockey (1921-1948),male,Q30,1921-10-22,Q36312,3,Albert Snider,,Northern America,Northern America,False,citizenship,low
+Northern America|male|medium,Q29634719,Darryl A. Williams,U.S. Army general,male,Q30,1961-06-22,Q88,5,Darryl A. Williams,,Northern America,Northern America,False,citizenship,medium
+Northern America|male|medium,Q2361439,Raymond Hamilton,American gangster (1913–1935),male,Q30,1913-05-21,Q1649,5,Raymond Hamilton,,Northern America,Northern America,False,citizenship,medium
+Northern America|male|medium,Q16014400,Charles Hornig,writer (1916-1999),male,Q30,1916-05-25,,4,Charles Hornig,,Northern America,Northern America,False,citizenship,medium
+Northern America|male|medium,Q3147234,Ian Blurton,Canadian musician and record producer,male,Q16,1965-01-01,Q577964,5,Ian Blurton,,Northern America,Northern America,False,citizenship,medium
+Northern America|male|medium,Q11684720,Jeremiah Green,American drummer (1977–2022),male,Q30,1977-03-04,Q131347,5,Jeremiah Green,,Northern America,Northern America,False,citizenship,medium
+Northern America|male|medium,Q2903125,Bill Blaikie,Canadian politician (1951–2022),male,Q16,1951-06-19,Q2135,6,Bill Blaikie,,Northern America,Northern America,False,citizenship,medium
+Northern America|male|high,Q711066,Robert Jay Lifton,American psychiatrist and author (1926–2025),male,Q30,1926-05-16,Q18419,26,Robert Jay Lifton,,Northern America,Northern America,False,citizenship,high
+Northern America|male|high,Q42598,Ted DiBiase Jr.,American professional wrestler and actor,male,Q30,1982-11-08,Q28218,33,Ted DiBiase Jr.,,Northern America,Northern America,False,citizenship,high
+Northern America|male|high,Q555774,West Arkeen,American singer-songwriter,male,Q30,1960-06-18,Q48958,9,West Arkeen,,Northern America,Northern America,False,citizenship,high
+Northern America|male|high,Q3930041,Randy Breuer,American basketball player (born 1960),male,Q30,1960-10-11,Q986636,12,Randy Breuer,,Northern America,Northern America,False,citizenship,high
+Northern America|male|high,Q715571,Roy Halladay,American Hall of Fame baseball player (1977-2017),male,Q30,1977-05-14,Q16554,23,Roy Halladay,,Northern America,Northern America,False,citizenship,high
+Oceania|female|low,Q6394766,Kerstin Thompson,architect,female,Q408|Q664,1965-01-01,,3,Kerstin Thompson,,Oceania,Oceania,False,citizenship,low
+Oceania|female|low,Q6167887,Jayne Jagot,Australian judge,female,Q408,1965-06-19,,2,Jayne Jagot,,Oceania,Oceania,False,citizenship,low
+Oceania|female|low,Q11835331,Leigh Hamilton,American actress (1949-2012),female,Q30|Q664,1949-12-20,Q758634,3,Leigh Hamilton,Q664,Oceania,Oceania,False,birthplace,low
+Oceania|female|low,Q93728375,Giselle Byrnes,New Zealand historian,female,Q664,1967-07-17,,3,Giselle Byrnes,,Oceania,Oceania,False,citizenship,low
+Oceania|female|low,Q7364600,Rona Tong,New Zealand hurdler (1916-2016),female,Q664,1916-08-22,Q1015690,3,Rona Tong,,Oceania,Oceania,False,citizenship,low
+Oceania|female|medium,Q97372300,Kim Farrant,Australian film director,female,Q408,1975-09-07,Q3141,4,Kim Farrant,,Oceania,Oceania,False,citizenship,medium
+Oceania|female|medium,Q97744058,Ally Green,New Zealand-Australian association football player,female,Q408|Q664,1998-08-17,Q5189586,5,Ally Green,,Oceania,Oceania,False,citizenship,medium
+Oceania|female|medium,Q5460569,Florence Bjelke-Petersen,Australian politician,female,Q408,1920-08-11,Q34932,4,Florence Bjelke-Petersen,,Oceania,Oceania,False,citizenship,medium
+Oceania|female|medium,Q16728307,Joyce Currie,cricketer (1933-2012),female,Q664,1933-01-01,,5,Joyce Currie,,Oceania,Oceania,False,citizenship,medium
+Oceania|female|medium,Q26236261,Joan Winch,Indigenous Australian nurse (1935–2022),female,Q408,1935-06-09,Q3183,6,Joan Winch,,Oceania,Oceania,False,citizenship,medium
+Oceania|female|high,Q2914330,Leiston Pickett,"Australian swimmer, Olympic athlete, Commonwealth Games gold medallist",female,Q408,1992-02-06,Q140075,9,Leiston Pickett,,Oceania,Oceania,False,citizenship,high
+Oceania|female|high,Q460187,Juliet Marillier,New Zealand fiction writer (born 1948),female,Q664,1948-07-27,Q133073,10,Juliet Marillier,,Oceania,Oceania,False,citizenship,high
+Oceania|female|high,Q5043459,Carmen Duncan,Australian actress,female,Q408,1942-07-07,Q1129726,9,Carmen Duncan,,Oceania,Oceania,False,citizenship,high
+Oceania|female|high,Q515132,Constance Worth,Australian actress (1911-1963),female,Q408,1911-08-19,Q3130,12,Constance Worth,,Oceania,Oceania,False,citizenship,high
+Oceania|female|high,Q17000830,Alison Marjorie Ashby,Australian botanical artist and plant collector (1901-1987),female,Q408,1901-02-07,Q7053663,9,Alison Marjorie Ashby,,Oceania,Oceania,False,citizenship,high
+Oceania|female|high,Q770789,Johanna Konta,British female tennis player,female,Q145|Q408,1991-05-17,Q3130,39,Johanna Konta,Q408,Oceania,Oceania,False,birthplace,high
+Oceania|male|low,Q5569010,Glenn Moore,New Zealand rugby union footballer and coach,male,Q664,1959-09-25,Q7677248,2,Glenn Moore (rugby union),,Oceania,Oceania,False,citizenship,low
+Oceania|male|low,Q6286305,Joseph Pombo,Papua New Guinean rugby league footballer,male,Q664,1983-01-01,Q1017120,2,Joseph Pombo,,Oceania,Oceania,False,citizenship,low
+Oceania|male|low,Q3484362,Simon Mannix,New Zealand rugby union footballer and coach,male,Q664,1971-08-10,Q1015681,3,Simon Mannix,,Oceania,Oceania,False,citizenship,low
+Oceania|male|low,Q18165959,Frank Pryor,Australian public servant,male,Q408,1919-11-01,Q917556,1,Frank Pryor,,Oceania,Oceania,False,citizenship,low
+Oceania|male|low,Q7292840,Ranginui Walker,New Zealand writer and academic (1932–2016),male,Q664,1932-03-01,Q2192924,3,Ranginui Walker,,Oceania,Oceania,False,citizenship,low
+Oceania|male|low,Q5294163,Donald Maclurcan,Australian architect (1918–1999),male,Q408,1918-01-01,,2,Donald Maclurcan,,Oceania,Oceania,False,citizenship,low
+Oceania|male|medium,Q7307733,Reg Bishop,Australian politician (1913–1999),male,Q408,1913-02-04,Q5112,4,Reg Bishop,,Oceania,Oceania,False,citizenship,medium
+Oceania|male|medium,Q1623225,Jamie Croft,Australian actor,male,Q408,1981-08-04,Q3130,5,Jamie Croft,,Oceania,Oceania,False,citizenship,medium
+Oceania|male|medium,Q43379775,Campbell Johnstone,Australian rower,male,Q408,2000-01-01,http://www.wikidata.org/.well-known/genid/1bb0ac904a32b3cd496c94d495f4dcce,4,Campbell Johnston,,Oceania,Oceania,False,citizenship,medium
+Oceania|male|medium,Q109529971,Timothy Norton,Roman Catholic clergyman,male,Q408,1958-07-24,Q3130,4,Tim Norton,,Oceania,Oceania,False,citizenship,medium
+Oceania|male|medium,Q2754187,Paul Gilding,environmentalist,male,Q408,1953-01-01,,4,Paul Gilding,,Oceania,Oceania,False,citizenship,medium
+Oceania|male|medium,Q16181230,Mundiya Kepanga,Papuan chief,male,Q691,1965-01-01,,4,Mundiya Kepanga,,Oceania,Oceania,True,citizenship,medium
+Oceania|male|high,Q966678,Joel Tobeck,New Zealand actor,male,Q664,1971-06-02,Q37100,10,Joel Tobeck,,Oceania,Oceania,False,citizenship,high
+Oceania|male|high,Q26276676,Alex Beddoes,New Zealand athletics competitor,male,Q664,1995-07-09,Q208948,8,Alex Beddoes,,Oceania,Oceania,False,citizenship,high
+Oceania|male|high,Q19668306,Robin Walker,video game designer,male,Q408,1976-01-01,,8,Robin Walker (game designer),,Oceania,Oceania,False,citizenship,high
+Oceania|male|high,Q507903,Athol Guy,Australian musician and politician,male,Q408,1940-01-05,Q1009509,7,Athol Guy,,Oceania,Oceania,False,citizenship,high
+Oceania|male|high,Q356411,John Gorton,"Australian politician, 19th Prime Minister of Australia (1911–2002)",male,Q408,1911-09-09,Q3141,41,John Gorton,,Oceania,Oceania,False,citizenship,high

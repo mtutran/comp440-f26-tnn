@@ -93,46 +93,68 @@ def fetch_birthplace_countries(qids):
     return out
 
 
-def main():
-    people = pd.read_csv(IN_PATH, dtype=str)
-    to_modern, regions = load_country_map()
+def modern_of(qids, to_modern, unmapped):
+    """Map citizenship/country QIDs to modern countries; record unmapped QIDs."""
+    modern = set()
+    for q in qids:
+        if q in to_modern:
+            modern |= set(to_modern[q])
+        else:
+            unmapped.add(q)
+    return modern
+
+
+def assign_person(cit_qids, birth_country_qids, to_modern, regions,
+                  unmapped_cit, unmapped_birth):
+    """Return {field: value, f"{field}_rule": rule} for one person (see module doc)."""
+    cit = modern_of(cit_qids, to_modern, unmapped_cit)
+    birth = modern_of(birth_country_qids, to_modern, unmapped_birth)
 
     def values(modern, field):
         return {regions.at[m, field] for m in modern if regions.at[m, field] != ""}
 
-    def modern_of(qids, unmapped):
-        modern = set()
-        for q in qids:
-            if q in to_modern:
-                modern |= set(to_modern[q])
-            else:
-                unmapped.add(q)
-        return modern
+    out = {}
+    for field in FIELDS:
+        from_cit, from_birth = values(cit, field), values(birth, field)
+        if len(from_cit) == 1:
+            value, rule = from_cit.pop(), "citizenship"
+        elif len(from_birth) == 1:
+            value, rule = from_birth.pop(), "birthplace"
+        else:
+            value = pd.NA if field == "global_south" else AMBIGUOUS
+            rule = AMBIGUOUS
+        out[field], out[f"{field}_rule"] = value, rule
+    return out
+
+
+def add_region_columns(people, cit_lists, birth_lists, to_modern, regions):
+    """Add region/region_detail/global_south (+ *_rule) columns to `people` in place.
+
+    cit_lists / birth_lists: per-row lists of citizenship / birthplace-country QIDs.
+    Returns (unmapped citizenship QIDs, unmapped birthplace-country QIDs).
+    """
+    unmapped_cit, unmapped_birth = set(), set()
+    rows = [assign_person(c, b, to_modern, regions, unmapped_cit, unmapped_birth)
+            for c, b in zip(cit_lists, birth_lists)]
+    for col in FIELDS + [f"{f}_rule" for f in FIELDS]:
+        people[col] = [r[col] for r in rows]
+    people["global_south"] = people["global_south"].map(
+        {"True": True, "False": False}).astype("boolean")
+    return unmapped_cit, unmapped_birth
+
+
+def main():
+    people = pd.read_csv(IN_PATH, dtype=str)
+    to_modern, regions = load_country_map()
 
     print("Fetching birthplace countries (P19 -> P17) ...")
     birth_countries = fetch_birthplace_countries(people["resolved_qid"].tolist())
 
-    unmapped_cit, unmapped_birth = set(), set()
-    out = {f: [] for f in FIELDS} | {f"{f}_rule": [] for f in FIELDS}
-    for _, p in people.iterrows():
-        cit = modern_of(split(p["citizenship_qids"]), unmapped_cit)
-        birth = modern_of(birth_countries.get(p["resolved_qid"], []), unmapped_birth)
-        for field in FIELDS:
-            from_cit, from_birth = values(cit, field), values(birth, field)
-            if len(from_cit) == 1:
-                value, rule = from_cit.pop(), "citizenship"
-            elif len(from_birth) == 1:
-                value, rule = from_birth.pop(), "birthplace"
-            else:
-                value = pd.NA if field == "global_south" else AMBIGUOUS
-                rule = AMBIGUOUS
-            out[field].append(value)
-            out[f"{field}_rule"].append(rule)
-
-    for f, col in out.items():
-        people[f] = col
-    people["global_south"] = people["global_south"].map(
-        {"True": True, "False": False}).astype("boolean")
+    unmapped_cit, unmapped_birth = add_region_columns(
+        people,
+        [split(c) for c in people["citizenship_qids"]],
+        [birth_countries.get(q, []) for q in people["resolved_qid"]],
+        to_modern, regions)
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     people.to_csv(OUT_PATH, index=False)
     print(f"Saved {len(people)} rows to {OUT_PATH.relative_to(ROOT)}\n")
