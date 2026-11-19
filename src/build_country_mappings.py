@@ -1,5 +1,9 @@
-"""Map every citizenship QID in data/processed/people_sample.csv to a country in
-data/reference/regions.csv. Run src/build_regions.py first.
+"""Map citizenship QIDs to countries in data/reference/regions.csv. Run
+src/build_regions.py first.
+
+QIDs mapped: every citizenship in data/processed/people_sample.csv, plus every value
+in data/reference/citizenship_counts.csv (from find_missing_citizenships.py) held by
+at least MIN_PEOPLE people in the candidate population.
 
 Outputs
   data/reference/country_aliases.csv     alias_qid, alias_label, country_qid
@@ -38,6 +42,8 @@ PEOPLE_PATH = ROOT / "data" / "processed" / "people_sample.csv"
 REGIONS_PATH = REF / "regions.csv"
 ALIASES_PATH = REF / "country_aliases.csv"
 HISTORICAL_PATH = REF / "historical_states.csv"
+COUNTS_PATH = REF / "citizenship_counts.csv"
+MIN_PEOPLE = 50  # map candidate-population citizenships held by at least this many
 
 ENDPOINT = "https://query.wikidata.org/sparql"
 HEADERS = {
@@ -56,7 +62,9 @@ SEED_ALIASES = [
 
 # Hand-checked successors, overriding the automatic P1366 search. Values are lists
 # of modern country QIDs (must be in regions.csv), or ("same_as", QID) to copy the
-# automatic successors of another historical state.
+# automatic successors of another historical state; both get rule "manual".
+# ("successors", [QIDs]) sets the successors by hand but keeps the computed rule
+# (single_successor / same_region_split / ambiguous_split).
 WEST_INDIES_SUCCESSORS = [
     "Q781",  # Antigua and Barbuda
     "Q244",  # Barbados
@@ -67,6 +75,25 @@ WEST_INDIES_SUCCESSORS = [
     "Q760",  # Saint Lucia
     "Q757",  # Saint Vincent and the Grenadines
     "Q754",  # Trinidad and Tobago
+]
+# Ottoman Empire: modern states covering land under direct Ottoman rule in 1900
+# (holders were born 1900 or later). Wikidata's P1366 lists only Turkey, the
+# Principality of Serbia and 1919-23 transitional entities.
+OTTOMAN_SUCCESSORS = [
+    "Q43",      # Turkey
+    "Q222",     # Albania
+    "Q41",      # Greece
+    "Q221",     # North Macedonia
+    "Q1246",    # Kosovo
+    "Q796",     # Iraq
+    "Q858",     # Syria
+    "Q822",     # Lebanon
+    "Q810",     # Jordan
+    "Q801",     # Israel
+    "Q219060",  # Palestine
+    "Q851",     # Saudi Arabia
+    "Q805",     # Yemen
+    "Q1016",    # Libya
 ]
 MANUAL_HISTORICAL = {
     "Q170072": ["Q55"],                 # Dutch Republic -> Netherlands
@@ -80,6 +107,26 @@ MANUAL_HISTORICAL = {
     "Q335070": ["Q38"],                 # Alba Longa -> Italy
     "Q179876": ["Q145"],                # Kingdom of England -> United Kingdom
     "Q161885": ["Q145"],                # Kingdom of Great Britain -> United Kingdom
+    # Candidate-population citizenships (>= MIN_PEOPLE), where P1366 fails or is too broad
+    "Q1054923": ["Q148"],               # British Hong Kong -> China
+    "Q13426199": ["Q148", "Q865"],      # Republic of China -> China, Taiwan
+    "Q8733": ["Q148", "Q865"],          # Qing dynasty -> as Republic of China (P1366: Taiwan only)
+    "Q29520": ["Q148", "Q865"],         # China (the general item) -> as Republic of China
+    "Q36704": ("same_as", "Q83286"),    # Yugoslavia -> as SFR Yugoslavia (P1366: Serbia, Montenegro only)
+    "Q12560": ("successors", OTTOMAN_SUCCESSORS),  # Ottoman Empire (rule: ambiguous_split)
+    "Q2017684": ["Q948"],               # French protectorate of Tunisia -> Tunisia
+    "Q3087763": ["Q79"],                # Republic of Egypt (1953-58) -> Egypt (P1366 via UAR: + Syria)
+    "Q124943": ["Q79"],                 # Kingdom of Egypt -> Egypt (P1366 via UAR: + Syria)
+    "Q146885": ["Q858"],                # Second Syrian Republic -> Syria (P1366 via UAR: + Egypt)
+    "Q2305208": ["Q159"],               # Russian SFSR (1917-22) -> Russia (P1366 via USSR: 15 states)
+    "Q139319": ("same_as", "Q34266"),   # Russian Republic (1917) -> as Russian Empire
+    "Q193714": ["Q801", "Q219060"],     # Mandatory Palestine -> Israel, Palestine (P1366: + Egypt, Jordan)
+    "Q23681": ["Q229"],                 # Northern Cyprus -> Cyprus (internationally recognised)
+    "Q31354462": ["Q230"],              # Republic of Abkhazia -> Georgia (internationally recognised)
+    "Q149805": ["Q796"],                # Kingdom of Iraq -> Iraq
+    "Q3041595": ["Q796"],               # First Republic of Iraq -> Iraq
+    "Q3108185": ["Q796"],               # Ba'athist Iraq -> Iraq
+    "Q26988": ["Q664"],                 # Cook Islands (free association) -> New Zealand
 }
 
 ITEM_QUERY = """
@@ -207,13 +254,24 @@ def main():
     if len(bad):
         raise SystemExit(f"Aliases point to QIDs not in regions.csv:\n{bad}")
 
+    old_aliases = set(aliases["alias_qid"])
+    old_hist = (set(pd.read_csv(HISTORICAL_PATH, dtype=str)["historical_qid"])
+                if HISTORICAL_PATH.exists() else set())
+
     people = pd.read_csv(PEOPLE_PATH, dtype=str)
     cit = people["citizenship_qids"].dropna().str.split(SEP).explode().map(qid_of)
     counts = cit.value_counts()
+    n_only = pd.Series(dtype=int)
+    if COUNTS_PATH.exists():  # candidate-population counts take precedence
+        pop = pd.read_csv(COUNTS_PATH, dtype=str, keep_default_na=False)
+        pop = pop.astype({"n_people": int, "n_only": int}).set_index("qid")
+        pop = pop[pop["n_people"] >= MIN_PEOPLE]
+        counts = pd.concat([counts.drop(pop.index, errors="ignore"), pop["n_people"]])
+        n_only = pop["n_only"]
     known = {q: q for q in regions["qid"]} | dict(zip(aliases["alias_qid"],
                                                        aliases["country_qid"]))
     missing = [q for q in counts.index if q not in known]
-    print(f"{cit.nunique()} distinct citizenship QIDs; {len(missing)} not in "
+    print(f"{len(counts)} citizenship QIDs to map; {len(missing)} not in "
           f"regions.csv or country_aliases.csv")
 
     info = fetch_items(missing)
@@ -232,14 +290,17 @@ def main():
     successors = {q: (resolve_successors(q, known), None) for q in historical}
     fetch_items(list(MANUAL_HISTORICAL))  # labels for overrides not in the sample
     for q, spec in MANUAL_HISTORICAL.items():
+        rule = "manual"
         if isinstance(spec, tuple) and spec[0] == "same_as":
             modern = resolve_successors(spec[1], known)
+        elif isinstance(spec, tuple) and spec[0] == "successors":
+            modern, rule = set(spec[1]), None
         else:
             modern = set(spec)
         unknown = modern - set(region_of)
         if unknown:
             raise SystemExit(f"MANUAL_HISTORICAL[{q}] uses QIDs not in regions.csv: {unknown}")
-        successors[q] = (modern, "manual")
+        successors[q] = (modern, rule)
 
     rows = []
     for q, (modern, override) in successors.items():
@@ -254,20 +315,33 @@ def main():
             "regions": SEP.join(regs),
             "rule": rule,
             "n_people": int(counts.get(q, 0)),
+            "n_only": int(n_only.get(q, 0)),
         })
     hist = pd.DataFrame(rows, columns=["historical_qid", "historical_label",
                                        "modern_qids", "modern_labels", "regions",
-                                       "rule", "n_people"])
+                                       "rule", "n_people", "n_only"])
 
     aliases.sort_values("alias_qid").to_csv(ALIASES_PATH, index=False)
-    hist.drop(columns="n_people").sort_values("historical_label").to_csv(
+    hist.drop(columns=["n_people", "n_only"]).sort_values("historical_label").to_csv(
         HISTORICAL_PATH, index=False)
     print(f"Wrote {len(aliases)} aliases to {ALIASES_PATH.relative_to(ROOT)}")
     print(f"Wrote {len(hist)} historical states to {HISTORICAL_PATH.relative_to(ROOT)}")
 
     print(f"\nNew aliases ({len(new_aliases)}):")
     for q, label, target in new_aliases:
-        print(f"  {q} {label} -> {target} {label_of[target]}")
+        print(f"  {q} {label} -> {target} {label_of[target]} [{region_of[target]}] "
+              f"(people: {counts.get(q, 0)}, only citizenship: {n_only.get(q, 0)})")
+    added = [q for q in new_aliases if q[0] not in old_aliases]
+    if len(added) != len(new_aliases):
+        print(f"  ({len(new_aliases) - len(added)} of these were already in the file)")
+
+    new_hist = hist[~hist["historical_qid"].isin(old_hist)].sort_values(
+        "n_people", ascending=False)
+    print(f"\nNew historical states ({len(new_hist)}):")
+    for _, r in new_hist.iterrows():
+        print(f"  [{r['rule']}] {r['historical_qid']} {r['historical_label']} "
+              f"(people: {r['n_people']}, only citizenship: {r['n_only']})")
+        print(f"      -> {r['modern_labels'] or '(none)'}  [{r['regions']}]")
 
     print("\nRules:")
     print(hist["rule"].value_counts().to_string())

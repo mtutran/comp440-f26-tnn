@@ -1,0 +1,889 @@
+qid,label,n_people,n_only,mapped
+Q30,United States,328450,315212,True
+Q145,United Kingdom,113880,95981,True
+Q16,Canada,48280,44949,True
+Q142,France,45614,39117,True
+Q183,Germany,44105,36176,True
+Q408,Australia,40403,37881,True
+Q668,India,37537,27679,True
+Q38,Italy,32826,24418,True
+Q17,Japan,31512,27281,True
+Q29,Spain,24989,23259,True
+Q159,Russia,24554,13538,True
+Q15180,Soviet Union,23953,4963,True
+Q155,Brazil,21687,20776,True
+Q34,Sweden,17904,16974,True
+Q148,People's Republic of China,17841,16597,True
+Q29999,Kingdom of the Netherlands,17587,16571,True
+Q20,Norway,15747,15339,True
+Q664,New Zealand,15661,14530,True
+Q36,Poland,15584,14211,True
+Q414,Argentina,14922,13758,True
+Q96,Mexico,13868,13025,True
+Q174193,United Kingdom of Great Britain and Ireland,13709,412,True
+Q884,South Korea,12048,11642,True
+Q27,Ireland,11337,10534,True
+Q39,Switzerland,10589,9339,True
+Q258,South Africa,10586,10094,True
+Q43,Turkey,10364,8575,True
+Q129286,British Raj,10317,133,True
+Q33,Finland,10204,9706,True
+Q801,Israel,10178,8324,True
+Q40,Austria,10148,9016,True
+Q31,Belgium,9984,9201,True
+Q756617,Kingdom of Denmark,9723,9391,True
+Q212,Ukraine,9715,6304,True
+Q28,Hungary,9302,8346,True
+Q1775277,Dominion of India,9025,1,True
+Q218,Romania,7975,7107,True
+Q1033,Nigeria,7960,7298,True
+Q843,Pakistan,7295,4781,True
+Q213,Czech Republic,7242,5588,True
+Q172579,Kingdom of Italy,7078,379,True
+Q45,Portugal,6968,6422,True
+Q794,Iran,6957,6357,True
+Q41,Greece,6205,5632,True
+Q403,Serbia,5959,4769,True
+Q928,Philippines,5685,5388,True
+Q298,Chile,5203,4882,True
+Q252,Indonesia,5184,5004,True
+Q739,Colombia,4894,4511,True
+Q833,Malaysia,4671,4486,True
+Q224,Croatia,4611,3814,True
+Q219,Bulgaria,4567,4306,True
+Q33946,Czechoslovakia,4353,2046,True
+Q191,Estonia,4336,3379,True
+Q902,Bangladesh,4332,3080,True
+Q16957,East Germany,4198,467,True
+Q79,Egypt,4153,3551,True
+Q869,Thailand,3942,3832,True
+Q117,Ghana,3905,3633,True
+Q188712,Empire of Japan,3871,23,True
+Q241,Cuba,3830,3350,True
+Q865,Taiwan,3706,3112,True
+Q717,Venezuela,3686,3295,True
+Q77,Uruguay,3451,3164,True
+Q214,Slovakia,3350,2776,True
+Q184,Belarus,3319,2534,True
+Q215,Slovenia,3282,2628,True
+Q419,Peru,3072,2855,True
+Q854,Sri Lanka,2813,2749,True
+Q262,Algeria,2718,1892,True
+Q37,Lithuania,2669,2161,True
+Q114,Kenya,2551,2442,True
+Q1028,Morocco,2538,1877,True
+Q211,Latvia,2384,1824,True
+Q222,Albania,2374,2094,True
+Q189,Iceland,2346,2257,True
+Q766,Jamaica,2325,2076,True
+Q232,Kazakhstan,2228,1546,True
+Q1036,Uganda,2206,2125,True
+Q881,Vietnam,2136,1992,True
+Q948,Tunisia,2100,1305,True
+Q225,Bosnia and Herzegovina,2060,1594,True
+Q227,Azerbaijan,2060,1066,True
+Q230,Georgia,2051,1297,True
+Q34266,Russian Empire,2015,106,True
+Q786,Dominican Republic,1976,1792,True
+Q851,Saudi Arabia,1960,1893,True
+Q822,Lebanon,1931,1555,True
+Q83286,Socialist Federal Republic of Yugoslavia,1923,261,True
+Q736,Ecuador,1845,1723,True
+Q1009,Cameroon,1762,1415,True
+Q399,Armenia,1716,954,True
+Q796,Iraq,1661,1477,True
+Q974,Democratic Republic of the Congo,1593,1152,True
+Q1041,Senegal,1563,1157,True
+Q334,Singapore,1562,1464,True
+Q954,Zimbabwe,1517,1432,True
+Q733,Paraguay,1509,1412,True
+Q217,Moldova,1443,996,True
+Q1008,Ivory Coast,1331,998,True
+Q36704,Yugoslavia,1285,679,True
+Q858,Syria,1279,1042,True
+Q32,Luxembourg,1257,1167,True
+Q265,Uzbekistan,1230,882,True
+Q837,Nepal,1203,1183,True
+Q924,Tanzania,1181,1151,True
+Q889,Afghanistan,1178,1117,True
+Q836,Myanmar,1169,1157,True
+Q750,Bolivia,1157,1042,True
+Q1206012,German Reich,1134,740,True
+Q221,North Macedonia,1124,955,True
+Q115,Ethiopia,1109,1044,True
+Q236,Montenegro,1056,836,True
+Q800,Costa Rica,1045,981,True
+Q219060,Palestine,1032,767,True
+Q754,Trinidad and Tobago,997,886,True
+Q1054923,British Hong Kong,993,666,True
+Q423,North Korea,983,925,True
+Q12560,Ottoman Empire,974,44,True
+Q916,Angola,954,846,True
+Q1030,Namibia,949,931,True
+Q229,Cyprus,944,816,True
+Q13426199,Republic of China,937,107,True
+Q804,Panama,937,828,True
+Q912,Mali,921,658,True
+Q790,Haiti,900,712,True
+Q233,Malta,890,772,True
+Q810,Jordan,882,726,True
+Q953,Zambia,865,836,True
+Q774,Guatemala,820,765,True
+Q712,Fiji,818,777,True
+Q191077,Kingdom of Yugoslavia,814,65,True
+Q783,Honduras,799,759,True
+Q878,United Arab Emirates,799,742,True
+Q792,El Salvador,774,691,True
+Q711,Mongolia,665,632,True
+Q37024,Serbia and Montenegro,641,49,True
+Q846,Qatar,641,547,True
+Q971,Republic of the Congo,617,418,True
+Q1049,Sudan,613,509,True
+Q424,Cambodia,607,567,True
+Q2017684,French protectorate of Tunisia,579,9,True
+Q1006,Guinea,555,436,True
+Q965,Burkina Faso,553,479,True
+Q1020,Malawi,546,539,True
+Q813,Kyrgyzstan,546,356,True
+Q817,Kuwait,543,515,True
+Q1037,Rwanda,540,468,True
+Q713750,West Germany,534,143,True
+Q1045,Somalia,525,420,True
+Q691,Papua New Guinea,519,507,True
+Q347,Liechtenstein,494,454,True
+Q1044,Sierra Leone,466,422,True
+Q805,Yemen,462,422,True
+Q7318,Nazi Germany,457,35,True
+Q962,Benin,456,353,True
+Q1005,The Gambia,454,401,True
+Q398,Bahrain,454,384,True
+Q1246,Kosovo,453,272,True
+Q1014,Liberia,433,381,True
+Q244,Barbados,433,415,True
+Q945,Togo,427,339,True
+Q1019,Madagascar,423,376,True
+Q811,Nicaragua,421,382,True
+Q734,Guyana,420,362,True
+Q1029,Mozambique,414,382,True
+Q1016,Libya,413,379,True
+Q1011,Cape Verde,378,273,True
+Q778,The Bahamas,367,345,True
+Q730,Suriname,366,292,True
+Q863,Tajikistan,358,229,True
+Q963,Botswana,357,346,True
+Q1027,Mauritius,348,312,True
+Q1000,Gabon,346,291,True
+Q678,Tonga,343,298,True
+Q967,Burundi,342,315,True
+Q28513,Austria–Hungary,326,20,True
+Q929,Central African Republic,323,251,True
+Q238,San Marino,319,305,True
+Q170468,United Arab Republic,318,5,True
+Q15102440,"Kingdom of Serbs, Croats and Slovenes",315,1,True
+Q207272,Second Polish Republic,315,90,True
+Q1032,Niger,308,275,True
+Q983,Equatorial Guinea,301,180,True
+Q1007,Guinea-Bissau,297,225,True
+Q683,Samoa,296,224,True
+Q874,Turkmenistan,287,187,True
+Q228,Andorra,282,248,True
+Q958,South Sudan,279,181,True
+Q533534,Cisleithania,255,11,True
+Q41304,Weimar Republic,251,3,True
+Q819,Laos,249,231,True
+Q842,Oman,249,243,True
+Q917,Bhutan,249,247,True
+Q657,Chad,248,222,True
+Q242,Belize,236,199,True
+Q781,Antigua and Barbuda,236,214,True
+Q43287,German Empire,233,8,True
+Q2305208,Russian Socialist Federative Soviet Republic,223,0,True
+Q3087763,Republic of Egypt,220,0,True
+Q574,Timor-Leste,217,201,True
+Q124943,Kingdom of Egypt,214,2,True
+Q1025,Mauritania,213,180,True
+Q826,Maldives,207,207,True
+Q986,Eritrea,207,172,True
+Q235,Monaco,203,158,True
+Q8646,Hong Kong,189,164,True
+Q107258515,Pahlavi Iran,188,17,True
+Q1013,Lesotho,185,185,True
+Q23635,Bermuda,184,169,True
+Q784,Dominica,182,159,True
+Q769,Grenada,176,158,True
+Q970,Comoros,175,104,True
+Q1042,Seychelles,171,165,True
+Q921,Brunei,168,166,True
+Q685,Solomon Islands,164,161,True
+Q62633,Grand Duchy of Finland,154,2,True
+Q686,Vanuatu,152,142,True
+Q1050,Eswatini,149,146,True
+Q760,Saint Lucia,148,138,True
+Q8733,Qing dynasty,148,1,True
+Q23681,Northern Cyprus,142,60,True
+Q838261,Federal Republic of Yugoslavia,142,5,True
+Q31747,Irish Free State,136,5,True
+Q193714,Mandatory Palestine,131,24,True
+Q203493,Kingdom of Romania,128,10,True
+Q763,Saint Kitts and Nevis,128,103,True
+Q1039,São Tomé and Príncipe,122,109,True
+Q757,Saint Vincent and the Grenadines,122,107,True
+Q211274,Polish People's Republic,118,9,True
+Q206411,Azerbaijan Democratic Republic,112,0,True
+Q137816,Taiwan under Japanese rule,108,3,True
+Q977,Djibouti,100,88,True
+Q29520,China,98,56,True
+Q243610,Ukrainian People's Republic,95,2,True
+Q697,Nauru,94,91,True
+Q133356,Ukrainian Soviet Socialist Republic,81,11,True
+Q2184,Russian Soviet Federative Socialist Republic,79,1,True
+Q695,Palau,77,76,True
+Q146885,Second Syrian Republic,69,1,True
+Q702,Federated States of Micronesia,68,65,True
+Q149805,Kingdom of Iraq,64,5,True
+Q139319,Russian Republic,63,0,True
+Q6744657,Crown Colony of Malta,63,3,True
+Q710,Kiribati,63,60,True
+Q31354462,Republic of Abkhazia,61,17,True
+Q7603765,State of Malta,61,0,True
+Q3108185,Ba'athist Iraq,58,4,True
+Q907112,Transnistria,58,15,True
+Q153128,Independent State of Croatia,57,4,True
+Q672,Tuvalu,55,52,True
+Q26988,Cook Islands,53,42,True
+Q709,Marshall Islands,53,52,True
+Q3041595,First Republic of Iraq,52,0,True
+Q207991,Pahlavi dynasty,44,1,False
+Q5785,Cayman Islands,43,38,False
+Q18097,Korea,42,24,False
+Q1410,Gibraltar,41,16,False
+Q21,England,41,26,False
+Q223050,statelessness,41,2,False
+Q217169,Rhodesia,39,20,False
+Q457167,West Ukrainian People's Republic,38,3,False
+Q180573,South Vietnam,37,10,False
+Q34754,Somaliland,36,18,False
+Q245160,Democratic Republic of Georgia,35,0,False
+Q503585,Korea under Japanese rule,35,8,False
+Q22890,Ireland,34,31,False
+Q130229,Georgian SSR,33,1,False
+Q1290149,Federal People's Republic of Yugoslavia,32,0,True
+Q370173,Sultanate of Egypt,32,0,False
+Q244165,Republic of Artsakh,31,13,False
+Q25305,British Virgin Islands,30,28,False
+Q1508143,Ukrainian State,28,0,False
+Q26234937,First Syrian Republic,28,1,False
+Q2895,Byelorussian Soviet Socialist Republic,28,4,False
+Q34020,Niue,28,17,False
+Q6500954,Zaire,28,5,False
+Q131337,Azerbaijan Soviet Socialist Republic,27,2,False
+Q267584,Yemen Arab Republic,27,12,False
+Q391980,Free Territory of Trieste,27,0,False
+Q130842,French mandate of Lebanon,26,0,False
+Q171150,Kingdom of Hungary,26,2,False
+Q188161,Dutch East Indies,26,7,False
+Q237,Vatican City,26,3,True
+Q30747910,Islamic Republic of Afghanistan,26,14,False
+Q1277557,Democratic Federal Yugoslavia,25,3,False
+Q185682,French Indochina,24,7,False
+Q63158027,Qajar Iran,24,2,False
+Q9676,Isle of Man,24,15,False
+Q131404661,Ba'athist Syria,23,13,False
+Q2444884,Tibet,23,13,False
+Q28233,Korean Empire,23,4,False
+Q842794,Socialist Republic of Romania,23,1,False
+Q209065,Kingdom of Greece,22,5,False
+Q210036,Chechen Republic of Ichkeria,22,2,False
+Q23792,Palestine,21,11,False
+Q40362,Sahrawi Arab Democratic Republic,21,15,False
+Q42406,English people,21,19,False
+Q503623,Gold Coast Colony,21,9,False
+Q1643555,British Honduras,19,2,False
+Q17252,Tibet,19,17,False
+Q2685298,Romanian People's Republic,19,1,False
+Q27306,Kingdom of Prussia,19,1,True
+Q221457,Congress Poland,18,0,False
+Q1415585,Islamic State of Afghanistan,17,4,False
+Q146600,Arab Kingdom of Syria,17,0,False
+Q23427,South Ossetia,17,6,False
+Q476757,Democratic Republic of Afghanistan,17,2,False
+Q1138904,Kingdom of Afghanistan,16,0,False
+Q154401,Slovak Republic,16,1,False
+Q199841,South Yemen,16,7,False
+Q310293,Saar Protectorate,16,14,False
+Q121932,People's Republic of Bulgaria,15,4,False
+Q1415128,Republic of Afghanistan,15,0,False
+Q193619,Union of South Africa,15,4,False
+Q25,Wales,15,14,False
+Q25227,Netherlands Antilles,15,11,False
+Q853348,Czechoslovak Socialist Republic,15,2,False
+Q241748,Kingdom of Serbia,14,4,False
+Q323904,Portuguese India,14,1,False
+Q38872,Prussia,14,0,False
+Q750583,Southern Rhodesia,14,4,False
+Q132856,Armenian Soviet Socialist Republic,13,3,False
+Q14773,Macau,13,9,False
+Q16150196,Donetsk People's Republic,13,2,False
+Q30623,Manchukuo,13,6,False
+Q6250,Western Sahara,13,12,False
+Q140359,First Czechoslovak Republic,12,0,False
+Q147909,Kingdom of Bulgaria,12,0,False
+Q17061755,Bahrain and its Dependencies,12,0,False
+Q212056,Mongolian People's Republic,11,3,False
+Q2670092,Dominion of Ceylon,11,3,False
+Q4470663,Ukrainian national government (1941),11,0,False
+Q5613380,British National (Overseas),11,3,False
+Q13353,Montserrat,10,7,False
+Q146880,State of Syria,10,0,False
+Q14708404,Cherokee Nation,10,2,False
+Q16746854,Luhansk People's Republic,10,1,False
+Q172640,North Vietnam,10,7,False
+Q1783171,Navajo Nation,10,0,False
+Q22,Scotland,10,7,False
+Q407199,Occupied Palestinian territory,10,2,False
+Q5103726,Choctaw Nation of Oklahoma,10,0,False
+Q127861,Khedivate of Egypt,9,0,False
+Q1479726,Federation of Malaya,9,0,False
+Q1852345,Trucial States,9,0,False
+Q2046345,Colonial Nigeria,9,2,False
+Q2415901,allied-occupied Germany,9,0,False
+Q467864,People's Socialist Republic of Albania,9,2,False
+Q541455,Anglo-Egyptian Sudan,9,1,False
+Q580188,Kingdom of Yemen,9,1,False
+Q108865226,State of Greater Lebanon,8,0,False
+Q1155700,Rattanakosin Kingdom,8,0,False
+Q1183,Puerto Rico,8,3,False
+Q152750,Protectorate of Bohemia and Moravia,8,0,False
+Q204989,Saint Kitts,8,8,False
+Q25228,Anguilla,8,5,False
+Q5866728,Democratic Republic of Sudan,8,0,False
+Q842931,East Pakistan,8,0,False
+Q8680,British Empire,8,3,False
+Q907234,French protectorate in Morocco,8,1,False
+Q12060881,Chinese Empire,7,1,False
+Q146562,State of Damascus,7,0,False
+Q168811,Kazakh Soviet Socialist Republic,7,0,False
+Q1756546,Kingdom of Nejd and Hejaz,7,0,False
+Q2010024,Second Czechoslovak Republic,7,0,False
+Q2305337,Azerbaijan People's Government,7,0,False
+Q25230,Guernsey,7,7,False
+Q3486796,Republic of Sudan,7,0,False
+Q41470,Kurdistan,7,4,False
+Q4948,Republic of Venice,7,5,False
+Q785,Jersey,7,6,False
+Q918126,British Guiana,7,2,False
+Q918153,British Ceylon,7,0,False
+Q956357,Kingdom of Hejaz,7,0,False
+Q1081620,Siam,6,1,False
+Q15240466,British Cyprus,6,3,False
+Q178038,Second Spanish Republic,6,0,False
+Q2006542,Dominion of Pakistan,6,0,False
+Q21999799,British Nigerian,6,4,False
+Q230791,Kingdom of Scotland,6,1,False
+Q31454,Kingdom of Libya,6,3,False
+Q718374,"State of Slovenes, Croats and Serbs",6,0,False
+Q797422,Republic of Upper Volta,6,0,False
+Q816709,Tuvan People's Republic,6,1,False
+Q84,London,6,3,False
+Q920396,British West Indies,6,2,False
+Q108865218,Lebanese Republic under French mandate,5,0,False
+Q1274468,Republic of Bosnia and Herzegovina,5,1,False
+Q157904,Sultanate of Zanzibar,5,2,False
+Q161885,Kingdom of Great Britain,5,3,True
+Q18221,Turks and Caicos Islands,5,2,False
+Q23148,Cornwall,5,5,False
+Q2893000,Jordanian annexation of the West Bank,5,0,False
+Q3960459,Kingdom of Sikkim,5,0,False
+Q42585,Kingdom of Bohemia,5,0,False
+Q427941,Islamic Emirate of Afghanistan,5,4,False
+Q547795,Territory of Hawaii,5,0,False
+Q618399,Republic of the Congo (Léopoldville),5,1,False
+Q654342,Federation of Rhodesia and Nyasaland,5,0,False
+Q842199,Belarusian People's Republic,5,0,False
+Q857026,Bedoun,5,0,False
+Q890120,Zimbabwe Rhodesia,5,0,False
+Q99281400,United States of America,5,5,False
+Q139708,French Mandate for Syria and the Lebanon,4,0,False
+Q146713,Arab Federation,4,0,False
+Q153660,Italian Social Republic,4,0,False
+Q156111,General Government,4,0,False
+Q170361,Territory of the Saar Basin,4,0,False
+Q17054,Martinique,4,1,False
+Q170895,Moldavian Soviet Socialist Republic,4,1,False
+Q173761,Lithuanian Soviet Socialist Republic,4,0,False
+Q199711,Tajik Soviet Socialist Republic,4,0,False
+Q1998866,Czech and Slovak Federal Republic,4,0,False
+Q205047,Kurdistan Region of Iraq,4,1,False
+Q208545,Socialist Republic of Bosnia and Herzegovina,4,1,False
+Q216173,Free City of Danzig,4,0,False
+Q2454585,Third Czechoslovak Republic,4,0,False
+Q31057,Norfolk Island,4,3,False
+Q386496,Kingdom of Montenegro,4,0,False
+Q43100,Kashmir,4,4,False
+Q5440850,Federation of Nigeria,4,0,False
+Q601252,Banovina of Croatia,4,0,False
+Q617602,Palestine,4,2,False
+Q8272919,Republic of Lithuania,4,0,False
+Q870055,Kingdom of Laos,4,0,False
+Q1054184,Khmer Republic,3,0,False
+Q11178782,Czechoslovak Republic,3,0,False
+Q1121819,Emirate of Transjordan,3,0,False
+Q117714,Anambra State,3,0,False
+Q1193879,State of Vietnam,3,0,False
+Q1240096,Hyderabad State,3,0,False
+Q129469586,Waqooyibari State Condominium,3,1,False
+Q130276,Kirghiz Soviet Socialist Republic,3,1,False
+Q139670,First Republic of Armenia,3,0,False
+Q146328,Commonwealth of the Philippines,3,2,False
+Q15,Africa,3,1,False
+Q154195,Kingdom of Bavaria,3,2,True
+Q16410,Hungarian People's Republic,3,1,False
+Q17319155,Kingdom of Mewar,3,0,False
+Q1774,Zanzibar Islands,3,2,False
+Q187035,Principality of Albania,3,0,False
+Q202775,Qu'aiti Sultanate,3,0,False
+Q2347668,Libyan Arab Republic,3,0,False
+Q2376315,British rule in Myanmar,3,0,False
+Q2381337,Ukrainian People's Republic of Soviets,3,0,False
+Q2385925,presidencies and provinces in British India,3,3,False
+Q2538511,Kenya Colony,3,1,False
+Q25396,Bonaire,3,1,False
+Q265824,Second Hellenic Republic,3,0,False
+Q28179,Joseon,3,3,False
+Q330756,Transcaucasian Democratic Federative Republic,3,0,False
+Q3336808,Chickasaw Nation,3,0,False
+Q3480281,Sheikhdom of Kuwait,3,0,False
+Q3509510,Second Nigerian Republic,3,0,False
+Q3511905,First Nigerian Republic,3,0,False
+Q3908,Galicia,3,0,False
+Q4689103,Transitional Islamic State of Afghanistan,3,0,False
+Q4843701,Great Socialist People's Libyan Arab Jamahiriya,3,0,False
+Q484578,Uzbek Soviet Socialist Republic,3,0,False
+Q497568,Innu people,3,1,False
+Q5092177,Cherokee Nation,3,0,False
+Q5187,Chechnya,3,3,False
+Q5481,Tatarstan,3,1,False
+Q548114,Free State of Fiume,3,0,False
+Q5866720,Republic of Sudan,3,0,False
+Q600018,Kingdom of Hungary,3,0,False
+Q61292,Far Eastern Republic,3,0,False
+Q662653,British Somaliland,3,1,False
+Q72785,Cretan State,3,0,False
+Q798431,Republic of Dahomey,3,1,False
+Q80338,Bengal,3,2,False
+Q834486,Federation of South Arabia,3,0,False
+Q842939,Imo State,3,0,False
+Q867778,People's Republic of Kampuchea,3,0,False
+Q1028848,French Cameroons,2,1,False
+Q10726489,Axis occupation of Serbia,2,0,False
+Q10828323,French Annam,2,1,False
+Q1097943,Uganda Protectorate,2,1,False
+Q10988528,Second East Turkestan Republic,2,0,False
+Q112660052,British India,2,0,False
+Q114334914,Donetsk People's Republic,2,0,False
+Q1152126,People's Republic of the Congo,2,0,False
+Q1242155,Albanians in Kosovo,2,1,False
+Q1335,Montevideo,2,1,False
+Q13474305,Francoist Spain,2,0,False
+Q1370078,Khmer Krom,2,2,False
+Q1414395,Republic of South Maluku,2,0,False
+Q14905932,Republic of Cuba,2,2,False
+Q156031,Reichskommissariat Ostland,2,0,False
+Q157734,Muscat and Oman,2,0,False
+Q15925436,Republic of Crimea,2,0,False
+Q159631,Kingdom of Württemberg,2,0,False
+Q161036,Free State of Prussia,2,1,False
+Q16148484,Ho-Chunk Nation of Wisconsin,2,0,False
+Q1639475,Mountainous Republic of the Northern Caucasus,2,0,False
+Q175379,Empire of China,2,0,False
+Q1756914,Sultanate of Nejd,2,0,False
+Q179876,Kingdom of England,2,1,True
+Q188736,Bosnia,2,0,False
+Q19801186,Liberland,2,0,False
+Q199707,Turkmen Soviet Socialist Republic,2,0,False
+Q1998401,North Yemen,2,2,False
+Q2002279,Portuguese Guinea,2,2,False
+Q207521,Ethiopian Empire,2,1,False
+Q209062,Socialist Republic of Croatia,2,0,False
+Q211853,Republic of Serbian Krajina,2,0,False
+Q23334,Abkhazia,2,1,False
+Q2369784,Interwar Latvia,2,0,False
+Q2387250,State of Cambodia,2,0,False
+Q2396442,Kingdom of Galicia and Lodomeria,2,0,False
+Q243652,Hungarian Soviet Republic,2,0,False
+Q2526023,Colony of Jamaica,2,0,False
+Q2580491,British Pakistanis,2,2,False
+Q2590690,Sisseton Wahpeton Oyate,2,0,False
+Q2617267,Ottoman Iraq,2,0,False
+Q2631403,Republic of Kosova,2,0,False
+Q2826232,Portuguese Angola,2,2,False
+Q2909425,Ottoman Palestine,2,0,False
+Q3023340,Portuguese Cape Verde,2,2,False
+Q30971,French Polynesia,2,2,False
+Q319984,Italian Somaliland,2,0,False
+Q320852,Abia State,2,0,False
+Q328478,Italian East Africa,2,1,False
+Q330988,Democratic Kampuchea,2,0,False
+Q33123248,Blackfeet Nation,2,0,False
+Q337514,Adamawa State,2,0,False
+Q33788,New Caledonia,2,1,False
+Q35,Denmark,2,2,True
+Q35672,Pitcairn Islands,2,1,False
+Q379042,Ciskei,2,0,False
+Q3916279,Portuguese Macau,2,0,False
+Q429908,Benue State,2,0,False
+Q431731,Tanganyika,2,0,False
+Q43937,Azawad,2,2,False
+Q4412,West Africa,2,0,False
+Q4533605,South Russia,2,0,False
+Q45670,Kingdom of Portugal,2,1,False
+Q457242,Spanish protectorate in Morocco,2,0,False
+Q465022,Enugu,2,0,False
+Q485112,Puntland,2,0,False
+Q49910,Colony of Aden,2,0,False
+Q533558,Kingdom of Croatia-Slavonia,2,0,False
+Q545205,Transcaucasian Socialist Federative Soviet Republic,2,0,False
+Q5501842,French Madagascar,2,2,False
+Q5705,Catalonia,2,1,False
+Q5946834,Wendat Nation,2,1,False
+Q619829,Democratic Autonomous Administration of North and East Syria,2,1,False
+Q68682,Bukharan People's Soviet Republic,2,0,False
+Q6940348,Muscogee (Creek) Nation,2,1,False
+Q7382038,Romanov Empire,2,0,False
+Q7646305,Surinam,2,0,False
+Q779011,Principality of Montenegro,2,0,False
+Q797440,French Upper Volta,2,0,False
+Q797505,French Dahomey,2,0,False
+Q871091,British Malaya,2,2,False
+Q889394,Portuguese Mozambique,2,2,False
+Q889884,Kingdom of Rwanda,2,2,False
+Q940741,Second Hungarian Republic,2,0,False
+Q950644,Carpatho-Ukraine,2,0,False
+Q953903,Northern Rhodesia,2,1,False
+Q96028967,Emirate of Nejd and Hasa,2,0,False
+Q964024,Moldavian Democratic Republic,2,0,False
+Q9648,Falkland Islands,2,1,False
+Q980,Bavaria,2,0,False
+Q986665,First East Turkestan Republic,2,2,False
+Q1044536,Spain under the Restoration,1,0,False
+Q1048340,Albanian Kingdom,1,0,False
+Q1055,Hamburg,1,0,False
+Q1062516,Española Island,1,0,False
+Q107171994,Lummi Nation,1,0,False
+Q1078602,Kingdom of Nepal,1,0,False
+Q108275693,Muwekma Ohlone Tribe,1,0,False
+Q1083009,Principality of Wy,1,0,False
+Q1106424,Darawiish,1,1,False
+Q1106857,State of Somaliland,1,0,False
+Q110904219,Seneca Nation of Indians,1,0,False
+Q11103925,East Turkistan Government in Exile,1,1,False
+Q111696073,Islamic Emirate of Kurdistan,1,0,False
+Q11177699,Czechoslovak Federal Republic,1,0,False
+Q11196,Republika Srpska,1,0,False
+Q11198,Federation of Bosnia and Herzegovina,1,1,False
+Q1129783,Ngöbe-Buglé Comarca,1,0,False
+Q1135255,Chinese Soviet Republic,1,0,False
+Q1140152,Irish Republic,1,0,False
+Q114327408,Luhansk People's Republic,1,0,False
+Q1147441,British North Borneo,1,0,False
+Q1148929,Checheno-Ingush Autonomous Soviet Socialist Republic,1,0,False
+Q1152445,Aerican Empire,1,0,False
+Q115501502,Cerrillo,1,1,False
+Q116080,Polish Underground State,1,0,False
+Q116282722,Colony of Trinidad and Tobago,1,0,False
+Q11680798,Colombiana,1,1,False
+Q116971,Mohawk,1,0,False
+Q117255,Hopi people,1,1,False
+Q1174654,Republic of China,1,1,False
+Q117750627,Pendejo,1,1,False
+Q1188,Madhya Pradesh,1,1,False
+Q1192936,Kingdom of Burundi,1,1,False
+Q1193,Manipur,1,1,False
+Q11967593,Free Lebanon State,1,0,False
+Q121157,Mashhad,1,1,False
+Q1232988,Italian Eritrea,1,0,False
+Q12479060,Cina,1,1,False
+Q125500890,España,1,1,False
+Q12557,Mongol Empire,1,1,False
+Q126125,Saint-Martin,1,0,False
+Q129237,Trust Territory of the Pacific Islands,1,0,False
+Q12950813,,1,0,False
+Q130626,Borno State,1,0,False
+Q130802,Alawite State,1,0,False
+Q131429368,Alawi Sultanate,1,0,False
+Q131680949,Azawad Liberation Front,1,1,False
+Q1320058,French Protectorate of Laos,1,0,False
+Q132690253,Second Iraqi Republic,1,0,False
+Q1335242,Embu County,1,0,False
+Q13410267,British Solomon Islands,1,0,False
+Q13706,Principality of Sealand,1,0,False
+Q1371,West Virginia,1,1,False
+Q13955,Arabic,1,0,False
+Q1400154,Federated Malay States,1,0,False
+Q14021944,Jordan,1,1,False
+Q14112,Corsica,1,0,False
+Q1415,Indiana,1,1,False
+Q1419681,Crimean People's Republic,1,0,False
+Q1443945,Territory of New Guinea,1,1,False
+Q1448131,Italian protectorate of Albania,1,0,False
+Q14630117,Guinea,1,1,False
+Q146872,State of Aleppo,1,0,False
+Q1477220,Somali Democratic Republic,1,1,False
+Q150,French,1,1,False
+Q15124,South Tyrol,1,1,False
+Q154816,Kingdom of the Iberians,1,1,False
+Q1549254,Principality of Seborga,1,0,False
+Q1550492,Kewa Pueblo,1,0,False
+Q1553143,Alwar State,1,0,False
+Q15733002,Palestine Exploration Quarterly,1,1,False
+Q158087,Chattogram Division,1,0,False
+Q158725,Tanganyika Territory,1,0,False
+Q16255454,Bangladeshi,1,1,False
+Q16467748,Belgium–United Kingdom border,1,1,False
+Q164819,Gagauzia,1,1,False
+Q1649306,Nyasaland,1,1,False
+Q165199,chili pepper,1,1,False
+Q165582,Mérida,1,0,False
+Q16977119,Echota Cherokee Tribe of Alabama,1,0,False
+Q16977320,Mushuau Innu First Nation,1,0,False
+Q169889,American Broadcasting Company,1,1,False
+Q170366,Ahvaz,1,1,False
+Q1704398,Pashtunistan,1,1,False
+Q170462,Sarawak,1,1,False
+Q17070,Réunion,1,1,False
+Q17072635,Hiligaynon people,1,1,False
+Q170826,Irish people,1,1,False
+Q17269,Tibet Autonomous Region,1,1,False
+Q17515160,Kingdom of Fiji,1,1,False
+Q17765809,Third Hellenic Republic,1,0,False
+Q178469,Biafra,1,0,False
+Q181903,Algeria men's national football team,1,1,False
+Q1853386,Mangkunegaran,1,1,False
+Q1854323,yamen,1,1,False
+Q186320,Grand Duchy of Baden,1,0,False
+Q1865132,Aden Protectorate,1,0,False
+Q188353,Welsh people,1,1,False
+Q189988,Central African Empire,1,0,False
+Q1901211,East Malaysia,1,1,False
+Q192180,Latvian Soviet Socialist Republic,1,0,False
+Q1955201,Oji-Cree,1,0,False
+Q1973084,Unfederated Malay States,1,0,False
+Q19901436,Suriname,1,0,False
+Q200130,Azad Kashmir,1,1,False
+Q200464,Portuguese Empire,1,0,False
+Q201024,Mohegan,1,0,False
+Q2011891,Third Saudi State,1,0,False
+Q203301,Umuahia,1,0,False
+Q2051582,All-Palestine Government,1,0,False
+Q2064364,Cuité,1,1,False
+Q207353,Acadia,1,0,False
+Q2078820,Odesa Soviet Republic,1,0,False
+Q20820118,Southeast Yemen,1,1,False
+Q2088324,Colonial Brazil,1,0,False
+Q20969067,French Tonkin,1,1,False
+Q209758,Xenomorph,1,1,False
+Q213396,Wyandot people,1,0,False
+Q213510,Belgian Congo,1,0,False
+Q22048,Odisha,1,1,False
+Q2227470,Majgaon,1,0,False
+Q2300296,Latvian Socialist Soviet Republic,1,0,False
+Q2301972,Territory of Papua and New Guinea,1,0,False
+Q234,Flanders,1,1,False
+Q2342822,West Pakistan,1,0,False
+Q234600,Al Ain,1,1,False
+Q235190,Manizales,1,0,False
+Q239543,Russian Provisional Government,1,0,False
+Q240592,Socialist Republic of Macedonia,1,1,False
+Q2447438,Menominee,1,0,False
+Q245507,Québécois,1,1,False
+Q2468597,Turkish Republic of Aras,1,0,False
+Q2475921,Bogd Khanate of Mongolia,1,0,False
+Q2504040,Gagauz Republic,1,0,False
+Q25279,Curaçao,1,1,False
+Q2537396,Afrika,1,1,False
+Q25395037,Kingdom of Hungary,1,0,False
+Q2562456,Republic of West Papua,1,0,False
+Q2571484,Jammu and Kashmir,1,1,False
+Q2594990,Dominion of New Zealand,1,0,False
+Q2600170,Kirghiz Autonomous Socialist Soviet Republic,1,0,False
+Q2625496,State of East Indonesia,1,0,False
+Q2638486,Kingdom of Cambodia,1,0,False
+Q265319,French Congo,1,0,False
+Q266923,Kingdom of Mysore,1,1,False
+Q27304761,Asgardia,1,0,False
+Q275491,Rif,1,1,False
+Q28307,Mustang,1,0,False
+Q2842000,Ambazonia,1,1,False
+Q289957,Jacob,1,1,False
+Q30059027,Sierra Leone Colony and Protectorate,1,1,False
+Q30258193,Mescalero Apache Tribe,1,0,False
+Q30258195,Pueblo of Laguna,1,0,False
+Q30289208,White Earth Nation,1,0,False
+Q30322863,Hirshabelle,1,0,False
+Q30573,Lokot Autonomy,1,0,False
+Q3059291,Ethiopia,1,1,False
+Q309197,Bretons,1,0,False
+Q3112669,Interim Government of Iran,1,0,False
+Q3155873,,1,1,False
+Q31657,Unified Team of Germany,1,0,False
+Q3185305,United Kingdom of Israel,1,1,False
+Q318806,Abenaki people,1,0,False
+Q3240533,Turkish Kurdistan,1,0,False
+Q327,Brittany,1,0,False
+Q3285430,"Mandan, Hidatsa, and Arikara Nation",1,0,False
+Q3346327,Numéro 10,1,0,False
+Q336350,Sokoto,1,0,False
+Q33702,Kongo,1,0,False
+Q344490,İzmir Province,1,0,False
+Q3457186,Northern Cheyenne Indian Reservation,1,0,False
+Q3457190,Six Nations of the Grand River 40,1,0,False
+Q3462133,Duchy of Saxe-Coburg and Gotha,1,0,False
+Q3574782,Zanzibar Protectorate,1,0,False
+Q36368,Kurdish language,1,1,False
+Q37102,Republic of the Rif,1,0,False
+Q371354,Castelar,1,1,False
+Q37211,Sindh,1,1,False
+Q3734,Adygea,1,0,False
+Q37528727,Mexican,1,1,False
+Q376178,Straits Settlements,1,0,False
+Q376241,Gombe State,1,0,False
+Q3813702,Rosebud Indian Reservation,1,0,False
+Q3813824,Sault Tribe of Chippewa Indians,1,0,False
+Q38610,Dominion of Newfoundland,1,0,False
+Q387745,Kogi State,1,0,False
+Q3889,Maputo,1,0,False
+Q389004,Principality of Wallachia,1,0,False
+Q395258,Agona,1,1,False
+Q40285,New Guinea,1,1,False
+Q405749,Trinidad,1,1,False
+Q4115170,British Indians,1,0,False
+Q42267,Spain men's national football team,1,1,False
+Q4398229,Russian State,1,0,False
+Q44642,Federation of Arab Republics,1,0,False
+Q45315,Berbers,1,1,False
+Q458,European Union,1,0,False
+Q46395,British Overseas Territories,1,1,False
+Q464953,Kwara State,1,0,False
+Q4669719,Absentee Shawnee Tribe of Indians,1,0,False
+Q4721499,Alexis Nakota Sioux First Nation,1,0,False
+Q473748,Buganda,1,0,False
+Q4822871,Austenasia,1,0,False
+Q482705,Fifth Republic of South Korea,1,0,False
+Q4840420,The Bad River Band of Lake Superior Chippewa,1,0,False
+Q484245,Karakalpakstan,1,1,False
+Q491507,Egypt eyalet,1,0,False
+Q491559,First Republic of South Korea,1,0,False
+Q492737,Torremolinos,1,1,False
+Q49644,France,1,0,False
+Q4970593,British Overseas Territories citizen,1,0,False
+Q4973495,Broken Vow,1,1,False
+Q503923,Rivers State,1,0,False
+Q5054056,Cattaraugus Reservation,1,0,False
+Q508014,French Sudan,1,0,False
+Q5094611,Cheyenne and Arapaho Tribes,1,0,False
+Q5119004,Chōsen-seki,1,0,False
+Q5137576,ice hockey coach,1,0,False
+Q5148518,Colony of New Zealand,1,0,False
+Q523380,Republic of Central Lithuania,1,0,False
+Q5291089,Dominion of Fiji,1,0,False
+Q530560,Territory of Papua,1,1,False
+Q534917,Ekiti State,1,0,False
+Q537784,Nuu-chah-nulth people,1,0,False
+Q5379282,Enoch Cree Nation #440,1,0,False
+Q5466,Chuvashia,1,0,False
+Q5472034,Fort Sill Apache Tribe of Oklahoma,1,0,False
+Q5502004,Albanaise,1,1,False
+Q550374,South African Republic,1,1,False
+Q55300,Soviet occupation zone of Germany,1,0,False
+Q5555325,Dominion of Ghana,1,0,False
+Q55659450,Socialist Soviet Republic of Georgia,1,0,False
+Q569871,Free People's State of Württemberg,1,0,False
+Q569998,Trizone,1,0,False
+Q57026211,Huaren,1,0,False
+Q57583385,Vilage,1,0,False
+Q57695350,Ireland,1,1,False
+Q577668,Khanate of Bukhara,1,0,False
+Q581325,Greater Romania,1,1,False
+Q5848651,United States of Venezuela,1,1,False
+Q58781026,Sindh,1,1,False
+Q58826,Caucasus Emirate,1,0,False
+Q590743,Ruanda-Urundi,1,0,False
+Q591309,Principality of Morosvia,1,0,False
+Q60,New York City,1,1,False
+Q6006958,Austro-Hungarian occupation of Serbia,1,0,False
+Q609233,Austro-Hungarian rule in Bosnia and Herzegovina,1,0,False
+Q617078,People's Republic of Mozambique,1,0,False
+Q62823,Barranquilla,1,1,False
+Q62987,Al-Qādisiyyah Governorate,1,0,False
+Q646374,French India,1,0,False
+Q65,Los Angeles,1,1,False
+Q6515751,Leech Lake Band of Ojibwe,1,0,False
+Q652560,West Indies Federation,1,0,True
+Q668294,Kamerun,1,0,False
+Q669037,West Indies,1,1,False
+Q6809,Buryatia,1,1,False
+Q682571,Kano State,1,0,False
+Q682777,Yobe State,1,0,False
+Q68678,Socialist Soviet Republic of Byelorussia,1,0,False
+Q6879061,Mississippi Band of Choctaw Indians,1,0,False
+Q693911,Bizone,1,0,False
+Q696242,Wang Jingwei regime,1,0,False
+Q698248,Kingdom of Dalmatia,1,0,False
+Q701914,Territory of the Military Commander in Serbia,1,0,False
+Q7093670,Oneida Nation,1,0,False
+Q71496997,Serilanka Branch Post Office,1,1,False
+Q718763,South Seas Mandate,1,0,False
+Q7233551,Union of Burma (1948–1962),1,0,False
+Q727,Amsterdam,1,1,False
+Q7273097,Québécois,1,1,False
+Q7396546,Meskwaki Nation,1,0,False
+Q744042,Grand Duchy of Avram,1,0,False
+Q7443295,Second Federal Republic of Mexico,1,1,False
+Q746558,Emirate of Bukhara,1,0,False
+Q747314,Bechuanaland Protectorate,1,0,False
+Q7497683,Shinnecock Reservation,1,1,False
+Q7500408,Shongom,1,0,False
+Q75903,Turkestan Autonomous Soviet Socialist Republic,1,0,False
+Q777147,Albanian Kingdom,1,0,False
+Q7781,history of Spain,1,0,False
+Q7856408,Turtle Island,1,1,False
+Q7856433,Turtle Mountain Band of Chippewa Indians,1,0,False
+Q7881829,Umuahia North,1,0,False
+Q79808,Constanța,1,1,False
+Q81126,Manchuria,1,0,False
+Q814959,Beiyang Government,1,0,False
+Q82112,State of Mexico,1,1,False
+Q82681,Tlaxcala,1,1,False
+Q836657,Ogun State,1,0,False
+Q840601,East Turkestan,1,1,False
+Q842438,British,1,0,False
+Q849524,Mostaganem,1,0,False
+Q85,Cairo,1,0,False
+Q853968,Hindustan,1,0,False
+Q854917,Bhavnagar State,1,0,False
+Q855044,Bhopal State,1,1,False
+Q8652,Miami,1,0,False
+Q8660,Karachi,1,1,False
+Q8673,Lagos,1,0,False
+Q8682,Real Madrid Club de Fútbol,1,0,False
+Q876185,East Africa Protectorate,1,0,False
+Q887803,Bruneian Sultanate,1,0,False
+Q889888,Bodmin,1,1,False
+Q889912,Tooro Kingdom,1,1,False
+Q909566,Outer Mongolia,1,0,False
+Q913828,Republic of Prekmurje,1,0,False
+Q9148016,Algérien,1,0,False
+Q917553,Patiala State,1,0,False
+Q9176,Korean,1,1,False
+Q918305,British nationality law,1,1,False
+Q9205,Khmer,1,1,False
+Q926295,Italian Empire,1,0,False
+Q9325466,Government of the Ukrainian People's Republic in exile,1,0,False
+Q936703,Jhang District,1,1,False
+Q940821,People's Democratic Republic of Ethiopia,1,0,False
+Q941881,Netherlands New Guinea,1,1,False
+Q947153,Kingdom of Tavolara,1,0,False
+Q958288,Spain in the Eurovision Song Contest 2010,1,1,False
+Q958291,United Principalities of Moldavia and Wallachia,1,0,False
+Q96404668,Emirate of Qatar,1,0,False
+Q9848,Laarbeek,1,0,False

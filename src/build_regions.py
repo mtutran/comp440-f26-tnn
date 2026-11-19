@@ -25,6 +25,8 @@ Which countries count as "current sovereign"
   Laos". If two items resolve to the same M49 country (e.g. Netherlands and
   Kingdom of the Netherlands), the one with a direct P2082 claim is kept.
   Items listed in EXTRA_COUNTRIES are always added (currently only Denmark; see below).
+  Territories in M49_TERRITORIES (currently only Bermuda) are also added, with
+  source="M49 territory".
 
 Countries are matched to the UN table by M49 code first and by ISO alpha-3
 second. Countries not in the table (e.g. Kosovo, Taiwan) are kept with empty
@@ -77,6 +79,11 @@ GROUP BY ?c ?cLabel ?inUN ?isSov
 # codes. Q35 Denmark (the realm is Q756617 Kingdom of Denmark) is the item that
 # M49 code 208 and most citizenship (P27) claims use.
 EXTRA_COUNTRIES = ["Q35"]
+
+# Non-sovereign territories kept as their own rows (source="M49 territory"), with
+# region and global_south from their own M49 entry. Bermuda: a British Overseas
+# Territory; mapping its citizens to the UK would place them in Europe.
+M49_TERRITORIES = ["Q23635"]  # Bermuda
 
 # Countries absent from the UN M49 table, assigned by hand (source="manual").
 # The UN does not classify them as developed/developing, so global_south follows
@@ -134,7 +141,7 @@ def fetch_m49_table():
 
 
 def fetch_wikidata_countries():
-    extra = " ".join(f"wd:{q}" for q in EXTRA_COUNTRIES)
+    extra = " ".join(f"wd:{q}" for q in EXTRA_COUNTRIES + M49_TERRITORIES)
     r = get(SPARQL_ENDPOINT, params={"query": COUNTRY_QUERY % extra},
             headers={"Accept": "application/sparql-results+json"})
     records = {}
@@ -233,6 +240,7 @@ def main():
 
     df["global_south"] = df["global_south"].astype("boolean")
     df["source"] = "M49"
+    df.loc[df["qid"].isin(M49_TERRITORIES), "source"] = "M49 territory"
     for qid, (region, south) in MANUAL_REGIONS.items():
         mask = df["qid"] == qid
         if not mask.any():
