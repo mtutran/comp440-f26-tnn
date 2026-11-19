@@ -29,6 +29,11 @@ Step D  Equal-allocation stratified sample over region x gender x coverage, fixe
         (one extra each). Cells smaller than their target are taken whole.
         Output: data/processed/study_sample_pilot.csv (--size 200),
         study_sample_full.csv (--size 3000), otherwise study_sample_n<size>.csv.
+        Each drawn person's enwiki_title is then checked with the Action API: if the
+        article is missing or the title redirects to a page whose Wikidata item is
+        not the person's own (a list, team, ...), the person is replaced by another
+        random member of the same cell (separate seeded stream, so the rest of the
+        draw is unchanged), until every cell is full or out of candidates.
 
 Birth dates: a person matches if any birth date has year >= 1900; birth_date is the
 earliest such date. Pre-1900 alternative dates are not seen, so a person with
@@ -48,6 +53,7 @@ import numpy as np
 import pandas as pd
 import requests
 
+import fetch_coverage as fc
 from assign_region import (AMBIGUOUS, FIELDS, REF, add_region_columns, assign_person,
                            fetch_birthplace_countries, load_country_map, split)
 
@@ -345,6 +351,23 @@ def label_coverage(pool):
     return pool
 
 
+def not_own_biography(people):
+    """QIDs whose enwiki_title is missing or redirects to a page about something else.
+
+    Action API (prop=info|pageprops, redirects=1), 50 titles per request: a redirect
+    is accepted only if the target page's Wikidata item is the person's own QID.
+    """
+    bad = set()
+    for i in range(0, len(people), fc.BATCH):
+        chunk = people.iloc[i:i + fc.BATCH]
+        info = fc.page_info(chunk["enwiki_title"].tolist())
+        for qid, title in zip(chunk["qid"], chunk["enwiki_title"]):
+            _, page_id, is_redirect, _, item = info[title]
+            if page_id is None or (is_redirect and item != qid):
+                bad.add(qid)
+    return bad
+
+
 def draw_sample(pool, size):
     print(f"Step D: stratified sample, size {size}, seed {SEED}")
     rng = np.random.default_rng(SEED)
@@ -357,17 +380,54 @@ def draw_sample(pool, size):
     print(f"  {len(cells)} cells; target {base} per cell, +1 for {extra} random cells")
 
     groups = pool.sort_values("qid").groupby(["region", "gender", "coverage"])
-    parts, shortfalls = [], []
-    for cell in cells:
-        members = groups.get_group(cell) if cell in groups.groups else pool.iloc[:0]
-        n = min(targets[cell], len(members))
-        if n < targets[cell]:
-            shortfalls.append((cell, targets[cell], len(members)))
-        parts.append(members.sample(n=n, random_state=rng))
+    members = {cell: groups.get_group(cell) if cell in groups.groups else pool.iloc[:0]
+               for cell in cells}
+    parts = [members[cell].sample(n=min(targets[cell], len(members[cell])),
+                                  random_state=rng) for cell in cells]
     sample = pd.concat(parts, ignore_index=True)
+
+    # Replace people without an English Wikipedia biography of their own. Replacements
+    # use a separate seeded stream, so everyone who passes keeps their place.
+    replace_rng = np.random.default_rng([SEED, 1])
+    cell_of = lambda df: list(zip(df["region"], df["gender"], df["coverage"]))
+    tried = set(sample["qid"])
+    replaced = {cell: 0 for cell in cells}
+    to_check = sample
+    while len(to_check):
+        bad = not_own_biography(to_check)
+        if not bad:
+            break
+        removed = sample[sample["qid"].isin(bad)]
+        sample = sample[~sample["qid"].isin(bad)]
+        new_parts = []
+        for cell in cells:
+            k = sum(c == cell for c in cell_of(removed))
+            if not k:
+                continue
+            untried = members[cell][~members[cell]["qid"].isin(tried)]
+            draw = untried.sample(n=min(k, len(untried)), random_state=replace_rng)
+            tried |= set(draw["qid"])
+            replaced[cell] += len(draw)
+            new_parts.append(draw)
+        to_check = pd.concat(new_parts) if new_parts else sample.iloc[:0]
+        sample = pd.concat([sample, to_check])
+    order = {cell: i for i, cell in enumerate(cells)}
+    sample = (sample.assign(_cell=[order[c] for c in cell_of(sample)])
+              .sort_values("_cell", kind="stable").drop(columns="_cell")
+              .reset_index(drop=True))
     sample.insert(0, "stratum", sample["region"] + SEP + sample["gender"] + SEP
                   + sample["coverage"])
 
+    print(f"  Replacements (drawn person's enwiki_title is missing or redirects to a "
+          f"page about something else): {sum(replaced.values())} in total")
+    table = pd.Series(replaced).unstack([1, 2]).reindex(
+        columns=pd.MultiIndex.from_product([["female", "male"], LEVELS]))
+    print(indent(table.to_string()))
+
+    counts = dict(zip(*np.unique(np.array([order[c] for c in cell_of(sample)]),
+                                 return_counts=True)))
+    shortfalls = [(cell, targets[cell], counts.get(order[cell], 0)) for cell in cells
+                  if counts.get(order[cell], 0) < targets[cell]]
     if shortfalls:
         print(f"  Shortfalls ({sum(t - a for _, t, a in shortfalls)} people short):")
         for cell, t, a in shortfalls:

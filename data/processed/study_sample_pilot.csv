@@ -36,7 +36,7 @@ Asia|female|low,Q8070161,Zhang Chunzhen,Chinese pole vaulter,female,Q148,1970-01
 Asia|female|low,Q116459382,Sravanthi Juluri,"Indian visual artist, painter and actress",female,Q668,1980-01-01,,3,Sravanthi Juluri,,Asia,Asia,True,citizenship,low
 Asia|female|low,Q110167787,Nyamjav Urtnasan,Mongolian politician,female,Q711,1975-01-01,,3,Nyamjav Urtnasan,,Asia,Asia,True,citizenship,low
 Asia|female|low,Q120501142,Sun Sunquan,Chinese activist and politician (1903–1965),female,Q148,1903-01-01,,2,Sun Sunquan,,Asia,Asia,True,citizenship,low
-Asia|female|low,Q66938912,Viktoria Zampa,Cypriot footballer,female,Q229,1995-04-11,,1,Victoria Zampa,,Asia,Asia,False,citizenship,low
+Asia|female|low,Q136091533,Hitomi Nakajima,Japanese sprinter,female,Q17,1995-07-13,Q130290,3,Hitomi Nakajima,,Asia,Asia,False,citizenship,low
 Asia|female|medium,Q48756886,Raheela Yahya Munawar,politician,female,Q843,1957-06-10,Q243322,6,Raheela Yahya Munawar,,Asia,Asia,True,citizenship,medium
 Asia|female|medium,Q88591,Alev Korun,Turkish-Austrian politician (born 1969),female,Q40|Q43,1969-09-27,Q3640,4,Alev Korun,Q43,Asia,Asia,True,birthplace,medium
 Asia|female|medium,Q28310241,Aviv Barzelay,Israeli Olympic swimmer,female,Q801,2002-05-28,Q2776350,6,Aviv Barzelay,,Asia,Asia,False,citizenship,medium
@@ -54,7 +54,7 @@ Asia|male|low,Q70276727,Nithin Kamath,Indian entrepreneur and stockbroker,male,Q
 Asia|male|low,Q5340442,Eduard Mazula,Kazakhstani ice hockey player,male,Q232,1990-03-21,Q484706,2,Eduard Mazula,,Asia,Asia,True,citizenship,low
 Asia|male|low,Q7364603,Ronak Pandit,Indian sport shooter,male,Q668,1985-04-12,,2,Ronak Pandit,,Asia,Asia,True,citizenship,low
 Asia|male|low,Q28151706,Awad Salah Nasser,Yemeni middle-distance runner (born 1975),male,Q805,1975-09-26,,2,Awad Salah Nasser,,Asia,Asia,True,citizenship,low
-Asia|male|low,Q34817491,Haji Bakr Al-Qahtani,Saudi Arabian sprinter,male,Q851,1964-11-06,,3,Haji Bakr Al-Qahtani,,Asia,Asia,True,citizenship,low
+Asia|male|low,Q126740837,Kailash Nath Shukla,member of the Uttar Pradesh Legislative Assembly,male,Q668,1959-02-18,,2,Kailash Nath Shukla,,Asia,Asia,True,citizenship,low
 Asia|male|medium,Q20684790,Prem Menon,Indian movie actor,male,Q668,1953-10-01,Q817,4,Prem Menon (actor),,Asia,Asia,True,citizenship,medium
 Asia|male|medium,Q4279499,Gleb Maltsev,Kazakhstani footballer,male,Q232,1988-03-07,Q486282,5,Gleb Maltsev,,Asia,Asia,True,citizenship,medium
 Asia|male|medium,Q100744149,Garegin Poghosyan,Armenian military personnel,male,Q399,1982-02-23,Q12871351,6,Garegin Poghosyan,,Asia,Asia,True,citizenship,medium
@@ -183,11 +183,11 @@ Oceania|female|high,Q515132,Constance Worth,Australian actress (1911-1963),femal
 Oceania|female|high,Q1689856,Jo-Anne Faull,Australian female tennis player,female,Q408,1971-01-13,Q3191785,7,Jo-Anne Faull,,Oceania,Oceania,False,citizenship,high
 Oceania|female|high,Q770789,Johanna Konta,British female tennis player,female,Q145|Q408,1991-05-17,Q3130,39,Johanna Konta,Q408,Oceania,Oceania,False,birthplace,high
 Oceania|male|low,Q5568999,Glenn Miller,Australian rugby league footballer,male,Q408,1964-02-10,,2,Glenn Miller (rugby league),,Oceania,Oceania,False,citizenship,low
-Oceania|male|low,Q6285559,Joseph Miitamariki,football player,male,Q664,1988-08-14,Q26988,3,Joseph Miitamariki,,Oceania,Oceania,False,citizenship,low
 Oceania|male|low,Q3483880,Sililo Martens,Tongan rugby union player,male,Q664,1977-04-27,Q37100,3,Sililo Martens,,Oceania,Oceania,False,citizenship,low
 Oceania|male|low,Q18165959,Frank Pryor,Australian public servant,male,Q408,1919-11-01,Q917556,1,Frank Pryor,,Oceania,Oceania,False,citizenship,low
 Oceania|male|low,Q7292825,Rangi Ruru Wananga Karaitiana,New Zealand musician and songwriter (1909–1970),male,Q664,1909-03-04,Q921465,2,Ruru Karaitiana,,Oceania,Oceania,False,citizenship,low
-Oceania|male|low,Q5294133,Donald Cameron,New Zealand cricketer (1908-1990),male,Q664,1908-01-13,,2,Donald Cameron (cricketer),,Oceania,Oceania,False,citizenship,low
+Oceania|male|low,Q28325100,Thomas Parsonage,cricketer (1910-1951),male,Q408,1910-11-13,Q3130,2,Thomas Parsonage,,Oceania,Oceania,False,citizenship,low
+Oceania|male|low,Q6251387,John Oswald,South Australian politician (1939 - ),male,Q408,1939-06-06,,3,John Oswald (politician),,Oceania,Oceania,False,citizenship,low
 Oceania|male|medium,Q7307761,Reg Douglas,New Zealand rower,male,Q664,1930-04-19,Q37100,5,Reg Douglas,,Oceania,Oceania,False,citizenship,medium
 Oceania|male|medium,Q16232028,Joe Wheeler,New Zealand rugby union footballer,male,Q664,1987-10-20,Q79990,4,Joe Wheeler (rugby union),,Oceania,Oceania,False,citizenship,medium
 Oceania|male|medium,Q43379408,Geoffrey Rees,Australian rower,male,Q408,2000-01-01,http://www.wikidata.org/.well-known/genid/01372813e7bcebb2e42aaa87863a5a13,4,Geoffrey Rees (rower),,Oceania,Oceania,False,citizenship,medium
