@@ -7,7 +7,9 @@ The built-in table covers common names and the forms models actually produce
   demonyms from Wikidata into `data/country_aliases.csv`; pass that file to the
   grader to extend this table.
 * Tu's historical-state lookup (historical -> modern country) should be passed
-  as `historical_csv`; its rows override the small built-in list below.
+  as `historical_csv`; its rows override the small built-in list below. A state
+  that split into several countries lists them all, joined with "|"
+  ("Soviet Union" -> "Russia|Ukraine|Lithuania|...").
 """
 
 from __future__ import annotations
@@ -120,6 +122,7 @@ BUILTIN_ALIASES: dict[str, list[str]] = {
     "Uganda": ["Ugandan"],
     "Tanzania": ["Tanzanian"],
     "Zimbabwe": ["Zimbabwean", "Rhodesia"],
+    "Cape Verde": ["Cabo Verde", "Cape Verdean", "Cabo Verdean"],
 }
 
 # historical state -> modern country. Only unambiguous cases are built in;
@@ -152,14 +155,14 @@ BUILTIN_HISTORICAL: dict[str, str] = {
 class CountryResolver:
     def __init__(self, aliases_csv: str | None = None, historical_csv: str | None = None):
         self._alias_to_canon: dict[str, str] = {}
-        self._historical: dict[str, str] = {}
+        self._historical: dict[str, list[str]] = {}
         self._raw_names: set[str] = set()
         for canon, aliases in BUILTIN_ALIASES.items():
             self._add(canon, canon)
             for a in aliases:
                 self._add(a, canon)
         for hist, modern in BUILTIN_HISTORICAL.items():
-            self._historical[normalize(hist)] = modern
+            self._historical[normalize(hist)] = [modern]
         if aliases_csv:
             self.load_aliases(aliases_csv)
         if historical_csv:
@@ -179,11 +182,15 @@ class CountryResolver:
                 self._add(row["alias"], row["canonical"])
 
     def load_historical(self, path: str):
-        """CSV with columns: historical, modern."""
+        """CSV with columns: historical, modern. `modern` may list several
+        successor countries joined with "|" (e.g. for the Soviet Union)."""
         with open(path, newline="", encoding="utf-8") as f:
             for row in csv.DictReader(f):
-                self._historical[normalize(row["historical"])] = row["modern"].strip()
-                self._raw_names.add(row["modern"].strip())
+                moderns = [m.strip() for m in row["modern"].split("|") if m.strip()]
+                if not moderns:
+                    continue
+                self._historical[normalize(row["historical"])] = moderns
+                self._raw_names.update(moderns)
                 self._add(row["historical"], row["historical"])
 
     def all_names(self) -> set[str]:
@@ -199,9 +206,19 @@ class CountryResolver:
             return name.strip()  # a known historical state is its own canonical
         return None
 
-    def modern(self, name: str) -> str | None:
-        """Modern-country equivalent (maps historical states; else canonical)."""
+    def moderns(self, name: str) -> set[str]:
+        """Modern-country equivalents: every successor of a historical state,
+        else the canonical name itself; empty if unrecognized."""
         n = normalize(name)
         if n in self._historical:
-            return self.canonical(self._historical[n]) or self._historical[n]
+            return {self.canonical(m) or m for m in self._historical[n]}
+        c = self.canonical(name)
+        return {c} if c else set()
+
+    def modern(self, name: str) -> str | None:
+        """One modern-country equivalent (the first successor listed)."""
+        n = normalize(name)
+        if n in self._historical:
+            m = self._historical[n][0]
+            return self.canonical(m) or m
         return self.canonical(name)

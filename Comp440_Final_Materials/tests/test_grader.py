@@ -88,3 +88,19 @@ def test_template_includes_name_and_description():
     assert "Ada Lovelace (English mathematician)" in q and "Answer:" in q
     q2 = build_question("citizenship", "Ada Lovelace", None)
     assert "()" not in q2 and "is or was" in q2
+
+
+def test_historical_state_with_several_successors(tmp_path):
+    hist = tmp_path / "historical.csv"
+    hist.write_text("historical,modern\nSoviet Union,Russia|Ukraine|Lithuania\n")
+    g = Grader(historical_csv=str(hist))
+    for ans in ["Ukraine", "Lithuania", "Russia"]:
+        r = g.grade("citizenship", f"Answer: {ans}", "Soviet Union")
+        assert r.outcome == CORRECT and r.historical_match
+    assert g.grade("citizenship", "Answer: Poland", "Soviet Union").outcome == WRONG
+    assert g.grade("citizenship", "Answer: Soviet Union", "Ukraine").outcome == CORRECT
+    assert g.grade("citizenship", "Answer: Russia", "Lithuania").outcome == WRONG
+
+
+def test_cabo_verde_alias():
+    assert G.grade("citizenship", "Answer: Cabo Verde", "Cape Verde").outcome == CORRECT

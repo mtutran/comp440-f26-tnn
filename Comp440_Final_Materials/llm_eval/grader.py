@@ -305,7 +305,9 @@ def grade_citizenship(response_text, gold, resolver):
     # lowercase text, so we can compare in all three ways.
     gold_list = parse_gold_list(gold)
     gold_canon = {resolver.canonical(g) or g.strip() for g in gold_list}
-    gold_modern = {resolver.modern(g) or g.strip() for g in gold_list}
+    # A historical state counts as all of its successors, so "Ukraine" matches
+    # gold "Soviet Union" (flagged historical_match for hand-checking).
+    gold_modern = set().union(*(resolver.moderns(g) or {g.strip()} for g in gold_list))
     gold_norm = {normalize(g) for g in gold_list} | {normalize(g) for g in gold_canon}
 
     hits, unrecognized, historical = [], False, False
@@ -314,11 +316,17 @@ def grade_citizenship(response_text, gold, resolver):
         if c is None:
             # not in our country list: fall back to comparing the text
             unrecognized = True
-            hits.append(normalize(p) in gold_norm)
+            if normalize(p) in gold_norm:
+                hits.append(True)
+            elif normalize(p) in {normalize(m) for m in gold_modern}:
+                hits.append(True)                   # a successor of a historical gold state
+                historical = True
+            else:
+                hits.append(False)
             continue
         if c in gold_canon:
             hits.append(True)                       # same country
-        elif (resolver.modern(p) or c) in gold_modern:
+        elif (resolver.moderns(p) or {c}) & gold_modern:
             hits.append(True)                       # match after historical -> modern
             historical = True
         else:

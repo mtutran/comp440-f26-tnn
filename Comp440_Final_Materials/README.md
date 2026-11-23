@@ -14,7 +14,8 @@ llm_eval/countries.py             country aliases, demonyms, historical -> moder
 run_eval.py               step 9  ask + grade + summary (runtime, cost) + hand-check sheets
 score_handcheck.py        step 10 grader error rate from the filled hand-check sheets
 scripts/fetch_country_aliases.py  full alias/demonym list from Wikidata (run locally)
-tests/                            62 tests (grader + description cleaning):  python3 -m pytest -q
+scripts/prepare_pilot_input.py    turns Tu's sample + reference tables into run_eval.py input
+tests/                            64 tests (grader + description cleaning):  python3 -m pytest -q
 data/example_people.csv           6 illustrative rows showing the input format
 ```
 
@@ -97,8 +98,13 @@ Changing the wording? Bump `TEMPLATE_VERSION` in `templates.py` so cached answer
 # dry run, no key needed
 python run_eval.py --people data/example_people.csv --provider mock --model mock
 
+# build the input from Tu's sample (data/processed/study_sample_pilot.csv):
+# citizenship IDs -> country names, missing names, is_deceased from Wikidata,
+# plus data/historical_to_modern.csv and data/country_aliases.csv
+python scripts/prepare_pilot_input.py
+
 # real pilot: 200 people x 2 question types
-python run_eval.py --people data/sample.csv --limit 200 \
+python run_eval.py --people data/pilot_input.csv --limit 200 \
   --provider anthropic --model claude-sonnet-5-5 --price-in 2 --price-out 10 \
   --max-cost 1 --max-total-cost 10 \
   --historical-csv data/historical_to_modern.csv \
@@ -176,7 +182,10 @@ and point you to what to fix.
 - England, Scotland and Wales count as the United Kingdom.
 - The built-in historical map only covers unambiguous successors. Splits like
   Austria-Hungary, Yugoslavia or Czechoslovakia, and ancient states like
-  "Classical Athens", need Tu's lookup table (`historical,modern` columns).
+  "Classical Athens", need Tu's lookup table (`historical,modern` columns; several
+  successors joined with `|`, so "Ukraine" counts as correct for gold "Soviet Union").
+  A successor match is flagged `historical_match`, and it is only as good as the
+  successor list: e.g. Poland is not listed for the Russian Empire.
 - Wikidata BC dates can be off by one year because there is no year zero; hand-check BC cases.
 - The lenient `outcome` gives credit to a model that lists several countries if one
   is right. `outcome_strict` is there to check whether that matters.
