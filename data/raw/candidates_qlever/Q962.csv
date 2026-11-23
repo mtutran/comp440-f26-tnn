@@ -1,0 +1,592 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q100199990,Q6581097,1940-01-01T00:00:00Z,5,Richard De Medeiros,Richard De Medeiros,Beninese film director,Q962,Q850031
+Q100269474,Q6581072,1949-01-22T00:00:00Z,13,Vicentia Boco,Vicentia Boco,Politician and professor from Benin,Q962,Q994125
+Q100291521,Q6581097,2001-08-21T00:00:00Z,9,Youssouf Assogba,Youssouf Assogba,Beninese footballer,Q962,Q962
+Q100778452,Q6581072,1956-12-26T00:00:00Z,9,Geneviève Boko Nadjo,Geneviève Boko Nadjo,Beninese female politician,Q962,Q43595
+Q104153639,Q6581072,1944-03-28T00:00:00Z,6,Victoire Agbanrin-Elisha,Victoire Agbanrin-Elisha,Beninese judge,Q962,Q269353
+Q10468816,Q6581097,1986-01-21T00:00:00Z,3,Benoît Tardieu,Benoît Tardieu,French association football player,Q962,Q18101
+Q105162199,Q6581072,1946-01-01T00:00:00Z,6,Vivi l'internationale,Vivi l'internationale,Beninese singer,Q962,Q3799
+Q10522678,Q6581097,1950-01-01T00:00:00Z,4,Edmé Codjo,Edmé Codjo,Beninese football managers,Q962,Q962
+Q1058246,Q6581097,1923-12-04T00:00:00Z,6,Chabi Mama,Chabi Mama,Beninese politician (1923–1996),Q142,Q688324
+Q1058246,Q6581097,1923-12-04T00:00:00Z,6,Chabi Mama,Chabi Mama,Beninese politician (1923–1996),Q962,Q688324
+Q105834148,Q6581097,1962-10-22T00:00:00Z,1,Enoch Aboh,Enoch Oladé Aboh,Beninese linguist and academic,Q962,
+Q106159994,Q6581072,1993-01-01T00:00:00Z,8,Jennifer Lufau,Jennifer Lufau,"Female speaker, entrepreneur and marketing & communication professional",Q142,Q945
+Q106159994,Q6581072,1993-01-01T00:00:00Z,8,Jennifer Lufau,Jennifer Lufau,"Female speaker, entrepreneur and marketing & communication professional",Q962,Q945
+Q106456426,Q6581097,2002-07-11T00:00:00Z,7,Andréas Hountondji,Andréas Hountondji,French and Beninese footballer,Q142,Q1459869
+Q106456426,Q6581097,2002-07-11T00:00:00Z,7,Andréas Hountondji,Andréas Hountondji,French and Beninese footballer,Q962,Q1459869
+Q106462586,Q6581072,2002-06-14T00:00:00Z,35,Ayra Starr,Ayra Starr,Beninese-Nigerian singer,Q1033,Q43595
+Q106462586,Q6581072,2002-06-14T00:00:00Z,35,Ayra Starr,Ayra Starr,Beninese-Nigerian singer,Q962,Q43595
+Q106764634,Q6581072,1956-01-01T00:00:00Z,7,Adidjatou Mathys,Adidjatou Mathys,Beninese politician,Q962,Q3799
+Q106764648,Q6581072,1957-01-01T00:00:00Z,10,Claudine Talon,Claudine Talon,Beninese politician,Q962,Q3799
+Q107029836,Q6581072,2001-01-01T00:00:00Z,5,Amdivie Kouhounha,Amdivie Kouhounha,Beninois gymnast,Q962,Q2757920
+Q107097502,Q6581097,1962-01-01T00:00:00Z,3,Sévérin Quenum,Sévérin Quenum,Beninese politician,Q962,
+Q107301593,Q6581097,2002-01-20T00:00:00Z,1,Judicaël Agbéci,Judicaël Agbéci,Beninese professional footballer,Q962,Q962
+Q107311601,Q6581097,1998-02-02T00:00:00Z,5,Sadick Abubakar,Sadick Abubakar,Ghanaian professional footballer,Q962,Q117
+Q107369215,Q6581097,2001-12-28T00:00:00Z,2,Dieu Donné Noumonvi,Dieu Donné Noumonvi,Beninese professional footballer,Q962,Q962
+Q107418365,Q6581097,1966-06-16T00:00:00Z,5,Jean-Michel Abimbola,Jean-Michel Abimbola,Beninese politician,Q962,Q3799
+Q107467189,Q6581072,1935-02-23T00:00:00Z,6,Géraldine Faladé,Géraldine Faladé,Beninese writer and journalist (1935–2025),Q962,Q3799
+Q107551912,Q6581097,1973-05-19T00:00:00Z,4,Kouaro Yves Chabi,Kouaro Yves Chabi,Beninese politician,Q962,Q2269248
+Q107613279,Q6581097,1988-12-08T00:00:00Z,5,Privel Hinkati,Privel Hinkati,French-Beninese rower,Q142,Q41185
+Q107613279,Q6581097,1988-12-08T00:00:00Z,5,Privel Hinkati,Privel Hinkati,French-Beninese rower,Q962,Q41185
+Q108199494,Q6581097,1967-11-11T00:00:00Z,4,Alain Orounla,Alain Orounla,politician of Benin,Q962,Q43595
+Q108309762,Q6581097,1942-10-24T00:00:00Z,5,Léopold K. Fakambi,Léopold Fakambi,Beninese agricultural engineer (1942-2021),Q117,Q3792
+Q108309762,Q6581097,1942-10-24T00:00:00Z,5,Léopold K. Fakambi,Léopold Fakambi,Beninese agricultural engineer (1942-2021),Q962,Q3792
+Q108309762,Q6581097,1942-10-21T00:00:00Z,5,Léopold K. Fakambi,Léopold Fakambi,Beninese agricultural engineer (1942-2021),Q117,Q3792
+Q108309762,Q6581097,1942-10-21T00:00:00Z,5,Léopold K. Fakambi,Léopold Fakambi,Beninese agricultural engineer (1942-2021),Q962,Q3792
+Q108419357,Q6581097,1996-10-29T00:00:00Z,5,Melvyn Doremus,Melvyn Doremus,Beninese-French footballer,Q142,Q259216
+Q108419357,Q6581097,1996-10-29T00:00:00Z,5,Melvyn Doremus,Melvyn Doremus,Beninese-French footballer,Q962,Q259216
+Q108590477,Q6581097,1962-03-03T00:00:00Z,9,Dieudonné Datonou,Dieudonné Datonou,Beninois Catholic priest,Q962,Q3704845
+Q109044869,Q6581097,1955-05-21T00:00:00Z,3,Soumanou Oke,Soumanou Oke,Beninese military leader,Q962,Q1133694
+Q109355899,Q6581072,1980-01-24T00:00:00Z,5,Miss Espoir,Miss Espoir,Beninese singer artist,Q962,Q3799
+Q110245065,Q6581072,1955-01-01T00:00:00Z,6,Ramatou Baba Moussa,Ramatou Baba Moussa,politician,Q962,
+Q110245938,Q6581072,1948-03-08T00:00:00Z,4,Sikiratou Aguêmon,Sikiratou Aguêmon,Beninese politician and lawyer (born 1948),Q962,
+Q110271350,Q6581072,1992-03-13T00:00:00Z,7,Queen Fumi,Queen Fumi,Beninese singer artist,Q962,Q962
+Q110323051,Q6581097,1952-04-16T00:00:00Z,4,Mansourou Aremou,Mansourou Aremou,Beninese assistant professor and sports administrator,Q962,Q43595
+Q110449563,Q6581072,1989-03-08T00:00:00Z,7,Soraya Milla,Soraya Milla,French director and producer of Beninese-Cameroonian origin,Q1009,Q90
+Q110449563,Q6581072,1989-03-08T00:00:00Z,7,Soraya Milla,Soraya Milla,French director and producer of Beninese-Cameroonian origin,Q142,Q90
+Q110449563,Q6581072,1989-03-08T00:00:00Z,7,Soraya Milla,Soraya Milla,French director and producer of Beninese-Cameroonian origin,Q962,Q90
+Q110813933,Q6581097,1954-10-01T00:00:00Z,4,Gaston Zossou,Gaston Zossou,Beninese teacher and politician,Q962,Q3799
+Q111341641,Q6581072,1934-01-01T00:00:00Z,6,Béatrice Ahyi Aguessy,Béatrice Akpé Ahyi-Aguessy,Beninese gynaecologist and academic (1934–2019),Q962,Q189685
+Q111475349,Q6581097,2002-05-09T00:00:00Z,11,Junior Olaitan,Junior Olaitan,Beninese association football player,Q1033,Q3799
+Q111475349,Q6581097,2002-05-09T00:00:00Z,11,Junior Olaitan,Junior Olaitan,Beninese association football player,Q962,Q3799
+Q112054516,Q6581072,1973-01-30T00:00:00Z,8,Raïssa Gbédji,Raissa Gbedji,"Beninese journalist, feminist and singer",Q962,Q43595
+Q112943999,Q6581097,2004-08-09T00:00:00Z,11,Idan Toklomati,Idan Toklomati,Israeli footballer,Q801,Q192225
+Q112943999,Q6581097,2004-08-09T00:00:00Z,11,Idan Toklomati,Idan Toklomati,Israeli footballer,Q962,Q192225
+Q114384879,Q6581097,1963-09-07T00:00:00Z,3,Eric Houndété,Éric Houndété,Beninese politician,Q962,
+Q114710429,Q6581072,1956-05-02T00:00:00Z,9,Evelyne Sossouhounto,Evelyne Sossouhounto,Benin teacher and politician (1956–2024),Q962,Q189685
+Q114725768,Q6581097,1942-01-29T00:00:00Z,3,François Kouyami,François Kouyami,Military General and politician from Benin,Q962,Q43595
+Q114930342,Q6581072,1964-04-20T00:00:00Z,7,Annick Balley,Annick Balley,Beninese journalist and television presenter (1964–2024),Q962,Q43595
+Q114982670,Q6581097,1996-01-01T00:00:00Z,2,Dieudonné Kitty,Dieudonné Kitty,Beninese aerobic gymnast (born 1996),Q962,Q43595
+Q115174979,Q6581097,1998-02-18T00:00:00Z,4,Steve Traoré,Steve Traoré,Ivorian and French footballer,Q1008,Q90
+Q115174979,Q6581097,1998-02-18T00:00:00Z,4,Steve Traoré,Steve Traoré,Ivorian and French footballer,Q142,Q90
+Q115174979,Q6581097,1998-02-18T00:00:00Z,4,Steve Traoré,Steve Traoré,Ivorian and French footballer,Q962,Q90
+Q115492307,Q6581097,2004-03-02T00:00:00Z,2,Lenny Pirringuel,Lenny Pirringuel,French footballer,Q142,Q192481
+Q115492307,Q6581097,2004-03-02T00:00:00Z,2,Lenny Pirringuel,Lenny Pirringuel,French footballer,Q962,Q192481
+Q11687425,Q6581097,1957-09-18T00:00:00Z,4,Barthelémy Adoukonu,Barthelémy Adoukonu,Beninese boxer,Q962,
+Q116974626,Q6581097,1972-07-30T00:00:00Z,11,Coffi Roger Anoumou,Coffi Roger Anoumou,Beninese Roman Catholic bishop,Q962,Q2566827
+Q117066291,Q6581097,1986-04-29T00:00:00Z,5,Wily Mignon,Wily Mignon,Beninese musician and composer (1986-2025),Q962,Q688324
+Q117208045,Q6581097,2003-01-14T00:00:00Z,12,Arthur Atta,Arthur Atta,French footballer (born 2003),Q142,Q647
+Q117208045,Q6581097,2003-01-14T00:00:00Z,12,Arthur Atta,Arthur Atta,French footballer (born 2003),Q962,Q647
+Q11764476,Q6581097,2000-01-01T00:00:00Z,4,Léopold Hounkanrin,Léopold Hounkanrin,Beninese athletics competitor,Q962,
+Q11813509,Q6581097,1956-08-28T00:00:00Z,4,Patrice Martin,Patrice Martin,Beninese boxer,Q962,
+Q11816658,Q6581097,1955-06-11T00:00:00Z,4,Pierre Sotoumey,Pierre Sotoumey,Beninese boxer,Q962,
+Q11865106,Q6581097,1934-04-04T00:00:00Z,14,Isidore de Souza,Isidore de Souza,Beninese archbishop (1934-1999),Q962,Q850031
+Q118665423,Q6581072,1955-01-16T00:00:00Z,11,Paulette Marcelline Adjovi,Paulette Marcelline Adjovi,Beninese politician,Q962,
+Q11891042,Q6581097,1926-06-07T00:00:00Z,10,Robert Sastre,Robert Codjo Sastre,Beninese bishop,Q962,Q1542478
+Q121617321,Q6581097,2004-05-04T00:00:00Z,5,Dodo Dokou,Dodo Dokou,Beninese association football player,Q962,Q43595
+Q1231999,Q6581097,1988-11-23T00:00:00Z,2,Djamal Fassassi,Djamal Fassassi,association football player,Q962,Q3799
+Q123478083,Q6581072,1991-01-01T00:00:00Z,5,Sènami Donoumassou,Senami Donoumassou,Beninese visual artist,Q962,Q3799
+Q1237848,Q6581097,1984-09-24T00:00:00Z,20,Mickaël Poté,Mickaël Poté,Beninese and French association football player,Q142,Q456
+Q1237848,Q6581097,1984-09-24T00:00:00Z,20,Mickaël Poté,Mickaël Poté,Beninese and French association football player,Q962,Q456
+Q124611881,Q6581097,2004-11-02T00:00:00Z,5,Olatoundji Tessilimi,Olatoundji Tessilimi,Beninese footballer (born 2004),Q962,Q3799
+Q124632,Q6581097,1970-05-16T00:00:00Z,10,Alain Gaspoz,Alain Gaspoz,Beninese association football player,Q39,Q36378
+Q124632,Q6581097,1970-05-16T00:00:00Z,10,Alain Gaspoz,Alain Gaspoz,Beninese association football player,Q962,Q36378
+Q124646425,Q6581097,1950-06-27T00:00:00Z,3,François Adébayo Abiola,François Abiola,Beninois politician,Q962,
+Q124710053,Q6581072,1977-01-01T00:00:00Z,7,Dandi Gnamou,Dandi Gnamou,"Beninese jurist, academic, and politician.",Q962,
+Q125171611,Q6581097,2002-11-16T00:00:00Z,6,Mariano Ahouangbo,Mariano Ahouangbo,Beninese footballer,Q962,Q3799
+Q125547067,Q6581072,1981-08-27T00:00:00Z,4,Chantal Djotodia,Chantal Djotodia,Central African-Beninese Politician,Q929,Q2095710
+Q125547067,Q6581072,1981-08-27T00:00:00Z,4,Chantal Djotodia,Chantal Djotodia,Central African-Beninese Politician,Q962,Q2095710
+Q126061075,Q6581097,1946-01-26T00:00:00Z,5,Séfou Fagbohoun,Séfou Fagbohoun,Beninese businessman and politician,Q962,Q1133867
+Q12739398,Q6581097,1932-12-31T00:00:00Z,9,Richard Dogbeh,Richard Dogbeh,Beninese writer,Q945,Q43595
+Q12739398,Q6581097,1932-12-31T00:00:00Z,9,Richard Dogbeh,Richard Dogbeh,Beninese writer,Q962,Q43595
+Q1275444,Q6581097,1925-01-31T00:00:00Z,17,Paulin Soumanou Vieyra,Paulin Soumanou Vieyra,Senegalese film director (1925–1987),Q1041,Q3799
+Q1275444,Q6581097,1925-01-31T00:00:00Z,17,Paulin Soumanou Vieyra,Paulin Soumanou Vieyra,Senegalese film director (1925–1987),Q142,Q3799
+Q1275444,Q6581097,1925-01-31T00:00:00Z,17,Paulin Soumanou Vieyra,Paulin Soumanou Vieyra,Senegalese film director (1925–1987),Q962,Q3799
+Q127611164,Q6581097,1996-10-15T00:00:00Z,7,Valentin Houinato,Valentin Houinato,Franco-Beninese judoka,Q142,Q41139
+Q127611164,Q6581097,1996-10-15T00:00:00Z,7,Valentin Houinato,Valentin Houinato,Franco-Beninese judoka,Q962,Q41139
+Q127695639,Q6581072,1998-12-08T00:00:00Z,7,Aude Gbedjissi,Aude Gbédjissi,Beninese footballer,Q962,Q1134963
+Q128597933,Q6581072,2007-11-28T00:00:00Z,8,Ionnah Eliane Douillet,Ionnah Douillet,French swimmer,Q142,Q6548
+Q128597933,Q6581072,2007-11-28T00:00:00Z,8,Ionnah Eliane Douillet,Ionnah Douillet,French swimmer,Q962,Q6548
+Q128597936,Q6581097,2005-11-11T00:00:00Z,4,Alexis Kpadi,Alexis Kpadé,French swimmer,Q142,Q1165370
+Q128597936,Q6581097,2005-11-11T00:00:00Z,4,Alexis Kpadi,Alexis Kpadé,French swimmer,Q962,Q1165370
+Q12894830,Q6581097,1956-06-07T00:00:00Z,4,Mahouton Norbert Hounkonnou,Mahouton Norbert Hounkonnou,Beninese mathematician,Q962,Q1134538
+Q131448114,Q6581097,2006-11-11T00:00:00Z,8,Joan Beringer,Joan Beringer,French basketball player (born 2006),Q142,Q22737
+Q131448114,Q6581097,2006-11-11T00:00:00Z,8,Joan Beringer,Joan Beringer,French basketball player (born 2006),Q962,Q22737
+Q131462980,Q6581072,2000-05-12T00:00:00Z,2,Yolande Gnammi,Yolande Gnammi,Beninese footballer,Q962,
+Q131689561,Q6581072,1943-01-01T00:00:00Z,4,Grace Aboh Dotou,Grace Aboh Dotou,"Beninese teacher, entrepreneur, activist (born 1943)",Q962,Q3799
+Q131718936,Q6581097,1976-01-01T00:00:00Z,2,Sèmèvo Orisha Oké,Sèmèvo Orisha Oké,Beninois singer,Q962,
+Q133521983,Q6581097,2005-01-18T00:00:00Z,6,Candas Fiogbé,Candas Fiogbé,Beninese footballer,Q962,
+Q133855140,Q6581097,1955-01-01T00:00:00Z,2,Paul Kato Atita,Paul Kato Atita,Beninois lawyer,Q962,
+Q134579756,Q6581097,1912-01-01T00:00:00Z,1,Joseph Agbodjelou,Joseph Agbodjelou,Beninese photographer (1912–1999),Q962,
+Q134823286,Q6581097,1945-11-28T00:00:00Z,3,Octave Houdégbé,Octave Houdégbé,Beninois politician,Q962,Q3704845
+Q135206029,Q6581072,1984-05-07T00:00:00Z,7,Corinne Amori Brunet,Corinne Amori Brunet,Beninese diplomat,Q962,
+Q135645275,Q6581097,2006-06-22T00:00:00Z,4,Razack Rachidou,Razack Rachidou,Beninese footballer,Q962,
+Q135686515,Q6581097,2001-08-08T00:00:00Z,4,Charlemagne Azongnitode,Charlemagne Azongnitode,Beninese footballer,Q962,Q962
+Q136108709,Q6581097,2006-12-26T00:00:00Z,6,Rodolfo Aloko,Rodolfo Aloko,Beninese footballer,Q962,Q1118769
+Q137593119,Q6581097,2004-02-25T00:00:00Z,4,Adam Akimey,Adam Akimey,Beninese footballer (born 2004),Q34,Q1781582
+Q137593119,Q6581097,2004-02-25T00:00:00Z,4,Adam Akimey,Adam Akimey,Beninese footballer (born 2004),Q962,Q1781582
+Q1376761,Q6581097,1961-01-01T00:00:00Z,10,Meschac Gaba,Meschac Gaba,Beninese conceptual artist (born 1961),Q962,Q43595
+Q1377784,Q6581097,1976-09-18T00:00:00Z,10,Rachad Chitou,Rachad Chitou,Beninese footballer,Q962,Q862701
+Q1381554,Q6581097,1985-07-08T00:00:00Z,10,Romuald Boco,Romuald Boco,Beninese and French association football player,Q142,Q18105
+Q1381554,Q6581097,1985-07-08T00:00:00Z,10,Romuald Boco,Romuald Boco,Beninese and French association football player,Q962,Q18105
+Q139378636,Q6581072,2010-11-13T00:00:00Z,6,Romaine Gandonou,Romaine Gandonou,Beninois association football player,Q962,Q2274435
+Q140085733,Q6581097,2006-06-12T00:00:00Z,2,Yamirou Ouorou,Yamirou Ouorou,Beninese footballer,Q962,Q2100355
+Q140085738,Q6581097,2003-03-20T00:00:00Z,1,Liam Omore,Liam Omore,Beninese footballer,Q962,
+Q1411427,Q6581097,1950-10-23T00:00:00Z,14,Fidèle Agbatchi,Fidèle Agbatchi,Catholic archbishop,Q962,Q2609291
+Q141649606,Q6581097,2001-01-10T00:00:00Z,2,Ede Oloko,Ede Oloko,,Q962,
+Q14638133,Q6581097,1994-01-19T00:00:00Z,16,Cédric Hountondji,Cédric Hountondji,Beninese and French footballer,Q142,Q7880
+Q14638133,Q6581097,1994-01-19T00:00:00Z,16,Cédric Hountondji,Cédric Hountondji,Beninese and French footballer,Q962,Q7880
+Q14638133,Q6581097,1994-04-19T00:00:00Z,16,Cédric Hountondji,Cédric Hountondji,Beninese and French footballer,Q142,Q7880
+Q14638133,Q6581097,1994-04-19T00:00:00Z,16,Cédric Hountondji,Cédric Hountondji,Beninese and French footballer,Q962,Q7880
+Q1479583,Q6581097,1986-04-08T00:00:00Z,9,Junior Salomon,Junior Salomon,Beninese footballer,Q962,Q189685
+Q150207,Q6581097,1984-06-01T00:00:00Z,42,Stéphane Sessègnon,Stéphane Sessègnon,Beninese footballer,Q962,Q1150223
+Q15079943,Q6581097,1990-06-26T00:00:00Z,8,Mouphtaou Yarou,Mouphtaou Yarou,American basketball player,Q962,Q994125
+Q15298677,Q6581097,1979-01-05T00:00:00Z,5,Mayeul Akpovi,Mayeul Akpovi,Beninese photographer,Q962,Q43595
+Q1540103,Q6581097,1967-07-14T00:00:00Z,10,Idrissou Mora-Kpai,Idrissou Mora-Kpaï,Beninese filmmaker,Q962,Q3647992
+Q15452224,Q6581097,1940-06-10T00:00:00Z,4,Guy Landry Hazoumé,Guy Landry Hazoumé,Beninese politician,Q962,
+Q15836269,Q6581097,1991-07-18T00:00:00Z,5,Nana Nafihou,Nana Nafihou,association football player,Q962,Q3695945
+Q15836269,Q6581097,1988-01-30T00:00:00Z,5,Nana Nafihou,Nana Nafihou,association football player,Q962,Q3695945
+Q15908493,Q6581097,1992-03-17T00:00:00Z,16,Jodel Dossou,Jodel Dossou,Benin footballer,Q962,Q2609335
+Q15935234,Q6581097,1981-11-04T00:00:00Z,6,Ryad Assani-Razaki,Ryad Assani-Razaki,Canadian author,Q16,Q43595
+Q15935234,Q6581097,1981-11-04T00:00:00Z,6,Ryad Assani-Razaki,Ryad Assani-Razaki,Canadian author,Q962,Q43595
+Q16010041,Q6581097,1989-03-12T00:00:00Z,17,Jordan Adéoti,Jordan Adeoti,Beninese and French footballer,Q142,Q7880
+Q16010041,Q6581097,1989-03-12T00:00:00Z,17,Jordan Adéoti,Jordan Adeoti,Beninese and French footballer,Q962,Q7880
+Q16149870,Q6581097,1950-01-01T00:00:00Z,5,Sévérin Adjovi,Séverin Adjovi,Beninese politician,Q962,
+Q16214537,Q6581097,1973-01-01T00:00:00Z,4,Jérôme Nouhouaï,Jérôme Nouhouaï,Beniniese writer,Q962,
+Q16236719,Q6581097,1995-11-20T00:00:00Z,15,Sessi D'Almeida,Sessi D'Almeida,Beninese footballer,Q142,Q1479
+Q16236719,Q6581097,1995-11-20T00:00:00Z,15,Sessi D'Almeida,Sessi D'Almeida,Beninese footballer,Q962,Q1479
+Q16535504,Q6581097,1959-06-14T00:00:00Z,4,Candide Azzanaï,Candide Azannaï,Beninese politician,Q962,
+Q16669148,Q6581097,1958-05-01T00:00:00Z,66,Patrice Talon,Patrice Talon,President of Benin between 2016 and 2026,Q962,Q850031
+Q16671656,Q6581072,1965-01-01T00:00:00Z,10,Pélagie Gbaguidi,Pélagie Gbaguidi,Beninese artist (born 1965),Q962,Q3718
+Q16728592,Q6581097,1995-08-23T00:00:00Z,10,David Djigla,David Djigla,Beninese footballer,Q962,Q3630941
+Q16840908,Q6581097,1958-10-20T00:00:00Z,7,Aurélien Agbénonci,Aurélien Agbénonci,Beninese diplomat,Q962,Q3799
+Q16885575,Q6581097,1948-01-01T00:00:00Z,3,Ismaël Tidjani Serpos,Ismaël Tidjani Serpos,Beninese politician,Q962,
+Q16886636,Q6581097,1962-10-30T00:00:00Z,6,Nassirou Bako Arifari,Nassirou Bako Arifari,Beninese politician and academic,Q962,Q1860831
+Q17198342,Q6581097,1987-12-03T00:00:00Z,4,Arsène Menessou,Arsène Menessou,Beninese footballer,Q962,Q1515
+Q17318783,Q6581072,1982-01-01T00:00:00Z,9,Marie-Cécile Zinsou,Marie-Cécile Zinsou,French-Beninese entrepreneur,Q142,Q90
+Q17318783,Q6581072,1982-01-01T00:00:00Z,9,Marie-Cécile Zinsou,Marie-Cécile Zinsou,French-Beninese entrepreneur,Q962,Q90
+Q17403161,Q6581097,1988-01-27T00:00:00Z,5,Blaaz,Blaaz,Beninese rapper,Q962,Q182984
+Q1756634,Q6581097,1971-12-11T00:00:00Z,6,Moudachirou Amadou,Moudachirou Amadou,Beninese association football player,Q962,Q43595
+Q17612528,Q6581072,1971-03-06T00:00:00Z,8,Laure Kuetey,Laure Kuetey,Beninese athletics competitor (born 1971),Q962,
+Q17636740,Q6581097,1953-01-01T00:00:00Z,5,Pipi Wobaho,Pipi Wobaho,Beninese singer,Q962,Q43595
+Q17651676,Q6581097,1969-01-01T00:00:00Z,7,Eléphant Mouillé,Éléphant mouillé,"Beninese actor, comedian and screenwriter",Q962,Q2356092
+Q17712326,Q6581097,1972-04-13T00:00:00Z,5,Pascal Dangbo,Pascal Dangbo,Beninnese sprinter,Q962,Q962
+Q18043602,Q6581097,1994-10-19T00:00:00Z,6,Brandon Agounon,Brandon Agounon,French-Beninese footballer,Q142,Q41185
+Q18043602,Q6581097,1994-10-19T00:00:00Z,6,Brandon Agounon,Brandon Agounon,French-Beninese footballer,Q962,Q41185
+Q18043602,Q6581097,1994-10-19T00:00:00Z,6,Brandon Agounon,Brandon Agounon,French-Beninese footballer,Q974,Q41185
+Q18206403,Q6581097,1987-04-30T00:00:00Z,1,Loic Didavi,Loic Didavi,Beninese tennis player,Q962,
+Q18221274,Q6581097,1978-09-24T00:00:00Z,3,Daté Atavito Barnabe-Akayi,Daté Atavito Barnabé-Akayi,Beninese writer and teacher,Q962,
+Q18684301,Q6581097,1954-07-01T00:00:00Z,5,Idris Assani,Idris Assani,African-American mathematician,Q30,Q3674
+Q18684301,Q6581097,1954-07-01T00:00:00Z,5,Idris Assani,Idris Assani,African-American mathematician,Q962,Q3674
+Q1871740,Q6581097,1903-06-21T00:00:00Z,10,Louis Ignacio-Pinto,Louis Ignacio-Pinto,Beninese politician (1903-1984),Q142,Q3799
+Q1871740,Q6581097,1903-06-21T00:00:00Z,10,Louis Ignacio-Pinto,Louis Ignacio-Pinto,Beninese politician (1903-1984),Q962,Q3799
+Q1873414,Q6581097,1926-06-03T00:00:00Z,10,Lucien Monsi-Agboka,Lucien Monsi-Agboka,Beninese Roman Catholic bishop,Q962,Q43595
+Q18809005,Q6581097,1993-05-06T00:00:00Z,11,Désiré Segbé Azankpo,Désiré Segbé Azankpo,Beninese and French association football player,Q142,Q1150223
+Q18809005,Q6581097,1993-05-06T00:00:00Z,11,Désiré Segbé Azankpo,Désiré Segbé Azankpo,Beninese and French association football player,Q962,Q1150223
+Q18921785,Q6581097,1963-01-01T00:00:00Z,7,Dieudonné Gnammankou,Dieudonné Gnammankou,Beninese writer and translator,Q962,Q962
+Q1893054,Q6581097,1941-01-16T00:00:00Z,17,Marcel Honorat Léon Agboton,Marcel Honorat Léon Agboton,Beninese Roman Catholic archbishop,Q962,Q2375902
+Q1950192,Q6581097,1991-04-10T00:00:00Z,11,Mouftaou Adou,Mouftaou Adou,Beninese footballer,Q962,Q43595
+Q1966376,Q6581097,1985-11-18T00:00:00Z,6,Jacob Gnahoui,Jacob Gnahoui,Beninese judoka,Q962,Q962
+Q1978463,Q6581097,1929-02-21T00:00:00Z,8,Nestor Assogba,Nestor Assogba,Roman Catholic archbishop (1929-2017),Q962,Q189685
+Q19952856,Q6581097,1947-04-04T00:00:00Z,3,Amos Elegbe,Amos Elegbe,Beninois politician,Q962,Q2609291
+Q19958642,Q6581072,1975-09-25T00:00:00Z,14,Zeynab Habib,Zeynab Habib,Beninese singer of world music,Q962,Q1515
+Q20014381,Q6581072,1951-11-17T00:00:00Z,9,Arlette Dagnon Vignikin,Arlette Dagnon Vignikin,Ambassador of Benin,Q962,Q850031
+Q20220067,Q6581097,1965-01-01T00:00:00Z,6,Simonet Biokou,Simonet Biokou,Beninese vodou artist,Q962,Q3799
+Q20220068,Q6581097,1956-01-01T00:00:00Z,6,Theodore Dakpogan,Theodore Dakpogan,Beninese artist,Q962,
+Q20220070,Q6581097,1952-01-01T00:00:00Z,6,Dominique Kouas,Dominique Kouas,Beninese artist,Q962,
+Q20220071,Q6581097,1959-01-01T00:00:00Z,7,Yves Apollinaire Pede,Yves Apollinaire Pede,Beninese vodou artist (1959–2019),Q962,Q189685
+Q2030002,Q6581097,1985-05-23T00:00:00Z,5,Shafiq Chitou,Shafiq Chitou,Beninese boxer,Q962,Q43595
+Q203223,Q6581072,1985-10-25T00:00:00Z,51,Ciara,Ciara,"American singer, songwriter, and dancer (born 1985)",Q30,Q783854
+Q203223,Q6581072,1985-10-25T00:00:00Z,51,Ciara,Ciara,"American singer, songwriter, and dancer (born 1985)",Q962,Q783854
+Q2060717,Q6581097,1949-07-14T00:00:00Z,10,Paul Kouassivi Vieira,Paul Kouassivi Vieira,Beninese Roman Catholic bishop (1949–2019),Q962,Q3606844
+Q2065417,Q6581097,1988-09-16T00:00:00Z,15,Emmanuel Imorou,Emmanuel Imorou,Beninese and French association football player,Q142,Q132404
+Q2065417,Q6581097,1988-09-16T00:00:00Z,15,Emmanuel Imorou,Emmanuel Imorou,Beninese and French association football player,Q962,Q132404
+Q20666313,Q6581097,1989-04-05T00:00:00Z,10,Yémi Apithy,Yémi Apithy,Beninese/French fencer,Q142,Q7003
+Q20666313,Q6581097,1989-04-05T00:00:00Z,10,Yémi Apithy,Yémi Apithy,Beninese/French fencer,Q962,Q7003
+Q206719,Q6581097,1933-09-02T00:00:00Z,61,Mathieu Kérékou,Mathieu Kérékou,politician (1933-2015),Q962,Q3816655
+Q2073235,Q6581097,1986-05-17T00:00:00Z,11,Yoann Djidonou,Yoann Djidonou,Beninese footballer,Q962,Q1166602
+Q20740641,Q6581097,1993-09-15T00:00:00Z,2,Jaques Bisan,Jaques Bisan,association football player,Q962,Q962
+Q20810391,Q6581097,1950-01-01T00:00:00Z,4,Saliou Akadiri,Saliou Akadiri,Beninese politician,Q962,Q93650
+Q20899202,Q6581072,1985-12-26T00:00:00Z,18,Noélie Yarigo,Noélie Yarigo,Beninese athletics competitor,Q962,Q994125
+Q20986546,Q6581097,1930-11-20T00:00:00Z,5,Bertin Borna,Bertin Borna,Beninese politician,Q962,Q2269248
+Q20995493,Q6581072,1974-04-30T00:00:00Z,14,Reckya Madougou,Reckya Madougou,Beninese politician,Q962,
+Q21062609,Q6581097,1957-01-27T00:00:00Z,4,Julien Sinzogan,Julien Sinzogan,Beninese painter and graphic artist (born 1957),Q962,Q3799
+Q21064219,Q6581097,1994-09-29T00:00:00Z,23,Steve Mounié,Steve Mounié,Beninese and French association football player,Q142,Q688324
+Q21064219,Q6581097,1994-09-29T00:00:00Z,23,Steve Mounié,Steve Mounié,Beninese and French association football player,Q962,Q688324
+Q21064508,Q6581097,1993-11-25T00:00:00Z,11,David Kiki,David Kiki,Beninese association football player,Q142,Q4007295
+Q21064508,Q6581097,1993-11-25T00:00:00Z,11,David Kiki,David Kiki,Beninese association football player,Q962,Q4007295
+Q2112411,Q6581097,1979-09-20T00:00:00Z,8,Wilfried Tevoedjre,Wilfried Tevoedjre,Beninese swimmer,Q962,Q43595
+Q2144498,Q6581097,1944-04-12T00:00:00Z,11,René-Marie Ehuzu,René-Marie Ehuzu,Beninese university teacher and catholic priest (1944-2012),Q962,Q43595
+Q22084800,Q6581072,1946-05-02T00:00:00Z,14,Rafiatou Karimou,Rafiatou Karimou,Beninese politician and teacher (1946-2018),Q962,Q959156
+Q22162716,Q6581097,1993-12-14T00:00:00Z,3,Femi Hollinger-Janzen,Femi Hollinger-Janzen,Beninese association football player,Q962,Q43595
+Q2226498,Q6581097,1993-11-22T00:00:00Z,11,Saturnin Allagbé,Saturnin Allagbé,Beninese and French footballer,Q142,Q738546
+Q2226498,Q6581097,1993-11-22T00:00:00Z,11,Saturnin Allagbé,Saturnin Allagbé,Beninese and French footballer,Q962,Q738546
+Q22342788,Q6581097,1992-10-02T00:00:00Z,12,Cebio Soukou,Cebio Soukou,Beninese / German association football player,Q183,Q2103
+Q22342788,Q6581097,1992-10-02T00:00:00Z,12,Cebio Soukou,Cebio Soukou,Beninese / German association football player,Q962,Q2103
+Q22667423,Q6581097,1950-01-01T00:00:00Z,4,Akpovi Akoègninou,Akpovi Akoègninou,botanist (1950 - ),Q962,Q544623
+Q2271792,Q6581097,1988-05-01T00:00:00Z,7,Frédéric Gounongbe,Frédéric Gounongbé,Beninese footballer,Q31,Q9005
+Q2271792,Q6581097,1988-05-01T00:00:00Z,7,Frédéric Gounongbe,Frédéric Gounongbé,Beninese footballer,Q962,Q9005
+Q22814395,Q6581097,1953-01-01T00:00:00Z,7,Grégoire Ahongbonon,Grégoire Ahongbonon,Beninese philanthropist,Q962,Q962
+Q22957929,Q6581072,1951-03-21T00:00:00Z,15,Grace d'Almeida,Grace d'Almeida,"Beninese lawyer, feminist and human rights activist (1951–2005)",Q962,Q3718
+Q22963474,Q6581097,1995-11-01T00:00:00Z,12,Moïse Adiléhou,Moïse Adilehou,Beninese and French footballer,Q142,Q174002
+Q22963474,Q6581097,1995-11-01T00:00:00Z,12,Moïse Adiléhou,Moïse Adilehou,Beninese and French footballer,Q962,Q174002
+Q2309989,Q6581097,1986-05-31T00:00:00Z,3,Safradine Traoré,Safradine Traoré,Beninese footballer,Q962,Q3799
+Q2310382,Q6581097,1978-01-07T00:00:00Z,12,Oumar Tchomogo,Oumar Tchomogo,Beninese and French footballer,Q142,Q2356092
+Q2310382,Q6581097,1978-01-07T00:00:00Z,12,Oumar Tchomogo,Oumar Tchomogo,Beninese and French footballer,Q962,Q2356092
+Q231276,Q6581072,1960-07-14T00:00:00Z,65,Angélique Kidjo,Angelique Kidjo,Beninese-French world music singer (born 1960),Q142,Q850031
+Q231276,Q6581072,1960-07-14T00:00:00Z,65,Angélique Kidjo,Angelique Kidjo,Beninese-French world music singer (born 1960),Q962,Q850031
+Q23800047,Q6581097,1995-06-24T00:00:00Z,5,Abdel Fadel Suanon,Abdel Fadel Suanon,association football player,Q962,Q688324
+Q2412242,Q6581097,1969-11-14T00:00:00Z,5,Bertin Nahum,Bertin Nahum,French entrepreneur,Q142,Q3718
+Q2412242,Q6581097,1969-11-14T00:00:00Z,5,Bertin Nahum,Bertin Nahum,French entrepreneur,Q962,Q3718
+Q2416218,Q6581097,1988-03-21T00:00:00Z,15,Réda Johnson,Réda Johnson,Beninese and French footballer,Q142,Q23482
+Q2416218,Q6581097,1988-03-21T00:00:00Z,15,Réda Johnson,Réda Johnson,Beninese and French footballer,Q262,Q23482
+Q2416218,Q6581097,1988-03-21T00:00:00Z,15,Réda Johnson,Réda Johnson,Beninese and French footballer,Q962,Q23482
+Q24251104,Q6581097,1972-04-13T00:00:00Z,4,Eric Agueh,Eric Agueh,Beninese sprinter,Q962,
+Q2454187,Q6581097,1979-12-31T00:00:00Z,5,Souhalia Alamou,Souhalia Alamou,Beninese sprinter,Q962,
+Q24549798,Q6581097,1993-09-15T00:00:00Z,3,Jacques Bessan,Jacques Bessan,football player,Q962,Q189685
+Q24951128,Q6581097,1976-06-20T00:00:00Z,29,Romuald Wadagni,Romuald Wadagni,President of Benin (born 1976),Q962,Q219058
+Q24951656,Q6581097,1949-01-01T00:00:00Z,2,Issifou Kogui N'Douro,Issifou Kogui N'Douro,Beninese politician,Q962,Q2271297
+Q2524218,Q6581097,1989-06-01T00:00:00Z,12,Jonathan Tinhan,Jonathan Tinhan,Beninese and French association football player,Q142,Q211134
+Q2524218,Q6581097,1989-06-01T00:00:00Z,12,Jonathan Tinhan,Jonathan Tinhan,Beninese and French association football player,Q962,Q211134
+Q25643,Q6581097,1982-10-10T00:00:00Z,12,Mouritala Ogunbiyi,Mouritala Ogunbiyi,football midfielder,Q962,Q2356092
+Q25938870,Q6581097,1968-06-21T00:00:00Z,3,Fernand Gandaho,Fernand Gandaho,Beninese cyclist,Q962,Q2464735
+Q25999582,Q6581072,1937-07-07T00:00:00Z,11,Elisabeth Ekoué Pognon,Élisabeth Pognon,Beninese judge,Q962,Q1018574
+Q26235904,Q6581097,1927-12-05T00:00:00Z,4,Joseph Keke,Joseph Keke,Beninese politician,Q962,Q2375902
+Q26236244,Q6581097,1935-03-10T00:00:00Z,4,Pascal Chabi Kao,Pascal Chabi Kao,Beninese politician,Q962,Q688324
+Q26251727,Q6581072,1962-03-14T00:00:00Z,11,Félicite Bada,Félicite Bada,Beninese athletics competitor,Q962,
+Q26254384,Q6581097,1986-04-01T00:00:00Z,6,Celtus Dossou Yovo,Celtus Dossou Yovo,Beninese judoka,Q962,Q43595
+Q26260172,Q6581097,1979-04-14T00:00:00Z,12,Jules Bessan,Jules Bessan,Beninese swimmer,Q962,Q43595
+Q2636440,Q6581097,1988-02-23T00:00:00Z,2,Alain Hounsa,Alain Hounsa,association football player,Q962,
+Q26605685,Q6581072,2000-12-06T00:00:00Z,13,Laraïba Seibou,Laraïba Seibou,Beninese swimmer,Q962,Q962
+Q26605702,Q6581097,1995-11-30T00:00:00Z,11,Didier Kiki,Didier Kiki,Beninese athletics competitor,Q962,Q3799
+Q2698946,Q6581097,1990-11-14T00:00:00Z,11,Djiman Koukou,Djiman Koukou,Beninese and French footballer,Q142,Q3799
+Q2698946,Q6581097,1990-11-14T00:00:00Z,11,Djiman Koukou,Djiman Koukou,Beninese and French footballer,Q962,Q3799
+Q27062959,Q6581072,1988-02-08T00:00:00Z,18,Françoise Ellong,Françoise Ellong,film director,Q1009,Q132830
+Q27062959,Q6581072,1988-02-08T00:00:00Z,18,Françoise Ellong,Françoise Ellong,film director,Q962,Q132830
+Q27062975,Q6581072,1963-06-30T00:00:00Z,15,Christiane Chabi-Kao,Christiane Chabi-Kao,Beninese film director and screenwriter,Q142,Q23482
+Q27062975,Q6581072,1963-06-30T00:00:00Z,15,Christiane Chabi-Kao,Christiane Chabi-Kao,Beninese film director and screenwriter,Q962,Q23482
+Q27063531,Q6581097,1934-03-22T00:00:00Z,3,Moïse Mensah,Moise Mensah,Beninese politician (1934–2019),Q962,Q586448
+Q2717376,Q6581097,1982-05-24T00:00:00Z,10,Damien Chrysostome,Damien Chrysostome,Beninese footballer,Q962,Q43595
+Q2741010,Q6581097,1985-09-20T00:00:00Z,7,Abou Maïga,Abou Maiga,Beninese footballer,Q962,Q1150223
+Q2743679,Q6581097,1964-06-18T00:00:00Z,15,Florent Couao-Zotti,Florent Couao-Zotti,writer from Benin,Q962,Q269353
+Q2746007,Q6581097,1984-09-03T00:00:00Z,7,Noël Séka,Noël Séka,Beninese footballer,Q962,Q1150223
+Q2746007,Q6581097,1984-03-09T00:00:00Z,7,Noël Séka,Noël Séka,Beninese footballer,Q962,Q1150223
+Q2787337,Q6581072,1976-08-06T00:00:00Z,17,Fabienne Feraez,Fabienne Feraez,Beninese athletics competitor (born 1976),Q962,Q188033
+Q28058093,Q6581097,1979-01-01T00:00:00Z,8,Emo de Medeiros,Emo de Medeiros,Beninese artist,Q142,Q43595
+Q28058093,Q6581097,1979-01-01T00:00:00Z,8,Emo de Medeiros,Emo de Medeiros,Beninese artist,Q962,Q43595
+Q2821361,Q6581097,1952-10-25T00:00:00Z,10,Abdoulaye Bio Tchané,Abdoulaye Bio Tchané,Beninese economist and politician,Q962,Q868198
+Q2821388,Q6581097,1985-10-24T00:00:00Z,6,Abdoulaye Ouzérou,Abdoulaye Ouzérou,Beninese footballer,Q962,Q688324
+Q2821638,Q6581097,1946-01-01T00:00:00Z,8,Abiola Félix Iroko,Abiola Félix Iroko,Beninese historian (1946-2020),Q962,Q210682
+Q2823097,Q6581097,1987-06-20T00:00:00Z,6,Achille Rouga,Achille Rouga,Beninese footballer,Q962,Q688324
+Q2823097,Q6581097,1987-06-10T00:00:00Z,6,Achille Rouga,Achille Rouga,Beninese footballer,Q962,Q688324
+Q2831598,Q6581097,1929-11-10T00:00:00Z,7,Albert Tévoédjrè,Albert Tévoédjrè,Beninese politician,Q962,Q3799
+Q29018629,Q6581097,1997-10-17T00:00:00Z,3,Richard Bakary,Richard Bakary,Beninese association football player,Q962,Q3799
+Q29035,Q6581097,1951-05-01T00:00:00Z,16,Pascal Koupaki,Pascal Koupaki,Beninese politician,Q962,Q43595
+Q2904023,Q6581097,1985-06-09T00:00:00Z,7,Bio Aï Traoré,Bio Aï Traore,Beninese footballer,Q962,Q3799
+Q29196,Q6581097,1952-07-01T00:00:00Z,65,Thomas Boni Yayi,Thomas Boni Yayi,Beninese politician and Former President of Benin,Q962,Q1364580
+Q2926618,Q6581097,1939-07-02T00:00:00Z,6,Bruno Amoussou,Bruno Amoussou,Beninese politician,Q962,Q3032740
+Q298682,Q6581097,1964-04-24T00:00:00Z,58,Djimon Hounsou,Djimon Hounsou,Beninese actor,Q962,Q43595
+Q30070239,Q6581097,1965-01-01T00:00:00Z,7,Leonce Raphael Agbodjelou,Leonce Raphael Agbodjelou,Beninese photographer (born 1965),Q962,Q3799
+Q3008887,Q6581097,1939-01-01T00:00:00Z,5,Cyprien Tokoudagba,Cyprien Tokoudagba,Beninese artist (1939–2012),Q962,Q189685
+Q30243265,Q6581097,1926-01-10T00:00:00Z,1,Comlan A. A. Quenum,Comlan A. A. Quenum,"Beninese physician, WHO official",Q962,Q850031
+Q30390327,Q6581097,1974-06-21T00:00:00Z,3,Olivier Serva,Olivier Serva,French politician,Q142,Q335322
+Q30390327,Q6581097,1974-06-21T00:00:00Z,3,Olivier Serva,Olivier Serva,French politician,Q962,Q335322
+Q3063598,Q6581097,1985-02-05T00:00:00Z,14,Fabien Farnolle,Fabien Farnolle,Beninese and French footballer,Q142,Q1479
+Q3063598,Q6581097,1985-02-05T00:00:00Z,14,Fabien Farnolle,Fabien Farnolle,Beninese and French footballer,Q962,Q1479
+Q30675005,Q6581097,1944-11-05T00:00:00Z,2,Samuel Dossou-Aworet,Samuel Dossou-Aworet,"pan-African businessman involved in gas, oil, and infrastructure",Q1000,Q3799
+Q30675005,Q6581097,1944-11-05T00:00:00Z,2,Samuel Dossou-Aworet,Samuel Dossou-Aworet,"pan-African businessman involved in gas, oil, and infrastructure",Q962,Q3799
+Q30675055,Q6581097,1995-01-01T00:00:00Z,3,Raimi Kola,Raimi Kola,association football player,Q962,Q43595
+Q3074121,Q6581097,1986-02-07T00:00:00Z,7,Florent Raimy,Florent Raimy,Beninese and French association football player,Q142,Q167141
+Q3074121,Q6581097,1986-02-07T00:00:00Z,7,Florent Raimy,Florent Raimy,Beninese and French association football player,Q962,Q167141
+Q3092305,Q6581097,1980-10-25T00:00:00Z,5,Félicien Singbo,Félicien Singbo,Beninese footballer,Q962,Q189685
+Q3093841,Q6581097,1917-08-18T00:00:00Z,3,Gabriel Lozès,Gabriel Lozès,Beninese politician (1917-1986),Q142,Q189685
+Q3093841,Q6581097,1917-08-18T00:00:00Z,3,Gabriel Lozès,Gabriel Lozès,Beninese politician (1917-1986),Q962,Q189685
+Q3131124,Q6581097,1989-11-30T00:00:00Z,11,Mohamed Aoudou,Mohamed Aoudou,Beninese footballer,Q962,Q2336677
+Q3131124,Q6581097,1990-02-19T00:00:00Z,11,Mohamed Aoudou,Mohamed Aoudou,Beninese footballer,Q962,Q2336677
+Q3136046,Q6581097,1969-11-02T00:00:00Z,5,Hippolyte Dangbeto,Hippolyte Dangbeto,Beninese and French footballer,Q142,Q1542478
+Q3136046,Q6581097,1969-11-02T00:00:00Z,5,Hippolyte Dangbeto,Hippolyte Dangbeto,Beninese and French footballer,Q962,Q1542478
+Q3141314,Q6581097,1953-01-01T00:00:00Z,4,Hounkpati B Christophe Capo,Hounkpatin B Christophe Capo,Beninese linguist,Q962,
+Q3169275,Q6581097,1944-01-01T00:00:00Z,5,Jean-Pierre Ezin,Jean-Pierre Ezin,Beninese mathematician,Q962,
+Q3173774,Q6581097,1965-01-01T00:00:00Z,11,Jean Odoutan,Jean Odoutan,"Beninese actor, film director and film producer",Q142,Q962
+Q3173774,Q6581097,1965-01-01T00:00:00Z,11,Jean Odoutan,Jean Odoutan,"Beninese actor, film director and film producer",Q962,Q962
+Q3174055,Q6581097,1931-07-21T00:00:00Z,8,Jean Pliya,Jean Pliya,Beninese writer (1931–2015),Q962,Q868198
+Q3178792,Q6581097,1985-07-28T00:00:00Z,12,Séïdath Tchomogo,Séïdath Tchomogo,Beninese footballer,Q962,Q3799
+Q3178792,Q6581097,1985-08-13T00:00:00Z,12,Séïdath Tchomogo,Séïdath Tchomogo,Beninese footballer,Q962,Q3799
+Q3178806,Q6581097,1983-08-27T00:00:00Z,11,Jonas Okétola,Jonas Okétola,Beninese footballer,Q962,Q320704
+Q3179006,Q6581097,1963-12-22T00:00:00Z,8,Jean-Marc Adjovi-Bocco,Jean-Marc Adjovi-Bocco,association football player,Q962,Q43595
+Q3184857,Q6581097,1969-03-20T00:00:00Z,5,Joseph Djogbenou,Joseph Djogbenou,Beninese law professor and politician,Q962,Q189685
+Q3186527,Q6581097,1966-04-17T00:00:00Z,6,José Pliva,José Pliva,Beninese writer and actor,Q142,Q43595
+Q3186527,Q6581097,1966-04-17T00:00:00Z,6,José Pliva,José Pliva,Beninese writer and actor,Q962,Q43595
+Q3201104,Q6581097,1981-12-09T00:00:00Z,15,Kémi Séba,Kémi Séba,"Beninese political activist, diplomat",Q142,Q6602
+Q3201104,Q6581097,1981-12-09T00:00:00Z,15,Kémi Séba,Kémi Séba,"Beninese political activist, diplomat",Q962,Q6602
+Q320622,Q6581097,1962-02-07T00:00:00Z,14,Romuald Hazoumè,Romuald Hazoumè,Yoruba artist from the Republic of Bénin (born 1962),Q962,Q3799
+Q32069676,Q6581097,1961-05-10T00:00:00Z,5,Issa Alassane-Ousséni,Issa Alassane-Ousséni,Beninese sprinter,Q962,
+Q3219152,Q6581097,1970-11-05T00:00:00Z,10,Laurent D'Jaffo,Laurent D'Jaffo,Beninese and French association football player,Q142,Q208427
+Q3219152,Q6581097,1970-11-05T00:00:00Z,10,Laurent D'Jaffo,Laurent D'Jaffo,Beninese and French association football player,Q962,Q208427
+Q3229120,Q6581097,1960-12-18T00:00:00Z,6,Léhady Soglo,Léhady Soglo,Beninese politician,Q962,Q90
+Q3229692,Q6581097,1956-01-01T00:00:00Z,5,Leonard Wantchekon,Leonard Wantchekon,Beninese economist,Q962,
+Q3241807,Q6581097,1950-08-14T00:00:00Z,8,Lionel Agbo,Lionel Agbo,Beninese jurist and lawyer,Q962,Q960239
+Q3241966,Q6581097,1954-10-23T00:00:00Z,18,Lionel Zinsou,Lionel Zinsou,"French investment banker, economist and private banker",Q142,Q90
+Q3241966,Q6581097,1954-10-23T00:00:00Z,18,Lionel Zinsou,Lionel Zinsou,"French investment banker, economist and private banker",Q962,Q90
+Q3271771,Q6581097,1941-01-01T00:00:00Z,3,Leopold Ahoueya,Léopold Ahoueya,Beninese politician (1941-2006),Q962,Q3574757
+Q3284757,Q6581097,1925-01-01T00:00:00Z,4,Arouna Mama,Mama Arouna,Beninese politician,Q962,Q688324
+Q328631,Q6581072,1991-01-05T00:00:00Z,19,Odile Ahouanwanou,Odile Ahouanwanou,Track and field athlete,Q962,Q544623
+Q3289612,Q6581072,1940-01-01T00:00:00Z,16,Marcelline Aboh,Marcelline Akinocho,Benin actress,Q962,Q3799
+Q3291194,Q6581072,1952-01-01T00:00:00Z,14,Mariam Boni Diallo,Mariam Aladji Boni Diallo,Beninese politician,Q962,Q2378608
+Q3298722,Q6581097,1985-01-15T00:00:00Z,3,Mathieu Enguérran Edjekpan,Angueran Edjekpan,Beninese footballer,Q962,Q3799
+Q3298741,Q6581097,1986-12-13T00:00:00Z,7,Mathieu Gnanligo,Mathieu Gnanligo,Beninese athletics competitor (born 1986),Q962,Q3799
+Q3302482,Q6581097,1978-04-01T00:00:00Z,7,Maxime Agueh,Maxime Agueh,Beninese and French footballer,Q142,Q648
+Q3302482,Q6581097,1978-04-01T00:00:00Z,7,Maxime Agueh,Maxime Agueh,Beninese and French footballer,Q962,Q648
+Q33083379,Q6581097,2001-01-27T00:00:00Z,6,Charbel Gomez,Charbel Gomez,Beninese association football player,Q962,Q43595
+Q33083382,Q6581097,2000-02-03T00:00:00Z,4,Ibrahim Ogoulola,Ibrahim Ogoulola,association football player,Q962,Q43595
+Q3317909,Q6581097,1976-08-15T00:00:00Z,4,Modeste Kerekou,Modeste Tihounté Kérékou,Beninese politician,Q962,Q43595
+Q33190369,Q6581097,1989-01-25T00:00:00Z,3,Alexis Klégou,Alexis Klégou,Beninese tennis player (1989-),Q962,Q45797
+Q3326222,Q6581097,1950-09-02T00:00:00Z,2,Moussa Okanla,Moussa Okanla,"scholar, Diplomat, Former Minister for Foreign Affairs",Q962,Q3799
+Q3326298,Q6581097,1981-12-31T00:00:00Z,6,Moustapha Agnidé,Moustapha Agnidé,Beninese and French footballer,Q142,Q1134264
+Q3326298,Q6581097,1981-12-31T00:00:00Z,6,Moustapha Agnidé,Moustapha Agnidé,Beninese and French footballer,Q962,Q1134264
+Q3344918,Q6581097,1946-01-15T00:00:00Z,5,Nouréini Tidjani-Serpos,Nouréini Tidjani-Serpos,UNESCO official,Q962,Q3799
+Q3351591,Q6581097,1926-09-20T00:00:00Z,11,Olympe Bhêly-Quenum,Olympe Bhely-Quenum,Beninese writer and journalist,Q142,Q43595
+Q3351591,Q6581097,1926-09-20T00:00:00Z,11,Olympe Bhêly-Quenum,Olympe Bhely-Quenum,Beninese writer and journalist,Q142,Q850031
+Q3351591,Q6581097,1926-09-20T00:00:00Z,11,Olympe Bhêly-Quenum,Olympe Bhely-Quenum,Beninese writer and journalist,Q962,Q43595
+Q3351591,Q6581097,1926-09-20T00:00:00Z,11,Olympe Bhêly-Quenum,Olympe Bhely-Quenum,Beninese writer and journalist,Q962,Q850031
+Q336218,Q6581097,1934-11-29T00:00:00Z,37,Nicéphore Soglo,Nicéphore Soglo,Prime Minister of Benin,Q962,Q2878806
+Q336218,Q6581097,1934-11-29T00:00:00Z,37,Nicéphore Soglo,Nicéphore Soglo,Prime Minister of Benin,Q962,Q3792
+Q336242,Q6581097,1916-08-10T00:00:00Z,43,Hubert Maga,Hubert Maga,first president of Benin (1916-2000),Q142,Q688324
+Q336242,Q6581097,1916-08-10T00:00:00Z,43,Hubert Maga,Hubert Maga,first president of Benin (1916-2000),Q962,Q688324
+Q3367256,Q6581097,1986-04-19T00:00:00Z,11,Pascal Angan,Pascal Angan,Ivorian footballer,Q1008,Q506811
+Q3367256,Q6581097,1986-04-19T00:00:00Z,11,Pascal Angan,Pascal Angan,Ivorian footballer,Q962,Q506811
+Q3426251,Q6581097,1927-07-07T00:00:00Z,3,René Gaulon,René Gaulon,French association football player (1927-2012),Q142,Q43595
+Q3426251,Q6581097,1927-07-07T00:00:00Z,3,René Gaulon,René Gaulon,French association football player (1927-2012),Q962,Q43595
+Q3434985,Q6581097,1939-05-13T00:00:00Z,5,Robert Dossou,Robert Dossou,Beninese politician,Q962,Q797505
+Q3438580,Q6581097,1952-05-19T00:00:00Z,4,Rogatien Biaou,Rogatien Biaou,Beninese politician,Q962,Q2609291
+Q3438580,Q6581097,1952-05-19T00:00:00Z,4,Rogatien Biaou,Rogatien Biaou,Beninese politician,Q962,Q3674
+Q34489998,Q6581097,1940-01-01T00:00:00Z,3,Ibrahima Idrissou,Ibrahima Idrissou,Beninese sprinter,Q962,
+Q3477790,Q6581097,1990-10-20T00:00:00Z,6,Séidou Barazé,Seidou Guéro Barazé,Beninese footballer,Q962,Q189685
+Q3477790,Q6581097,1990-10-20T00:00:00Z,6,Séidou Barazé,Seidou Guéro Barazé,Beninese footballer,Q962,Q43595
+Q3491369,Q6581097,1986-07-03T00:00:00Z,5,Sosthène Soglo,Sosthène Soglo,Beninese footballer,Q962,Q43595
+Q3496704,Q6581097,1934-02-04T00:00:00Z,9,Stanislas Spero Adotevi,Stanislas Adotevi,Beninese philosopher,Q962,Q3792
+Q3510282,Q6581097,1929-06-24T00:00:00Z,12,Jean-Baptiste Hachème,Jean-Baptiste Hachème,Beninese politician (1929-1998),Q962,Q3799
+Q3526434,Q6581097,1948-04-15T00:00:00Z,6,Théodore Holo,Théodore Holo,Beninese politician,Q962,Q3799
+Q3554207,Q6581072,1994-04-29T00:00:00Z,21,Valériane Ayayi,Valériane Ayayi,French basketball player (born 1994),Q1041,Q1479
+Q3554207,Q6581072,1994-04-29T00:00:00Z,21,Valériane Ayayi,Valériane Ayayi,French basketball player (born 1994),Q142,Q1479
+Q3554207,Q6581072,1994-04-29T00:00:00Z,21,Valériane Ayayi,Valériane Ayayi,French basketball player (born 1994),Q962,Q1479
+Q362847,Q6581097,1958-10-19T00:00:00Z,10,Luc Gnacadja,Luc Gnacadja,Beninese politician,Q962,Q3799
+Q365186,Q6581097,1909-05-19T00:00:00Z,5,Samuel Oshoffa,Samuel Oshoffa,Nigerian pastor (1909–1985),Q962,Q3799
+Q3701608,Q6581097,1988-01-14T00:00:00Z,7,Daniel Gbaguidi,Daniel Gbaguidi,Beninese footballer,Q962,Q43595
+Q371680,Q6581097,1985-10-08T00:00:00Z,26,Razak Omotoyossi,Razak Omotoyossi,Beninese footballer (1985–2025),Q1033,Q8673
+Q371680,Q6581097,1985-10-08T00:00:00Z,26,Razak Omotoyossi,Razak Omotoyossi,Beninese footballer (1985–2025),Q962,Q8673
+Q375694,Q6581097,1967-12-09T00:00:00Z,20,Coffi Codjia,Coffi Codjia,Beninese association football referee,Q962,Q43595
+Q37654096,Q6581097,1958-03-17T00:00:00Z,3,Patrice Mahoulikponto,Patrice Mahoulikponto,Beninese sprinter,Q962,
+Q37654182,Q6581097,1962-07-22T00:00:00Z,3,Fortune Ogouchi,Fortune Ogouchi,Beninese sprinter,Q962,
+Q37655657,Q6581097,1954-06-15T00:00:00Z,3,Dossou Vignissy,Dossou Vignissy,Beninese sprinter,Q962,
+Q377077,Q6581097,1942-03-05T00:00:00Z,18,Adrien Houngbédji,Adrien Houngbédji,Beninese politician,Q962,Q2336677
+Q378614,Q6581097,1922-05-08T00:00:00Z,32,Bernardin Gantin,Bernardin Gantin,Beninese Catholic prelate and Servant of God (1922–2008),Q962,Q2095710
+Q37949970,Q6581097,1972-01-12T00:00:00Z,4,Arcadius Fanou,Arcadius Fanou,Beninese sprinter,Q962,
+Q38719624,Q6581072,1941-01-01T00:00:00Z,5,Rashidah Ismaili,Rashidah Ismaili,"poet, fiction writer, essayist and playwright",Q962,Q43595
+Q3921946,Q6581097,1988-10-06T00:00:00Z,4,Prince Ofori,Prince Ofori,footballer,Q117,Q3761
+Q3921946,Q6581097,1988-10-06T00:00:00Z,4,Prince Ofori,Prince Ofori,footballer,Q962,Q3761
+Q397665,Q6581097,1989-03-06T00:00:00Z,13,Cédric Mensah,Cédric Mensah,"French, Beninese and Togolese footballer",Q142,Q23482
+Q397665,Q6581097,1989-03-06T00:00:00Z,13,Cédric Mensah,Cédric Mensah,"French, Beninese and Togolese footballer",Q945,Q23482
+Q397665,Q6581097,1989-03-06T00:00:00Z,13,Cédric Mensah,Cédric Mensah,"French, Beninese and Togolese footballer",Q962,Q23482
+Q403614,Q6581097,1991-05-28T00:00:00Z,16,Jonathan Ligali,Jonathan Ligali,Beninese and French footballer,Q142,Q6441
+Q403614,Q6581097,1991-05-28T00:00:00Z,16,Jonathan Ligali,Jonathan Ligali,Beninese and French footballer,Q962,Q6441
+Q41804313,Q6581097,1993-05-06T00:00:00Z,3,Koutche Kabirou,Koutche Kabirou,Beninese footballer (born 1993),Q962,Q962
+Q42302942,Q6581097,1961-01-01T00:00:00Z,3,Idrissou Tamimou,Idrissou Tamimou,Beninese middle-distance runner,Q962,
+Q433196,Q6581097,1978-08-13T00:00:00Z,13,Moussa Latoundji,Moussa Latoundji,Beninese footballer,Q962,Q3799
+Q4349619,Q6581072,1989-04-04T00:00:00Z,12,Gloria Koussihouede,Gloria Koussihouede,Beninese swimmer,Q962,Q3799
+Q43654292,Q6581072,1975-07-24T00:00:00Z,11,Christine Ouinsavi,Christine Ouinsavi,Beninese scientist and politician,Q962,Q2756784
+Q438852,Q6581097,1917-01-16T00:00:00Z,35,Justin Ahomadégbé-Tomêtin,Justin Ahomadégbé-Tomêtin,Beninise politician (1917-2002),Q142,Q189685
+Q438852,Q6581097,1917-01-16T00:00:00Z,35,Justin Ahomadégbé-Tomêtin,Justin Ahomadégbé-Tomêtin,Beninise politician (1917-2002),Q962,Q189685
+Q4404422,Q6581097,1959-05-10T00:00:00Z,4,Jean Sagbo,Jean Sagbo,Russian real estate agent and politician,Q142,Q43595
+Q4404422,Q6581097,1959-05-10T00:00:00Z,4,Jean Sagbo,Jean Sagbo,Russian real estate agent and politician,Q15180,Q43595
+Q4404422,Q6581097,1959-05-10T00:00:00Z,4,Jean Sagbo,Jean Sagbo,Russian real estate agent and politician,Q159,Q43595
+Q4404422,Q6581097,1959-05-10T00:00:00Z,4,Jean Sagbo,Jean Sagbo,Russian real estate agent and politician,Q798431,Q43595
+Q4404422,Q6581097,1959-05-10T00:00:00Z,4,Jean Sagbo,Jean Sagbo,Russian real estate agent and politician,Q962,Q43595
+Q44147191,Q6581072,1901-01-01T00:00:00Z,11,Hélène Aholou Keke,Hélène Aholou Keke,Beninese lawyer and politician,Q962,
+Q448781,Q6581097,1955-03-22T00:00:00Z,10,Wally Badarou,Wally Badarou,French musician,Q142,Q90
+Q448781,Q6581097,1955-03-22T00:00:00Z,10,Wally Badarou,Wally Badarou,French musician,Q962,Q90
+Q45185563,Q6581097,1999-05-22T00:00:00Z,4,Rodrigue Fassinou,Rodrigue Fassinou,Beninese association football player,Q962,Q1134538
+Q45186166,Q6581097,1995-12-28T00:00:00Z,5,Séïbou Mama,Séïbou Mama,Beninese association football player,Q962,Q688324
+Q45186727,Q6581097,1995-04-06T00:00:00Z,5,Marcellin Koukpo,Marcellin Koukpo,association football player,Q962,Q43595
+Q45187374,Q6581097,1992-07-22T00:00:00Z,1,Mama Bah-Yéré,Mama Bah-Yéré,Beninese association football player,Q962,
+Q45188600,Q6581097,1993-10-12T00:00:00Z,2,Jules Elegbedé,Jules Elegbedé,association football player,Q962,Q1134264
+Q45191065,Q6581097,1993-12-18T00:00:00Z,2,Steve Glodjinon,Steve Glodjinon,association football player,Q962,Q2684866
+Q457716,Q6581097,1924-06-19T00:00:00Z,11,Vincent Mensah,Vincent Mensah,Roman Catholic bishop (1924–2010),Q962,Q43595
+Q464681,Q6581097,1942-01-01T00:00:00Z,12,Georges Adéagbo,Georges Adéagbo,Beninese sculptor (born 1942),Q962,Q43595
+Q4681707,Q6581072,1955-09-15T00:00:00Z,13,Adélaïde Fassinou,Adélaïde Fassinou,Beninese writer and Benin's General Secretary for UNESCO,Q962,Q3799
+Q4734219,Q6581097,1974-01-08T00:00:00Z,9,Alois Dansou,Alois Dansou,Beninese swimmer,Q962,Q13598
+Q47371982,Q6581072,1966-11-18T00:00:00Z,10,Claudine Prudencio,Claudine Prudencio,Beninois politician,Q962,Q43595
+Q47516300,Q6581072,1996-07-22T00:00:00Z,13,Mylène Flicka,Mylène Flicka,"blogger, activist and social media entrepreneur from Benin",Q962,Q962
+Q4775490,Q6581097,1946-01-01T00:00:00Z,5,Antoine Idji Kolawolé,Antoine Idji Kolawolé,Beninese politician,Q962,
+Q4794500,Q6581097,1950-01-01T00:00:00Z,2,Arnauld Antoine Akodjènou,Arnauld Antoine Akodjènou,"Beninese politician, United Nations official",Q962,
+Q4810288,Q6581097,1903-01-01T00:00:00Z,2,Assogba Oké,Assogba Oké,Beninese politician,Q962,
+Q4832648,Q6581097,1981-04-08T00:00:00Z,3,Aziz Balagoun,Aziz Balagoun,Beninese footballer,Q962,Q3799
+Q4867322,Q6581097,1922-10-05T00:00:00Z,3,Basile Adjou Moumouni,Basile Adjou Moumouni,Beninese physician (1922-2019),Q962,Q43595
+Q4890172,Q6581097,1930-07-14T00:00:00Z,3,Benoît Sinzogan,Benoît Sinzogan,Beninese politician (1930-2021),Q962,Q189685
+Q4895532,Q6581072,1950-01-01T00:00:00Z,11,Berthe-Evelyne Agbo,Berthe-Evelyne Agbo,Beninese writer,Q962,
+Q4979540,Q6581072,1934-03-07T00:00:00Z,12,Rosine Vieyra Soglo,Rosine Soglo,Beninese politician (1934-2021),Q962,Q850031
+Q5004979,Q6581072,1962-06-21T00:00:00Z,12,Béatrice Lalinon Gbado,Béatrice Lalinon Gbado,Beninese writer,Q962,Q845666
+Q5021444,Q6581097,1958-01-01T00:00:00Z,8,Calixte Dakpogan,Calixte Dakpogan,Beninese sculptor,Q962,Q302742
+Q50689180,Q6581097,1958-01-01T00:00:00Z,5,Alassane Seidou,Alassane Seidou,Beninese politician,Q962,Q845666
+Q510823,Q6581097,1948-10-01T00:00:00Z,6,Abraham Zinzindohoue,Abraham Zinzindohoué,Beninese lawyer and politician,Q962,Q2356092
+Q5109266,Q6581097,1988-07-20T00:00:00Z,2,Christian Akande Kotchoni,Christian Akande Kotchoni,Beninese footballer,Q962,Q688324
+Q5110901,Q6581072,1945-01-01T00:00:00Z,13,Christine Adjahi Gnimagnon,Christine Adjahi Gnimagnon,Beninese writer,Q962,Q135077
+Q5144713,Q6581072,1939-03-06T00:00:00Z,13,Colette Sénami Agossou Houeto,Colette Sénami Agossou Houeto,Beninese educator and writer,Q962,Q3799
+Q5152044,Q6581097,1985-01-30T00:00:00Z,4,Comlanvi Akakpo,Comlanvi Akakpo,football player,Q962,Q3792
+Q51819335,Q6581097,1997-12-10T00:00:00Z,2,Aaron Ibilola,Aaron Ibilola,Beninese association football player,Q962,Q962
+Q520909,Q6581097,1988-10-10T00:00:00Z,22,Rudy Gestede,Rudy Gestede,Beninese-French footballer (born 1988),Q142,Q1085872
+Q520909,Q6581097,1988-10-10T00:00:00Z,22,Rudy Gestede,Rudy Gestede,Beninese-French footballer (born 1988),Q962,Q1085872
+Q5212423,Q6581097,1966-03-31T00:00:00Z,2,Damien Dovy,Damien Dovy,French-Beninese karateka,Q142,
+Q5212423,Q6581097,1966-03-31T00:00:00Z,2,Damien Dovy,Damien Dovy,French-Beninese karateka,Q962,
+Q5218899,Q6581097,1947-12-31T00:00:00Z,3,Daniel Tawéma,Daniel Tawéma,Beninese politician,Q962,
+Q5227865,Q6581097,1929-01-07T00:00:00Z,5,Daouda Badarou,Daouda Badarou,Beninese surgeon and politician,Q962,Q3799
+Q52441381,Q6581072,1939-06-29T00:00:00Z,11,Véronique Ahoyo,Véronique Ahoyo,Beninese politician (1939-2008),Q962,Q43595
+Q52441673,Q6581072,1935-12-12T00:00:00Z,2,Florence Ayivi Foliaon,Florence Ayivi Foliaon,Beninese librarian,Q962,Q2356092
+Q52639557,Q6581072,1984-01-01T00:00:00Z,12,Aurélie Adam Soule,Aurélie Adam Soule,Beninese politician,Q962,Q2378608
+Q5277924,Q6581097,1972-07-25T00:00:00Z,6,Dinalo Adigo,Dinalo Adigo,Beninese football player,Q962,Q43595
+Q5337536,Q6581097,1953-02-09T00:00:00Z,4,Edgar Yves Monnou,Edgar Yves Monnou,Beninese politician,Q962,Q189685
+Q53634514,Q6581072,1960-01-01T00:00:00Z,13,Agnès Agboton,Agnès Agboton,"Beninese writer, poet, storyteller, and translator",Q962,Q3799
+Q53998046,Q6581072,1949-01-21T00:00:00Z,6,Agnès Adjaho,Agnès Avognon Adjaho,Beninese author and diplomat,Q962,Q43595
+Q53998115,Q6581072,1942-09-21T00:00:00Z,8,Conceptia Ouinsou,Conceptia Ouinsou,Beninese academic and jurist,Q962,Q2637925
+Q54206820,Q6581097,1959-12-30T00:00:00Z,2,Daniel Dohou Dossou,Daniel Dohou Dossou,Beninese judoka,Q962,
+Q542300,Q6581097,1992-11-14T00:00:00Z,8,Sidoine Oussou,Sidoine Oussou,Beninese association football player,Q962,Q3799
+Q542300,Q6581097,1992-11-14T00:00:00Z,8,Sidoine Oussou,Sidoine Oussou,Beninese association football player,Q962,Q43595
+Q550336,Q6581072,1973-04-15T00:00:00Z,6,Tempa Ndah,Tempa Ndah,Beninese football referee,Q962,Q962
+Q550663,Q6581097,1973-04-27T00:00:00Z,9,Lionel Loueke,Lionel Loueke,Beninese guitarist and vocalist,Q962,Q43595
+Q5506668,Q6581097,1943-01-01T00:00:00Z,4,Frédéric Affo,Frédéric Affo,Beninese politician,Q962,Q3887600
+Q5521312,Q6581097,1961-01-04T00:00:00Z,9,Ganiou Soglo,Ganiou Soglo,Beninese politician,Q962,Q90
+Q5527408,Q6581097,1949-12-18T00:00:00Z,4,Gatien Houngbédji,Gatien Houngbédji,Beninese politician and french. Adrien HOUNGBÉDJI brother,Q962,Q43595
+Q55625729,Q6581097,1940-08-22T00:00:00Z,4,Zakari Dramani-Issifou,Zakari Dramani-Issifou,Beninese writer and academic,Q962,Q868198
+Q5563229,Q6581097,1990-11-30T00:00:00Z,3,Yosif Ayuba,Yosif Ayuba,Swedish footballer,Q34,Q962
+Q5563229,Q6581097,1990-11-30T00:00:00Z,3,Yosif Ayuba,Yosif Ayuba,Swedish footballer,Q962,Q962
+Q556547,Q6581097,1961-01-01T00:00:00Z,12,Frédéric Dohou,Frédéric Dohou,Beninese politician,Q962,Q43595
+Q556559,Q6581097,1985-10-30T00:00:00Z,8,Arnaud Séka,Arnaud Séka,Beninese footballer,Q962,Q189685
+Q5574398,Q6581097,1943-01-10T00:00:00Z,5,Gnonnas Pedro,Gnonnas Pedro,"was a singer and musician from Lokossa, Benin",Q962,Q43595
+Q55759711,Q6581097,1993-06-16T00:00:00Z,3,Nabil Yarou,Nabil Yarou,Beninese association football player,Q962,Q688324
+Q55977534,Q6581097,1998-09-09T00:00:00Z,25,Colin Dagba,Colin Dagba,French footballer (born 1998),Q142,Q207145
+Q55977534,Q6581097,1998-09-09T00:00:00Z,25,Colin Dagba,Colin Dagba,French footballer (born 1998),Q962,Q207145
+Q5622043,Q6581097,1990-05-05T00:00:00Z,3,Guy Akpagba,Guy Akpagba,Beninese footballer,Q962,Q43595
+Q56434090,Q6581097,1995-02-25T00:00:00Z,5,Romeo N'tia,Romeo N'tia,Beninese long jumper,Q962,Q994125
+Q56807196,Q6581097,2000-03-05T00:00:00Z,10,Joël Ayayi,Joël Ayayi,French basketball player (born 2000),Q142,Q1479
+Q56807196,Q6581097,2000-03-05T00:00:00Z,10,Joël Ayayi,Joël Ayayi,French basketball player (born 2000),Q962,Q1479
+Q57453912,Q6581097,1913-04-25T00:00:00Z,3,Dominique Aplogan,Dominique Aplogan,Beninese physician and politician,Q962,Q189685
+Q58189985,Q6581072,1971-02-18T00:00:00Z,16,Elvire Adjamonsi,Elvire Adjamonsi,"Beninese movie creator, cultural developer",Q962,Q962
+Q58254,Q6581097,1950-09-01T00:00:00Z,4,Jean-Marie Ehouzou,Jean-Marie Ehouzou,Beninese diplomat,Q962,
+Q59209882,Q6581072,1984-02-01T00:00:00Z,6,Sessimè,Sessime,Beninese musician,Q962,Q2464735
+Q59655931,Q6581072,1991-12-20T00:00:00Z,7,Souliath Saka,Souliath Saka,Beninese sprinter,Q962,Q2474638
+Q60168491,Q6581072,1956-08-11T00:00:00Z,11,Reine Alapini-Gansou,Reine Alapini-Gansou,Beninese judge,Q962,Q1515
+Q60635,Q6581097,1992-02-11T00:00:00Z,10,Yannick Aguemon,Yannick Aguemon,Beninese and French association football player,Q142,Q43595
+Q60635,Q6581097,1992-02-11T00:00:00Z,10,Yannick Aguemon,Yannick Aguemon,Beninese and French association football player,Q962,Q43595
+Q614904,Q6581072,1986-04-21T00:00:00Z,29,Isabelle Yacoubou,,French basketball player (born 1986),Q142,Q2757920
+Q614904,Q6581072,1986-04-21T00:00:00Z,29,Isabelle Yacoubou,,French basketball player (born 1986),Q962,Q2757920
+Q6171217,Q6581097,1985-10-23T00:00:00Z,4,Jean Moloise Ogoudjobi,Jean Moloise Ogoudjobi,Beninese taekwondo practitioner,Q962,
+Q6182886,Q6581097,1952-01-01T00:00:00Z,5,Jerome Sacca Kina Guezere,Jerome Chabi Sacca Kina Guézéré,Beninese politician,Q962,Q845666
+Q62031954,Q6581097,1996-08-30T00:00:00Z,2,Don Tchilao,Don Tchilao,Beninese association football player,Q962,Q962
+Q62031954,Q6581097,1996-08-20T00:00:00Z,2,Don Tchilao,Don Tchilao,Beninese association football player,Q962,Q962
+Q62055044,Q6581097,2000-07-11T00:00:00Z,6,Rodrigue Kossi,Rodrigue Kossi,Beninese association football player,Q962,Q688324
+Q62055044,Q6581097,1999-12-31T00:00:00Z,6,Rodrigue Kossi,Rodrigue Kossi,Beninese association football player,Q962,Q688324
+Q6235552,Q6581097,1986-02-19T00:00:00Z,3,John Glélé,John Glélé,Beninese footballer,Q962,Q171545
+Q6283486,Q6581097,1943-01-01T00:00:00Z,4,Joseph Gnonlonfoun,Joseph Gnonlonfoun,Judge and Beninese politician,Q962,Q3799
+Q62927153,Q6581097,1997-03-29T00:00:00Z,8,Tidjani Anaane,Tidjani Anaane,Beninese association football player,Q962,Q3758094
+Q6318115,Q6581097,1984-10-30T00:00:00Z,3,Justin Savi,Justin Savi,Beninese boxer,Q962,Q43595
+Q6356062,Q6581097,1948-10-10T00:00:00Z,3,Kamarou Fassassi,Kamarou Fassassi,Beninese politician (1948-2016),Q962,Q3799
+Q646299,Q6581097,1985-01-05T00:00:00Z,8,Nouhoum Kobéna,Nouhoum Kobéna,Beninese footballer,Q912,Q688324
+Q646299,Q6581097,1985-01-05T00:00:00Z,8,Nouhoum Kobéna,Nouhoum Kobéna,Beninese footballer,Q962,Q688324
+Q65133413,Q6581097,1953-01-01T00:00:00Z,6,Louis Vlavonou,Louis Vlavonou,Beninese politician,Q962,Q1134264
+Q65548476,Q6581097,1997-01-03T00:00:00Z,12,Felipe Santos (footballer),Felipe Silva Correa dos Santos,Brazilian footballer,Q155,Q174
+Q65548476,Q6581097,1997-01-03T00:00:00Z,12,Felipe Santos (footballer),Felipe Silva Correa dos Santos,Brazilian footballer,Q962,Q174
+Q65952021,Q6581097,1997-07-07T00:00:00Z,8,Yohan Roche,Yohan Roche,French association football player,Q142,Q456
+Q65952021,Q6581097,1997-07-07T00:00:00Z,8,Yohan Roche,Yohan Roche,French association football player,Q962,Q456
+Q65969384,Q6581097,1953-10-30T00:00:00Z,3,Marcel Alain de Souza,Marcel de Souza,Beninese politician,Q962,Q269353
+Q66224391,Q6581072,1954-06-19T00:00:00Z,6,Gisèle Hountondji,Gisèle Hountondji,"A Beninese writer, translator, and interpreter",Q962,Q43595
+Q66226631,Q6581097,1965-01-01T00:00:00Z,5,Mahougnon Kakpo,Mahougnon Kakpo,Beninese politician,Q962,Q2910571
+Q66712085,Q6581072,1987-03-21T00:00:00Z,6,Karelle Vignon Vullierme,Karelle Vignon Vullierme,food blogger,Q142,Q90
+Q66712085,Q6581072,1987-03-21T00:00:00Z,6,Karelle Vignon Vullierme,Karelle Vignon Vullierme,food blogger,Q962,Q90
+Q67382244,Q6581072,1974-07-23T00:00:00Z,7,Brigitte Affidehome Tonon,Brigitte Affidehome Tonon,Beninese basketball coach and teacher-researcher,Q962,
+Q676175,Q6581097,1987-11-16T00:00:00Z,9,Oscar Olou,Oscar Olou,Beninese footballer,Q962,Q850031
+Q6762653,Q6581072,1954-12-29T00:00:00Z,13,Marie-Elise Gbèdo,Marie Elise Gbedo,Beninese politician,Q962,Q3286018
+Q6787182,Q6581097,1987-04-26T00:00:00Z,4,Mathieu Adeniyi,Mathieu Adeniyi,association football player,Q962,Q3799
+Q682150,Q6581097,1930-04-09T00:00:00Z,20,Alphonse Alley,Alphonse Alley,Beninese army officer and politician (1930-1987),Q962,Q1893077
+Q6836259,Q6581097,1916-12-23T00:00:00Z,5,Michel Ahouanmènou,Michel Ahouanmènou,Beninese politician and diplomat,Q142,Q3799
+Q6836259,Q6581097,1916-12-23T00:00:00Z,5,Michel Ahouanmènou,Michel Ahouanmènou,Beninese politician and diplomat,Q962,Q3799
+Q6836260,Q6581097,1942-01-01T00:00:00Z,4,Michel Aikpé,Michel Aikpé,"Beninese politician, minister of Interior",Q962,Q2356092
+Q6836265,Q6581097,1940-01-01T00:00:00Z,4,Michel Alladaye,Michel Alladayè,politician,Q962,Q189685
+Q6907630,Q6581072,1983-10-10T00:00:00Z,4,Moona,Moona,West African rapper,Q1041,Q43595
+Q6907630,Q6581072,1983-10-10T00:00:00Z,4,Moona,Moona,West African rapper,Q962,Q43595
+Q6926236,Q6581097,1978-01-07T00:00:00Z,6,Moussoro Kabirou,Moussoro Kabirou,Cameroonian footballer,Q962,Q132830
+Q6926236,Q6581097,1983-09-01T00:00:00Z,6,Moussoro Kabirou,Moussoro Kabirou,Cameroonian footballer,Q962,Q132830
+Q69680339,Q6581097,1999-02-18T00:00:00Z,7,Rayyan Baniya,Rayyan Baniya,Turkish-Italian association football player (born 1999),Q38,Q1891
+Q69680339,Q6581097,1999-02-18T00:00:00Z,7,Rayyan Baniya,Rayyan Baniya,Turkish-Italian association football player (born 1999),Q43,Q1891
+Q69680339,Q6581097,1999-02-18T00:00:00Z,7,Rayyan Baniya,Rayyan Baniya,Turkish-Italian association football player (born 1999),Q962,Q1891
+Q704065,Q6581097,1942-08-24T00:00:00Z,16,Barthélemy Adoukonou,Barthélemy Adoukonou,Secretary of the Pontifical Council for Culture,Q797505,Q189685
+Q704065,Q6581097,1942-08-24T00:00:00Z,16,Barthélemy Adoukonou,Barthélemy Adoukonou,Secretary of the Pontifical Council for Culture,Q962,Q189685
+Q7046922,Q6581097,1943-12-25T00:00:00Z,2,Noel Dossou-Yovo,Noel Dossou-Yovo,Beninese academic,Q962,
+Q712288,Q6581097,1942-04-11T00:00:00Z,14,Paulin J. Hountondji,Paulin Hountondji,Beninese philosopher (1942–2024),Q1008,Q1515
+Q712288,Q6581097,1942-04-11T00:00:00Z,14,Paulin J. Hountondji,Paulin Hountondji,Beninese philosopher (1942–2024),Q962,Q1515
+Q7141673,Q6581097,1943-01-01T00:00:00Z,5,Pascal Fantodji,Pascal Fantodji,Beninese politician,Q962,Q3032740
+Q7145374,Q6581097,1990-05-16T00:00:00Z,2,Patrice Djokoué,Patrice Djokoué,Beninese footballer,Q962,Q43595
+Q7154912,Q6581097,1931-09-20T00:00:00Z,7,Paulin Joachim,Paulin Joachim,Beninese journalist and poet (1931-2012),Q142,Q43595
+Q7154912,Q6581097,1931-09-20T00:00:00Z,7,Paulin Joachim,Paulin Joachim,Beninese journalist and poet (1931-2012),Q962,Q43595
+Q71559462,Q6581097,1935-04-21T00:00:00Z,7,Pascal Abikanlou,Pascal Abikanlou,"Movie Director, Producer (1935-2009)",Q962,Q269353
+Q718225,Q6581097,1913-04-08T00:00:00Z,36,Sourou-Migan Apithy,Sourou-Migan Apithy,Beninese politician (1913-1989),Q142,Q3799
+Q718225,Q6581097,1913-04-08T00:00:00Z,36,Sourou-Migan Apithy,Sourou-Migan Apithy,Beninese politician (1913-1989),Q962,Q3799
+Q7192390,Q6581097,1945-05-05T00:00:00Z,4,Pierre Osho,Pierre Osho,Beninese politician,Q962,
+Q72172609,Q6581097,1985-12-15T00:00:00Z,2,Bachirou Osséni,Bachirou Osséni,Beninese footballer (1985-2019),Q962,Q3799
+Q722450,Q6581097,1989-10-06T00:00:00Z,9,Babatounde Bello,Babatounde Bello,Beninese footballer,Q962,Q5396720
+Q72625225,Q6581097,1947-10-22T00:00:00Z,11,Koffi Gahou,Koffi Gahou,"Beninese artist, actor, and director",Q962,Q43595
+Q72889072,Q6581097,1999-07-02T00:00:00Z,8,Mattéo Ahlinvi,Mattéo Ahlinvi,Beninese and French footballer,Q142,Q191460
+Q72889072,Q6581097,1999-07-02T00:00:00Z,8,Mattéo Ahlinvi,Mattéo Ahlinvi,Beninese and French footballer,Q962,Q191460
+Q730633,Q6581097,1983-12-17T00:00:00Z,7,Wassiou Oladipupo,Wassiou Oladipupo,Beninese footballer,Q962,Q189685
+Q7357454,Q6581097,1974-12-16T00:00:00Z,6,Rodrigue Akpakoun,Rodrigue Akpakoun,Beninese footballer,Q962,Q43595
+Q7396577,Q6581097,1944-10-21T00:00:00Z,3,Sacca Lafia,Sacca Lafia,Beninese politician,Q962,
+Q7405645,Q6581097,1988-10-01T00:00:00Z,6,Salomon Wisdom,Salomon Wisdom,Beninese footballer,Q962,Q43595
+Q7411331,Q6581097,1983-09-10T00:00:00Z,6,Samuel Emmanuel Suka,Samuel Emmanuel Suka,Beninese footballer,Q962,
+Q742583,Q6581097,1985-07-28T00:00:00Z,17,Khaled Adénon,Khaled Adénon,Beninese football defender,Q962,Q1150223
+Q74568843,Q6581097,1925-03-13T00:00:00Z,7,Baba Yabo,Baba Yabo,Beninese comedian and actor (1925-1985),Q962,Q3799
+Q7459645,Q6581097,1949-01-01T00:00:00Z,2,Seïdou Mama Sika,Seïdou Mama Sika,Beninese politician,Q962,
+Q75015745,Q6581072,1981-01-01T00:00:00Z,18,Bella Agossou,Bella Agossou,Beninese actress,Q962,Q544623
+Q7519026,Q6581097,1950-05-23T00:00:00Z,2,Simon Idohou,Simon Idohou,Beninese diplomat,Q962,
+Q7519027,Q6581097,1933-01-01T00:00:00Z,3,Simon Ifede Ogouma,Simon Ifèdé Ogouma,Beninese politician,Q962,
+Q7519027,Q6581097,1934-01-01T00:00:00Z,3,Simon Ifede Ogouma,Simon Ifèdé Ogouma,Beninese politician,Q962,
+Q75538244,Q6581097,1985-04-01T00:00:00Z,7,Faissol Gnonlonfin,Faissol Gnonlonfin,Beninese film director,Q962,Q3799
+Q75574265,Q6581097,1995-10-01T00:00:00Z,6,Kenneth Yannick,Kenneth Yannick,Beninese comedian and actor,Q962,Q43595
+Q7660635,Q6581097,1980-11-15T00:00:00Z,6,Sylvain Remy,Sylvain Remy,Beninese footballer,Q962,Q962
+Q773236,Q6581097,1984-03-15T00:00:00Z,12,Anicet Adjamossi,Anicet Adjamossi,Beninese footballer,Q962,Q3799
+Q778095,Q6581097,1964-12-31T00:00:00Z,13,Sylvestre Amoussou,Sylvestre Amoussou,"Beninese film director, actor, and film producer",Q962,Q962
+Q778477,Q6581097,1987-03-10T00:00:00Z,7,Valère Amoussou,Valère Amoussou,Beninese footballer,Q962,Q43595
+Q7799883,Q6581097,1947-01-01T00:00:00Z,2,Théophile Nata,Théophile Nata,Beninese politician (1947–2022),Q962,Q994125
+Q7800108,Q6581097,1937-07-15T00:00:00Z,6,Tiamiou Adjibadé,Tiamiou Adjibadé,Beninese politician (1937–2006),Q962,Q3799
+Q7823575,Q6581097,1984-03-08T00:00:00Z,6,Tony Toklomety,Tony Toklomety,Beninese footballer,Q962,Q43595
+Q79625316,Q6581072,1977-11-10T00:00:00Z,6,Georgiana Viou,Georgiana Viou,Beninois-French chef (born 1977),Q142,Q43595
+Q79625316,Q6581072,1977-11-10T00:00:00Z,6,Georgiana Viou,Georgiana Viou,Beninois-French chef (born 1977),Q962,Q43595
+Q8073714,Q6581097,1964-06-15T00:00:00Z,4,Zomahoun Idossou Rufin,Zomahoun Idossou Rufin,Beninese diplomat,Q962,Q2609335
+Q8075096,Q6581097,1946-01-01T00:00:00Z,5,Zul Kifl Salami,Zul Kifl Salami,Beninese politician,Q962,
+Q8078307,Q6581097,1905-05-25T00:00:00Z,5,Émile Poisson,Émile Poisson,Beninese politician,Q142,Q850031
+Q8078307,Q6581097,1905-05-25T00:00:00Z,5,Émile Poisson,Émile Poisson,Beninese politician,Q962,Q850031
+Q84311075,Q6581097,1906-08-28T00:00:00Z,4,Julien Alapini,Julien Alapini,"Beninese teacher, writer, playwright and ethnographer",Q962,Q2473939
+Q84350191,Q6581097,1969-01-01T00:00:00Z,6,Dominique Zinkpè,Dominique Zinkpè,Beninese contemporary artist,Q962,Q962
+Q84857225,Q6581097,1997-10-26T00:00:00Z,1,Fortuné Oré,Fortuné Oré,Beninese association football player,Q962,
+Q85098210,Q6581097,1995-07-13T00:00:00Z,2,Joris Ahlinvi,Joris Ahlinvi,Beninese and French footballer,Q142,Q623481
+Q85098210,Q6581097,1995-07-13T00:00:00Z,2,Joris Ahlinvi,Joris Ahlinvi,Beninese and French footballer,Q962,Q623481
+Q85323245,Q6581097,2000-03-03T00:00:00Z,7,Samson Akinyoola,Samson Akinyoola,Beninese association football player,Q962,Q3799
+Q86523604,Q6581097,1997-12-01T00:00:00Z,5,Chérif Dine Akakpo,Chérif Dine Kakpo,Beninese footballer,Q962,Q688324
+Q867391,Q6581097,1985-12-19T00:00:00Z,9,Jocelyn Ahouéya,Jocelyn Ahouéya,Beninese footballer,Q962,Q189685
+Q878888,Q6581097,1918-03-23T00:00:00Z,30,Émile Derlin Zinsou,Émile Derlin Zinsou,Beninese politician (1918-2016),Q142,Q850031
+Q878888,Q6581097,1918-03-23T00:00:00Z,30,Émile Derlin Zinsou,Émile Derlin Zinsou,Beninese politician (1918-2016),Q962,Q850031
+Q878897,Q6581097,1909-06-28T00:00:00Z,33,Christophe Soglo,Christophe Soglo,Beninese politician (1909-1983),Q962,Q189685
+Q881211,Q6581097,1930-07-14T00:00:00Z,21,Paul-Émile de Souza,Paul-Émile de Souza,"Beninese politician, president of Dahomey (1930–1999)",Q962,Q850031
+Q888400,Q6581097,1932-09-22T00:00:00Z,18,Maurice Kouandété,Maurice Kouandété,Military Officer (1932-2003),Q142,Q994125
+Q888400,Q6581097,1932-09-22T00:00:00Z,18,Maurice Kouandété,Maurice Kouandété,Military Officer (1932-2003),Q798431,Q994125
+Q888400,Q6581097,1932-09-22T00:00:00Z,18,Maurice Kouandété,Maurice Kouandété,Military Officer (1932-2003),Q962,Q994125
+Q888596,Q6581097,1913-01-01T00:00:00Z,18,Tahirou Congacou,Tahirou Congacou,Beninese politician (1913-1994),Q962,Q868198
+Q9149335,Q6581097,1950-01-01T00:00:00Z,4,Amadou Alimi,Amadou Alimi,Beninese long-distance runner,Q962,
+Q9201083,Q6581097,2000-01-01T00:00:00Z,5,Damien Degboe,Damien Degboe,Beninese athletics competitor,Q962,Q962
+Q921928,Q6581097,1970-12-30T00:00:00Z,14,Hubert Koundé,Hubert Koundé,French Benin actor and film director,Q142,Q142
+Q921928,Q6581097,1970-12-30T00:00:00Z,14,Hubert Koundé,Hubert Koundé,French Benin actor and film director,Q962,Q142
+Q9260053,Q6581097,1951-09-25T00:00:00Z,6,Firmin Abissi,Firmin Abissi,Beninese boxer,Q962,
+Q92744453,Q6581097,1974-07-31T00:00:00Z,5,Benjamin Hounkpatin,Benjamin Hounkpatin,Beninese politician,Q962,Q3799
+Q9287765,Q6581097,1957-01-01T00:00:00Z,4,Henri Dagba,Henri Dagba,Beninese athlete,Q962,
+Q93260804,Q6581097,1971-03-31T00:00:00Z,8,Eric Soviguidi,Gnansounou Eric Soviguidi,Beninese Roman-Catholic priest and diplomat,Q962,Q189685
+Q9339615,Q6581072,1972-08-21T00:00:00Z,9,Sonya Agbéssi,Sonya Agbessi,Benin athlete,Q962,
+Q9358619,Q6581097,1962-01-01T00:00:00Z,5,Théophile Hounou,Théophile Hounou,Beninese athletics competitor,Q962,
+Q93774043,Q6581072,1937-01-01T00:00:00Z,7,Bernardine do Régo,Bernardine do Régo,Beninese diplomat,Q962,
+Q9393640,Q6581097,1954-05-15T00:00:00Z,4,Étienne Loco Gbodolle,Étienne Loco Gbodolle,Beninese boxer,Q962,
+Q97097619,Q6581097,1997-07-10T00:00:00Z,7,Mohamed Tijani,Mohamed Tijani,Beninese professional footballer,Q1008,Q1008
+Q97097619,Q6581097,1997-07-10T00:00:00Z,7,Mohamed Tijani,Mohamed Tijani,Beninese professional footballer,Q962,Q1008
+Q97168647,Q6581097,1918-05-10T00:00:00Z,3,Adrien Degbey,Adrien Degbey,Beninese politician,Q962,Q2566827
+Q975326,Q6581097,1986-11-26T00:00:00Z,5,Gérard Adanhoumé,Gérard Adanhoume,Beninese football player,Q962,Q43595
+Q978750,Q6581097,1963-04-18T00:00:00Z,4,Lazare Sèhouéto,Lazare Sèhouéto,Beninese politician,Q962,Q2050232
+Q98022711,Q6581072,2002-08-02T00:00:00Z,8,Nafissath Radji,Nafissath Radji,Beninese swimmer,Q962,Q3799
+Q981684,Q6581097,1987-10-15T00:00:00Z,21,Serge Akakpo,Serge Akakpo,French and Togolese footballer,Q142,Q2076410
+Q981684,Q6581097,1987-10-15T00:00:00Z,21,Serge Akakpo,Serge Akakpo,French and Togolese footballer,Q945,Q2076410
+Q981684,Q6581097,1987-10-15T00:00:00Z,21,Serge Akakpo,Serge Akakpo,French and Togolese footballer,Q962,Q2076410

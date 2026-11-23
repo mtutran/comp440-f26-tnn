@@ -1,0 +1,612 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q101693636,Q6581097,1957-09-24T00:00:00Z,5,Salem Abdullah Al-Jaber Al-Sabah,Salem Abdullah Al-Jaber Al-Sabah,Kuwaiti diplomat,Q817,Q35178
+Q1033841,Q6581072,1950-09-02T00:00:00Z,5,Souad Abdullah,Souad Abdullah,Kuwaiti actress,Q817,Q48195
+Q104175576,Q6581097,1972-01-01T00:00:00Z,2,Thamer Ali Sabah Al-Salem Al-Sabah,Thamer Ali Sabah Al-Salem Al-Sabah,Kuwaiti politician,Q817,
+Q104188399,Q6581097,1995-05-12T00:00:00Z,4,Mohammad Al-Mosawi,Sayed Mohammed Al Mosawi,karateka,Q817,Q4116014
+Q10449427,Q6581097,1980-06-09T00:00:00Z,4,Khaled Abdulqoddus,Khaled Abd Al Kudos,Kuwaiti footballer,Q817,Q817
+Q10449986,Q6581097,1977-08-14T00:00:00Z,4,Youssef Al Thuwaney,Youssef Al Thuwaney,Kuwaiti footballer,Q817,Q817
+Q10450173,Q6581097,1988-07-11T00:00:00Z,5,Hussain Al-Musawi,Hussain Al-Moussawi,Kuwaiti footballer,Q817,Q35178
+Q10513600,Q6581097,1981-03-08T00:00:00Z,8,Nawaf Al Humaidan,Nawaf Al Humaidan,Kuwaiti footballer,Q817,Q35178
+Q10513649,Q6581097,1974-05-15T00:00:00Z,7,Khaled Al-Fadhli,Khaled Al Fadhli,footballer,Q817,Q35178
+Q10514038,Q6581097,1987-07-01T00:00:00Z,4,Mohammad Rashed,Mohammad Rashed,Kuwaiti footballer,Q817,Q35178
+Q105207556,Q6581072,1901-01-01T00:00:00Z,5,Shahd Alshammari,Shahd Alshammari,Kuwaiti writer and academic,Q817,Q35178
+Q105825868,Q6581072,1989-11-03T00:00:00Z,4,Sarah Behbehani,Sarah Behbehani,Kuwaiti tennis player,Q817,Q62
+Q106512890,Q6581097,1982-01-01T00:00:00Z,9,Abdullah Al Mutairi,Abdullah Al-Mutairi,Kuwaiti football manager,Q817,Q817
+Q106520124,Q6581097,1933-01-01T00:00:00Z,4,Abdul Wahab Al-Nafisi,Abdul Wahab Al-Nafisi,Kuwaiti politician (1933–2024),Q817,Q35178
+Q106531670,Q6581097,1928-02-14T00:00:00Z,2,Abdul-Razzak Al-Adwani,Abdul-Razzak Al-Adwani,Kuwaiti politician (1928-1996),Q817,Q35178
+Q107112339,Q6581097,1960-05-19T00:00:00Z,3,Husain Al-Musallam,Husain Al-Musallam,Kuwaiti sports administrator,Q817,Q817
+Q107242430,Q6581097,1987-02-24T00:00:00Z,3,Khalid Al-Nasrallah,Khalid Nasrallah,Kuwaiti novelist and short story writer,Q817,Q35178
+Q107618966,Q6581097,1994-07-09T00:00:00Z,3,Abdulrahman Al-Fadhel,Abdulrahman Al-Fadhel,Kuwaiti rower,Q817,
+Q107663019,Q6581072,2004-01-24T00:00:00Z,5,Lara Dashti,Lara Dashti,Kuwaiti swimmer,Q817,
+Q107708541,Q6581072,1998-04-25T00:00:00Z,6,Mudhawi Al-Shammari,Mudhawi Al-Shammari,Kuwaiti athlete,Q817,
+Q108685310,Q6581097,1976-01-01T00:00:00Z,4,Mohammad Murad,Mohammad Murad,Wildlife Photographer,Q817,
+Q1087893,Q6581097,1981-05-25T00:00:00Z,14,Nawaf Al-Khaldi,Nawaf Al Khaldi,Kuwaiti footballer,Q817,Q35178
+Q1087893,Q6581097,1981-05-15T00:00:00Z,14,Nawaf Al-Khaldi,Nawaf Al Khaldi,Kuwaiti footballer,Q817,Q35178
+Q109259869,Q6581097,1956-01-01T00:00:00Z,21,Ahmad Nawaf Al-Ahmad Al-Sabah,Ahmed Nawaf Al-Ahmad Al-Sabah,Kuwaiti royal and politician,Q817,Q35178
+Q109659531,Q6581097,2005-11-15T00:00:00Z,32,Roony Bardghji,Roony Bardghji,Swedish association footballer,Q34,Q35178
+Q109659531,Q6581097,2005-11-15T00:00:00Z,32,Roony Bardghji,Roony Bardghji,Swedish association footballer,Q858,Q35178
+Q109659531,Q6581097,2005-11-15T00:00:00Z,32,Roony Bardghji,Roony Bardghji,Swedish association footballer,Q817,Q35178
+Q110415087,Q6581097,1969-10-01T00:00:00Z,10,Haitham al-Ghais,Haitham al-Ghais,OPEC Secretary General,Q817,Q35178
+Q1118744,Q6581097,1974-03-21T00:00:00Z,13,Jamal Mubarak,Jamal Mubarak,Kuwaiti footballer,Q817,Q817
+Q112676033,Q6581072,1990-08-15T00:00:00Z,2,Mafaz Al-Suwaidan,Mafaz Al-Suwaidan,Kuwaiti academic,Q817,
+Q113547810,Q6581097,1994-06-12T00:00:00Z,3,Abdullah Shaaban,Abdullah Shaaban,Kuwaiti karateka,Q817,
+Q1137603,Q6581097,1988-09-01T00:00:00Z,10,Fahad Al Enezi,Fahad Al Enezi,Basketball player,Q817,Q35178
+Q114795136,Q6581097,1969-01-01T00:00:00Z,2,Ahmad Abdulwahab Al-Awadhi,Ahmed Abdel Wahab al-Awadi,Kuwaiti Health Minster,Q817,
+Q1156004,Q6581072,1962-11-05T00:00:00Z,3,Intisar Al-Sharrah,Intesar Al-Sharah,actress (1962–2021),Q817,Q12188991
+Q11738849,Q6581097,2000-01-01T00:00:00Z,4,Khamis Bashir,Khamis Bashir,Kuwaiti handball player,Q817,
+Q11766451,Q6581097,2000-01-01T00:00:00Z,4,Majid Al-Khamis,Majid Al-Khamis,Kuwaiti handball player,Q817,
+Q11866204,Q6581097,1963-03-09T00:00:00Z,5,Jasem Al-Dowaila,Jasem Al-Dowaila,Kuwaiti hurdler,Q817,
+Q11871249,Q6581097,1978-06-12T00:00:00Z,7,Khaled Al-Mudhaf,Khaled Al-Mudhaf,Kuwaiti sport shooter,Q817,Q35178
+Q11921636,Q6581072,1946-01-01T00:00:00Z,17,Faiza Al-Kharafi,Fazia al-Kharafi,Kuwaiti chemist,Q817,Q35178
+Q11976763,Q6581097,1986-08-22T00:00:00Z,5,Ibrahim Al-Hasan,Ibrahem Al-Hasan,Olympic table tennis player,Q817,
+Q12178604,Q6581097,1938-02-13T00:00:00Z,3,Ahmad Al-Saleh,Ahmad Al-Saleh,Kuwaiti actor (1938-2015),Q817,Q817
+Q12178812,Q6581097,1958-05-14T00:00:00Z,5,Ahmad Johar,Ahmad Johar,Kuwaiti actor,Q817,Q817
+Q12179077,Q6581097,1927-01-01T00:00:00Z,2,Ahmad Muhammad Al-Khatib,Ahmad Muhammad Al-Khatib,Kuwaiti politician,Q817,Q35178
+Q12179124,Q6581097,1971-02-13T00:00:00Z,7,Ahmad Nasser Al-Mohammad Al-Sabah,Ahmad Nasser al-Mohammed al-Sabah,Kuwaiti politician,Q817,Q35178
+Q12179785,Q6581072,1969-01-01T00:00:00Z,6,Aseel al-Awadhi,Aseel al-Awadhi,former Kuwait MP,Q817,
+Q12180569,Q6581072,1989-03-30T00:00:00Z,3,Amal Al-Awadhi,Amal Al Awadi,actor,Q817,
+Q12195726,Q6581097,1961-10-12T00:00:00Z,5,Basil Abdul Nabi,Basil Abdul Nabi,association football player,Q817,Q35178
+Q12198394,Q6581097,1977-01-29T00:00:00Z,3,Bashar Al-Sayegh,Bashar AlSayegh,Kuwaiti journalist,Q817,Q817
+Q12201680,Q6581097,1975-01-01T00:00:00Z,2,Bader Al-Dahoum,Bader Aldahoum,Kuwaiti politician,Q817,
+Q12201680,Q6581097,1975-03-16T00:00:00Z,2,Bader Al-Dahoum,Bader Aldahoum,Kuwaiti politician,Q817,
+Q12203733,Q6581097,1970-05-23T00:00:00Z,4,Thamer Enad,Thamer Enad,association football player,Q817,Q817
+Q12204053,Q6581097,1928-01-01T00:00:00Z,2,Jaber Al-Ali Al-Salem Al-Sabah,Jaber Al-Ali Al-Sabah,Kuwaiti royal and politician (1928 -1994),Q817,
+Q12205938,Q6581097,1970-01-01T00:00:00Z,2,Jamaan Al-Harbash,Jamaan Al-Harbash,Kuwaiti National Assembly member,Q817,
+Q12206446,Q6581072,1977-11-04T00:00:00Z,5,Jawaher,Jawaher,Kuwaiti actress,Q817,
+Q12207945,Q6581097,1960-06-12T00:00:00Z,2,Hassan Jawhar,Hassan Jawhar,Kuwaiti politician,Q817,
+Q12208037,Q6581097,2000-01-01T00:00:00Z,2,Hassan Nasser,Hassan Nasser,association football player,Q817,
+Q12208234,Q6581097,1968-08-10T00:00:00Z,2,Hussein Quwaian Al-Mutairi,Hussein Quwaian Al-Mutairi,Member of the National Assembly of Kuwait,Q817,
+Q12209738,Q6581072,1948-04-15T00:00:00Z,12,Hayat Al-Fahad,Hayat Al-Fahad,"Kuwaiti actress, broadcaster, writer and producer (born 1948)",Q817,Q7490451
+Q12209740,Q6581072,1981-02-25T00:00:00Z,6,Hayat Alyaqout,Hayat Alyaqut,Kuwaiti writer,Q817,
+Q12209971,Q6581097,1937-01-26T00:00:00Z,3,Khalid Al-Nafisi,Khalid Al-Nafisi,Kuwaiti actor (1937-2006),Q817,Q817
+Q12210111,Q6581097,1911-01-01T00:00:00Z,2,Khalid Al-Ghunaim,Khalid Al-Ghunaim,Kuwaiti politician,Q817,
+Q12215117,Q6581097,1938-06-18T00:00:00Z,3,Salem Sabah Al-Salem Al-Sabah,Salem Sabah Al-Salem Al-Sabah,Kuwaiti politician (1938–2007),Q817,
+Q12215912,Q6581097,1938-09-15T00:00:00Z,5,Saad Al Faraj,Saad Al Faraj,Kuwaiti actor,Q817,Q817
+Q12218425,Q6581072,1988-02-08T00:00:00Z,6,Shujoun Al-Hajri,Shujoun Al-Hajri,Kuwaiti Actress and show producer,Q817,Q35178
+Q12219577,Q6581097,1920-06-23T00:00:00Z,5,Saleh Ajeery,Sāliḥ Muḥammad ʿUjayrī,Kuwaiti astronomer,Q817,Q12191173
+Q12219648,Q6581097,1986-04-07T00:00:00Z,5,Saleh Al-Haddad,Saleh Abdelaziz Al-Haddad,Kuwaiti male long jumper,Q817,
+Q12219691,Q6581097,1953-03-15T00:00:00Z,26,Sabah Al-Khalid Al-Sabah,Sabah Al-Khalid Al-Sabah,Crown Prince of Kuwait,Q817,Q35178
+Q12219999,Q6581072,1964-04-14T00:00:00Z,14,Safa Al Hashem,Safa Al Hashem,Kuwaiti politician,Q817,Q817
+Q12221476,Q6581097,1966-01-18T00:00:00Z,4,Tariq Al-Ali,Tariq Al-Ali,Kuwaiti actor,Q817,Q1077024
+Q12222684,Q6581097,1941-01-01T00:00:00Z,3,Abdulrahman Al-Dawla,Abdulrahman Al-Dawla,association football player,Q817,Q35178
+Q12222794,Q6581097,1939-11-05T00:00:00Z,6,Abd al-Rahman Abd al-Khaliq,Abd al-Rahman Abd al-Khaliq,Kuwaiti Islamic scholar and preacher (1939–2020),Q817,Q30786
+Q12222955,Q6581097,1950-06-14T00:00:00Z,2,Abdulaziz Al-Haddad,Abdul Aziz Al Haddad,Kuwaiti actor,Q817,Q817
+Q12222997,Q6581097,1987-11-22T00:00:00Z,5,Abdulaziz Al-Kalthem,Abdulaziz Al-Kalthem,Saudi Arabian footballer,Q817,Q851
+Q12223081,Q6581097,1915-12-11T00:00:00Z,2,Abdulaziz F. Al-Masaeed,Abdulaziz F. Al-Masaeed,Kuwaiti politician (1915-2001),Q817,
+Q12223430,Q6581097,1945-01-01T00:00:00Z,6,Abdullah Al-Nafisi,Abdullah Al-Nafisi,Kuwaiti politician and academic,Q817,Q817
+Q12223432,Q6581097,1936-03-22T00:00:00Z,2,Abdullah Al-Nibari,Abdullah Al-Nibari,Kuwaiti politician,Q817,Q35178
+Q12224277,Q6581097,1971-01-05T00:00:00Z,2,Obaid Al-Wasmi,Obaid Al-Wasmi,Kuwaiti politician,Q817,http://www.wikidata.org/.well-known/genid/c4db9d595b3d161672604f8f99fbcc2c
+Q12224381,Q6581097,1962-05-26T00:00:00Z,9,Othman al-Khamis,Uthman al-Khamis,Kuwaiti Islamic scholar,Q817,Q35178
+Q12227966,Q6581097,1939-09-10T00:00:00Z,3,Ali Al-Mufidi,Ali Al-Mufidi,Kuwaiti actor,Q817,Q817
+Q12228117,Q6581097,1948-01-01T00:00:00Z,2,Ali Sabah Al-Salem Al-Sabah,Ali Sabah Al-Salem Al-Sabah,former Kuwaiti Minister of Defense,Q817,
+Q12229394,Q6581097,1943-03-13T00:00:00Z,6,Ghanem Al-Saleh,Ghanem Al-Saleh,Kuwaiti actor,Q817,Q817
+Q12229676,Q6581097,1931-01-01T00:00:00Z,2,Ghanam Al-Jumhur,Ghanam Al-jumhur,Kuwaiti politician,Q817,Q35178
+Q12230150,Q6581072,1981-11-17T00:00:00Z,5,Fatima Al Safi,Fatima Al Safi,Kuwaiti actress,Q817,Q3505782
+Q12230354,Q6581072,1967-09-23T00:00:00Z,4,Fajer Al-Saeed,Fajer Al-Saeed,Kuwaiti screenwriter and producer,Q817,Q1077024
+Q12230681,Q6581072,1944-02-14T00:00:00Z,5,Fariha Al-Ahmad,Princess Fariha Al-Ahmad of Kuwait,Kuwaiti Royal (1944-2018),Q817,Q12233042
+Q12238511,Q6581097,1930-01-01T00:00:00Z,2,Mubarak Abdullah Al-Ahmad Al-Sabah,Mubarak Abdullah Al-Ahmad Al-Sabah,Kuwaiti politician (1930–2023),Q817,Q35178
+Q12239965,Q6581097,1930-06-01T00:00:00Z,4,Mohammed Al Manea,Mohammed Al Manea,Kuwaiti actor,Q817,Q12191173
+Q12240018,Q6581097,1948-12-25T00:00:00Z,5,Muhammad Baqir al-Muhri,Muhammad Baqir Al-Muhri,Kuwaiti Twelver Shia imam and religious & political activist,Q817,Q35178
+Q12240328,Q6581097,1970-12-28T00:00:00Z,4,Mohamed Ben Haji,Mohamed Ben Haji,association football player,Q817,
+Q12240740,Q6581097,1971-10-02T00:00:00Z,2,Mohammad Abdullah Al-Mubarak Al-Sabah,Mohammad Abdullah Al-Mubarak Al-Sabah,Kuwaiti ruling family member,Q817,
+Q12240909,Q6581097,1981-01-17T00:00:00Z,4,Mohammad Fahad,Mohammad Fahad,Kuwaiti footballer (1981-2013),Q817,Q35178
+Q12242012,Q6581072,1979-02-02T00:00:00Z,4,Maram Al Balushi,Maram Al Balushi,Kuwaiti singer and actor,Q817,Q35178
+Q12243038,Q6581097,1971-12-12T00:00:00Z,3,Mashari Al-Ballam,Mashari Al-Ballam,Kuwaiti actor,Q817,Q1392962
+Q12243042,Q6581097,1982-08-17T00:00:00Z,6,Meshary Al-Arada,Meshary al Arada,Kuwaiti singer and composer (1982-2018),Q817,Q8049376
+Q12245604,Q6581097,1941-01-01T00:00:00Z,3,Mansour Al-Mansour,Mansour Al-Mansour,actor (1941-2011),Q817,Q4704502
+Q12245605,Q6581097,1970-09-03T00:00:00Z,4,Mansour Mohamed,Mansour Mohamed,Kuwaiti footballer,Q817,
+Q12247708,Q6581097,1955-01-01T00:00:00Z,2,Nasser Al-Sane,Nasser Al-Sane,Member of the National Assembly of Kuwait,Q817,
+Q12247753,Q6581097,1948-04-27T00:00:00Z,6,Nasser Sabah Al-Ahmad Al-Sabah,Nasser Sabah Al-Ahmad Al-Sabah,Kuwaiti royal (1948-2020),Q817,Q35178
+Q12247921,Q6581097,1970-02-07T00:00:00Z,7,Nabil Al Awadi,Nabil Alawadi,Kuwaiti writer,Q817,Q35178
+Q12247921,Q6581097,1970-02-07T00:00:00Z,7,Nabil Al Awadi,Nabil Alawadi,Kuwaiti writer,Q857026,Q35178
+Q12247922,Q6581097,1949-01-01T00:00:00Z,3,Nabil Al Fadl,Nabil Al Fadl,Kuwaiti politician,Q817,Q817
+Q12248057,Q6581097,1937-02-01T00:00:00Z,2,Najm Abdulkarim,Najm Abdulkarim,politician,Q817,
+Q12249044,Q6581072,1983-11-11T00:00:00Z,2,Noha Nabil,Noha Nabil,Kuwaiti TV presenter and poet,Q817,Q817
+Q12249069,Q6581097,1982-05-04T00:00:00Z,3,Nawaf Mohammad Al-Otaibi,Nawaf Mohammad Al-Otaibi,footballer,Q817,
+Q12249854,Q6581072,1965-08-20T00:00:00Z,9,Huda Hussein,Huda Hussein,Kuwaiti actor,Q796,Q35178
+Q12249854,Q6581072,1965-08-20T00:00:00Z,9,Huda Hussein,Huda Hussein,Kuwaiti actor,Q817,Q35178
+Q12250103,Q6581072,1987-03-19T00:00:00Z,5,Hanadi Alkandari,Hanadi Al-Kandari Yasir Nassar Akaabi 3101990 1987 39 19,Kuwaiti actress,Q817,
+Q12250280,Q6581072,1979-01-02T00:00:00Z,4,Haya Al Shuaibi,Haya Al Shuaibi,Saudi artist,Q817,Q35178
+Q124304752,Q6581097,1966-01-01T00:00:00Z,3,Abdullah Ali Al-Yahya,Abdullah Ali Al-Yahya,Kuwaiti politician,Q817,Q35178
+Q124304819,Q6581097,1959-05-01T00:00:00Z,5,Fahad Yusuf Al-Sabah,Fahad Yusuf Al-Sabah,Kuwaiti Minister of Interior,Q817,Q35178
+Q124309644,Q6581097,1956-01-01T00:00:00Z,4,Imad Mohammad Alatiqi,Imad Mohammad Alatiqi,deputy prime minister of Kuwait,Q817,Q35178
+Q130212154,Q6581097,1901-01-01T00:00:00Z,3,Faisal Alrajehi,Faisal Alrajehi,Kuwaiti paralympic athlete,Q817,
+Q134316837,Q6581097,2005-01-14T00:00:00Z,2,Yousef Majed,Yousef Majed,Kuwaiti footballer,Q817,
+Q134316837,Q6581097,2005-01-14T00:00:00Z,2,Yousef Majed,Yousef Majed,Kuwaiti footballer,Q857026,
+Q134707989,Q6581097,2002-06-02T00:00:00Z,2,Abdulwahab Al-Awadi,Abdulwahab Al-Awadi,Kuwaiti footballer,Q817,
+Q134726696,Q6581097,2000-09-01T00:00:00Z,2,Hassan Al-Enezi,Hassan Al-Enezi,Kuwaiti footballer,Q817,
+Q134822591,Q6581097,2006-04-17T00:00:00Z,2,Jasem Al-Mutar,Jasem Al-Mutar,Kuwaiti footballer,Q817,
+Q134888399,Q6581097,1999-12-04T00:00:00Z,3,Hamad Al-Qallaf,Hamad Al-Qallaf,Kuwaiti footballer,Q817,
+Q134889773,Q6581097,2004-03-11T00:00:00Z,2,Ali Porusaniei,Ali Porusaniei,Kuwaiti footballer,Q817,
+Q134890508,Q6581097,2002-01-26T00:00:00Z,2,Hussain Ashkanani,Hussain Ashkanani,Kuwaiti footballer,Q817,
+Q134954621,Q6581097,1999-04-06T00:00:00Z,2,Khaled Al-Mershed,Khaled Al-Mershed,Kuwaiti footballer,Q817,
+Q134988535,Q6581097,1999-10-20T00:00:00Z,2,Dhahi Al-Shammari,Dhahi Al-Shammari,Kuwaiti footballer,Q817,
+Q135273391,Q6581097,1998-05-08T00:00:00Z,2,Abdullah Ammar,Abdullah Ammar,Kuwaiti footballer (born 1999),Q817,
+Q135409530,Q6581097,2001-05-21T00:00:00Z,2,Salman Al-Awadhi,Salman Al-Awadhi,Kuwaiti footballer,Q817,
+Q135410401,Q6581097,2003-09-26T00:00:00Z,3,Bader Al-Mutairi,Bader Al-Mutairi,Kuwaiti footballer,Q817,
+Q135416705,Q6581097,1999-01-13T00:00:00Z,2,Ali Abdul Rasul,Ali Abdul Rasul,Kuwaiti footballer,Q817,
+Q13626223,Q6581097,1963-08-23T00:00:00Z,5,Adel al Zamel,Adel al Zamel,Kuwaiti detainee at Guatanamo,Q817,Q35178
+Q13628916,Q6581097,1982-09-22T00:00:00Z,3,Bashar al-Shatti,Bashar al-Shatti,singer,Q817,
+Q13637455,Q6581072,1972-02-15T00:00:00Z,7,Ibtihal Al-Khatib,Ibtihal Al-Khatib,"Kuwait academic, activist and journalist",Q817,Q35178
+Q137342881,Q6581097,1995-01-01T00:00:00Z,2,Salman Al-Mosawi,Salman Al-Mosawi,Kuwaiti karateka,Q817,
+Q140135261,Q6581097,1980-01-01T00:00:00Z,3,Jarrah Jaber Al-Ahmad Al-Sabah,Jarrah Jaber Al-Ahmad Al-Sabah,Foreign Minister of Kuwait,Q817,
+Q14636403,Q6581097,1977-02-06T00:00:00Z,6,Adel Al-Anezi,Adel Al-Anezi,Kuwaiti footballer,Q817,Q35178
+Q14636418,Q6581097,1977-03-03T00:00:00Z,6,Naser Al-Omran,Naser Al-Omran,Kuwaiti association football player,Q817,Q35178
+Q14636419,Q6581097,1977-01-14T00:00:00Z,6,Naser Al-Othman,Nasser Al-Othman,Kuwaiti association football player,Q817,Q35178
+Q14636419,Q6581097,1977-01-14T00:00:00Z,6,Naser Al-Othman,Nasser Al-Othman,Kuwaiti association football player,Q817,Q817
+Q14636419,Q6581097,1975-01-14T00:00:00Z,6,Naser Al-Othman,Nasser Al-Othman,Kuwaiti association football player,Q817,Q35178
+Q14636419,Q6581097,1975-01-14T00:00:00Z,6,Naser Al-Othman,Nasser Al-Othman,Kuwaiti association football player,Q817,Q817
+Q15966485,Q6581097,1990-01-29T00:00:00Z,7,Saif Al Hashan,Saif Al Hashan,Kuwaiti footballer,Q817,Q817
+Q16104391,Q6581097,1936-11-06T00:00:00Z,5,Abdullah Bishara,Abdullah Bishara,Kuwaiti diplomat,Q817,Q817
+Q16118629,Q6581097,1991-09-16T00:00:00Z,4,Saoud Al-Ansari,Saoud Al-Ansari,association football player,Q817,Q35178
+Q16118701,Q6581097,1988-07-22T00:00:00Z,5,Soud Al-Mejmed,Soud Al Mejmed,association football player,Q817,Q35178
+Q16120586,Q6581097,1990-09-30T00:00:00Z,4,Jaber Al Mutairi,Jaber Al Mutairi,association football player,Q817,Q35178
+Q16124633,Q6581097,1980-05-25T00:00:00Z,2,Rakan Al-Nisf,Rakan Al-Nisf,Kuwaiti politician,Q817,
+Q16151955,Q6581097,1952-09-05T00:00:00Z,18,Ahmad Al-Abdullah Al-Sabah,Ahmad Al Abdullah Al Sabah,Prime Minister of Kuwait since 2024,Q817,Q35178
+Q16162523,Q6581097,1970-03-09T00:00:00Z,3,Majed Al-Taqi,Majed al-Taqi,Kuwaiti diver,Q817,
+Q1617724,Q6581097,1945-08-10T00:00:00Z,13,Fahad Al-Ahmed Al-Jaber Al-Sabah,Fahad Al-Ahmed Al-Jaber Al-Sabah,Founder of the Kuwait Olympic Committee (1945-1990),Q817,Q12236750
+Q16193574,Q6581097,1960-05-25T00:00:00Z,1,Mohamed Eyiad,Mohamed Eyiad,Kuwaiti fencer,Q817,
+Q16200238,Q6581097,1968-10-17T00:00:00Z,1,Younes Al-Mashmoum,Younes Al-Mashmoum,fencer,Q817,
+Q16210854,Q6581097,1989-05-22T00:00:00Z,6,Abdulaziz Al-Mandeel,Abdulaziz Al Mandeel,Kuwaiti hurdler,Q817,
+Q16211507,Q6581072,1988-03-07T00:00:00Z,6,Danah Al-Nasrallah,Danah Al-Nasrallah,Kuwaiti track and field sprinter,Q817,Q35178
+Q16212562,Q6581097,1970-05-21T00:00:00Z,2,Sultan Al-Otaibi,Sultan Al-Otaibi,Kuwaiti swimmer,Q817,Q35178
+Q16222291,Q6581097,1983-11-03T00:00:00Z,2,Faisal Al-Mahmeed,Faisal Al-Mahmeed,Kuwaiti swimmer,Q817,Q35178
+Q16228219,Q6581097,1987-02-10T00:00:00Z,3,Mohammad Madwa,Mohammad Madwa,Kuwaiti swimmer,Q817,Q35178
+Q16231927,Q6581097,1987-01-11T00:00:00Z,4,Dhari Said,Dhari Said,Kuwaiti footballer,Q817,Q817
+Q16231927,Q6581097,1987-05-02T00:00:00Z,4,Dhari Said,Dhari Said,Kuwaiti footballer,Q817,Q817
+Q16232458,Q6581097,1988-09-12T00:00:00Z,4,Ammar Al-Tamimi,Ammar Altamimi,Kuwaiti Squash player,Q817,Q35178
+Q16232788,Q6581097,1989-01-11T00:00:00Z,1,Mohammad Burbaye,Mohamed Burbaye,Kuwaiti jet ski racer,Q817,
+Q16297597,Q6581097,1989-01-24T00:00:00Z,6,Humood AlKhudher,Humood AlKhudher,Kuwaiti singer,Q817,Q35178
+Q16664938,Q6581097,1953-10-07T00:00:00Z,5,Mohammad Al-Zinkawi,Mohamed al-Zinkawi,Kuwaiti athletics competitor,Q817,
+Q17403473,Q6581097,1991-02-26T00:00:00Z,5,Sulaiman Abdulghafour,Sulaiman Abdulghafour,Kuwaiti footballer,Q817,Q35178
+Q17411278,Q6581097,1993-03-21T00:00:00Z,4,Mahmoud Dashti,Mahmoud Dashti,Kuwaiti footballer,Q817,Q35178
+Q1749070,Q6581097,1943-06-17T00:00:00Z,13,Nasser Al-Kharafi,Nasser Al-Kharafi,businessman (1943-2011),Q817,Q35178
+Q17580310,Q6581097,1987-07-06T00:00:00Z,4,Mubarak Al Beloushi,Mubarak Al Beloushi,football player,Q817,Q35178
+Q17612464,Q6581097,1988-08-17T00:00:00Z,43,Jihadi John,Jihadi John,British terrorist and murderer,Q817,Q1077024
+Q17612464,Q6581097,1988-08-17T00:00:00Z,43,Jihadi John,Jihadi John,British terrorist and murderer,Q145,Q1077024
+Q1764345,Q6581097,1960-02-16T00:00:00Z,15,Abdullah Al-Buloushi,Abdullah Al-Buloushi,Kuwaiti footballer,Q817,Q35178
+Q17880190,Q6581097,1960-10-01T00:00:00Z,6,Salman Sabah Al-Salem Al-Homoud Al-Sabah,Salman Sabah Al-Salem Al-Homoud Al-Sabah,Kuwaiti politician,Q817,Q817
+Q18044001,Q6581097,1987-08-10T00:00:00Z,2,Hajjaj al-Ajmi,Hajjaj al-Ajmi,Kuwaiti Muslim cleric,Q817,Q817
+Q18124733,Q6581097,1981-04-24T00:00:00Z,6,Muhsin al-Fadhli,Muhsin al-Fadhli,Al-Qaeda member (1981-2015),Q817,Q817
+Q18637099,Q6581097,1987-09-29T00:00:00Z,5,Majid Al-Ali,Majid Al-Ali,Olympic judoka,Q817,Q35178
+Q18705198,Q6581097,1980-05-31T00:00:00Z,3,Ahmad Gholoum,Ahmad Gholoum,Kuwaiti shot putter,Q817,
+Q18745559,Q6581097,1991-11-10T00:00:00Z,10,Fahad Al Hajeri,Fahed Al Hajri,footballer,Q817,Q817
+Q18745732,Q6581097,1992-03-29T00:00:00Z,7,Sultan Al Enezi,Sultan Al Enezi,footballer,Q817,Q35178
+Q18745732,Q6581097,1992-09-28T00:00:00Z,7,Sultan Al Enezi,Sultan Al Enezi,footballer,Q817,Q35178
+Q18749114,Q6581097,1991-10-09T00:00:00Z,8,Faisal Zayid,Faisal Zaid,Kuwaiti footballer,Q817,Q35178
+Q18758269,Q6581097,1988-06-11T00:00:00Z,6,Faisal Al Enezi,Faisal Al Enezi,footballer,Q817,Q35178
+Q18758271,Q6581097,1990-08-11T00:00:00Z,8,Talal Al Fadhel,Talal Al Fadhel,footballer,Q817,Q35178
+Q18758273,Q6581097,1993-02-13T00:00:00Z,6,"Abdulrahman Al-Shammari (footballer, born 1993)",Abdul Rahman Al Shammari,Kuwaiti footballer,Q817,Q35178
+Q18758273,Q6581097,1993-02-23T00:00:00Z,6,"Abdulrahman Al-Shammari (footballer, born 1993)",Abdul Rahman Al Shammari,Kuwaiti footballer,Q817,Q35178
+Q18758277,Q6581097,1992-08-28T00:00:00Z,8,Khalid El Ebrahim,Khalid Hajeyah,footballer,Q817,Q35178
+Q19245133,Q6581097,1994-05-24T00:00:00Z,8,Zaid Ashkanani,Zaid Ashkanani,Kuwaiti racing driver,Q817,
+Q19257092,Q6581072,1953-01-01T00:00:00Z,7,Najma Idrees,Najma Idrees,Kuwaiti writer and poet,Q817,Q35178
+Q19257092,Q6581072,1952-12-25T00:00:00Z,7,Najma Idrees,Najma Idrees,Kuwaiti writer and poet,Q817,Q35178
+Q19276931,Q6581097,1943-10-01T00:00:00Z,4,Sami Mohammad,Sami Mohammad,Kuwaiti artist,Q817,Q7490451
+Q19328629,Q6581097,1943-01-01T00:00:00Z,4,Saleh Zakaria,Saleh Zakaria,Kuwaiti football manager,Q817,Q817
+Q19588367,Q6581072,1967-01-01T00:00:00Z,8,Shurooq Amin,Shurooq Amin,Kuwaiti artist,Q817,Q817
+Q19938170,Q6581072,1981-07-01T00:00:00Z,11,Fatima Al Qadiri,Fatima Al Qadiri,Kuwaitian musician and conceptual artist,Q817,Q3718
+Q2016792,Q6581097,1953-10-25T00:00:00Z,17,Jasem Yaqoub,Jasem Yaqoub,Kuwaiti footballer,Q817,Q35178
+Q2017241,Q6581097,1954-01-03T00:00:00Z,15,Abdulaziz Al-Anberi,Abdulaziz Al-Anberi,Kuwaiti footballer,Q817,Q817
+Q2020201,Q6581097,1957-10-01T00:00:00Z,15,Naeem Saad,Naeem Saad,Kuwaiti footballer,Q817,Q817
+Q2020704,Q6581097,1960-09-26T00:00:00Z,15,Hamoud Al-Shemmari,Hamoud Al-Shemmari,Kuwaiti footballer,Q817,Q817
+Q2020704,Q6581097,1960-09-24T00:00:00Z,15,Hamoud Al-Shemmari,Hamoud Al-Shemmari,Kuwaiti footballer,Q817,Q817
+Q20385267,Q6581097,1992-01-08T00:00:00Z,4,Ahmed Al-Dhefiri,Ahmed Al-Dhefiri,association football player,Q817,Q817
+Q20385267,Q6581097,1992-01-09T00:00:00Z,4,Ahmed Al-Dhefiri,Ahmed Al-Dhefiri,association football player,Q817,Q817
+Q20393882,Q6581072,1957-01-01T00:00:00Z,11,Sara Akbar,Sara Akbar,Kuwaiti scientist and activist,Q817,Q817
+Q20395180,Q6581072,1947-01-01T00:00:00Z,4,Hessa al-Rifa'i,Hessa  al-Rifa'i,Kuwait poet,Q817,Q35178
+Q20400964,Q6581072,1949-01-01T00:00:00Z,3,Ghanima al-Harb,Ghanima al-Harb,Kuwaiti poet,Q3480281,Q817
+Q20400964,Q6581072,1949-01-01T00:00:00Z,3,Ghanima al-Harb,Ghanima al-Harb,Kuwaiti poet,Q817,Q817
+Q20404628,Q6581072,1953-01-01T00:00:00Z,3,Fatimah Yousif al-Ali,Fatimah Yousif al-Ali,Kuwaiti journalist and author,Q817,
+Q2052580,Q6581097,1962-12-04T00:00:00Z,15,Abdulaziz Al-Buloushi,Abdulaziz Al-Buloushi,Kuwaiti footballer,Q817,Q817
+Q2053411,Q6581097,1980-11-03T00:00:00Z,9,Waleed Ali,Waleed Ali,Kuwaiti footballer,Q817,Q35178
+Q20630468,Q6581097,1958-01-01T00:00:00Z,3,Nizar Al-Adsani,Nizar Al-Adsani,Kuwaiti entrepreneur,Q817,
+Q20676590,Q6581097,1948-12-23T00:00:00Z,2,Fahad Al Rajaan,Fahad Al Rajaan,Kuwaiti businessman (1948–2022),Q817,Q35178
+Q20684349,Q6581097,1955-10-04T00:00:00Z,3,Mohammed Khaled Al-Khadher,Mohammed Khaled Al-Khadher,chief of general staff of Kuwait Armed forces,Q817,
+Q20727836,Q6581097,1992-10-17T00:00:00Z,8,Essa Al-Zenkawi,Essa Al-Zenkawi,Kuwaiti discus thrower,Q817,
+Q2074907,Q6581097,1913-04-12T00:00:00Z,23,Sabah Al-Salim Al-Sabah,Sabah III Al-Salim Al-Sabah,Emir of Kuwait from 1965 to 1977,Q817,Q35178
+Q20804356,Q6581097,1962-01-17T00:00:00Z,3,Tarek Al-Ghoussein,Tarek Al-Ghoussein,Kuwaiti visual artist,Q817,Q35178
+Q2081294,Q6581097,1981-02-05T00:00:00Z,12,Wesam Rizik,Wesam Rizik,Qatari footballer,Q817,Q35178
+Q2081294,Q6581097,1981-02-05T00:00:00Z,12,Wesam Rizik,Wesam Rizik,Qatari footballer,Q810,Q35178
+Q2081294,Q6581097,1981-02-05T00:00:00Z,12,Wesam Rizik,Wesam Rizik,Qatari footballer,Q846,Q35178
+Q2081793,Q6581097,1986-05-22T00:00:00Z,13,Talal Al-Bloushi,Talal Al-Bloushi,Qatari footballer,Q817,Q1077024
+Q2081793,Q6581097,1986-05-22T00:00:00Z,13,Talal Al-Bloushi,Talal Al-Bloushi,Qatari footballer,Q846,Q1077024
+Q20900209,Q6581072,1970-01-01T00:00:00Z,4,Mai Al-Nakib,Mai Al-Nakib,Kuwaiti writer,Q817,
+Q21064199,Q6581097,1973-07-19T00:00:00Z,3,Mashfi Al-Mutairi,Mashfi Al-Mutairi,Kuwaiti sports shooter,Q817,Q35178
+Q21069529,Q6581097,1909-01-01T00:00:00Z,3,Mohammed Ahmad Al-Jaber Al-Sabah,Mohammed Ahmad Al-Jaber Al-Sabah,Kuwaiti royal,Q817,Q817
+Q21180946,Q6581097,1993-01-23T00:00:00Z,5,Faisal Ajab Al-Azemi,Faisal Al-Azemi,Kuwaiti association football player,Q817,Q817
+Q21400322,Q6581072,1964-01-01T00:00:00Z,3,Faten Al-Naqeeb,Faten Al-Naqeeb,Kuwaiti lawyer,Q817,
+Q21406073,Q6581072,1965-06-04T00:00:00Z,18,Huzama Habayeb,Huzama Habayeb,Palestinian writer,Q817,Q817
+Q21406073,Q6581072,1965-06-04T00:00:00Z,18,Huzama Habayeb,Huzama Habayeb,Palestinian writer,Q219060,Q817
+Q217194,Q6581097,1926-06-29T00:00:00Z,43,Jaber Al-Ahmad Al-Sabah,Jaber al-Ahmad al-Sabah,Emir of Kuwait from 1977 to 2006,Q817,Q35178
+Q21993224,Q6581097,1941-01-04T00:00:00Z,4,Fakhri Odeh,Fakhri Ouda Altamimi,Media Advisor of Kuwait,Q817,Q817
+Q22003053,Q6581072,1936-01-01T00:00:00Z,8,Hidaya Sultan al-Salem,Hidaya Sultan al-Salem,Kuwaiti journalist,Q817,
+Q22095703,Q6581097,1992-10-11T00:00:00Z,5,Abbas Qali,Abbas Qali,Kuwaiti swimmer,Q817,Q35178
+Q2227094,Q6581097,1944-10-03T00:00:00Z,6,Saud Nasser Al-Saud Al-Sabah,Saud Nasser Al-Saud Al-Sabah,Kuwaiti politician (1944–2012),Q817,Q35178
+Q22276740,Q6581097,1945-01-01T00:00:00Z,3,Fawzi Al-Kharafi,Fawzi Al-Kharafi,Kuwaiti billionaire,Q817,Q35178
+Q22688792,Q6581097,1954-08-05T00:00:00Z,2,Abdul-Hamid Dashti,Abdul-Hamid Dashti,former Kuwaiti parliamentarian,Q817,
+Q22688941,Q6581097,1959-01-01T00:00:00Z,3,Anbar Said,,association football player,Q817,Q796
+Q22689048,Q6581097,1992-10-17T00:00:00Z,3,Fahad Al-Mejmed,Fahad Al-Majmad,association football player,Q817,Q35178
+Q22690834,Q6581097,1945-01-01T00:00:00Z,3,Yacoub Al-Subaie,Ya'qub al-Subai'i,Kuwaiti poet (1945–2024),Q817,Q4704502
+Q23767452,Q6581072,1976-01-01T00:00:00Z,6,Laura Boushnak,Laura Boushnak,Palestinian photographer,Q817,Q817
+Q2385060,Q6581072,1947-01-01T00:00:00Z,14,Massouma al-Mubarak,Massouma al-Mubarak,professor first female kuwaiti government minister,Q817,Q817
+Q23901433,Q6581097,1979-09-16T00:00:00Z,3,Naser Buftain,Naser Buftain,Kuwaiti taekwondoin,Q817,Q817
+Q23902255,Q6581097,1964-03-27T00:00:00Z,4,Naji Mubarak,Naji Mubarak,Kuwaiti athletics competitor,Q817,
+Q23904806,Q6581097,1988-01-01T00:00:00Z,4,Bader Al Samak,Bader Al Samak,association football player,Q817,Q35178
+Q23904815,Q6581097,1988-06-20T00:00:00Z,3,Hashem Adnan,Hashem Adnan,association football player,Q817,Q35178
+Q23904823,Q6581097,1995-03-03T00:00:00Z,4,Talal Jazaʽa,Talal Jaza’a,association football player,Q817,Q817
+Q24151031,Q6581097,1993-01-31T00:00:00Z,8,Yaqoub Al-Youha,Yaqoub Mohamed Al-Youha,Kuwaiti sprinter,Q817,
+Q2420955,Q6581097,1958-01-14T00:00:00Z,6,Sami Al-Arian,Sami A. Al-Arian,"Egyptian civil rights activist, Ph.D.",Q817,Q817
+Q24251103,Q6581097,1971-12-18T00:00:00Z,4,Hamed Sadeq,Hamed Sadeq,Kuwaiti sprinter,Q817,
+Q24287409,Q6581097,1983-01-01T00:00:00Z,8,Saleem Haddad,Saleem Haddad,Kuwaiti writer,Q817,Q35178
+Q2469886,Q6581097,1955-05-23T00:00:00Z,20,Fathi Kameel,Fathi Kameel,Kuwaiti footballer,Q817,Q35178
+Q253945,Q6581097,1972-10-28T00:00:00Z,14,Jasem Al-Huwaidi,Jasem Al Huwaidi,Kuwaiti footballer,Q817,Q35178
+Q25450728,Q6581097,1986-09-08T00:00:00Z,4,Mutref al Mutref,Mutref al Mutref,Kuwaiti artist,Q817,Q817
+Q25849243,Q6581097,1979-01-04T00:00:00Z,5,Saud Habib,Saud Habib,Kuwaiti sport shooter,Q817,Q35178
+Q26196594,Q6581097,1987-03-31T00:00:00Z,4,Abdullah Maqdes,Abdullah Maqdes,tennis player,Q817,Q35178
+Q26209645,Q6581097,1994-05-13T00:00:00Z,5,Ahmad Al-Mutairi,Ahmad Almutairi,Kuwaiti para-sport athlete,Q817,
+Q26704792,Q6581097,1965-04-04T00:00:00Z,5,Waleed Al-Bekheet,Waleed Al-Bekheet,Kuwaiti hammer thrower,Q817,Q817
+Q26704792,Q6581097,1965-04-02T00:00:00Z,5,Waleed Al-Bekheet,Waleed Al-Bekheet,Kuwaiti hammer thrower,Q817,Q817
+Q27451795,Q6581072,1985-06-24T00:00:00Z,2,Nada Aljeraiwi,Nada Aljeraiwi,Kuwaiti cyclist,Q817,
+Q27451825,Q6581072,1988-10-26T00:00:00Z,2,Najla Aljeraiwi,Najla Aljeraiwi,Kuwaiti cyclist,Q817,
+Q27889025,Q6581097,1955-11-07T00:00:00Z,3,Abdullah Abdulrahman Zeyab,Abdullah Abdulrahman,Kuwaiti swimmer,Q817,
+Q27899115,Q6581097,1950-10-02T00:00:00Z,2,Fawzi Burhma,Fawzi Burhma,Kuwaiti swimmer,Q817,
+Q27950262,Q6581097,1959-12-01T00:00:00Z,2,Shuaib Al-Muwaizri,Shuaib Al-Muwaizri,Kuwaiti politician (born 1959),Q817,
+Q27999215,Q6581097,1977-08-28T00:00:00Z,4,Sadoun Salman,Sadoun Salman,association football player,Q817,
+Q27999215,Q6581097,1978-01-01T00:00:00Z,4,Sadoun Salman,Sadoun Salman,association football player,Q817,
+Q28086459,Q6581097,1970-01-01T00:00:00Z,6,Abu Jandal al-Kuwaiti,Abu Jandal al-Kuwaiti,high-ranking ISIL commander,Q817,Q1077024
+Q28086459,Q6581097,1980-01-01T00:00:00Z,6,Abu Jandal al-Kuwaiti,Abu Jandal al-Kuwaiti,high-ranking ISIL commander,Q817,Q1077024
+Q28145530,Q6581097,1978-09-02T00:00:00Z,6,Yousef Zayed,Yousef Zayed,association football player,Q817,
+Q2836311,Q6581097,1984-02-27T00:00:00Z,8,Ali Al-Zenkawi,Ali Mohamed Al-Zenkawi,Kuwaiti hammer thrower,Q817,Q1781
+Q28715629,Q6581097,1970-01-01T00:00:00Z,2,Hamad Almatar,Hamad Almatar,Member of the Kuwaiti National Assembly,Q817,
+Q28716810,Q6581097,1926-01-01T00:00:00Z,3,Hussein Al-Qattan,Hussein Al-Qattan,Kuwaiti actor (1926–2025),Q817,Q7490451
+Q28784678,Q6581072,1989-10-19T00:00:00Z,3,Ascia AKF,Ascia Al Faraj,Kuwaiti fashion blogger,Q817,Q817
+Q28816091,Q6581097,1960-04-02T00:00:00Z,5,Hisham Al-Sharaf,Hisham Al-Sharaf,Kuwaiti judoka (1960-),Q817,
+Q28837133,Q6581097,1964-03-08T00:00:00Z,2,Khaled Al-Assaf,Khaled Al-Assaf,Kuwaiti swimmer,Q817,
+Q28861399,Q6581097,2000-01-01T00:00:00Z,3,Isaac Atish Wa-El,Isaac Atish Wa-El,Kuwaiti swimmer,Q817,
+Q31271609,Q6581097,1948-10-15T00:00:00Z,3,Younis Abdallah,Younis Abdallah,Kuwaiti athlete,Q817,
+Q313661,Q6581097,1930-05-13T00:00:00Z,32,Saad Al-Salim Al-Sabah,Saad Al-Abdullah Al-Salim Al-Sabah,Emir of Kuwait in 2006,Q817,Q35178
+Q31694235,Q6581097,1953-08-22T00:00:00Z,4,Abdul Kareem Al-Awad,Abdul Kareem Al-Awad,Kuwaiti sprinter,Q817,
+Q31826442,Q6581097,1962-03-16T00:00:00Z,3,Abdul Majeed Al-Mosawi,Abdul Majeed Al-Mosawi,Kuwaiti sprinter,Q817,
+Q3195988,Q6581097,1965-01-01T00:00:00Z,4,Abu-Zaid al Kuwaiti,Abu Ziyad al-Kuwaiti,Kuwaiti criminal,Q817,Q817
+Q3290786,Q6581097,1986-05-26T00:00:00Z,15,Odai Al-Saify,Odai Al-Saify,Jordanian footballer,Q817,Q3805
+Q3290786,Q6581097,1986-05-26T00:00:00Z,15,Odai Al-Saify,Odai Al-Saify,Jordanian footballer,Q810,Q3805
+Q32984835,Q6581097,1989-05-08T00:00:00Z,6,Ebrahim Al-Zofairi,Ebrahim Alzofairi,Kuwaiti athletics competitor,Q817,
+Q33071810,Q6581097,1952-10-18T00:00:00Z,4,Abdul Aziz Abdul Kareem,Abdul Aziz Abdul Kareem,Kuwaiti athlete,Q817,
+Q3318977,Q6581097,1982-06-16T00:00:00Z,6,Mohammad Al-Azemi,Mohammad Al-Azemi,Kuwaiti middle distance runner,Q817,Q35178
+Q3327520,Q6581097,1955-10-10T00:00:00Z,22,Mohammad Sabah Al-Salem Al-Sabah,Mohammad Sabah Al-Salem Al-Sabah,Kuwaiti royal and politician (born 1955),Q817,Q35178
+Q334718,Q6581097,1940-12-22T00:00:00Z,29,Nasser Al-Mohammed Al-Sabah,Nasser Mohammed Al-Ahmed Al-Sabah,former Prime Minister of Kuwait 2006-2011,Q817,Q35178
+Q3351872,Q6581097,1983-12-10T00:00:00Z,10,Omar Jarun,Omar Jarun,Palestinian footballer,Q817,Q35178
+Q3351872,Q6581097,1983-12-10T00:00:00Z,10,Omar Jarun,Omar Jarun,Palestinian footballer,Q219060,Q35178
+Q33759496,Q6581097,1957-12-03T00:00:00Z,3,Khaled Khalifa Al-Shammari,Khaled Khalifa Al-Shammari,Kuwaiti middle-distance runner,Q817,Q35178
+Q3443972,Q6581097,1981-04-28T00:00:00Z,9,Shehab Kankouni,Shehab Kankoune,Kuwaiti footballer,Q817,Q35178
+Q3447497,Q6581097,1962-02-07T00:00:00Z,8,Mohammed Ebrahim Hajeyah,Mohammed Ibrahem,Kuwaiti footballer (born 1962),Q817,Q35178
+Q34486821,Q6581097,1950-01-02T00:00:00Z,2,Kassem Hamzé,Kassem Hamzé,Lebanese sprinter,Q822,
+Q34486821,Q6581097,1950-01-02T00:00:00Z,2,Kassem Hamzé,Kassem Hamzé,Lebanese sprinter,Q817,
+Q3558133,Q6581097,1988-10-19T00:00:00Z,12,Aziz Mashaan,Aziz Mashaan,Kuwaiti footballer,Q817,Q35178
+Q3595762,Q6581097,1953-11-15T00:00:00Z,13,Tareq Al-Suwaidan,Tareq Al-Suwaidan,Kuwaiti scholar,Q857026,Q817
+Q3595762,Q6581097,1953-11-15T00:00:00Z,13,Tareq Al-Suwaidan,Tareq Al-Suwaidan,Kuwaiti scholar,Q817,Q817
+Q3603412,Q6581097,1954-01-01T00:00:00Z,15,Abdullah Mayouf,Abdullah Mayouf,Kuwaiti footballer,Q817,Q817
+Q3603412,Q6581097,1953-12-03T00:00:00Z,15,Abdullah Mayouf,Abdullah Mayouf,Kuwaiti footballer,Q817,Q817
+Q3604996,Q6581097,1957-09-23T00:00:00Z,15,Adam Marjan,Adam Marjan,Kuwaiti footballer,Q817,Q817
+Q3606971,Q6581097,1980-10-06T00:00:00Z,5,Ahmad Al Subaih,Ahmad Al Subaih,association football player,Q817,Q35178
+Q36324956,Q6581097,1981-08-28T00:00:00Z,5,Abdullah Al-Salloum,Abdullah Al-Salloum,Kuwaiti economist,Q817,Q817
+Q37271702,Q6581097,1953-04-18T00:00:00Z,5,Abdullatif Abbas,Abdul Latif Abbas,Kuwaiti athlete,Q817,
+Q37271769,Q6581097,1954-09-06T00:00:00Z,4,Ibrahim Al-Rabeeah,Ibrahim Al-Rabeeah,Kuwaiti sprinter,Q817,
+Q3738374,Q6581097,1985-02-26T00:00:00Z,13,Fahad Awadh,Fahad Awadh,Kuwaiti footballer,Q817,Q35178
+Q3751555,Q6581097,1979-02-13T00:00:00Z,7,Fawzi Al-Shammari,Fawzi Al-Shammari,Kuwaiti sprinter,Q817,
+Q37634446,Q6581097,1980-01-01T00:00:00Z,2,Omar Al-Tabtabaee,Omar Al-Tabtabaee,Kuwait politician,Q817,
+Q37996526,Q6581097,1984-10-29T00:00:00Z,2,Abdulwahab Al-Rushaid,Abdulwahab Al-Rushaid,Minister of Finance and Minister of State for Economic Affairs and Investments of Kuwait,Q817,
+Q3807304,Q6581097,1981-10-15T00:00:00Z,9,Jarah Al Ateeqi,Jarah Al Ateeqi,footballer,Q817,Q35178
+Q3807370,Q6581097,1958-02-15T00:00:00Z,15,Jasem Bahman,Jasem Bahman,Kuwaiti footballer,Q817,Q817
+Q3814907,Q6581097,1963-10-23T00:00:00Z,10,Khaled Abou El Fadl,Khaled Abou El Fadl,professor of Islamic Law,Q817,Q35178
+Q3814907,Q6581097,1963-10-23T00:00:00Z,10,Khaled Abou El Fadl,Khaled Abou El Fadl,professor of Islamic Law,Q30,Q35178
+Q3816736,Q6581097,1936-01-01T00:00:00Z,5,Abdulaziz Al-Babtain,Abdulaziz Saud Albabtain,Kuwaiti poet and businessman (1936-2023),Q817,
+Q38256061,Q6581072,1977-08-30T00:00:00Z,4,Najla AlKanderi,Najla AlKanderi,Kuwaiti television presenter,Q817,Q35178
+Q3843434,Q6581097,1955-09-17T00:00:00Z,15,Mahboub Juma'a,Mahboub Juma'a,Kuwaiti footballer,Q817,Q817
+Q3854071,Q6581097,1987-04-20T00:00:00Z,13,Khaled Al-Rashidi,Khalid Al-Rashidi,Kuwaiti footballer,Q817,Q817
+Q3860135,Q6581097,1954-01-01T00:00:00Z,14,Mohammed Karam,Mohammed Karam,Kuwaiti footballer,Q817,Q817
+Q3860135,Q6581097,1955-01-01T00:00:00Z,14,Mohammed Karam,Mohammed Karam,Kuwaiti footballer,Q817,Q817
+Q3866863,Q6581097,1958-01-01T00:00:00Z,16,Muayad Al-Haddad,Muayad Al-Haddad,Kuwaiti footballer,Q817,Q817
+Q3866863,Q6581097,1960-03-03T00:00:00Z,16,Muayad Al-Haddad,Muayad Al-Haddad,Kuwaiti footballer,Q817,Q817
+Q3866866,Q6581097,1961-01-01T00:00:00Z,15,Mubarak Marzouq,Mubarak Marzouq,Kuwaiti footballer,Q817,Q817
+Q3870522,Q6581097,1961-04-04T00:00:00Z,15,Nassir Al-Ghanem,Nassir Al-Ghanim,Kuwaiti footballer,Q817,Q817
+Q3870522,Q6581097,1954-05-24T00:00:00Z,15,Nassir Al-Ghanem,Nassir Al-Ghanim,Kuwaiti footballer,Q817,Q817
+Q3877738,Q6581097,1976-07-12T00:00:00Z,7,Nohair Al-Shammari,Nohair Al-Shammari,football player,Q817,Q1077024
+Q39073145,Q6581097,1949-04-04T00:00:00Z,3,Mohamed Saad (athlete),Mohamed Saad,Kuwaiti sprinter,Q817,
+Q39250916,Q6581097,1975-01-29T00:00:00Z,4,Mishal Al-Harbi (athlete),Mishal Sayed Al-Harbi,Kuwaiti athlete,Q817,
+Q39250967,Q6581097,1977-06-14T00:00:00Z,4,Bader Abdul Rahman Al-Fulaij,Bader Abdul Rahman Al-Fulaij,Kuwaiti sprinter,Q817,
+Q39251067,Q6581097,1969-08-09T00:00:00Z,5,Musayed Al-Azimi,Musayed Al-Azimi,Kuwaiti athlete,Q817,
+Q3944134,Q6581097,1954-05-24T00:00:00Z,15,Saad Al-Houti,Sa'ad Al-Houti,Kuwaiti association football player,Q817,Q817
+Q3946482,Q6581097,1959-09-15T00:00:00Z,15,Sami Al-Hashash,Sami Al-Hashash,Kuwaiti footballer,Q817,Q817
+Q400895,Q6581097,1985-05-13T00:00:00Z,12,Ahmad Ajab,Ahmad Ajab,Kuwaiti footballer,Q817,Q35178
+Q400895,Q6581097,1994-05-13T00:00:00Z,12,Ahmad Ajab,Ahmad Ajab,Kuwaiti footballer,Q817,Q35178
+Q400895,Q6581097,1984-05-13T00:00:00Z,12,Ahmad Ajab,Ahmad Ajab,Kuwaiti footballer,Q817,Q35178
+Q4017647,Q6581097,1964-08-24T00:00:00Z,9,Wael Sulaiman,Wael Sulaiman,Kuwaiti footballer,Q817,Q35178
+Q4017776,Q6581097,1959-11-17T00:00:00Z,20,Waleed Al-Jasem,Waleed Al-Jasem,Kuwaiti footballer,Q817,Q35178
+Q4023099,Q6581097,1990-10-09T00:00:00Z,16,Yousef Nasser,Yousef Nasser,Kuwaiti footballer,Q817,Q35178
+Q4023102,Q6581097,1958-09-20T00:00:00Z,14,Yussef Al-Suwayed,Yussef Al-Suwayed,Kuwaiti footballer,Q817,Q817
+Q4054381,Q6581097,1960-01-08T00:00:00Z,4,Essa Abbas,Essa Abbas,Kuwaiti athletics competitor,Q817,
+Q4063288,Q6581097,1923-01-01T00:00:00Z,4,Ahmad Meshari Al-Adwani,Ahmad Meshari Al-Adwani,Kuwaiti poet (1923-1990),Q817,Q817
+Q41019110,Q6581097,1969-07-18T00:00:00Z,3,Zeyad Abdulrazak,Zeyad Abdulrazak,Kuwaiti athlete,Q817,
+Q4116051,Q6581072,1945-01-01T00:00:00Z,8,Taibah Al-Ibrahim,Taibah Al-Ibrahim,writer,Q817,
+Q4116062,Q6581097,1983-07-08T00:00:00Z,12,Musaed Neda,Musaed Neda,Kuwaiti footballer,Q817,Q35178
+Q4118474,Q6581097,1947-10-15T00:00:00Z,11,Abdul Rahman Al-Sumait,Abdul Rahman Al-Sumait,Kuwaiti Muslim scholar (1947–2013),Q817,Q817
+Q41186832,Q6581097,1955-02-05T00:00:00Z,2,Saleh Faraj,Saleh Faraj,Kuwaiti athlete,Q817,
+Q4119052,Q6581072,1981-06-07T00:00:00Z,11,Ema Shah,Ema Shah,Kuwaiti singer,Q817,Q817
+Q4164488,Q6581097,1939-12-06T00:00:00Z,10,Abdulhussain Abdulredha,Abdulhussain Abdulredha,Kuwaiti actor and writer (1939-2017),Q817,Q7490451
+Q4165249,Q6581097,1965-12-14T00:00:00Z,9,Sulaiman Abu Ghaith,Sulaiman Abu Ghaith,One of Al-Qaeda's official spokesmen,Q817,Q817
+Q4165249,Q6581097,1965-12-14T00:00:00Z,9,Sulaiman Abu Ghaith,Sulaiman Abu Ghaith,One of Al-Qaeda's official spokesmen,Q223050,Q817
+Q4165701,Q6581097,1926-10-05T00:00:00Z,4,Salem Al-Ali Al-Sabah,Salem Al-Ali A-Sabah,Commander of Kuwait National Guard (1926–2024),Q3480281,Q35178
+Q4165701,Q6581097,1926-10-05T00:00:00Z,4,Salem Al-Ali Al-Sabah,Salem Al-Ali A-Sabah,Commander of Kuwait National Guard (1926–2024),Q817,Q35178
+Q4166600,Q6581072,1942-05-22T00:00:00Z,12,Souad Al-Sabah,Souad al-Sabah,"Kuwaiti economist, writer and poet",Q817,Q817
+Q4274186,Q6581097,1984-10-09T00:00:00Z,14,Hussain Fadhel,Hussain Fadel,Kuwaiti footballer (born 1984),Q817,Q35178
+Q4274194,Q6581097,1989-12-06T00:00:00Z,6,Hamad Aman,Hamad Aman,Kuwaiti footballer,Q817,Q35178
+Q43779873,Q6581097,1979-03-14T00:00:00Z,3,Bashar Omar,Bashar Omar,Kuwaiti middle-distance runner,Q817,
+Q45277794,Q6581097,1961-11-30T00:00:00Z,3,Najem Najem,Najem Najem,Kuwaiti discus thrower,Q817,
+Q45775620,Q6581097,1959-03-13T00:00:00Z,2,Abdulla Abuqrais,Abdulla Abuqrais,Kuwaiti Olympic diver,Q817,
+Q4664655,Q6581097,1961-07-18T00:00:00Z,6,Abdallah Al Rowaished,Abdallah Al Rowaished,Kuwait singer,Q817,Q747432
+Q4665567,Q6581097,1976-09-15T00:00:00Z,1,Abdelmohsen Shahrayen,Abdul Muhsen Ali,fencer,Q817,
+Q4665581,Q6581097,1959-02-19T00:00:00Z,1,Abdul Nasser Al-Sayegh,Abdul Nasser Al-Sayegh,fencer,Q817,
+Q4665784,Q6581097,1966-01-01T00:00:00Z,2,Abdulatif Al-Ameeri,Abdulatif Al-Ameeri,Kuwaiti Legislator,Q817,
+Q4665799,Q6581097,1991-09-19T00:00:00Z,6,Abdulaziz Al Salimi,Abdulaziz Al Salimi,Kuwaiti footballer,Q817,Q35178
+Q4665804,Q6581097,1967-01-01T00:00:00Z,2,Abdulaziz Al-Shayji,Abdulaziz AlـShayji,Kuwaiti politician,Q817,
+Q4665835,Q6581097,1972-03-01T00:00:00Z,3,Abdulfattah Owainat,Abdulfattah Owainat,singer,Q817,Q35178
+Q4665841,Q6581097,1990-12-19T00:00:00Z,6,Abdulhadi Khamis,Abdulhadi Khamis,Kuwaiti footballer,Q817,Q35178
+Q4665927,Q6581097,1963-08-21T00:00:00Z,17,Abdullah Al-Rashidi,Abdullah Al-Rashidi,Kuwaiti sports shooter,Q817,Q35178
+Q4665936,Q6581097,1949-01-01T00:00:00Z,2,Abdullah Al-Roumi,Abdullah Al-Roumi,Kuwaiti politician,Q817,
+Q4665945,Q6581097,1976-07-11T00:00:00Z,9,Abdullah Al Buraiki,Abdullah Al Buraiki,footballer,Q817,Q35178
+Q4665945,Q6581097,1987-08-12T00:00:00Z,9,Abdullah Al Buraiki,Abdullah Al Buraiki,footballer,Q817,Q35178
+Q4665945,Q6581097,1987-01-01T00:00:00Z,9,Abdullah Al Buraiki,Abdullah Al Buraiki,footballer,Q817,Q35178
+Q4665950,Q6581097,1988-02-08T00:00:00Z,7,Abdullah Al-Muzayen,Abdullah Al Muzayen,Kuwaiti Squash player,Q817,Q35178
+Q4665954,Q6581097,1988-01-18T00:00:00Z,7,Abdullah Al Shemali,Abdullah Al Shemali,Kuwaiti footballer,Q817,Q35178
+Q4665954,Q6581097,1988-01-19T00:00:00Z,7,Abdullah Al Shemali,Abdullah Al Shemali,Kuwaiti footballer,Q817,Q35178
+Q4665960,Q6581097,1962-11-01T00:00:00Z,2,Abdullah Al-Barghash,Abdullah AlـBarghash,Kuwaiti politician,Q817,
+Q4666038,Q6581097,1985-07-19T00:00:00Z,4,Abdullah Msheleh,Abdullah Msheleh,association football player,Q817,Q35178
+Q4666044,Q6581097,1981-03-31T00:00:00Z,4,Abdullah Nahar,Abdullah Nahar,football player,Q817,Q35178
+Q4666061,Q6581097,1971-02-07T00:00:00Z,2,Abdullah Seehan,Abdullah Seehan,Kuwait football player,Q817,Q817
+Q4666074,Q6581097,1971-02-07T00:00:00Z,9,Abdullah Wabran,Abdullah Wabran,Kuwaiti footballer,Q817,Q35178
+Q4666074,Q6581097,1971-02-07T00:00:00Z,9,Abdullah Wabran,Abdullah Wabran,Kuwaiti footballer,Q817,Q817
+Q4666074,Q6581097,1971-07-02T00:00:00Z,9,Abdullah Wabran,Abdullah Wabran,Kuwaiti footballer,Q817,Q35178
+Q4666074,Q6581097,1971-07-02T00:00:00Z,9,Abdullah Wabran,Abdullah Wabran,Kuwaiti footballer,Q817,Q817
+Q4666193,Q6581097,1981-12-04T00:00:00Z,5,Abdulrahman Mussa,Abdulrahman Mussa,footballer,Q817,Q35178
+Q4666222,Q6581097,1955-01-01T00:00:00Z,2,Abdulwahed Al-Awadhi,Abdulwahed Al-Awadhi,Member of the National Assembly of Kuwait,Q817,
+Q4681544,Q6581097,1962-01-01T00:00:00Z,2,Adel Al-Saraawi,Adel Al-Saraawi,Member of the National Assembly of Kuwait,Q817,
+Q4681567,Q6581097,1986-06-20T00:00:00Z,4,Adel Humoud,Adel Humoud,Kuwaiti footballer,Q817,Q35178
+Q46822110,Q6581097,1968-11-23T00:00:00Z,3,Marzouk Al-Yoha,Abdul Marzouk Al-Yoha,Kuwaiti athlete,Q817,
+Q4695229,Q6581097,1987-06-02T00:00:00Z,4,Ahmad Abdulghafour,Ahmad Abdulghafoor,football player,Q817,Q35178
+Q4695243,Q6581097,1981-04-11T00:00:00Z,4,Ahmad Al Beloushi,Ahmad Al Beloushi,footballer,Q817,Q35178
+Q4695245,Q6581097,1982-09-06T00:00:00Z,4,Ahmad Al Fadhli,Ahmad Al Fadhli,football player,Q817,Q35178
+Q4695718,Q6581097,1962-07-11T00:00:00Z,2,Ahmed Al-Ahmed,Ahmed Al-Ahmed,fencer,Q817,
+Q4695730,Q6581097,1942-01-01T00:00:00Z,3,Ahmed Al-Jarallah,Ahmed Al-Jarallah,Kuwaiti journalist,Q817,
+Q4695733,Q6581097,1956-01-01T00:00:00Z,3,Ahmed Al-Mulaifi,Ahmed Al-Mulaifi,National Assembly of Kuwait member,Q817,
+Q4695735,Q6581097,1934-11-12T00:00:00Z,4,Ahmed Al-Sadoun,Ahmed Al-Sadoun,Kuwaiti National Assembly speaker,Q817,Q35178
+Q4695898,Q6581097,1955-01-01T00:00:00Z,2,Ahmed Lari,Ahmed Lari,Kuwait politician,Q817,
+Q4695933,Q6581097,1976-10-23T00:00:00Z,5,Ahmed Mousa Mirza,Ahmed Mousa Mirza,Kuwaiti footballer,Q817,Q817
+Q4695990,Q6581097,1983-08-16T00:00:00Z,7,Ahmed Al Rashidi,Ahmed Saad Al Rashidi,Kuwaiti footballer,Q817,Q817
+Q4695990,Q6581097,1984-06-18T00:00:00Z,7,Ahmed Al Rashidi,Ahmed Saad Al Rashidi,Kuwaiti footballer,Q817,Q817
+Q4696021,Q6581097,1984-09-16T00:00:00Z,9,Ahmed Shihab-Eldin,Ahmed Shihab-Eldin,American journalist (born 1984),Q817,Q484678
+Q4696021,Q6581097,1984-09-16T00:00:00Z,9,Ahmed Shihab-Eldin,Ahmed Shihab-Eldin,American journalist (born 1984),Q30,Q484678
+Q4696089,Q6581097,1949-01-01T00:00:00Z,4,Ahmed al-Rubei,Ahmed al-Rubei,"Kuwaiti politician, journalist, and professor",Q817,
+Q47008529,Q6581097,1980-03-18T00:00:00Z,3,Abdullah Akhunzada,Abdullah Akhunzada,cricketer,Q817,
+Q4724548,Q6581097,1976-09-28T00:00:00Z,5,Ali Asel,Ali Abdulreda Asel,Kuwaiti footballer,Q817,Q817
+Q4724613,Q6581097,1965-12-05T00:00:00Z,2,Ali Al-Daqbaashi,Ali Al-Daqbaashi,Is the Leader of the Arab League Parliament,Q817,
+Q4724616,Q6581097,1962-01-01T00:00:00Z,2,Ali Al-Hajri,Ali Al-Hajri,Member of the National Assembly of Kuwait,Q817,
+Q4724619,Q6581097,1957-02-03T00:00:00Z,2,Ali Al-Khawajah,Ali Al-Khawajah,Kuwaiti fencer,Q817,
+Q4724622,Q6581097,1958-01-01T00:00:00Z,5,Ali al-Omair,Ali Al-Omair,Member of the National Assembly of Kuwait,Q817,Q817
+Q4724623,Q6581097,1967-01-01T00:00:00Z,2,Ali Al-Rashid,Ali Al-Rashid,Member of the National Assembly of Kuwait,Q817,
+Q4724630,Q6581097,1985-03-12T00:00:00Z,4,Ali Al Kandari,Ali Al Kandari,footballer,Q817,Q35178
+Q4724632,Q6581097,1982-10-31T00:00:00Z,5,Ali Al Namash,Ali Al Namash,football player,Q817,Q35178
+Q4724638,Q6581097,1983-08-17T00:00:00Z,4,Ali Al Shamali,Ali Al Shamali,football player,Q817,Q35178
+Q4724798,Q6581097,1992-01-01T00:00:00Z,5,Ali Ferydoon,Ali Ferydoon,football player,Q817,Q35178
+Q4724798,Q6581097,1992-01-01T00:00:00Z,5,Ali Ferydoon,Ali Ferydoon,football player,Q794,Q35178
+Q4724849,Q6581097,1965-05-23T00:00:00Z,2,Ali Hasan,Ali Hasan,fencer,Q817,
+Q4724876,Q6581097,1974-05-02T00:00:00Z,2,Ali Hussain Al-Awadhi,Ali Hussain Al-Awadhi,political activist,Q817,Q7635948
+Q4724995,Q6581097,1986-12-11T00:00:00Z,10,Ali Maqseed,Ali Maqseed,Kuwaiti footballer,Q817,Q35178
+Q4725000,Q6581097,1969-10-14T00:00:00Z,4,Ali Marwi,Ali Marwi,Kuwaiti footballer,Q817,Q817
+Q4725000,Q6581097,1969-01-01T00:00:00Z,4,Ali Marwi,Ali Marwi,Kuwaiti footballer,Q817,Q817
+Q4725080,Q6581097,1989-03-25T00:00:00Z,3,Ali Najim,Ali Najim,Radio host,Q817,Q817
+Q4742435,Q6581097,1988-04-21T00:00:00Z,10,Amer Al-Fadhel,Amer Al Fadhel,Kuwaiti association football player,Q817,Q35178
+Q47462920,Q6581097,1965-02-28T00:00:00Z,3,Ghanem Zaid,Ghanem Zaid,Kuwaiti athletics competitor,Q817,
+Q4747187,Q6581097,1976-11-13T00:00:00Z,4,Ammar Hassan,Ammar Hassan,Palestinian musician,Q219060,Q817
+Q4747187,Q6581097,1976-11-13T00:00:00Z,4,Ammar Hassan,Ammar Hassan,Palestinian musician,Q817,Q817
+Q47487565,Q6581097,1958-01-18T00:00:00Z,3,Khaled Ghaloum,Khaled Ghaloum,Kuwaiti athletics competitor,Q817,
+Q47499715,Q6581072,1973-01-01T00:00:00Z,5,Jenan Boushehri,Jenan Boushehri,Kuwaiti politician,Q817,
+Q47545512,Q6581097,1960-01-01T00:00:00Z,2,Hamid bin Abdallah al-Ali,Hamid bin Abdallah al-Ali,Kuwaiti cleric,Q817,
+Q4807126,Q6581097,1971-01-01T00:00:00Z,2,Askar Al-Enezi,Askar Al-Enezi,politician,Q817,
+Q4831454,Q6581097,1967-11-22T00:00:00Z,4,Ayman Al-Hussaini,Ayman Al Husaini,footballer,Q817,Q817
+Q4840792,Q6581097,1967-12-19T00:00:00Z,6,Bader Haji,Bader Al Halabeej,Kuwaiti footballer,Q817,Q817
+Q4944255,Q6581072,1964-01-01T00:00:00Z,14,Rola Dashti,Rola Dashti,Kuwaiti academic,Q817,Q817
+Q50307124,Q6581072,2000-01-01T00:00:00Z,16,Alanoud Alsharekh,Alanoud Alsharekh,Senior Fellow at the International Institute of Strategic Studies and Senior Political Analyst at the Kuwait National Security Bureau,Q817,
+Q50310796,Q6581097,1993-07-15T00:00:00Z,6,Yousef Karam,Yousef Karam,Kuwaiti sprinter,Q817,Q817
+Q50405894,Q6581097,1997-04-22T00:00:00Z,4,Bader Al-Fadhel,Bader Tareq,Kuwati Footballer,Q817,Q35178
+Q51858243,Q6581097,1943-01-12T00:00:00Z,2,Mohammad Abulhasan,Mohammad Abulhasan,Kuwaiti diplomat,Q817,Q35178
+Q5209093,Q6581097,1957-01-01T00:00:00Z,2,Daifallah Bouramiya,Daifallah Bouramiya,Kuwaiti politician,Q817,
+Q522811,Q6581097,1957-08-13T00:00:00Z,19,Faisal Al-Dakhil,Faisal Al-Dakhil,Kuwaiti footballer,Q817,Q35178
+Q52488068,Q6581072,1983-01-01T00:00:00Z,6,Monira Al Qadiri,Monira Al Qadiri,Senegalese-born artist (born 1983),Q878,Q3718
+Q52488068,Q6581072,1983-01-01T00:00:00Z,6,Monira Al Qadiri,Monira Al Qadiri,Senegalese-born artist (born 1983),Q817,Q3718
+Q5250012,Q6581072,1970-01-01T00:00:00Z,6,Deema Shehabi,Deema Shehabi,Kuwaiti poet,Q219060,Q817
+Q5250012,Q6581072,1970-01-01T00:00:00Z,6,Deema Shehabi,Deema Shehabi,Kuwaiti poet,Q817,Q817
+Q5277830,Q6581072,1974-02-28T00:00:00Z,3,Dina Al-Sabah,Dina Al-Sabah,Professional figure competitor from Kuwait.,Q817,Q3820
+Q52818224,Q6581097,1984-01-01T00:00:00Z,3,Tareq Al-Shammari,Tareq Al-Shammari,association football player,Q817,Q35178
+Q52818224,Q6581097,1985-08-05T00:00:00Z,3,Tareq Al-Shammari,Tareq Al-Shammari,association football player,Q817,Q35178
+Q532893,Q6581097,1985-01-10T00:00:00Z,26,Bader Al-Mutawa,Bader Al-Mutawa,Kuwaiti footballer,Q817,Q35178
+Q5331961,Q6581097,1963-08-20T00:00:00Z,3,Ebrahim Al-Cattan,Ebrahim Al-Cattan,fencer,Q817,
+Q5331987,Q6581097,1986-01-20T00:00:00Z,4,Ebrahim Shehab,Ebrahim Shehab,footballer,Q817,Q35178
+Q5359449,Q6581097,1951-06-18T00:00:00Z,3,Mohammed Al-Sager,Mohammed Al-Sager,Kuwaiti journalist and politician,Q817,
+Q5396714,Q6581097,1971-07-02T00:00:00Z,7,Esam Sakeen,Esam Sakeen,Kuwaiti footballer,Q817,Q817
+Q5429481,Q6581097,1987-02-25T00:00:00Z,11,Fahad Al Ansari,Fahad Al Ansari,Kuwaiti footballer,Q817,Q35178
+Q5429488,Q6581097,1983-12-01T00:00:00Z,6,Fahad Al Hamad,Fahad Al Hamad,Kuwaiti footballer,Q817,Q35178
+Q5429490,Q6581097,1984-12-31T00:00:00Z,5,"Fahad Al-Rashidi (footballer, born 1984)",Fahad Al Rashidi,Kuwaiti footballer,Q817,Q35178
+Q5431040,Q6581097,1962-03-05T00:00:00Z,2,Faisal Al-Muslim Al-Otaibi,Faisal Al-Muslim Al-Otaib,Member of the National Assembly of Kuwait,Q817,
+Q5431057,Q6581097,1963-12-11T00:00:00Z,2,Faisal H. M. Al-Sabah,Faisal H. M. Al-Sabah,Kuwaiti diplomat,Q817,Q35178
+Q5431339,Q6581097,1975-06-03T00:00:00Z,3,Faiz Mohammed Ahmed Al Kandari,Faiz Mohammed Ahmed Al Kandari,GTMO prisoner,Q817,Q35178
+Q5431616,Q6581097,1970-11-13T00:00:00Z,7,Falah Al-Majidi,Falah Al Majidi,footballer,Q817,Q817
+Q5434766,Q6581097,1978-10-03T00:00:00Z,7,Faraj Laheeb,Faraj Laheeb,Kuwaiti footballer,Q817,Q35178
+Q5438703,Q6581097,1969-11-09T00:00:00Z,5,Fawaz Al-Ahmad,Fawaz Al-Ahmad,Kuwaiti footballer,Q817,Q817
+Q5438706,Q6581097,1968-10-25T00:00:00Z,5,Fawaz Al-Hasawi,Fawaz Al-Hasawi,Kuwaiti businessman and the current owner and chairman of Nottingham Forest Football Club,Q817,
+Q5438708,Q6581097,1977-04-03T00:00:00Z,3,Fawaz Al-Shammari,Fawaz Al-Shammari,Olympic hurdler,Q817,
+Q5438989,Q6581072,1994-10-20T00:00:00Z,7,Faye Sultan,Faye Sultan,Kuwaiti swimmer,Q817,Q817
+Q5438996,Q6581097,1948-05-05T00:00:00Z,8,Fayeq Abdul-Jaleel,Fayeq Abdul-Jaleel,Kuwaiti poet,Q817,Q35178
+Q5439076,Q6581097,1983-12-07T00:00:00Z,4,Fayez Bandar,Fayez Bandar,Kuwaiti footballer,Q817,Q817
+Q5474071,Q6581097,1959-06-24T00:00:00Z,4,Fouad Mahmoud al Rabiah,Fouad Mahmoud al Rabiah,Kuwaiti detainee at Guantanamo Bay,Q817,Q35178
+Q5476320,Q6581097,1977-01-01T00:00:00Z,2,Fouzi Khalid Abdullah Al Odah,Fouzi Khalid Abdullah Al Awda,Kuwaiti Guantanamo detainee,Q817,Q35178
+Q5641480,Q6581072,1980-12-10T00:00:00Z,5,Halema Boland,Halema Boland,Kuwaiti television host,Q817,Q4116292
+Q5643936,Q6581097,1980-05-07T00:00:00Z,4,Hamad Al Harbi,Hamad Al Harbi,Kuwaiti footballer,Q817,Q817
+Q5643938,Q6581097,1986-10-05T00:00:00Z,6,Hamad Al-Enezi,Hamad Al Enezi,footballer,Q817,Q35178
+Q5643943,Q6581097,1982-02-10T00:00:00Z,6,Hamad Al-Tayyar,Hamad Al Tayyar,Kuwaiti footballer,Q817,Q35178
+Q5644473,Q6581097,1987-08-10T00:00:00Z,10,Hameed Al-Qallaf,Hameed Youssef,Kuwaiti footballer,Q817,Q817
+Q5648160,Q6581097,1973-01-08T00:00:00Z,6,Hani Al-Saqer,Hani Al Saqer,Kuwaiti footballer,Q817,Q817
+Q5675744,Q6581097,1915-01-01T00:00:00Z,3,Abbas Almohri,Abbas Almohri,Kuwaiti scholar (1912–1988),Q794,Q2617085
+Q5675744,Q6581097,1912-01-01T00:00:00Z,3,Abbas Almohri,Abbas Almohri,Kuwaiti scholar (1912–1988),Q817,Q2617085
+Q5675744,Q6581097,1915-01-01T00:00:00Z,3,Abbas Almohri,Abbas Almohri,Kuwaiti scholar (1912–1988),Q817,Q2617085
+Q5675744,Q6581097,1912-01-01T00:00:00Z,3,Abbas Almohri,Abbas Almohri,Kuwaiti scholar (1912–1988),Q794,Q2617085
+Q570708,Q6581097,1959-04-07T00:00:00Z,18,Jamal Al-Qabendi,Jamal Al-Qabendi,Kuwaiti footballer (1959–2021),Q817,Q817
+Q57555,Q6581097,1929-06-16T00:00:00Z,69,Sabah Al-Ahmad Al-Jaber Al-Sabah,Sabah Al-Ahmad Al-Jaber Al-Sabah,emir of Kuwait (1929–2020),Q817,Q35178
+Q57894,Q6581097,1942-01-05T00:00:00Z,28,Jaber Al-Mubarak Al-Hamad Al-Sabah,Jaber Al-Mubarak Al-Hamad Al-Sabah,Prime Minister of Kuwait from 2011 to 2019 (1942–2024),Q817,Q35178
+Q58175555,Q6581097,1971-02-13T00:00:00Z,4,Mohamed Al-Kaledi,Mohamed Al-Kaledi,association football player,Q817,
+Q58175555,Q6581097,1971-01-01T00:00:00Z,4,Mohamed Al-Kaledi,Mohamed Al-Kaledi,association football player,Q817,
+Q59237695,Q6581097,2000-01-01T00:00:00Z,3,Ahmad Askar,Ahmad Hasan,Kuwaiti footballer,Q817,
+Q59237695,Q6581097,1961-08-25T00:00:00Z,3,Ahmad Askar,Ahmad Hasan,Kuwaiti footballer,Q817,
+Q59285489,Q6581097,1994-03-07T00:00:00Z,3,Yaqoub Al-Tararwa,Yaqoub Al-Tararwa,Kuwaiti footballer,Q817,Q35178
+Q5948892,Q6581097,2000-01-01T00:00:00Z,6,Hussain Al-Khodari,Husain Al-Khodari,Kuwaiti footballer,Q817,Q817
+Q5948892,Q6581097,1972-02-07T00:00:00Z,6,Hussain Al-Khodari,Husain Al-Khodari,Kuwaiti footballer,Q817,Q817
+Q5949496,Q6581097,1958-10-22T00:00:00Z,2,Hussain al-Qallaf,Hussain Al-Qallaf Al-Bahrani,Member National Assembly of Kuwait,Q817,
+Q5949573,Q6581097,1982-06-28T00:00:00Z,5,Hussain Seraj,Hussain Seraj,Kuwaiti footballer,Q817,Q817
+Q5949850,Q6581097,1962-01-01T00:00:00Z,2,Hussein Nasser Al-Huraiti,Hussein Nasser Al-Huraiti,Member of the National Assembly of Kuwait,Q817,
+Q60752878,Q6581097,1992-06-22T00:00:00Z,6,Ravija Sandaruwan,Ravija Sandaruwan,Sri Lankan cricketer who plays for Kuwait,Q817,Q35381
+Q60752878,Q6581097,1992-06-22T00:00:00Z,6,Ravija Sandaruwan,Ravija Sandaruwan,Sri Lankan cricketer who plays for Kuwait,Q854,Q35381
+Q6084707,Q6581097,1940-01-01T00:00:00Z,4,Ismail Fahd Ismail,Ismail Fahad Ismail Alfahad,"Kuwaiti writer, novelist, and literary critic",Q817,
+Q6110180,Q6581097,1970-01-01T00:00:00Z,2,Jabir Al-Azmi,Jabir Al-Azmi,Kuwaiti politician,Q817,
+Q6164155,Q6581097,1940-01-01T00:00:00Z,6,Jassem Al-Kharafi,Jassem Al-Kharafi,Kuwaiti National Assembly member,Q817,Q35178
+Q62328200,Q6581072,1965-01-01T00:00:00Z,3,Fatimah Muhammad Sha'ban,Fatimah Muhammad Sha'ban,Omani writer,Q817,
+Q623283,Q6581097,1977-10-12T00:00:00Z,20,Bashar Abdullah,Bashar Abdullah,Kuwaiti footballer,Q817,Q35178
+Q6380995,Q6581097,1961-02-09T00:00:00Z,2,Kazem Hasan,Kazem Hasan,Kuwaiti fencer,Q817,
+Q6399230,Q6581097,1946-10-14T00:00:00Z,2,Khalaf Al-Enezi,Khalaf Al-Enezi,Member of the National Assembly of Kuwait,Q817,Q817
+Q6399232,Q6581097,1979-07-25T00:00:00Z,8,Khalaf Al-Salamah,Khalaf Al Salamah,Kuwaiti footballer,Q817,Q35178
+Q6399305,Q6581097,1964-09-13T00:00:00Z,3,Khaled Al-Awadhi,Khaled Al-Awadhi,fencer,Q817,
+Q6399311,Q6581097,1985-02-16T00:00:00Z,7,Khaled Al-Qahtani,Khaled Al Qahtani,footballer,Q817,Q35178
+Q6399314,Q6581097,1977-01-02T00:00:00Z,5,Khaled Al Shammari,Khaled Al Shammari,footballer,Q817,Q35178
+Q6399316,Q6581097,1940-01-01T00:00:00Z,2,Khaled Sultan bin Essa,Khaled AlـSultan Bin Essa,Member of National Assembly of Kuwait,Q817,
+Q6399355,Q6581097,1962-12-21T00:00:00Z,1,Khaled Jahrami,Khaled Jahrami,Kuwaiti fencer,Q817,
+Q6399362,Q6581097,1983-08-15T00:00:00Z,7,Khaled Khalaf,Khaled Khalaf,Kuwaiti footballer,Q817,Q35178
+Q6399460,Q6581097,1986-01-01T00:00:00Z,5,Khalid Ajab,Khalid Ajab,footballer,Q817,Q35178
+Q6399460,Q6581097,1986-07-28T00:00:00Z,5,Khalid Ajab,Khalid Ajab,footballer,Q817,Q35178
+Q6399521,Q6581097,1977-04-21T00:00:00Z,10,Khalid Jamil,Khalid Jamil,Indian association football manager and former player,Q817,Q35178
+Q6399639,Q6581097,1934-01-01T00:00:00Z,4,Khalifa Alqattan,Khalifa Alqattan,artist,Q817,
+Q6399704,Q6581097,1979-01-01T00:00:00Z,3,Khalil Hamra,Khalil Hamra,Palestinian photographer,Q817,Q817
+Q64009733,Q6581097,1993-01-31T00:00:00Z,6,Majed Radhi Al-Sayed,Majed Radhi Al-Sayed,Kuwaiti athletics competitor,Q817,Q817
+Q6405866,Q6581097,1962-10-28T00:00:00Z,2,Kifah Al-Mutawa,Kifah Al-Mutawa,Kuwaiti fencer,Q817,
+Q641805,Q6581097,1937-06-25T00:00:00Z,56,Nawaf Al-Ahmad Al-Jaber Al-Sabah,Nawaf Al-Ahmad Al-Jaber Al-Sabah,Emir of Kuwait (1937–2023),Q817,Q35178
+Q6473903,Q6581072,1943-10-17T00:00:00Z,6,Laila al-Othman,Laila al-Othman,Kuwaiti writer and poet,Q3480281,Q35178
+Q6473903,Q6581072,1943-10-17T00:00:00Z,6,Laila al-Othman,Laila al-Othman,Kuwaiti writer and poet,Q817,Q35178
+Q6733682,Q6581097,1977-01-01T00:00:00Z,2,Mahdi al-Modarresi,Mahdi al-Modarresi,Iraqi scholar,Q817,Q817
+Q6735104,Q6581072,1970-09-14T00:00:00Z,3,Mai Al Balushi,Mai Al Balushi,Kuwaiti actress,Q817,Q817
+Q6764175,Q6581097,1972-01-09T00:00:00Z,5,Hamad Al-Easa,Hamad Al-Easa,Kuwaiti association football player,Q817,
+Q6781070,Q6581072,1987-03-06T00:00:00Z,3,Maryam Arzouqi,Maryam Arzouqi,Kuwaiti sports shooter,Q817,Q35178
+Q6781875,Q6581097,1968-11-03T00:00:00Z,4,Marzouq Al-Ghanim,Marzouq Al-Ghanim,Kuwaiti National Assembly member,Q817,
+Q6781877,Q6581097,1952-01-01T00:00:00Z,2,Marzouq Al-Hubaini Al-Azmi,Marzouq Al-Hubaini Al-Azmi,Member of the National Assembly of Kuwait,Q817,
+Q6799082,Q6581097,1979-05-29T00:00:00Z,2,Saad Madhi Saad Howash Al Azmi,Saad Madhi Saad Howash Al Azmi,Kuwaiti citizen held at Guantanamo Bay,Q817,Q405701
+Q6799228,Q6581072,1967-01-01T00:00:00Z,5,Saadiah Mufarreh,Saadiah Mufarreh,Kuwait poet and journalist,Q817,Q1077024
+Q6815066,Q6581097,1941-01-01T00:00:00Z,2,Othman Al-Ossimi,Othman Al-Ossimi,former Kuwaiti footballer,Q817,
+Q6849812,Q6581097,1961-01-01T00:00:00Z,2,Mikhled Al-Azmi,Mikhled Al-Azmi,Member of the National Assembly of Kuwait,Q817,
+Q6890993,Q6581097,1963-02-22T00:00:00Z,2,Mohamed Al-Thuwani,Mohamed Al-Thuwani,fencer,Q817,
+Q6891202,Q6581097,1965-12-09T00:00:00Z,2,Mohamed Ghaloum,Mohamed Ghaloum,Kuwaiti fencer,Q817,
+Q6891277,Q6581097,1981-11-10T00:00:00Z,4,Mohamed Jarragh,Mohamed Jarragh,Kuwaiti footballer,Q817,Q35178
+Q6891732,Q6581097,1980-07-10T00:00:00Z,5,Mohammad Al-Buraiki,Mohammad Al Buraiki,Kuwaiti footballer,Q817,Q817
+Q6891836,Q6581097,1984-02-05T00:00:00Z,3,Mohammad Ashkanani,Mohammad Ashkanani,Kuwaiti basketball player (born 1984),Q817,Q817
+Q6891956,Q6581097,1988-01-01T00:00:00Z,5,Mohammad Frieh,Mohammad Frieh,footballer,Q817,Q35178
+Q6892849,Q6581097,1971-01-01T00:00:00Z,2,Mohammed Al-Huwaila,Mohammed Abdullah Al-Ajmi,Member of the National Assembly of Kuwait,Q817,
+Q6892884,Q6581097,1964-01-01T00:00:00Z,3,Mohammed Al-Abduljader,Mohammed Al-Abduljader,Frmer member of parliament in the National Assembly of Kuwait,Q817,
+Q6892890,Q6581097,1971-01-01T00:00:00Z,2,Mohammed Al-Kandari,Mohammed Al-Kandari,Member of the National Assembly of Kuwait,Q817,
+Q6892895,Q6581097,1948-07-09T00:00:00Z,6,Mohammed Al-Mansor,Mohammed Al-Mansor,actor,Q817,Q817
+Q6892901,Q6581097,1969-01-01T00:00:00Z,2,Mohammed Al-Mutair,Mohammed Al-Mutair,Member of the National Assembly of Kuwait,Q817,
+Q6892904,Q6581097,1938-01-01T00:00:00Z,3,Mohammed Al-Sanousi,Mohammed Al-Sanousi,"Kuwaiti director, producer, media personality, and politician.",Q817,Q817
+Q6892907,Q6581097,1942-01-01T00:00:00Z,2,Mohammed Al-Sharekh,Mohammed AlSharekh,Kuwaiti businessman and author (1942–2024),Q817,
+Q6892918,Q6581097,1985-01-01T00:00:00Z,4,Mohammed Al Hadhoud,Mohammed Al Hadhoud,Kuwaiti footballer,Q817,Q35178
+Q6893079,Q6581097,1955-01-01T00:00:00Z,2,Mohammed Faleh Al-Ajmi,Mohammed Faleh Al-Ajmi,Member of the National Assembly of Kuwait,Q817,
+Q6893083,Q6581097,1965-11-04T00:00:00Z,2,Mohammed Fenaitel Mohamed Al Daihani,Mohammed Fenaitel Mohamed Al Daihani,Kuwaiti Guantanamo detainee,Q817,
+Q6893099,Q6581097,1980-07-22T00:00:00Z,5,Mohammad Ghareeb,Mohammed Ghareeb,Kuwaiti tennis player,Q817,Q35178
+Q6893134,Q6581097,1961-09-21T00:00:00Z,2,Mohammed Hayef al-Mutairi,Mohammed Hayef AlـMutairi,Member of the National Assembly of Kuwait,Q817,
+Q6930824,Q6581097,1959-01-01T00:00:00Z,2,Mubarak Al-Mutairi,Mubarak Al-Mutairi,former member of the National Assembly of Kuwait,Q817,
+Q6940050,Q6581097,1981-05-13T00:00:00Z,4,Musaed Abdullah,Musaed Abdullah,association football player,Q817,Q35178
+Q6940096,Q6581097,1956-01-30T00:00:00Z,3,Musallam Al-Barrak,Musallam Al-Barrak,Member of the National Assembly of Kuwait,Q817,
+Q6959235,Q6581097,1970-03-30T00:00:00Z,2,Nahedh Al-Murdh,Nahedh Al-Murdh,fencer,Q817,
+Q6966711,Q6581097,1982-03-25T00:00:00Z,3,Naser Al-Meqlad,Naser Meqlad,Olympic trap shooter,Q817,Q35178
+Q6966721,Q6581097,1974-08-24T00:00:00Z,9,Naser Al-Sohi,Naser al-Sohi,Kuwaiti footballer (1974-2004),Q817,Q817
+Q6967611,Q6581097,1956-01-01T00:00:00Z,2,Nasser Al-Duwailah,Nasser Al-Duwailah,Member of the National Assembly of Kuwait,Q817,
+Q6967613,Q6581097,1981-10-01T00:00:00Z,4,Nasser Al Hajri,Nasser Al Hajri,footballer,Q817,Q35178
+Q6967620,Q6581097,1988-07-29T00:00:00Z,4,Nasser Al-Wuhaib,Nasser Al Wuhaib,footballer,Q817,Q35178
+Q6982819,Q6581097,1982-09-28T00:00:00Z,6,"Nawaf Al-Mutairi (footballer, born 1982)",Nawaf Al Mutairi,Kuwaiti footballer,Q817,Q817
+Q6982821,Q6581097,1983-08-03T00:00:00Z,4,Nawaf Al Shuwaye,Nawaf Al Shuwaye,Kuwaiti footballer,Q817,Q35178
+Q6982855,Q6581072,1966-11-18T00:00:00Z,9,Nawal (singer),Nawal El Kuwaitia,Kuwaiti singer,Q817,Q7490451
+Q7063822,Q6581097,1979-04-17T00:00:00Z,2,Nouhair Al Shemari,Nouhair Al Shemari,Kuwaiti footballer,Q817,Q817
+Q7105643,Q6581097,1963-04-24T00:00:00Z,2,Osama Al-Khurafi,Osama Al-Kharafi,fencer,Q817,
+Q7105656,Q6581097,1970-08-11T00:00:00Z,7,Osama Hussain,Osama Hussain,Kuwaiti footballer,Q817,Q817
+Q710775,Q6581097,1949-01-01T00:00:00Z,18,Alaa Hussein Ali,Alaa Hussein Ali aljabr,Head of Kuwait's puppet government during Iraqi invasion,Q817,Q35178
+Q71706955,Q6581097,1921-01-01T00:00:00Z,2,Wajih Al Madani,Wajih Al-Madani,"Palestinian colonel, chief commander of the PLA",Q817,Q126084
+Q71706955,Q6581097,1921-01-01T00:00:00Z,2,Wajih Al Madani,Wajih Al-Madani,"Palestinian colonel, chief commander of the PLA",Q219060,Q126084
+Q7285491,Q6581072,1962-10-04T00:00:00Z,6,Rajaa Mohammed,Raja Mohammed,Kuwaiti actress,Q817,Q35178
+Q7333945,Q6581097,1941-01-01T00:00:00Z,2,Rija Hujailan Al-Mutairi,Rija Hujailan Al-Mutairi,Member of the National Assembly of Kuwait,Q817,
+Q7370752,Q6581097,1965-04-26T00:00:00Z,2,Roudhan Al-Roudhan,Roudhan Al-Roudhan,Member of the National Assembly of Kuwait,Q817,
+Q7395546,Q6581097,1965-01-01T00:00:00Z,2,Saad al-Khanfour al-Rasheedi,Saad AlـKhanfour Al-Rasheedi,Kuwaiti politician,Q817,
+Q7398031,Q6581097,1959-01-01T00:00:00Z,3,Sadoon Al-Otaibi,Sadoon Al-Otaibi,Kuwaiti politician,Q817,
+Q7403884,Q6581097,1977-02-27T00:00:00Z,9,Saleh Al-Buraiki,Saleh Al-Buraiki,Kuwaiti footballer,Q817,Q817
+Q7403889,Q6581097,1971-03-17T00:00:00Z,2,Saleh Al-Mulla,Saleh Al-Mulla,Member of the National Assembly of Kuwait,Q817,
+Q7403895,Q6581097,1982-05-29T00:00:00Z,11,Saleh Al Sheikh,Saleh Al Sheikh,football player,Q817,Q35178
+Q7403899,Q6581097,1952-01-01T00:00:00Z,3,Saleh Ashour,Saleh Ashour,Member of the National Assembly of Kuwait,Q817,Q817
+Q7403925,Q6581097,1981-07-09T00:00:00Z,3,Saleh Mahdi,Saleh Mehdi,footballer,Q817,Q35178
+Q7406965,Q6581072,1957-10-20T00:00:00Z,2,Salwa al-Jassar,Salwa al-Jassar,Member of the National Assembly of Kuwait,Q817,
+Q7409349,Q6581097,1972-07-01T00:00:00Z,5,Sami Al-Lanqawi,Sami Al Lenqawi,Kuwaiti footballer,Q817,Q817
+Q7409542,Q6581097,1963-11-05T00:00:00Z,7,Samir Said,Samir Said,Footballer (1963-2012),Q817,Q817
+Q7421208,Q6581097,1972-01-24T00:00:00Z,1,Saqer Al-Surayei,Saqer Al-Surayei,fencer,Q817,
+Q7427043,Q6581097,1981-01-01T00:00:00Z,13,Saud Alsanousi,Saud Alsanousi,writer,Q817,Q817
+Q7487681,Q6581072,1980-04-28T00:00:00Z,12,Shams (singer),Shams,singer,Q763,Q27400
+Q7487681,Q6581072,1980-04-28T00:00:00Z,12,Shams (singer),Shams,singer,Q851,Q27400
+Q7487681,Q6581072,1980-04-28T00:00:00Z,12,Shams (singer),Shams,singer,Q817,Q27400
+Q7494078,Q6581072,1969-06-28T00:00:00Z,4,Shemayel,Shemayel,Kuwaiti singer,Q817,
+Q7561683,Q6581072,1980-08-23T00:00:00Z,4,Sonia Ahmed,Sonia Ahmed,businessperson,Q817,Q7490451
+Q7635966,Q6581097,1958-08-14T00:00:00Z,3,Sulaiman Qabazard,Sulaiman Qabazard,Kuwaiti diver,Q817,Q817
+Q7636044,Q6581097,1972-06-01T00:00:00Z,2,Sulayman Al-Bassam,Sulayman Al-Bassam,playwright,Q817,Q35178
+Q7650671,Q6581072,1963-11-02T00:00:00Z,4,Suzan Bushnaq,Suzan Bushnaq,Kuwaiti artist,Q817,Q35178
+Q7678827,Q6581097,1985-12-28T00:00:00Z,5,Talal Al-Enezi,Talal Al-Enezi,Olympic judoka,Q817,
+Q7678834,Q6581097,1993-07-24T00:00:00Z,4,Talal Al-Rashidi,Talal Al-Rashidi,Kuwaiti sport shooter,Q817,Q35178
+Q7678835,Q6581097,1987-02-22T00:00:00Z,11,Talal Al-Amer,Talal Al Amer,football player,Q817,Q35178
+Q7678844,Q6581097,1985-11-30T00:00:00Z,5,Talal Nayef,Talal Nayef,football player,Q817,Q35178
+Q7679120,Q6581097,1958-01-01T00:00:00Z,4,Taleb Alrefai,Taleb Alrefai,Journalist and writer,Q817,Q35178
+Q77348520,Q6581072,1939-01-01T00:00:00Z,1,Munira Al-Kazi,Munira Al-Kazi,Kuwaiti drawer (born 1939),Q817,
+Q777993,Q6581097,1972-01-01T00:00:00Z,6,Abu Omar al-Kuwaiti,Abu Omar al-Kuwaiti,"Jihad fighter, al-Qaeda member",Q817,Q817
+Q778771,Q6581097,1947-03-22T00:00:00Z,15,Ahmed Al-Tarabulsi,Ahmed Al-Tarabulsi,Kuwaiti footballer,Q822,Q3820
+Q778771,Q6581097,1947-03-22T00:00:00Z,15,Ahmed Al-Tarabulsi,Ahmed Al-Tarabulsi,Kuwaiti footballer,Q817,Q3820
+Q778771,Q6581097,1947-03-22T00:00:00Z,15,Ahmed Al-Tarabulsi,Ahmed Al-Tarabulsi,Kuwaiti footballer,Q857026,Q3820
+Q7799252,Q6581072,1952-01-01T00:00:00Z,5,Thuraya Al-Baqsami,Thuraya Al-Baqsami,artist,Q817,Q35178
+Q79351472,Q6581097,1997-10-27T00:00:00Z,3,Redha Abujabarah,Redha Abujabarah,Kuwaiti footballer,Q817,Q817
+Q79351472,Q6581097,1996-10-27T00:00:00Z,3,Redha Abujabarah,Redha Abujabarah,Kuwaiti footballer,Q817,Q817
+Q7961682,Q6581097,1962-04-03T00:00:00Z,2,Waleed Al-Tabtabaie,Waleed Al-Tabtabaie,Kuwaiti politician,Q817,
+Q8049146,Q6581097,1983-10-27T00:00:00Z,7,Yaqoub Al Taher,Yaqoub Al Taher,Kuwaiti footballer,Q817,Q35178
+Q8059027,Q6581097,1994-03-25T00:00:00Z,4,Yousef Al-Askari,Yousef Al-Askari,Kuwaiti swimmer,Q817,Q35178
+Q8059037,Q6581097,1956-01-01T00:00:00Z,4,Yousef Khanfar,Yousef Khanfar,Palestinian photographer,Q817,Q817
+Q8059051,Q6581097,1973-08-02T00:00:00Z,5,Yousef Al-Dokhi,Yousif Al Dakhi,Kuwaiti footballer,Q817,Q817
+Q8059124,Q6581097,1932-09-12T00:00:00Z,4,Yousuf Saleh Alyan,Yousuf Saleh Alyan,Kuwait Times founder/publisher/editor,Q817,Q817
+Q8064744,Q6581072,1962-01-15T00:00:00Z,3,Zahrah al Kharji,Zahrah al Kharji,Kuwaiti actress,Q817,
+Q8064774,Q6581097,1982-03-25T00:00:00Z,4,Zaid Al-Mutairi,Zaid Al-Mutairi,Olympic skeet shooter,Q817,
+Q83475461,Q6581097,1977-08-17T00:00:00Z,3,Bader Al-Kharafi,Bader Nasser Al-Kharafi,Kuwaiti businessman,Q817,Q145
+Q85682837,Q6581097,1937-01-01T00:00:00Z,2,Ali Mohammed Thunayan Al-Ghanim,Ali Thunayan Al-Ghanim,Kuwaiti economist,Q817,Q35178
+Q863577,Q6581097,1963-08-12T00:00:00Z,15,Ahmad Al-Fahad Al-Ahmed Al-Sabah,Ahmad Al-Fahad Al-Ahmad Al-Sabah,Kuwaiti politician and ruling family member,Q817,Q35178
+Q87441885,Q6581097,1947-01-01T00:00:00Z,2,Ali Al-Baghli,ʻAlī albghly,Kuwaiti lawyer and politician (1947–2023),Q817,Q35178
+Q87570519,Q6581097,1927-01-01T00:00:00Z,2,Mubarak Al-Zwair,Mubarak Al-Zwair,Kuwaiti politician,Q817,Q35178
+Q87777651,Q6581097,1938-01-01T00:00:00Z,2,Jassim Ismail Juma,Jassim Ismail Juma,Kuwaiti diplomat and politician (1938–2023),Q817,Q35178
+Q88406764,Q6581097,1998-08-11T00:00:00Z,5,Shabaib Al-Khaldi,Shabib Al-Khaldi,Kuwaiti footballer,Q817,Q817
+Q88406833,Q6581097,2000-01-21T00:00:00Z,4,Mobarak Al-Faneeni,Mobarak Al-Faneeni,Kuwaiti footballer,Q817,Q817
+Q887353,Q6581097,1984-06-26T00:00:00Z,6,Hussain Hakem,Hussain Hakem,Kuwaiti footballer,Q817,Q35178
+Q887366,Q6581097,1972-07-01T00:00:00Z,5,Samer Al Marta,Samer Al Marta,football player,Q817,Q35178
+Q9138131,Q6581097,2000-01-01T00:00:00Z,4,Abdullah Al-Qena'i,Abdullah Al-Qena'i,Kuwaiti handball player,Q817,
+Q922678,Q6581097,1966-10-11T00:00:00Z,22,Fehaid Al-Deehani,Fehaid Al-Deehani,Kuwaiti sports shooter,Q817,Q35178
+Q948317,Q6581097,1963-01-06T00:00:00Z,12,Saad Kamil Al-Fadhli,Saad Kamil Al-Fadhli,Kuwaiti football referee,Q817,
+Q948317,Q6581097,1963-01-06T00:00:00Z,12,Saad Kamil Al-Fadhli,Saad Kamil Al-Fadhli,Kuwaiti football referee,Q857026,
+Q948361,Q6581097,1976-09-05T00:00:00Z,31,Mishari bin Rashid Alafasy,Mishary Rashid Al-Afasy,"Imam of Grand Mosque (Kuwait), Quran reciter, preacher, Nasheed artist",Q817,Q35178
+Q96197574,Q6581072,1931-01-01T00:00:00Z,6,Lulwah Al-Qatami,Lulwah Al-Qatami,Kuwaiti educator and Nobel Peace Prize nominee,Q817,Q35178
+Q96216218,Q6581097,1967-01-01T00:00:00Z,2,Athbi Fahad Al-Ahmad Al-Sabah,Athbi Al-Fahad Al-Ahmad Al-Sabah,former Kuwaiti military officer,Q817,
+Q96280468,Q6581097,1946-01-01T00:00:00Z,2,Badr Al-Yaqoub,Badr Al-Yaqoub,Kuwaiti politician (1946–2025),Q817,Q35178
+Q97302388,Q6581097,1942-07-05T00:00:00Z,3,Abdullah Al-Taweel,Abdullah al-Tawil,Kuwaiti politician and economist,Q817,Q35178
+Q99688491,Q6581097,1989-06-19T00:00:00Z,4,Hussain Al Mutawaa,Hussain Al Mutawaa,Kuwaiti writer and poet,Q817,Q817

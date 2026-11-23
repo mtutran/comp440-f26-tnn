@@ -1,0 +1,463 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q100307867,Q6581097,1971-10-04T00:00:00Z,2,Mavó,Mavó,Mozambican footballer,Q1029,
+Q101500083,Q6581072,1983-01-01T00:00:00Z,10,Arlete Bombe,Arlete Bombe,Mozambican actress,Q1029,Q1029
+Q102046137,Q6581072,1991-01-01T00:00:00Z,5,Lara Sousa,Lara Sousa,Mozambican filmmaker,Q1029,Q3889
+Q102430251,Q6581072,1976-04-01T00:00:00Z,10,Josina Z. Machel,Josina Z. Machel,Mozambican activist,Q1029,Q3889
+Q10271926,Q6581072,1980-07-03T00:00:00Z,5,Elisa Cossa,Elisa Cossa,Mozambican sprinter,Q1029,Q3889
+Q10280037,Q6581097,1928-10-18T00:00:00Z,3,Fany Pfumo,Fany Pfumo,Mozambican singer,Q1029,Q65161265
+Q10289562,Q6581097,1966-05-03T00:00:00Z,4,Gilberto Mendes (actor),Gilberto Mendes,"Mozambican actor, swimmer and politician",Q1029,Q18571922
+Q10308640,Q6581097,1986-08-07T00:00:00Z,6,Josemar Machaísse,Josemar Machaísse,Mozambican footballer,Q1029,Q3889
+Q10308640,Q6581097,1987-08-07T00:00:00Z,6,Josemar Machaísse,Josemar Machaísse,Mozambican footballer,Q1029,Q3889
+Q10369062,Q6581097,1940-03-11T00:00:00Z,5,Sebastião Alba,Sebastião Alba,poet (1940-2000),Q1029,Q83247
+Q10384618,Q6581097,1980-05-19T00:00:00Z,2,Tó (footballer),Helton Samo Cunha,Mozambican footballer,Q1029,Q211563
+Q103961804,Q6581097,1997-11-16T00:00:00Z,3,Amâncio Canhembe,Amâncio Canhembe,Mozambican association football player,Q1029,Q3889
+Q104615905,Q6581097,1961-01-01T00:00:00Z,4,Constantino Reis,Constantino Reis,Mozambican athletics competitor,Q1029,
+Q105001942,Q6581072,1949-12-12T00:00:00Z,3,Amelia Sumbana,Amélia Sumbana,Mozambican politician and diplomat,Q1029,
+Q105038571,Q6581072,1982-06-29T00:00:00Z,5,Eldevina Materula,Eldevina Materula,Oboist and Minister of Culture of Mozambique,Q1029,Q18571922
+Q10513572,Q6581097,1939-02-18T00:00:00Z,5,Joaquim Jorge (footballer),Joaquim Jorge,Footballer (1939-2014),Q45,Q3889
+Q10513572,Q6581097,1939-02-18T00:00:00Z,5,Joaquim Jorge (footballer),Joaquim Jorge,Footballer (1939-2014),Q1029,Q3889
+Q105222167,Q6581097,1969-09-21T00:00:00Z,7,Inácio Lucas Mwita,Inácio Lucas,Mozambican Catholic prelate (born 1969),Q1029,Q990080
+Q105326708,Q6581072,1951-01-01T00:00:00Z,2,Salomé Moiane,Salomé Moiane,Mozambican politician,Q1029,Q28678944
+Q10556470,Q6581097,1985-07-14T00:00:00Z,4,"Ricardo Campos (footballer, born 1985)",Ricardo Campos,footballer,Q1029,Q275689
+Q106116924,Q6581072,1995-11-11T00:00:00Z,5,Rady Gramane,Rady Gramane,Mozambican boxer,Q1029,Q3889
+Q106772726,Q6581097,1972-12-28T00:00:00Z,3,Cachela Boane,Cachela Boane,Mozambican footballer,Q1029,
+Q106772741,Q6581097,1965-11-24T00:00:00Z,2,Antoninho Muchanga,Antoninho Muchanga,Mozambican footballer,Q1029,
+Q106772750,Q6581097,1968-08-06T00:00:00Z,2,Manuel Valoi,Manuel Valoi,Mozambican footballer,Q1029,
+Q106772755,Q6581097,1969-07-28T00:00:00Z,4,Luís Parruque,Luís Parruque,Mozambican footballer,Q1029,
+Q106806362,Q6581097,1964-06-04T00:00:00Z,6,Ali Hassan (footballer),Ali Hassan,Mozambican footballer (1964-2026),Q1029,Q3889
+Q107710585,Q6581072,1994-02-27T00:00:00Z,9,Alcinda Panguana,Alcinda Panguana,Mozambican boxer,Q1029,Q3889
+Q107719078,Q6581097,1997-02-27T00:00:00Z,6,Kevin Loforte,Kevin Loforte,Mozambican judoka,Q1029,Q3889
+Q107723787,Q6581072,2004-05-09T00:00:00Z,3,Alicia Mateus,Alicia Mateus,Mozambican swimmer,Q1029,
+Q107739841,Q6581072,1993-12-22T00:00:00Z,2,Lúcia Leila,Lúcia Leila José,Mozambican association football player,Q1029,Q3889
+Q107746035,Q6581072,2000-07-30T00:00:00Z,2,Deizy Nhaquile,Deizy Nhaquile,Mozambican sailor,Q1029,
+Q107842472,Q6581072,2004-08-17T00:00:00Z,3,Maria Machava,Maria Machava,Mozambican sailor,Q1029,
+Q107842531,Q6581072,2003-02-05T00:00:00Z,4,Denise Parruque,Denise Parruque,Mozambican sailor,Q1029,
+Q108198320,Q6581097,1997-11-24T00:00:00Z,5,Shaquille (footballer),Shaquille Momad Nangy,Mozambican footballer,Q1029,Q456577
+Q108916238,Q6581072,1998-10-27T00:00:00Z,2,Ninika,Ninika,Mozambican footballer,Q1029,Q3889
+Q109240684,Q6581097,1995-01-31T00:00:00Z,1,Helton Ubisse,Helton Ubisse,Mozambican basketball player (born 1995),Q1029,
+Q109290233,Q6581097,1991-12-03T00:00:00Z,1,Ismael Nurmamade,Ismael Nurmamade,Mozambican basketball player (born 1991),Q1029,
+Q109496345,Q6581097,1996-11-10T00:00:00Z,5,Francisco Couana,Francisco Couana,Mozambican cricketer,Q1029,
+Q109657143,Q6581097,1962-01-01T00:00:00Z,2,Severino Elias Ngoenha,Severino Elias Ngoenha,Mozambican philosopher,Q1029,Q3889
+Q109950517,Q6581097,1968-10-14T00:00:00Z,3,Ernesto Max Elias Tonela,Ernesto Max Elias Tonela,politician in Mozambique,Q1029,Q211563
+Q109950528,Q6581072,1962-06-05T00:00:00Z,3,Margarida Talapa,Margarida Talapa,politician in Mozambique,Q1029,Q6436086
+Q109950530,Q6581072,1971-10-12T00:00:00Z,3,Helena Kida,Helena Mateus Kida,politician in Mozambique,Q1029,Q15241257
+Q109951064,Q6581097,1971-05-01T00:00:00Z,3,Cristóvão Artur Chume,Cristóvão Artur Chume,politician in Mozambique,Q1029,Q3889
+Q110200999,Q6581097,1998-05-03T00:00:00Z,3,Gion Chande,Gion Fadri Chande,Mozambican footballer,Q1029,Q69007
+Q110200999,Q6581097,1998-05-03T00:00:00Z,3,Gion Chande,Gion Fadri Chande,Mozambican footballer,Q39,Q69007
+Q111219900,Q6581072,1979-01-01T00:00:00Z,2,Paula Cardoso (journalist),Paula Cardoso,"Portuguese-Mozambican journalist, content producer and anti-racist activist",Q1029,Q211563
+Q111219900,Q6581072,1979-01-01T00:00:00Z,2,Paula Cardoso (journalist),Paula Cardoso,"Portuguese-Mozambican journalist, content producer and anti-racist activist",Q45,Q211563
+Q1112681,Q6581097,1979-09-22T00:00:00Z,12,Carlos Fumo,Carlos Fumo Gonçalves,Mozambican footballer,Q1029,Q3889
+Q111745067,Q6581072,1960-02-07T00:00:00Z,3,Lídia Cardoso,Lídia Cardoso,politician in Mozambique,Q1029,Q318306
+Q111816864,Q6581072,1975-03-04T00:00:00Z,1,Margarida Mapanzene,Margarida Mapanzene,politician in Mozambique,Q1029,Q48871916
+Q111828609,Q6581097,1968-01-01T00:00:00Z,1,Antonio Augusto Eduardo Namburete,Antonio Namburete,politician in Mozambique,Q1029,
+Q111841675,Q6581097,1974-01-17T00:00:00Z,5,Venâncio Mondlane,Venâncio António Bila Mondlane,Mozambican politician,Q1029,Q667650
+Q111893389,Q6581072,1982-02-18T00:00:00Z,1,Carla Louveira,Carla Louveira,politician in Mozambique,Q1029,Q3889
+Q111904379,Q6581072,1961-11-09T00:00:00Z,7,Maria Manuela Lucas,Maria Manuela Lucas,diplomat from Mozambique,Q1029,Q109949
+Q112224802,Q6581072,1998-10-18T00:00:00Z,1,Silvia Veloso,Silvia Veloso,Mozambican basketball player (born 1998),Q1029,
+Q112225657,Q6581072,1996-10-10T00:00:00Z,1,Vilma Covane,Vilma Covane,Mozambican basketball player (born 1996),Q1029,
+Q114459865,Q6581072,1953-02-18T00:00:00Z,5,Anabela Lemos,Anabela Lemos,Mozambican environmentalist and civil rights activist,Q1029,Q3889
+Q114729358,Q6581097,2001-02-22T00:00:00Z,1,Gianluca Lorenzoni,Gianluca Lorenzoni,Mozambican association football player,Q38,Q142
+Q114729358,Q6581097,2001-02-22T00:00:00Z,1,Gianluca Lorenzoni,Gianluca Lorenzoni,Mozambican association football player,Q1029,Q142
+Q115688336,Q6581097,1969-11-09T00:00:00Z,7,António Manuel Bogaio Constantino,António Manuel Bogaio Constantino,Mozambican Roman-Catholic bishop,Q1029,Q605787
+Q1165952,Q6581097,1984-01-24T00:00:00Z,12,Dario Khan,Dario Khan,Mozambican footballer,Q1029,Q3889
+Q1165952,Q6581097,1981-01-24T00:00:00Z,12,Dario Khan,Dario Khan,Mozambican footballer,Q1029,Q3889
+Q116699229,Q6581097,2005-05-27T00:00:00Z,3,Pedro Perino,Pedro Perino,Portuguese racing driver (born 2005),Q45,
+Q116699229,Q6581097,2005-05-27T00:00:00Z,3,Pedro Perino,Pedro Perino,Portuguese racing driver (born 2005),Q1029,
+Q11686756,Q6581097,1959-01-27T00:00:00Z,3,Arnaldo Salvado,Arnaldo Salvado,Mozambican association football manager,Q1029,Q1029
+Q116886534,Q6581097,2003-12-12T00:00:00Z,1,Edson Mucuana,Edson Mucuana,Mozambican footballer (born 2003),Q1029,
+Q11694768,Q6581097,1961-08-10T00:00:00Z,4,Domingos Mendes,Domingos Mendes,Mozambican athletics competitor,Q1029,
+Q117026753,Q6581072,1937-11-04T00:00:00Z,5,Joana Simeão,Joana Simeão,"Mozambican teacher, resistance fighter and politician",Q974,Q323801
+Q117026753,Q6581072,1937-11-04T00:00:00Z,5,Joana Simeão,Joana Simeão,"Mozambican teacher, resistance fighter and politician",Q1029,Q323801
+Q117026753,Q6581072,1937-11-04T00:00:00Z,5,Joana Simeão,Joana Simeão,"Mozambican teacher, resistance fighter and politician",Q45,Q323801
+Q11728261,Q6581097,1971-10-04T00:00:00Z,2,Jorge Joaquim Messa Vulande,Jorge Joaquim Messa Vulande,association football player,Q1029,Q1029
+Q11728534,Q6581097,1975-06-23T00:00:00Z,3,José Albino,José Albino,association football player,Q1029,Q1029
+Q11728548,Q6581097,1968-04-18T00:00:00Z,6,"Zé Augusto (footballer, born 1968)",José Augusto Dlofo,Mozambican footballer,Q1029,Q1029
+Q11728548,Q6581097,1970-04-26T00:00:00Z,6,"Zé Augusto (footballer, born 1968)",José Augusto Dlofo,Mozambican footballer,Q1029,Q1029
+Q11728706,Q6581097,1970-07-26T00:00:00Z,6,João Chissano,João Chissano,Mozambican association football player,Q1029,Q3889
+Q11754533,Q6581097,1956-12-04T00:00:00Z,4,Leonardo Loforte,Leonardo Loforte,Mozambican athletics competitor,Q1029,
+Q11764392,Q6581097,1973-04-14T00:00:00Z,5,Luisinho Dias,Luís Germano Borlotes Dias,Mozambican association football player,Q1029,Q1029
+Q11794209,Q6581097,1973-10-19T00:00:00Z,2,Nuro Tualibudane,Nuro Tualibudane,Mozambiquan association football player,Q1029,Q1029
+Q11815380,Q6581097,1966-12-09T00:00:00Z,4,Pedro Cruz,Pedro Cruz,Mozambican swimmer,Q1029,Q667650
+Q11815383,Q6581097,1964-03-13T00:00:00Z,4,Pedro Gonçalvo,Pedro Gonçalvo,Mozambican athletics competitor,Q1029,
+Q119440428,Q6581097,2006-04-24T00:00:00Z,4,Steven Sabino,Steven Sabino,Mozambican sprinter,Q1029,Q211563
+Q119555237,Q6581072,2000-06-26T00:00:00Z,2,Chanaya Pinto,Chanaya Pinto,Mozambican basketball player (born 2000),Q1029,
+Q120970525,Q6581097,1966-08-17T00:00:00Z,1,Nasir Salé,Nasir Salé,Mozambican basketball coach,Q1029,
+Q122748313,Q6581097,1972-05-06T00:00:00Z,15,Osório Citora Afonso,Osório Citora Afonso,Mozambican Roman Catholic bishop,Q1029,Q726737
+Q123467510,Q6581097,1999-01-28T00:00:00Z,1,Jonathan Muiomo,Jonathan Muiomo,Mozambican footballer,Q1029,Q2079
+Q123467510,Q6581097,1999-01-28T00:00:00Z,1,Jonathan Muiomo,Jonathan Muiomo,Mozambican footballer,Q183,Q2079
+Q123717350,Q6581097,1975-03-22T00:00:00Z,3,Pedro Moreira (football manager),Pedro Moreira,Portuguese football manager,Q45,
+Q123717350,Q6581097,1975-03-22T00:00:00Z,3,Pedro Moreira (football manager),Pedro Moreira,Portuguese football manager,Q1029,
+Q124246626,Q6581097,1996-03-12T00:00:00Z,5,Amadú,Amadú,Mozambican footballer,Q1029,
+Q124249432,Q6581097,1998-09-07T00:00:00Z,5,Ernan Siluane,Ernan Siluane,Mozambican association football player,Q1029,
+Q124259087,Q6581097,1998-06-17T00:00:00Z,3,Domingos Macandza,Domingos Macandza,Mozambican footballer,Q1029,Q3889
+Q124259092,Q6581097,1995-04-09T00:00:00Z,4,Lau King,Lau King,Mozambican footballer (1995-),Q1029,
+Q124304070,Q6581097,1997-01-09T00:00:00Z,5,João Bonde,João Bonde,Mozambican footballer,Q1029,Q211563
+Q124415277,Q6581097,1997-03-01T00:00:00Z,3,Ivane Urrubal,Ivane Urrubal,Mozambican footballer,Q1029,
+Q125569035,Q6581097,1997-06-26T00:00:00Z,3,Melque Alexandre,Melque Alexandre,Mozambican footballer,Q1029,Q318306
+Q125629222,Q6581097,2006-05-10T00:00:00Z,2,"Álex Pérez (footballer, born 2006)",Álex Pérez,Spanish association football player (born 2006),Q29,Q2807
+Q125629222,Q6581097,2006-05-10T00:00:00Z,2,"Álex Pérez (footballer, born 2006)",Álex Pérez,Spanish association football player (born 2006),Q1029,Q2807
+Q1278158,Q6581097,1957-08-01T00:00:00Z,12,Ungulani Ba Ka Khosa,Ungulani Ba Ka Khosa,Mozambican writer,Q1029,Q928765
+Q1279833,Q6581097,1942-05-04T00:00:00Z,9,Germano Grachane,Germano Grachane,Mozambican Roman Catholic bishop,Q1029,
+Q128035448,Q6581097,2000-09-12T00:00:00Z,3,Tiago Muxanga,Tiago Muxanga,Mozambican boxer,Q1029,Q3889
+Q1315233,Q6581097,1941-05-04T00:00:00Z,4,Sérgio Vieira (politician),Sérgio Vieira,"Mozambican politician, poet, writer",Q1029,Q388242
+Q131859963,Q6581097,1974-06-17T00:00:00Z,7,Estêvão Ângelo Fernando,Estêvão Ângelo Fernando,Mozambican Roman Catholic bishop,Q1029,Q30912390
+Q132458460,Q6581097,2005-05-29T00:00:00Z,6,Francisco Chissumba,Francisco Chissumba,footballer,Q1029,Q83247
+Q132458460,Q6581097,2005-05-29T00:00:00Z,6,Francisco Chissumba,Francisco Chissumba,footballer,Q45,Q83247
+Q133773777,Q6581072,1945-03-06T00:00:00Z,2,Deolinda Guezimane,Deolinda Guezimane,Mozambican politician,Q1029,Q18593458
+Q1337958,Q6581097,1929-10-17T00:00:00Z,13,Mário Wilson,Mário Wilson,Portuguese footballer (1929–2016),Q45,Q3889
+Q1337958,Q6581097,1929-10-17T00:00:00Z,13,Mário Wilson,Mário Wilson,Portuguese footballer (1929–2016),Q1029,Q3889
+Q1339120,Q6581097,1950-05-01T00:00:00Z,6,Aldino Muianga,Aldino Muianga,Mozambican writer,Q1029,Q3889
+Q1343369,Q6581097,1982-07-05T00:00:00Z,14,Paíto,Paíto,Mozambican footballer,Q1029,Q3889
+Q1356776,Q6581097,1964-08-02T00:00:00Z,11,Ernesto Maguengue,Ernesto Maguengue,Mozambican bishop of the Catholic Church,Q1029,
+Q1383773,Q6581097,1941-04-10T00:00:00Z,24,Pascoal Mocumbi,Pascoal Mocumbi,Mozambican politician (1941–2023),Q1029,Q18571924
+Q138821364,Q6581097,1966-02-04T00:00:00Z,1,Mercedes Sibanda,Mercedes Sibanda,Mozambican association football player,Q1029,
+Q13914486,Q6581072,1981-04-18T00:00:00Z,6,Deolinda Ngulela,Deolinda Ngulela,Mozambican basketball player (born 1981),Q1029,Q3889
+Q1406751,Q6581097,1982-08-09T00:00:00Z,6,Nando (Mozambican footballer),Nando,Mozambican association footballer (1982-2007),Q1029,Q3889
+Q1414329,Q6581097,1934-02-04T00:00:00Z,8,Paulo Mandlate,Paulo Mandlate,Mozambican catholic priest,Q1029,Q3492539
+Q14373081,Q6581097,1910-01-26T00:00:00Z,9,Francisco Nunes Teixeira,Francisco Nunes Teixeira,Portuguese-born bishop (1910-1999),Q45,Q2078929
+Q14373081,Q6581097,1910-01-26T00:00:00Z,9,Francisco Nunes Teixeira,Francisco Nunes Teixeira,Portuguese-born bishop (1910-1999),Q1029,Q2078929
+Q1441931,Q6581097,1947-12-06T00:00:00Z,14,Francisco Chimoio,Francisco Chimoio,Roman Catholic archbishop (2003-2023),Q1029,Q5003461
+Q14468472,Q6581072,1991-05-24T00:00:00Z,12,Leia Dongue,Leia Dongue,Mozambican basketball player (born 1991),Q1029,Q3889
+Q14965290,Q6581072,1986-04-07T00:00:00Z,8,Anabela Cossa,Anabela Cossa,Mozambican basketball player (born 1986),Q1029,Q3889
+Q1525559,Q6581097,1944-08-04T00:00:00Z,9,Teodomiro Leite de Vasconcelos,Teodomiro Leite de Vasconcelos,Mozambican writer. (1944–1997),Q45,Q490302
+Q1525559,Q6581097,1944-08-04T00:00:00Z,9,Teodomiro Leite de Vasconcelos,Teodomiro Leite de Vasconcelos,Mozambican writer. (1944–1997),Q1029,Q490302
+Q15965675,Q6581097,1995-01-05T00:00:00Z,8,Faisal Bangal,Faisal Bangal,Mozambican association football player,Q1029,Q638509
+Q15965675,Q6581097,1995-01-06T00:00:00Z,8,Faisal Bangal,Faisal Bangal,Mozambican association football player,Q1029,Q638509
+Q16012402,Q6581097,1935-11-02T00:00:00Z,1,Octávio de Sá,Octávio de Sá,footballer (1935-1990),Q1029,Q3889
+Q16012402,Q6581097,1935-11-02T00:00:00Z,1,Octávio de Sá,Octávio de Sá,footballer (1935-1990),Q45,Q3889
+Q16015733,Q6581072,1976-05-01T00:00:00Z,4,Tanya Anacleto,Tanya Anacleto,Olympic swimmer (1976-2003),Q1029,Q211563
+Q16017721,Q6581097,1970-01-01T00:00:00Z,2,Nyimpine Chissano,Nyimpine Chissano,Mozambican businessman,Q1029,Q1029
+Q16145814,Q6581097,1988-10-14T00:00:00Z,2,Leonel Matonse,Leonel Matonse,Mozambican swimmer,Q1029,Q3889
+Q16161582,Q6581072,1971-06-11T00:00:00Z,5,Carolina Araujo (swimmer),Carolina Araujo,Mozambican swimmer,Q1029,
+Q16164753,Q6581097,1973-05-04T00:00:00Z,8,Pinto Barros,Pinto Barros,Mozambican association football player,Q1029,Q1029
+Q1618970,Q6581097,1958-06-25T00:00:00Z,5,Hilário da Cruz Massinga,Hilário da Cruz Massinga,Mozambican Catholic priest,Q1029,
+Q16194995,Q6581097,1963-01-01T00:00:00Z,1,Vince Cate,Vince Cate,cryptography software developer,Q30,
+Q16194995,Q6581097,1963-01-01T00:00:00Z,1,Vince Cate,Vince Cate,cryptography software developer,Q1029,
+Q16204685,Q6581072,1989-05-05T00:00:00Z,5,Miriam Corsini,Miriam Corsini,Mozambican swimmer,Q1029,Q490
+Q16207240,Q6581097,1989-03-01T00:00:00Z,5,Diogo (Mozambican footballer),Diogo António Alberto,Mozambican professional footballer,Q1029,Q1029
+Q16215417,Q6581097,1975-08-12T00:00:00Z,3,Ilidio Matusse,Ilidio Matusse,Mozambican swimmer,Q1029,Q3889
+Q16221700,Q6581072,1981-08-28T00:00:00Z,4,Ermelinda Zamba,Ermelinda Zamba,Mozambican swimmer,Q1029,Q3889
+Q16223775,Q6581097,1985-08-10T00:00:00Z,2,Apson Manjate,Apson Manjate,Mozambican association football player,Q1029,
+Q16231676,Q6581072,1987-08-15T00:00:00Z,5,Deolinda Gimo,Deolinda Gimo,Mozambican basketball player (born 1987),Q1029,Q3889
+Q16232460,Q6581097,1988-10-15T00:00:00Z,4,Telinho,Telinho,Mozambican footballer,Q1029,Q3889
+Q16337312,Q6581072,1979-10-25T00:00:00Z,5,Dama do Bling,Dama do Bling,Mozambican musician,Q1029,Q3889
+Q16538367,Q6581072,1982-11-28T00:00:00Z,5,Cátia Halar,Catia Halar,Mozambican basketball player (born 1982),Q1029,Q3889
+Q16620213,Q6581072,1980-12-26T00:00:00Z,5,Valerdina Manhonga,Valerdina Manhonga,Mozambican basketball player (born 1980),Q1029,Q1029
+Q1671868,Q6581097,1960-03-02T00:00:00Z,10,Inácio Saure,Inácio Saure,Mozambican Roman Catholic archbishop,Q1029,Q4849911
+Q16733150,Q6581097,1957-12-27T00:00:00Z,6,Salvador Namburete,Salvador Namburete,Mozambican politician,Q1029,Q56036930
+Q16735092,Q6581097,1990-06-04T00:00:00Z,10,Reginaldo Faife,Reginaldo Faife,Mozambican footballer,Q1029,Q318306
+Q16735092,Q6581097,1990-06-14T00:00:00Z,10,Reginaldo Faife,Reginaldo Faife,Mozambican footballer,Q1029,Q318306
+Q1678743,Q6581097,1936-11-26T00:00:00Z,13,Jaime Pedro Gonçalves,Jaime Pedro Gonçalves,Mozambican Roman Catholic archbishop (1936-2016),Q1029,Q383170
+Q1683087,Q6581097,1934-08-20T00:00:00Z,9,Januário Machaze Nhangumbe,Januário Machaze Nhangumbe,Mozambican Roman Catholic bishop,Q1029,Q10344168
+Q1689349,Q6581097,1957-01-01T00:00:00Z,6,Jimmy Dludlu,Jimmy Dludlu,Mozambican guitarist,Q1029,
+Q1710136,Q6581097,1968-03-08T00:00:00Z,10,João Carlos Hatoa Nunes,João Carlos Hatoa Nunes,Mozambican Catholic archbishop,Q1029,Q211563
+Q1715702,Q6581097,1927-10-27T00:00:00Z,29,Júlio Duarte Langa,,Mozambican Roman Catholic priest cardinal (1927–2026),Q1029,Q318299
+Q17496476,Q6581097,1958-01-01T00:00:00Z,2,Mingo Rangel,Mingo Rangel,"Mozambican musician, singer, composer, and writer",Q1029,Q211563
+Q1750375,Q6581097,1988-09-08T00:00:00Z,22,Mexer,Mexer,Mozambican footballer,Q1029,Q3889
+Q17916931,Q6581072,1992-07-26T00:00:00Z,5,Maria Muchavo,Maria Muchavo,Mozambique athlete,Q1029,Q3889
+Q18350460,Q6581097,1959-11-21T00:00:00Z,3,Agostinho Mondlane,Agostinho Mondlane,Mozambican politician and Minister of Defense,Q1029,Q3889
+Q18719452,Q6581097,1988-05-25T00:00:00Z,4,Saddan Guambe,Saddan Guambe,footballer,Q1029,Q1029
+Q1873477,Q6581097,1959-10-09T00:00:00Z,9,Lucio Andrice Muandula,Lucio Andrice Muandula,Mozambican Catholic bishop,Q1029,Q3889
+Q1878437,Q6581097,1942-11-01T00:00:00Z,12,Luis Bernardo Honwana,Luís Bernardo Honwana,Mozambican writer,Q1029,Q3889
+Q1891468,Q6581097,1950-06-11T00:00:00Z,5,Manuel Chuanguira Machado,Manuel Chuanguira Machado,Mozambican Roman Catholic bishop (1950–2023),Q1029,
+Q18921321,Q6581097,1994-01-28T00:00:00Z,4,Edson Almeida,Edson Almeida,Mozambican association football player,Q1029,Q323801
+Q1893287,Q6581097,1929-05-20T00:00:00Z,18,Marcelino dos Santos,Marcelino dos Santos,Mozambican politician (1929-2020),Q1029,Q488030
+Q19057400,Q6581097,1954-10-26T00:00:00Z,37,Carlos Agostinho do Rosário,Carlos Agostinho do Rosário,Prime Minister of Mozambique (2015-2022),Q1029,Q525118
+Q19259752,Q6581097,1962-05-02T00:00:00Z,9,Atanasio Amisse Canira,Atanasio Amisse Canira,Mozambican Bishop of Lichinga,Q1029,
+Q1957066,Q6581097,1940-12-01T00:00:00Z,20,Mário da Graça Machungo,Mário da Graça Machungo,Mozambican politician (1940-2020),Q1029,Q525118
+Q19588679,Q6581097,1961-11-11T00:00:00Z,5,Gilles Cistac,Gilles Cistac,franco-mozambican lawyer,Q1029,Q7880
+Q19588679,Q6581097,1961-11-11T00:00:00Z,5,Gilles Cistac,Gilles Cistac,franco-mozambican lawyer,Q142,Q7880
+Q19594143,Q6581097,1969-05-14T00:00:00Z,3,Mário Artur,Mário Artur,Mozambican footballer,Q1029,Q45
+Q19613993,Q6581072,1979-10-23T00:00:00Z,9,Ivone Soares,Ivone Soares,Mozambican politician (RENAMO) and journalist,Q1029,Q3889
+Q19800984,Q6581097,1975-01-01T00:00:00Z,8,Gonçalo Mabunda,Gonçalo Mabunda,artist from Mozambique (born 1975),Q1029,Q3889
+Q19816448,Q6581072,1962-12-02T00:00:00Z,5,Carmelita Namashulua,Carmelita Namashulua,Mozambican teacher and politician (FRELIMO),Q1029,Q1960
+Q19958795,Q6581072,1968-06-19T00:00:00Z,7,Nazira Abdula,Nazira Abdul,Mozambique pediatrist and politician,Q1029,Q622794
+Q20047924,Q6581072,1958-01-01T00:00:00Z,8,Ângela Ferreira,Ângela Ferreira,plastic artist of Portuguese origin (born 1958),Q45,Q3889
+Q20047924,Q6581072,1958-01-01T00:00:00Z,8,Ângela Ferreira,Ângela Ferreira,plastic artist of Portuguese origin (born 1958),Q258,Q3889
+Q20047924,Q6581072,1958-01-01T00:00:00Z,8,Ângela Ferreira,Ângela Ferreira,plastic artist of Portuguese origin (born 1958),Q1029,Q3889
+Q20085776,Q6581097,1979-09-06T00:00:00Z,5,Samito,Samito,Mozambican singer and composer based in Montreal,Q1029,Q3889
+Q2029230,Q6581097,1993-08-18T00:00:00Z,9,Juliano Máquina,Juliano Máquina,Mozambican boxer,Q1029,Q3889
+Q2073256,Q6581097,1982-04-21T00:00:00Z,8,Albino Cossa,Albino Cossa,Mozambican footballer,Q1029,Q3889
+Q20740457,Q6581097,1960-01-01T00:00:00Z,5,Carlos Nuno Castel-Branco,Carlos Nuno Castel-Branco,"Mozambican political scientist, economist, university teacher, writer and human rights activist",Q1029,Q3889
+Q20745030,Q6581097,1990-11-29T00:00:00Z,4,Pio Matos,Pio Matos,Mozambican basketball player (born 1990),Q1029,Q7028861
+Q208355,Q6581097,1939-10-22T00:00:00Z,58,Joaquim Chissano,Joaquim Chissano,2nd President of Mozambique,Q1029,Q466526
+Q20883957,Q6581097,1954-01-01T00:00:00Z,3,Paulo Machava,Paulo Machava,Mozambican journalist,Q1029,
+Q2095435,Q6581097,1962-11-02T00:00:00Z,9,Suleiman Cassamo,Suleiman Cassamo,Mozambican writer,Q1029,Q3082732
+Q2107383,Q6581097,1985-02-11T00:00:00Z,4,Neuso Sigauque,Neuso Sigauque,Mozambican judoka,Q1029,Q3889
+Q212342,Q6581097,1950-03-18T00:00:00Z,7,André Matsangaissa,André Matsangaissa,Mozambican resistance fighter of the FRELIMO and later rebel leader of the RENAMO,Q1029,Q14216746
+Q2133237,Q6581097,1957-10-14T00:00:00Z,3,Raul Domingos,Raúl Domingos,Mozambican politician and diplomat,Q1029,Q2217178
+Q2148638,Q6581097,1942-11-08T00:00:00Z,5,Ricardo Chibanga,Ricardo Chibanga,Mozambican bullfighter (1942–2019),Q1029,Q3889
+Q21621923,Q6581097,1994-10-09T00:00:00Z,2,Alberto Mamba,Alberto Mamba,Mozambican athlete,Q1029,Q3889
+Q219918,Q6581097,1933-09-29T00:00:00Z,66,Samora Machel,Samora Moisés Machel,1st President of Mozambique (1933–1986),Q45,Q466526
+Q219918,Q6581097,1933-09-29T00:00:00Z,66,Samora Machel,Samora Moisés Machel,1st President of Mozambique (1933–1986),Q1029,Q466526
+Q228807,Q6581072,1972-10-27T00:00:00Z,43,Maria Mutola,Maria Mutola,Mozambican athlete,Q1029,Q3889
+Q236020,Q6581072,1958-04-11T00:00:00Z,51,Luísa Diogo,Luísa Diogo,Mozambican politician (1958–2026),Q1029,Q605787
+Q23904963,Q6581072,1961-08-12T00:00:00Z,5,Maria Helena Taipo,Maria Helena Taipo,Mozambican politician,Q1029,Q15244175
+Q23904976,Q6581072,1969-10-19T00:00:00Z,14,Lucrécia Paco,Lucrécia Paco,Mozambican actor,Q1029,Q3889
+Q239105,Q6581072,1945-10-17T00:00:00Z,48,Graça Machel,Graça Machel,Mozambican humanitarian activist and politician,Q258,Q889394
+Q239105,Q6581072,1945-10-17T00:00:00Z,48,Graça Machel,Graça Machel,Mozambican humanitarian activist and politician,Q1029,Q889394
+Q2403160,Q6581097,1965-11-22T00:00:00Z,11,Chiquinho Conde,Chiquinho Conde,Mozambican footballer and manager (born 1965),Q1029,Q211563
+Q2440581,Q6581097,1954-10-16T00:00:00Z,7,Tomaz Salomão,Tomaz Salomão,Mozambican economist and politician,Q1029,Q6033690
+Q24451748,Q6581097,1994-01-21T00:00:00Z,34,Reinildo Mandava,Reinildo Mandava,Mozambican footballer (born 1994),Q1029,Q211563
+Q2463578,Q6581072,1981-11-11T00:00:00Z,5,Tânia Tomé,Tânia Tomé,"Mozambican entrepreneur, speaker and author",Q1029,Q3889
+Q2498195,Q6581097,1975-09-16T00:00:00Z,16,Armando Sá,Armando Sá,Mozambican footballer,Q1029,Q3889
+Q25136905,Q6581097,1988-01-01T00:00:00Z,2,Laylizzy,Laylizzy,Mozambican rapper,Q1029,Q3889
+Q26236485,Q6581072,1996-04-24T00:00:00Z,6,Jannah Sonnenschein,Jannah Sonnenschein,Dutch-Mozambican swimmer,Q1029,Q9796
+Q26236485,Q6581072,1996-04-24T00:00:00Z,6,Jannah Sonnenschein,Jannah Sonnenschein,Dutch-Mozambican swimmer,Q29999,Q9796
+Q26336652,Q6581097,1992-08-19T00:00:00Z,4,Mussa Chamaune,Mussa Chamaune,Mozambican canoeist,Q1029,Q3889
+Q2639296,Q6581097,1960-01-01T00:00:00Z,5,Murder of Alberto Adriano,Alberto Adriano,Murdered in 2000 in Dessau,Q1029,Q1029
+Q2639296,Q6581097,1960-01-01T00:00:00Z,5,Murder of Alberto Adriano,Alberto Adriano,Murdered in 2000 in Dessau,Q183,Q1029
+Q2639296,Q6581097,1961-01-01T00:00:00Z,5,Murder of Alberto Adriano,Alberto Adriano,Murdered in 2000 in Dessau,Q183,Q1029
+Q2639296,Q6581097,1961-01-01T00:00:00Z,5,Murder of Alberto Adriano,Alberto Adriano,Murdered in 2000 in Dessau,Q1029,Q1029
+Q2639436,Q6581097,1935-11-22T00:00:00Z,8,Alberto Setele,Alberto Setele,Mozambican catholic priest (1935-2006),Q1029,Q166838
+Q26611697,Q6581097,1995-01-06T00:00:00Z,3,Joaquim Lobo,Joaquim Lobo,Mozambican canoeist,Q1029,Q3889
+Q2661492,Q6581097,1973-08-16T00:00:00Z,16,Tico-Tico,Tico-Tico,Mozambiquen football striker,Q1029,Q3889
+Q26709573,Q6581097,1996-08-01T00:00:00Z,8,Igor Mogne,Igor Mogne,Mozambican swimmer,Q1029,Q3889
+Q26761021,Q6581072,1949-04-08T00:00:00Z,10,Alice Mabota,Alice Mabota,Mozambican human rights activist,Q1029,Q3889
+Q26791248,Q6581072,1965-01-25T00:00:00Z,3,Amélia Nakhare,Amélia Nakhare,Mozambican economist and politician,Q1029,Q3889
+Q26849370,Q6581072,1998-02-28T00:00:00Z,9,Edmilsa Governo,Edmilsa Governo,Mozambican athlete,Q1029,Q3889
+Q26995850,Q6581072,1972-10-24T00:00:00Z,8,Iolanda Cintura,Iolanda Cintura,Mozambican chemist and politician,Q1029,Q638509
+Q2703205,Q6581097,1975-09-14T00:00:00Z,8,João Rafael Kapango,João Rafael Kapango,Mozambican footballer,Q1029,Q3889
+Q27049023,Q6581072,1985-04-29T00:00:00Z,6,Liloca,Liloca,"Mozambican singer (born April 29, 1985)",Q1029,Q388242
+Q27049212,Q6581097,1990-10-14T00:00:00Z,1,Flavio Seholhe,Flavio Seholhe,Mozambican athletics competitor,Q1029,
+Q270580,Q6581072,1955-06-04T00:00:00Z,24,Paulina Chiziane,Paulina Chiziane,Mozambican writer,Q1029,Q3492539
+Q27062984,Q6581072,1964-03-18T00:00:00Z,11,Isabel Noronha,Isabel Noronha,Mozambican film director,Q1029,Q3889
+Q2714779,Q6581097,1964-09-30T00:00:00Z,11,Gito Baloi,Gito Baloi,Mozambican musician (1964–2004),Q1029,Q1029
+Q2714779,Q6581097,1965-01-01T00:00:00Z,11,Gito Baloi,Gito Baloi,Mozambican musician (1964–2004),Q1029,Q1029
+Q27148276,Q6581097,1953-05-29T00:00:00Z,3,Camilo de Sousa,Camilo de Sousa,Mozambican film producer,Q1029,Q3889
+Q27154897,Q6581097,1996-08-26T00:00:00Z,13,Witi,Witi,Mozambican association football player,Q1029,Q211563
+Q27220074,Q6581072,1962-01-17T00:00:00Z,7,Nyeleti Brooke Mondlane,Nyeleti Mondlane,Mozambican politician,Q1029,Q128069
+Q27243336,Q6581072,1963-01-04T00:00:00Z,8,Leda Hugo,Leda Hugo,"Mozambican agronomist, politician (FRELIMO) and vice-minister",Q1029,Q3556032
+Q27312653,Q6581072,1953-06-24T00:00:00Z,6,Fátima Langa,Fátima Langa,Mozambican writer,Q1029,Q6489660
+Q27480289,Q6581072,1950-01-01T00:00:00Z,7,Beatriz Buchili,Beatriz Buchili,Mozambican lawyer and attorney general,Q1029,
+Q2757210,Q6581097,1985-05-14T00:00:00Z,10,Kurt Couto,Kurt Couto,Mozambican hurdler,Q1029,Q3889
+Q27582051,Q6581072,1970-08-10T00:00:00Z,4,Stella Mendonça,Stella Mendonça,Mozambican operatic soprano specializing in the bel canto repertoire. (born 10 August 1970),Q1029,Q323801
+Q2784086,Q6581097,1983-11-13T00:00:00Z,16,Domingues,Domingues,Mozambican footballer,Q1029,Q3889
+Q2784090,Q6581097,1977-02-27T00:00:00Z,9,Dário Monteiro,Dário Monteiro,Mozambican footballer,Q1029,Q3889
+Q27881307,Q6581097,1992-10-22T00:00:00Z,3,Geraldo Matsimbe,Geraldo Matsimbe,association football player,Q1029,Q3889
+Q27888537,Q6581097,1995-07-25T00:00:00Z,6,Luís Miquissone,Luís Miquissone,Mozambican association football player,Q1029,Q1029
+Q28124175,Q6581097,1946-05-10T00:00:00Z,4,Murade Isaac Murargy,Murade Isaac Murargy,politician,Q1029,Q889394
+Q28174079,Q6581097,1995-01-31T00:00:00Z,7,Gildo Vilanculos,Gildo Vilanculos,association football player,Q1029,Q211563
+Q2832185,Q6581072,1953-10-13T00:00:00Z,19,Alcinda Abreu,Alcinda Abreu,Mozambican politician,Q1029,Q5003461
+Q28805597,Q6581097,1950-01-01T00:00:00Z,3,Raimundo Franisse,Raimundo Franisse,Mozambican swimmer,Q1029,
+Q28970202,Q6581097,1969-08-10T00:00:00Z,2,Sergio Fafitine,Sergio Fafitine,Mozambican swimmer,Q1029,
+Q2899154,Q6581072,1959-01-01T00:00:00Z,13,Berry Bickle,Berry Bickle,Zimbabwean artist,Q1029,Q193250
+Q2944135,Q6581097,1984-04-28T00:00:00Z,9,"Mano (footballer, born 1984)",Mano,Mozambican footballer,Q1029,Q318299
+Q2980790,Q6581097,1994-10-11T00:00:00Z,13,Clésio,Clésio Bauque,Mozambican footballer,Q1029,Q3889
+Q30082929,Q6581097,1994-07-18T00:00:00Z,7,Edmilson Dove,Edmilson Dove,Mozambican association football player,Q1029,Q318299
+Q30112686,Q6581097,1991-04-05T00:00:00Z,2,Jeitoso,João Pedro Mussica,association football player,Q1029,Q3889
+Q3013672,Q6581097,1982-04-30T00:00:00Z,12,Almiro Lobo,Almiro Lobo,Mozambican footballer,Q1029,Q318306
+Q30144118,Q6581097,1993-08-11T00:00:00Z,5,Bheu Januário,Bheu Januário,association football player,Q1029,Q211563
+Q3079291,Q6581097,1986-05-06T00:00:00Z,7,Francisco Massinga,Francisco Massinga,Mozambican footballer,Q1029,Q3889
+Q30935108,Q6581072,1987-05-31T00:00:00Z,13,Hirondina Joshua,Hirondina Joshua,Mozambican poet,Q1029,Q3889
+Q30939259,Q6581097,1984-05-06T00:00:00Z,3,Azagaia,Azagaia,Mozambican hip-hop vocalist,Q1029,Q3233176
+Q3129584,Q6581097,1987-09-20T00:00:00Z,7,Hélder Pelembe,Hélder Pelembe,Mozambican footballer,Q1029,Q323801
+Q31551036,Q6581097,1973-08-11T00:00:00Z,3,Sérgio Lomba,Sérgio Lomba,Mozambican association football player,Q1029,Q211563
+Q3177501,Q6581097,1990-11-23T00:00:00Z,4,Jerry Sitoe,Jerry Sitoe,Mozambican footballer,Q1029,Q3889
+Q3183084,Q6581097,1970-09-06T00:00:00Z,6,Jojó,Jojó Fernandes,Mozambican association football player (b. 1970),Q1029,Q1029
+Q3245446,Q6581097,1924-02-15T00:00:00Z,10,Ricardo Rangel (photojournalist),Ricardo Rangel,Mozambican photojournalist (1924–2009),Q1029,Q3889
+Q3298001,Q6581072,1979-05-06T00:00:00Z,7,Neyma,Neyma,Mozambican musician,Q1029,Q3889
+Q3298231,Q6581072,1978-04-14T00:00:00Z,4,Leonor Piuza,Leonor Piuza,Mozambican athlete,Q1029,
+Q3319731,Q6581097,1985-05-29T00:00:00Z,7,Momed Hagi,Momed Hagy,Mozambican association football player,Q1029,Q1029
+Q3319731,Q6581097,1985-05-29T00:00:00Z,7,Momed Hagi,Momed Hagy,Mozambican association football player,Q1029,Q3889
+Q33805154,Q6581097,1998-03-07T00:00:00Z,2,Denilson da Costa,Denilson da Costa,Mozambican swimmer,Q1029,Q3889
+Q34282,Q6581097,1961-07-04T00:00:00Z,22,Alberto Vaquina,Alberto Vaquina,Mozambique politician,Q1029,Q3556032
+Q34981941,Q6581097,1955-06-06T00:00:00Z,3,Jaime Rodrigues,Jaime Rodrigues,Mozambican sprinter,Q1029,
+Q35462825,Q6581097,1996-02-08T00:00:00Z,3,Creve Armando Machava,Creve Armando Machava,Mozambican hurdler,Q1029,Q3889
+Q357430,Q6581097,1955-12-06T00:00:00Z,24,Aires Ali,Aires Ali,Mozambican politician and Prime-Minister of Mozambique (2010–2012),Q1029,Q10367636
+Q3574625,Q6581097,1988-06-24T00:00:00Z,10,Zainadine Júnior,Zainadine Júnior,Mozambican footballer,Q1029,Q3889
+Q3642716,Q6581097,1918-01-14T00:00:00Z,11,Dimitri Tsafendas,Dimitri Tsafendas,Assassin of South African Prime Minister Hendrik Verwoerd (1918–1999),Q1029,Q3889
+Q3679139,Q6581072,1976-10-04T00:00:00Z,10,Clarisse Machanguana,Clarisse Machanguana,Mozambican Basketball player,Q1029,Q3889
+Q3719817,Q6581097,1985-06-06T00:00:00Z,6,Eduardo Jumisse,Eduardo Jumisse,football player,Q1029,Q3889
+Q3719817,Q6581097,1984-06-06T00:00:00Z,6,Eduardo Jumisse,Eduardo Jumisse,football player,Q1029,Q3889
+Q3756471,Q6581097,1944-01-01T00:00:00Z,4,Gabriel Monjane,Gabriel Estêvão Monjane,Mozambique giant (1944–1990),Q1029,Q3492539
+Q3810727,Q6581097,1955-01-01T00:00:00Z,13,João Paulo Borges Coelho,João Paulo Borges Coelho,Mozambican historian and writer,Q1029,Q36433
+Q382101,Q6581097,1955-07-05T00:00:00Z,36,Mia Couto,Mia Couto,Mozambican writer,Q1029,Q211563
+Q383419,Q6581097,1953-01-01T00:00:00Z,23,Afonso Dhlakama,Afonso Dhlakama,Mozambican politician (1953-2018),Q1029,Q5095317
+Q3840972,Q6581097,1989-05-28T00:00:00Z,7,"Zé Luís (footballer, born 1989)",Zé Luís,Mozambican footballer,Q1029,Q3889
+Q384560,Q6581097,1936-06-06T00:00:00Z,18,Malangatana Ngwenya,Malangatana Ngwenya,Mozambican artist (1936-2011),Q1029,Q6484180
+Q3959898,Q6581097,1953-08-03T00:00:00Z,15,Shéu,Shéu,Portuguese footballer,Q45,Q6033695
+Q3959898,Q6581097,1953-08-03T00:00:00Z,15,Shéu,Shéu,Portuguese footballer,Q1029,Q6033695
+Q39644387,Q6581097,1976-01-26T00:00:00Z,3,Jossias Macamo,Jossias Macamo,association football player,Q1029,Q1029
+Q40628497,Q6581072,1924-07-11T00:00:00Z,13,Bertina Lopes,Bertina Lopes,Mozambican painter and sculptor (1924–2012),Q1029,Q3889
+Q40628497,Q6581072,1924-07-11T00:00:00Z,13,Bertina Lopes,Bertina Lopes,Mozambican painter and sculptor (1924–2012),Q38,Q3889
+Q41449387,Q6581097,1948-12-08T00:00:00Z,3,Abdul Ismail (athlete),Abdul Ismail,Mozambican athletics competitor,Q1029,
+Q42304394,Q6581097,1982-09-09T00:00:00Z,2,Jorge Duvane,Jorge Duvane,Mozambican athlete,Q1029,
+Q42890119,Q6581097,1954-01-01T00:00:00Z,2,Pedro Mulomo,Pedro Mulomo,Mozambican long-distance runner,Q1029,
+Q42897817,Q6581072,1955-01-14T00:00:00Z,13,Isabel Casimiro,Isabel Casimiro,Mozambican sociologist,Q1029,Q622794
+Q42938967,Q6581072,1993-01-31T00:00:00Z,3,Maria Machongua,Maria Machongua,Mozambican boxer,Q1029,Q3889
+Q4297415,Q6581097,1983-12-05T00:00:00Z,3,Samir Adam,Samir Adam,Mozambique basketball player,Q1029,
+Q431989,Q6581072,1926-09-20T00:00:00Z,17,Noémia de Sousa,Noémia de Sousa,Mozambican poet and journalist (1926–2002),Q1029,Q18571930
+Q433374,Q6581072,1935-03-19T00:00:00Z,10,Lília Momplé,Lília Momplé,Mozambican writer,Q1029,Q331099
+Q4412825,Q6581072,1973-07-07T00:00:00Z,7,Tina Paulino,Tina Paulino,Mozambican athletics competitor (born 1973),Q1029,Q456577
+Q44275924,Q6581097,1949-11-06T00:00:00Z,20,Adriano Maleiane,Adriano Maleiane,Former prime Minister of Mozambique,Q1029,Q112253420
+Q46022514,Q6581097,1950-03-03T00:00:00Z,5,Stelio Craveirinha,Stelio Craveirinha,Mozambican athlete,Q1029,
+Q46824997,Q6581097,1966-09-12T00:00:00Z,2,Paulo Noronha,Paulo Noronha,Mozambican athletics competitor,Q1029,
+Q4711973,Q6581097,1939-10-10T00:00:00Z,5,Alberto Chipande,Alberto Chipande,Mozambican politician,Q1029,Q2444671
+Q4711977,Q6581097,1935-01-25T00:00:00Z,7,Alberto Chissano,Alberto Chissano,Mozambican sculptor (1935–1994),Q1029,Q3492539
+Q4713122,Q6581097,1958-05-31T00:00:00Z,1,Alcido Nguenha,Alcido Nguenha,Mozambican politician,Q1029,
+Q47349292,Q6581072,1955-01-01T00:00:00Z,4,Ludovina de Oliveira,Ludovina de Oliveira,Mozambican athlete,Q1029,
+Q4739019,Q6581097,1954-01-01T00:00:00Z,7,Amade Camal,Amade Camal,Mozambican politician,Q1029,
+Q47492973,Q6581097,2001-01-31T00:00:00Z,2,Nelson Nhamussua,Nelson Nhamussua,Mozambican basketball player (born 2001),Q1029,Q3889
+Q47492987,Q6581072,1997-06-22T00:00:00Z,2,Neidy Ocuane,Neidy Ocuane,Mozambican basketball player (born 1997),Q1029,Q3889
+Q4767943,Q6581097,1976-01-01T00:00:00Z,4,Annanias Mathe,Annanias Mathe,Mozambican serial killer,Q1029,
+Q4794437,Q6581097,1969-12-22T00:00:00Z,3,Arnaldo Ouana,Arnaldo Ouana,Mozambican footballer,Q1029,Q1029
+Q4867439,Q6581097,1979-09-28T00:00:00Z,2,Basilio Muhate,Basilio Muhate,Mozambican politician,Q1029,
+Q4891244,Q6581097,1926-03-05T00:00:00Z,11,Uria Simango,Uria Simango,Mozambican politician,Q1029,Q622801
+Q5024,Q6581097,1972-11-30T00:00:00Z,35,Abel Xavier,Abel Xavier,Portuguese-Mozambican association football player,Q45,Q323801
+Q5024,Q6581097,1972-11-30T00:00:00Z,35,Abel Xavier,Abel Xavier,Portuguese-Mozambican association football player,Q1029,Q323801
+Q5028423,Q6581097,1982-04-09T00:00:00Z,8,Campira,Campira,Mozambican footballer,Q1029,Q211563
+Q50378107,Q6581072,1934-01-01T00:00:00Z,2,Ruth Garcês,Ruth Garcês,Portuguese-Mozambican lawyer,Q1029,Q3889
+Q5041940,Q6581097,1984-04-04T00:00:00Z,4,Carlos Chimomole,Carlos Chimomole,Mozambican footballer,Q1029,
+Q5064806,Q6581097,1963-01-01T00:00:00Z,1,Helder Diegues Cerqueira de Souza,Cerqueira de Souza,Mozambique writer,Q1029,
+Q5068450,Q6581097,1990-03-18T00:00:00Z,7,Chakyl Camal,Chakyl Camal,Mozambican swimmer,Q1029,Q3904
+Q5096432,Q6581097,1969-01-01T00:00:00Z,1,Chico Mapenda,Chico Mapenda,Mozambican Mormon leader,Q1029,
+Q510568,Q6581097,1939-10-10T00:00:00Z,26,Afric Simone,Afric Simone,"Mozambican vocalist, musician, performance artist, multi-instrumentalist, dancer and entertainer",Q1029,Q456577
+Q51883265,Q6581072,1977-02-08T00:00:00Z,5,Ana Flávia Azinheira,Ana Flávia Azinheira,Mozambican politician,Q1029,Q3889
+Q51883311,Q6581072,1949-08-25T00:00:00Z,4,Zena Bacar,Zena Bacar,"Mozambican singer, a pioneer in popular music in her country. (25 August 1949 - 24 December 2017)",Q1029,Q323801
+Q51954416,Q6581097,1993-05-03T00:00:00Z,1,Ludovico Corsini,Ludovico Corsini,Mozambican swimmer,Q1029,Q490
+Q5196345,Q6581097,1982-05-06T00:00:00Z,2,Custódio Muchate,Custodio Muchate,Mozambican basketball player (born 1982),Q1029,Q3889
+Q5219883,Q6581097,1983-06-05T00:00:00Z,5,Danito Parruque,Danito Parruque,Mozambican footballer,Q1029,Q3889
+Q5243706,Q6581097,1965-12-26T00:00:00Z,2,Daúto Faquirá,Daúto Faquirá,Mozambican football player/manager,Q1029,Q456577
+Q5278340,Q6581097,1946-03-05T00:00:00Z,2,Dinis Sengulane,Dinis Sengulane,"Bishop of Lebombo, Maputo, Mozambique",Q1029,
+Q5340323,Q6581097,1985-05-18T00:00:00Z,5,Edson Madeira,Edson Madeira,Olympic judoka,Q1029,
+Q534319,Q6581097,1953-03-26T00:00:00Z,8,Luís Carlos Patraquim,Luís Carlos Patraquim,"Mozambican writer, poet, journalist",Q1029,Q3889
+Q5398929,Q6581072,1956-08-01T00:00:00Z,10,Esperança Machavela,Esperança Machavela,Mozambican politician,Q1029,Q166838
+Q5398931,Q6581072,1958-07-28T00:00:00Z,10,Esperança Bias,Esperança Bias,Mozambican politician,Q1029,Q331099
+Q54158474,Q6581097,1952-11-11T00:00:00Z,2,Paulus Gerdes,Paulus Gerdes,Dutch mathematician,Q29999,Q55
+Q54158474,Q6581097,1952-11-11T00:00:00Z,2,Paulus Gerdes,Paulus Gerdes,Dutch mathematician,Q1029,Q55
+Q5434415,Q6581097,1982-12-19T00:00:00Z,6,Fanuel Massingue,Fanuel Massingue,Mozambican footballer,Q1029,Q3889
+Q5444804,Q6581097,1985-08-11T00:00:00Z,2,Fernando Mandlate,Fernando Mandlate,Mozambican basketball player (born 1985),Q1029,
+Q5448556,Q6581097,1959-02-09T00:00:00Z,57,Filipe Nyusi,Filipe Nyusi,"President of Mozambique, 2015-2025",Q1029,Q2444671
+Q546787,Q6581097,1924-03-18T00:00:00Z,25,Alexandre José Maria dos Santos,Alexandre José Maria dos Santos,Catholic cardinal (1924–2021),Q1029,Q166838
+Q5483968,Q6581097,1954-01-01T00:00:00Z,2,Francisco Songane,Francisco Songane,Mozambican politician,Q1029,Q118236053
+Q55106039,Q6581097,1961-01-30T00:00:00Z,7,Ossufo Momade,Ossufo Momade,Mozambican general and politician (RENAMO),Q1029,Q331099
+Q5515729,Q6581097,1981-02-04T00:00:00Z,3,Gabito,Gabriel Macuvele,Mozambican footballer,Q1029,Q3889
+Q55237841,Q6581097,1933-09-24T00:00:00Z,3,Rui Baltazar,Rui Baltazar,"Mozambican politician, diplomat and lawyer",Q1029,Q3889
+Q5553148,Q6581097,1979-09-12T00:00:00Z,1,Gerson Novela,Gerson Novela,Mozambique basketball player,Q1029,Q3889
+Q55767739,Q6581072,1948-12-18T00:00:00Z,2,Gita Honwana-Welch,Gita Honwana-Welch,Mozambican jurist,Q1029,
+Q563131,Q6581097,1922-05-28T00:00:00Z,22,José Craveirinha,José Craveirinha,Mozambican poet (1922-2003),Q1029,Q3889
+Q57392,Q6581097,1943-01-20T00:00:00Z,45,Armando Guebuza,Armando Guebuza,3rd President of Mozambique,Q1029,Q6436054
+Q58223,Q6581097,1955-04-09T00:00:00Z,12,Oldemiro Balói,Oldemiro Balói,Mozambican politician (1955–2021),Q1029,Q3889
+Q59519622,Q6581097,1968-03-20T00:00:00Z,7,António Juliasse Ferreira Sandramo,António Juliasse Ferreira Sandramo,Roman Catholic bishop,Q1029,
+Q5964166,Q6581097,1976-09-28T00:00:00Z,5,Hélder Muianga,Hélder Muianga,Mozambican footballer,Q1029,Q3889
+Q60676098,Q6581097,1966-03-22T00:00:00Z,3,Lucas Sinoia,Lucas Sinoia,Mozambican boxer,Q1029,
+Q60676557,Q6581097,1964-11-30T00:00:00Z,2,Alberto Machaze,Alberto Machaze,Mozambican boxer,Q1029,
+Q60676691,Q6581097,1962-10-13T00:00:00Z,2,Archer Fausto,Archer Fausto,Mozambican boxer,Q1029,
+Q60870405,Q6581097,1999-11-12T00:00:00Z,16,Alfons Amade,Alfons Amade,football player,Q1029,Q2966
+Q60870405,Q6581097,1999-11-12T00:00:00Z,16,Alfons Amade,Alfons Amade,football player,Q183,Q2966
+Q6153514,Q6581072,1934-05-07T00:00:00Z,9,Janet Mondlane,Janet Mondlane,U.S.-born Mozambican politician,Q1029,Q1007011
+Q6153514,Q6581072,1934-05-07T00:00:00Z,9,Janet Mondlane,Janet Mondlane,U.S.-born Mozambican politician,Q30,Q1007011
+Q61641260,Q6581097,1953-01-01T00:00:00Z,4,Sol de Carvalho,Sol de Carvalho,"Mozambican journalist, filmmaker and director",Q1029,Q211563
+Q61645369,Q6581097,1998-10-10T00:00:00Z,10,Diogo Calila,Diogo Calila,Portuguese footballer,Q1029,Q990448
+Q61645369,Q6581097,1998-10-10T00:00:00Z,10,Diogo Calila,Diogo Calila,Portuguese footballer,Q45,Q990448
+Q617503,Q6581097,1979-03-03T00:00:00Z,14,Genito,Eugénio Fernando Bila,Mozambican footballer,Q1029,Q3889
+Q6181028,Q6581097,1972-03-19T00:00:00Z,4,Jeremias Nguenha,Jeremias Nguenha,Mozambican musicians (1972–2007),Q1029,Q456577
+Q6187516,Q6581072,1991-11-13T00:00:00Z,4,Jessica Teixeira Vieira,Jessica Teixeira Vieira,Mozambican swimmer,Q1029,
+Q62060804,Q6581097,1966-02-15T00:00:00Z,4,Daniel David (media entrepreneur),Daniel David,Mozambican businessman,Q1029,Q3889
+Q62060804,Q6581097,1966-02-15T00:00:00Z,4,Daniel David (media entrepreneur),Daniel David,Mozambican businessman,Q3889,Q3889
+Q62429926,Q6581072,1982-03-25T00:00:00Z,2,Odete Muximpua,Odete Muximpua,Mozambican engineer,Q1029,Q318306
+Q6291941,Q6581097,1958-04-10T00:00:00Z,10,José Condungua Pacheco,José Condungua Pacheco,Mozambican politician (FRELIMO) and agro-economist,Q1029,Q5003461
+Q6292485,Q6581097,1947-09-16T00:00:00Z,5,José Ibraimo Abudo,José Ibraimo Abudo,Mozambican politician,Q1029,
+Q6321710,Q6581097,1946-06-26T00:00:00Z,1,Júlio Eduardo Zamith Carrilho,Júlio Eduardo Zamith Carrilho,Mozambican politician,Q1029,Q498048
+Q63431954,Q6581072,1962-01-01T00:00:00Z,7,Isaura Nyusi,Isaura Nyusi,Mozambican civil servant,Q1029,Q388242
+Q64691576,Q6581097,1950-01-01T00:00:00Z,2,João Paraskeva,João Menelau Paraskeva,Mozambican academic,Q1029,
+Q6482769,Q6581097,1985-01-15T00:00:00Z,6,"Lamá (footballer, born 1985)",Lamá,Mozambican footballer,Q1029,Q1029
+Q6526096,Q6581097,1953-06-05T00:00:00Z,5,Leonardo Simão,Leonardo Simão,Mozambican politician,Q1029,
+Q6543659,Q6581072,1961-03-13T00:00:00Z,12,Lidia Brito,Lidia Brito,Mozambiquan forestry expert and engineer,Q1029,Q466538
+Q6550178,Q6581072,1945-02-21T00:00:00Z,12,Lina Magaia,Lina Magaia,Mozambican writer,Q1029,Q3889
+Q65924716,Q6581097,1995-10-11T00:00:00Z,8,David Malembana,David Malembana,German-born Mozambican footballer,Q1029,Q5870
+Q65936325,Q6581097,1966-06-24T00:00:00Z,2,Victor Matine,Victor Matine,Mozambican teacher and football manager,Q1029,Q3889
+Q65952280,Q6581097,1970-03-20T00:00:00Z,3,Danito Nhampossa,Danito Nhampossa,Mozambican coach and former footballer,Q1029,Q3889
+Q66482531,Q6581072,1994-06-19T00:00:00Z,5,Tamara Seda,Tamara Seda,Mozambican basketball player (born 1994),Q1029,Q3889
+Q66482531,Q6581072,1994-06-18T00:00:00Z,5,Tamara Seda,Tamara Seda,Mozambican basketball player (born 1994),Q1029,Q3889
+Q66483699,Q6581072,1998-03-27T00:00:00Z,3,Delma Zita,Delma Zita,Mozambican basketball player (born 1998),Q1029,Q3889
+Q66493895,Q6581072,1992-09-12T00:00:00Z,3,Ingvild Mucauro,Ingvild Mucauro,Mozambican basketball player (born 1992),Q1029,Q638509
+Q6660621,Q6581072,1982-12-12T00:00:00Z,6,Lizha James,Lizha James,Mozambican singer,Q1029,Q3889
+Q66712549,Q6581097,1988-08-20T00:00:00Z,4,Dayo António,Dayo António,Mozambican association football player,Q1029,Q1241126
+Q6696217,Q6581097,1960-07-02T00:00:00Z,3,Lucas Macie,Lucas Macie,painter,Q1029,Q3889
+Q6722500,Q6581097,1974-09-07T00:00:00Z,2,Macamito,Macamito,Mozambican footballer,Q1029,
+Q6722501,Q6581072,1957-11-13T00:00:00Z,17,Verónica Macamo,Verónica Macamo,Mozambican politician,Q1029,Q4907688
+Q6749786,Q6581097,1991-03-30T00:00:00Z,4,Maninho,Maninho,Mozambican footballer,Q1029,
+Q6752965,Q6581097,1970-10-11T00:00:00Z,6,Manuel de Araújo,Manuel de Araújo,Mozambican politician,Q1029,Q318306
+Q6760997,Q6581072,1953-04-18T00:00:00Z,8,Maria Angelina Dique Enoque,Maria Angelina Dique Enoque,Mozambican politician,Q1029,Q6749480
+Q6761049,Q6581072,1969-03-24T00:00:00Z,18,Maria Benvinda Levy,Maria Benvinda Levy,Prime Minister of Mozambique,Q1029,Q49106338
+Q6762420,Q6581097,1937-09-29T00:00:00Z,3,Mariano de Araújo Matsinhe,Mariano de Araújo Matsinhe,Mozambican politician,Q1029,Q605787
+Q6764547,Q6581097,1940-01-01T00:00:00Z,8,Mario Azevedo,Mario Azevedo,Mozambican historian,Q1029,
+Q67671549,Q6581097,2001-01-26T00:00:00Z,18,Geny Catamo,Geny Catamo,Mozambican footballer,Q1029,Q211563
+Q6771913,Q6581097,1982-07-09T00:00:00Z,8,Marlon Acácio,Marlon August,Olympic judoka,Q258,Q34647
+Q6771913,Q6581097,1982-07-09T00:00:00Z,8,Marlon Acácio,Marlon August,Olympic judoka,Q1029,Q34647
+Q6794007,Q6581097,1983-09-27T00:00:00Z,3,Maurício Pequenino,Maurício Pequenino,Mozambican footballer,Q1029,Q3889
+Q6844573,Q6581097,1971-10-28T00:00:00Z,3,Miguel Gaudêncio,Miguel Gaudêncio,film director,Q1029,Q1029
+Q6911274,Q6581097,1977-02-13T00:00:00Z,2,Moreira Chonguiça,Moreira Chonguica,Mozambican musician,Q1029,
+Q703613,Q6581097,1988-07-23T00:00:00Z,33,Simão Mate Junior,Simão Mate Junior,Mozambican association football player,Q1029,Q2306773
+Q703613,Q6581097,1988-06-23T00:00:00Z,33,Simão Mate Junior,Simão Mate Junior,Mozambican association football player,Q1029,Q2306773
+Q7076812,Q6581097,1984-10-04T00:00:00Z,3,Octávio Magoliço,Octavio Magolico,Mozambican basketball player (born 1984),Q1029,Q3889
+Q71522566,Q6581097,2000-05-25T00:00:00Z,3,Erico Cuna,Erico Cuna,Mozambican swimmer,Q1029,Q3889
+Q7155153,Q6581097,1976-11-22T00:00:00Z,3,Paulito,Paulito,Mozambican footballer,Q1029,Q1029
+Q7155153,Q6581097,1976-09-03T00:00:00Z,3,Paulito,Paulito,Mozambican footballer,Q1029,Q1029
+Q7155325,Q6581097,1955-04-15T00:00:00Z,2,Paulo Zucula,Paulo Zucula,Mozambican politician,Q1029,Q6484234
+Q7160001,Q6581097,1962-01-26T00:00:00Z,7,Pedro Xavier,Pedro Xavier,Portuguese footballer,Q1029,Q3889
+Q7160001,Q6581097,1962-01-26T00:00:00Z,7,Pedro Xavier,Pedro Xavier,Portuguese footballer,Q45,Q3889
+Q7359595,Q6581097,1972-04-01T00:00:00Z,6,Rogério Manjate,Rogério Manjate,actor and filmmaker,Q1029,Q3889
+Q73922830,Q6581097,1991-08-21T00:00:00Z,3,Manuel Kambala,Manuel Kambala,Mozambican football player,Q1029,Q318306
+Q73922870,Q6581097,1995-07-29T00:00:00Z,2,Pascoal Amorim,Pascoal Amorim,Mozambican football player,Q1029,Q211563
+Q7456383,Q6581097,1979-07-16T00:00:00Z,1,Sete Muianga,Sete Muianga,Mozambican basketball player (born 1979),Q1029,
+Q7517024,Q6581072,1993-02-16T00:00:00Z,7,Silvia Panguana,Silvia Panguana,Mozambican hurdler,Q1029,Q3889
+Q7615959,Q6581097,1963-01-01T00:00:00Z,4,Stewart Sukuma,Stewart Sukuma,Mozambican singer,Q1029,
+Q7701012,Q6581097,1946-01-01T00:00:00Z,3,Teodato Hunguana,Teodato Hunguana,Mozambican politician,Q1029,Q3889
+Q7811637,Q6581097,1950-11-25T00:00:00Z,2,Tobias Joaquim Dai,Tobias Joaquim Dai,Mozambican politician,Q1029,
+Q7820477,Q6581097,1973-01-13T00:00:00Z,7,Tomás Inguana,Tomás Inguana,Mozambican footballer,Q1029,Q3889
+Q7976922,Q6581097,1948-11-11T00:00:00Z,4,Wazimbo,Wazimbo,Mozambican singer,Q1029,Q1011972
+Q8044456,Q6581072,1989-09-09T00:00:00Z,5,Ximene Gomes,Ximene Gomes,Mozambican swimmer,Q1029,Q3889
+Q80545925,Q6581097,2002-02-21T00:00:00Z,1,Bruno Nhavene,Bruno Nhavene,Mozambican tennis player,Q1029,
+Q822987,Q6581097,1939-01-21T00:00:00Z,8,Bernardo Filipe Governo,Bernardo Filipe Governo,Mozambican Roman Catholic bishop (1939–2013),Q1029,Q1029
+Q82324015,Q6581097,1998-11-10T00:00:00Z,1,Jeremias Manjate,Jeremias Manjate,Mozambican basketball player (born 1998),Q1029,Q3889
+Q83161011,Q6581097,1999-07-19T00:00:00Z,3,Kamo-Kamo,Kamo-Kamo,Mozambican footballer,Q1029,Q3889
+Q85016758,Q6581097,1997-10-31T00:00:00Z,14,Bruno Langa,Bruno Langa,Mozambican footballer,Q1029,Q3889
+Q86676175,Q6581072,1959-01-01T00:00:00Z,5,Solange Macamo,Solange Macamo,Mozambiquan archaeologist & former Director of Cultural Heritage & Tourism,Q1029,
+Q87492021,Q6581097,1970-11-06T00:00:00Z,2,José Mossiane,José Mossiane,Mozambican swimmer,Q1029,
+Q87721038,Q6581072,1976-08-07T00:00:00Z,3,Mariza Gregorio,Mariza Gregorio,Mozambican swimmer,Q1029,
+Q88389312,Q6581072,1945-01-01T00:00:00Z,9,Reinata Sadimba,Reinata Sadimba,Mozambican ceramicist (born 1945),Q1029,Q1807961
+Q88463535,Q6581097,1978-01-01T00:00:00Z,3,Leandro Jorge,Leandro Jorge,Mozambican swimmer,Q1029,
+Q88473923,Q6581097,1955-08-22T00:00:00Z,7,Manuel Chang,Manuel Chang,politician in Mozambique,Q1029,Q466526
+Q9154353,Q6581097,1958-02-19T00:00:00Z,4,André Titos,André Titos,Mozambican athletics competitor,Q1029,
+Q9171816,Q6581072,1942-05-14T00:00:00Z,5,Binta Jambane,Binta Jambane,Mozambican athletics competitor,Q1029,
+Q9207031,Q6581097,2000-01-01T00:00:00Z,2,Dias Alface,Dias Alface,Mozambican athlete,Q1029,
+Q9209726,Q6581097,1966-05-12T00:00:00Z,3,Domingos Chivavele,Domingos Chivavele,Mozambican swimmer,Q1029,
+Q923175,Q6581097,1967-02-26T00:00:00Z,8,Nelson Saúte,Nelson Saúte,Mozambican writer,Q1029,Q3889
+Q9250648,Q6581097,1954-07-24T00:00:00Z,2,Eduardo Costa (athlete),Eduardo Costa,Mozambican sprinter,Q1029,
+Q9253354,Q6581097,1967-09-11T00:00:00Z,7,Emanuel Matola,Emanuel Matola,Mozambican association football player,Q1029,Q1029
+Q9287803,Q6581097,1960-09-21T00:00:00Z,5,Henrique Ferreira,Henrique Ferreira,Mozambican sprinter,Q1029,
+Q9287803,Q6581097,1960-11-16T00:00:00Z,5,Henrique Ferreira,Henrique Ferreira,Mozambican sprinter,Q1029,
+Q9323931,Q6581097,1970-08-11T00:00:00Z,6,Rui Evora Alves,Rui Evora Alves,Mozambican association football player,Q1029,Q1029
+Q9352822,Q6581097,1970-04-26T00:00:00Z,4,Sérgio Faife,Sérgio Faife Matsolo,Mozambican association football player,Q1029,Q3889
+Q9368583,Q6581097,1956-05-23T00:00:00Z,5,Vicente Daniel,Vicente Daniel,Mozambican sprinter,Q1029,
+Q937371,Q6581097,1916-08-04T00:00:00Z,11,Orlando Mendes,Orlando Mendes,Mozambican writer and botanist (1916–1990),Q1029,Q331099
+Q948295,Q6581097,1964-02-07T00:00:00Z,12,Daviz Simango,Daviz Simango,Mozambican politician (1964–2021),Q1029,Q431731
+Q94839123,Q6581072,1997-01-15T00:00:00Z,2,Mércia Viriato Licá,Mércia Viriato Licá,Mozambican lawyer and politician,Q1029,Q5668856
+Q952238,Q6581097,1963-11-21T00:00:00Z,9,Eduardo White,Eduardo White,Mozambican writer (1963–2014),Q1029,Q318306
+Q9594344,Q6581097,1966-01-01T00:00:00Z,3,Alberto Magassela,Alberto Magassela,Mozambican actor,Q1029,Q3889
+Q9594372,Q6581097,1930-02-09T00:00:00Z,3,Alberto Massavanhane,Alberto Massavanhane,Mozambican politician and diplomat (1930-1993),Q1029,Q318299
+Q96195503,Q6581072,1952-01-01T00:00:00Z,6,Paulina Mateus Nkunda,Paulina Mateus Nkunda,"Soldier, activist, politician",Q1029,Q2444727
+Q96505937,Q6581072,1962-01-01T00:00:00Z,3,Alcinda Honwana,Alcinda Honwana,Mozambican anthropologist,Q1029,Q889394
+Q9674168,Q6581097,1945-10-20T00:00:00Z,7,Calane da Silva,Calane da Silva,Mozambican writer and journalist,Q1029,Q3889
+Q968260,Q6581097,1951-08-10T00:00:00Z,12,Carlos Cardoso (journalist),Carlos Cardoso,Mozambican journalist (1951-2000),Q1029,Q211563
+Q968908,Q6581097,1956-08-16T00:00:00Z,5,Lionel Bastos,Lionel Bastos,Mozambican musician,Q1029,Q3889
+Q97034511,Q6581072,1977-05-12T00:00:00Z,2,Stella da Graça Pinto Novo Zeca,Stella Pinto Novo Zeca,Mozambican politician and diplomat,Q1029,Q5004844
+Q97058466,Q6581097,1977-01-06T00:00:00Z,26,Daniel Chapo,Daniel Chapo,President of Mozambique since 2025,Q1029,Q928765
+Q97120115,Q6581072,1972-10-22T00:00:00Z,1,Cidália Chaúque Oliveira,Cidália Manuel Chaúque,Mozambican politician,Q1029,Q466547
+Q97608419,Q6581097,1996-11-29T00:00:00Z,3,Júlio Franque,Júlio Franque,Mozambican footballer,Q1029,Q3889
+Q97608441,Q6581097,1998-10-08T00:00:00Z,4,Víctor Guambe,Víctor Guambe,Mozambican footballer,Q1029,Q3889
+Q97608534,Q6581097,1992-06-03T00:00:00Z,2,José Guirrugo,José Guirrugo,Mozambican footballer,Q1029,Q3889
+Q97609598,Q6581097,1991-11-05T00:00:00Z,1,Francisco Muchanga,Francisco Muchanga,Mozambican footballer,Q1029,Q211563
+Q97627619,Q6581097,1989-06-27T00:00:00Z,2,Isac de Carvalho,Isac Carvalho,Mozambican footballer,Q1029,Q3889
+Q97627854,Q6581097,1996-02-08T00:00:00Z,5,Nanani,Nanani,Mozambican footballer,Q1029,Q109949
+Q97655773,Q6581097,1993-10-24T00:00:00Z,1,Sidique Mussagi,Sidique Mussagi,Mozambican footballer,Q1029,Q3889
+Q97655842,Q6581097,1995-10-02T00:00:00Z,2,Salomão Mondlane,Salomão Mondlane,Mozambican footballer,Q1029,Q3889
+Q97656976,Q6581097,1996-11-15T00:00:00Z,6,"Nené (footballer, born 1996)",Nené,Mozambican footballer (born 1996),Q1029,Q638509
+Q98106043,Q6581072,2002-05-28T00:00:00Z,1,Domingas Munhemeze,Domingas Munhemeze,Mozambican swimmer,Q1029,
+Q98465766,Q6581097,1997-09-13T00:00:00Z,2,Kendal Manuel,Kendal Manuel,American basketball player,Q1029,Q166304
+Q98465766,Q6581097,1997-09-13T00:00:00Z,2,Kendal Manuel,Kendal Manuel,American basketball player,Q30,Q166304
+Q98967451,Q6581072,1968-01-01T00:00:00Z,6,Maria da Graça Samo,Graça Samo,activist for women rights,Q1029,Q456577
+Q99930193,Q6581097,1984-01-27T00:00:00Z,1,Julinho Mboane,Julinho Mboane,Mozambican footballer,Q1029,

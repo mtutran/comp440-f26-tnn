@@ -1,0 +1,881 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q100137736,Q6581097,1982-01-01T00:00:00Z,2,Elia Tuqiri,Elia Tuqiri,Australian rugby league player,Q712,
+Q100145545,Q6581097,1994-03-01T00:00:00Z,4,Adrea Cocagi,Adrea Cocagi,Fijian rugby union player,Q712,Q712
+Q100605048,Q6581097,1994-03-24T00:00:00Z,2,Poasa Waqanibau,Poasa Waqanibau,Fijian rugby union player,Q712,
+Q101413418,Q6581072,1997-12-31T00:00:00Z,2,Aliti Namoce,Aliti Namoce,Fijian rugby union player,Q712,Q712
+Q101437795,Q6581097,1990-04-29T00:00:00Z,3,Serupepeli Vularika,Serupepeli Vularika,Fijian rugby union player,Q712,Q1365257
+Q101853091,Q6581097,1992-02-06T00:00:00Z,3,John Dyer (rugby union),Johnny Dyer,Fijian rugby union player,Q712,
+Q102011629,Q6581097,1996-04-27T00:00:00Z,5,Kitione Kamikamica,Kitione Kamikamica,Fijian rugby union player,Q712,Q712
+Q10388328,Q6581097,1948-09-20T00:00:00Z,4,Usaia Sotutu,Usaia Sotutu,Fijian athlete,Q712,
+Q10388328,Q6581097,1947-09-20T00:00:00Z,4,Usaia Sotutu,Usaia Sotutu,Fijian athlete,Q712,
+Q10397303,Q6581097,1974-08-18T00:00:00Z,5,Manoa Masi,Manoa Masi,Fijian footballer,Q712,Q712
+Q104037625,Q6581097,1997-11-09T00:00:00Z,3,Temo Mayanavanua,Temo Mayanavanua,Fijian rugby union player,Q712,
+Q104141417,Q6581097,1943-01-01T00:00:00Z,1,Subramani,Subramani,"Fijian author, essayist, and literary critic",Q712,Q579556
+Q104839836,Q6581097,1961-04-03T00:00:00Z,1,Rajesh Patel,Rajesh Patel,Fijian association football official (born 1961),Q712,Q712
+Q105121902,Q6581097,1996-09-11T00:00:00Z,3,Samu Tawake,Samu Tawake,Fijian rugby union player,Q712,Q26692
+Q105167516,Q6581097,1993-02-14T00:00:00Z,1,Apenisa Cakaubalavu,Apenisa Cakaubalavu,Fijian rugby union player,Q712,
+Q105337085,Q6581097,1999-06-14T00:00:00Z,4,Dan Hall (soccer),Daniel Hall,Australian soccer player,Q712,Q3141
+Q105337085,Q6581097,1999-06-14T00:00:00Z,4,Dan Hall (soccer),Daniel Hall,Australian soccer player,Q408,Q3141
+Q10545520,Q6581097,1972-04-16T00:00:00Z,4,Lagi Dyer,Lagi Dyer,Fijian footballer,Q712,
+Q105581833,Q6581097,1999-09-13T00:00:00Z,3,Ilaisa Droasese,Ilaisa Droasese,Fijian rugby union player,Q712,Q952528
+Q105609723,Q6581072,1941-08-07T00:00:00Z,2,Amelia Rokotuivuna,Amelia Rokotuivuna,Fijian activist (1941-2005),Q712,Q137608766
+Q107020461,Q6581072,1950-01-23T00:00:00Z,1,Doreen O'Connor,Doreen O'Connor,Fijian lawn bowler,Q712,Q856662
+Q107060644,Q6581097,1941-01-01T00:00:00Z,1,Peter Fong,Peter Fong,Fijian lawn bowler,Q712,
+Q107204326,Q6581097,1998-11-03T00:00:00Z,2,Ilikena Vudogo,Ilikena Vudogo,Fijian rugby union player,Q712,
+Q107227322,Q6581097,1995-04-12T00:00:00Z,2,Jowasa Drodrolagi,Jowasa Drodrolagi,Fiji international rugby league footballer,Q712,
+Q107254866,Q6581097,1997-01-23T00:00:00Z,3,Eneriko Buliruarua,Eneriko Buliruarua,Fijian rugby union player,Q712,
+Q107295250,Q6581097,1994-06-27T00:00:00Z,1,Mitieli Vulikijapani,Mitieli Vulikijapani,Fijian rugby league footballer,Q712,Q38807
+Q107307963,Q6581097,2003-01-01T00:00:00Z,1,Jason Qareqare,Jason Qareqare,English rugby league footballer,Q712,Q856662
+Q107557650,Q6581072,2003-08-05T00:00:00Z,3,Sophia Morgan,Sophia Morgan,Fijian sailor,Q712,
+Q107659092,Q6581097,1995-12-22T00:00:00Z,9,Asaeli Tuivuaka,Asaeli Tuivuaka,Fijian rugby union player,Q712,
+Q107659107,Q6581097,1992-01-01T00:00:00Z,7,Josua Vakurunabili,Josua Vakurunabili,Fijian rugby union player,Q712,
+Q107660091,Q6581097,1998-05-09T00:00:00Z,11,Iosefo Masi,Iosefo Masi,Fijian dual-code rugby player,Q712,Q712
+Q107660093,Q6581097,1999-03-10T00:00:00Z,12,Jiuta Wainiqolo,Jiuta Wainiqolo,Fijian rugby union player,Q712,Q38807
+Q107673245,Q6581097,2000-03-21T00:00:00Z,10,Sireli Maqala,Sireli Maqala,FIjian rugby sevens player,Q712,Q579556
+Q107688384,Q6581072,1994-01-01T00:00:00Z,6,Ana Naimasi,Ana Naimasi,Fijian rugby union player,Q712,
+Q107693617,Q6581072,1995-12-30T00:00:00Z,1,Miriama Naiobasali,Miriama Naiobasali,Fijian football and rugby sevens player,Q712,
+Q107718848,Q6581072,1994-01-01T00:00:00Z,7,Reapi Ulunisau,Reapi Uluinasau,Fijian rugby sevens player,Q712,
+Q107718896,Q6581072,1999-02-03T00:00:00Z,6,Laisana Likuceva,Laisana Likuceva,Fijian rugby sevens player,Q712,
+Q107718897,Q6581072,1994-06-28T00:00:00Z,6,Lavena Cavuru,Lavena Cavuru,Fijian rugby sevens player,Q712,
+Q107721858,Q6581072,1991-01-01T00:00:00Z,7,Alowesi Nakoci,Aloesi Nakoci,Fijian rugby sevens player,Q712,
+Q107721862,Q6581072,1996-01-01T00:00:00Z,6,Sesenieli Donu,Sesenieli Donu,Fijian rugby sevens player,Q712,
+Q107721883,Q6581072,1993-08-02T00:00:00Z,6,Vasiti Solikoviti,Vasiti Solikoviti,Fijian rugby sevens player,Q712,
+Q107721890,Q6581072,1999-07-10T00:00:00Z,4,Tokasa Seniyasi,Tokasa Seniyasi,Fijian rugby sevens player,Q712,
+Q107969056,Q6581097,1998-02-14T00:00:00Z,3,Timoci Tavatavanawai,Timoci Tavatavanawai,Fijian-New Zealand rugby player,Q712,Q26707
+Q10862164,Q6581097,1976-12-17T00:00:00Z,6,Isireli Naikelekelevesi,Isireli Naikelekelevesi,Fijian athlete,Q712,Q38807
+Q109012733,Q6581097,1964-04-20T00:00:00Z,32,Wiliame Katonivere,Wiliame Katonivere,6th President of Fiji (2021-2024),Q712,Q38807
+Q109094588,Q6581072,1986-01-01T00:00:00Z,3,Sainimili Naivalu,Sainimili Naivalu,Fijian feminist and disability rights activist,Q712,
+Q109314854,Q6581097,1992-06-06T00:00:00Z,2,Onisi Ratave,Onisi Ratave,Fijian rugby union player,Q712,Q1365257
+Q109379591,Q6581072,1937-07-11T00:00:00Z,1,Torika Varo,Torika Varo,Fijian athlete,Q712,Q856662
+Q109425798,Q6581072,1960-01-18T00:00:00Z,1,Salome Tabuatalei,Salome Tabuatalei,Fijian athlete,Q712,
+Q109670977,Q6581097,1998-06-29T00:00:00Z,2,Mosese Dawai,Mosese Dawai,Fijian rugby union player,Q712,
+Q109672367,Q6581097,1999-09-06T00:00:00Z,5,Tevita Ikanivere,Tevita Ikanivere,Fijian rugby union player,Q712,Q1858116
+Q109672371,Q6581097,1999-03-10T00:00:00Z,3,Jone Koroiduadua,Jone Koroiduadua,Fijian rugby union player,Q712,
+Q109672955,Q6581097,1996-10-06T00:00:00Z,1,Apisalome Vota,Apisalome Vota,Fijian rugby union player,Q712,
+Q109672958,Q6581097,1997-07-08T00:00:00Z,4,Peni Matawalu,Ratu Peni Matawalu,Fijian rugby union player,Q712,
+Q109672960,Q6581097,1999-01-02T00:00:00Z,3,Simione Kuruvoli (rugby union),Simione Kuruvoli,Fijian rugby union player,Q712,
+Q109672964,Q6581097,1997-04-02T00:00:00Z,1,Joseva Tamani,Joseva Tamani,Fijian rugby union player,Q712,
+Q109672965,Q6581097,1995-10-27T00:00:00Z,2,Rusiate Nasove,Rusiate Nasove,Fijian rugby union player,Q712,Q952528
+Q109672967,Q6581097,1998-03-28T00:00:00Z,1,Raikabula Momoedonu,Raikabula Momoedonu,Fijian rugby union player,Q712,
+Q109672970,Q6581097,2000-01-24T00:00:00Z,1,Chris Minimbi,Chris Minimbi,Fijian rugby union player,Q712,
+Q11034093,Q6581097,1954-01-01T00:00:00Z,2,Prince Gopal Lakshman,Prince Gopal Lakshman,Fijian politician,Q712,
+Q110509307,Q6581097,1990-09-28T00:00:00Z,1,James Hoyt (footballer),James Hoyt,Fijian footballer,Q712,
+Q11058370,Q6581072,1932-02-23T00:00:00Z,4,Irene Jai Narayan,Irene Jai Narayan,Fijian politician (1932-2011),Q712,Q47916
+Q110734244,Q6581097,1991-08-26T00:00:00Z,1,Timoci Sauvoli,Timoci Sauvoli,Fijian rugby union player,Q712,
+Q110880196,Q6581072,1999-01-20T00:00:00Z,5,Tanya Kalounivale,Tanya Kalounivale,New Zealand rugby union player,Q712,Q38807
+Q110962159,Q6581097,2000-01-30T00:00:00Z,4,Vinaya Habosi,Vinaya Habosi,Fijian rugby union player,Q712,Q952528
+Q110962164,Q6581097,2001-05-23T00:00:00Z,1,"Kitione Salawa (rugby union, born 2001)",Kitione Salawa Jr.,Fijian rugby union player,Q712,
+Q110962167,Q6581097,1999-03-21T00:00:00Z,3,Vilive Miramira,Vilive Miramira,Fijian rugby union player,Q712,Q327733
+Q110962181,Q6581097,1999-09-13T00:00:00Z,3,Isoa Nasilasila,Isoa Nasilasila,Fijian rugby union player,Q712,Q954186
+Q110962460,Q6581097,2000-01-17T00:00:00Z,9,Selestino Ravutaumada,Selestino Ravutaumada,Fijian rugby union player,Q712,Q1138545
+Q110962463,Q6581097,1998-06-06T00:00:00Z,3,Kalaveti Ravouvou,Kalaveti Ravouvou,Fijian rugby union player,Q712,Q26720
+Q111019692,Q6581097,1998-01-01T00:00:00Z,1,Leone Rotuisolia,Ratu Leone Rotuisolia,Fijian rugby union player,Q712,
+Q111206320,Q6581097,1994-01-01T00:00:00Z,1,Sorovakatini Tuifagalele,Sorovakatini Tuifagalele,Fijian rugby union player,Q712,
+Q111363926,Q6581097,2004-03-17T00:00:00Z,8,Nabil Begg,Nabil Begg,Fijian association football player,Q712,Q25053885
+Q11142874,Q6581097,1939-06-14T00:00:00Z,4,Jope Seniloli,Jope Seniloli,Fiji politician,Q712,
+Q111455978,Q6581097,1998-01-01T00:00:00Z,1,Tuidraki Samusamuvodre,Tuidraki Samusamuvodre,Fijian rugby union player,Q712,
+Q111695619,Q6581097,1995-01-01T00:00:00Z,1,Leone Nawai,Leone Nawai,Fijian rugby union player,Q712,
+Q111695624,Q6581097,2000-06-19T00:00:00Z,1,Meli Tuni,Meli Tuni,Fijian rugby union player,Q712,
+Q112686337,Q6581072,1995-01-01T00:00:00Z,2,Asinate Serevi,Asinate Serevi,rugby player,Q712,
+Q11305154,Q6581097,1947-08-24T00:00:00Z,4,Samuela Yavala,Samuela Yavala,Fijian sprinter,Q712,Q38807
+Q113437928,Q6581072,2000-10-23T00:00:00Z,5,Vani Buleki,Vani Buleki,rugby player,Q712,
+Q113439011,Q6581097,1996-07-12T00:00:00Z,3,Elia Canakaivata,Elia Canakaivata,Fijian rugby union player,Q712,
+Q113468964,Q6581097,1999-07-12T00:00:00Z,7,Kaminieli Rasaku,Kaminieli Rasaku,Fijian rugby player,Q712,
+Q113468968,Q6581097,1998-07-14T00:00:00Z,7,Jerry Matana,Jerry Matana,rugby player,Q712,
+Q113537042,Q6581072,1998-01-01T00:00:00Z,1,Raijieli Laqeretabua,Raijieli Laqeretabua,Fijian rugby player,Q712,
+Q113573698,Q6581072,1984-01-01T00:00:00Z,1,Rusila Tamoi,Rusila Tamoi,Fijian rugby union player,Q712,
+Q113579251,Q6581072,1990-01-01T00:00:00Z,2,Sereima Leweniqila,Sereima Leweniqila,rugby player,Q712,
+Q113612367,Q6581072,1999-04-02T00:00:00Z,2,Bitila Tawake,Bitila Tawake,rugby player,Q712,
+Q113636254,Q6581097,2002-09-02T00:00:00Z,1,Kitione Kautoga,Kitione Kautoga,Fijian rugby league footballer,Q712,
+Q113813478,Q6581097,2003-03-25T00:00:00Z,1,Peter Ravai,Peter Ravai,Scottish-Fijian footballer,Q712,
+Q113813478,Q6581097,2003-03-25T00:00:00Z,1,Peter Ravai,Peter Ravai,Scottish-Fijian footballer,Q145,
+Q114985778,Q6581097,2002-03-05T00:00:00Z,3,Tevita Toloi,Tevita Toloi,Fiji international rugby league footballer,Q712,Q1365304
+Q115481286,Q6581072,1986-06-29T00:00:00Z,1,Valerie Nainima,Valerie Nainima,Fijian basketball coach,Q712,Q7286695
+Q115529456,Q6581097,1997-04-01T00:00:00Z,7,Joseva Talacolo,Joseva Talacolo,Fijian rugby player,Q712,Q38807
+Q115594784,Q6581097,1999-04-20T00:00:00Z,1,Livai Natave,Livai Natave,Fijian rugby union player,Q712,
+Q11711663,Q6581097,1991-08-01T00:00:00Z,4,Ilisoni Tuinawaivuvu,Ilisoni Tuinawaivuvu,Fiji footballer,Q712,Q712
+Q117219468,Q6581097,2000-07-27T00:00:00Z,1,Angelo Smith,Angelo Smith,Fijian rugby union player,Q712,
+Q11771287,Q6581097,2000-01-01T00:00:00Z,6,Mataika Tuicakau,Mataika Tuicakau,Fijian shot putter and discus thrower,Q712,Q2308160
+Q11775365,Q6581097,1991-02-17T00:00:00Z,3,Alipate Ratini,Alipate Ratini,Fijian rugby union and rugby league footballer,Q712,Q1365295
+Q119013471,Q6581072,2000-08-25T00:00:00Z,1,Vitalina Naikore,Vitalina Naikore,Fijian rugby union player,Q712,
+Q121598577,Q6581097,2003-08-08T00:00:00Z,1,Motikai Murray,Motikai Murray,Fijian rugby union player,Q712,
+Q121598579,Q6581097,1999-06-02T00:00:00Z,2,Etonia Waqa,Etonia Waqa,Fijian rugby union player,Q712,
+Q121598580,Q6581097,2004-09-14T00:00:00Z,1,Philip Baselala,Philip Baselala,Fijian rugby union player,Q712,
+Q121598585,Q6581097,2000-03-09T00:00:00Z,1,Michael Naitokani,Michael Naitokani,Fijian rugby union player,Q712,
+Q121863079,Q6581072,1986-01-01T00:00:00Z,1,Vaiti Waqatabu,Vaiti Waqatabu,Fijian netball and rugby union player,Q712,
+Q122976382,Q6581097,2005-09-26T00:00:00Z,2,Joshua Laqeretabua,Joshua Laqeretabua,Fijian footballer,Q712,Q21
+Q123485351,Q6581097,1999-10-22T00:00:00Z,1,Epeli Momo,Epeli Momo,Fijian rugby union player,Q712,
+Q123485368,Q6581097,2003-07-07T00:00:00Z,1,Waqa Nalaga,Waqa Nalaga,Fijian rugby union player,Q712,
+Q123485372,Q6581097,2004-01-07T00:00:00Z,3,Isaiah Armstrong-Ravula,Isaiah Armstrong-Ravula,Fijian rugby union player,Q664,Q79990
+Q123485372,Q6581097,2004-01-07T00:00:00Z,3,Isaiah Armstrong-Ravula,Isaiah Armstrong-Ravula,Fijian rugby union player,Q712,Q79990
+Q123617612,Q6581097,1986-08-31T00:00:00Z,1,Save Tabakanalagi,Save Tabakanalagi,rugby player,Q712,
+Q123620950,Q6581097,1979-03-19T00:00:00Z,1,Akuila Matanibukaca,Akuila Matanibukaca,rugby player,Q712,
+Q123730823,Q6581097,2000-05-21T00:00:00Z,2,Rus Tuima,Rus Tuima,English-Fijian rugby union player,Q712,Q38807
+Q124048111,Q6581072,1993-03-12T00:00:00Z,1,Shayal Sindhika,Shayal Sindhika,Fijian footballer (born 1993),Q712,
+Q124060584,Q6581097,1961-09-20T00:00:00Z,2,Mosese Tikoitoga,Mosese Tikoitoga,Fijian soldier and diplomat (died 2023),Q712,
+Q124728924,Q6581097,2003-05-16T00:00:00Z,3,Mesake Vocevoce,Mesake Vocevoce,Fijian rugby union player,Q712,
+Q124729009,Q6581097,2005-01-01T00:00:00Z,1,Isikeli Rabitu,Isikeli Rabitu,Fijian rugby union player,Q712,
+Q124729069,Q6581097,1999-01-01T00:00:00Z,1,Junior Ratuva,Junior Ratuva,Fijian rugby union player,Q712,
+Q124777992,Q6581097,1981-03-01T00:00:00Z,1,Maku Koroiyadi,Maku Koroiyadi,Fijian rugby player,Q712,
+Q124882355,Q6581097,1988-01-01T00:00:00Z,1,Ropate Rinakama,Ropate Rinakama,rugby player,Q712,
+Q124936014,Q6581097,1983-01-01T00:00:00Z,1,Tomasi Soqeta,Tomasi Soqeta,Fijian rugby union player,Q712,
+Q125111609,Q6581097,2003-08-10T00:00:00Z,1,Mohammed Raheem,Mohammed Raheem,Fijian footballer,Q712,
+Q125116874,Q6581097,2005-04-19T00:00:00Z,5,Sterling Vasconcellos,Sterling Vasconcellos,Fijian footballer (born 2005),Q712,Q712
+Q126373341,Q6581072,2003-02-17T00:00:00Z,4,Mereoni Nakesa,Mereoni Nakesa,Fijian rugby union player,Q712,
+Q126920124,Q6581097,1983-01-01T00:00:00Z,1,Joe Nasilisili,Joe Nasilisili,Fijian rugby union player,Q712,
+Q126928125,Q6581097,1982-05-12T00:00:00Z,1,Anthony Wise,Anthony Wise,Fijian rugby union player,Q712,
+Q126951483,Q6581097,2003-01-19T00:00:00Z,4,"Thomas Dunn (footballer, born 2003)",Thomas Dunn,Fijian footballer,Q712,
+Q127375410,Q6581097,2003-09-18T00:00:00Z,3,Waisake Tewa,Waisake Tewa,Fijian sprinter,Q712,
+Q127559949,Q6581097,1994-07-06T00:00:00Z,6,Terio Tamani,Terio Tamani,Fijian rugby sevens player,Q712,Q1196481
+Q127562323,Q6581097,1984-04-14T00:00:00Z,1,Viliame Seuseu,Viliame Seuseu,Fijian rugby union player,Q712,
+Q127592225,Q6581097,1997-04-09T00:00:00Z,2,Peniasi Dakuwaqa,Peniasi Dakuwaqa,Fijian rugby union player,Q712,
+Q127592261,Q6581097,2002-08-31T00:00:00Z,3,Inia Tabuavou,Inia Tabuavou,Fijian rugby union player,Q712,
+Q127685241,Q6581097,2005-03-23T00:00:00Z,5,David Young (Fijian swimmer),David Young,Fijian swimmer,Q712,
+Q127786456,Q6581097,1998-03-26T00:00:00Z,6,Ponepati Loganimasi,Ponepati Loganimasi,Fijian rugby player (born 1998),Q712,
+Q127939421,Q6581097,2000-01-01T00:00:00Z,6,Joji Nasova,Joji Nasova,Fiji rugby sevens player (born 2000),Q712,Q856662
+Q127971919,Q6581072,1999-07-22T00:00:00Z,4,Kolora Lomani,Kolora Lomani,Fijian rugby player (b.1999),Q712,
+Q128009429,Q6581097,2005-04-08T00:00:00Z,3,Vicky Wu,Vicky Wu,Fijian table tennis player,Q712,Q38807
+Q128218247,Q6581097,1986-12-31T00:00:00Z,1,"Epeli Ruivadra (rugby union, born 1986)",Epeli Ruivadra,Fijian  rugby union player (born 1986),Q712,
+Q130641623,Q6581072,2004-08-19T00:00:00Z,2,Preeya Singh,Preeya Singh,Fijian footballer (born 2001),Q30,
+Q130641623,Q6581072,2004-08-19T00:00:00Z,2,Preeya Singh,Preeya Singh,Fijian footballer (born 2001),Q712,
+Q130646957,Q6581097,1976-05-12T00:00:00Z,1,Ravinesh Kumar,Ravinesh Kumar,Fijian football manager,Q712,Q797434
+Q13122648,Q6581097,1968-11-22T00:00:00Z,4,Maloni Bole,Maloni Bole,Fijian sprinter,Q712,
+Q131370838,Q6581097,2004-04-13T00:00:00Z,1,Simon Koroiyadi,Simon Koroiyadi,English-born Fijian rugby union player,Q145,
+Q131370838,Q6581097,2004-04-13T00:00:00Z,1,Simon Koroiyadi,Simon Koroiyadi,English-born Fijian rugby union player,Q712,
+Q13155089,Q6581097,1950-01-01T00:00:00Z,3,Nitya Nand Reddy,Nitya Nand Reddy,Fijian politician,Q712,Q619443
+Q13155534,Q6581097,1920-01-01T00:00:00Z,5,Sashi Mahendra Singh,Sashi Mahendra Singh,Fijian sports coach (1920-1990),Q712,Q26713
+Q131969781,Q6581097,1955-01-01T00:00:00Z,1,Laisenia Tuitubou,Laisenia Tuitubou,Fijian politician,Q712,
+Q132457127,Q6581097,2002-06-04T00:00:00Z,1,Isoa Tuwai,Isoa Tuwai,Fijian rugby union player,Q712,
+Q1326832,Q6581097,1939-12-07T00:00:00Z,7,Epeli Hauʻofa,Epeli Hau'ofa,Tongan writer and anthropologist (1939-2009),Q712,Q530560
+Q133311062,Q6581097,2003-03-24T00:00:00Z,1,Jeneiro Wakeham,Janeiro Wakeham,Fijian rugby player (born 2003),Q712,
+Q134892036,Q6581072,2002-01-01T00:00:00Z,3,Makarita Baleinadogo,Makarita Baleinadogo,Fijian rugby union player,Q712,Q1365322
+Q13522497,Q6581097,1938-05-06T00:00:00Z,4,David Malcolm,David Malcolm,Australian judge,Q712,Q256711
+Q135294595,Q6581097,1987-05-11T00:00:00Z,1,Seremaia Naureuere,Seremaia Naureuere,Fijian rugby union player (born 1987),Q712,
+Q135437086,Q6581097,1952-12-26T00:00:00Z,1,Samuela Vucago,Samuela Vucago,fijian–born rugby league player,Q712,
+Q135438435,Q6581097,2006-04-18T00:00:00Z,1,Jethro Rinakama,Jethro Rinakama,Fijian-Australian rugby league player,Q408,
+Q135438435,Q6581097,2006-04-18T00:00:00Z,1,Jethro Rinakama,Jethro Rinakama,Fijian-Australian rugby league player,Q712,
+Q135438508,Q6581097,1935-01-01T00:00:00Z,2,Josefata Kamikamica,Josefata Kamikamica,Fijian politician,Q712,
+Q135438508,Q6581097,1934-01-01T00:00:00Z,2,Josefata Kamikamica,Josefata Kamikamica,Fijian politician,Q712,
+Q1366694,Q6581097,1974-03-09T00:00:00Z,11,Esala Masi,Esala Masi,Fijian footballer,Q712,Q26713
+Q136744371,Q6581097,2004-06-13T00:00:00Z,1,Isikeli Basiyalo,Isikeli Basiyalo,Fijian rugby union player,Q712,
+Q136744375,Q6581097,2005-04-10T00:00:00Z,1,Aisea Nawai,Aisea Nawai,Fijian rugby union player,Q712,
+Q136929963,Q6581097,2003-06-05T00:00:00Z,2,Kavaia Tagivetaua,Kavaia Tagivetaua,fijian rugby union player,Q712,
+Q1374014,Q6581097,1929-11-08T00:00:00Z,15,Jona Senilagakali,Jona Senilagakali,Prime Minister of Fiji (1929-2011),Q712,Q1725479
+Q137713820,Q6581097,2005-06-20T00:00:00Z,1,Pita Manamanaivalu,Pita Manamanaivalu,Fijian rugby union player,Q712,
+Q138168565,Q6581097,1993-12-28T00:00:00Z,1,Penaia Cakobau,Penaia Cakobau,Fijian rugby union player,Q712,
+Q138301994,Q6581072,2008-10-13T00:00:00Z,2,Aliana Vakaloloma,Aliana Vakaloloma,Fijian footballer,Q30,Q7252476
+Q138301994,Q6581072,2008-10-13T00:00:00Z,2,Aliana Vakaloloma,Aliana Vakaloloma,Fijian footballer,Q712,Q7252476
+Q138340088,Q6581097,1965-08-19T00:00:00Z,1,Ravuama Madigi,Ravuama Madigi,Fijian footballer (born 1965),Q712,
+Q138499632,Q6581097,1960-05-31T00:00:00Z,1,Abraham Watkins,Abraham Watkins,Fijian footballer (born 1960),Q712,
+Q138672802,Q6581097,2005-01-01T00:00:00Z,1,Sairusi Ravudi,Sairusi Ravudi,Fijian rugby union player,Q712,
+Q139564507,Q6581097,2003-06-02T00:00:00Z,1,Maika Tuitubou,Maika Tuitubou,Fijian rugby union player,Q712,
+Q139619632,Q6581097,1994-04-16T00:00:00Z,1,Apolosi Ranawai,Apolosi Ranawai,Fijian rugby union player,Q712,
+Q1398207,Q6581097,1918-07-28T00:00:00Z,20,Penaia Ganilau,Penaia Ganilau,President of Fiji and Governor-General of Fiji (1918-1993),Q712,Q1138545
+Q139981283,Q6581097,1963-05-18T00:00:00Z,1,Pita Dau,Pita Dau,Fijian footballer and rugby union player,Q712,Q1365284
+Q140043674,Q6581097,2005-05-10T00:00:00Z,1,Atunaisa Sokobale,Atunaisa Sokobale,Fijian rugby player (born 2005),Q712,
+Q1449412,Q6581097,1981-07-28T00:00:00Z,9,Salesh Kumar,Salesh Kumar,Fijian footballer,Q712,Q712
+Q15114582,Q6581097,1986-08-23T00:00:00Z,4,Sean Morrell,Sean Morrell,Fijian rugby player,Q712,Q712
+Q15622330,Q6581097,1990-06-26T00:00:00Z,8,Waisea Nayacalevu,Waisea Nayacalevu,Fijian rugby union player,Q712,Q1208362
+Q15629476,Q6581097,1957-12-12T00:00:00Z,6,Albert Miller (athlete),Albert Miller,Fijian athlete,Q712,Q104587658
+Q15653152,Q6581097,1994-02-04T00:00:00Z,17,Josua Tuisova,Josua Tuisova,Fijian rugby union player,Q712,Q712
+Q15968070,Q6581097,1920-01-01T00:00:00Z,2,Wilisoni Tuiketei Malani,Wilisoni Malani,Fijian physician,Q712,
+Q16016280,Q6581072,1949-12-23T00:00:00Z,4,Kuini Speed,Kuini Speed,Fijian politician,Q712,
+Q16090938,Q6581097,1928-06-12T00:00:00Z,4,Charles Walker (Fijian politician),Charles Walker,Fijian politician (1928–2021),Q712,Q7428574
+Q16091386,Q6581097,1930-10-15T00:00:00Z,2,William Apted,William Apted,cricketer,Q712,Q38807
+Q16095710,Q6581097,1934-06-22T00:00:00Z,2,Manu Korovulavula,Manu Korovulavula,Fijian politician,Q712,Q38807
+Q16104450,Q6581097,1936-02-06T00:00:00Z,4,Hector Hatch,Hector Hatch,Fijian boxer and politician,Q712,Q38807
+Q16104537,Q6581097,1936-01-01T00:00:00Z,4,Hari Punja,Hari Punja,Fijian businessman,Q712,
+Q16107404,Q6581072,1946-01-01T00:00:00Z,12,Jiko Luveni,Jiko Luveni,Fijian politician,Q712,Q1858116
+Q16107431,Q6581097,1946-03-10T00:00:00Z,5,Robin E. Mitchell,Robin E. Mitchell,Fijian sports official,Q712,Q26692
+Q16137695,Q6581097,1947-01-01T00:00:00Z,2,Inoke Takiveikata,Inoke Takiveikata,Fijian high chief and politician (1947–2025),Q712,
+Q16167776,Q6581072,1974-08-24T00:00:00Z,5,Angela Birch,Angela Birch,Fijian swimmer,Q712,
+Q16197129,Q6581097,1967-09-19T00:00:00Z,1,Noa Nadruku,Noa Nadruku,Fijian rugby union and rugby league footballer,Q712,Q26920
+Q16204215,Q6581072,1984-12-14T00:00:00Z,2,Prerna Lal,Prerna Lal,Fijian writer,Q712,
+Q16204823,Q6581097,1937-01-01T00:00:00Z,2,Joketani Cokanasiga,Joketani Cokanasiga,Fijian politician,Q712,
+Q16216630,Q6581097,1977-01-01T00:00:00Z,1,Manoj Kumar (chess player),Manoj Kumar,Fijian chess player,Q712,
+Q16218901,Q6581097,1979-06-06T00:00:00Z,1,Mosese Volavola,Mosese Volavola,Fijian rugby union player,Q712,
+Q16218904,Q6581097,1979-02-06T00:00:00Z,1,Josefa Vueti,Josefa Vueti,Olympic weightlifter,Q712,Q26692
+Q16221655,Q6581097,1981-06-23T00:00:00Z,1,Marika Vakacegu,Marika Vakacegu,Fijian rugby union player,Q712,Q38807
+Q16222406,Q6581097,1983-09-22T00:00:00Z,4,Malakai Ravulo,Malakai Ravulo,Fijian rugby union footballer,Q712,Q712
+Q16229722,Q6581097,1989-01-30T00:00:00Z,3,Peni Botiki,Peni Botiki,Fijian rugby league footballer,Q712,Q712
+Q16232165,Q6581097,1988-11-22T00:00:00Z,1,Ilisavani Jegesa,Ilisavani Jegesa,Fijian rugby league and rugby union footballer,Q712,
+Q16563582,Q6581097,1966-11-27T00:00:00Z,2,Jope Tuikabe,Jope Tuikabe,Fijian rugby union player,Q712,
+Q16577444,Q6581072,1952-03-27T00:00:00Z,3,Miriama Tuisorisori-Chambault,Miriama Tuisorisori-Chambault,Fijian athletics competitor,Q712,
+Q16613177,Q6581072,1973-11-16T00:00:00Z,3,Vaciseva Tavaga,Vaciseva Tavaga,Fijian athlete,Q712,Q38807
+Q16729964,Q6581097,1991-06-10T00:00:00Z,5,Nathan Hughes,Nathan Hughes,English rugby union player,Q712,Q856662
+Q16730969,Q6581097,1985-11-17T00:00:00Z,16,Osea Kolinisau,Osea Kolinisau,Fijian rugby union player,Q712,Q38807
+Q16734987,Q6581097,1977-02-03T00:00:00Z,2,Nikola Raoma,Nikola Raoma,Fijian footballer,Q712,Q619443
+Q16873617,Q6581097,1988-04-25T00:00:00Z,10,Samisoni Viriviri,Samisoni Viriviri,Fijian rugby union footballer,Q712,Q619443
+Q16885940,Q6581097,1945-12-27T00:00:00Z,1,Netani Sukanaivalu,Netani Sukanaivalu,Fijian politician (died 2021),Q712,
+Q17051588,Q6581097,1963-06-03T00:00:00Z,2,Inoke Male,Inoke Male,Fijian rugby union footballer and coach,Q712,Q26707
+Q1706503,Q6581097,1981-04-25T00:00:00Z,14,Rob Elder,Rob Elder,Fijian archer,Q712,Q38807
+Q1722282,Q6581097,1946-01-01T00:00:00Z,7,Kaliopate Tavola,Kaliopate Tavola,Fijian politician,Q712,Q48309
+Q1727019,Q6581072,1996-01-15T00:00:00Z,6,Matelita Buadromo,Matelita Buadromo,Fijian swimmer,Q712,Q23777989
+Q1727019,Q6581072,1996-01-15T00:00:00Z,6,Matelita Buadromo,Matelita Buadromo,Fijian swimmer,Q712,Q38807
+Q17305737,Q6581097,1987-07-19T00:00:00Z,2,Seremaia Burotu,Seremaia Burotu,Fijian rugby union player,Q712,Q26690
+Q17319028,Q6581097,1962-04-02T00:00:00Z,3,Jone Usamate,Jone Usamate,Fijian politician,Q712,Q38807
+Q17333824,Q6581072,1937-12-24T00:00:00Z,3,Ana Ramacake,Ana Ramacake,Fijian athlete and hotel owner,Q712,
+Q1738291,Q6581097,1933-04-28T00:00:00Z,12,Petero Mataca,Petero Mataca,Catholic archbishop (1933-2014),Q712,Q712
+Q17544347,Q6581072,1962-05-25T00:00:00Z,2,Sainiana Tukana,Sainiana Tukana,Fijian athletics competitor,Q712,
+Q17722066,Q6581097,1955-01-01T00:00:00Z,5,Neil Sharma,Neil Sharma,Fijian politician,Q712,
+Q17811567,Q6581072,1981-01-01T00:00:00Z,12,Roshika Deo,Roshika Deo,Fijian feminist and activist,Q712,
+Q17811567,Q6581072,1980-12-12T00:00:00Z,12,Roshika Deo,Roshika Deo,Fijian feminist and activist,Q712,
+Q18158731,Q6581097,1965-08-28T00:00:00Z,2,Warren Sorby,Warren Sorby,swimmer/athlete from Fiji,Q712,
+Q18166062,Q6581072,1974-06-18T00:00:00Z,4,Mereseini Vuniwaqa,Mereseini Vuniwaqa,Fijian politician,Q712,Q327733
+Q18217983,Q6581097,1958-01-01T00:00:00Z,4,Semi Koroilavesau,Semi Koroilavesau,Fijian politician,Q712,
+Q18352769,Q6581072,1991-02-05T00:00:00Z,2,Apolonia Vaivai,Apolonia Vaivai,Fijian weightlifter,Q712,Q1138545
+Q18379735,Q6581097,1952-01-01T00:00:00Z,1,Navitalai Senilagakali,Navitalai Senilagakali,Fijian rugby union player,Q712,
+Q18535007,Q6581097,1989-06-15T00:00:00Z,3,Henry Seniloli,Henry Ratu Wainiu Seniloli,Fijian rugby union player,Q712,Q26690
+Q18577129,Q6581097,1990-06-16T00:00:00Z,6,Peni Ravai,Peni Ravai,Fijian rugby union player,Q712,Q712
+Q18637704,Q6581072,1985-12-22T00:00:00Z,5,Elina Nasaudrodro,Elina Nasaudrodro,Olympic judoka,Q712,Q38807
+Q18637778,Q6581097,1992-01-07T00:00:00Z,5,Sefa Naivalu,Sefanaia Naivalu,Fijian-Australian rugby union player,Q712,Q26692
+Q18685829,Q6581097,1950-01-01T00:00:00Z,3,Yogendra Dutt,Yogendra Dutt,Fijian football manager,Q712,Q712
+Q18752569,Q6581097,1952-01-01T00:00:00Z,2,Manasa Vaniqi,Manasa Vaniqi,,Q712,
+Q19578358,Q6581097,1993-01-17T00:00:00Z,6,Peceli Yato,Peceli Yato,Fijian rugby union player,Q712,Q26720
+Q19605148,Q6581097,1957-07-17T00:00:00Z,2,Timoci Natuva,Timoci Natuva,Fijian politician,Q712,
+Q19606804,Q6581097,1989-03-14T00:00:00Z,7,Levani Botia,Levani Botia,Fijian rugby union player,Q712,Q712
+Q19629116,Q6581097,1989-10-07T00:00:00Z,3,Benito Masilevu,Benito Masilevu,Fijian rugby union player,Q712,Q712
+Q1964082,Q6581072,1977-08-30T00:00:00Z,11,Nalini Krishan,Nalini Krishan,Fijian film actress,Q712,Q38807
+Q19661153,Q6581097,1989-03-23T00:00:00Z,19,Jerry Tuwai,Jerry Tuwai,Fijian rugby union player,Q712,Q38807
+Q19662912,Q6581097,1990-10-27T00:00:00Z,13,Semi Kunatani,Semi Kunatani,Fijian rugby union player,Q712,Q712
+Q19802153,Q6581097,1974-08-05T00:00:00Z,2,Joeli Lotawa,Joeli Lotawa,Fijian rugby player (born 1974),Q712,Q619443
+Q19871404,Q6581097,1994-10-26T00:00:00Z,3,Waqa Blake,Waqa Blake,Fijian rugby league footballer,Q712,Q856662
+Q19874918,Q6581097,1995-04-05T00:00:00Z,3,Viliame Kikau,Viliame Kikau,Fijian rugby league footballer,Q712,Q712
+Q19875792,Q6581097,1967-10-24T00:00:00Z,2,Lawrence Little,Lawrence Little,Fijian rugby union player,Q664,Q112685
+Q19875792,Q6581097,1967-10-24T00:00:00Z,2,Lawrence Little,Lawrence Little,Fijian rugby union player,Q712,Q112685
+Q19877038,Q6581097,1994-12-13T00:00:00Z,3,Fabian Goodall,Fabian Goodall,Australian rugby league footballer,Q712,Q3130
+Q19877042,Q6581097,1994-01-05T00:00:00Z,3,Tyrone Phillips,Tyrone Phillips,Australian rugby league footballer,Q712,Q3130
+Q1988156,Q6581097,1984-11-30T00:00:00Z,7,Pita Bolatoga,Pita Baleitoga,Fijian footballer,Q712,Q38807
+Q19885430,Q6581097,1969-03-01T00:00:00Z,1,Setareki Tawake,Setareki Tawake,Fijian rugby union player,Q712,Q1048944
+Q19958280,Q6581072,1959-01-01T00:00:00Z,1,Jilila Kumar,Jilila Kumar,Fijian politician,Q712,
+Q19958559,Q6581097,1951-02-15T00:00:00Z,5,Joseph Rodan,Joe Rodan,Fijian athletics competitor,Q712,Q38807
+Q20016687,Q6581097,1995-10-12T00:00:00Z,9,Saula Waqa,Saula Waqa,Fijian association football player,Q712,Q712
+Q20022462,Q6581097,1969-07-29T00:00:00Z,2,Patiliai Tuidraki,Patiliai Tuidraki,Fijian-Japanese rugby union footballer (1969-2002),Q712,Q856662
+Q20030440,Q6581097,1986-12-21T00:00:00Z,2,Puna Rasaubale,Taraiasi Rasaubale,Fijian boxer and rugby player,Q712,Q712
+Q20030440,Q6581097,1986-12-22T00:00:00Z,2,Puna Rasaubale,Taraiasi Rasaubale,Fijian boxer and rugby player,Q712,Q712
+Q20065185,Q6581097,1986-05-02T00:00:00Z,2,Marques Whippy,Marques Whippy,Fijian basketball player (born 1986),Q712,Q38807
+Q20109568,Q6581097,1985-12-11T00:00:00Z,2,Josefa Domolailai,Josefa Domolailai,Fijian rugby union player,Q712,Q712
+Q20127902,Q6581097,1930-06-15T00:00:00Z,1,Josefa Levula,Josefa Levula,"Fijian track athlete, and rugby union and rugby league footballer (1930-1989)",Q712,Q619443
+Q20181093,Q6581097,1996-01-05T00:00:00Z,11,Iosefo Verevou,Iosefo Verevou,Fijian association football player,Q712,Q712
+Q20687490,Q6581097,1970-05-10T00:00:00Z,3,George Veikoso,George Veikoso,Fijian musician,Q712,Q712
+Q20737948,Q6581072,1935-04-23T00:00:00Z,1,Maca Likutabua,Maca Likutabua,,Q712,
+Q20744800,Q6581097,1988-06-29T00:00:00Z,2,Daniel Yakopo,Daniel Yakopo,rugby union player (1988-),Q712,Q38807
+Q20744800,Q6581097,1988-06-29T00:00:00Z,2,Daniel Yakopo,Daniel Yakopo,rugby union player (1988-),Q408,Q38807
+Q2076735,Q6581097,1961-01-30T00:00:00Z,17,Peter Loy Chong,Peter Loy Chong,Catholic archbishop,Q712,Q6961334
+Q20816106,Q6581097,1944-01-01T00:00:00Z,2,Akuila Savu,Akuila Savu,Fijian economist,Q712,
+Q2082536,Q6581097,1984-12-02T00:00:00Z,7,Iliesa Delana,Iliesa Delana,Fijian Paralympic athlete,Q712,Q1365304
+Q20877000,Q6581097,1991-02-27T00:00:00Z,1,Junior Bulumakau,Junior Bulumakau,Scottish rugby union player,Q145,Q856662
+Q20877000,Q6581097,1991-02-27T00:00:00Z,1,Junior Bulumakau,Junior Bulumakau,Scottish rugby union player,Q712,Q856662
+Q20942795,Q6581097,1943-10-01T00:00:00Z,2,Osea Gavidi,Osea Gavidi,Fijian politician (1943-2015),Q712,
+Q20968513,Q6581072,1962-10-21T00:00:00Z,2,Kathlyn Ragg,Kathlyn Ragg,Fijian bicycle racer,Q712,
+Q2097052,Q6581097,1934-09-22T00:00:00Z,21,Timoci Bavadra,Timoci Bavadra,Fijian politician (1934-1989),Q712,Q856662
+Q20972776,Q6581097,1996-10-29T00:00:00Z,2,Waisale Dausoko,Waisale Dausoko,Fijian athletics competitor,Q712,
+Q21004889,Q6581097,1988-05-10T00:00:00Z,7,Lee-Roy Atalifo,Lee Roy Atalifo,Fijian rugby union player,Q712,Q459763
+Q21005022,Q6581097,1995-10-16T00:00:00Z,3,Metuisela Beitaki,Metuisela Beitaki,Fijian cricketer,Q712,
+Q21005404,Q6581097,1983-12-23T00:00:00Z,4,Isei Colati,Isei Colati,Fijian rugby union player,Q712,Q38807
+Q21005668,Q6581097,1995-04-21T00:00:00Z,9,Jale Dreloa,Jale Dreloa,Fijian association football player,Q712,Q579556
+Q21044468,Q6581097,1986-03-10T00:00:00Z,3,Leone Ravuetaki,Leone Ravuetaki,Fijian rugby union player,Q712,Q712
+Q21062721,Q6581097,1983-08-26T00:00:00Z,1,Pio Tuwai,Pio Tuwai,Fijian rugby union player,Q712,
+Q21062931,Q6581097,1966-09-12T00:00:00Z,3,Pio Tikoduadua,Pio Tikoduadua,Fijian politician,Q712,
+Q21066015,Q6581097,1989-04-06T00:00:00Z,4,Manasa Saulo,Manasa Saulo,Fijian rugby union player,Q712,Q38807
+Q21066112,Q6581097,1987-11-09T00:00:00Z,3,Josefa Rika,Josefa Rika,Fijian cricketer (1987-2020),Q712,Q712
+Q21066452,Q6581097,1995-09-16T00:00:00Z,8,Tevita Waranaivalu,Tevita Waranaivalu,Fijian association football player,Q712,Q712
+Q21066453,Q6581097,1993-03-17T00:00:00Z,2,Napolioni Qasevakatini,Napolioni Qasevakatini,Fijian association footballer,Q712,Q712
+Q21066666,Q6581097,1991-03-27T00:00:00Z,2,Viliame Yabaki,Viliame Yabaki,Fijian cricketer,Q712,
+Q21066667,Q6581097,1980-11-21T00:00:00Z,2,Jikoi Kida,Jikoi Kida,Fijian cricketer,Q712,
+Q21066668,Q6581097,1986-06-27T00:00:00Z,2,Sekove Ravoka,Sekove Ravoka,Fijian cricketer,Q712,
+Q21066897,Q6581097,1986-07-11T00:00:00Z,5,Api Ratuniyarawa,Api Ratuniyarawa,Fijian rugby union player,Q712,Q26720
+Q21066898,Q6581097,1985-03-04T00:00:00Z,4,Nemia Soqeta,Nemia Soqeta,Fijian rugby union player,Q712,Q619443
+Q2112287,Q6581097,1984-06-08T00:00:00Z,9,Josateki Naulu,Josateki Naulu,Fijian judoka,Q712,Q38807
+Q21208105,Q6581097,1981-11-25T00:00:00Z,5,Laisiasa Gataurua,Laisiasa Gataurua,association football player,Q712,Q26690
+Q21284624,Q6581097,1986-09-21T00:00:00Z,1,Ifereimi Boladau,Ifereimi Boladau,Fijian rugby union player,Q712,Q38807
+Q21621729,Q6581097,1990-02-08T00:00:00Z,3,Taniela Koroi,Taniela Koroi,Fijian rugby union player (1990-),Q712,Q1048944
+Q21621976,Q6581097,1992-06-09T00:00:00Z,4,Semisi Masirewa,Semisi Masirewa,Fijian rugby union player,Q712,Q1138545
+Q21622904,Q6581097,1995-03-10T00:00:00Z,6,Kolinio Sivoki,Kolinio Sivoki,Fijian association football player,Q712,Q712
+Q21808611,Q6581097,1958-09-18T00:00:00Z,2,Inoke Bainimoli,Inoke Bainimoli,Fijian athlete,Q712,
+Q22098001,Q6581097,1991-08-20T00:00:00Z,9,Savenaca Rawaca,Savenaca Rawaca,Fijian rugby union player,Q712,Q712
+Q22117239,Q6581097,1994-12-09T00:00:00Z,6,Alivereti Raka,Alivereti Raka,Fijian and French rugby union footballer,Q712,Q13155871
+Q22117239,Q6581097,1994-12-09T00:00:00Z,6,Alivereti Raka,Alivereti Raka,Fijian and French rugby union footballer,Q142,Q13155871
+Q22162786,Q6581097,1995-03-20T00:00:00Z,9,Antonio Tuivuna,Antonio Tuivuna,association football player,Q712,Q712
+Q22213056,Q6581097,1948-01-01T00:00:00Z,16,Peter Thomson (diplomat),Peter Thomson,Fijian diplomat,Q712,Q38807
+Q23008056,Q6581097,1993-07-07T00:00:00Z,3,Ilisoni Logaivau,Ilisoni Logaivau,association football player,Q712,Q712
+Q23811240,Q6581097,1995-06-08T00:00:00Z,9,Setareki Hughes,Setareki Hughes,Fijian footballer,Q712,Q579556
+Q23883345,Q6581097,1988-05-29T00:00:00Z,13,Jasa Veremalua,Jasa Veremalua,Fijian rugby union player (b. 1988),Q712,Q712
+Q23887846,Q6581097,1995-11-27T00:00:00Z,5,Suliasi Vunivalu,Suliasi Vunivalu,Fijian rugby union and rugby league footballer,Q712,Q38807
+Q2404782,Q6581097,1974-09-30T00:00:00Z,2,Imanueli Tiko,Manu Tiko,Fijian rugby union player,Q712,Q26707
+Q24053761,Q6581072,1991-07-28T00:00:00Z,1,Tempest-Marie Norlin,Tempest-Marie Norlin,Swedish association football player,Q34,Q34
+Q24053761,Q6581072,1991-07-28T00:00:00Z,1,Tempest-Marie Norlin,Tempest-Marie Norlin,Swedish association football player,Q712,Q34
+Q24061144,Q6581097,1994-05-18T00:00:00Z,1,Tui Kamikamica,Tui Kamikamica,Fijian rugby union and rugby league footballer,Q712,Q712
+Q24084658,Q6581097,1996-03-15T00:00:00Z,1,Ben Nakubuwai,Ben Nakubuwai,Australian rugby league footballer,Q712,Q956807
+Q2438562,Q6581097,1932-05-12T00:00:00Z,7,Mesulame Rakuro,Mesulame Rakuro,Fijian athlete,Q712,Q136434771
+Q24451769,Q6581097,1995-07-28T00:00:00Z,7,Nickel Chand,Nickel Chand,Fijian association football player,Q712,
+Q24572643,Q6581097,1994-02-14T00:00:00Z,13,Masivesi Dakuwaqa,Masivesi Dakuwaqa,Fijian rugby union and rugby league footballer,Q712,Q619443
+Q24576570,Q6581072,1988-09-14T00:00:00Z,1,Elena Baravilala,Elena Baravilala,Fijan singer-songwriter,Q712,Q38807
+Q2476819,Q6581097,1980-06-05T00:00:00Z,10,Rupeni Caucaunibuca,Rupeni Caucaunibuca,Fijian rugby union player,Q712,Q712
+Q24930008,Q6581097,1989-08-21T00:00:00Z,3,Apisai Naqalevu,Apisai Naqalevu,Fijian rugby union player (1989-),Q712,Q1365284
+Q24963359,Q6581097,1990-07-31T00:00:00Z,12,Vatemo Ravouvou,Vatemo Ravouvou,rugby union player,Q712,Q712
+Q25039636,Q6581097,1993-04-21T00:00:00Z,10,Kitione Taliga,Kitione Taliga,Fijian rugby union player,Q712,Q712
+Q2515384,Q6581097,1981-08-26T00:00:00Z,8,Veresa Toma,Veresa Toma,Fijian footballer,Q712,Q712
+Q25350062,Q6581097,1993-01-17T00:00:00Z,3,Rusiate Matarerega,Rusiate Matarerega,association football player,Q712,Q712
+Q25350103,Q6581097,1990-03-16T00:00:00Z,4,Ilimotama Jese,Ilimotama Jese,association football player,Q712,Q712
+Q25713930,Q6581097,1995-02-09T00:00:00Z,9,Samuela Nabenia,Samuela Nabenia,association football player,Q712,Q797434
+Q25999516,Q6581097,1991-02-20T00:00:00Z,4,Amani Makoe,Amani Makoe,Fijian association football player,Q712,Q712
+Q260574,Q6581097,1938-01-01T00:00:00Z,4,Vivekanand Sharma,Vivekanand Sharma,Fijian politician (1938-2006),Q712,
+Q26074818,Q6581097,1993-08-27T00:00:00Z,7,Anish Khem,Anish Khem,Fijian association football player,Q712,
+Q26132721,Q6581097,1989-04-16T00:00:00Z,14,Apisai Domolailai,Apisai Domolailai,Fijian rugby union footballer,Q712,Q26720
+Q26155884,Q6581097,1991-10-22T00:00:00Z,15,Viliame Mata,Viliame Mata,rugby union player (1991-),Q712,Q712
+Q26209343,Q6581072,1990-09-07T00:00:00Z,4,Lavenia Tinai,Lavenia Tinai,Fijian rugby union player (born 1990),Q712,Q1365322
+Q26217963,Q6581072,1987-08-04T00:00:00Z,9,Rusila Nagasau,Rusila Nagasau,Rugby union and rugby sevens player (1987-),Q712,Q26707
+Q26236494,Q6581072,1988-02-02T00:00:00Z,5,Ana Maria Roqica,Ana Maria Roqica,Fijian rugby sevens player,Q712,Q619440
+Q26250582,Q6581072,1992-05-30T00:00:00Z,6,Raijieli Daveua,Raijieli Daveau,Fijian rugby sevens player (born 1992),Q712,
+Q26250633,Q6581097,1993-09-17T00:00:00Z,5,Winston Hill (boxer),Winston Hill,Fijian boxer,Q712,Q38807
+Q26250638,Q6581072,1996-05-02T00:00:00Z,3,Asena Rokomarama,Asena Rokomarama,Fijian dual-code rugby player,Q712,
+Q26250639,Q6581072,1991-06-06T00:00:00Z,7,Viniana Riwai,Viniana Riwai,Fijian rugby and association football player,Q712,Q712
+Q26250641,Q6581072,1991-09-20T00:00:00Z,4,Luisa Tisolo,Luisa Tisolo,American-football player (1991-),Q712,Q38807
+Q26250644,Q6581072,1997-08-31T00:00:00Z,4,Merewai Cumu,Merewai Cumu,Fijian rugby union player,Q712,Q619443
+Q26254292,Q6581097,1994-11-25T00:00:00Z,8,Filipe Baravilala,Filipe Baravilala,Fijian association football player,Q712,Q48313
+Q26254295,Q6581097,1994-03-07T00:00:00Z,7,Ratu Nakalevu,Ratu Nakalevu,association football player,Q712,
+Q26261194,Q6581097,1996-11-17T00:00:00Z,5,Meli Malani,Meli Malani,Fijian swimmer,Q712,
+Q26261661,Q6581072,1995-11-15T00:00:00Z,3,Sisilia Seavula,Sisila Seavula,Fijian sprinter,Q712,Q38807
+Q26267583,Q6581097,1995-03-28T00:00:00Z,5,Shaneel Naidu,Shaneel Naidu,Fijian association football player,Q712,Q712
+Q26789890,Q6581072,2001-04-10T00:00:00Z,4,Sally Yee,Sally Yee,Fijian table tennis player,Q712,Q38807
+Q27050219,Q6581072,1980-05-08T00:00:00Z,2,Kesaia Tawai,Kesaia Tawai,Fijian weightlifter,Q712,Q26692
+Q27450427,Q6581072,1976-08-21T00:00:00Z,3,Ivy Shaw,Ivy Shaw,Fijian weightlifter,Q712,Q712
+Q27469947,Q6581097,1996-02-17T00:00:00Z,1,Marcelo Montoya,Marcello Montoya,Fijian rugby league footballer,Q712,Q856662
+Q2761879,Q6581097,1976-07-09T00:00:00Z,7,Radike Samo,Radike Samo,Australian rugby union player,Q712,Q619443
+Q27663224,Q6581097,1992-02-26T00:00:00Z,1,Tevita Tawai,Tevita Tawai,Fijian weightlifter,Q712,
+Q27735073,Q6581097,1996-11-27T00:00:00Z,2,Manasa Mataele,Manasa Mataele,Fijian rugby union player,Q712,Q38807
+Q27736936,Q6581097,1994-04-12T00:00:00Z,3,Tevita Koroi,Tevita Koroi,Fijian footballer,Q712,Q712
+Q27757690,Q6581097,1991-08-30T00:00:00Z,4,Jale Vatubua,Jale Vatubua,Fijian rugby union footballer (1991-),Q712,Q712
+Q27955813,Q6581072,1951-04-26T00:00:00Z,2,Mereoni Vibose,Mereoni Vibose,"Fijian javelin thrower, discus thrower and shot putter (1951-2018)",Q712,Q6957962
+Q27969222,Q6581097,1967-08-06T00:00:00Z,2,Curtis Mar,Curtis Mar,Fijian international lawn bowler,Q712,
+Q27969238,Q6581097,1958-04-17T00:00:00Z,1,Samuela Tuikiligana,Samuela Tuikiligana,Fijian international lawn bowler,Q712,Q1725479
+Q28065938,Q6581097,1970-09-03T00:00:00Z,1,Nat Saumi,Nat Saumi,Fijian rugby union player (1970-),Q712,Q952528
+Q2822185,Q6581097,1978-12-30T00:00:00Z,3,Aca Ratuva,Aca Ratuva,Fijian rugby union player,Q712,Q712
+Q2828766,Q6581097,1972-07-13T00:00:00Z,3,Aisea Tuilevu,Aisea Tuilevu,Fijian rugby union player,Q712,Q712
+Q2829165,Q6581097,1987-10-06T00:00:00Z,4,Akuila Uate,Akuila Uate,Fijian rugby league footballer,Q712,Q38807
+Q2831634,Q6581097,1985-05-26T00:00:00Z,6,Albert Vulivuli,Albert VuliVuli,Fijian rugby union player,Q712,Q619440
+Q2832402,Q6581097,1977-01-22T00:00:00Z,4,Alefoso Yalayalatabua,Alefoso Yalayalatabua,Fijian rugby union player (1977-2020),Q712,Q38807
+Q2836869,Q6581097,1971-07-29T00:00:00Z,3,Alfie Mocelutu,Alifereti Mocelutu,Fijian rugby union footballer,Q712,Q712
+Q2836870,Q6581097,1976-06-14T00:00:00Z,2,Alifereti Doviverata,Alifereti Doviverata,Fijian rugby union player,Q712,Q38807
+Q2839205,Q6581097,1983-10-21T00:00:00Z,4,Aloisio Butonidualevu,Aloisio Butonidualevu,Fijian rugby player (1983-2023),Q712,Q38807
+Q28478827,Q6581072,1995-04-20T00:00:00Z,2,Hilda Vukikomoala,Hilda Vukikomoala,"Fiji, chess player, FIDE Women's Champion",Q712,
+Q28555327,Q6581097,1985-10-31T00:00:00Z,2,Joeli Lutumailagi,Joeli Lutumailagi,Fijian rugby union player (1985-),Q712,Q26720
+Q28777439,Q6581097,1983-06-06T00:00:00Z,1,Shalendra Lal,Shalendra Lal,Fijian footballer and coach,Q712,Q26713
+Q28803332,Q6581097,1997-06-10T00:00:00Z,3,Peniami Narisia,Péniami Narisia,Fijian rugby player,Q712,
+Q28837136,Q6581097,1955-05-08T00:00:00Z,4,Samuela Tupou,Samuela Tupou,Fijian swimmer,Q712,
+Q28870241,Q6581072,1968-06-24T00:00:00Z,4,Sharon Pickering (swimmer),Sharon Pickering,Fijian swimmer,Q712,
+Q2903217,Q6581097,1977-05-01T00:00:00Z,4,Bill Gadolo,Bill Gadolo,Fijian rugby union player,Q712,Q38807
+Q2925538,Q6581097,1952-08-21T00:00:00Z,5,Brij Lal (historian),Brij Lal,Fijian historian,Q712,Q712
+Q2925538,Q6581097,1952-08-21T00:00:00Z,5,Brij Lal (historian),Brij Lal,Fijian historian,Q668,Q712
+Q29556799,Q6581097,1960-07-12T00:00:00Z,2,Ilaitia Savai,Ilaitia Savai,Fijian rugby union player (1960-2015),Q712,Q1365322
+Q29557647,Q6581097,1957-01-01T00:00:00Z,1,Samuela Vunivalu,Samu Vunivalu,"Fijian rugby union footballer and coach, and politician (1957-)",Q712,
+Q29558646,Q6581097,1967-07-15T00:00:00Z,4,Pauliasi Tabulutu,Pauliasi Tabulutu,Fijian rugby union and rugby league footballer (b. 1967),Q712,Q712
+Q29905841,Q6581072,1938-01-01T00:00:00Z,2,Taufa Vakatale,Taufa Vakatale,Fijian politician,Q712,
+Q29964042,Q6581097,1963-07-18T00:00:00Z,1,Bineshwar Prasad,Bineshwar Prasad,Fijian long-distance runner,Q712,
+Q30122449,Q6581097,1953-01-01T00:00:00Z,1,Samisoni Viriviri (rugby union coach),Samisoni Viriviri,Fijian rugby union footballer and coach,Q712,Q619443
+Q3014915,Q6581097,1978-04-03T00:00:00Z,3,Dan Baleinadogo,Daniele Baleinadogo,Fijian rugby union player,Q712,Q38807
+Q30544376,Q6581097,1994-04-02T00:00:00Z,1,Joshua Fox,Joshua Fox,Fijian basketball player (born 1994),Q712,Q38807
+Q30612302,Q6581097,1937-06-01T00:00:00Z,5,Sitiveni Moceidreke (athlete),Sitiveni Moceidreke,Fijian sprinter,Q712,Q136442315
+Q3071826,Q6581097,1981-02-13T00:00:00Z,2,Filimoni Bolavucu,Filimoni Bolavucu,Fijian rugby union player,Q712,Q38807
+Q30727830,Q6581097,1993-01-29T00:00:00Z,2,Sevanaia Galala,Sevanaia Galala,Fijian rugby union player,Q712,Q712
+Q3093524,Q6581097,1985-06-20T00:00:00Z,7,Gabiriele Lovobalavu,Gabiriele Lovobalavu,Fijian rugby union player,Q712,Q676046
+Q3101930,Q6581097,1957-01-01T00:00:00Z,7,George Speight,George Speight,Fijian politician,Q712,Q1365322
+Q3113241,Q6581097,1982-01-24T00:00:00Z,6,Graham Dewes,Graham Dewes,Fijian rugby union player,Q712,Q38807
+Q3133023,Q6581097,1977-02-08T00:00:00Z,2,Henry Qiodravu,Henry Qiodravu,Fijian rugby union player,Q712,Q38807
+Q3148091,Q6581097,1980-09-20T00:00:00Z,3,Ifereimi Rawaqa,Ifereimi Rawaqa,Fijian rugby union player,Q712,Q856662
+Q3148668,Q6581097,1987-01-27T00:00:00Z,3,Iliesa Keresoni,Iliesa Keresoni,Fijian rugby union player,Q712,Q26707
+Q3148671,Q6581097,1987-08-22T00:00:00Z,2,Ilikena Bolakoro,Ilikena Bolakoro,Fijian rugby union player,Q712,Q38807
+Q3155101,Q6581097,1969-04-29T00:00:00Z,4,Isaia Rasila,Isaia Rasila,Fijian rugby union player (1969-2010),Q712,Q712
+Q3157583,Q6581097,1972-06-25T00:00:00Z,2,Jacob Rauluni,Jacob Rauluni,Fijian rugby union player,Q712,Q38807
+Q316317,Q6581097,1920-12-29T00:00:00Z,39,Josefa Iloilo,Josefa Iloilo,President of Fiji from 2000 to 2009 (1920–2011),Q712,Q712
+Q3177273,Q6581097,1982-09-11T00:00:00Z,3,Jeremaiya Tamanisau,Jeremaiya Tamanisau,Fijian rugby union player,Q712,Q712
+Q3180277,Q6581097,1973-11-23T00:00:00Z,6,Joeli Vidiri,Joeli Vidiri,Fijian-New Zealander rugby player (1973-2022),Q712,Q6981434
+Q3180277,Q6581097,1973-11-23T00:00:00Z,6,Joeli Vidiri,Joeli Vidiri,Fijian-New Zealander rugby player (1973-2022),Q664,Q6981434
+Q3183539,Q6581097,1985-08-27T00:00:00Z,4,Jone Qovu,Jone Qovu,Fijian rugby union player,Q712,Q26720
+Q3183541,Q6581097,1981-02-26T00:00:00Z,3,Jone Railomo,Jone Railomo,Fijian rugby union player (1981-2009),Q712,Q38807
+Q3183546,Q6581097,1982-04-17T00:00:00Z,2,Jone Tawake,Jone Tawake,Fijian rugby union player,Q712,Q38807
+Q3183575,Q6581097,1957-11-10T00:00:00Z,7,Joni Madraiwiwi,Joni Madraiwiwi,Fijian politician (1957–2016),Q712,Q2353856
+Q3192385,Q6581097,1982-11-06T00:00:00Z,6,Kameli Ratuvou,Kameli Ratuvou,Fijian rugby union player,Q712,Q712
+Q3192385,Q6581097,1983-11-06T00:00:00Z,6,Kameli Ratuvou,Kameli Ratuvou,Fijian rugby union player,Q712,Q712
+Q3194849,Q6581097,1974-04-27T00:00:00Z,6,Kele Leawere,Kele Leawere,Fijian rugby union player,Q712,Q26720
+Q3197588,Q6581097,1976-07-26T00:00:00Z,2,"Kitione Salawa (rugby union, born 1976)",Kitione Salawa,Fijian rugby union player,Q712,Q856662
+Q3198452,Q6581097,1956-07-01T00:00:00Z,4,Koli Rakoroi,Koli Rakoroi,Fijian rugby union footballer,Q712,Q712
+Q3198453,Q6581097,1975-01-15T00:00:00Z,3,Koli Sewabu,Koli Sewabu,Fijian rugby union player,Q712,Q712
+Q3229756,Q6581097,1988-02-04T00:00:00Z,18,Leone Nakarawa,Leone Nakarawa,Fijian rugby union player,Q712,Q26690
+Q3281487,Q6581097,1985-05-06T00:00:00Z,3,Malakai Bakaniceva,Malakai Bakaniceva,rugby union player,Q712,Q26707
+Q3281847,Q6581097,1983-11-13T00:00:00Z,5,Maleli Kunavore,Maleli Kunavore,Fijian rugby union player (1983–2012),Q712,Q26720
+Q32860384,Q6581097,1964-02-08T00:00:00Z,2,Manasa Qoro,Manasa Qoro,Fijian rugby union footballer (1964-),Q712,Q619443
+Q3286112,Q6581097,1983-08-12T00:00:00Z,4,Manoa Vosawai,Manoa Vosawai,Italian rugby union player,Q38,Q38807
+Q3286112,Q6581097,1983-08-12T00:00:00Z,4,Manoa Vosawai,Manoa Vosawai,Italian rugby union player,Q712,Q38807
+Q3293062,Q6581097,1974-11-03T00:00:00Z,5,Marika Vunibaka,Marika Vunibaka,Fijian rugby union footballer and coach,Q712,Q26692
+Q33110256,Q6581097,1970-11-18T00:00:00Z,1,Apisai Driu Baibai,Apisai Driu Baibai,Fijian sprinter,Q712,
+Q3311718,Q6581097,1951-07-03T00:00:00Z,2,Mick Beddoes,Mick Beddoes,Fijian politician,Q712,Q856662
+Q3313134,Q6581097,1982-05-13T00:00:00Z,6,Mika Vukona,Mika Vukona,New Zealand basketball player (born 1982),Q712,Q38807
+Q3313134,Q6581097,1982-05-13T00:00:00Z,6,Mika Vukona,Mika Vukona,New Zealand basketball player (born 1982),Q664,Q38807
+Q331942,Q6581097,1963-02-22T00:00:00Z,29,Vijay Singh,Vijay Singh,Fijian-Indian professional golfer (born 1963),Q712,Q856662
+Q331942,Q6581097,1963-02-22T00:00:00Z,29,Vijay Singh,Vijay Singh,Fijian-Indian professional golfer (born 1963),Q668,Q856662
+Q3324778,Q6581097,1975-06-26T00:00:00Z,5,Mosese Rauluni,Mosese Rauluni,Fijian rugby union footballer and coach,Q712,Q38807
+Q33296938,Q6581072,1967-01-01T00:00:00Z,5,Laisa Laveti Tuifagalele,Laisa Laveti Tuifagalele,Fijian judoka (1967-),Q712,
+Q3335909,Q6581097,1986-04-07T00:00:00Z,8,Napolioni Nalaga,Napolioni Nalaga,Fijian rugby union player,Q712,Q208198
+Q3337982,Q6581097,1988-01-31T00:00:00Z,13,Nemani Nadolo,Nemani Nadolo,Fijian-Australian rugby union footballer,Q408,Q712
+Q3337982,Q6581097,1988-01-31T00:00:00Z,13,Nemani Nadolo,Nemani Nadolo,Fijian-Australian rugby union footballer,Q712,Q712
+Q3338508,Q6581097,1983-03-19T00:00:00Z,5,Netani Talei,Netani Talei,Fijian rugby union player,Q712,Q38807
+Q3338643,Q6581097,1976-06-20T00:00:00Z,3,Neumi Nanuku,Neumi Nanuku,Fijian rugby union footballer,Q712,Q712
+Q33423993,Q6581072,1995-04-23T00:00:00Z,3,Cheyenne Rova,Cheyenne Rova,Fijian swimmer,Q712,Q26692
+Q3343800,Q6581097,1976-01-29T00:00:00Z,5,Norman Ligairi,Norman Ligairi,Fijian rugby union player,Q712,Q619443
+Q3360245,Q6581072,1979-12-16T00:00:00Z,5,Sisilia Nasiga,Sisilia Nasiga,Fijian judoka,Q712,
+Q3377001,Q6581097,1976-04-21T00:00:00Z,3,Petero Civoniceva,Petero Civoniceva,Fijian-Australian rugby league footballer,Q712,Q38807
+Q34071310,Q6581097,1970-05-07T00:00:00Z,2,Autiko Daunakamakama,Autiko Daunakamakama,Fijian hurdler,Q712,Q38807
+Q34071310,Q6581097,1970-07-05T00:00:00Z,2,Autiko Daunakamakama,Autiko Daunakamakama,Fijian hurdler,Q712,Q38807
+Q3441950,Q6581097,1985-03-01T00:00:00Z,2,Ropate Ratu,Ropate Ratu,Fijian rugby union player,Q712,Q856662
+Q3469388,Q6581097,1982-08-08T00:00:00Z,6,Sakiusa Matadigo,Sakiusa Matadigo,Fijian rugby union player,Q712,Q38807
+Q3470781,Q6581097,1969-04-19T00:00:00Z,2,Samisoni Rabaka,Sami Nasagavesi,Fijian rugby union player,Q712,Q619443
+Q3471287,Q6581097,1983-02-05T00:00:00Z,3,Samueli Naulu,Samueli Naulu,Fijian rugby union footballer (1983–2013),Q712,Q619443
+Q3474518,Q6581097,1964-04-30T00:00:00Z,3,Savenaca Aria,Savenaca Aria,Fijian rugby union footballer (1964–2020),Q712,Q619443
+Q3479139,Q6581097,1979-01-04T00:00:00Z,8,Seremaia Bai,Seremaia Bai,Fijian rugby union player and coach,Q712,Q26707
+Q3480000,Q6581097,1978-12-27T00:00:00Z,8,Seru Rabeni,Seru Rabeni,Fijian rugby union footballer and coach (1978-2016),Q712,Q1365265
+Q3480630,Q6581097,1981-10-27T00:00:00Z,4,Seta Tuilevuka,Seta Tuilevuka,American rugby union player,Q712,Q712
+Q3480767,Q6581097,1978-11-02T00:00:00Z,2,Seva Rokobaro,Seva Rokobaro,Fijian rugby union player,Q712,Q38807
+Q3480830,Q6581097,1960-12-22T00:00:00Z,5,Severo Koroduadua,Severo Koroduadua Waqanibau,Fijian rugby union footballer,Q712,Q1196481
+Q3485246,Q6581097,1976-01-28T00:00:00Z,7,Sireli Bobo,Sireli Bobo,Fijian rugby union player,Q712,Q1208350
+Q3502872,Q6581097,1983-06-22T00:00:00Z,6,Taniela Waqa,Taniela Waqa,Fijian footballer,Q712,Q712
+Q3515193,Q6581097,1986-04-30T00:00:00Z,3,Taniela Rawaqa,Taniela Rawaqa,Fijian rugby union player,Q712,Q856662
+Q3519293,Q6581097,1946-01-13T00:00:00Z,17,Tevita Momoedonu,Tevita Momoedonu,Prime Minister of Fiji (1946-2020),Q712,Q856662
+Q3529025,Q6581097,1987-07-14T00:00:00Z,6,Timoci Nagusa,Timoci Nagusa,Fijian rugby union player,Q712,Q619443
+Q3529026,Q6581097,1984-07-08T00:00:00Z,4,Timoci Matanavou,Timoci Matanavou,Fijian rugby union player,Q712,Q856662
+Q35326745,Q6581097,1990-09-20T00:00:00Z,1,Kavaia Rawaqa,Kavaia Rawaqa,Fijian association football player,Q712,Q712
+Q3555838,Q6581097,1984-04-05T00:00:00Z,7,Vereniki Goneva,Vereniki Goneva,Fijian rugby union player,Q712,Q856662
+Q3555839,Q6581097,1982-11-19T00:00:00Z,2,Vereniki Sauturaga,Vereniki Sauturaga,Fijian rugby union player,Q712,Q38807
+Q3558412,Q6581097,1972-07-19T00:00:00Z,4,Viliame Satala,Viliame Satala,Fijian rugby union player,Q712,Q856662
+Q3558413,Q6581097,1983-04-23T00:00:00Z,3,Viliame Waqaseduadua,Viliame Waqaseduadua,New Zealand rugby union player,Q712,Q38807
+Q3558413,Q6581097,1983-04-23T00:00:00Z,3,Viliame Waqaseduadua,Viliame Waqaseduadua,New Zealand rugby union player,Q664,Q38807
+Q3560816,Q6581097,1992-05-01T00:00:00Z,9,Virimi Vakatawa,Virimi Vakatawa,Fijian and French rugby player,Q142,Q13155871
+Q3560816,Q6581097,1992-05-01T00:00:00Z,9,Virimi Vakatawa,Virimi Vakatawa,Fijian and French rugby player,Q712,Q13155871
+Q3563801,Q6581097,1975-11-03T00:00:00Z,3,Vula Maimuri,Vula Maimuri,Fijian rugby union player,Q712,Q712
+Q3565170,Q6581097,1968-05-20T00:00:00Z,11,Waisale Serevi,Waisale Serevi,Fijian rugby union footballer and coach,Q712,Q38807
+Q3565173,Q6581097,1984-07-19T00:00:00Z,2,Waisale Sukanaveita,Waisale Sukanaveita,Fijian rugby league and rugby union footballer,Q712,Q712
+Q3565174,Q6581097,1985-07-23T00:00:00Z,3,Waisea Luveniyali,Waisea Luveniyali,Fijian rugby union player,Q712,Q38807
+Q3565988,Q6581097,1983-09-24T00:00:00Z,6,Wame Lewaravu,Wame Lewaravu,Fijian rugby union player,Q712,Q712
+Q3632441,Q6581097,1900-07-17T00:00:00Z,4,Vishnu Deo,Vishnu Deo,Fijian politician (1900-1968),Q712,Q1972394
+Q3635890,Q6581097,1935-01-01T00:00:00Z,4,Narendra Arjun,Narendra Arjun,Fijian politician,Q712,
+Q364694,Q6581097,1979-09-23T00:00:00Z,8,Lote Tuqiri,Lote Tuqiri,Fijian-Australian rugby league and rugby union footballer,Q712,Q38807
+Q364694,Q6581097,1979-09-23T00:00:00Z,8,Lote Tuqiri,Lote Tuqiri,Fijian-Australian rugby league and rugby union footballer,Q408,Q38807
+Q37266982,Q6581097,1965-12-05T00:00:00Z,1,Tomasi Rabaka,Tomasi Rabaka,Fijian rugby union player (1965-2017),Q712,
+Q373605,Q6581097,1941-07-05T00:00:00Z,33,Epeli Nailatikau,Epeli Nailatikau,President of Fiji from 2009 to 2015 (1941–2026),Q712,Q38807
+Q37586526,Q6581097,1994-07-22T00:00:00Z,13,Josaia Raisuqe,Josaia Raisuqe,Fijian rugby union player,Q712,Q38807
+Q37949605,Q6581097,1974-07-04T00:00:00Z,3,Soloveni Nakaunicina,Soloveni Nakaunicina,Fijian sprinter,Q712,Q26707
+Q37949617,Q6581097,1968-10-29T00:00:00Z,1,Henry Semiti Rogo,Henry Rogo,Fijian athlete,Q712,
+Q37949625,Q6581097,1974-06-23T00:00:00Z,2,Solomone Bole,Solomone Bole,Fijian sprinter,Q712,
+Q38027672,Q6581097,1965-01-01T00:00:00Z,2,Kavekini Nalaga,Kavekini Nalaga,Fijian rugby union footballer,Q712,Q952528
+Q3842144,Q6581097,1986-06-14T00:00:00Z,5,Maciu Dunadamu,Maciu Dunadamu,Fijian footballer,Q712,Q579556
+Q38794533,Q6581097,1996-05-18T00:00:00Z,5,Tevita Takayawa,Tevita Takayawa,Fijian judoka (1996-),Q712,
+Q3905816,Q6581097,1978-07-30T00:00:00Z,5,Pita Rabo,Pita Rabo,Fijian association football player,Q712,Q1365257
+Q3905816,Q6581097,1977-07-30T00:00:00Z,5,Pita Rabo,Pita Rabo,Fijian association football player,Q712,Q1365257
+Q39246168,Q6581097,1967-07-19T00:00:00Z,2,Max Olsson,Max Olsson,Fijian rugby union footballer (b. 1967),Q712,Q712
+Q3946663,Q6581097,1988-08-19T00:00:00Z,4,Samuela Vunisa,Samuela Vunisa,Fijian-Italian rugby union player,Q712,Q38807
+Q39970334,Q6581097,1994-10-26T00:00:00Z,2,Pita Gus Sowakula,Pita Gus Sowakula,Fijian rugby union footballer (b. 1994),Q712,Q856662
+Q4007901,Q6581097,1984-07-24T00:00:00Z,5,Valerio Nawatu,Valerio Nawatu,footballer,Q712,
+Q4007901,Q6581097,1983-07-24T00:00:00Z,5,Valerio Nawatu,Valerio Nawatu,footballer,Q712,
+Q4020143,Q6581097,1982-06-06T00:00:00Z,5,William Ryder (rugby union),William Ryder,Fijian rugby union player,Q712,Q712
+Q40236086,Q6581097,1963-11-14T00:00:00Z,3,Laisenia Kato,Laisenia Katonawale,rugby union player (1963-),Q712,Q712
+Q40414686,Q6581097,1963-11-29T00:00:00Z,3,Tevita Vonolagi,Tevita Vonolagi,rugby union player (1963-),Q712,Q712
+Q4118120,Q6581097,1981-08-05T00:00:00Z,6,Peni Finau,Peni Finau,Fijian footballer,Q712,Q712
+Q41242332,Q6581097,1962-07-28T00:00:00Z,2,Mosese Vosanibola,Mosese Vosanibola,rugby union player (1962-),Q712,Q6957029
+Q41315291,Q6581097,1960-06-06T00:00:00Z,3,Naibuka Vuli,Naibuka Vuli,Fijian rugby union footballer (1960-),Q712,Q712
+Q41436059,Q6581072,1975-06-16T00:00:00Z,2,Rachel Rogers,Rachel Rogers,Fijian hurdler,Q712,
+Q41478955,Q6581097,1988-03-05T00:00:00Z,2,Sikeli Nabou,Sikeli Nabou,Fijian rugby union player,Q712,Q712
+Q4208918,Q6581097,1912-11-06T00:00:00Z,8,George Cakobau,George Cakobau,former Governor General of Fiji (1912–1989),Q712,Q38807
+Q42291284,Q6581097,1997-11-09T00:00:00Z,2,Mikaele Ravalawa,Mikaele Ravalawa,Fiji international rugby league footballer (1997–),Q712,Q712
+Q42298254,Q6581072,1996-05-02T00:00:00Z,1,Adele Rova,Adele Rova,Fijian swimmer,Q712,
+Q42298318,Q6581097,1966-02-25T00:00:00Z,2,Lui Muavesi,Lui Muavesi,Fijian athlete,Q712,
+Q42303684,Q6581072,2000-04-12T00:00:00Z,1,Ruby Coffin,Ruby Coffin,Fijian tennis player (born 2000),Q712,Q856662
+Q42303793,Q6581072,2000-07-14T00:00:00Z,1,Vienna Kumar,Vienna Kumar,tennis player (2000-),Q712,Q619443
+Q42307028,Q6581097,1998-03-18T00:00:00Z,1,Joe Lovodua,Joe Lovodua,Fijian-Australian rugby league footballer,Q712,Q856662
+Q42317167,Q6581072,1980-06-05T00:00:00Z,2,Archana Reddy,Archana Reddy,Fijian tennis player,Q712,Q856662
+Q425580,Q6581097,1982-04-19T00:00:00Z,9,Sitiveni Sivivatu,Sitiveni Sivivatu,New Zealand Fijian rugby union footballer,Q712,Q38807
+Q425580,Q6581097,1982-04-19T00:00:00Z,9,Sitiveni Sivivatu,Sitiveni Sivivatu,New Zealand Fijian rugby union footballer,Q664,Q38807
+Q42566720,Q6581097,1966-04-12T00:00:00Z,1,Moses Zarak Khan,Moses Zarak Khan,Fijian middle-distance runner,Q712,
+Q42966315,Q6581097,1996-04-26T00:00:00Z,1,Pio Sokobalavu,Pio Sokobalavu,Fijian rugby league footballer,Q712,Q2308160
+Q4345868,Q6581097,1980-03-26T00:00:00Z,11,Laurence Thoms,Laurence Thoms,Fijian alpine kier,Q712,Q38807
+Q4352695,Q6581097,1988-04-23T00:00:00Z,6,Leslie Copeland (athlete),Leslie Copeland,Fijian javelin thrower,Q712,Q26690
+Q4353529,Q6581097,1935-01-05T00:00:00Z,5,Manu Tupou,Manu Tupou,American actor (1935–2004),Q712,Q25719
+Q43798993,Q6581072,1986-03-26T00:00:00Z,3,Helen Roden,Helen Roden,Fijian-born Australian rules footballer,Q712,Q712
+Q43798993,Q6581072,1986-03-26T00:00:00Z,3,Helen Roden,Helen Roden,Fijian-born Australian rules footballer,Q408,Q712
+Q44741962,Q6581097,1965-09-19T00:00:00Z,2,Davendra Singh (athlete),Davendra Singh,Fijian middle-distance runner,Q712,Q38807
+Q454209,Q6581097,1977-05-22T00:00:00Z,5,Seán Óg Ó hAilpín,Seán Óg Ó hAilpín,Irish Gaelic footballer and hurler,Q712,Q2169106
+Q467199,Q6581097,1984-11-29T00:00:00Z,7,Ronil Kumar,Ronil Kumar,Fiji footballer,Q712,Q38807
+Q469507,Q6581097,1920-05-06T00:00:00Z,32,Kamisese Mara,Kamisese Mara,President of Fiji (1920-2004),Q712,Q2291065
+Q4699101,Q6581097,1981-02-15T00:00:00Z,1,Aisake Tarogi,Aisake Tarogi,Fijian rugby union player,Q712,Q38807
+Q4699401,Q6581097,1965-09-24T00:00:00Z,7,Aiyaz Sayed-Khaiyum,Aiyaz Sayed-Khaiyum,Indo-Fijian lawyer and politician (born 1965),Q712,Q38807
+Q4726809,Q6581097,1987-04-30T00:00:00Z,3,Alipate Carlile,Alipate Carlile,Australian rules footballer,Q712,Q856662
+Q4726811,Q6581097,1983-02-21T00:00:00Z,1,Alipate Noilea,Alipate Noilea,Fijian rugby league and rugby union footballer,Q712,Q26920
+Q473214,Q6581097,1941-02-04T00:00:00Z,25,Laisenia Qarase,Laisenia Qarase,Prime Minister of Fiji (1941-2020),Q712,Q2291065
+Q4740401,Q6581097,1979-05-12T00:00:00Z,2,Amasio Valence,Amasio Valence,Fijian rugby union player,Q712,Q619443
+Q4740401,Q6581097,1979-05-12T00:00:00Z,2,Amasio Valence,Amasio Valence,Fijian rugby union player,Q664,Q619443
+Q4751281,Q6581097,1948-08-08T00:00:00Z,6,Anand Singh (Fijian politician),Anand Singh,Fijian politician (1948-2020),Q712,Q1156
+Q4776995,Q6581097,1948-01-01T00:00:00Z,1,Antonio Tanaburenisau,Antonio Tanaburenisau,Fijian politician,Q712,
+Q4779900,Q6581097,1934-01-05T00:00:00Z,7,Apisai Tora,Apisai Tora,Fijian politician (1934-2020),Q712,Q13155871
+Q4780446,Q6581097,1978-08-14T00:00:00Z,1,Apolosi Satala,Apolosi Satala,Fijian rugby union footballer,Q712,Q856662
+Q4803290,Q6581097,1981-09-16T00:00:00Z,1,Asaeli Boko,Asaeli Boko,Fijian rugby union player,Q712,Q619443
+Q4803292,Q6581097,1930-01-01T00:00:00Z,2,Asaeli Driu,Asaeli Driu,Fijian cricketer,Q712,Q619443
+Q4804200,Q6581097,1931-05-10T00:00:00Z,2,Asesela Ravuvu,Asesela Ravuvu,(10 May 1931 — 11 March 2008) Fijian academic and political leader,Q712,
+Q4812982,Q6581072,1951-01-01T00:00:00Z,3,Ateca Ganilau,Ateca Ganilau,Fijian chief,Q712,
+Q4853132,Q6581097,1941-01-01T00:00:00Z,3,Balwant Singh Rakkha,Balwant Singh Rakkha,Fijian politician,Q712,
+Q485685,Q6581097,1954-01-01T00:00:00Z,4,Anand Babla,Anand Babla,Fijian politician (1954-2008),Q712,
+Q4886609,Q6581097,1991-01-13T00:00:00Z,9,Ben Volavola,Ben Volavola,Australia born Fijian rugby union footballer,Q712,Q3130
+Q4886609,Q6581097,1991-01-13T00:00:00Z,9,Ben Volavola,Ben Volavola,Australia born Fijian rugby union footballer,Q712,Q38807
+Q4886609,Q6581097,1991-01-13T00:00:00Z,9,Ben Volavola,Ben Volavola,Australia born Fijian rugby union footballer,Q408,Q3130
+Q4886609,Q6581097,1991-01-13T00:00:00Z,9,Ben Volavola,Ben Volavola,Australia born Fijian rugby union footballer,Q408,Q38807
+Q48907809,Q6581097,1945-05-04T00:00:00Z,1,Vijay Mishra,Vijay Mishra,Fijian cultural theorist,Q712,Q38807
+Q4891245,Q6581097,1931-09-24T00:00:00Z,3,Berenado Vunibobo,Berenado Vunibobo,Fijian diplomat,Q712,
+Q4892790,Q6581072,1951-01-01T00:00:00Z,3,Bernadette Ganilau,Bernadette Ganilau,Fijian politician,Q712,
+Q4915351,Q6581097,1944-11-03T00:00:00Z,4,Ovini Bokini,Ovini Bokini,Fijian politician (1944-2009),Q712,
+Q492852,Q6581072,1989-12-06T00:00:00Z,3,Andra Whiteside,Andra Whiteside,badminton player,Q712,Q38807
+Q49789714,Q6581097,1994-12-13T00:00:00Z,2,Kitione Ratu,Kitione Ratu,Fiji-born Australian rugby union player,Q408,Q712
+Q49789714,Q6581097,1994-12-13T00:00:00Z,2,Kitione Ratu,Kitione Ratu,Fiji-born Australian rugby union player,Q712,Q712
+Q5024484,Q6581097,1980-03-11T00:00:00Z,2,Calvin Prasad,Calvin Prasad,Fijian chess player,Q712,
+Q50330604,Q6581072,1995-01-21T00:00:00Z,2,Miriama Senokonoko,Miriama Senokonoko,Fiji female athlete,Q712,
+Q5040672,Q6581097,1975-09-13T00:00:00Z,3,Carl Probert,Carl Probert,Fijian swimmer,Q712,Q38807
+Q5045194,Q6581072,1980-05-01T00:00:00Z,4,Caroline Puamau,Caroline Puamau,Fijian swimmer,Q712,Q38807
+Q5068131,Q6581097,1968-01-01T00:00:00Z,2,Chaitanya Lakshman,Chaitanya Lakshman,Fijian politician,Q712,
+Q5084685,Q6581097,1968-01-01T00:00:00Z,1,Charlie Charters,Charlie Charters,British writer,Q712,
+Q5217111,Q6581097,1954-01-01T00:00:00Z,5,Daniel Fatiaki,Daniel Fatiaki,Fijian judge,Q712,Q1950120
+Q5218533,Q6581097,1961-01-01T00:00:00Z,5,Daniel Rae Costello,Daniel Rae Costello,Fijian singer,Q712,Q38807
+Q5219332,Q6581072,1996-05-03T00:00:00Z,4,Danielle Alakija,Danielle Alakija,British-born Fijian athlete,Q712,Q1064180
+Q5230211,Q6581097,1950-01-01T00:00:00Z,2,Davendra Singh,Davendra Singh,Fijian politician,Q712,
+Q5230836,Q6581097,1947-01-01T00:00:00Z,2,David Christopher,David Christopher,Fijian politician,Q710,
+Q5230836,Q6581097,1947-01-01T00:00:00Z,2,David Christopher,David Christopher,Fijian politician,Q712,
+Q5239158,Q6581097,1983-10-08T00:00:00Z,3,David Rodan,David Rodan,Australian rules footballer,Q712,Q712
+Q5240164,Q6581097,1978-12-22T00:00:00Z,8,Joy Ali,Joy Ali,Fijian boxer,Q712,Q712
+Q5259931,Q6581097,1938-01-01T00:00:00Z,2,Deo Narain,Deo Narain,Fijian politician,Q712,
+Q5266491,Q6581097,1967-01-01T00:00:00Z,3,Devanesh Sharma,Devanesh Sharma,Fijian lawyer,Q712,Q38807
+Q5278067,Q6581097,1972-02-06T00:00:00Z,4,Dinesh Chand,Dinesh Chand,professional golfer,Q712,
+Q5284969,Q6581097,1951-07-14T00:00:00Z,2,Dixon Seeto,Dixon Seeto,Fijian businessman (1951–2019),Q712,Q38807
+Q529566,Q6581072,1977-09-07T00:00:00Z,14,Nalini Singh (author),Nalini Singh,New Zealand writer,Q664,Q712
+Q529566,Q6581072,1977-09-07T00:00:00Z,14,Nalini Singh (author),Nalini Singh,New Zealand writer,Q712,Q712
+Q53567679,Q6581097,1991-02-05T00:00:00Z,3,Eroni Sau,Eroni Sau,Fijian rugby union footballer,Q712,Q712
+Q5373742,Q6581097,1983-05-10T00:00:00Z,2,Emosi Vucago,Emosi Vucago,Fijian rugby union player,Q712,Q712
+Q5382092,Q6581097,1942-01-01T00:00:00Z,1,Epeli Qaraninamu Nailatikau,Epeli Qaraninamu Nailatikau,Fijian politician,Q712,
+Q5382093,Q6581097,1977-06-01T00:00:00Z,1,"Epeli Ruivadra (rugby union, born 1977)",Epeli Ruivadra,Fijian  rugby union player,Q712,Q26707
+Q5382101,Q6581097,1960-01-01T00:00:00Z,2,Epenisa Cakobau,Epenisa Cakobau,Fijian chief,Q712,
+Q53870632,Q6581097,1901-01-01T00:00:00Z,2,Aman Ravindra Singh,Aman Ravindra-Singh,Human Rights Lawyer & Human Rights Defender - Freedom Fighter of Fiji,Q712,
+Q539456,Q6581097,1936-07-10T00:00:00Z,6,Satya Nandan,Satya Nandan,Fijian diplomat (1936-2020),Q712,Q38807
+Q5395331,Q6581097,1930-10-06T00:00:00Z,2,Eroni Loganimoce,Eroni Loganimoce,Fijian cricketer,Q712,Q1809825
+Q5396711,Q6581097,1950-01-01T00:00:00Z,3,Esala Teleni,Esala Teleni,Fijian soldier,Q712,Q629098
+Q5436173,Q6581097,1953-02-17T00:00:00Z,4,Farouk Janeman,Farouk Janeman,Fijian footballer (1953-2013),Q712,Q26713
+Q5446661,Q6581097,1947-01-01T00:00:00Z,2,Fida Hussein,Fida Hussein,Fijian politician,Q712,
+Q5448417,Q6581097,1970-03-11T00:00:00Z,2,Fili Seru,Fili Seru,Fijian rugby union and rugby league footballer,Q712,Q712
+Q5448542,Q6581097,1936-08-23T00:00:00Z,3,Filipe Bole,Filipe Bole,Fijian politician (1936-2019),Q712,
+Q5449770,Q6581097,1960-01-01T00:00:00Z,2,Finau Mara,Finau Mara,Fijian politician,Q712,
+Q5516027,Q6581097,1970-11-22T00:00:00Z,4,Gabrieli Qoro,Gabrieli Qoro,Fijian athlete,Q712,Q1208362
+Q5516027,Q6581097,1970-10-22T00:00:00Z,4,Gabrieli Qoro,Gabrieli Qoro,Fijian athlete,Q712,Q1208362
+Q55217211,Q6581097,1995-09-07T00:00:00Z,4,Seta Tuicuvu,Setariki Tuicuvu,Fijian rugby union player,Q712,Q712
+Q5534505,Q6581097,1926-05-17T00:00:00Z,1,Geoffrey Caston,Geoffrey Caston,British academic administrator,Q712,
+Q5537616,Q6581097,1948-04-14T00:00:00Z,1,George Cakobau Jr.,"George Cakobau, Jr.",Fijian politician,Q712,
+Q5541411,Q6581097,1947-12-26T00:00:00Z,43,Jioji Konrote,Jioji Konrote,Fijian politician (born 1947),Q712,Q2169106
+Q55539610,Q6581097,1994-04-12T00:00:00Z,4,Jone Naikabula,Jone Naikabula,rugby player,Q712,Q712
+Q55584394,Q6581097,2000-03-13T00:00:00Z,1,Ratu Dau,Ratu Dau,association football player,Q712,Q712
+Q5568920,Q6581097,1963-05-04T00:00:00Z,4,Glenn Kable,Glenn Kable,Fijian sport shooter,Q712,Q408
+Q55760109,Q6581072,2000-01-01T00:00:00Z,13,Noelene Nabulivou,Noelene Nabulivou,Fijian feminist and environmentalist,Q712,
+Q558880,Q6581097,1942-02-09T00:00:00Z,20,Mahendra Chaudhry,Mahendra Chaudhry,Prime Minister of Fiji (1999-2000),Q712,Q26713
+Q5589861,Q6581097,1951-01-01T00:00:00Z,3,Govind Swamy,Govind Swamy,Fijian politician,Q712,
+Q56232526,Q6581097,1992-04-08T00:00:00Z,3,Filipo Nakosi,Filipo Nakosi,Fiji rugby union player,Q712,Q797434
+Q5624006,Q6581097,1943-01-01T00:00:00Z,2,Gyani Nand,Gyani Nand,Fijian politician of Indian descent,Q712,Q26690
+Q56486749,Q6581097,1999-09-22T00:00:00Z,5,Scott Wara,Scott Wara,English association football player (1999-),Q145,Q856662
+Q56486749,Q6581097,1999-09-22T00:00:00Z,5,Scott Wara,Scott Wara,English association football player (1999-),Q712,Q856662
+Q56543993,Q6581097,1988-07-21T00:00:00Z,3,Nemani Nagusa,Nemani Nagusa,Fijian rugby union footballer,Q712,Q712
+Q5657494,Q6581097,1941-01-01T00:00:00Z,3,Harilal Manilal Patel,Harilal Manilal Patel,Fijian politician,Q712,
+Q5657916,Q6581097,1932-01-01T00:00:00Z,4,Harish Sharma,Harish Sharma,Fijian politician,Q712,Q26707
+Q5666950,Q6581097,1925-04-30T00:00:00Z,3,Harry Apted,Harry Apted,cricketer (1925-2016),Q712,Q38807
+Q56853984,Q6581072,1975-01-01T00:00:00Z,3,Stacy Jupiter,Stacy D. Jupiter,Fijian marine scientist,Q712,Q38807
+Q56861298,Q6581072,2000-01-01T00:00:00Z,2,Joana Monolagi,Joana Monolagi,Fijian artist,Q712,Q26713
+Q5702773,Q6581097,1989-09-15T00:00:00Z,6,Archie Watkins,Archie Watkins,Fijian association football player,Q712,Q712
+Q5725492,Q6581097,1987-08-19T00:00:00Z,6,Beniamino Mateinaqara,Benaminio Mateinaqara,Fijian association football player,Q712,Q712
+Q5725492,Q6581097,1987-08-18T00:00:00Z,6,Beniamino Mateinaqara,Benaminio Mateinaqara,Fijian association football player,Q712,Q712
+Q577868,Q6581097,1977-06-01T00:00:00Z,4,Jone Daunivucu,Jone Daunivucu,Fijian rugby union player,Q712,Q856662
+Q57830,Q6581097,1954-04-27T00:00:00Z,46,Frank Bainimarama,Frank Bainimarama,Prime Minister of Fiji from 2007 to 2022 (born 1954),Q712,Q1365322
+Q58215922,Q6581097,1978-04-28T00:00:00Z,1,Naipolioni Kuricibi,Naipolioni Kuricibi,Fijian rugby league and rugby union footballer,Q712,
+Q58316,Q6581097,1948-06-16T00:00:00Z,5,Inoke Kubuabola,Inoke Kubuabola,Fijian politician,Q712,
+Q58495411,Q6581097,2001-02-17T00:00:00Z,1,Kolinio Radrudru,Kolinio Radrudru,Fijian track and field athlete,Q712,
+Q58637765,Q6581072,1972-12-01T00:00:00Z,4,Lynda Tabuya,Lynda Tabuya,Fijian politician,Q712,
+Q58756165,Q6581072,1968-03-01T00:00:00Z,3,Lenora Qereqeretabua,Lenora Qereqeretabua,Fijian politician,Q712,
+Q58836605,Q6581097,1993-05-24T00:00:00Z,9,Waisea Nacuqu,Waisea Nacuqu,Fijian rugby player,Q712,
+Q58973033,Q6581097,1989-09-23T00:00:00Z,1,Paula Dranisinukula,Paula Dranisinukula,Fijian rugby player,Q712,
+Q58974724,Q6581097,1973-01-01T00:00:00Z,6,Ifereimi Waqainabete,Ifereimi Waqainabete,Fijian politician,Q712,
+Q5907186,Q6581072,1992-06-24T00:00:00Z,2,Hosanna Kabakoro,Hosanna Kabakoro,American model,Q30,Q8684
+Q5907186,Q6581072,1992-06-24T00:00:00Z,2,Hosanna Kabakoro,Hosanna Kabakoro,American model,Q712,Q8684
+Q5907186,Q6581072,1993-01-01T00:00:00Z,2,Hosanna Kabakoro,Hosanna Kabakoro,American model,Q712,Q8684
+Q5907186,Q6581072,1993-01-01T00:00:00Z,2,Hosanna Kabakoro,Hosanna Kabakoro,American model,Q30,Q8684
+Q59160142,Q6581072,1962-04-02T00:00:00Z,5,Premila Kumar,Premila Kumar,Fijian politician,Q712,Q38807
+Q59306050,Q6581097,1990-12-02T00:00:00Z,7,Kalione Nasoko,Kalione Nasoko,Fiji rugby sevens player (b. 1990),Q712,
+Q59327463,Q6581097,1984-01-01T00:00:00Z,2,Alvikh Maharaj,Alvikh Maharaj,Fijian politician,Q712,
+Q59327563,Q6581097,1996-04-18T00:00:00Z,4,Frank Lomani,Frank Lomani,Fijian rugby union player,Q712,Q619440
+Q5934171,Q6581097,1974-05-04T00:00:00Z,5,Jope Namawa,Jope Namawa,Fijian footballer,Q712,Q712
+Q59387209,Q6581097,1990-06-19T00:00:00Z,8,Sevuloni Mocenacagi,Sevuloni Mocenacagi,Fiji rugby sevens player (b. 1990),Q712,Q26720
+Q5968023,Q6581097,1921-11-15T00:00:00Z,5,I. L. Bula,I. L. Bula,Fijian cricketer,Q712,Q1809825
+Q5969473,Q6581097,1990-10-14T00:00:00Z,4,Laisenia Raura,Laisenia Raura,Fijian association football player,Q712,Q712
+Q5998137,Q6581097,1975-09-20T00:00:00Z,1,Iliesa Tanivula,Iliesa Tanivula,Fijian rugby union footballer and coach,Q664,
+Q5998137,Q6581097,1975-09-20T00:00:00Z,1,Iliesa Tanivula,Iliesa Tanivula,Fijian rugby union footballer and coach,Q712,
+Q6018401,Q6581097,1992-06-04T00:00:00Z,5,Misaele Draunibaka,Misaele Draunibaka,Fijian footballer,Q712,Q712
+Q6018401,Q6581097,1992-04-06T00:00:00Z,5,Misaele Draunibaka,Misaele Draunibaka,Fijian footballer,Q712,Q712
+Q60361119,Q6581072,1920-01-01T00:00:00Z,2,Loloma Livingston,Loloma Livingston,Fijian politician,Q712,Q36074
+Q6064796,Q6581097,1980-07-13T00:00:00Z,2,Iowane Divavesi,Iowane Divavesi,Fijian rugby league footballer,Q712,Q712
+Q60676467,Q6581097,1928-07-18T00:00:00Z,2,William Yee,William Yee,Fijian engineer and politician,Q712,Q59223
+Q6081072,Q6581097,1988-01-27T00:00:00Z,1,Isikeli Vuruna,Isikeli Vuruna,Fijian rugby player,Q712,
+Q6081077,Q6581097,1952-03-31T00:00:00Z,2,Isikia Savua,Isikia Savua,Fijian diplomat,Q712,
+Q6085236,Q6581097,1925-01-01T00:00:00Z,1,Isoa Logavatu,Isoa Logavatu,Fijian cricketer (1925-1991),Q712,
+Q6099377,Q6581097,1966-01-23T00:00:00Z,3,"Ivor Evans (footballer, born 1966)",Ivor Evans,Fijian footballer,Q712,Q579556
+Q6105340,Q6581097,1990-08-07T00:00:00Z,6,Remueru Tekiate,Remueru Tekiate,Fijian footballer,Q712,Q712
+Q6118222,Q6581097,1984-08-22T00:00:00Z,6,Samuela Vula,Samuela Vula,Fijian footballer,Q712,Q712
+Q6123454,Q6581097,1937-05-12T00:00:00Z,7,Jai Ram Reddy,Jai Ram Reddy,"Leader of the Opposition, former President of the Fiji Court of Appeals (1937-2022)",Q712,Q856662
+Q6124017,Q6581097,1959-01-01T00:00:00Z,2,Jain Kumar,Jain Kumar,Fijian politician,Q712,
+Q6126718,Q6581097,1958-07-27T00:00:00Z,1,Jale Baba,Jale Baba,Fijian businessman,Q712,
+Q6128421,Q6581097,1936-11-30T00:00:00Z,6,James Ah Koy,James Ah Koy,Fijian politician,Q712,Q856662
+Q6129941,Q6581097,1983-05-25T00:00:00Z,2,James Bolabiu,James Bolabiu,Fijian rugby union referee,Q712,Q38807
+Q6142377,Q6581097,1941-01-01T00:00:00Z,1,James Roland Wood,James Roland Wood,Australian royal commissioner,Q712,
+Q6142969,Q6581097,1924-05-10T00:00:00Z,4,James Shankar Singh,James Shankar Singh,Fijian politician,Q712,Q26713
+Q6153723,Q6581097,1985-05-14T00:00:00Z,3,Tuimasi Manuca,Tuimasi Manuca,Fijian association football player,Q712,Q856662
+Q6163107,Q6581097,1954-10-13T00:00:00Z,7,Vilsoni Hereniko,Vilsoni Hereniko,Fijian filmmaker,Q712,
+Q61669166,Q6581072,1932-12-07T00:00:00Z,1,Agnes TuiSamoa,Agnes TuiSamoa,New Zealand social worker and community advocate,Q664,Q38807
+Q61669166,Q6581072,1932-12-07T00:00:00Z,1,Agnes TuiSamoa,Agnes TuiSamoa,New Zealand social worker and community advocate,Q712,Q38807
+Q6171371,Q6581097,1989-09-09T00:00:00Z,3,Zibraaz Sahib,Zibraaz Sahib,Fijian association football player,Q712,Q712
+Q6180674,Q6581097,1948-01-01T00:00:00Z,1,Jeremaia Waqanisau,Jeremaia Waqanisau,Fijian diplomat,Q712,
+Q6184686,Q6581097,1985-04-10T00:00:00Z,2,Jerry Yanuyanutawa,Jerry Yanuyanutawa,Fijian rugby union player,Q712,Q38807
+Q61861163,Q6581097,1991-01-01T00:00:00Z,3,Ratu Naulago,Ratu Naulago,Fijian rugby league football player,Q712,Q712
+Q6199233,Q6581097,1943-01-01T00:00:00Z,2,Jimi Koroi,Jimi Koroi,Fijian military and police officer,Q712,
+Q6199262,Q6581097,1985-08-05T00:00:00Z,1,Jimilai Nakaidawa,Jimilai Nakaidawa,Fijian rugby union player,Q712,
+Q62004684,Q6581072,1997-01-01T00:00:00Z,3,Venice Traill,Venice Traill,Fijian taekwondo practitioner,Q712,
+Q62215845,Q6581097,1995-12-07T00:00:00Z,7,Nicholas Prasad,Nicholas Prasad,Fijian-Canadian soccer player,Q712,Q2096
+Q62215845,Q6581097,1995-07-12T00:00:00Z,7,Nicholas Prasad,Nicholas Prasad,Fijian-Canadian soccer player,Q16,Q2096
+Q62215845,Q6581097,1995-07-12T00:00:00Z,7,Nicholas Prasad,Nicholas Prasad,Fijian-Canadian soccer player,Q712,Q2096
+Q62215845,Q6581097,1995-12-07T00:00:00Z,7,Nicholas Prasad,Nicholas Prasad,Fijian-Canadian soccer player,Q16,Q2096
+Q62327766,Q6581097,1999-03-08T00:00:00Z,1,Peni Tuigulagula,Peni Tuigulagula,Fijian footballer,Q712,Q712
+Q6232796,Q6581097,1947-01-01T00:00:00Z,1,John Fatiaki,John Fatiaki,Fijian politician,Q712,
+Q62329168,Q6581097,1999-04-09T00:00:00Z,1,Tito Vodowaqa,Tito Vodowaqa,Fijian footballer,Q712,Q712
+Q62329986,Q6581097,1991-06-22T00:00:00Z,1,Josateki Tamudu,Josateki Tamudu,Fijian footballer,Q712,Q1365257
+Q62330761,Q6581097,1992-05-16T00:00:00Z,1,Malakai Rakula,Malakai Rakula,Fijian footballer,Q712,Q712
+Q6235835,Q6581097,1920-05-11T00:00:00Z,2,"John Gosling (cricketer, born 1921)",John Gosling,Fijian cricketer (1920-2004),Q712,Q38807
+Q6240720,Q6581097,1933-02-24T00:00:00Z,2,John Icha Lal,John Icha Lal,Fijian footballer,Q712,
+Q6247247,Q6581097,1948-01-01T00:00:00Z,3,John Maurice Scott,John Maurice Scott,Fijian director general of the Fiji Red Cross and murder victim,Q712,Q38807
+Q6269602,Q6581097,1940-01-01T00:00:00Z,1,Joji Banuve,Joji Banuve,Fijian politician,Q712,
+Q6269662,Q6581072,1932-01-01T00:00:00Z,1,Jokapeci Koroi,Jokapeci Koroi,Fijian politician,Q712,
+Q6275049,Q6581097,1967-09-05T00:00:00Z,4,Jone Delai,Jone Delai,Fijian sprinter,Q712,
+Q6275050,Q6581097,1946-09-11T00:00:00Z,2,Jone Kubuabola,Jone Kubuabola,Fijian politician (1946-2018),Q712,
+Q6275053,Q6581097,1983-05-03T00:00:00Z,2,Jone Macilai (rugby league),Jone Macilai,Fijian rugby league footballer,Q712,Q712
+Q6275444,Q6581097,1986-09-30T00:00:00Z,3,Jonetani Ralulu,Jonetani Ralulu,Fijian rugby union footballer,Q712,Q26720
+Q6275446,Q6581097,1977-04-05T00:00:00Z,1,Jonetani Ratu,Jonetani Ratu,Fijian rugby union player,Q712,Q26720
+Q6279164,Q6581097,1931-01-01T00:00:00Z,2,Josaia Tavaiqia,Josaia Tavaiqia,Fijian politician,Q712,
+Q6279179,Q6581097,1950-01-01T00:00:00Z,1,Josateki Nawalowalo,Josateki Nawalowalo,Fijian chief,Q712,
+Q6281757,Q6581097,1948-04-14T00:00:00Z,2,Joseph Browne (civil servant),Joseph Browne,Fijian civil servant,Q712,
+Q6291157,Q6581097,1982-03-13T00:00:00Z,2,Josua Koroibulu,Josua Koroibulu,Fijian rugby league footballer,Q712,Q712
+Q6296758,Q6581097,1942-01-01T00:00:00Z,1,Jovesa Sovasova,Jovesa Sovasova,Fijian tribal chief,Q712,
+Q63106324,Q6581097,1998-11-26T00:00:00Z,8,Meli Derenalagi,Meli Derenalagi,Fijian rugby union player,Q712,
+Q6313244,Q6581097,1980-04-27T00:00:00Z,3,Junior Farzan Ali,Junior Farzan Ali,Bokker,Q712,Q619443
+Q63234125,Q6581097,1995-03-26T00:00:00Z,8,Aminiasi Tuimaba,Aminiasi Tuimaba,Fiji Sevens Rugby player,Q712,Q712
+Q63258228,Q6581097,1995-10-31T00:00:00Z,3,Mesu Kunavula,Mesulame Kunavula,Fijian rugby union player,Q712,
+Q63258231,Q6581097,1998-06-15T00:00:00Z,8,Vilimoni Botitu,Vilimoni Botitu,Fijian rugby union player,Q712,Q797434
+Q63431815,Q6581097,1992-12-02T00:00:00Z,4,Alivereti Veitokani,Alivereti Veitokani,Fijian rugby union footballer,Q712,Q712
+Q6348712,Q6581097,1957-05-08T00:00:00Z,1,Kaiava Salusalu,Kaiyava Salusalu,rugby league player,Q712,Q712
+Q6353089,Q6581097,1985-05-07T00:00:00Z,2,Kaliova Nauqe Tani,Kaliova Nauqe Tani,Fijian rugby league footballer,Q712,Q712
+Q6353936,Q6581097,1923-07-06T00:00:00Z,1,Kallu Dhani Ram,Kallu Dhani Ram,Fijian trade unionist,Q712,
+Q63699220,Q6581097,1989-10-30T00:00:00Z,2,Livai Ikanikoda,Livai Ikanikoda,Fijian rugby player,Q712,
+Q6379348,Q6581072,1923-05-12T00:00:00Z,1,Kavu Iloilo,Kavu Iloilo,First Lady of Fiji,Q712,Q25698
+Q6385566,Q6581097,1981-07-07T00:00:00Z,1,Kelemedi Bola,Kelemedi Bola,Fijian rugby union player,Q712,Q38807
+Q6389214,Q6581097,1976-11-26T00:00:00Z,6,Keni Doidoi,Keni Doidoi,Fijian footballer,Q712,Q712
+Q6390862,Q6581097,1959-06-16T00:00:00Z,3,Kenneth Zinck,Kenneth Zinck,Fijian politician,Q712,Q38807
+Q63981836,Q6581097,1990-06-27T00:00:00Z,2,Iliesa Ratuva Tavuyara,Iliesa Ratuva Tavuyara,Fijian rugby union player,Q712,Q26720
+Q6413875,Q6581097,1963-12-11T00:00:00Z,1,Kiniviliame Koroibuleka,Kiniviliame Koroibuleka,Fijian rugby union and rugby league footballer,Q712,Q26715
+Q6413876,Q6581097,1975-03-17T00:00:00Z,1,Kiniviliame Radaveta,Kiniviliame Radaveta,Fijian rugby union player,Q712,
+Q6426284,Q6581072,1953-01-01T00:00:00Z,8,Koila Nailatikau,Koila Nailatikau,Fijian politician,Q712,
+Q6427266,Q6581097,1936-01-01T00:00:00Z,1,Kolinio Rokotuinaceva,Kolinio Rokotuinaceva,Fijian politician,Q712,
+Q6429414,Q6581097,1901-01-01T00:00:00Z,1,Konisi Yabaki,Konisi Yabaki,Fijian politician,Q712,
+Q6437403,Q6581097,1945-01-01T00:00:00Z,5,Krishna Datt,Krishna Datt,Fijian politician,Q712,
+Q6474129,Q6581072,1960-08-13T00:00:00Z,2,Laisa Vulakoro,Laisa Vulakoro,Fijian female singer,Q712,
+Q6480132,Q6581072,1931-01-04T00:00:00Z,4,Lala Mara,Lala Mara,Fijian politician (1931-2004),Q712,
+Q64853283,Q6581097,1995-01-21T00:00:00Z,4,Mesu Dolokoto,Mesu Dolokoto,Fijian rugby union player,Q712,Q38807
+Q64853315,Q6581097,1999-01-20T00:00:00Z,1,Penioni Tagituimua,Penioni Tagituimua,Fijian rugby league footballer,Q712,
+Q6502559,Q6581072,1944-01-01T00:00:00Z,3,Lavenia Padarath,Lavenia Padarath,Fijian politician,Q712,
+Q6527298,Q6581097,1980-06-04T00:00:00Z,1,Lepani Nabuliwaqa,Lepani Nabuliwaqa,Fijian rugby union player,Q712,Q38807
+Q65653651,Q6581097,1996-08-10T00:00:00Z,1,Jale Vakaloloma,Jale Vakaloloma,Fijian rugby union player,Q712,Q712
+Q65939809,Q6581097,1995-06-18T00:00:00Z,1,Avikash Lal,Avikash Lal,Fijian athlete,Q712,
+Q66237912,Q6581097,1995-05-08T00:00:00Z,4,Tevita Ratuva,Tevita Ratuva,Fidjian rugby union player,Q712,Q712
+Q664074,Q6581097,1984-04-24T00:00:00Z,6,Akapusi Qera,Akapusi Qera,Fijian rugby union player,Q712,Q38807
+Q664469,Q6581097,1980-03-06T00:00:00Z,5,Sisa Koyamaibole,Sisa Koyamaibole,Fijian rugby union player,Q712,Q38807
+Q6648542,Q6581072,1941-01-01T00:00:00Z,2,Litia Cakobau,Litia Cakobau,Fijian politician,Q712,
+Q66529549,Q6581097,1998-11-06T00:00:00Z,1,Isikeli Ratucava,Isikeli Ratucava,Fijian footballer,Q712,
+Q66733945,Q6581097,1998-05-03T00:00:00Z,2,Patrick Joseph (footballer),Patrick Joseph,Fijian footballer,Q712,Q619443
+Q6684640,Q6581097,1987-11-12T00:00:00Z,5,"Lote Tuqiri (rugby union, born 1987)",Lote Tuqiri,Japanese rugby union footballer,Q17,Q26920
+Q6684640,Q6581097,1987-11-12T00:00:00Z,5,"Lote Tuqiri (rugby union, born 1987)",Lote Tuqiri,Japanese rugby union footballer,Q712,Q26920
+Q671683,Q6581097,1988-06-09T00:00:00Z,12,Alvin Singh,Alvin Singh,Fiji footbaler,Q712,Q797434
+Q67181821,Q6581097,1997-12-29T00:00:00Z,4,Ratu Veremalua Vugakoto,Ratu Veremalua Vugakoto,Fijian rugby union player,Q712,Q712
+Q67184136,Q6581097,1985-06-07T00:00:00Z,3,Mosese Voka,Mosese Voka,Fijian rugby union player,Q712,Q28948796
+Q6733728,Q6581097,1921-09-25T00:00:00Z,2,Mahendra Chand Vinod,Mahendra Chand Vinod,Fijian politician,Q712,
+Q6739237,Q6581072,1977-10-23T00:00:00Z,5,Makelesi Bulikiobo-Batimala,Makelesi Batimala,Fijian sprinter,Q712,Q619443
+Q6741138,Q6581097,1961-05-31T00:00:00Z,2,Malakai Kaunaivalu,Malakai Kaunivalu,Fiji international rugby league footballer,Q712,Q712
+Q6741144,Q6581097,1986-10-03T00:00:00Z,6,Malakai Tiwa,Malakai Tiwa,Fijian footballer,Q712,Q712
+Q6753062,Q6581097,1990-03-25T00:00:00Z,3,Manueli Tulo,Manueli Tulo,Fijian weightlifter,Q712,Q26692
+Q6760903,Q6581097,1950-12-12T00:00:00Z,1,Mari Kapi,Mari Kapi,Papua New Guinea judge (1950-2009),Q712,
+Q6761363,Q6581072,1990-04-27T00:00:00Z,5,Maria Liku,Maria Liku,Fijian weightlifter,Q712,Q26692
+Q6812262,Q6581097,1945-09-24T00:00:00Z,2,Meli Bainimarama,Meli Bainimarama,Fijian civil servant (1945-2015),Q712,
+Q6818879,Q6581072,1938-07-28T00:00:00Z,1,Mere Samisoni,Mere Samisoni,Fijian businesswoman and politician (1938–2023),Q712,
+Q6825521,Q6581097,1991-05-20T00:00:00Z,5,Metuisela Talebula,Metuisela Talebula,Fijian rugby union player,Q712,Q856662
+Q6833754,Q6581097,1987-10-16T00:00:00Z,1,Michael Ratu,Michael Ratu,English rugby league footballer,Q712,Q474605
+Q6874901,Q6581097,1925-01-21T00:00:00Z,1,Mirza Namrud Buksh,Mirza Namrud Buksh,Fijian politician,Q712,
+Q690729,Q6581097,1977-07-12T00:00:00Z,10,Vilimoni Delasau,Vilimoni Delasau,Fijian rugby union footballer,Q712,Q26713
+Q6911835,Q6581097,1924-05-21T00:00:00Z,2,Morgan Simmons,Morgan Simmons,Fijian cricketer (1924-1983),Q712,Q579556
+Q6916026,Q6581097,1980-03-23T00:00:00Z,1,Mosese Luveitasau,Mosese Luveitasau,Fijian rugby union player,Q712,Q38807
+Q6916027,Q6581097,1922-04-27T00:00:00Z,2,Mosese Bogisa,Mosese Bogisa,Fijian cricketer,Q712,Q619443
+Q6917674,Q6581097,1925-03-18T00:00:00Z,4,Moti Tikaram,Moti Tikaram,Fijian judge,Q712,Q26703
+Q6957071,Q6581097,1969-07-20T00:00:00Z,1,Nacanieli Seru,Nacanieli Seru,Fijian rugby union player,Q712,
+Q6957072,Q6581097,1975-10-04T00:00:00Z,7,Nacanieli Qerewaqa,Nacanieli Qerewaqa,Fijian judoka,Q712,Q38807
+Q6959729,Q6581097,1953-12-23T00:00:00Z,23,Naiqama Lalabalavu,Naiqama Lalabalavu,Fijian politician,Q712,
+Q6963618,Q6581072,1953-01-01T00:00:00Z,2,Nanise Nagusuca,Nanise Nagusuca,Fijian politician,Q712,
+Q6966376,Q6581097,1943-01-01T00:00:00Z,2,Narsi Raniga,Narsi Raniga,Fijian politician,Q712,
+Q6967237,Q6581097,1979-11-29T00:00:00Z,2,Nasoni Roko,Nasoni Roko,Fijian rugby union player,Q712,
+Q6982081,Q6581097,1957-08-01T00:00:00Z,3,Navaneeda K. Gounder,Navaneeda K. Gounder,Fijian footballer,Q712,Q619443
+Q6982477,Q6581097,1939-01-01T00:00:00Z,3,Navin Maharaj,Navin Maharaj,Fijian politician,Q712,
+Q6983385,Q6581072,1960-01-01T00:00:00Z,11,Nazhat Shameem,Nazhat Shameem,Fijian judge and prosecutor,Q712,Q712
+Q6990921,Q6581097,1928-04-08T00:00:00Z,2,Nemani Kavuru,Nemani Kavuru,Fijian cricketer,Q712,Q1365322
+Q7001975,Q6581097,1957-01-01T00:00:00Z,1,Neumi Leweni,Neumi Leweni,Fijian army officer and diplomat,Q712,
+Q7032639,Q6581097,1975-10-25T00:00:00Z,2,Nigel Simpson,Nigel Simpson,English rugby union player,Q712,
+Q7035441,Q6581097,1960-08-16T00:00:00Z,1,Niko Nawaikula,Niko Nawaikula,Fijian politician,Q712,
+Q7035584,Q6581097,1989-03-08T00:00:00Z,6,Nikola Matawalu,Nikola Matawalu,Fijian rugby union player,Q712,Q38807
+Q7045287,Q6581097,1990-07-11T00:00:00Z,6,Noa Nakaitaci,Noa Nakaitaci,Fijian rugby union player,Q712,Q856662
+Q7045287,Q6581097,1990-07-11T00:00:00Z,6,Noa Nakaitaci,Noa Nakaitaci,Fijian rugby union player,Q142,Q856662
+Q7049806,Q6581097,1946-01-01T00:00:00Z,4,Noor Dean,Noor Dean,Fijian politician,Q712,Q38807
+Q7106451,Q6581097,1986-04-24T00:00:00Z,2,Osea Sadrau,Osea Sadrau,Fijian rugby league footballer,Q712,Q712
+Q7136856,Q6581097,1977-01-01T00:00:00Z,2,Paresh Narayan,Paresh Narayan,Australian economist,Q408,Q1972394
+Q7136856,Q6581097,1977-01-01T00:00:00Z,2,Paresh Narayan,Paresh Narayan,Australian economist,Q712,Q1972394
+Q7147509,Q6581097,1925-10-31T00:00:00Z,3,Patrick Raddock,Patrick Raddock,Fijian cricketer (1925-1977),Q712,Q38807
+Q7150478,Q6581097,1994-01-21T00:00:00Z,2,Paul Elaisa,Paul Elaisa,Fijian swimmer,Q712,Q38807
+Q7152185,Q6581097,1934-01-30T00:00:00Z,2,Paul Manueli,Paul Manueli,Fijian politician,Q712,Q7045556
+Q7153783,Q6581097,1939-01-04T00:00:00Z,2,Paul Stein (judge),Paul Stein,Australian judge,Q712,
+Q7153783,Q6581097,1939-01-04T00:00:00Z,2,Paul Stein (judge),Paul Stein,Australian judge,Q408,
+Q7154740,Q6581097,1937-04-01T00:00:00Z,1,Paula Niukula,Paula Niukula,Fijian minister,Q712,
+Q7155281,Q6581097,1988-04-07T00:00:00Z,5,Paulo Posiano,Paulo Posiano,Fijian footballer,Q712,Q712
+Q7162541,Q6581097,1981-01-20T00:00:00Z,4,Pene Erenio,Pene Erenio,Fijian football player,Q712,Q712
+Q719295,Q6581097,1986-01-15T00:00:00Z,13,Osea Vakatalesau,Osea Vakatalesau,Fijian football striker,Q712,Q38807
+Q7196591,Q6581097,1947-01-01T00:00:00Z,2,Pio Bosco Tikoisuva,Pio Bosco Tikoisuva,Fijian rugby union player,Q712,
+Q72023420,Q6581097,1993-06-06T00:00:00Z,5,Albert Tuisue,Albert Tuisue,Fijian rugby union player,Q712,Q712
+Q72211030,Q6581097,1990-09-26T00:00:00Z,1,Enele Malele,Enele Malele,Fijian rugby union player,Q712,Q38807
+Q7268116,Q6581097,1929-01-01T00:00:00Z,2,Qoriniasi Bale,Qoriniasi Bale,Fijian politician,Q712,
+Q7279128,Q6581072,1989-05-31T00:00:00Z,3,Rachel Ah Koy,Rachel Ah Koy,Fijian swimmer,Q712,Q38807
+Q7286052,Q6581097,1953-11-17T00:00:00Z,3,Rajesh Chandra,Rajesh Chandra,Fijian academic (1953–2023),Q712,Q952528
+Q7286815,Q6581097,1962-01-01T00:00:00Z,2,Rakuita Vakalalabure,Rakuita Vakalalabure,Fijian politician,Q712,
+Q7288537,Q6581097,1905-01-01T00:00:00Z,1,Ram Narayan Deoki,Ram Narayan Deoki,Fiji Indian minister,Q712,
+Q7288881,Q6581097,1950-06-06T00:00:00Z,4,Raman Pratap Singh,Raman Pratap Singh,Fijian politician (1950-2020),Q712,Q94716371
+Q7296049,Q6581097,1992-09-04T00:00:00Z,9,Banuve Tabakaucoro,Banuve Tabakaucoro,Fijian sprinter,Q712,Q38807
+Q7296052,Q6581097,1952-10-03T00:00:00Z,1,Jekesoni Yavalanavanua,Ratu Jekesoni Lewenilovo Yavalanavanua,Fijian politician,Q712,
+Q7296303,Q6581097,1987-02-01T00:00:00Z,4,Ravai Fatiaki,Ravai Fatiaki,Fijian rugby union footballer,Q712,
+Q72999253,Q6581072,2000-06-18T00:00:00Z,1,Matila Vocea,Matila Vocea,Fijian netball player,Q712,
+Q73006166,Q6581072,1985-04-03T00:00:00Z,1,Adi Bolakoro,Adi Bolakoro,Fijian netball player,Q712,
+Q733523,Q6581097,1987-08-30T00:00:00Z,31,Roy Krishna,Roy Krishna,Fijian footballer,Q712,Q579556
+Q7336047,Q6581097,1952-01-01T00:00:00Z,2,Rishi Ram,Rishi Ram,Fijian diplomat,Q712,
+Q7336049,Q6581097,1934-01-01T00:00:00Z,4,Rishi Shankar,Rishi Shankar,Fijian politician (1934–2015),Q712,
+Q7380235,Q6581097,1985-10-08T00:00:00Z,2,Rupeni Nasiga,Rupeni Nasiga,Fijian rugby union player,Q712,Q26720
+Q7380236,Q6581097,1968-08-13T00:00:00Z,2,Rupeni Varea,Rupeni Varea,Fijian weightlifter,Q712,Q7081502
+Q7380899,Q6581097,1927-01-01T00:00:00Z,1,Rusiate Nayacakalou,Rusiate Nayacakalou,Fijian anthropologist,Q712,
+Q7380900,Q6581097,1961-05-16T00:00:00Z,7,Rusiate Rogoyawa,Rusiate Rogoyawa,Fijian cross-country skier,Q712,
+Q7387657,Q6581097,1923-03-01T00:00:00Z,5,Sidiq Koya,S. M. Koya,Fijian politician,Q712,
+Q7400454,Q6581097,1938-11-04T00:00:00Z,1,Sailosi Kepa,Sailosi Kepa,Fijian politician,Q712,
+Q7400474,Q6581097,1945-01-01T00:00:00Z,3,Saimoni Tamani,Saimoni Tamani,Fijian sprinter,Q712,Q1365265
+Q7400474,Q6581097,1944-11-14T00:00:00Z,3,Saimoni Tamani,Saimoni Tamani,Fijian sprinter,Q712,Q1365265
+Q7400475,Q6581097,1972-12-09T00:00:00Z,2,Saimoni Rokini,Saimoni Rokini,Fijian rugby union player,Q712,
+Q7402516,Q6581097,1920-01-01T00:00:00Z,1,Sairusi Nagagavoka,Sairusi Nagagavoka,Fijian politician,Q712,
+Q7403008,Q6581097,1950-01-01T00:00:00Z,1,Sakiusa Bulicokocoko,Sakiusa Bulicokocoko,Fijian musician,Q712,
+Q7403010,Q6581097,1946-08-22T00:00:00Z,1,Sakiusa Sing,Sakiusa Sing,Catholic teacher in Fiji (1946-2005),Q712,
+Q7407423,Q6581097,1968-12-25T00:00:00Z,4,Sam Domoni,Sam Domoni,Fijian rugby union footballer and coach (1968-2021),Q712,Q712
+Q7408759,Q6581072,1940-01-01T00:00:00Z,5,Samanunu Cakobau-Talakuli,Samanunu Cakobau-Talakuli,Fijian politician,Q712,
+Q7410293,Q6581097,1941-01-01T00:00:00Z,2,Samresan Pillay,Samresan Pillay,Fijian politician,Q712,
+Q7410666,Q6581097,1983-03-17T00:00:00Z,1,Samu Bola,Samu Bola,Fijian rugby union player,Q712,Q38807
+Q7413017,Q6581097,1987-05-21T00:00:00Z,8,Samuela Kautoga,Samuela Kautoga,Fijian footballer,Q712,Q38807
+Q7413017,Q6581097,1987-02-03T00:00:00Z,8,Samuela Kautoga,Samuela Kautoga,Fijian footballer,Q712,Q38807
+Q7418337,Q6581097,1952-01-01T00:00:00Z,1,Sanivalati Laulau,Sanivalati Laulau,Fijian rugby union footballer and coach,Q712,
+Q7418499,Q6581097,1954-01-01T00:00:00Z,2,Sanjeet Chand Maharaj,Sanjeet Chand Maharaj,Fijian politician,Q712,
+Q7420946,Q6581072,1986-01-01T00:00:00Z,4,Sapeta Taito,Sapeta Taito,Fijian actress,Q712,Q38807
+Q7421985,Q6581097,1990-07-26T00:00:00Z,1,Sarafu Fatiaki,Sarafu Fatiaki,Fijian rugby league footballer,Q712,Q38807
+Q7426104,Q6581097,1939-01-01T00:00:00Z,5,Satendra Nandan,Satendra Nandan,Fijian politician,Q712,
+Q7427353,Q6581097,1984-06-04T00:00:00Z,3,Saula Radidi,Saula Radidi,Fijian rugby union player,Q712,Q38807
+Q7428162,Q6581097,1950-01-01T00:00:00Z,1,Savenaca Draunidalo,Savenaca Draunidalo,Fijian politician,Q712,
+Q7428163,Q6581097,1940-11-04T00:00:00Z,1,Savenaca Siwatibau,Savenaca Siwatibau,Fijian civil servant,Q712,Q2879431
+Q7446003,Q6581097,1918-01-01T00:00:00Z,2,Sefanaia Sukanaivalu,Sefanaia Sukanaivalu,recipient of the Victoria Cross,Q712,Q712
+Q7447386,Q6581097,1941-09-01T00:00:00Z,1,Sela Nanovo,Sela Nanovo,Fijian politician,Q712,
+Q7449242,Q6581097,1987-08-28T00:00:00Z,3,Semesa Rokoduguni,Semesa Rokoduguni,Fijian rugby union player,Q712,Q26707
+Q7449339,Q6581097,1978-03-03T00:00:00Z,1,Semi Tadulala,Semi Tadulala,Fijian rugby league and rugby union footballer,Q712,Q38807
+Q7456349,Q6581097,1983-03-18T00:00:00Z,3,Setanta Ó hAilpín,Setanta Ó hAilpín,Fijian-Irish sportsman,Q712,Q3130
+Q7456391,Q6581097,1978-11-03T00:00:00Z,1,Setefano Cakau,Setefano Cakau,Fijian rugby union player,Q712,
+Q7456392,Q6581097,1981-02-10T00:00:00Z,2,Setefano Somoca,Setefano Somoca,Fijian rugby union footballer,Q712,
+Q7457130,Q6581097,1978-05-29T00:00:00Z,5,Seveci Rokotakala,Seveci Rokotakala,football player,Q712,Q712
+Q7457131,Q6581097,1981-12-25T00:00:00Z,1,Seveci Taka,Seveci Taka,Fijian rugby union player,Q712,Q26720
+Q74691454,Q6581097,1999-07-03T00:00:00Z,3,Emoni Narawa,Emoni Narawa,NZ capped Fijian rugby union player,Q712,Q38807
+Q7530087,Q6581097,1985-12-12T00:00:00Z,1,Sireli Ledua,Sireli Ledua,Fijian rugby union player,Q712,Q38807
+Q7530090,Q6581097,1980-09-30T00:00:00Z,3,Sireli Naqelevuki,Sireli Naqelevuki,Fijian rugby union player,Q712,Q38807
+Q762944,Q6581097,1978-06-07T00:00:00Z,5,Isoa Neivua,Isoa Neivua,Fijian rugby union player,Q712,Q712
+Q7648446,Q6581072,1988-01-14T00:00:00Z,1,Susan Tagicakibau,Susan Tagicakibau,Fijian netball player,Q712,
+Q76792,Q6581097,1929-01-01T00:00:00Z,4,Panapasa Balekana,Panapasa Balekana,Solomon Islands composer,Q712,Q1048944
+Q76792,Q6581097,1929-01-01T00:00:00Z,4,Panapasa Balekana,Panapasa Balekana,Solomon Islands composer,Q685,Q1048944
+Q7695053,Q6581072,1945-12-18T00:00:00Z,4,Teimumu Kepa,Teimumu Kepa,Chief of Rewa Province and Fijian politician,Q712,Q29623722
+Q770513,Q6581097,1987-02-16T00:00:00Z,4,Niko Verekauta,Niko Verekauta,Fijian sprinter,Q712,Q6957032
+Q7707175,Q6581097,1927-01-01T00:00:00Z,1,Tevita Vakalalabure,Tevita Vakalalabure,Fijian politician (1927–2005),Q712,
+Q774277,Q6581097,1950-04-27T00:00:00Z,10,Mike Howlett,Mike Howlett,Fijian musician,Q712,Q856662
+Q7806895,Q6581097,1953-01-01T00:00:00Z,1,Timoci Naivaluwaqa,Timoci Naivaluwaqa,Fijian trade unionist,Q712,
+Q7806898,Q6581097,1931-10-21T00:00:00Z,3,Timoci Tuivaga,Timoci Tuivaga,Fijian judge (1931–2015),Q712,Q1910831
+Q7818347,Q6581097,1961-02-21T00:00:00Z,2,Tomasi Cama,Tomasi Cama,Fijian rugby union footballer,Q712,Q38807
+Q7818352,Q6581097,1926-09-18T00:00:00Z,2,Tomasi Vakatora,Tomasi Vakatora,Fijian politician (1926-2006),Q712,
+Q7823172,Q6581097,1969-06-14T00:00:00Z,6,Tony Philp,Tony Philp,Fijian windsurfer,Q712,Q38807
+Q7850479,Q6581097,1945-06-05T00:00:00Z,1,Tu'uakitau Cokanauto,Tu'uakitau Cokanauto,Fijian politician (1945–2023),Q712,
+Q7853527,Q6581097,1942-06-14T00:00:00Z,4,Tupeni Baba,Tupeni Baba,Fijian politician,Q712,Q5148320
+Q7876973,Q6581097,1938-09-14T00:00:00Z,4,Uday Singh (Fijian politician),Uday Singh,Fijian Politician (1938-2014),Q712,
+Q7877241,Q6581097,1960-01-01T00:00:00Z,2,Udit Narayan (politician),Udit Narayan,Fijian politician,Q712,
+Q7923207,Q6581097,1985-10-04T00:00:00Z,2,Vesi Rarawa,Vesi Rarawa,Fijian rugby union player,Q712,Q712
+Q7930212,Q6581097,1982-04-04T00:00:00Z,4,Viliame Veikoso,Viliame Veikoso,Fijian rugby union footballer,Q712,Q38807
+Q7932742,Q6581097,1939-02-28T00:00:00Z,3,Vinod Patel,Vinod Patel,Fijian politician (1939–2024),Q712,Q26713
+Q7934819,Q6581072,1972-01-01T00:00:00Z,18,Virisila Buadromo,Virisila Buadromo,Fijian journalist and activist,Q712,Q712
+Q7937202,Q6581097,1985-11-01T00:00:00Z,4,Vitori Buatava,Vitori Buatava,Fijian rugby union player,Q712,Q3141
+Q7960347,Q6581097,1973-06-26T00:00:00Z,2,Waisale Sovatabua,Waisale Sovatabua,Fijian rugby league footballer,Q712,Q712
+Q7960349,Q6581097,1983-11-10T00:00:00Z,1,Waisale Vatuvoka,Waisale Vatuvoka,Fijian rugby union footballer,Q712,Q38807
+Q7960350,Q6581097,1989-03-28T00:00:00Z,3,Waisea Nailago,Waisea Daveta,Fijian rugby union footballer,Q712,Q38807
+Q7974672,Q6581097,1979-07-13T00:00:00Z,2,Watisone Lotawa,Watisone Lotawa,Fijian rugby union player,Q664,Q712
+Q7974672,Q6581097,1979-07-13T00:00:00Z,2,Watisone Lotawa,Watisone Lotawa,Fijian rugby union player,Q712,Q712
+Q7974673,Q6581097,1985-03-25T00:00:00Z,3,Watisoni Votu,Watisoni Votu,Fijian rugby union footballer,Q712,Q856662
+Q8027453,Q6581097,1977-01-03T00:00:00Z,1,Wise Kativerata,Wise Kativerata,Fijian rugby league and rugby union footballer,Q712,Q38807
+Q8196829,Q6581097,1982-04-06T00:00:00Z,6,Alvin Avinesh,Alvin Avinesh,Fijian footballer,Q712,Q712
+Q84801959,Q6581097,1988-02-17T00:00:00Z,2,"John Stewart (rugby union, born 1988)",John Stewart,Fijian rugby union player,Q712,Q712
+Q85870226,Q6581097,1999-05-30T00:00:00Z,2,Inoke Burua,Inoke Burua,Fijian rugby union player,Q712,
+Q86601959,Q6581097,1938-07-22T00:00:00Z,1,David Ashby (sailor),David Ashby,Fijian sailor,Q712,
+Q87476036,Q6581097,2000-01-03T00:00:00Z,3,Eliesa Katoa,Eliesa Katoa,Tongan rugby league footballer,Q712,Q2563164
+Q90294287,Q6581097,1996-11-20T00:00:00Z,7,Napolioni Bolaca,Napolioni Bolaca,Fijian rugby sevens player,Q712,Q25701
+Q9093724,Q6581097,1949-02-21T00:00:00Z,7,Viliame Takayawa,Viliame Takayawa,Fijian judoka (1949-2010),Q712,Q7917224
+Q9158462,Q6581097,1983-08-25T00:00:00Z,6,Apisai Smith,Apisai Smith,Fijian footballer,Q712,Q38807
+Q9158462,Q6581097,1985-08-25T00:00:00Z,6,Apisai Smith,Apisai Smith,Fijian footballer,Q712,Q38807
+Q922995,Q6581097,1982-06-05T00:00:00Z,14,Simione Tamanisau,Simione Tamanisau,Fijian footballer,Q712,Q38807
+Q924928,Q6581072,1982-08-18T00:00:00Z,5,Finau Vulivuli,Finau Vulivuli,Fijian association football referee and association football player,Q712,
+Q929760,Q6581097,1951-10-10T00:00:00Z,5,Epeli Ganilau,Epeli Ganilau,Fijian politician and chief (1951 - 2023),Q712,
+Q931973,Q6581097,1989-05-15T00:00:00Z,7,Kini Murimurivalu,Kini Murimurivalu,Fijian rugby union player,Q712,Q38807
+Q9368753,Q6581097,1932-06-11T00:00:00Z,4,Viliame Liga,William Liga,Fijian javelin thrower,Q712,Q108766426
+Q94780,Q6581097,1983-06-06T00:00:00Z,14,Joe Rokocoko,Joe Rokocoko,New Zealand rugby union footballer,Q712,Q619443
+Q94780,Q6581097,1983-06-06T00:00:00Z,14,Joe Rokocoko,Joe Rokocoko,New Zealand rugby union footballer,Q664,Q619443
+Q94782752,Q6581097,1993-05-18T00:00:00Z,1,Paula Balekana,Paula Balekana,Fijian rugby union player,Q712,Q38807
+Q953203,Q6581097,1979-08-19T00:00:00Z,2,Ravuama Samo,Ravuama Samo,Fijian rugby player,Q712,Q619443
+Q95384934,Q6581097,1999-10-12T00:00:00Z,4,Taichi Vakasama,Taichi Vakasama,Fijian swimmer,Q712,Q134635
+Q96273331,Q6581097,1992-06-18T00:00:00Z,4,Josua Kerevi,Josua Kerevi,rugby union player,Q712,Q856662
+Q96273331,Q6581097,1992-06-18T00:00:00Z,4,Josua Kerevi,Josua Kerevi,rugby union player,Q17,Q856662
+Q96626974,Q6581097,1950-04-22T00:00:00Z,1,Geoffrey Taylor (sailor),Geoffrey Taylor,Fijian sailor,Q712,Q3130
+Q96744857,Q6581097,1997-06-23T00:00:00Z,4,Luke Tagi,Luke Tagi,Fijian rugby union player,Q712,Q48317
+Q97120503,Q6581097,1995-12-04T00:00:00Z,3,Lekima Tagitagivalu,Lekima Tagitagivalu,Fijian rugby union player,Q712,Q712
+Q97395780,Q6581097,1999-01-20T00:00:00Z,1,Semi Valemei,Semi Valemei,Fijian rugby league player,Q712,Q579556
+Q981549,Q6581097,1948-09-13T00:00:00Z,38,Sitiveni Rabuka,Sitiveni Rabuka,Prime Minister of Fiji from 1992 to 1999 and from 2022-,Q712,Q676046
+Q98233613,Q6581097,1993-01-04T00:00:00Z,4,Mesake Doge,Mesake Doge,Fijian rugby union player,Q712,Q1365304
+Q98237987,Q6581072,2000-08-17T00:00:00Z,1,Koleta Likuculacula,Koleta Likuculacula,Fijian footballer,Q712,
+Q98238146,Q6581072,1999-11-15T00:00:00Z,1,Cema Nasau,Cema Nasau,Fijian footballer,Q712,
+Q98238235,Q6581072,1993-07-09T00:00:00Z,1,Naomi Waqanidrola,Naomi Waqanidrola,Fijian footballer,Q712,
+Q98240236,Q6581072,1996-01-25T00:00:00Z,1,Jotivini Tabua,Jotivini Tabua,Fijian footballer,Q712,
+Q98240345,Q6581072,1998-07-28T00:00:00Z,1,Luisa Tamanitoakula,Luisa Tamanitoakula,Fijian footballer,Q712,
+Q98241699,Q6581072,1998-03-18T00:00:00Z,1,Sekola Waqanidrola,Sekola Waqanidrola,Fijian footballer,Q712,
+Q98241814,Q6581072,1996-08-27T00:00:00Z,1,Lora Bukalidi,Lora Bukalidi,Fijian footballer,Q712,
+Q98241889,Q6581072,1993-10-14T00:00:00Z,1,Sofi Diyalowai,Sofi Diyalowai,Fijian footballer,Q712,
+Q98243088,Q6581072,1998-06-09T00:00:00Z,1,Adi Tuwai,Adi Tuwai,Fijian footballer,Q712,
+Q98277751,Q6581072,2000-07-23T00:00:00Z,1,Aliza Hussein,Aliza Hussein,Fijian footballer,Q712,
+Q98277770,Q6581072,1997-10-26T00:00:00Z,1,Sonali Rao,Sonali Rao,Fijian footballer,Q712,
+Q98473843,Q6581072,1995-02-05T00:00:00Z,1,Vanisha Kumar,Vanisha Kumar,Fijian footballer,Q712,

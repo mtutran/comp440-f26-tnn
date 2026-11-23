@@ -1,0 +1,447 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q1045300,Q6581097,1904-01-01T00:00:00Z,9,Cheng Yanqiu,Cheng Yanqiu,Chinese opera singer (1904-1958),Q8733,Q956
+Q1045300,Q6581097,1904-01-01T00:00:00Z,9,Cheng Yanqiu,Cheng Yanqiu,Chinese opera singer (1904-1958),Q148,Q956
+Q10884999,Q6581097,1902-01-01T00:00:00Z,7,Ishaq Beg Munonov,Ishaq Beg Munonov,Kyrgyz leader from Xinjiang,Q13426199,
+Q10884999,Q6581097,1902-01-01T00:00:00Z,7,Ishaq Beg Munonov,Ishaq Beg Munonov,Kyrgyz leader from Xinjiang,Q8733,
+Q10887863,Q6581072,1908-01-01T00:00:00Z,4,Yu Shan (actress),Yu Shan,Chinese actress,Q13426199,
+Q10887863,Q6581072,1908-01-01T00:00:00Z,4,Yu Shan (actress),Yu Shan,Chinese actress,Q8733,
+Q10887863,Q6581072,1908-01-01T00:00:00Z,4,Yu Shan (actress),Yu Shan,Chinese actress,Q148,
+Q10901077,Q6581072,1900-01-01T00:00:00Z,3,Lao Junzhan,Lao Junzhan,Chinese political activist,Q148,Q45761
+Q10901077,Q6581072,1900-01-01T00:00:00Z,3,Lao Junzhan,Lao Junzhan,Chinese political activist,Q13426199,Q45761
+Q10901077,Q6581072,1900-01-01T00:00:00Z,3,Lao Junzhan,Lao Junzhan,Chinese political activist,Q8733,Q45761
+Q10916403,Q6581097,1907-03-31T00:00:00Z,5,Ye Qianyu,Ye Qianyu,"Chinese painter, manhua artist (1907-1995)",Q13426199,Q261793
+Q10916403,Q6581097,1907-03-31T00:00:00Z,5,Ye Qianyu,Ye Qianyu,"Chinese painter, manhua artist (1907-1995)",Q8733,Q261793
+Q10916403,Q6581097,1907-03-31T00:00:00Z,5,Ye Qianyu,Ye Qianyu,"Chinese painter, manhua artist (1907-1995)",Q148,Q261793
+Q10919257,Q6581072,1902-06-12T00:00:00Z,6,Daisy Yen Wu,Daisy Yen Wu,Chinese biochemist,Q13426199,Q8686
+Q10919257,Q6581072,1902-06-12T00:00:00Z,6,Daisy Yen Wu,Daisy Yen Wu,Chinese biochemist,Q148,Q8686
+Q10919257,Q6581072,1902-06-12T00:00:00Z,6,Daisy Yen Wu,Daisy Yen Wu,Chinese biochemist,Q8733,Q8686
+Q10919536,Q6581097,1901-12-20T00:00:00Z,4,Wu Wenzao,Wu Wenzao,Chinese academic,Q13426199,Q1015823
+Q10919536,Q6581097,1901-04-12T00:00:00Z,4,Wu Wenzao,Wu Wenzao,Chinese academic,Q13426199,Q1015823
+Q10919536,Q6581097,1901-04-12T00:00:00Z,4,Wu Wenzao,Wu Wenzao,Chinese academic,Q148,Q1015823
+Q10919536,Q6581097,1901-12-20T00:00:00Z,4,Wu Wenzao,Wu Wenzao,Chinese academic,Q8733,Q1015823
+Q10919536,Q6581097,1901-12-20T00:00:00Z,4,Wu Wenzao,Wu Wenzao,Chinese academic,Q148,Q1015823
+Q10919536,Q6581097,1901-04-12T00:00:00Z,4,Wu Wenzao,Wu Wenzao,Chinese academic,Q8733,Q1015823
+Q10920546,Q6581097,1904-01-01T00:00:00Z,4,Zhou Enshou,Zhou Enshou,brother of Zhou Enlai,Q8733,
+Q10920546,Q6581097,1904-01-01T00:00:00Z,4,Zhou Enshou,Zhou Enshou,brother of Zhou Enlai,Q148,
+Q10920546,Q6581097,1904-01-01T00:00:00Z,4,Zhou Enshou,Zhou Enshou,brother of Zhou Enlai,Q13426199,
+Q10945127,Q6581072,1908-12-09T00:00:00Z,10,Meng Xiaodong,Meng Xiaodong,Chinese Peking opera actress,Q8733,Q8686
+Q10945127,Q6581072,1908-12-09T00:00:00Z,10,Meng Xiaodong,Meng Xiaodong,Chinese Peking opera actress,Q865,Q8686
+Q11084620,Q6581097,1901-06-19T00:00:00Z,2,Fang Rending,Fang Rending,painter (1901-1975),Q13426199,
+Q11084620,Q6581097,1901-06-19T00:00:00Z,2,Fang Rending,Fang Rending,painter (1901-1975),Q8733,
+Q11084620,Q6581097,1901-06-19T00:00:00Z,2,Fang Rending,Fang Rending,painter (1901-1975),Q148,
+Q11091470,Q6581072,1910-01-23T00:00:00Z,3,Zeng Xianzhi,Zeng Xianzhi,wife of Ye Jianping (1910-1989),Q13426199,Q174091
+Q11091470,Q6581072,1910-01-23T00:00:00Z,3,Zeng Xianzhi,Zeng Xianzhi,wife of Ye Jianping (1910-1989),Q8733,Q174091
+Q11091470,Q6581072,1910-01-23T00:00:00Z,3,Zeng Xianzhi,Zeng Xianzhi,wife of Ye Jianping (1910-1989),Q148,Q174091
+Q11091542,Q6581072,1909-01-27T00:00:00Z,5,Zeng Zhaoyu,Zeng Zhaoyu,Chinese archaeologist (1909-1964),Q8733,Q14300880
+Q11091542,Q6581072,1909-01-27T00:00:00Z,5,Zeng Zhaoyu,Zeng Zhaoyu,Chinese archaeologist (1909-1964),Q148,Q14300880
+Q11091542,Q6581072,1909-01-27T00:00:00Z,5,Zeng Zhaoyu,Zeng Zhaoyu,Chinese archaeologist (1909-1964),Q13426199,Q14300880
+Q11106833,Q6581097,1910-03-27T00:00:00Z,3,Lin Yaohua,Lin Yaohua,Chinese sociologist and anthropologist,Q148,Q1168209
+Q11106833,Q6581097,1910-03-27T00:00:00Z,3,Lin Yaohua,Lin Yaohua,Chinese sociologist and anthropologist,Q13426199,Q1168209
+Q11106833,Q6581097,1910-03-27T00:00:00Z,3,Lin Yaohua,Lin Yaohua,Chinese sociologist and anthropologist,Q8733,Q1168209
+Q11123253,Q6581072,1903-11-07T00:00:00Z,7,Lu Xiaoman,Lu Xiaoman,wife of Xu Zhimo (1903-1965),Q148,Q11359590
+Q11123253,Q6581072,1903-11-07T00:00:00Z,7,Lu Xiaoman,Lu Xiaoman,wife of Xu Zhimo (1903-1965),Q13426199,Q11359590
+Q11123253,Q6581072,1903-11-07T00:00:00Z,7,Lu Xiaoman,Lu Xiaoman,wife of Xu Zhimo (1903-1965),Q8733,Q11359590
+Q11125775,Q6581097,1904-01-01T00:00:00Z,3,Yin Jian (Communist leader),Yin Jian,early member of the Chinese Communist Party,Q8733,
+Q11125775,Q6581097,1904-01-01T00:00:00Z,3,Yin Jian (Communist leader),Yin Jian,early member of the Chinese Communist Party,Q13426199,
+Q11149073,Q6581072,1907-11-01T00:00:00Z,3,Pu Jiexiu,Pu Jiexiu,Chinese entrepreneur (1907-2000),Q148,Q662101
+Q11149073,Q6581072,1907-11-01T00:00:00Z,3,Pu Jiexiu,Pu Jiexiu,Chinese entrepreneur (1907-2000),Q8733,Q662101
+Q11149073,Q6581072,1907-11-01T00:00:00Z,3,Pu Jiexiu,Pu Jiexiu,Chinese entrepreneur (1907-2000),Q13426199,Q662101
+Q11176245,Q6581097,1901-01-01T00:00:00Z,4,Huang Shaoqiang,Huang Shaoqiang,Chinese painter (1901-1942),Q8733,Q113490639
+Q11176245,Q6581097,1901-01-01T00:00:00Z,4,Huang Shaoqiang,Huang Shaoqiang,Chinese painter (1901-1942),Q13426199,Q113490639
+Q117028948,Q6581072,1904-05-03T00:00:00Z,6,Li Fu Lee,Li Fu Lee,Chinese engineer and teacher,Q865,
+Q117028948,Q6581072,1904-05-03T00:00:00Z,6,Li Fu Lee,Li Fu Lee,Chinese engineer and teacher,Q8733,
+Q117028948,Q6581072,1904-05-03T00:00:00Z,6,Li Fu Lee,Li Fu Lee,Chinese engineer and teacher,Q13426199,
+Q117467073,Q6581097,1911-01-04T00:00:00Z,3,Stephen Yang,Stephen Yang,"Sichuanese physician, educator, and Quaker peace activist",Q8733,Q11725
+Q117467073,Q6581097,1911-01-04T00:00:00Z,3,Stephen Yang,Stephen Yang,"Sichuanese physician, educator, and Quaker peace activist",Q13426199,Q11725
+Q117467073,Q6581097,1911-01-04T00:00:00Z,3,Stephen Yang,Stephen Yang,"Sichuanese physician, educator, and Quaker peace activist",Q148,Q11725
+Q1329301,Q6581097,1904-06-24T00:00:00Z,21,Bo Gu,Bo Gu,Chinese politician (1907-1946),Q8733,Q4970
+Q1329301,Q6581097,1904-06-24T00:00:00Z,21,Bo Gu,Bo Gu,Chinese politician (1907-1946),Q13426199,Q4970
+Q1335071,Q6581097,1905-09-25T00:00:00Z,12,Mao Zetan,Mao Zetan,Mao Zedong's brother (1905-1935),Q13426199,Q838542
+Q1335071,Q6581097,1905-09-25T00:00:00Z,12,Mao Zetan,Mao Zetan,Mao Zedong's brother (1905-1935),Q8733,Q838542
+Q134123776,Q6581097,1901-01-01T00:00:00Z,2,Lu Ruiguang,Lu Ruiguang,Chinese revolutionary of Bouyei ethnicity,Q13426199,Q197730
+Q134123776,Q6581097,1901-01-01T00:00:00Z,2,Lu Ruiguang,Lu Ruiguang,Chinese revolutionary of Bouyei ethnicity,Q8733,Q197730
+Q1404688,Q6581097,1905-09-17T00:00:00Z,8,Feng Zhi,Feng Zhi,writer and university teacher (1905-1993),Q148,Q21208
+Q1404688,Q6581097,1905-09-17T00:00:00Z,8,Feng Zhi,Feng Zhi,writer and university teacher (1905-1993),Q13426199,Q21208
+Q1404688,Q6581097,1905-09-17T00:00:00Z,8,Feng Zhi,Feng Zhi,writer and university teacher (1905-1993),Q8733,Q21208
+Q14624977,Q6581097,1900-04-12T00:00:00Z,3,Guo Qiru,Guo Qiru,Chinese xiangsheng performer,Q148,Q956
+Q14624977,Q6581097,1900-04-12T00:00:00Z,3,Guo Qiru,Guo Qiru,Chinese xiangsheng performer,Q8733,Q956
+Q14624977,Q6581097,1900-04-12T00:00:00Z,3,Guo Qiru,Guo Qiru,Chinese xiangsheng performer,Q13426199,Q956
+Q1472354,Q6581097,1904-10-05T00:00:00Z,11,Fu Baoshi,Fu Baoshi,Chinese artist (1904-1965),Q13426199,Q6850149
+Q1472354,Q6581097,1904-10-05T00:00:00Z,11,Fu Baoshi,Fu Baoshi,Chinese artist (1904-1965),Q148,Q6850149
+Q1472354,Q6581097,1904-10-05T00:00:00Z,11,Fu Baoshi,Fu Baoshi,Chinese artist (1904-1965),Q8733,Q6850149
+Q15710463,Q6581097,1906-08-17T00:00:00Z,6,Li Jianwu,Li Jianwu,Chinese writer and translator,Q13426199,Q1186021
+Q15710463,Q6581097,1906-08-17T00:00:00Z,6,Li Jianwu,Li Jianwu,Chinese writer and translator,Q148,Q1186021
+Q15710463,Q6581097,1906-08-17T00:00:00Z,6,Li Jianwu,Li Jianwu,Chinese writer and translator,Q8733,Q1186021
+Q15920230,Q6581097,1905-01-01T00:00:00Z,4,Xue Zizheng,Xue Zizheng,Chinese politician,Q13426199,Q1362558
+Q15920230,Q6581097,1905-01-01T00:00:00Z,4,Xue Zizheng,Xue Zizheng,Chinese politician,Q148,Q1362558
+Q15920230,Q6581097,1905-01-01T00:00:00Z,4,Xue Zizheng,Xue Zizheng,Chinese politician,Q8733,Q1362558
+Q15921052,Q6581097,1907-08-28T00:00:00Z,4,James Wei,James Wei,Taiwanese media executive (1907-1982),Q8733,Q86011206
+Q15921052,Q6581097,1907-08-28T00:00:00Z,4,James Wei,James Wei,Taiwanese media executive (1907-1982),Q865,Q86011206
+Q15921590,Q6581072,1904-06-03T00:00:00Z,3,Cai Weilian,Cai Weilian,Chinese painter (1904-1939),Q8733,Q42666
+Q15921590,Q6581072,1904-06-03T00:00:00Z,3,Cai Weilian,Cai Weilian,Chinese painter (1904-1939),Q13426199,Q42666
+Q15954371,Q6581097,1901-01-01T00:00:00Z,6,Qian Haiyue,Qian Haiyue,Chinese historian,Q13426199,
+Q15954371,Q6581097,1901-01-01T00:00:00Z,6,Qian Haiyue,Qian Haiyue,Chinese historian,Q148,
+Q15954371,Q6581097,1901-01-01T00:00:00Z,6,Qian Haiyue,Qian Haiyue,Chinese historian,Q8733,
+Q16076803,Q6581097,1900-01-01T00:00:00Z,3,Pu Xuefeng,Pu Xuefeng,Chinese politician and academic administrator,Q13426199,Q1015805
+Q16076803,Q6581097,1900-01-01T00:00:00Z,3,Pu Xuefeng,Pu Xuefeng,Chinese politician and academic administrator,Q865,Q1015805
+Q16076803,Q6581097,1900-01-01T00:00:00Z,3,Pu Xuefeng,Pu Xuefeng,Chinese politician and academic administrator,Q8733,Q1015805
+Q16184939,Q6581072,1902-01-01T00:00:00Z,3,Chen Shaomin,Chen Shaomin,Chinese politician,Q13426199,
+Q16184939,Q6581072,1902-01-01T00:00:00Z,3,Chen Shaomin,Chen Shaomin,Chinese politician,Q148,
+Q16184939,Q6581072,1902-01-01T00:00:00Z,3,Chen Shaomin,Chen Shaomin,Chinese politician,Q8733,
+Q16260902,Q6581072,1909-01-01T00:00:00Z,14,Xu Lai (actress),Xu Lai,Chinese actress and secret agent,Q13426199,Q8686
+Q16260902,Q6581072,1909-01-01T00:00:00Z,14,Xu Lai (actress),Xu Lai,Chinese actress and secret agent,Q8733,Q8686
+Q16260902,Q6581072,1909-01-01T00:00:00Z,14,Xu Lai (actress),Xu Lai,Chinese actress and secret agent,Q148,Q8686
+Q16907357,Q6581097,1906-06-24T00:00:00Z,9,Dalelkhan Sugirbayev,Dalelkhan Sugirbayev,Kazakh leader in Xinjiang (1906–1949),Q8733,
+Q16907357,Q6581097,1906-06-24T00:00:00Z,9,Dalelkhan Sugirbayev,Dalelkhan Sugirbayev,Kazakh leader in Xinjiang (1906–1949),Q13426199,
+Q16907357,Q6581097,1904-01-01T00:00:00Z,9,Dalelkhan Sugirbayev,Dalelkhan Sugirbayev,Kazakh leader in Xinjiang (1906–1949),Q8733,
+Q16907357,Q6581097,1904-01-01T00:00:00Z,9,Dalelkhan Sugirbayev,Dalelkhan Sugirbayev,Kazakh leader in Xinjiang (1906–1949),Q13426199,
+Q16977,Q6581097,1904-08-22T00:00:00Z,138,Deng Xiaoping,Deng Xiaoping,Chinese politician and paramount leader from 1978 to 1989,Q8733,Q895802
+Q16977,Q6581097,1904-08-22T00:00:00Z,138,Deng Xiaoping,Deng Xiaoping,Chinese politician and paramount leader from 1978 to 1989,Q13426199,Q895802
+Q16977,Q6581097,1904-08-22T00:00:00Z,138,Deng Xiaoping,Deng Xiaoping,Chinese politician and paramount leader from 1978 to 1989,Q148,Q895802
+Q1770998,Q6581097,1904-01-01T00:00:00Z,5,Shen Xiling,Shen Xiling,Chinese film director (1904–1940),Q8733,Q4970
+Q1770998,Q6581097,1904-01-01T00:00:00Z,5,Shen Xiling,Shen Xiling,Chinese film director (1904–1940),Q13426199,Q4970
+Q18235113,Q6581097,1908-12-16T00:00:00Z,4,Wang Panyuan,Wang Pan-yuan,Chinese-Taiwanese painter (1908-2017),Q8733,Q113491089
+Q18235113,Q6581097,1908-12-16T00:00:00Z,4,Wang Panyuan,Wang Pan-yuan,Chinese-Taiwanese painter (1908-2017),Q865,Q113491089
+Q18235113,Q6581097,1908-12-16T00:00:00Z,4,Wang Panyuan,Wang Pan-yuan,Chinese-Taiwanese painter (1908-2017),Q13426199,Q113491089
+Q1825592,Q6581097,1902-01-01T00:00:00Z,8,Lin Bosheng,Lin Bosheng,Chinese journalist (1902–1946),Q8733,Q1023896
+Q1825592,Q6581097,1902-01-01T00:00:00Z,8,Lin Bosheng,Lin Bosheng,Chinese journalist (1902–1946),Q13426199,Q1023896
+Q185152,Q6581097,1906-02-07T00:00:00Z,85,Puyi,Puyi,Last Emperor of Qing dynasty and Manchukuo (1906–1967),Q30623,Q30138
+Q185152,Q6581097,1906-02-07T00:00:00Z,85,Puyi,Puyi,Last Emperor of Qing dynasty and Manchukuo (1906–1967),Q13426199,Q30138
+Q185152,Q6581097,1906-02-07T00:00:00Z,85,Puyi,Puyi,Last Emperor of Qing dynasty and Manchukuo (1906–1967),Q148,Q30138
+Q185152,Q6581097,1906-02-07T00:00:00Z,85,Puyi,Puyi,Last Emperor of Qing dynasty and Manchukuo (1906–1967),Q8733,Q30138
+Q1872755,Q6581097,1909-01-01T00:00:00Z,4,Lu Yanshao,Lu Yanshao,Chinese painter (1909-1993),Q148,Q662101
+Q1872755,Q6581097,1909-01-01T00:00:00Z,4,Lu Yanshao,Lu Yanshao,Chinese painter (1909-1993),Q8733,Q662101
+Q1872755,Q6581097,1909-01-01T00:00:00Z,4,Lu Yanshao,Lu Yanshao,Chinese painter (1909-1993),Q13426199,Q662101
+Q1877538,Q6581097,1904-04-12T00:00:00Z,7,Luo Niansheng,Luo Nian Sheng,Chinese translator,Q13426199,Q1199663
+Q1877538,Q6581097,1904-04-12T00:00:00Z,7,Luo Niansheng,Luo Nian Sheng,Chinese translator,Q148,Q1199663
+Q1877538,Q6581097,1904-04-12T00:00:00Z,7,Luo Niansheng,Luo Nian Sheng,Chinese translator,Q8733,Q1199663
+Q197444,Q6581097,1902-04-25T00:00:00Z,13,Zhao Jingshen,Zhao Jingshen,Chinese writer,Q8733,Q58294
+Q197444,Q6581097,1902-04-25T00:00:00Z,13,Zhao Jingshen,Zhao Jingshen,Chinese writer,Q148,Q58294
+Q197444,Q6581097,1902-04-25T00:00:00Z,13,Zhao Jingshen,Zhao Jingshen,Chinese writer,Q13426199,Q58294
+Q197453,Q6581097,1901-04-13T00:00:00Z,12,Zhao Shiyan,Zhao Shiyan,Chinese communist martyr (1901-1927),Q13426199,Q17024989
+Q197453,Q6581097,1901-04-13T00:00:00Z,12,Zhao Shiyan,Zhao Shiyan,Chinese communist martyr (1901-1927),Q8733,Q17024989
+Q197629,Q6581097,1902-07-29T00:00:00Z,7,Cheng Man-ch'ing,Cheng Man-ch'ing,Chinese martial artist (1902-1975),Q865,Q703818
+Q197629,Q6581097,1902-07-29T00:00:00Z,7,Cheng Man-ch'ing,Cheng Man-ch'ing,Chinese martial artist (1902-1975),Q8733,Q703818
+Q197629,Q6581097,1902-07-29T00:00:00Z,7,Cheng Man-ch'ing,Cheng Man-ch'ing,Chinese martial artist (1902-1975),Q13426199,Q703818
+Q2034191,Q6581097,1900-08-10T00:00:00Z,12,Wang Li (linguist),Wang Li,Chinese linguist (1900–1986),Q13426199,Q888373
+Q2034191,Q6581097,1900-08-10T00:00:00Z,12,Wang Li (linguist),Wang Li,Chinese linguist (1900–1986),Q8733,Q888373
+Q2034191,Q6581097,1900-08-10T00:00:00Z,12,Wang Li (linguist),Wang Li,Chinese linguist (1900–1986),Q148,Q888373
+Q21390420,Q6581097,1910-01-13T00:00:00Z,3,Hong-Fu Chu,,Chinese entomologist (1910-2002),Q13426199,
+Q21390420,Q6581097,1910-01-13T00:00:00Z,3,Hong-Fu Chu,,Chinese entomologist (1910-2002),Q148,
+Q21390420,Q6581097,1910-01-13T00:00:00Z,3,Hong-Fu Chu,,Chinese entomologist (1910-2002),Q8733,
+Q2384743,Q6581072,1901-01-01T00:00:00Z,4,Diki Tsering,Diki Tsering,"Tibetan personality, mother of Tenzin Gyatso, 14th Dalaï-lama",Q148,
+Q2384743,Q6581072,1901-01-01T00:00:00Z,4,Diki Tsering,Diki Tsering,"Tibetan personality, mother of Tenzin Gyatso, 14th Dalaï-lama",Q8733,
+Q2384743,Q6581072,1901-01-01T00:00:00Z,4,Diki Tsering,Diki Tsering,"Tibetan personality, mother of Tenzin Gyatso, 14th Dalaï-lama",Q13426199,
+Q24205946,Q6581097,1901-02-28T00:00:00Z,3,Ma Lianliang,Ma Lianliang,Chinese opera singer,Q8733,
+Q24205946,Q6581097,1901-02-28T00:00:00Z,3,Ma Lianliang,Ma Lianliang,Chinese opera singer,Q13426199,
+Q24205946,Q6581097,1901-02-28T00:00:00Z,3,Ma Lianliang,Ma Lianliang,Chinese opera singer,Q148,
+Q24568154,Q6581097,1906-06-20T00:00:00Z,5,Pang Xunqin,Pang Xunqin,Chinese painter (1906–1985),Q8733,Q1015805
+Q24568154,Q6581097,1906-06-20T00:00:00Z,5,Pang Xunqin,Pang Xunqin,Chinese painter (1906–1985),Q148,Q1015805
+Q24568154,Q6581097,1906-06-20T00:00:00Z,5,Pang Xunqin,Pang Xunqin,Chinese painter (1906–1985),Q13426199,Q1015805
+Q24837231,Q6581072,1910-01-01T00:00:00Z,3,Zhou Meiyu,Zhou Meiyu,Chinese nurse,Q8733,Q956
+Q24837231,Q6581072,1910-01-01T00:00:00Z,3,Zhou Meiyu,Zhou Meiyu,Chinese nurse,Q865,Q956
+Q253682,Q6581072,1904-02-04T00:00:00Z,25,Deng Yingchao,Deng Yingchao,Chinese politician (1904-1992),Q13426199,Q179608
+Q253682,Q6581072,1904-02-04T00:00:00Z,25,Deng Yingchao,Deng Yingchao,Chinese politician (1904-1992),Q148,Q179608
+Q253682,Q6581072,1904-02-04T00:00:00Z,25,Deng Yingchao,Deng Yingchao,Chinese politician (1904-1992),Q8733,Q179608
+Q2661303,Q6581097,1910-01-01T00:00:00Z,18,Ma Zhongying,Ma Zhongying,Chinese Muslim warlord,Q13426199,Q1339439
+Q2661303,Q6581097,1910-01-01T00:00:00Z,18,Ma Zhongying,Ma Zhongying,Chinese Muslim warlord,Q8733,Q1339439
+Q27147715,Q6581097,1902-01-01T00:00:00Z,3,Ding Yanyong,TING Yan-Yong,Chinese painter (1902–1978),Q8733,Q15175
+Q27147715,Q6581097,1902-01-01T00:00:00Z,3,Ding Yanyong,TING Yan-Yong,Chinese painter (1902–1978),Q13426199,Q15175
+Q27147715,Q6581097,1902-01-01T00:00:00Z,3,Ding Yanyong,TING Yan-Yong,Chinese painter (1902–1978),Q865,Q15175
+Q272321,Q6581072,1910-01-01T00:00:00Z,23,He Zizhen,He Zizhen,wife of Mao Zedong (1909-1984),Q148,Q257817
+Q272321,Q6581072,1910-01-01T00:00:00Z,23,He Zizhen,He Zizhen,wife of Mao Zedong (1909-1984),Q13426199,Q257817
+Q272321,Q6581072,1909-09-20T00:00:00Z,23,He Zizhen,He Zizhen,wife of Mao Zedong (1909-1984),Q13426199,Q257817
+Q272321,Q6581072,1909-09-20T00:00:00Z,23,He Zizhen,He Zizhen,wife of Mao Zedong (1909-1984),Q8733,Q257817
+Q272321,Q6581072,1909-09-20T00:00:00Z,23,He Zizhen,He Zizhen,wife of Mao Zedong (1909-1984),Q148,Q257817
+Q272321,Q6581072,1910-01-01T00:00:00Z,23,He Zizhen,He Zizhen,wife of Mao Zedong (1909-1984),Q8733,Q257817
+Q28358199,Q6581097,1900-11-11T00:00:00Z,5,Ying Qianli,Ying Qianli,Chinese educator,Q13426199,Q956
+Q28358199,Q6581097,1900-11-11T00:00:00Z,5,Ying Qianli,Ying Qianli,Chinese educator,Q865,Q956
+Q28358199,Q6581097,1900-11-11T00:00:00Z,5,Ying Qianli,Ying Qianli,Chinese educator,Q8733,Q956
+Q2968343,Q6581097,1902-02-28T00:00:00Z,5,Huanzhulouzhu,Huanzhulouzhu,Chinese wuxia writer (1902-1961),Q8733,Q713691
+Q2968343,Q6581097,1902-02-28T00:00:00Z,5,Huanzhulouzhu,Huanzhulouzhu,Chinese wuxia writer (1902-1961),Q148,Q713691
+Q2968343,Q6581097,1902-02-28T00:00:00Z,5,Huanzhulouzhu,Huanzhulouzhu,Chinese wuxia writer (1902-1961),Q13426199,Q713691
+Q3008027,Q6581097,1900-02-22T00:00:00Z,9,Cy Young (animator),Cy Young,American animator,Q8733,Q42622
+Q3008027,Q6581097,1900-02-22T00:00:00Z,9,Cy Young (animator),Cy Young,American animator,Q13426199,Q42622
+Q3008027,Q6581097,1900-02-22T00:00:00Z,9,Cy Young (animator),Cy Young,American animator,Q30,Q42622
+Q3090493,Q6581097,1908-04-07T00:00:00Z,14,Fu Lei,Fu Lei,Chinese writer (1908-1966),Q13426199,Q1264015
+Q3090493,Q6581097,1908-04-07T00:00:00Z,14,Fu Lei,Fu Lei,Chinese writer (1908-1966),Q8733,Q1264015
+Q3090493,Q6581097,1908-04-07T00:00:00Z,14,Fu Lei,Fu Lei,Chinese writer (1908-1966),Q148,Q1264015
+Q313598,Q6581097,1910-04-27T00:00:00Z,53,Chiang Ching-kuo,Chiang Ching-kuo,6th and 7th President of Republic of China,Q13426199,Q713372
+Q313598,Q6581097,1910-04-27T00:00:00Z,53,Chiang Ching-kuo,Chiang Ching-kuo,6th and 7th President of Republic of China,Q865,Q713372
+Q313598,Q6581097,1910-04-27T00:00:00Z,53,Chiang Ching-kuo,Chiang Ching-kuo,6th and 7th President of Republic of China,Q8733,Q713372
+Q315475,Q6581097,1907-12-05T00:00:00Z,56,Lin Biao,Lin Biao,Chinese Communist military commander and politician,Q13426199,Q71355
+Q315475,Q6581097,1907-12-05T00:00:00Z,56,Lin Biao,Lin Biao,Chinese Communist military commander and politician,Q8733,Q71355
+Q315475,Q6581097,1907-12-05T00:00:00Z,56,Lin Biao,Lin Biao,Chinese Communist military commander and politician,Q148,Q71355
+Q315475,Q6581097,1907-12-05T00:00:00Z,56,Lin Biao,Lin Biao,Chinese Communist military commander and politician,Q1135255,Q71355
+Q335219,Q6581097,1905-10-23T00:00:00Z,30,Yen Chia-kan,Yen Chia-kan,President of Taiwan (ROC) from 1975 to 1978,Q13426199,Q3092999
+Q335219,Q6581097,1905-10-23T00:00:00Z,30,Yen Chia-kan,Yen Chia-kan,President of Taiwan (ROC) from 1975 to 1978,Q865,Q3092999
+Q335219,Q6581097,1905-10-23T00:00:00Z,30,Yen Chia-kan,Yen Chia-kan,President of Taiwan (ROC) from 1975 to 1978,Q8733,Q3092999
+Q3369827,Q6581097,1903-02-23T00:00:00Z,6,Li Shuoxun,Li Shuoxun,Chinese revolutionary (1903–1931),Q8733,Q11074218
+Q3369827,Q6581097,1903-02-23T00:00:00Z,6,Li Shuoxun,Li Shuoxun,Chinese revolutionary (1903–1931),Q13426199,Q11074218
+Q3370610,Q6581072,1900-03-25T00:00:00Z,7,Ling Shuhua,Ling Shuhua,Chinese writer (1900-1990),Q8733,Q956
+Q3370610,Q6581072,1900-03-25T00:00:00Z,7,Ling Shuhua,Ling Shuhua,Chinese writer (1900-1990),Q148,Q956
+Q3370610,Q6581072,1900-03-25T00:00:00Z,7,Ling Shuhua,Ling Shuhua,Chinese writer (1900-1990),Q13426199,Q956
+Q3371429,Q6581097,1901-11-20T00:00:00Z,6,Hu Huanyong,Hu Huanyong,Chinese demographer (1901-1998),Q148,Q1015788
+Q3371429,Q6581097,1901-11-20T00:00:00Z,6,Hu Huanyong,Hu Huanyong,Chinese demographer (1901-1998),Q8733,Q1015788
+Q3371429,Q6581097,1901-11-20T00:00:00Z,6,Hu Huanyong,Hu Huanyong,Chinese demographer (1901-1998),Q13426199,Q1015788
+Q3372392,Q6581097,1906-02-01T00:00:00Z,7,Kai Feng (politician),Kai Feng,Chinese politician (1906-1955),Q148,Q362865
+Q3372392,Q6581097,1906-02-01T00:00:00Z,7,Kai Feng (politician),Kai Feng,Chinese politician (1906-1955),Q13426199,Q362865
+Q3372392,Q6581097,1906-02-01T00:00:00Z,7,Kai Feng (politician),Kai Feng,Chinese politician (1906-1955),Q8733,Q362865
+Q3373901,Q6581072,1911-09-07T00:00:00Z,10,Kang Keqing,Kang Keqing,Chinese politician and sixth wife of Zhu De (1911-1992),Q13426199,Q1356641
+Q3373901,Q6581072,1911-09-07T00:00:00Z,10,Kang Keqing,Kang Keqing,Chinese politician and sixth wife of Zhu De (1911-1992),Q8733,Q1356641
+Q3373901,Q6581072,1911-09-07T00:00:00Z,10,Kang Keqing,Kang Keqing,Chinese politician and sixth wife of Zhu De (1911-1992),Q148,Q1356641
+Q3376992,Q6581097,1909-11-05T00:00:00Z,12,Chu Anping,Chu Anping,Chinese scholar (1909-1966),Q8733,Q1015788
+Q3376992,Q6581097,1909-11-05T00:00:00Z,12,Chu Anping,Chu Anping,Chinese scholar (1909-1966),Q13426199,Q1015788
+Q3376992,Q6581097,1909-11-05T00:00:00Z,12,Chu Anping,Chu Anping,Chinese scholar (1909-1966),Q148,Q1015788
+Q3436012,Q6581097,1910-01-28T00:00:00Z,12,Li Kwoh-ting,Kwoh-Ting Li,Taiwanese politician (1910-2001),Q8733,Q16666
+Q3436012,Q6581097,1910-01-28T00:00:00Z,12,Li Kwoh-ting,Kwoh-Ting Li,Taiwanese politician (1910-2001),Q865,Q16666
+Q3436012,Q6581097,1910-01-28T00:00:00Z,12,Li Kwoh-ting,Kwoh-Ting Li,Taiwanese politician (1910-2001),Q13426199,Q16666
+Q3445036,Q6581097,1905-04-26T00:00:00Z,12,Xie Jinyuan,Xie Jinyuan,Chinese general (1905-1941),Q13426199,Q1356111
+Q3445036,Q6581097,1905-04-26T00:00:00Z,12,Xie Jinyuan,Xie Jinyuan,Chinese general (1905-1941),Q8733,Q1356111
+Q3473058,Q6581097,1907-10-14T00:00:00Z,4,Sanyu (painter),Sanyu,Chinese painter based in France (1907-1966),Q13426199,Q19851995
+Q3473058,Q6581097,1907-10-14T00:00:00Z,4,Sanyu (painter),Sanyu,Chinese painter based in France (1907-1966),Q8733,Q19851995
+Q3473058,Q6581097,1907-10-14T00:00:00Z,4,Sanyu (painter),Sanyu,Chinese painter based in France (1907-1966),Q865,Q19851995
+Q379806,Q6581097,1903-11-04T00:00:00Z,23,Watchman Nee,Watchman Nee,Chinese church leader (1903–1972),Q8733,Q59100
+Q379806,Q6581097,1903-11-04T00:00:00Z,23,Watchman Nee,Watchman Nee,Chinese church leader (1903–1972),Q13426199,Q59100
+Q379806,Q6581097,1903-11-04T00:00:00Z,23,Watchman Nee,Watchman Nee,Chinese church leader (1903–1972),Q148,Q59100
+Q384708,Q6581097,1906-01-12T00:00:00Z,18,Cai Chusheng,Cai Chusheng,Chinese film director (1906-1968),Q13426199,Q1062618
+Q384708,Q6581097,1906-01-12T00:00:00Z,18,Cai Chusheng,Cai Chusheng,Chinese film director (1906-1968),Q148,Q1062618
+Q384708,Q6581097,1906-01-12T00:00:00Z,18,Cai Chusheng,Cai Chusheng,Chinese film director (1906-1968),Q8733,Q1062618
+Q4053873,Q6581097,1900-02-06T00:00:00Z,10,Qian Xingcun,Qian Xingcun,writer and literary critic (1900-1977),Q148,Q359990
+Q4053873,Q6581097,1900-02-06T00:00:00Z,10,Qian Xingcun,Qian Xingcun,writer and literary critic (1900-1977),Q8733,Q359990
+Q444591,Q6581097,1907-11-19T00:00:00Z,37,Run Run Shaw,Run Run Shaw,Hong Kong entertainment mogul and philanthropist (1907-2014),Q8733,Q197712
+Q444591,Q6581097,1907-11-19T00:00:00Z,37,Run Run Shaw,Run Run Shaw,Hong Kong entertainment mogul and philanthropist (1907-2014),Q8733,Q42780
+Q444591,Q6581097,1907-11-19T00:00:00Z,37,Run Run Shaw,Run Run Shaw,Hong Kong entertainment mogul and philanthropist (1907-2014),Q1054923,Q197712
+Q444591,Q6581097,1907-11-19T00:00:00Z,37,Run Run Shaw,Run Run Shaw,Hong Kong entertainment mogul and philanthropist (1907-2014),Q1054923,Q42780
+Q444591,Q6581097,1907-11-19T00:00:00Z,37,Run Run Shaw,Run Run Shaw,Hong Kong entertainment mogul and philanthropist (1907-2014),Q13426199,Q197712
+Q444591,Q6581097,1907-11-19T00:00:00Z,37,Run Run Shaw,Run Run Shaw,Hong Kong entertainment mogul and philanthropist (1907-2014),Q13426199,Q42780
+Q444591,Q6581097,1907-11-19T00:00:00Z,37,Run Run Shaw,Run Run Shaw,Hong Kong entertainment mogul and philanthropist (1907-2014),Q148,Q197712
+Q444591,Q6581097,1907-11-19T00:00:00Z,37,Run Run Shaw,Run Run Shaw,Hong Kong entertainment mogul and philanthropist (1907-2014),Q148,Q42780
+Q4523555,Q6581072,1902-09-20T00:00:00Z,12,Shi Pingmei,Pingmei Shi,Chinese writer (1902–1928),Q8733,Q1196978
+Q4523555,Q6581072,1902-09-20T00:00:00Z,12,Shi Pingmei,Pingmei Shi,Chinese writer (1902–1928),Q13426199,Q1196978
+Q464563,Q6581072,1906-11-13T00:00:00Z,30,Wanrong,Empress Wanrong,"wife of Puyi, Empress of China (1906-1946)",Q13426199,Q956
+Q464563,Q6581072,1906-11-13T00:00:00Z,30,Wanrong,Empress Wanrong,"wife of Puyi, Empress of China (1906-1946)",Q30623,Q956
+Q464563,Q6581072,1906-11-13T00:00:00Z,30,Wanrong,Empress Wanrong,"wife of Puyi, Empress of China (1906-1946)",Q8733,Q956
+Q464825,Q6581072,1911-06-02T00:00:00Z,27,Xiao Hong,Xiao Hong,Chinese writer (1911-1942),Q13426199,Q1027409
+Q464825,Q6581072,1911-06-02T00:00:00Z,27,Xiao Hong,Xiao Hong,Chinese writer (1911-1942),Q8733,Q1027409
+Q464825,Q6581072,1911-06-01T00:00:00Z,27,Xiao Hong,Xiao Hong,Chinese writer (1911-1942),Q13426199,Q1027409
+Q464825,Q6581072,1911-06-01T00:00:00Z,27,Xiao Hong,Xiao Hong,Chinese writer (1911-1942),Q8733,Q1027409
+Q467140,Q6581072,1904-06-10T00:00:00Z,31,Lin Huiyin,Lin Huiyin,Chinese architect and writer (1904-1955),Q13426199,Q4970
+Q467140,Q6581072,1904-06-10T00:00:00Z,31,Lin Huiyin,Lin Huiyin,Chinese architect and writer (1904-1955),Q148,Q4970
+Q467140,Q6581072,1904-06-10T00:00:00Z,31,Lin Huiyin,Lin Huiyin,Chinese architect and writer (1904-1955),Q8733,Q4970
+Q47163760,Q6581097,1910-10-19T00:00:00Z,2,Lu Fo-ting,Lu Fo-ting,Taiwanese painter (1910–2005),Q13426199,Q113491598
+Q47163760,Q6581097,1910-10-19T00:00:00Z,2,Lu Fo-ting,Lu Fo-ting,Taiwanese painter (1910–2005),Q8733,Q113491598
+Q47163760,Q6581097,1910-10-19T00:00:00Z,2,Lu Fo-ting,Lu Fo-ting,Taiwanese painter (1910–2005),Q865,Q113491598
+Q472527,Q6581097,1902-10-12T00:00:00Z,27,Peng Zhen,Peng Zhen,Chinese politician (1902-1997),Q148,Q1332080
+Q472527,Q6581097,1902-10-12T00:00:00Z,27,Peng Zhen,Peng Zhen,Chinese politician (1902-1997),Q8733,Q1332080
+Q4902475,Q6581097,1910-12-08T00:00:00Z,6,Bian Zhilin,Bian Zhilin,Chinese poet and literature researcher,Q13426199,Q678701
+Q4902475,Q6581097,1910-12-08T00:00:00Z,6,Bian Zhilin,Bian Zhilin,Chinese poet and literature researcher,Q8733,Q678701
+Q4902475,Q6581097,1910-12-08T00:00:00Z,6,Bian Zhilin,Bian Zhilin,Chinese poet and literature researcher,Q148,Q678701
+Q5017498,Q6581097,1911-03-12T00:00:00Z,6,Cai Xitao,Cai Xitao,Chinese botanist (1911-1981),Q148,
+Q5017498,Q6581097,1911-03-12T00:00:00Z,6,Cai Xitao,Cai Xitao,Chinese botanist (1911-1981),Q13426199,
+Q5017498,Q6581097,1911-03-12T00:00:00Z,6,Cai Xitao,Cai Xitao,Chinese botanist (1911-1981),Q8733,
+Q5090760,Q6581097,1900-01-01T00:00:00Z,4,Chen Fenghuai,Chen Feng Huai,Chinese botanist (1900-1993),Q8733,Q16963
+Q5090760,Q6581097,1900-01-01T00:00:00Z,4,Chen Fenghuai,Chen Feng Huai,Chinese botanist (1900-1993),Q13426199,Q16963
+Q5090760,Q6581097,1900-01-01T00:00:00Z,4,Chen Fenghuai,Chen Feng Huai,Chinese botanist (1900-1993),Q148,Q16963
+Q5310099,Q6581097,1904-11-28T00:00:00Z,15,Du Yuming,Du Yuming,Chinese lieutenant general (1904–1981),Q8733,Q1201242
+Q5310099,Q6581097,1904-11-28T00:00:00Z,15,Du Yuming,Du Yuming,Chinese lieutenant general (1904–1981),Q148,Q1201242
+Q5310099,Q6581097,1904-11-28T00:00:00Z,15,Du Yuming,Du Yuming,Chinese lieutenant general (1904–1981),Q13426199,Q1201242
+Q5443404,Q6581072,1900-09-04T00:00:00Z,4,Feng Yuanjun,Feng Yuanjun,"penwoman, literary critic, politician (1900-)",Q13426199,Q1199064
+Q5443404,Q6581072,1900-09-04T00:00:00Z,4,Feng Yuanjun,Feng Yuanjun,"penwoman, literary critic, politician (1900-)",Q148,Q1199064
+Q5443404,Q6581072,1900-09-04T00:00:00Z,4,Feng Yuanjun,Feng Yuanjun,"penwoman, literary critic, politician (1900-)",Q8733,Q1199064
+Q55177016,Q6581072,1902-01-01T00:00:00Z,1,Sung Ying,Sung Ying,Chinese-born politician,Q8733,Q946812
+Q55177016,Q6581072,1902-01-01T00:00:00Z,1,Sung Ying,Sung Ying,Chinese-born politician,Q865,Q946812
+Q55177016,Q6581072,1902-01-01T00:00:00Z,1,Sung Ying,Sung Ying,Chinese-born politician,Q13426199,Q946812
+Q55662528,Q6581072,1910-01-01T00:00:00Z,4,Hu Ping (actress),Hu Ping,Chinese actress (born 1910),Q8733,Q174091
+Q55662528,Q6581072,1910-01-01T00:00:00Z,4,Hu Ping (actress),Hu Ping,Chinese actress (born 1910),Q13426199,Q174091
+Q559264,Q6581097,1902-12-28T00:00:00Z,28,Shen Congwen,Shen Congwen,Chinese writer (1902–1988),Q13426199,Q664864
+Q559264,Q6581097,1902-12-28T00:00:00Z,28,Shen Congwen,Shen Congwen,Chinese writer (1902–1988),Q8733,Q664864
+Q559264,Q6581097,1902-12-28T00:00:00Z,28,Shen Congwen,Shen Congwen,Chinese writer (1902–1988),Q148,Q664864
+Q5628340,Q6581097,1910-01-01T00:00:00Z,2,H. K. Yang,H. K. Yang,Republic of China diplomat (1910–2000),Q8733,Q662694
+Q5628340,Q6581097,1910-01-01T00:00:00Z,2,H. K. Yang,H. K. Yang,Republic of China diplomat (1910–2000),Q865,Q662694
+Q5628340,Q6581097,1910-01-01T00:00:00Z,2,H. K. Yang,H. K. Yang,Republic of China diplomat (1910–2000),Q13426199,Q662694
+Q591407,Q6581097,1906-01-13T00:00:00Z,44,Zhou Youguang,Zhou Youguang,"Chinese linguist, sinologist (1906–2017)",Q8733,Q11060360
+Q591407,Q6581097,1906-01-13T00:00:00Z,44,Zhou Youguang,Zhou Youguang,"Chinese linguist, sinologist (1906–2017)",Q148,Q11060360
+Q591407,Q6581097,1906-01-13T00:00:00Z,44,Zhou Youguang,Zhou Youguang,"Chinese linguist, sinologist (1906–2017)",Q13426199,Q11060360
+Q5925455,Q6581097,1900-01-01T00:00:00Z,5,Huang Baitao,Huang Baitao,Chinese general (1900–1948),Q13426199,Q11736
+Q5925455,Q6581097,1900-01-01T00:00:00Z,5,Huang Baitao,Huang Baitao,Chinese general (1900–1948),Q8733,Q11736
+Q5925475,Q6581097,1902-01-01T00:00:00Z,6,Huang Chieh,Huang Chieh,Taiwanese politician and general (1902–1995),Q865,Q174091
+Q5925475,Q6581097,1902-01-01T00:00:00Z,6,Huang Chieh,Huang Chieh,Taiwanese politician and general (1902–1995),Q13426199,Q174091
+Q5925475,Q6581097,1902-01-01T00:00:00Z,6,Huang Chieh,Huang Chieh,Taiwanese politician and general (1902–1995),Q8733,Q174091
+Q5925839,Q6581097,1906-10-24T00:00:00Z,5,Huang Zuolin,Huang Zuolin,Chinese film director (1906–1994),Q148,Q3528033
+Q5925839,Q6581097,1906-10-24T00:00:00Z,5,Huang Zuolin,Huang Zuolin,Chinese film director (1906–1994),Q13426199,Q3528033
+Q5925839,Q6581097,1906-10-24T00:00:00Z,5,Huang Zuolin,Huang Zuolin,Chinese film director (1906–1994),Q8733,Q3528033
+Q5926881,Q6581097,1911-08-09T00:00:00Z,7,Jin Shan,Jin Shan,Chinese actor (1911-1982),Q8733,Q42622
+Q5926881,Q6581097,1911-08-09T00:00:00Z,7,Jin Shan,Jin Shan,Chinese actor (1911-1982),Q148,Q42622
+Q5926881,Q6581097,1911-08-09T00:00:00Z,7,Jin Shan,Jin Shan,Chinese actor (1911-1982),Q13426199,Q42622
+Q6191611,Q6581097,1904-05-09T00:00:00Z,6,Jiang Zhaohe,Jiang Zhaohe,Chinese artist (1904-1986),Q13426199,Q425492
+Q6191611,Q6581097,1904-05-09T00:00:00Z,6,Jiang Zhaohe,Jiang Zhaohe,Chinese artist (1904-1986),Q8733,Q425492
+Q6191611,Q6581097,1904-05-09T00:00:00Z,6,Jiang Zhaohe,Jiang Zhaohe,Chinese artist (1904-1986),Q148,Q425492
+Q6191879,Q6581097,1905-12-11T00:00:00Z,2,Jiao Juyin,Jiao Juyin,"Chinese director, translator, and theater theorist (1905–1975)",Q148,
+Q6191879,Q6581097,1905-12-11T00:00:00Z,2,Jiao Juyin,Jiao Juyin,"Chinese director, translator, and theater theorist (1905–1975)",Q13426199,
+Q6191879,Q6581097,1905-12-11T00:00:00Z,2,Jiao Juyin,Jiao Juyin,"Chinese director, translator, and theater theorist (1905–1975)",Q8733,
+Q649596,Q6581097,1903-01-01T00:00:00Z,25,Ma Bufang,Ma Bufang,Chinese politician (1903-1975),Q8733,Q1339439
+Q649596,Q6581097,1903-01-01T00:00:00Z,25,Ma Bufang,Ma Bufang,Chinese politician (1903-1975),Q13426199,Q1339439
+Q65051151,Q6581097,1909-01-01T00:00:00Z,2,Chen Jia-shang,Chen Jia-shang,Republic of China general,Q13426199,Q4970
+Q65051151,Q6581097,1909-01-01T00:00:00Z,2,Chen Jia-shang,Chen Jia-shang,Republic of China general,Q865,Q4970
+Q65051151,Q6581097,1909-01-01T00:00:00Z,2,Chen Jia-shang,Chen Jia-shang,Republic of China general,Q8733,Q4970
+Q6516764,Q6581072,1905-10-05T00:00:00Z,7,Mao Zejian,Mao Zejian,Mao Zedong's cousin,Q13426199,Q215755
+Q6516764,Q6581072,1905-10-05T00:00:00Z,7,Mao Zejian,Mao Zejian,Mao Zedong's cousin,Q8733,Q215755
+Q6539294,Q6581097,1910-01-01T00:00:00Z,4,Li Zhaolin,Li Zhaolin,Chinese general (1910-1946),Q8733,Q75203
+Q697502,Q6581097,1908-01-09T00:00:00Z,4,Chien Shih-Liang,Chien Shih-Liang,Chinese chemist (1908-1983),Q865,Q4970
+Q697502,Q6581097,1908-01-01T00:00:00Z,4,Chien Shih-Liang,Chien Shih-Liang,Chinese chemist (1908-1983),Q865,Q4970
+Q697502,Q6581097,1908-01-01T00:00:00Z,4,Chien Shih-Liang,Chien Shih-Liang,Chinese chemist (1908-1983),Q13426199,Q4970
+Q697502,Q6581097,1908-01-09T00:00:00Z,4,Chien Shih-Liang,Chien Shih-Liang,Chinese chemist (1908-1983),Q8733,Q4970
+Q697502,Q6581097,1908-01-01T00:00:00Z,4,Chien Shih-Liang,Chien Shih-Liang,Chinese chemist (1908-1983),Q8733,Q4970
+Q697502,Q6581097,1908-01-09T00:00:00Z,4,Chien Shih-Liang,Chien Shih-Liang,Chinese chemist (1908-1983),Q13426199,Q4970
+Q697740,Q6581097,1906-03-12T00:00:00Z,8,Wang Shiwei,Wang Shiwei,Chinese writer (1906-1947),Q8733,Q43684
+Q697740,Q6581097,1906-03-12T00:00:00Z,8,Wang Shiwei,Wang Shiwei,Chinese writer (1906-1947),Q13426199,Q43684
+Q698368,Q6581097,1900-08-21T00:00:00Z,16,Chen Lifu,Chen Lifu,Chinese politician (1900-2001),Q8733,Q1026476
+Q698368,Q6581097,1900-08-21T00:00:00Z,16,Chen Lifu,Chen Lifu,Chinese politician (1900-2001),Q13426199,Q1026476
+Q698368,Q6581097,1900-08-21T00:00:00Z,16,Chen Lifu,Chen Lifu,Chinese politician (1900-2001),Q865,Q1026476
+Q699378,Q6581072,1906-08-26T00:00:00Z,6,Chen Jieru,Chen Jieru,Chinese writer (1906-1971),Q13426199,Q8686
+Q699378,Q6581072,1906-08-26T00:00:00Z,6,Chen Jieru,Chen Jieru,Chinese writer (1906-1971),Q8733,Q8686
+Q699378,Q6581072,1906-08-26T00:00:00Z,6,Chen Jieru,Chen Jieru,Chinese writer (1906-1971),Q148,Q8686
+Q699378,Q6581072,1906-08-26T00:00:00Z,6,Chen Jieru,Chen Jieru,Chinese writer (1906-1971),Q1054923,Q8686
+Q701029,Q6581097,1906-05-31T00:00:00Z,21,Luo Ruiqing,Luo Ruiqing,"Chinese general, politician (1906-1978)",Q8733,Q426996
+Q701029,Q6581097,1906-05-31T00:00:00Z,21,Luo Ruiqing,Luo Ruiqing,"Chinese general, politician (1906-1978)",Q148,Q426996
+Q701029,Q6581097,1906-05-31T00:00:00Z,21,Luo Ruiqing,Luo Ruiqing,"Chinese general, politician (1906-1978)",Q13426199,Q426996
+Q701463,Q6581097,1903-08-20T00:00:00Z,9,Zhang Lingfu,Zhang Lingfu,Chinese general (1903-1947),Q13426199,Q15945011
+Q701463,Q6581097,1903-08-20T00:00:00Z,9,Zhang Lingfu,Zhang Lingfu,Chinese general (1903-1947),Q8733,Q15945011
+Q702194,Q6581097,1901-11-08T00:00:00Z,20,Xu Xiangqian,Xu Xiangqian,Chinese politician and field marshal (1901-1990),Q8733,Q1197006
+Q702194,Q6581097,1901-11-08T00:00:00Z,20,Xu Xiangqian,Xu Xiangqian,Chinese politician and field marshal (1901-1990),Q148,Q1197006
+Q702194,Q6581097,1901-11-08T00:00:00Z,20,Xu Xiangqian,Xu Xiangqian,Chinese politician and field marshal (1901-1990),Q13426199,Q1197006
+Q702731,Q6581097,1901-01-01T00:00:00Z,11,Ding Mocun,Ding Mocun,Chinese politician (1901-1947),Q13426199,Q19852925
+Q702731,Q6581097,1901-01-01T00:00:00Z,11,Ding Mocun,Ding Mocun,Chinese politician (1901-1947),Q8733,Q19852925
+Q708898,Q6581097,1904-03-23T00:00:00Z,6,Huang Tzu,Huang Tzu,Chinese musician (1904–1938),Q8733,Q8686
+Q708898,Q6581097,1904-03-23T00:00:00Z,6,Huang Tzu,Huang Tzu,Chinese musician (1904–1938),Q13426199,Q8686
+Q708941,Q6581097,1907-07-14T00:00:00Z,10,Xiao Ke,Xiao Ke,Chinese general (1907-2008),Q8733,Q1338495
+Q708941,Q6581097,1907-07-14T00:00:00Z,10,Xiao Ke,Xiao Ke,Chinese general (1907-2008),Q13426199,Q1338495
+Q708941,Q6581097,1907-07-14T00:00:00Z,10,Xiao Ke,Xiao Ke,Chinese general (1907-2008),Q148,Q1338495
+Q709545,Q6581097,1902-11-26T00:00:00Z,20,Luo Ronghuan,Luo Ronghuan,Marshal of the People's Republic of China (1902-1963),Q13426199,Q10297262
+Q709545,Q6581097,1902-11-26T00:00:00Z,20,Luo Ronghuan,Luo Ronghuan,Marshal of the People's Republic of China (1902-1963),Q148,Q10297262
+Q709545,Q6581097,1902-11-26T00:00:00Z,20,Luo Ronghuan,Luo Ronghuan,Marshal of the People's Republic of China (1902-1963),Q8733,Q10297262
+Q712093,Q6581097,1901-02-04T00:00:00Z,17,Lee Hoi-chuen,Lee Hoi-chuen,father of Bruce Lee (1901–1965),Q8733,Q6311390
+Q712093,Q6581097,1901-02-04T00:00:00Z,17,Lee Hoi-chuen,Lee Hoi-chuen,father of Bruce Lee (1901–1965),Q1054923,Q6311390
+Q714228,Q6581097,1911-08-06T00:00:00Z,17,Ji Xianlin,Ji Xianlin,"Chinese academic, linguist, historian, translator and university teacher (1911-2009)",Q13426199,Q1207099
+Q714228,Q6581097,1911-08-06T00:00:00Z,17,Ji Xianlin,Ji Xianlin,"Chinese academic, linguist, historian, translator and university teacher (1911-2009)",Q148,Q1207099
+Q714228,Q6581097,1911-08-06T00:00:00Z,17,Ji Xianlin,Ji Xianlin,"Chinese academic, linguist, historian, translator and university teacher (1911-2009)",Q8733,Q1207099
+Q715121,Q6581072,1911-07-17T00:00:00Z,26,Yang Jiang,Yang Jiang,Chinese writer (1911-2016),Q148,Q956
+Q715121,Q6581072,1911-07-17T00:00:00Z,26,Yang Jiang,Yang Jiang,Chinese writer (1911-2016),Q8733,Q956
+Q715121,Q6581072,1911-07-17T00:00:00Z,26,Yang Jiang,Yang Jiang,Chinese writer (1911-2016),Q13426199,Q956
+Q715411,Q6581097,1904-04-30T00:00:00Z,17,Ren Bishi,Ren Bishi,Secretary of the Chinese Communist Party (1904-1950),Q8733,Q10314289
+Q715411,Q6581097,1904-04-30T00:00:00Z,17,Ren Bishi,Ren Bishi,Secretary of the Chinese Communist Party (1904-1950),Q148,Q10314289
+Q715411,Q6581097,1904-04-30T00:00:00Z,17,Ren Bishi,Ren Bishi,Secretary of the Chinese Communist Party (1904-1950),Q13426199,Q10314289
+Q7267949,Q6581097,1902-01-27T00:00:00Z,8,Qiu Qingquan,Qiu Qingquan,Chinese general (1902–1949),Q13426199,Q703818
+Q7267949,Q6581097,1902-01-27T00:00:00Z,8,Qiu Qingquan,Qiu Qingquan,Chinese general (1902–1949),Q8733,Q703818
+Q7312297,Q6581097,1900-11-09T00:00:00Z,5,Ren Guang,Ren Guang,Chinese musician (1900–1941),Q8733,
+Q7312297,Q6581097,1900-11-09T00:00:00Z,5,Ren Guang,Ren Guang,Chinese musician (1900–1941),Q13426199,
+Q7967581,Q6581097,1902-09-09T00:00:00Z,2,Wang Pu (physicist),Wang Pu,physicist (1902-1969),Q8733,
+Q7967581,Q6581097,1902-09-09T00:00:00Z,2,Wang Pu (physicist),Wang Pu,physicist (1902-1969),Q13426199,
+Q7967581,Q6581097,1902-09-09T00:00:00Z,2,Wang Pu (physicist),Wang Pu,physicist (1902-1969),Q148,
+Q8044711,Q6581097,1900-12-04T00:00:00Z,6,Xiong Foxi,Xiong Foxi,Chinese playwright,Q8733,Q1375351
+Q8044711,Q6581097,1900-12-04T00:00:00Z,6,Xiong Foxi,Xiong Foxi,Chinese playwright,Q148,Q1375351
+Q8044711,Q6581097,1900-12-04T00:00:00Z,6,Xiong Foxi,Xiong Foxi,Chinese playwright,Q13426199,Q1375351
+Q8045092,Q6581097,1909-10-26T00:00:00Z,3,Xu Fancheng,Xu Fancheng,"Scholar, poet and artist (1909-2000)",Q148,
+Q8045092,Q6581097,1909-10-26T00:00:00Z,3,Xu Fancheng,Xu Fancheng,"Scholar, poet and artist (1909-2000)",Q13426199,
+Q8045092,Q6581097,1909-10-26T00:00:00Z,3,Xu Fancheng,Xu Fancheng,"Scholar, poet and artist (1909-2000)",Q8733,
+Q8045214,Q6581097,1904-10-25T00:00:00Z,6,Xue Muqiao,Xue Muqiao,Chinese economist,Q8733,Q42651
+Q8045214,Q6581097,1904-10-25T00:00:00Z,6,Xue Muqiao,Xue Muqiao,Chinese economist,Q148,Q42651
+Q8045214,Q6581097,1904-10-25T00:00:00Z,6,Xue Muqiao,Xue Muqiao,Chinese economist,Q13426199,Q42651
+Q8060023,Q6581097,1903-01-01T00:00:00Z,2,Yuan Jiahua,Yuan Jiahua,Chinese linguist,Q148,
+Q8060023,Q6581097,1903-01-01T00:00:00Z,2,Yuan Jiahua,Yuan Jiahua,Chinese linguist,Q8733,
+Q8060023,Q6581097,1903-01-01T00:00:00Z,2,Yuan Jiahua,Yuan Jiahua,Chinese linguist,Q13426199,
+Q8070408,Q6581072,1900-01-29T00:00:00Z,5,Zhang Youyi,Zhang Youyi,wife of Xu Zhimo,Q13426199,Q46535474
+Q8070408,Q6581072,1900-01-01T00:00:00Z,5,Zhang Youyi,Zhang Youyi,wife of Xu Zhimo,Q8733,Q46535474
+Q8070408,Q6581072,1900-01-29T00:00:00Z,5,Zhang Youyi,Zhang Youyi,wife of Xu Zhimo,Q8733,Q46535474
+Q8070408,Q6581072,1900-01-01T00:00:00Z,5,Zhang Youyi,Zhang Youyi,wife of Xu Zhimo,Q30,Q46535474
+Q8070408,Q6581072,1900-01-01T00:00:00Z,5,Zhang Youyi,Zhang Youyi,wife of Xu Zhimo,Q865,Q46535474
+Q8070408,Q6581072,1900-01-29T00:00:00Z,5,Zhang Youyi,Zhang Youyi,wife of Xu Zhimo,Q865,Q46535474
+Q8070408,Q6581072,1900-01-29T00:00:00Z,5,Zhang Youyi,Zhang Youyi,wife of Xu Zhimo,Q30,Q46535474
+Q8070408,Q6581072,1900-01-01T00:00:00Z,5,Zhang Youyi,Zhang Youyi,wife of Xu Zhimo,Q13426199,Q46535474
+Q8248365,Q6581072,1907-02-19T00:00:00Z,2,Deng Jixing,Deng Jixing,Chinese politician,Q148,
+Q8248365,Q6581072,1907-02-19T00:00:00Z,2,Deng Jixing,Deng Jixing,Chinese politician,Q8733,
+Q8248365,Q6581072,1907-02-19T00:00:00Z,2,Deng Jixing,Deng Jixing,Chinese politician,Q13426199,
+Q8248673,Q6581072,1901-06-25T00:00:00Z,3,Yuan Xiaoyuan,Yuan Xiaoyuan,Chinese painter (1901–2003),Q13426199,
+Q8248673,Q6581072,1901-06-25T00:00:00Z,3,Yuan Xiaoyuan,Yuan Xiaoyuan,Chinese painter (1901–2003),Q30,
+Q8248673,Q6581072,1901-06-25T00:00:00Z,3,Yuan Xiaoyuan,Yuan Xiaoyuan,Chinese painter (1901–2003),Q8733,
+Q8248673,Q6581072,1901-06-25T00:00:00Z,3,Yuan Xiaoyuan,Yuan Xiaoyuan,Chinese painter (1901–2003),Q148,
+Q8260112,Q6581072,1907-01-01T00:00:00Z,11,Xuan Jinglin,Xuan Jinglin,Chinese actress,Q865,Q8686
+Q8260112,Q6581072,1907-01-01T00:00:00Z,11,Xuan Jinglin,Xuan Jinglin,Chinese actress,Q8733,Q8686
+Q8260112,Q6581072,1907-01-01T00:00:00Z,11,Xuan Jinglin,Xuan Jinglin,Chinese actress,Q148,Q8686
+Q8272995,Q6581097,1901-01-01T00:00:00Z,2,Chen Hsueh-ping,Chen Xueping,Chinese Educator and Politician (1901-1999),Q865,Q1015788
+Q8272995,Q6581097,1901-01-01T00:00:00Z,2,Chen Hsueh-ping,Chen Xueping,Chinese Educator and Politician (1901-1999),Q13426199,Q1015788
+Q8272995,Q6581097,1901-01-01T00:00:00Z,2,Chen Hsueh-ping,Chen Xueping,Chinese Educator and Politician (1901-1999),Q8733,Q1015788
+Q8275740,Q6581097,1908-09-12T00:00:00Z,5,Peng Meng-chi,Peng Meng-Chi,"politician, general officer and sports administrator (1908-1997)",Q8733,Q11124318
+Q8275740,Q6581097,1908-09-12T00:00:00Z,5,Peng Meng-chi,Peng Meng-Chi,"politician, general officer and sports administrator (1908-1997)",Q13426199,Q11124318
+Q8275740,Q6581097,1908-09-12T00:00:00Z,5,Peng Meng-chi,Peng Meng-Chi,"politician, general officer and sports administrator (1908-1997)",Q865,Q11124318
+Q8278925,Q6581097,1908-01-01T00:00:00Z,3,Zhang Xueming,Zhang Xueming,Chinese soldier and mayor of Tientsin,Q8733,Q1011073
+Q8278925,Q6581097,1908-01-01T00:00:00Z,3,Zhang Xueming,Zhang Xueming,Chinese soldier and mayor of Tientsin,Q148,Q1011073
+Q8278925,Q6581097,1908-01-01T00:00:00Z,3,Zhang Xueming,Zhang Xueming,Chinese soldier and mayor of Tientsin,Q13426199,Q1011073
+Q8279077,Q6581097,1902-02-08T00:00:00Z,5,Zheng Yanfen,Zheng Yanfen,Republic of China politician,Q13426199,Q945428
+Q8279077,Q6581097,1902-02-08T00:00:00Z,5,Zheng Yanfen,Zheng Yanfen,Republic of China politician,Q8733,Q945428
+Q8279077,Q6581097,1902-02-08T00:00:00Z,5,Zheng Yanfen,Zheng Yanfen,Republic of China politician,Q865,Q945428
+Q8288621,Q6581097,1908-04-16T00:00:00Z,4,Lu Dongsheng,Lu Dongsheng,Chinese general,Q8733,Q1375015
+Q8288621,Q6581097,1908-04-16T00:00:00Z,4,Lu Dongsheng,Lu Dongsheng,Chinese general,Q13426199,Q1375015
+Q8289108,Q6581097,1902-09-28T00:00:00Z,9,Rou Shi,Rou Shi,Chinese writer,Q8733,Q1334251
+Q8289108,Q6581097,1902-09-28T00:00:00Z,9,Rou Shi,Rou Shi,Chinese writer,Q13426199,Q1334251
+Q8294899,Q6581097,1905-09-26T00:00:00Z,5,Li Qiang (revolutionary),Li Qiang,Chinese revolutionary and politician (1905–1996),Q148,Q1015805
+Q8294899,Q6581097,1905-09-26T00:00:00Z,5,Li Qiang (revolutionary),Li Qiang,Chinese revolutionary and politician (1905–1996),Q8733,Q1015805
+Q8294899,Q6581097,1905-09-26T00:00:00Z,5,Li Qiang (revolutionary),Li Qiang,Chinese revolutionary and politician (1905–1996),Q13426199,Q1015805
+Q8295201,Q6581097,1901-08-17T00:00:00Z,5,Xia Xi,Xia Xi,Early leader of the Chinese Communist Party,Q8733,Q10433768
+Q8295201,Q6581097,1901-08-17T00:00:00Z,5,Xia Xi,Xia Xi,Early leader of the Chinese Communist Party,Q13426199,Q10433768
+Q8295228,Q6581072,1901-02-11T00:00:00Z,4,Yang Zhihua,Yang Zhihua,Chinese political organizer,Q8733,Q592727
+Q8295228,Q6581072,1901-02-11T00:00:00Z,4,Yang Zhihua,Yang Zhihua,Chinese political organizer,Q148,Q592727
+Q8295228,Q6581072,1901-02-11T00:00:00Z,4,Yang Zhihua,Yang Zhihua,Chinese political organizer,Q13426199,Q592727
+Q8297082,Q6581097,1903-05-04T00:00:00Z,6,Hu Yepin,Hu Yepin,Chinese writer (1903-1931),Q13426199,Q68481
+Q8297082,Q6581097,1903-05-04T00:00:00Z,6,Hu Yepin,Hu Yepin,Chinese writer (1903-1931),Q8733,Q68481
+Q8298357,Q6581097,1900-12-08T00:00:00Z,4,He Changgong,He Changgong,Chinese general,Q8733,Q1356581
+Q8298357,Q6581097,1900-12-08T00:00:00Z,4,He Changgong,He Changgong,Chinese general,Q13426199,Q1356581
+Q8298357,Q6581097,1900-12-08T00:00:00Z,4,He Changgong,He Changgong,Chinese general,Q148,Q1356581
+Q8315196,Q6581097,1902-01-01T00:00:00Z,4,Zeng Zesheng,Zeng Zesheng,Chinese general,Q8733,Q1200609
+Q8315196,Q6581097,1902-01-01T00:00:00Z,4,Zeng Zesheng,Zeng Zesheng,Chinese general,Q13426199,Q1200609
+Q8315196,Q6581097,1902-01-01T00:00:00Z,4,Zeng Zesheng,Zeng Zesheng,Chinese general,Q148,Q1200609
+Q8318157,Q6581097,1907-08-30T00:00:00Z,2,Wu Xian'en,Wu Xian'en,Chinese general,Q13426199,Q18119529
+Q8318157,Q6581097,1907-08-30T00:00:00Z,2,Wu Xian'en,Wu Xian'en,Chinese general,Q148,Q18119529
+Q8318157,Q6581097,1907-08-30T00:00:00Z,2,Wu Xian'en,Wu Xian'en,Chinese general,Q8733,Q18119529
+Q8331235,Q6581097,1903-04-01T00:00:00Z,3,Deng Zhaoxiang,Deng Zhaoxiang,Chinese politician,Q13426199,
+Q8331235,Q6581097,1903-04-01T00:00:00Z,3,Deng Zhaoxiang,Deng Zhaoxiang,Chinese politician,Q8733,
+Q8331235,Q6581097,1903-04-01T00:00:00Z,3,Deng Zhaoxiang,Deng Zhaoxiang,Chinese politician,Q148,
+Q8335271,Q6581097,1905-09-11T00:00:00Z,2,Fang Zhichun,Fang Zhichun,Chinese politician (1905-1993),Q8733,Q611478
+Q8335271,Q6581097,1905-09-11T00:00:00Z,2,Fang Zhichun,Fang Zhichun,Chinese politician (1905-1993),Q13426199,Q611478
+Q8335271,Q6581097,1905-09-11T00:00:00Z,2,Fang Zhichun,Fang Zhichun,Chinese politician (1905-1993),Q148,Q611478
+Q834040,Q6581097,1900-01-07T00:00:00Z,6,Shang Xiaoyun,Shang Xiaoyun,Chinese opera singer (1900-1976),Q148,Q956
+Q834040,Q6581097,1900-01-07T00:00:00Z,6,Shang Xiaoyun,Shang Xiaoyun,Chinese opera singer (1900-1976),Q13426199,Q956
+Q834040,Q6581097,1900-01-07T00:00:00Z,6,Shang Xiaoyun,Shang Xiaoyun,Chinese opera singer (1900-1976),Q8733,Q956
+Q85279693,Q6581097,1909-01-01T00:00:00Z,2,Ma Pai-shui,Ma Pai-sui,Taiwanese artist (1909–2003),Q8733,Q113491199
+Q85279693,Q6581097,1909-01-01T00:00:00Z,2,Ma Pai-shui,Ma Pai-sui,Taiwanese artist (1909–2003),Q13426199,Q113491199
+Q85279693,Q6581097,1909-01-01T00:00:00Z,2,Ma Pai-shui,Ma Pai-sui,Taiwanese artist (1909–2003),Q865,Q113491199
+Q9214059,Q6581097,1908-10-17T00:00:00Z,6,Yang Jingnian,Yang Jingnian,Chinese economist (1908-2016),Q148,Q1023886
+Q9214059,Q6581097,1908-10-17T00:00:00Z,6,Yang Jingnian,Yang Jingnian,Chinese economist (1908-2016),Q8733,Q1023886
+Q9214059,Q6581097,1908-10-17T00:00:00Z,6,Yang Jingnian,Yang Jingnian,Chinese economist (1908-2016),Q13426199,Q1023886
+Q926680,Q6581097,1910-05-02T00:00:00Z,18,Maxim Munzuk,Maxim Munzuk,Soviet and Russian actor (1910-1999),Q865,Q28482842
+Q926680,Q6581097,1910-05-02T00:00:00Z,18,Maxim Munzuk,Maxim Munzuk,Soviet and Russian actor (1910-1999),Q15180,Q28482842
+Q926680,Q6581097,1910-05-02T00:00:00Z,18,Maxim Munzuk,Maxim Munzuk,Soviet and Russian actor (1910-1999),Q34266,Q28482842
+Q926680,Q6581097,1910-09-15T00:00:00Z,18,Maxim Munzuk,Maxim Munzuk,Soviet and Russian actor (1910-1999),Q159,Q28482842
+Q926680,Q6581097,1910-09-15T00:00:00Z,18,Maxim Munzuk,Maxim Munzuk,Soviet and Russian actor (1910-1999),Q816709,Q28482842
+Q926680,Q6581097,1910-05-02T00:00:00Z,18,Maxim Munzuk,Maxim Munzuk,Soviet and Russian actor (1910-1999),Q8733,Q28482842
+Q926680,Q6581097,1910-09-15T00:00:00Z,18,Maxim Munzuk,Maxim Munzuk,Soviet and Russian actor (1910-1999),Q8733,Q28482842
+Q926680,Q6581097,1910-09-15T00:00:00Z,18,Maxim Munzuk,Maxim Munzuk,Soviet and Russian actor (1910-1999),Q15180,Q28482842
+Q926680,Q6581097,1910-09-15T00:00:00Z,18,Maxim Munzuk,Maxim Munzuk,Soviet and Russian actor (1910-1999),Q34266,Q28482842
+Q926680,Q6581097,1910-09-15T00:00:00Z,18,Maxim Munzuk,Maxim Munzuk,Soviet and Russian actor (1910-1999),Q865,Q28482842
+Q926680,Q6581097,1910-05-02T00:00:00Z,18,Maxim Munzuk,Maxim Munzuk,Soviet and Russian actor (1910-1999),Q816709,Q28482842
+Q926680,Q6581097,1910-05-02T00:00:00Z,18,Maxim Munzuk,Maxim Munzuk,Soviet and Russian actor (1910-1999),Q159,Q28482842
+Q97347948,Q6581097,1901-08-12T00:00:00Z,4,Shi Bangfan,Shi Bangfan,Chinese aviator (1901–1984),Q30,Q10879925
+Q97347948,Q6581097,1900-01-01T00:00:00Z,4,Shi Bangfan,Shi Bangfan,Chinese aviator (1901–1984),Q865,Q10879925
+Q97347948,Q6581097,1901-08-12T00:00:00Z,4,Shi Bangfan,Shi Bangfan,Chinese aviator (1901–1984),Q13426199,Q10879925
+Q97347948,Q6581097,1900-01-01T00:00:00Z,4,Shi Bangfan,Shi Bangfan,Chinese aviator (1901–1984),Q8733,Q10879925
+Q97347948,Q6581097,1901-08-12T00:00:00Z,4,Shi Bangfan,Shi Bangfan,Chinese aviator (1901–1984),Q8733,Q10879925
+Q97347948,Q6581097,1900-01-01T00:00:00Z,4,Shi Bangfan,Shi Bangfan,Chinese aviator (1901–1984),Q13426199,Q10879925
+Q97347948,Q6581097,1901-08-12T00:00:00Z,4,Shi Bangfan,Shi Bangfan,Chinese aviator (1901–1984),Q865,Q10879925
+Q97347948,Q6581097,1900-01-01T00:00:00Z,4,Shi Bangfan,Shi Bangfan,Chinese aviator (1901–1984),Q30,Q10879925
+Q982656,Q6581097,1910-11-02T00:00:00Z,25,Fei Xiaotong,Fei Xiaotong,"Chinese anthropologist, sociologist (1910-2005)",Q13426199,Q1371372
+Q982656,Q6581097,1910-11-02T00:00:00Z,25,Fei Xiaotong,Fei Xiaotong,"Chinese anthropologist, sociologist (1910-2005)",Q148,Q1371372
+Q982656,Q6581097,1910-11-02T00:00:00Z,25,Fei Xiaotong,Fei Xiaotong,"Chinese anthropologist, sociologist (1910-2005)",Q8733,Q1371372
+Q98765759,Q6581072,1907-06-13T00:00:00Z,4,Li Man-kuei,Li Man-kuei,Taiwanese playwright and teacher of drama,Q13426199,
+Q98765759,Q6581072,1907-06-13T00:00:00Z,4,Li Man-kuei,Li Man-kuei,Taiwanese playwright and teacher of drama,Q865,
+Q98765759,Q6581072,1907-06-13T00:00:00Z,4,Li Man-kuei,Li Man-kuei,Taiwanese playwright and teacher of drama,Q8733,

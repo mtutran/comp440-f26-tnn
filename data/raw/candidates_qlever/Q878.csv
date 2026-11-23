@@ -1,0 +1,932 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q100158716,Q6581097,1942-01-01T00:00:00Z,3,Taryam Omran Taryam,Taryam Omran Taryam,Emirati businessman,Q878,
+Q100177393,Q6581097,1909-01-01T00:00:00Z,3,Ibrahim Bin Mohammed Al Midfa,Ibrahim Bin Mohammed Al Midfa,UAE journalist,Q878,
+Q100292168,Q6581072,1990-01-01T00:00:00Z,4,Maryam Saqer Al Qasimi,Maryam Saqer Al Qasimi,Emirati children's writer,Q878,Q289693
+Q100536798,Q6581097,1926-01-01T00:00:00Z,3,Mohammed Saeed Al Mulla,Mohammed Saeed Al Mulla,Emirati banker and politician,Q878,
+Q101087922,Q6581072,1996-01-01T00:00:00Z,9,Dubai Abulhoul,Dubai Abulhoul,Emirati writer,Q878,Q878
+Q101099078,Q6581072,1988-01-01T00:00:00Z,8,Salha Obeid,Salha Obeid,Emirati writer and novelist,Q878,Q878
+Q101418515,Q6581097,2002-07-20T00:00:00Z,6,"Oumar Traoré (footballer, born 2002)",Oumar Traoré,Association football player (born 2002),Q878,Q6432487
+Q101418515,Q6581097,2002-07-20T00:00:00Z,6,"Oumar Traoré (footballer, born 2002)",Oumar Traoré,Association football player (born 2002),Q912,Q6432487
+Q101515864,Q6581097,1987-01-01T00:00:00Z,3,Majid Al Ansari,Majid Al Ansari,Emirati filmmaker,Q878,Q878
+Q104577666,Q6581097,2003-09-29T00:00:00Z,2,Mansoor Al-Menhali,Mansoor Al-Menhali,Emirati association football player,Q878,Q878
+Q104577674,Q6581097,2001-04-11T00:00:00Z,10,Zayed Sultan,Zayed Sultan,emirati association football player,Q878,Q1519
+Q104579511,Q6581097,2002-11-06T00:00:00Z,2,Hamdan Humaid,Hamdan Humaid,Emirati association football player,Q878,Q878
+Q104862273,Q6581097,2004-05-04T00:00:00Z,12,Sultan Adil,Sultan Adil,Emirati association football player,Q878,Q2204078
+Q10520045,Q6581097,1990-10-13T00:00:00Z,10,Mohammed Ali Ayed,Mohammed Ali Ayed,Emirati footballer (born 1990),Q878,Q612
+Q10555465,Q6581097,1988-04-16T00:00:00Z,7,Humaid Abbas,Humaid Abdulla Abbas,Emirati footballer,Q878,Q613
+Q105748288,Q6581097,1980-01-01T00:00:00Z,7,Mohamed Al Khaja,Mohamed Al Khaja,"An Emirati diplomat has been residing in Israel since February 14, 2021.",Q878,Q1519
+Q105755767,Q6581072,1983-01-01T00:00:00Z,4,Amina Taher,Amina Taher,Emirati business executive,Q878,Q612
+Q1059948,Q6581097,1948-09-07T00:00:00Z,80,Khalifa bin Zayed Al Nahyan,Khalifa bin Zayed Al Nahyan,President of the United Arab Emirates from 2004 to 2022,Q1852345,Q234600
+Q1059948,Q6581097,1948-09-07T00:00:00Z,80,Khalifa bin Zayed Al Nahyan,Khalifa bin Zayed Al Nahyan,President of the United Arab Emirates from 2004 to 2022,Q878,Q234600
+Q106049108,Q6581097,1982-01-01T00:00:00Z,3,Abdulla bin Touq Al Marri,Abdulla bin Touq Al Marri,"Secretary-General, Federal Cabinet - United Arab Emirates Federal Cabinet",Q878,
+Q106460806,Q6581072,1993-01-01T00:00:00Z,19,Nora Al Matrooshi,Nora Al Matrooshi,Emirati astronaut,Q878,Q188810
+Q106460857,Q6581097,1988-01-01T00:00:00Z,7,Mohammad Al Mulla,Mohammad Al Mulla,Emirati astronaut,Q878,
+Q106508,Q6581097,1948-12-27T00:00:00Z,102,Gérard Depardieu,Gérard Depardieu,French actor (born 1948),Q878,Q174251
+Q106508,Q6581097,1948-12-27T00:00:00Z,102,Gérard Depardieu,Gérard Depardieu,French actor (born 1948),Q159,Q174251
+Q106508,Q6581097,1948-12-27T00:00:00Z,102,Gérard Depardieu,Gérard Depardieu,French actor (born 1948),Q142,Q174251
+Q106998725,Q6581072,1986-02-13T00:00:00Z,5,Areej Al Hammadi,Areej Al Hammadi,Emirati footballer,Q878,Q612
+Q107065539,Q6581072,1997-01-01T00:00:00Z,6,Shamma Al Bastaki,Shamma al-Bastaki,Emirati poet and plastic artist,Q878,Q612
+Q107125143,Q6581072,1979-01-01T00:00:00Z,5,Reem al-Kamali,Reem al-Kamali,Emirati writer and journalist,Q878,Q612
+Q107277451,Q6581072,1952-01-01T00:00:00Z,4,Shaykha al-Nakhi,Shaykha al-Nakhi,Emirati writer,Q878,
+Q107301555,Q6581072,1988-06-18T00:00:00Z,5,Alaa al-Siddiq,Alaa al-Siddiq,Emirati poet,Q878,Q878
+Q107337291,Q6581072,1995-01-01T00:00:00Z,2,Hanan Al-Zeyoudi,Hanan Al-Zeyoudi,Emirati boxer,Q878,
+Q107533196,Q6581072,2002-08-08T00:00:00Z,9,Hamda Al Qubaisi,Hamda Al Qubaisi,Emirati racing driver,Q878,Q1519
+Q107555436,Q6581097,1998-06-09T00:00:00Z,7,Aram Grigorian,Aram Sarkisovich Grigorian,Russian and Emirati sambist and judoka,Q159,
+Q107555436,Q6581097,1998-06-09T00:00:00Z,7,Aram Grigorian,Aram Sarkisovich Grigorian,Russian and Emirati sambist and judoka,Q878,
+Q107596056,Q6581097,1977-11-24T00:00:00Z,2,Ahmad Belhoul Al Falasi,Ahmad Belhoul Al Falasi,Politician in the UAE,Q878,
+Q107596718,Q6581097,1966-01-01T00:00:00Z,2,Hussain Al Hammadi,Hussain Al Hammadi,UAE Politician,Q878,Q764279
+Q107663806,Q6581097,2003-06-01T00:00:00Z,4,Yousuf Al-Matrooshi,Yousuf Al-Matrooshi,Emirati swimmer,Q878,Q612
+Q108410694,Q6581072,1975-01-01T00:00:00Z,4,Fatma Abdullah,Fatma Abdullah,Emirati writer and film director (born 1975),Q878,Q2126436
+Q108410890,Q6581072,1964-01-01T00:00:00Z,5,Basimah Yunus,Basimah Muhammad Yunus,Emirati novelist and short story writer,Q878,Q878
+Q108560990,Q6581072,1957-01-01T00:00:00Z,3,Kulthum bin Masoud,Kulthum Bin Masoud,Emirati poet,Q878,Q159477
+Q108827688,Q6581072,1977-01-01T00:00:00Z,2,Manal Abdullah Al-Ghadani Al-Shehhi,Manal Abdullah Al-Ghadani Al-Shehhi,Emirati writer,Q878,Q2126436
+Q1089907,Q6581097,1990-10-05T00:00:00Z,27,Ali Mabkhout,Ali Mabkhout,Emirati footballer,Q878,Q181486
+Q109352940,Q6581097,1959-01-01T00:00:00Z,2,Abdullah Al Nauri,Abdullah Al-Nauri,Emirati novelist and police officer,Q1852345,Q2126436
+Q109352940,Q6581097,1959-01-01T00:00:00Z,2,Abdullah Al Nauri,Abdullah Al-Nauri,Emirati novelist and police officer,Q878,Q2126436
+Q109381685,Q6581072,2003-09-01T00:00:00Z,2,Wafia Al-Maamari,Wafia Darwish Al Maamari,Emirati chess player,Q878,
+Q10995041,Q6581097,1980-10-22T00:00:00Z,3,Wonho Chung,Won Ho Chung,Korean actor and comedian in the Middle East,Q851,Q374365
+Q10995041,Q6581097,1980-10-22T00:00:00Z,3,Wonho Chung,Won Ho Chung,Korean actor and comedian in the Middle East,Q851,Q612
+Q10995041,Q6581097,1980-10-22T00:00:00Z,3,Wonho Chung,Won Ho Chung,Korean actor and comedian in the Middle East,Q810,Q374365
+Q10995041,Q6581097,1980-10-22T00:00:00Z,3,Wonho Chung,Won Ho Chung,Korean actor and comedian in the Middle East,Q810,Q612
+Q10995041,Q6581097,1980-10-22T00:00:00Z,3,Wonho Chung,Won Ho Chung,Korean actor and comedian in the Middle East,Q884,Q374365
+Q10995041,Q6581097,1980-10-22T00:00:00Z,3,Wonho Chung,Won Ho Chung,Korean actor and comedian in the Middle East,Q884,Q612
+Q10995041,Q6581097,1980-10-22T00:00:00Z,3,Wonho Chung,Won Ho Chung,Korean actor and comedian in the Middle East,Q878,Q374365
+Q10995041,Q6581097,1980-10-22T00:00:00Z,3,Wonho Chung,Won Ho Chung,Korean actor and comedian in the Middle East,Q878,Q612
+Q10995041,Q6581097,1980-10-22T00:00:00Z,3,Wonho Chung,Won Ho Chung,Korean actor and comedian in the Middle East,Q881,Q374365
+Q10995041,Q6581097,1980-10-22T00:00:00Z,3,Wonho Chung,Won Ho Chung,Korean actor and comedian in the Middle East,Q881,Q612
+Q10995041,Q6581097,1980-10-22T00:00:00Z,3,Wonho Chung,Won Ho Chung,Korean actor and comedian in the Middle East,Q142,Q374365
+Q10995041,Q6581097,1980-10-22T00:00:00Z,3,Wonho Chung,Won Ho Chung,Korean actor and comedian in the Middle East,Q142,Q612
+Q111083817,Q6581072,1983-06-16T00:00:00Z,6,Latifa bint Mohammed Al Maktoum (born 1983),Latifa bint Mohammed bin Rashid Al Maktoum,chairperson of the Dubai Culture and Arts Authority (Dubai Culture),Q878,Q612
+Q111135877,Q6581072,2001-09-23T00:00:00Z,8,Safia Al-Sayegh,Safia Al Sayegh,Emirati racing cyclist,Q878,Q612
+Q1138416,Q6581097,1989-05-02T00:00:00Z,17,Hamdan Al-Kamali,Hamdan Al-Kamali,Emirati footballer,Q878,Q1519
+Q114068557,Q6581097,1985-01-01T00:00:00Z,1,Icekream,Icekream,Dubai music producer,Q878,Q84
+Q114237328,Q6581072,2006-12-13T00:00:00Z,1,Vaishnave Mahesh,Vaishnave Mahesh,Emirati cricketer,Q878,
+Q115725539,Q6581097,1949-01-01T00:00:00Z,1,Khalaf Ahmad Al Habtoor,Khalaf Ahmad Al Habtoor,"Chairman, Al Habtoor Group, UAE",Q878,
+Q115917475,Q6581097,1999-04-28T00:00:00Z,6,Dzhafar Kostoev,Dzhafar Kostoev,Russian Emirati judoka,Q878,Q163935
+Q115917475,Q6581097,1999-04-28T00:00:00Z,6,Dzhafar Kostoev,Dzhafar Kostoev,Russian Emirati judoka,Q159,Q163935
+Q116824692,Q6581097,1991-07-11T00:00:00Z,2,Sabir Ali (Emirati cricketer),Sabir Ali,Emirati cricketer,Q878,
+Q118581616,Q6581072,1982-01-01T00:00:00Z,8,Alia Al Shamsi,Alia Al Shamsi,Emirati author and poet,Q878,Q612
+Q120066264,Q6581097,2001-09-16T00:00:00Z,6,Bader Nasser (Emirati footballer),Bader Nasser,Emirati professional footballer,Q878,Q612
+Q120967938,Q6581097,1991-10-03T00:00:00Z,1,Ahmad Bazzi,Ahmad Bazzi,"Emirati researcher, engineer, inventor, educator and YouTuber (born 1991)",Q878,Q1519
+Q12178745,Q6581097,1948-01-01T00:00:00Z,2,Ahmed bin Sultan Al Qasimi,Ahmed bin Sultan Al Qasimi,"Emirati politician, Deputy Ruler of Sharjah (1990–2020)",Q878,Q289693
+Q12178848,Q6581097,1937-12-15T00:00:00Z,2,Ahmed bin Khalifa Al Suwaidi,Ahmed Bin Khalifa Al Suwaidi,politician,Q878,Q1519
+Q12178914,Q6581097,1987-08-29T00:00:00Z,5,Ahmed Sulaiman,Ahmed Sulaiman,association football player,Q878,Q878
+Q12197723,Q6581072,1969-07-01T00:00:00Z,6,Badriya Ahmed,Badriya Ahmed,Emirati actress,Q878,
+Q12199113,Q6581072,1984-10-20T00:00:00Z,12,Balqees (singer),Balqees,Yemeni actress and singer,Q805,Q1519
+Q12199113,Q6581072,1984-10-20T00:00:00Z,12,Balqees (singer),Balqees,Yemeni actress and singer,Q878,Q1519
+Q12203741,Q6581097,1966-07-01T00:00:00Z,2,Thani Al Suwaidi,Thani Al Suwaidi,Emirian poet,Q878,
+Q122051594,Q6581072,1998-01-01T00:00:00Z,2,Nouf Al Anzi,Nouf Al Anzi,Emirati footballer (born 1996),Q878,
+Q122051594,Q6581072,1996-01-01T00:00:00Z,2,Nouf Al Anzi,Nouf Al Anzi,Emirati footballer (born 1996),Q878,
+Q12207054,Q6581097,1955-02-08T00:00:00Z,4,Habib Al Sayegh,Habib Al Sayegh,Emirati poet and writer,Q878,Q1519
+Q12210050,Q6581097,1927-01-01T00:00:00Z,9,Khalid bin Muhammad Al Qasimi,Khalid bin Mohammed Al Qasimi,Sheikh of Sharjah,Q878,Q289693
+Q12210762,Q6581097,1948-01-01T00:00:00Z,2,Khalifa Ahmad Mubarak,Khalifa Ahmad Mubarak,Emirati diplomat (1948–1984),Q878,
+Q12210762,Q6581097,1947-08-26T00:00:00Z,2,Khalifa Ahmad Mubarak,Khalifa Ahmad Mubarak,Emirati diplomat (1948–1984),Q878,
+Q12213948,Q6581072,1975-06-08T00:00:00Z,10,Ruwaida al-Mahrouqi,Ruwaida al-Mahrouqi,Emirati singer,Q878,Q1519
+Q12216444,Q6581097,1981-08-01T00:00:00Z,4,Sultan Al-Jasmi,Sultan Al-Jasmi,Emirati writer,Q878,Q188810
+Q12216479,Q6581097,1967-07-01T00:00:00Z,2,Sultan bin Mohammed bin Sultan Al Qasimi,Sultan bin Muhammad Sultan Al Qasimi,Crown Prince and Deputy Ruler of Sharjah since 1999,Q878,
+Q12217854,Q6581097,1932-10-21T00:00:00Z,3,Saif Ghobash,Saif Ghobash,Emirati diplomat and engineer (1932–1977),Q878,Q170024
+Q122190670,Q6581097,1965-08-14T00:00:00Z,2,Abdullah Khalifa al-Marri,Abdullah Khalifa Al Marri,commander-in-chief of the Dubai Police Force,Q878,
+Q12219076,Q6581072,1994-04-28T00:00:00Z,5,Shamma Hamdan,Shamma Hamdan,Emirati singer,Q878,
+Q12220111,Q6581097,1952-01-01T00:00:00Z,5,Saqr Ghobash,Saqr Ghobash,politician,Q878,
+Q12223091,Q6581097,1956-01-01T00:00:00Z,3,Abdulaziz Nasser Al Shamsi,Abdulaziz Nasser Al Shamsi,Emirati diplomat,Q878,
+Q12230240,Q6581097,1948-01-01T00:00:00Z,3,Fahim bin Sultan Al Qasimi,Fahim bin Sultan Al Qasimi,Emirati politician,Q878,
+Q12230253,Q6581097,1974-10-04T00:00:00Z,3,Fayez Al Saeed,Fayez Al Saeed,Emirati singer and Actor,Q878,Q764279
+Q12231252,Q6581097,1980-12-31T00:00:00Z,3,Fahed Masoud,Fahed Masoud,Emirati footballer,Q878,Q1519
+Q122355675,Q6581097,1987-01-01T00:00:00Z,2,Ahmed bin Mohammed Al Maktoum,Ahmed bin Mohammed Al Maktoum,second Deputy Ruler of Dubai,Q878,
+Q122355675,Q6581097,1987-02-07T00:00:00Z,2,Ahmed bin Mohammed Al Maktoum,Ahmed bin Mohammed Al Maktoum,second Deputy Ruler of Dubai,Q878,
+Q12239926,Q6581097,1971-03-01T00:00:00Z,3,Mohamed El Mazem,Mohamed El Mazem,Emirati singer,Q878,
+Q12240139,Q6581097,1987-02-09T00:00:00Z,3,Mohammed bin Saud Al Qasimi,Mohammed bin Saud bin Saqr Al Qassimi,politician,Q878,Q170024
+Q12242426,Q6581072,1957-02-02T00:00:00Z,4,Maryam Mohammed Khalfan Al Roumi,Maryam Mohammed Khalfan Al Roumi,Emirati politician,Q878,
+Q12244819,Q6581097,1983-11-24T00:00:00Z,9,Maktoum bin Mohammed Al Maktoum,Maktoum bin Mohammed Bin Rashid Al Maktoum,"Deputy Ruler of Dubai, Deputy Prime Minister and Minister of Finance of UAE",Q878,Q612
+Q12245188,Q6581072,1978-01-01T00:00:00Z,2,Manal bin Amr,Manal bin Amr,Emirian writer,Q878,
+Q12246237,Q6581097,1981-04-12T00:00:00Z,6,Mousa Hatab,Mousa Hatab,association football player,Q878,Q878
+Q12246783,Q6581072,1978-08-19T00:00:00Z,12,Mayssa Maghrebi,Mayssa Maghrebi,Moroccan actress,Q878,Q178663
+Q12246783,Q6581072,1978-08-19T00:00:00Z,12,Mayssa Maghrebi,Mayssa Maghrebi,Moroccan actress,Q1028,Q178663
+Q12248440,Q6581072,1972-12-02T00:00:00Z,6,Nashwa Al-Ruwaini,Nashwa Al-Ruwaini,Egyptian television presenter,Q878,Q79
+Q12249505,Q6581072,1992-11-25T00:00:00Z,4,Neven Madi,Neven Madi,Syrian actress,Q878,Q1519
+Q12249829,Q6581097,1992-02-21T00:00:00Z,5,Haddaf Al-Ameri,Haddaf Al Ameri,footballer,Q878,Q878
+Q12249936,Q6581097,1906-01-01T00:00:00Z,2,Hazza bin Sultan Al Nahyan,Hazza bin Sultan Al Nahyan,sheikh,Q878,
+Q12251287,Q6581097,2000-01-01T00:00:00Z,2,Waleed Murad,Waleed Murad,Emirati footballer,Q878,
+Q123476717,Q6581097,1988-02-16T00:00:00Z,13,Omar Al Ali,Omar al-Ali,Emirian association football referee,Q878,
+Q123705563,Q6581097,2001-06-16T00:00:00Z,3,Ashwanth Valthapa,Ashwanth Valthapa,Emirati cricketer,Q878,
+Q1237110,Q6581097,1962-06-07T00:00:00Z,14,Ragheb Alama,Ragheb Alama,"Lebanese singer, composer, television personality",Q822,Q25230591
+Q1237110,Q6581097,1962-06-07T00:00:00Z,14,Ragheb Alama,Ragheb Alama,"Lebanese singer, composer, television personality",Q878,Q25230591
+Q1237110,Q6581097,1962-06-07T00:00:00Z,14,Ragheb Alama,Ragheb Alama,"Lebanese singer, composer, television personality",Q16,Q25230591
+Q123735769,Q6581097,1993-03-01T00:00:00Z,2,Matiullah Khan,Matiullah Khan,Emirati cricketer,Q878,
+Q124153191,Q6581072,1980-01-01T00:00:00Z,6,Hoor Al-Qasimi,Hoor Al Qasimi,Emirati art curator,Q878,Q289693
+Q125366257,Q6581072,1974-01-01T00:00:00Z,4,Fāṭimah al-Baqqālī,Fāṭimah al-Baqqālī,"Emirati calligrapher, decorator, and visual artist",Q878,Q612
+Q127328063,Q6581097,2003-03-28T00:00:00Z,4,Omar Al Marzouqi,Omar Al Marzouqi,u.A.E. equestrian,Q878,
+Q127328064,Q6581097,1984-06-22T00:00:00Z,3,Abdulla Al-Marri,Abdulla Al-Marri,Emirati equestrian,Q878,
+Q1282995,Q6581072,1970-01-01T00:00:00Z,7,Sheikha Najla Al Qasimi,Najla al-Qasimi,United Arab Emirates diplomat,Q878,
+Q128804164,Q6581097,2001-11-14T00:00:00Z,5,Mackenzie Hunt,Mackenzie Hunt,Emirati-English footballer,Q878,Q24826
+Q128804164,Q6581097,2001-11-14T00:00:00Z,5,Mackenzie Hunt,Mackenzie Hunt,Emirati-English footballer,Q145,Q24826
+Q130268149,Q6581072,1980-01-01T00:00:00Z,3,Hessa Bint Essa Buhumaid,Hessa Bint Essa Buhumaid,Emirati politician,Q878,Q878
+Q130375451,Q6581072,2008-01-25T00:00:00Z,6,Mariam Kareem,Mariam Kareem,Emirati runner specializing in the 100 and 400 meter races,Q878,Q612
+Q130375451,Q6581072,2008-01-15T00:00:00Z,6,Mariam Kareem,Mariam Kareem,Emirati runner specializing in the 100 and 400 meter races,Q878,Q612
+Q131288296,Q6581097,2008-04-08T00:00:00Z,3,Rashid Al Dhaheri,Rashid Al Dhaheri,Emirati racing driver (born 2008),Q878,
+Q131300133,Q6581097,2004-09-14T00:00:00Z,2,Adli Mohamed,Adli Mohamed,Emirati footballer,Q878,
+Q131589696,Q6581072,1995-01-01T00:00:00Z,2,Maryam Al-Zeyoudi,Maryam Al-Zeyoudi,Emirati Paralympic athlete specializing in the F40 shot put and F41 discus throw,Q878,Q764279
+Q131589709,Q6581072,1982-01-01T00:00:00Z,3,Siham Al-Rasheedy,Siham Al-Rasheedy,Emirati Paralympic athlete,Q878,Q612
+Q131590855,Q6581097,2005-03-05T00:00:00Z,2,Solomon Sosu,Solomon Sosu,Emirati association football player,Q878,Q117
+Q131590855,Q6581097,2005-03-05T00:00:00Z,2,Solomon Sosu,Solomon Sosu,Emirati association football player,Q117,Q117
+Q135038923,Q6581097,2001-05-14T00:00:00Z,4,Lithierry Silva,Lithierry Silva,Emirati footballer,Q155,
+Q135038923,Q6581097,2001-05-14T00:00:00Z,4,Lithierry Silva,Lithierry Silva,Emirati footballer,Q878,
+Q135270247,Q6581072,1954-03-06T00:00:00Z,4,Ruzaika Al-Tarish,Ruzaika Al-Tarish,Emirati actress and media personality (1954–2025),Q878,Q1852345
+Q136826613,Q6581097,2004-01-26T00:00:00Z,2,Mohamad Othman,Mohamad Othman,Emirati wheelchair racer,Q878,
+Q1368398,Q6581097,1956-02-10T00:00:00Z,15,Saud bin Saqr Al Qasimi,Saud bin Saqr al Qasimi,Emirati Sheikh,Q878,Q612
+Q1371101,Q6581097,1949-02-22T00:00:00Z,17,Hamad bin Mohammed Al Sharqi,Hamad bin Mohammed Al Sharqi,Emirati Sheikh,Q878,Q4091
+Q137163511,Q6581097,2004-02-06T00:00:00Z,4,Richard Akonnor,Richard Akonnor,Ghanaian association football player,Q878,
+Q137163511,Q6581097,2004-02-06T00:00:00Z,4,Richard Akonnor,Richard Akonnor,Ghanaian association football player,Q117,
+Q137383087,Q6581097,2003-07-13T00:00:00Z,3,Hamad Al-Meqbaali,Hamad Al-Meqbaali,Emirati footballer (born 2003),Q878,
+Q1380993,Q6581097,1918-04-09T00:00:00Z,15,Saqr bin Mohammed Al Qasimi,Saqr bin Mohammad al-Qassimi,Sheikhs of Ras Al Khaimah (1918-2010),Q878,Q2126436
+Q138782664,Q6581072,1979-01-01T00:00:00Z,2,Manal Ataya,Manal Ataya,emirati museum professional,Q878,
+Q141582009,Q6581097,2001-01-23T00:00:00Z,2,"Ousmane Camara (footballer, born January 2001)","Ousmane Camara (footballer, born January 2001)",,Q878,
+Q14524640,Q6581097,1989-08-23T00:00:00Z,8,Adel Al-Hosani,Adel Al-Hosani,Emirati association football player,Q878,Q878
+Q149067,Q6581097,1984-10-10T00:00:00Z,86,Pavel Durov,Pavel Durov,technology entrepreneur (born 1984),Q878,Q656
+Q149067,Q6581097,1984-10-10T00:00:00Z,86,Pavel Durov,Pavel Durov,technology entrepreneur (born 1984),Q142,Q656
+Q149067,Q6581097,1984-10-10T00:00:00Z,86,Pavel Durov,Pavel Durov,technology entrepreneur (born 1984),Q159,Q656
+Q149067,Q6581097,1984-10-10T00:00:00Z,86,Pavel Durov,Pavel Durov,technology entrepreneur (born 1984),Q763,Q656
+Q14946900,Q6581097,1959-03-28T00:00:00Z,11,Anwar Gargash,Anwar Mohammed Gargash,Emirati politician and Minister of State of Foreign Affairs,Q878,Q612
+Q151315,Q6581097,1989-10-06T00:00:00Z,13,Mohammed Fayez,Mohammed Fayez,Emirati footballer,Q878,Q175021
+Q1523720,Q6581097,1986-03-28T00:00:00Z,5,Mohamed Abbas Darwish,Mohamed Abbas Darwish,Emirati male triple jumper,Q878,Q612
+Q153284,Q6581097,1958-12-01T00:00:00Z,9,Ahmed bin Saeed Al Maktoum,Ahmed bin Saeed Al Maktoum,Emirati businessman and CEO of Emirates,Q878,Q612
+Q15629619,Q6581097,1985-07-13T00:00:00Z,6,Mohamed Hammadi,Mohamed Hammadi,Emirati disabled athlete,Q878,
+Q15664654,Q6581072,2000-01-01T00:00:00Z,5,Mona al Mansouri,Mona Almansouri,Emirati fashion designer,Q878,
+Q1573260,Q6581097,1963-01-01T00:00:00Z,5,Hamdan bin Zayed bin Sultan Al Nahyan,Hamdan bin Zayed bin Sultan Al Nahyan,United Arab Emirates government minister,Q878,Q234600
+Q15782413,Q6581097,1977-04-10T00:00:00Z,3,Ali Sayed Darwish,Ali Darwisch,Emirati bicycle racer (1977-2001),Q878,
+Q1588115,Q6581097,1977-08-14T00:00:00Z,4,Hasan Abdullah Ismaik,Hasan Abdullah Mohamed Ismaik,Emarati businessperson,Q878,Q817
+Q1593108,Q6581097,1988-10-08T00:00:00Z,14,Yousif Mirza,Yousef Mirza Bani Hammad,Emirati cyclist,Q878,Q764279
+Q16003850,Q6581097,1979-09-27T00:00:00Z,3,Essa Obaid (bodybuilder),Essa Obaid,bodybuilder,Q878,Q613
+Q16018226,Q6581097,1967-01-01T00:00:00Z,2,Nasser bin Zayed Al Nahyan,Nasser bin Zayed Al Nahyan,Emirati royal,Q878,
+Q16119101,Q6581097,1991-04-05T00:00:00Z,8,Khalid Jalal,Khaled Jalal,association football player,Q878,Q878
+Q16119299,Q6581097,1948-01-01T00:00:00Z,2,Abdullah Omran Taryam,Abdullah Omran Taryam,Emirati Businessman,Q878,
+Q16119445,Q6581072,1989-11-06T00:00:00Z,5,Mahira Abdel Aziz,Mahira Abdel Aziz,TV presenter,Q878,Q612
+Q16120606,Q6581097,1973-01-01T00:00:00Z,5,Suhail Al Mazroui,Suhail Al Mazroui,Emirati businessman and politician,Q878,
+Q16120614,Q6581097,1977-07-08T00:00:00Z,4,Suhail Galadari,Suhail Galadari,Emirati businessman,Q878,Q8660
+Q16123980,Q6581097,1940-01-01T00:00:00Z,3,Shihab Ghanem,Shihab Ghanem,Emirati engineer,Q805,
+Q16123980,Q6581097,1940-01-01T00:00:00Z,3,Shihab Ghanem,Shihab Ghanem,Emirati engineer,Q878,
+Q16128371,Q6581097,1985-12-15T00:00:00Z,6,Yousif Al-Zaabi,Yousef Al Zaabi,association football player,Q878,Q878
+Q16158739,Q6581097,1971-01-01T00:00:00Z,3,Bassam Al-Ansari,Bassam Al-Ansari,Emirati swimmer,Q878,
+Q16196176,Q6581097,1965-01-01T00:00:00Z,4,Sultan bin Khalifa Al Nahyan,Sultan bin Khalifa Al Nahyan,Emirati businessman,Q878,Q234600
+Q16211257,Q6581072,1991-05-18T00:00:00Z,11,Alia Saeed Mohammed,Alia Saeed Mohammed,Emirati long-distance runner,Q878,Q115
+Q16217453,Q6581097,1978-12-15T00:00:00Z,2,Ayoub Al-Mas,Ayoub Al-Mas,Emirati swimmer,Q878,
+Q16222087,Q6581097,1982-06-16T00:00:00Z,2,Mohammed bin Abdullah Al Thani,Mohammed bin Abdulla Al Thani,Qatari mountain climber,Q878,Q289693
+Q16222087,Q6581097,1982-06-16T00:00:00Z,2,Mohammed bin Abdullah Al Thani,Mohammed bin Abdulla Al Thani,Qatari mountain climber,Q846,Q289693
+Q16234151,Q6581097,1991-05-14T00:00:00Z,7,Salem Saleh,Salem Saleh,Emirati footballer,Q878,Q878
+Q16236672,Q6581097,1994-04-27T00:00:00Z,6,"Yousef Ahmed (footballer, born 1994)",Yousef Ahmed,Emirati footballer,Q878,Q234600
+Q16236926,Q6581097,1995-05-09T00:00:00Z,16,Khalfan Mubarak,Khalfan Mubarak,Emirati footballer,Q878,Q530171
+Q16729533,Q6581072,1950-01-01T00:00:00Z,5,Asmaa bint Saqr Al Qasimi,Asmaa bint Saqr Al Qasimi,Emirati poet,Q878,Q188810
+Q16729533,Q6581072,1950-01-01T00:00:00Z,5,Asmaa bint Saqr Al Qasimi,Asmaa bint Saqr Al Qasimi,Emirati poet,Q878,Q2204078
+Q16729533,Q6581072,1971-01-01T00:00:00Z,5,Asmaa bint Saqr Al Qasimi,Asmaa bint Saqr Al Qasimi,Emirati poet,Q878,Q188810
+Q16729533,Q6581072,1971-01-01T00:00:00Z,5,Asmaa bint Saqr Al Qasimi,Asmaa bint Saqr Al Qasimi,Emirati poet,Q878,Q2204078
+Q16732725,Q6581097,1978-01-01T00:00:00Z,3,Mohamed Juma Al Shamisi,Mohamed Juma Al Shamisi,Emirati businessman,Q878,Q1519
+Q16733051,Q6581097,1988-10-29T00:00:00Z,5,Sultan Musabah,Sultan Musabah,footballer,Q878,Q878
+Q16733119,Q6581097,1972-01-01T00:00:00Z,3,Mohammed bin Khalifa bin Zayed Al Nahyan,Mohammed bin Khalifa Al Nahyan,Emirati politician,Q878,Q1519
+Q16733485,Q6581072,1979-03-18T00:00:00Z,18,Noura Al Kaabi,Noura Al Kaabi,Emirati politician and business woman,Q878,Q878
+Q16735000,Q6581097,1976-12-05T00:00:00Z,5,Sultan Rashed,Sultan Rashed,Emirati football midfielder,Q878,
+Q167846,Q6581097,1918-05-06T00:00:00Z,58,Zayed bin Sultan Al Nahyan,Zayed bin Sultan Al Nahyan,Sheikh of Abu Dhabi from 1966 to 2003,Q1852345,Q1519
+Q167846,Q6581097,1918-05-06T00:00:00Z,58,Zayed bin Sultan Al Nahyan,Zayed bin Sultan Al Nahyan,Sheikh of Abu Dhabi from 1966 to 2003,Q878,Q1519
+Q16846659,Q6581097,1980-08-29T00:00:00Z,4,Moein Al Bastaki,Moein Al Bastaki,"magician, mentalist and illusionist from Dubai, UAE",Q878,Q612
+Q16885944,Q6581072,1978-01-01T00:00:00Z,5,Mana Abdulla Sulaiman,Mana Abdulla Sulaiman,United Arab Emirati Paralympian,Q878,Q613
+Q17006088,Q6581072,1965-01-01T00:00:00Z,8,Fatima Al Jaber,Fatima Al Jaber,Emirati business executive,Q878,Q1519
+Q17110526,Q6581097,1953-01-01T00:00:00Z,3,Sultan bin Nasser al-Suwaidi,Bin Nasser Al Suwaidi,,Q878,
+Q17148626,Q6581097,1973-08-31T00:00:00Z,11,Sultan Al Jaber,Sultan Al Jaber,COP28 President-Designate,Q878,Q2788830
+Q17285599,Q6581097,1986-09-18T00:00:00Z,7,Sultan Al Ghaferi,Sultan Al Ghaferi,Emirati footballer,Q878,Q1519
+Q17403156,Q6581097,1987-10-16T00:00:00Z,7,Majid bin Mohammed Al Maktoum,Prince Majid bin Mohammed of Dubai,Dubaian Royal and Emirati businessman,Q878,Q613
+Q1746137,Q6581097,1951-01-01T00:00:00Z,8,Nahyan bin Mubarak Al Nahyan,Nahyan bin Mubarak Al Nahyan,Emirati politician and businessman,Q878,
+Q17489761,Q6581072,1950-01-01T00:00:00Z,3,Najla Faisal Al Awadhi,Najla Faisal Al Awadhi,Emirati politician,Q878,
+Q17541876,Q6581097,1975-12-22T00:00:00Z,8,Khaled Al Qubaisi,Khaled Al Qubaisi,Emirati racing driver,Q878,Q1519
+Q17643687,Q6581097,1988-03-30T00:00:00Z,11,Victor Scvortov,Victor Scvorțov,Emirati-Moldovan judoka,Q878,Q217
+Q1770561,Q6581097,1990-08-09T00:00:00Z,19,Caio Canedo,Caio Canedo,Brazilian and Emirati association football player,Q878,Q276176
+Q1770561,Q6581097,1990-08-09T00:00:00Z,19,Caio Canedo,Caio Canedo,Brazilian and Emirati association football player,Q155,Q276176
+Q1771998,Q6581097,1981-06-28T00:00:00Z,12,Basheer Saeed,Bashir Saeed,Emirati footballer,Q878,Q1519
+Q18123824,Q6581072,1979-01-01T00:00:00Z,11,Mariam al-Mansouri,Mariam al-Mansouri,First Emirati female fighter pilot,Q878,Q1519
+Q18209838,Q6581072,1981-02-06T00:00:00Z,8,Reenu Mathews,Reenu Mathews,Indian actress,Q878,Q668
+Q18209838,Q6581072,1981-02-06T00:00:00Z,8,Reenu Mathews,Reenu Mathews,Indian actress,Q129286,Q668
+Q18209838,Q6581072,1981-02-06T00:00:00Z,8,Reenu Mathews,Reenu Mathews,Indian actress,Q668,Q668
+Q18348975,Q6581097,1977-05-12T00:00:00Z,7,Helal Saeed,Helal Saeed,Emirati footballer,Q878,Q234600
+Q18580135,Q6581097,1990-08-04T00:00:00Z,4,Hamad Abbas Janahi,Hamad Abbas Janahi,Emirati tennis player (1990-),Q878,Q612
+Q18637649,Q6581097,1993-06-30T00:00:00Z,21,"Fábio Lima (footballer, born 1993)",Fábio Lima,Brazilian-Emirati association football player,Q155,Q269
+Q18637649,Q6581097,1993-06-30T00:00:00Z,21,"Fábio Lima (footballer, born 1993)",Fábio Lima,Brazilian-Emirati association football player,Q878,Q269
+Q18719266,Q6581097,1934-01-01T00:00:00Z,5,Majid Al Futtaim,Majid Al Futtaim,Emirati businessman,Q878,
+Q18719266,Q6581097,1934-01-01T00:00:00Z,5,Majid Al Futtaim,Majid Al Futtaim,Emirati businessman,Q1852345,
+Q18719267,Q6581097,1935-01-01T00:00:00Z,3,Abdulla Al Ghurair,Abdulla Al Ghurair,Emirati businessman,Q878,
+Q18758302,Q6581097,1989-07-13T00:00:00Z,8,Haboush Saleh,Haboush Saleh,Emirati footballer,Q878,Q613
+Q18807495,Q6581097,1991-05-25T00:00:00Z,8,Mohamed Yousif,Mohamed Yousif,footballer,Q878,Q878
+Q18810839,Q6581097,1978-12-02T00:00:00Z,24,Mohammed Abdulla Hassan Mohamed,Mohammed Abdulla Hassan Mohamed,Emirati football referee,Q878,Q612
+Q18907981,Q6581097,1968-01-31T00:00:00Z,2,Abdulfattah Sharaf,Abdulfattah Mansoor Sharaf,Emirati banking executive,Q878,Q613
+Q19282069,Q6581097,1984-10-20T00:00:00Z,2,Faraz Javed,Faraz Javed,American Producer,Q878,Q612
+Q19355908,Q6581097,1962-01-28T00:00:00Z,4,Abdullah Mesfer,Abdullah Mesfer,Emirati football manager,Q878,Q1519
+Q1951896,Q6581097,1961-03-11T00:00:00Z,62,Mohamed bin Zayed Al Nahyan,Mohammed Bin Zayed Al Nahyan,President of the United Arab Emirates,Q878,Q234600
+Q19538991,Q6581097,1979-08-15T00:00:00Z,3,Mohammad Shahzad (Emirati cricketer),Mohammad Shahzad,Pakistani-born Emirati cricketer,Q878,Q185453
+Q19538991,Q6581097,1979-08-15T00:00:00Z,3,Mohammad Shahzad (Emirati cricketer),Mohammad Shahzad,Pakistani-born Emirati cricketer,Q843,Q185453
+Q19601168,Q6581072,1978-01-01T00:00:00Z,8,Bodour bint Sultan bin Mohammed Al Qasimi,Bodour bint Sultan bin Muhammad Al Qasimi,President of American University of Sharjah,Q878,Q188810
+Q19648874,Q6581072,1990-09-26T00:00:00Z,11,Reem Al Marzouqi,Reem Al Marzouqi,Emirati engineer and inventor,Q878,Q234600
+Q1984175,Q6581097,1961-07-07T00:00:00Z,13,Abdullah Musa,Abdullah Musa,Emirati footballer,Q878,Q612
+Q1984175,Q6581097,1958-03-02T00:00:00Z,13,Abdullah Musa,Abdullah Musa,Emirati footballer,Q878,Q612
+Q1984425,Q6581097,1965-07-08T00:00:00Z,15,Yousuf Hussain,Yousuf Hussain,Emirati footballer,Q878,Q878
+Q1984432,Q6581097,1965-08-02T00:00:00Z,13,Nasir Khamees,Nasir Khamees,Emirati footballer,Q878,Q878
+Q1984442,Q6581097,1962-01-24T00:00:00Z,14,Fahad Khamees,Fahad Khamees,Emirati footballer,Q878,Q612
+Q1984442,Q6581097,1962-09-28T00:00:00Z,14,Fahad Khamees,Fahad Khamees,Emirati footballer,Q878,Q612
+Q1984448,Q6581097,1963-12-03T00:00:00Z,14,Mubarak Ghanim,Mubarak Ghanim,Emirati footballer,Q878,Q878
+Q19955916,Q6581097,1994-02-05T00:00:00Z,9,Ahmed Barman,Ahmed Barman,Emirati association football player,Q878,Q878
+Q19958258,Q6581097,1982-05-10T00:00:00Z,7,Ammar Al-Jeneibi,Ammar Al-Jeneibi,Emirati professional football referee (born 1982),Q878,Q878
+Q2005292,Q6581097,1976-02-20T00:00:00Z,10,Saeed Al Kass,Saeed Al Kass,association football player,Q878,Q6742405
+Q2005774,Q6581097,1980-02-27T00:00:00Z,11,Subait Khater,Subait Khater,Emirati footballer,Q878,Q234600
+Q20091006,Q6581097,1986-02-26T00:00:00Z,1,Jalal Jamal Bin Thaneya,Jalal Jamal Majid Bin Thaneya Al Marri,Emirati activist,Q878,
+Q20111534,Q6581097,1973-09-02T00:00:00Z,6,Saif Bin Futtais,Saif bin Futtais,Emirati sport shooter,Q878,
+Q20390442,Q6581072,1969-10-18T00:00:00Z,16,Amal Al Qubaisi,Amal Al Qubaisi,Emirati politician,Q878,Q1519
+Q20397754,Q6581072,1975-01-01T00:00:00Z,9,Ebtisam Abdulaziz,Ebtisam Abdul Aziz,Emirati artist and writer,Q878,Q188810
+Q20422754,Q6581072,1994-02-26T00:00:00Z,6,Mahra bint Mohammed Al Maktoum,Mahra Al Maktoum,Emirati princess (born 1994),Q878,
+Q20424559,Q6581072,1975-01-01T00:00:00Z,7,Maryam Matar,Maryam Matar,UAE geneticist,Q878,
+Q2056864,Q6581097,1985-06-11T00:00:00Z,19,Walid Abbas,Walid Abbas,Emirati football player,Q878,Q612
+Q2062607,Q6581097,1968-04-13T00:00:00Z,11,Hassan Mubarak,Hassan Mubarak,Emirati footballer,Q878,Q878
+Q2063016,Q6581097,1967-08-01T00:00:00Z,12,Mohamed Obaid Al-Zahiri,Mohamed Obaid,footballer,Q878,Q878
+Q20641381,Q6581097,1994-11-25T00:00:00Z,10,Saif Rashid,Saif Rashid,Emirati association football player,Q878,Q878
+Q20641381,Q6581097,1994-01-25T00:00:00Z,10,Saif Rashid,Saif Rashid,Emirati association football player,Q878,Q878
+Q20641424,Q6581097,1994-09-04T00:00:00Z,7,Yousif Saeed,Yousif Saeed,Emirati association football player,Q878,Q878
+Q20684678,Q6581072,1988-04-03T00:00:00Z,6,Maisoon Al Saleh,Maisoon Al Saleh,Emirati visual artist based out of Dubai (born 1988),Q878,Q612
+Q2073929,Q6581097,1968-01-01T00:00:00Z,5,Ahmed bin Zayed Al Nahyan,Ahmed bin Zayed Al Nahyan,Emirati businessman (1968–2010),Q878,Q234600
+Q20744547,Q6581097,1988-10-08T00:00:00Z,3,Adil Mohammad,Adil Mohammad,Emirati sailor,Q878,Q612
+Q2080126,Q6581097,1989-12-09T00:00:00Z,8,Abdulla Al Kamali,Abdulla Al Kamali,Emirati footballer,Q878,Q612
+Q2080339,Q6581097,1985-02-25T00:00:00Z,10,Yousif Jaber,Yousif Jaber,Emirati footballer,Q878,Q263922
+Q2080379,Q6581097,1983-10-27T00:00:00Z,8,Ali Al-Wehaibi,Ali Al-Wehaibi,Emirati footballer,Q878,Q878
+Q2080773,Q6581097,1974-11-08T00:00:00Z,7,Mutaz Abdulla,Mutaz Abdulla,football player,Q878,Q234600
+Q2083383,Q6581097,1985-02-22T00:00:00Z,13,Sebastián Tagliabúe,Sebastián Tagliabúe,Emirates association football player,Q878,Q1522402
+Q2083383,Q6581097,1985-02-22T00:00:00Z,13,Sebastián Tagliabúe,Sebastián Tagliabúe,Emirates association football player,Q414,Q1522402
+Q20871328,Q6581072,1984-01-01T00:00:00Z,3,Moza Sultan Al Kaabi,Moza Sultan Al Kaabi,Emirati orthopedic surgeon (1984–2015),Q878,Q4091
+Q20880431,Q6581097,1929-01-01T00:00:00Z,2,Ahmed bin Hamed al Hamed,Ahmed bin Hamed al Hamed,emirati royal and politician,Q878,Q1519
+Q21005084,Q6581097,1968-01-01T00:00:00Z,2,Mattar Bin Lahej,Mattar Bin Lahej,Emirati painter,Q878,
+Q21073903,Q6581097,1969-01-01T00:00:00Z,7,Ahmed Mansoor,Ahmed Mansoor,Emirati activist,Q878,
+Q2108288,Q6581097,1990-03-20T00:00:00Z,12,Nugzar Tatalashvili,Nugzar Tatalashvili,Georgian judoka,Q878,Q19583
+Q2108288,Q6581097,1990-03-20T00:00:00Z,12,Nugzar Tatalashvili,Nugzar Tatalashvili,Georgian judoka,Q230,Q19583
+Q21174044,Q6581097,1969-02-25T00:00:00Z,3,Mishal Hamed Kanoo,Mishal Hamed Kanoo,4th generation to run the Kanoo family business,Q878,Q878
+Q21175180,Q6581097,1963-01-01T00:00:00Z,2,Ahmed Majan,Ahmed Majan,Emirati inventor (born 1963),Q878,
+Q2127179,Q6581072,1962-04-22T00:00:00Z,6,Rajae Belmlih,Rajae Belmlih,Moroccan singer,Q1028,Q7903
+Q2127179,Q6581072,1962-04-22T00:00:00Z,6,Rajae Belmlih,Rajae Belmlih,Moroccan singer,Q878,Q7903
+Q2154682,Q6581097,1988-08-07T00:00:00Z,10,Ivan Remarenco,Ivan Remarenco,Moldovan Emirati judoka,Q878,Q217
+Q2154682,Q6581097,1988-08-07T00:00:00Z,10,Ivan Remarenco,Ivan Remarenco,Moldovan Emirati judoka,Q217,Q217
+Q2154686,Q6581097,1987-01-29T00:00:00Z,20,Sergiu Toma,Sergiu Toma,Moldovan-Emirati judoka (born 1987),Q878,Q21197
+Q2154686,Q6581097,1987-01-29T00:00:00Z,20,Sergiu Toma,Sergiu Toma,Moldovan-Emirati judoka (born 1987),Q217,Q21197
+Q215477,Q6581097,1943-08-15T00:00:00Z,37,Maktoum bin Rashid Al Maktoum,Maktoum bin Rashid Al Maktoum,Emir of Dubai (1943–2006),Q1852345,Q746705
+Q215477,Q6581097,1943-08-15T00:00:00Z,37,Maktoum bin Rashid Al Maktoum,Maktoum bin Rashid Al Maktoum,Emir of Dubai (1943–2006),Q878,Q746705
+Q2160925,Q6581097,1991-06-08T00:00:00Z,22,"Ahmed Khalil (footballer, born 1991)",Ahmed Khalil,footballer,Q878,Q289693
+Q21620697,Q6581097,1995-09-28T00:00:00Z,2,Ahmed Al Hashmi,Ahmed Al Hashmi,Emirati association football player,Q878,Q878
+Q21622997,Q6581097,1995-02-18T00:00:00Z,5,Chirag Suri,Chirag Suri,Indian-born Emirati cricketer,Q668,Q987
+Q21622997,Q6581097,1995-02-18T00:00:00Z,5,Chirag Suri,Chirag Suri,Indian-born Emirati cricketer,Q878,Q987
+Q21806461,Q6581097,1964-01-01T00:00:00Z,3,Mohamed Abdullah (Emirati athlete),Mohamed Abdullah,Emirati athlete,Q878,
+Q21808636,Q6581097,1961-01-01T00:00:00Z,4,Rashid Al-Jirbi,Rashid Al-Jirbi,Emirati sprinter,Q878,
+Q21816892,Q6581097,1976-12-11T00:00:00Z,7,Mohammed Shehab,Mohammed Shehab,Emirati snooker player,Q878,Q612
+Q21872389,Q6581072,1989-10-21T00:00:00Z,9,Amna Al Haddad,Amna Al Haddad,Emirati weightlifter,Q878,Q612
+Q21874439,Q6581097,1950-01-01T00:00:00Z,4,Mohamed Helal Ali,Mohamed Helal Ali,Emirati athlete,Q878,
+Q21903291,Q6581097,1959-01-01T00:00:00Z,5,Ibrahim Aziz (runner),Ibrahim Aziz,Emirati sprinter,Q878,
+Q21936485,Q6581097,1950-01-01T00:00:00Z,5,Mubarak Ismail Amber,Mubarak Ismail Amber,Emirati athlete,Q878,
+Q2198878,Q6581097,1972-01-01T00:00:00Z,3,Ali Salem Edbowa,Ali Salem Edbowa,Emirati chef,Q878,
+Q22002960,Q6581097,1967-01-01T00:00:00Z,2,Abdullah Al Saadi,Abdullah Al Saadi,Emirati artist,Q878,
+Q22054939,Q6581097,1967-01-01T00:00:00Z,15,Aidarus al-Zoubaidi,Aidarus al-Zoubaidi,Yemeni politician (born 1967),Q878,Q328187
+Q22054939,Q6581097,1967-01-01T00:00:00Z,15,Aidarus al-Zoubaidi,Aidarus al-Zoubaidi,Yemeni politician (born 1967),Q805,Q328187
+Q22054939,Q6581097,1967-01-01T00:00:00Z,15,Aidarus al-Zoubaidi,Aidarus al-Zoubaidi,Yemeni politician (born 1967),Q199841,Q328187
+Q22276738,Q6581097,1996-03-15T00:00:00Z,8,Mohamed Al-Akbari,Mohamed Al-Akbari,association football player,Q878,Q878
+Q22276739,Q6581097,1995-09-28T00:00:00Z,8,Ahmed Al-Attas,Ahmed Husain Al-Hashmi,association football player,Q878,Q878
+Q2256958,Q6581097,1970-11-28T00:00:00Z,5,Mansour al-Nogaidan,Mansour Alnogaidan,Saudi writer and journalist,Q878,Q259253
+Q22688298,Q6581072,1954-06-01T00:00:00Z,4,Suad Jawad,Suad Jawad,UAE writer,Q878,Q1530
+Q22914776,Q6581072,2000-01-01T00:00:00Z,7,Ohood Al Roumi,Ohoud Al Roumi,Emirati politician,Q878,Q878
+Q22948860,Q6581072,1987-08-04T00:00:00Z,3,Alya Hassan,Alya Hassan,Emirati volleyball player,Q878,
+Q23542539,Q6581097,1983-03-18T00:00:00Z,7,Abdulla Salem,Abdulla Salem,Emirati association football player,Q878,Q612
+Q23542741,Q6581097,1991-06-07T00:00:00Z,7,Amer Omar,Amer Omar Bazuhair,Emirati association football player,Q878,Q878
+Q23902203,Q6581097,1960-01-01T00:00:00Z,4,Ibrahim Khamis,Ibrahim Khamis,Emirati sprinter,Q878,
+Q23932126,Q6581072,1989-08-06T00:00:00Z,5,Natasha Choufani,Natasha Choufani,Emirati actor,Q878,Q1519
+Q2403507,Q6581097,1967-07-13T00:00:00Z,16,Zuhair Bakheet,Zuhair Bakheet,Emirati footballer,Q878,Q612
+Q2403525,Q6581097,1979-05-23T00:00:00Z,9,Abdulrahim Jumaa,Abdulrahim Jumaa,Emirati footballer,Q878,Q1519
+Q24054008,Q6581097,1989-03-30T00:00:00Z,8,Ahmed Mahmoud,Ahmed Mahmoud,association football player,Q878,Q878
+Q24054009,Q6581097,1989-01-10T00:00:00Z,6,Saif Yousef,Saif Yousef,association football player,Q878,Q878
+Q24054010,Q6581097,1991-10-09T00:00:00Z,7,Salmeen Khamis,Salmeen Khamis,Emirati association football player,Q878,Q878
+Q24054012,Q6581097,1991-12-07T00:00:00Z,6,Adel Al-Hammadi,Adel Al-Hammadi,association football player,Q878,Q878
+Q24054015,Q6581097,1987-01-13T00:00:00Z,7,Eisa Ahmed,Eisa Ahmed,association football player,Q878,Q878
+Q24054022,Q6581097,1989-02-11T00:00:00Z,6,Hassan Abdulrahman (footballer),Hassan Abdulrahman,association football player,Q878,Q878
+Q24054026,Q6581097,1985-09-20T00:00:00Z,6,Yasser Matar,Yasser Matar,association football player,Q878,Q878
+Q24054035,Q6581097,1994-02-04T00:00:00Z,7,Saeed Al-Menhali,Saeed Mosabah,association football player,Q878,Q878
+Q24061183,Q6581097,1990-10-25T00:00:00Z,4,Mohsen Al-Hashemi,Mohsen Al-Hashemi,association football player,Q878,Q878
+Q24061185,Q6581097,1992-05-08T00:00:00Z,5,Adel Fadaaq,Adel Fadaaq,association football player,Q878,Q878
+Q24061185,Q6581097,1992-09-12T00:00:00Z,5,Adel Fadaaq,Adel Fadaaq,association football player,Q878,Q878
+Q24061187,Q6581097,1984-01-01T00:00:00Z,5,Saleh Al Menhali,Saleh Al Menhali,association football player,Q878,Q878
+Q24061189,Q6581097,1990-07-09T00:00:00Z,17,Bandar Al-Ahbabi,Bander Al-Ahbabi,association football player,Q878,Q878
+Q24061190,Q6581097,1984-10-10T00:00:00Z,5,Thamer Mohammed,Thamer Mohammed,association football player,Q878,Q878
+Q24061192,Q6581097,1989-01-01T00:00:00Z,6,Mohammed Khalaf,Mohammed Khalaf,Emirati association football player,Q878,Q878
+Q24061192,Q6581097,1989-08-19T00:00:00Z,6,Mohammed Khalaf,Mohammed Khalaf,Emirati association football player,Q878,Q878
+Q24061200,Q6581097,1992-06-19T00:00:00Z,6,Abdusalam Mohammed,Abdusalam Mohammed,association football player,Q878,Q878
+Q24061201,Q6581097,1993-01-08T00:00:00Z,4,Darwish Mohammed,Darwish Mohammed,association football player,Q878,Q878
+Q24061202,Q6581097,1996-02-23T00:00:00Z,6,Khalaf Al-Hosani,Khalaf Al-Hosani,association football player,Q878,Q878
+Q24061203,Q6581097,1993-04-28T00:00:00Z,8,Abdullah Al-Naqbi,Abdullah Al-Naqbi,Emirati association football player,Q878,Q878
+Q24061205,Q6581097,1988-01-27T00:00:00Z,6,Ali Al-Hammadi,Ali Al-Hammadi,association football player,Q878,Q878
+Q24062457,Q6581097,1989-07-02T00:00:00Z,6,Abdullah Abdulqader,Abdullah Abdulqader,association football player,Q878,Q878
+Q24062458,Q6581097,1991-01-04T00:00:00Z,7,Hamad Al-Ahbabi,Hamad Al-Ahbabi,association football player,Q878,Q878
+Q24062460,Q6581097,1982-03-11T00:00:00Z,6,Jumaa Abdullah,Jumaa Abdullah,Emirati footballer,Q878,Q878
+Q24062461,Q6581097,1993-08-28T00:00:00Z,7,Abdurahman Yousef,Abdurahman Yousef,association football player,Q878,Q878
+Q24062462,Q6581097,1991-02-12T00:00:00Z,5,Hamad Al-Hammadi,Hamad Al-Hammadi,association football player,Q878,Q878
+Q24062464,Q6581097,1986-09-27T00:00:00Z,6,Abdullah Faraj,Abdullah Faraj,association football player,Q878,Q878
+Q24083881,Q6581097,1997-01-28T00:00:00Z,8,Mohammed Jumaa,Mohammed Jumaa,association football player,Q878,Q878
+Q24084668,Q6581097,1996-06-22T00:00:00Z,8,Sultan Al-Shamsi,Sultan Al-Shamsi,Emirati association football player,Q878,Q878
+Q24088573,Q6581097,1989-12-16T00:00:00Z,6,Nasser Abdulhadi,Nasser Abdulhadi,association football player,Q878,Q878
+Q24088576,Q6581097,1988-11-13T00:00:00Z,6,Sanad Ali,Sanad Ali,association football player,Q878,Q878
+Q24088719,Q6581097,1989-02-22T00:00:00Z,6,Humaid Al-Najjar,Humaid Al-Najar,Emirati association football player,Q878,Q878
+Q24088812,Q6581097,1987-03-07T00:00:00Z,5,Talal Hamad,Talal Hamad,association football player,Q878,Q878
+Q24088814,Q6581097,1986-05-03T00:00:00Z,6,Ahmed Al-Shaji,Ahmed Al-Shaji,association football player,Q878,Q878
+Q24088816,Q6581097,1989-06-30T00:00:00Z,6,Ali Saeed Saqer,Ali Saeed Saqer,association football player,Q878,Q878
+Q24088818,Q6581097,1988-10-01T00:00:00Z,6,Haithem Al-Matroushi,Haithem Al-Matroushi,Emirati association football player,Q878,Q878
+Q24088836,Q6581097,1987-06-01T00:00:00Z,7,Yaqoub Al Hosani,Yaqoub Al Hosani,association football player,Q878,Q878
+Q24088843,Q6581097,1989-10-04T00:00:00Z,8,Khaled Al-Senani,Khaled Al-Senani,Emirati association football player,Q878,Q878
+Q24088862,Q6581097,1988-07-31T00:00:00Z,6,Ahmed Al-Yassi,Ahmed Al-Yassi,association football player,Q878,Q878
+Q24088866,Q6581097,1988-03-12T00:00:00Z,7,Tareq Ahmed (footballer),Tareq Ahmed,UAE association football player,Q878,Q878
+Q24088870,Q6581097,1989-06-19T00:00:00Z,7,Manea Mohammed,Manea Mohammed,association football player,Q878,Q613
+Q24150742,Q6581097,1995-08-14T00:00:00Z,6,Ahmed Rabee,Ahmed Rabee,association football player,Q878,Q878
+Q24150762,Q6581097,1995-12-06T00:00:00Z,8,Rashed Mohammed,Rashed Mohammed,association football player,Q878,Q878
+Q24150803,Q6581097,1994-11-30T00:00:00Z,7,Hussain Abbas,Hussain Abbas,association football player,Q878,Q878
+Q24150808,Q6581097,1994-11-10T00:00:00Z,7,Hassan Hamza,Hassan Hamza,association football player,Q878,Q878
+Q24150828,Q6581097,1994-09-14T00:00:00Z,6,Khaled Khamis,Khaled Khamis,association football player,Q878,Q878
+Q24150905,Q6581097,1993-10-30T00:00:00Z,11,Khalifa Mubarak,Khalifah Mubarak,association football player,Q878,Q613
+Q24150907,Q6581097,1993-03-02T00:00:00Z,6,Abdullah Al-Tamimi,Abdullah Mohammed Ismail,association football player,Q878,Q878
+Q24150908,Q6581097,1993-12-20T00:00:00Z,8,Ahmed Shambih,Ahmed Shambih,Emirati association football player,Q878,Q878
+Q24150909,Q6581097,1991-10-18T00:00:00Z,6,Mubarak Saeed,Mubarak Saeed,association football player,Q878,Q878
+Q24150910,Q6581097,1993-01-02T00:00:00Z,6,Abdurahman Ali (footballer),Abdurahman Ali,association football player,Q878,Q878
+Q24150932,Q6581097,1993-01-11T00:00:00Z,6,Walid Amber,Walid Anbar,association football player,Q878,Q878
+Q24150936,Q6581097,1993-01-31T00:00:00Z,6,Saif Khalfan,Saif Khalfan,association football player,Q878,Q878
+Q24150939,Q6581097,1993-12-21T00:00:00Z,8,Salem Rashid,Salem Rashid Obaid,association football player,Q878,Q878
+Q24150940,Q6581097,1993-09-27T00:00:00Z,6,Salem Ali Ibrahim,Salem Ali Ibrahim,association football player,Q878,Q878
+Q24151104,Q6581097,1992-06-16T00:00:00Z,7,Masoud Sulaiman,Masoud Sulaiman,association football player,Q878,Q878
+Q24258662,Q6581097,1985-06-13T00:00:00Z,5,Hassan Ameen,Hassan Ameen,association football player,Q878,Q878
+Q24258664,Q6581097,1985-07-06T00:00:00Z,6,Hassan Zahran,Hassan Zahran,association football player,Q878,Q878
+Q24258664,Q6581097,1985-06-07T00:00:00Z,6,Hassan Zahran,Hassan Zahran,association football player,Q878,Q878
+Q24258667,Q6581097,1988-06-14T00:00:00Z,6,Abdullah Al-Junaibi,Abdullah Al-Junaibi,association football player,Q878,Q878
+Q24258670,Q6581097,1983-07-01T00:00:00Z,6,Waheed Ismail,Waheed Ismail,association football player,Q878,Q878
+Q24258672,Q6581097,1994-02-20T00:00:00Z,6,Rashed Muhayer,Rashed Muhayer,association football player,Q878,Q878
+Q24258760,Q6581097,1986-08-01T00:00:00Z,6,Mohammed Al-Moeini,Mohammed Al-Moeini,association football player,Q878,Q878
+Q24258761,Q6581097,1986-08-06T00:00:00Z,6,Rashed Ahmed,Rashed Ahmed,Emirati footballer,Q878,Q878
+Q24258762,Q6581097,1981-02-12T00:00:00Z,6,Fayez Jumaa,Fayez Jumaa,association football player,Q878,Q878
+Q24258763,Q6581097,1983-03-29T00:00:00Z,5,Bader Abdulrahman,Bader Abdulrahman,association football player,Q878,Q878
+Q24258763,Q6581097,1983-08-29T00:00:00Z,5,Bader Abdulrahman,Bader Abdulrahman,association football player,Q878,Q878
+Q24258784,Q6581097,1988-05-26T00:00:00Z,8,Ali Al-Hosani,Ali Al-Hosani,association football player,Q878,Q878
+Q24258788,Q6581097,1987-01-08T00:00:00Z,6,"Abdullah Al-Noubi (footballer, born 1987)",Abdullah Al-Noubi,association football player,Q878,Q878
+Q24258790,Q6581097,1982-06-06T00:00:00Z,5,Adel Basulaiman,Adel Abdullah Ba Sulaiman,association football player,Q878,Q878
+Q24258799,Q6581097,1989-12-02T00:00:00Z,7,Rashed Ali,Rashed Ali,association football player,Q878,Q878
+Q24258800,Q6581097,1986-10-12T00:00:00Z,6,Yasser Salem,Yasser Salem,association football player,Q878,Q878
+Q24258811,Q6581097,1988-02-07T00:00:00Z,6,Humaid Ahmed Al Hammadi,Humaid Ahmed,association football player,Q878,Q878
+Q24258812,Q6581097,1989-01-25T00:00:00Z,5,Ismael Al-Jasmi,Ismael Al-Jasmi,association football player,Q878,Q878
+Q24258812,Q6581097,1989-06-25T00:00:00Z,5,Ismael Al-Jasmi,Ismael Al-Jasmi,association football player,Q878,Q878
+Q24258814,Q6581097,1989-03-10T00:00:00Z,6,Fahad Sabeel,Fahad Sebil,association football player,Q878,Q878
+Q24258815,Q6581097,1987-07-20T00:00:00Z,6,Masoud Hassan,Masoud Hassan,association football player,Q878,Q878
+Q2426464,Q6581097,1968-07-06T00:00:00Z,15,Ali Thani Jumaa,Ali Thani Jumaa,Emirati footballer,Q878,Q289693
+Q2426464,Q6581097,1968-08-18T00:00:00Z,15,Ali Thani Jumaa,Ali Thani Jumaa,Emirati footballer,Q878,Q289693
+Q24450180,Q6581097,1989-01-28T00:00:00Z,5,Mohammed Jaber (footballer),Mohammed Jaber,association football player,Q878,Q878
+Q24450209,Q6581097,1984-07-01T00:00:00Z,6,"Mahmoud Hassan (footballer, born 1984)",Mahmoud Hassan,association football player,Q878,Q878
+Q24450211,Q6581097,1985-02-21T00:00:00Z,6,Abdullah Ali (footballer),Abdullah Ali,association football player,Q878,Q878
+Q24450217,Q6581097,1985-10-21T00:00:00Z,4,Ali Hussain (footballer),Ali Hussain,association football player,Q878,Q878
+Q24450217,Q6581097,1985-08-21T00:00:00Z,4,Ali Hussain (footballer),Ali Hussain,association football player,Q878,Q878
+Q24450431,Q6581097,1991-05-21T00:00:00Z,6,Khaled Serwash,Khaled Serwash,association football player,Q878,Q878
+Q24450432,Q6581097,1990-06-07T00:00:00Z,6,Khaled Shamarikh,Khaled Shamarikh,association football player,Q878,Q878
+Q24450433,Q6581097,1991-06-25T00:00:00Z,11,Al Hassan Saleh,Al Hassan Saleh,association football player,Q878,Q170024
+Q24450434,Q6581097,1990-07-06T00:00:00Z,5,Abdullah Nini,Abdullah Nini Al-Shehi,association football player,Q878,Q878
+Q24450435,Q6581097,1991-06-25T00:00:00Z,6,Al Hussain Saleh,Al Hussain Saleh,Emirati footballer,Q878,Q878
+Q24450441,Q6581097,1997-03-16T00:00:00Z,5,Jassim Yaqoob,Jassem Yaqoub,association football player,Q878,Q878
+Q24450445,Q6581097,1991-02-20T00:00:00Z,7,Khalifa Abdullah,Khalifa Abdullah,association football player,Q878,Q878
+Q24450447,Q6581097,1991-11-17T00:00:00Z,7,Rashed Hassan,Rashed Hassan,association football player,Q878,Q613
+Q24450616,Q6581097,1995-08-02T00:00:00Z,7,Omar Jumaa,Omar Jumaa,Emirati association football player,Q878,Q878
+Q24450617,Q6581097,1994-06-10T00:00:00Z,6,Muhain Khalifah,Muhain Khalifah,association football player,Q878,Q878
+Q24450623,Q6581097,1994-01-18T00:00:00Z,6,Hamad Ibrahim,Hamad Ibrahim,association football player,Q878,Q878
+Q24450625,Q6581097,1992-11-16T00:00:00Z,10,Shahin Abdulrahman,Shahin Abdulrahman,association football player,Q878,Q878
+Q24450627,Q6581097,1993-10-31T00:00:00Z,6,Mohamed Surour,Mohamed Suroor,association football player,Q878,Q878
+Q24450629,Q6581097,1997-10-14T00:00:00Z,7,Majed Suroor,Majed Suroor,association football player,Q878,Q878
+Q24450631,Q6581097,1995-05-21T00:00:00Z,8,Abdullah Ghanem,Abdullah Ghanem,Emirati association football player,Q878,Q878
+Q24450687,Q6581097,1993-06-10T00:00:00Z,7,Sultan Saif,Sultan Saif,association football player,Q878,Q878
+Q24450688,Q6581097,1997-01-19T00:00:00Z,7,"Ahmed Rashed (footballer, born 1997)",Ahmed Rashed,association football player,Q878,Q878
+Q24450690,Q6581097,1993-06-22T00:00:00Z,6,Mohammed Saif,Mohammed Saif,Emirati association football player,Q878,Q878
+Q24450693,Q6581097,1995-05-08T00:00:00Z,8,Khaled Ba Wazir,Khaled Ba Wazir,Emirati footballer,Q878,Q878
+Q24450694,Q6581097,1993-05-19T00:00:00Z,7,Suhail Al-Mansoori,Suhail Al-Mansoori,Emirati association football player,Q878,Q878
+Q24450698,Q6581097,1995-10-19T00:00:00Z,8,Mohammed Abdulbasit,Mohammed Abdulbasit,association football player,Q878,Q878
+Q24450699,Q6581097,1994-10-24T00:00:00Z,6,Abdulrahim Ahli,Abduraheem Abdurahman,association football player,Q878,Q878
+Q24450704,Q6581097,1991-01-16T00:00:00Z,6,Mohammed Al-Dhahri,Mohammed Al-Dhahri,association football player,Q878,Q878
+Q24450704,Q6581097,1991-06-16T00:00:00Z,6,Mohammed Al-Dhahri,Mohammed Al-Dhahri,association football player,Q878,Q878
+Q24450705,Q6581097,1990-10-27T00:00:00Z,10,Mohammed Al-Menhali,Mohammed Barqesh,UAE association football player,Q878,Q878
+Q24450706,Q6581097,1993-05-09T00:00:00Z,8,Salem Sultan,Salem Al Sharji,Emirati association football player,Q878,Q878
+Q24450798,Q6581097,1995-02-04T00:00:00Z,17,Ali Salmeen,Ali Salmeen,association football player,Q878,Q612
+Q24450799,Q6581097,1996-07-31T00:00:00Z,7,Abdullah Kazim,Abdullah Kazim,Emirati association football player,Q878,Q878
+Q24450801,Q6581097,1992-12-29T00:00:00Z,8,"Mohammed Khalfan (footballer, born 1992)",Mohammed Khalvan,association football player,Q878,Q878
+Q24450867,Q6581097,1990-11-19T00:00:00Z,6,Waleed Al-Yamahi,Waleed Al-Yamahi,association football player,Q878,Q878
+Q24450881,Q6581097,1990-08-21T00:00:00Z,4,Fahad Khalfan (Emirati footballer),Fahad Khalvan,association football player,Q878,Q878
+Q24450891,Q6581097,1990-04-01T00:00:00Z,5,Ibrahim Qanber,Ibrahim Qanber,association football player,Q878,Q878
+Q24450893,Q6581097,1991-03-18T00:00:00Z,7,Mansoor Al-Baloushi,Mansor Abbas,association football player,Q878,Q878
+Q24572514,Q6581072,1950-01-01T00:00:00Z,4,Amina Al Rustamani,Amina Al Rustamani,Emirati businesswoman,Q878,
+Q24663891,Q6581097,1994-05-11T00:00:00Z,6,"Mohammed Jamal (footballer, born 1994)",Mohammed Jamal,Emirati association football player,Q878,Q878
+Q24663892,Q6581097,1994-01-08T00:00:00Z,6,Marwan Mohammed,Marwan Mohammed,association football player,Q878,Q878
+Q24689234,Q6581097,1989-09-10T00:00:00Z,6,Hassan Mohammed (footballer),Hassan Mohammed,association football player,Q878,Q878
+Q24702587,Q6581097,1988-08-18T00:00:00Z,6,Faisel Al-Khodaim,Faisel Al-Khodaim,association football player,Q878,Q878
+Q24702659,Q6581097,1986-01-22T00:00:00Z,7,Waleed Ahmed,Waleed Ahmed,association football player,Q878,Q878
+Q24809726,Q6581097,1991-09-03T00:00:00Z,7,Fahad Al-Dhanhani,Fahad Al-Dhanhani,association football player,Q878,Q878
+Q24871117,Q6581072,1995-03-03T00:00:00Z,18,Zahra Lari,Zahra Lari,Emirati figure skater,Q878,Q1519
+Q25189726,Q6581097,1992-01-14T00:00:00Z,4,Ibrahim Saeed (footballer),Ibrahim Saeed,association football player,Q878,Q878
+Q25189948,Q6581097,1993-05-04T00:00:00Z,8,Khalil Ibrahim (footballer),Khalil Ibrahim,UAE association football player,Q878,Q878
+Q25344475,Q6581097,1969-01-01T00:00:00Z,4,Sultan Khalifa,Sultan Khalifa,Artist,Q878,
+Q25462776,Q6581097,1986-01-02T00:00:00Z,4,Ahmed Jumaa,Ahmed Jumaa,association football player,Q878,Q1519
+Q25687796,Q6581097,1965-01-01T00:00:00Z,4,Ali Hayyaz,Ali Hayyaz,Emirati cyclist,Q878,
+Q25752259,Q6581097,1967-01-01T00:00:00Z,4,Naji Sayed,Naji Sayed,Emirati cyclist,Q878,
+Q2579557,Q6581097,1988-07-01T00:00:00Z,19,Ismail Al Hammadi,Ismail Al Hammadi,Emirati footballer,Q878,Q1519
+Q26459659,Q6581072,1997-08-15T00:00:00Z,8,Nada Al-Bedwawi,Nada Al-Bedwawi,Emirati swimmer,Q878,
+Q2652388,Q6581097,1991-09-20T00:00:00Z,28,Omar Abdulrahman,Omar Abdulrahman,Emirati footballer,Q878,Q234600
+Q2661904,Q6581097,1905-06-01T00:00:00Z,15,Shakhbut bin Sultan Al Nahyan,Shakhbut bin Sultan Al Nahyan,Emirati politician (1905–1989),Q878,Q1519
+Q26789004,Q6581097,1988-08-07T00:00:00Z,4,Saud Al-Zaabi,Saud Al-Zaabi,Emirati middle distance runner,Q878,
+Q2702005,Q6581097,1977-03-19T00:00:00Z,17,Fayez Banihammad,Fayez Banihammad,9/11 hijacker (1977–2001),Q878,Q764279
+Q27087956,Q6581072,1971-09-02T00:00:00Z,11,Layla Kaylif,Layla Kaylif,singer,Q878,Q612
+Q2719857,Q6581097,1964-03-20T00:00:00Z,16,Muhsin Musabah,Muhsin Musabah,Emirati footballer,Q878,Q289693
+Q2719857,Q6581097,1964-10-01T00:00:00Z,16,Muhsin Musabah,Muhsin Musabah,Emirati footballer,Q878,Q289693
+Q2735132,Q6581097,1966-10-10T00:00:00Z,6,Saeed bin Suroor,Saeed bin Suroor,Emirati horse trainer,Q878,Q613
+Q2741419,Q6581097,1988-11-24T00:00:00Z,3,Jasim Abdalla,Jasim Mohamed,Emirati basketball player,Q878,Q84
+Q2741419,Q6581097,1988-11-24T00:00:00Z,3,Jasim Abdalla,Jasim Mohamed,Emirati basketball player,Q398,Q84
+Q2741419,Q6581097,1988-11-24T00:00:00Z,3,Jasim Abdalla,Jasim Mohamed,Emirati basketball player,Q145,Q84
+Q2745728,Q6581097,1982-05-24T00:00:00Z,14,Ibrahim Diaky,Ibrahim Diaky,Ivorian footballer,Q878,Q1515
+Q2745728,Q6581097,1982-05-24T00:00:00Z,14,Ibrahim Diaky,Ibrahim Diaky,Ivorian footballer,Q1008,Q1515
+Q27529044,Q6581097,1991-01-01T00:00:00Z,2,Omar Noaman,Omar Noaman,Emirati chess player,Q878,
+Q2757388,Q6581097,1987-10-28T00:00:00Z,11,Mahmoud Khamees,Mahmoud Khamees,Emirati footballer,Q878,Q234600
+Q27598443,Q6581072,1989-01-01T00:00:00Z,5,Noura Mohamed Saleh,Nora Mohd Saleh,Emirati chess player,Q878,
+Q27662961,Q6581097,1986-02-11T00:00:00Z,4,Atif Ali Khan,Atif Ali Khan,Emirati cricketer,Q843,Q643883
+Q27662961,Q6581097,1986-02-11T00:00:00Z,4,Atif Ali Khan,Atif Ali Khan,Emirati cricketer,Q878,Q643883
+Q27899133,Q6581097,1989-03-06T00:00:00Z,1,Hussain Ahmed (basketball),Hussain Ahmed,Emirati basketball player (born 1989),Q878,Q1519
+Q27899133,Q6581097,1989-06-06T00:00:00Z,1,Hussain Ahmed (basketball),Hussain Ahmed,Emirati basketball player (born 1989),Q878,Q1519
+Q27925254,Q6581072,1958-08-17T00:00:00Z,8,Zabya Khamis al-Muslimani,Zabyah Khamis,Emirati poet and novelist,Q878,Q612
+Q27925254,Q6581072,1958-08-17T00:00:00Z,8,Zabya Khamis al-Muslimani,Zabyah Khamis,Emirati poet and novelist,Q1852345,Q612
+Q27927833,Q6581097,1982-01-16T00:00:00Z,4,Omar Al-Awadhi,Omar Alawadhi,Emirati tennis player (1982-),Q878,Q612
+Q27947714,Q6581097,1964-05-08T00:00:00Z,2,Elie Khouri,Elie Khouri,Lebanese-French entrepreneur,Q878,Q3820
+Q27967849,Q6581072,1993-02-22T00:00:00Z,10,Shamma Al Mazrui,Shamma Al Mazrui,politician,Q878,Q1519
+Q28051508,Q6581072,1982-01-01T00:00:00Z,3,Sabbah Haji,Sabbah Haji,Dubai school director,Q878,Q612
+Q28203217,Q6581097,1937-01-01T00:00:00Z,3,Abdul Hafeez Khan Al Yousefi,Abdul Hafeez Khan Al Yousefi,former Agricultural Adviser,Q878,Q234600
+Q2827489,Q6581097,1990-01-28T00:00:00Z,11,"Ahmed Ali (footballer, born 1990)",Ahmed Ali,Emirati association footballer,Q878,Q289693
+Q28363747,Q6581097,1987-07-13T00:00:00Z,5,Abdullah Al-Jabri,Abdullah Al-Jabri,association football player,Q878,Q878
+Q28363752,Q6581097,1991-12-24T00:00:00Z,6,Ahmed Haboush,Ahmed Saleh Haboush,association football player,Q878,Q878
+Q28363882,Q6581097,1996-06-06T00:00:00Z,6,Hassan Al-Moharrami,Hassan Al-Moharrami,association football player,Q878,Q878
+Q28363920,Q6581097,1984-12-21T00:00:00Z,6,Khalil Al Ali,Khalil Al Ali,association football player,Q878,Q878
+Q28363931,Q6581097,1995-06-20T00:00:00Z,8,Mohammed Abo Sandah,Mohammed Abo Sandah,association football player,Q878,Q878
+Q28363933,Q6581097,1993-04-13T00:00:00Z,6,"Mohammed Sabeel (footballer, born 1993)",Mohammed Sebil,association football player,Q878,Q878
+Q28363940,Q6581097,1981-06-16T00:00:00Z,6,Omar Ali Omar,Omar Ali Omar,association football player,Q878,Q878
+Q28363954,Q6581097,1994-11-23T00:00:00Z,11,Rayan Yaslam,Rayan Yaslam,association football player,Q878,Q234600
+Q28363960,Q6581097,1994-01-17T00:00:00Z,7,Saeed Ahmed Abdulla,Saeed Ahmed Abdulla,association football player,Q878,Q878
+Q28363961,Q6581097,1995-03-02T00:00:00Z,6,"Saeed Jassim (footballer, born 1995)",Saeed Jassem,association football player,Q878,Q878
+Q28363976,Q6581097,1996-01-09T00:00:00Z,8,Suhail Al-Noubi,Suhail Al-Noubi,association football player,Q878,Q878
+Q28714779,Q6581072,1987-01-01T00:00:00Z,27,Sarah Al Amiri,Sarah Amiri,Emirati scientist and minister,Q878,Q878
+Q28716428,Q6581097,1972-01-01T00:00:00Z,2,Mohammed bin Musallam bin Ham al-Ameri,Mohammed bin ham,"IIMSAM Deputy Secretary-General, Deputy Chairman of the Bin Ham Group",Q878,Q234600
+Q28716428,Q6581097,1972-01-01T00:00:00Z,2,Mohammed bin Musallam bin Ham al-Ameri,Mohammed bin ham,"IIMSAM Deputy Secretary-General, Deputy Chairman of the Bin Ham Group",Q878,Q2617900
+Q28717999,Q6581097,1969-02-23T00:00:00Z,6,Mohammed Khamis Khalaf,Mohammed Khamis Khalaf,United Arab Emirati Paralympic powerlifter,Q878,
+Q28731731,Q6581097,1992-08-15T00:00:00Z,6,"Abdullah Nasser (footballer, born 1992)",Abdullah Nasser,association football player,Q878,Q878
+Q28731731,Q6581097,1992-07-15T00:00:00Z,6,"Abdullah Nasser (footballer, born 1992)",Abdullah Nasser,association football player,Q878,Q878
+Q28731735,Q6581097,1993-06-30T00:00:00Z,6,Ahmed Ibrahim Helal,Ahmed Ibrahim Helal,Emirati association football player,Q878,Q878
+Q28731739,Q6581097,1991-06-01T00:00:00Z,7,Ali Al-Dhanhani,Ali Al-Dhanhani,Emirati association football player,Q878,Q878
+Q28731762,Q6581097,1989-06-03T00:00:00Z,6,Mohammed Al-Khodaim,Mohammed Al-Khodaim,association football player,Q878,Q878
+Q28731764,Q6581097,1988-09-24T00:00:00Z,6,Nasser Jumaa,Nasser Jumaa,association football player,Q878,Q878
+Q28731767,Q6581097,1992-12-09T00:00:00Z,6,Omar Al Khodaim,Omar Ahmed Rashed,association football player,Q878,Q878
+Q28777304,Q6581097,1998-02-01T00:00:00Z,6,Adel Sabeel,Adel Sebil,association football player,Q878,Q878
+Q28777329,Q6581097,1995-05-25T00:00:00Z,6,Bilal Yousif,Belal Yousef,Emirati association football player,Q878,Q878
+Q28777373,Q6581097,1995-07-15T00:00:00Z,6,Hamad Al-Balooshi,Hamad Al-Bloushi,association football player,Q878,Q878
+Q28777395,Q6581097,1996-05-13T00:00:00Z,6,Khalid Al-Zari,Khaled Al-Rezzi,association football player,Q878,Q878
+Q28777396,Q6581097,1997-01-17T00:00:00Z,11,Khaled Ibrahim,Khaled Ibrahim,association football player,Q878,Q878
+Q28777398,Q6581097,1992-07-15T00:00:00Z,6,"Khalil Khamis (footballer, born 1992)",Khalil Khamis,Emirati association football player,Q878,Q878
+Q28777406,Q6581097,1997-05-11T00:00:00Z,7,"Mohammed Al-Hammadi (footballer, born 1997)",Mohammed Al-Hammadi,association football player,Q878,Q878
+Q28777408,Q6581097,1997-08-05T00:00:00Z,12,Mohammed Al-Attas,Mohammed Al Attas,Emirati association football player,Q878,Q878
+Q28777409,Q6581097,1991-08-07T00:00:00Z,6,Mohammed Ibrahim Eid,Mohammed Ibrahim Eid,Emirati association football player,Q878,Q878
+Q28777447,Q6581097,1990-05-19T00:00:00Z,6,Tareq Al-Khodaim,Tareq Al-Khodaim,association football player,Q878,Q878
+Q28784460,Q6581097,1995-03-18T00:00:00Z,5,"Abdullah Al-Noubi (footballer, born 1995)",Abdullah Hassan Al-Noubi,association football player,Q878,Q878
+Q28784461,Q6581097,1992-09-22T00:00:00Z,6,"Abdullah Mohammed (footballer, born 1992)",Abdullah Mohammed,association football player,Q878,Q878
+Q28784469,Q6581097,1991-11-09T00:00:00Z,7,Ahmed Malallah,Ahmed Malallah,association football player,Q878,Q878
+Q28784569,Q6581097,1994-04-23T00:00:00Z,6,Khaled Amber,Khaled Amber,association football player,Q878,Q878
+Q28784640,Q6581097,1994-11-17T00:00:00Z,6,Sabeel Ghazi,Sebil Ghazi,association football player,Q878,Q878
+Q2878785,Q6581097,1984-01-07T00:00:00Z,5,Badr Mirza,Badr Mohamed Mirza Bani Hammad,Emirati bicycle racer,Q878,
+Q28793910,Q6581097,1990-05-08T00:00:00Z,6,Abdullah Morad,Abdullah Morad,association football player,Q878,Q878
+Q28793962,Q6581097,1994-10-10T00:00:00Z,7,Ibrahim Essa,Ibrahim Eisa,association football player,Q878,Q878
+Q28793962,Q6581097,1994-04-10T00:00:00Z,7,Ibrahim Essa,Ibrahim Eisa,association football player,Q878,Q878
+Q28793970,Q6581097,1982-03-04T00:00:00Z,5,Khamis Al-Ajmani,Khamis Al-Ajmani,association football player,Q878,Q878
+Q28793972,Q6581097,1990-04-15T00:00:00Z,6,Lahej Al-Nofali,Lahej Al-Nofali,Emirati association football player,Q878,Q878
+Q28793992,Q6581097,1988-08-14T00:00:00Z,6,Obaid Raihan,Obaid Raihan,association football player,Q878,Q878
+Q28805406,Q6581097,1987-01-15T00:00:00Z,6,Hamad Al-Hosani,Hamad Al-Hosani,association football player,Q878,Q878
+Q28805408,Q6581097,1997-04-24T00:00:00Z,5,Hamdan Nasser,Hamdan Nasser,association football player,Q878,Q878
+Q28805412,Q6581097,1988-12-19T00:00:00Z,5,Ibrahim Morad,Ibrahim Morad,association football player,Q878,Q878
+Q28805412,Q6581097,1988-12-09T00:00:00Z,5,Ibrahim Morad,Ibrahim Morad,association football player,Q878,Q878
+Q28805483,Q6581097,2000-05-16T00:00:00Z,10,Majid Rashid,Majed Rashed,Emirati association football player,Q878,Q878
+Q28805532,Q6581097,1987-06-07T00:00:00Z,7,Mohamed Baroot,Mohammed Barot,association football player,Q878,Q878
+Q28805546,Q6581097,1996-06-21T00:00:00Z,6,Shahin Suroor,Shahin Suroor,Emirati association football player,Q878,Q878
+Q28805555,Q6581097,1993-08-15T00:00:00Z,6,Waleed Jumaa,Waleed Jumaa,association football player,Q878,Q878
+Q28810366,Q6581097,1986-11-11T00:00:00Z,6,Ghanem Bashir,Ghanem Bashir,association football player,Q878,Q878
+Q28810366,Q6581097,1986-12-07T00:00:00Z,6,Ghanem Bashir,Ghanem Bashir,association football player,Q878,Q878
+Q28810425,Q6581097,1982-01-15T00:00:00Z,6,Sulaiman Al-Maghni,Sulaiman Al-Maghni,association football player,Q878,Q878
+Q28810434,Q6581097,1990-07-10T00:00:00Z,6,Yaqoub Al-Baloushi,Yaqoub Al-Bloushi,association football player,Q878,Q878
+Q28810435,Q6581097,1988-05-10T00:00:00Z,7,Yasser Abdullah,Yasser Abdullah,association football player,Q878,Q878
+Q28970152,Q6581097,1966-03-06T00:00:00Z,4,Ahmad Faraj,Ahmad Faraj,Emirati swimmer,Q878,
+Q28971218,Q6581097,1969-03-04T00:00:00Z,3,Mohamed Bin Abid,Mohamed Bin Abid,Emirati swimmer,Q878,
+Q28971410,Q6581072,1995-01-01T00:00:00Z,7,Elissa Freiha,Elissa Freiha,Entrepreneur,Q878,
+Q29018648,Q6581097,1972-05-15T00:00:00Z,2,Obaid Al-Rumaithi,Obaid Al-Rumaithi,Emirati swimmer,Q878,
+Q29054472,Q6581097,1993-01-01T00:00:00Z,3,Adel Gamal,Adel Saleh,association football Emarati player,Q878,
+Q29512697,Q6581097,1985-09-03T00:00:00Z,3,Mohamed Al Rowaihy,Mohammed Al-Rowaihi,association football player,Q878,Q878
+Q29512697,Q6581097,1985-09-30T00:00:00Z,3,Mohamed Al Rowaihy,Mohammed Al-Rowaihi,association football player,Q878,Q878
+Q29568552,Q6581097,1993-02-25T00:00:00Z,5,Salem Al-Azizi,Salem Jumaa,association football player,Q878,Q878
+Q29568554,Q6581097,1997-07-15T00:00:00Z,3,Ahmed Al-Akberi,Ahmed Al-Akbari,association football player,Q878,Q878
+Q29621524,Q6581097,1998-07-08T00:00:00Z,5,Saeed Juma,Saeed Juma,association football player,Q878,Q878
+Q29841577,Q6581097,1997-03-18T00:00:00Z,7,Khalid Al-Hashemi,Khalid Al-Hashemi,Emirati association football player,Q878,Q878
+Q2984620,Q6581097,1931-01-01T00:00:00Z,19,Humaid bin Rashid Al Nuaimi III,Humaid bin Rashid Al Nuaimi,Emir of Ajman,Q878,Q530171
+Q30241369,Q6581097,1981-08-28T00:00:00Z,3,"Ali Rabee (footballer, born 1981)",Ali Rabee,Emirati association football player (born 1981),Q878,Q878
+Q308526,Q6581097,1954-07-01T00:00:00Z,9,Abdul Aziz Al Ghurair,Abdul Aziz Al Ghurair,businessperson,Q878,Q878
+Q31076293,Q6581097,1993-11-26T00:00:00Z,6,Sultan Al-Sowaidi,Sultan Al-Sowaidi,Emirati association football player,Q878,Q878
+Q31076318,Q6581097,1982-07-15T00:00:00Z,2,Ali Al-Saadi,Ali Al-Saadi,association football player,Q878,Q878
+Q31076480,Q6581097,1996-01-07T00:00:00Z,3,Faisal Yousef,Faisel Yousef,association football player,Q878,Q878
+Q31076482,Q6581097,1995-05-01T00:00:00Z,3,Ali Moustafa,Ali Moustafa,association football player,Q878,Q878
+Q32948127,Q6581097,1980-12-04T00:00:00Z,5,Abdullah Hayayei,Abdullah Hayayei,Emirati throwing athlete,Q878,Q878
+Q33127180,Q6581097,1976-06-06T00:00:00Z,3,Mohamed Al-Aswad,Mohamed Al-Aswad,Emirati athlete,Q878,
+Q33131062,Q6581097,1977-11-12T00:00:00Z,1,Ali Khamis Rashid Al-Neyadi,Ali Khamis Rashid Al-Neyadi,Emirati sprinter,Q878,
+Q3318548,Q6581097,1990-02-22T00:00:00Z,15,Mohamed Fawzi (footballer),Mohamed Fawzi,Emirati footballer,Q878,Q878
+Q3318934,Q6581097,1989-07-22T00:00:00Z,7,"Mohammed Jamal (footballer, born 1989)",Mohammed Jamal,Emirati football player,Q878,Q613
+Q33710835,Q6581097,1967-04-23T00:00:00Z,3,Mohamed Al-Nahdi,Mohamed Al-Nahdi,Emirati middle-distance runner,Q878,Q878
+Q3379198,Q6581072,1980-03-05T00:00:00Z,10,Maitha bint Mohammed Al Maktoum,Maitha bint Mohammed bin Rashid Al Maktoum,karate and taekwondo practitioner,Q878,Q613
+Q340089,Q6581097,1900-01-01T00:00:00Z,7,Maktoum bin Hasher Al Maktoum,Maktoum bin Hushur,Emir of Dubai,Q878,
+Q3448622,Q6581097,1985-03-01T00:00:00Z,13,Mohanad Salem,Mohanad Salem,Emirati footballer,Q878,Q1519
+Q347571,Q6581097,1952-10-01T00:00:00Z,13,Saud bin Rashid Al Mualla,Saud bin Rashid Al Mu'alla,Emirati Sheikh,Q878,Q175021
+Q359766,Q6581097,1923-05-14T00:00:00Z,14,Adnan Pachachi,Adnan Pachachi,Iraqi politician and statesman (1923–2019),Q796,Q1530
+Q359766,Q6581097,1923-05-14T00:00:00Z,14,Adnan Pachachi,Adnan Pachachi,Iraqi politician and statesman (1923–2019),Q149805,Q1530
+Q359766,Q6581097,1923-05-14T00:00:00Z,14,Adnan Pachachi,Adnan Pachachi,Iraqi politician and statesman (1923–2019),Q3041595,Q1530
+Q359766,Q6581097,1923-05-14T00:00:00Z,14,Adnan Pachachi,Adnan Pachachi,Iraqi politician and statesman (1923–2019),Q878,Q1530
+Q359830,Q6581097,1964-10-30T00:00:00Z,25,Adnan Al Talyani,Adnan Al Talyani,Emirati association football player,Q878,Q289693
+Q3603348,Q6581097,1989-05-07T00:00:00Z,10,Abdelaziz Sanqour,Abdelaziz Sanqour,Emirati footballer,Q878,Q289693
+Q3603392,Q6581097,1990-09-10T00:00:00Z,15,Abdulaziz Haikal,Abdulaziz Haikal,Emirati footballer,Q878,Q1519
+Q3603398,Q6581097,1987-02-23T00:00:00Z,9,Abdullah Mousa,Abdullah Mousa,Emirati footballer,Q878,Q234600
+Q3603400,Q6581097,1965-12-12T00:00:00Z,14,Abdulaziz Mohamed,Abdulaziz Mohamed,Emirati footballer,Q878,Q878
+Q3603415,Q6581097,1963-10-01T00:00:00Z,14,Abdullah Ali Sultan,Abdullah Ali Sultan,Emirati footballer,Q878,Q878
+Q3603415,Q6581097,1964-10-01T00:00:00Z,14,Abdullah Ali Sultan,Abdullah Ali Sultan,Emirati footballer,Q878,Q878
+Q3603418,Q6581097,1966-11-10T00:00:00Z,15,Abdulrahman Al-Haddad,Abdulrahman Al-Haddad,Emirati footballer,Q878,Q878
+Q3603420,Q6581097,1962-04-15T00:00:00Z,14,Abdulqadir Hassan,Abdulqadir Hassan,Emirati footballer,Q878,Q878
+Q3605387,Q6581097,1985-12-06T00:00:00Z,7,Adnan Hussain (footballer),Adnan Hussain,United Arab Emirates footballer,Q878,Q613
+Q3606995,Q6581097,1970-11-15T00:00:00Z,9,Ahmed Ibrahim Ali,Ahmed Ibrahim Ali,UAE footballer,Q878,Q878
+Q3611602,Q6581097,1993-07-29T00:00:00Z,8,Ali Al-Ameri,Ali Al-Amri,Emirati footballer,Q878,Q878
+Q3611602,Q6581097,1989-01-07T00:00:00Z,8,Ali Al-Ameri,Ali Al-Amri,Emirati footballer,Q878,Q878
+Q3611619,Q6581097,1987-06-09T00:00:00Z,19,Ali Khasif,Ali Khasif,Emirati footballer,Q878,Q1519
+Q3611621,Q6581097,1981-09-10T00:00:00Z,7,Ali Msarri,Ali Msarri,Emirati footballer,Q878,Q234600
+Q3613973,Q6581097,1987-12-28T00:00:00Z,9,Amer Mubarak,Amer Mubarak,Emirati footballer,Q878,Q613
+Q3661847,Q6581097,1978-01-01T00:00:00Z,5,Sultan Sooud Al-Qassemi,Sultan Sooud Al-Qassemi,Emirati media commentator and businessperson (* 1978),Q878,
+Q3703799,Q6581097,1983-12-29T00:00:00Z,7,Dawood Ali,Dawood Ali,Emirati association football player,Q878,Q613
+Q3703799,Q6581097,1983-12-19T00:00:00Z,7,Dawood Ali,Dawood Ali,Emirati association football player,Q878,Q613
+Q3703800,Q6581097,1990-02-21T00:00:00Z,7,Dawoud Sulaiman,Dawoud Sulaiman,Emirati footballer,Q878,Q234600
+Q3703800,Q6581097,1990-03-21T00:00:00Z,7,Dawoud Sulaiman,Dawoud Sulaiman,Emirati footballer,Q878,Q234600
+Q3720770,Q6581097,1967-07-16T00:00:00Z,15,Eissa Meer,Eissa Meer,Emirati footballer,Q878,Q878
+Q3720770,Q6581097,1967-09-07T00:00:00Z,15,Eissa Meer,Eissa Meer,Emirati footballer,Q878,Q878
+Q3732755,Q6581097,1980-04-19T00:00:00Z,6,Essam Dhahi,Esam Dhahi,Emirati association football player,Q878,Q613
+Q3732755,Q6581097,1980-04-19T00:00:00Z,6,Essam Dhahi,Esam Dhahi,Emirati association football player,Q878,Q878
+Q3733259,Q6581097,1984-04-10T00:00:00Z,7,Essa Obaid (footballer),Essa Obaid,Emirati footballer,Q878,Q878
+Q3738369,Q6581097,1962-10-10T00:00:00Z,13,Fahad Abdulrahman,Fahad Abdulrahman,Emirati footballer,Q878,Q878
+Q3738369,Q6581097,1962-03-12T00:00:00Z,13,Fahad Abdulrahman,Fahad Abdulrahman,Emirati footballer,Q878,Q878
+Q3738477,Q6581097,1982-12-04T00:00:00Z,9,Faisal Khalil,Faisal Khalil,Emirati footballer,Q878,Q289693
+Q3739627,Q6581097,1988-12-30T00:00:00Z,14,Fares Jumaa,Fares Juma Al Saadi,Emirati footballer,Q878,Q234600
+Q3740512,Q6581097,1987-07-14T00:00:00Z,7,Fawzi Fayez,Fawzi Fayez,Emirati footballer,Q878,Q1519
+Q37433806,Q6581097,1957-07-10T00:00:00Z,4,Nabil Abdul Tahlak,Nabil Abdul Tahlak,Emirati sports shooter,Q878,
+Q37471598,Q6581097,1973-01-01T00:00:00Z,4,Mohamed Abdullah (swimmer),Mohamed Abdullah,Emirati swimmer,Q878,
+Q3782331,Q6581097,1990-11-11T00:00:00Z,14,Habib Al Fardan,Habib Fardan,Emirati footballers,Q878,Q613
+Q3782850,Q6581097,1988-10-02T00:00:00Z,7,Hamdan Qassem,Qassem Hamdan,Emirati association football player,Q878,Q613
+Q3783606,Q6581097,1981-12-16T00:00:00Z,6,"Hassan Ali (footballer, born 1981)",Hasan Ali,UAE football player,Q878,Q613
+Q3783611,Q6581097,1990-10-19T00:00:00Z,8,Hassan Ibrahim Saqer,Hassan Ibrahim,footballer,Q878,Q878
+Q3783615,Q6581097,1962-08-23T00:00:00Z,14,Hassan Mohamed (footballer),Hassan Mohamed,Emirati footballer,Q878,Q878
+Q3785599,Q6581097,1982-03-24T00:00:00Z,6,Hilal Saeed,Hilal Saeed,Emirati footballer,Q878,Q878
+Q3791593,Q6581097,1967-07-16T00:00:00Z,14,Ibrahim Meer,Ibrahim Meer,Emirati footballer,Q878,Q878
+Q3791593,Q6581097,1967-06-12T00:00:00Z,14,Ibrahim Meer,Ibrahim Meer,Emirati footballer,Q878,Q878
+Q3802594,Q6581097,1983-01-11T00:00:00Z,8,Ismail Rabee,Ismail Rabee,Emirati footballer,Q878,Q613
+Q3802595,Q6581097,1972-10-27T00:00:00Z,11,Ismail Rashid Ismail,Ismail Rashid Ismail,Emirati footballer,Q878,Q878
+Q3811214,Q6581097,1972-12-12T00:00:00Z,11,Juma Rashed,Juma Al-Holi,Emirati footballer,Q878,Q878
+Q3811214,Q6581097,1974-09-02T00:00:00Z,11,Juma Rashed,Juma Al-Holi,Emirati footballer,Q878,Q878
+Q3814909,Q6581097,1988-09-10T00:00:00Z,8,Khaled Abdulrahman,Khaled Abdulrahman,UAE footballer,Q878,Q234600
+Q3814923,Q6581097,1979-10-17T00:00:00Z,7,Khalid Darwish,Khalid Darwish,Emirati footballer,Q878,Q613
+Q3814925,Q6581097,1989-09-15T00:00:00Z,25,Khalid Eisa,Khalid Eisa,Emirati footballer,Q878,Q613
+Q3814925,Q6581097,1989-09-15T00:00:00Z,25,Khalid Eisa,Khalid Eisa,Emirati footballer,Q30,Q613
+Q3814927,Q6581097,1987-06-22T00:00:00Z,10,Khalid Sebil,Khalid Sebil Lashkari,Emirati footballer,Q878,Q1519
+Q3814928,Q6581097,1965-07-07T00:00:00Z,16,Khalid Ismail,Khalid Ismaïl,Emirati footballer,Q878,Q878
+Q3814945,Q6581097,1989-08-16T00:00:00Z,15,Khamis Esmaeel,Khamis Esmaeel,Emirati footballer,Q878,Q613
+Q3837992,Q6581072,1962-02-04T00:00:00Z,19,Lubna Khalid Al Qasimi,Lubna Khalid Al Qasimi,United Arab Emirates politician,Q878,Q612
+Q3843431,Q6581097,1965-04-20T00:00:00Z,12,Mahdi Ali,Mahdi Ali,Emirati soccer player and coach,Q878,Q612
+Q3843441,Q6581097,1987-09-08T00:00:00Z,7,Mahmoud Qassem,Mahmoud Qassim,Emirati association football player,Q878,Q613
+Q3843589,Q6581097,1984-04-01T00:00:00Z,12,Majed Naser,Majed Nasser,footballer,Q878,Q613
+Q3860090,Q6581097,1988-03-28T00:00:00Z,10,Mohamed Al-Shehhi,Mohamed Al-Shehhi,Emirati footballer,Q878,Q613
+Q3860092,Q6581097,1989-04-16T00:00:00Z,18,Mohamed Ahmed (Emirati footballer),Mohamed Ahmed,Emirati footballer,Q878,Q612
+Q3860112,Q6581097,1968-01-13T00:00:00Z,14,Mohamed Salim,Mohamed Salim,Emirati footballer,Q878,Q878
+Q3860112,Q6581097,1963-01-13T00:00:00Z,14,Mohamed Salim,Mohamed Salim,Emirati footballer,Q878,Q878
+Q3860127,Q6581097,1989-02-04T00:00:00Z,16,"Mohammed Abdulrahman (footballer, born February 1989)",Mohamed Abdulrahman,Emirati footballer (born 1989),Q878,Q3692
+Q3860136,Q6581097,1984-04-01T00:00:00Z,8,Mohamed Malallah,Mohamed Malallah,Emirati footballer,Q878,Q764279
+Q3860137,Q6581097,1989-01-23T00:00:00Z,6,Mohammed Marzooq,Mohammed Marzooq,Emirati association football player,Q878,Q234600
+Q3860138,Q6581097,1988-03-18T00:00:00Z,6,"Mohammed Nasser (footballer, born 1988)",Mohammed Nasser,footballer,Q878,Q613
+Q3860139,Q6581097,1973-11-11T00:00:00Z,5,"Mohammad Omar (footballer, born 1976)",Mohammad Omar,Emirati association footballer,Q878,Q613
+Q3860139,Q6581097,1976-11-11T00:00:00Z,5,"Mohammad Omar (footballer, born 1976)",Mohammad Omar,Emirati association footballer,Q878,Q613
+Q3860140,Q6581097,1981-11-09T00:00:00Z,8,Mohammed Qassim,Mohammed Qassim,Software Developer,Q878,Q1519
+Q3860141,Q6581097,1976-11-22T00:00:00Z,14,Mohammed Salem Al-Enazi,Mohammed Salem Al-Enazi,Qatari footballer,Q846,Q3861
+Q3860141,Q6581097,1976-11-22T00:00:00Z,14,Mohammed Salem Al-Enazi,Mohammed Salem Al-Enazi,Qatari footballer,Q878,Q3861
+Q386555,Q6581097,1989-07-03T00:00:00Z,20,Amer Abdulrahman,Amer Abdulrahman,Emirati footballer,Q878,Q1519
+Q3867230,Q6581097,1975-01-12T00:00:00Z,8,Munther Ali Abdullah,Munther Abdulla,UAE footballer,Q878,Q878
+Q3870496,Q6581097,1986-03-06T00:00:00Z,6,Nasser Masoud,Naser Masoud,Emirati association football player,Q878,Q613
+Q3870515,Q6581097,1987-12-20T00:00:00Z,5,Nasser Khamis,Nasser Khamis,Emirati footballer,Q878,Q878
+Q3880440,Q6581097,1979-08-27T00:00:00Z,8,Obaid Al-Taweela,Obaid Mohamed,football player,Q878,Q613
+Q3880440,Q6581097,1979-08-26T00:00:00Z,8,Obaid Al-Taweela,Obaid Mohamed,football player,Q878,Q613
+Q3880440,Q6581097,1976-08-26T00:00:00Z,8,Obaid Al-Taweela,Obaid Mohamed,football player,Q878,Q613
+Q3880440,Q6581097,1979-01-01T00:00:00Z,8,Obaid Al-Taweela,Obaid Mohamed,football player,Q878,Q613
+Q3929875,Q6581097,1981-06-11T00:00:00Z,7,Rami Yaslam,Rami Yaslam,United Arab Emirati footballer,Q878,Q613
+Q3930389,Q6581097,1975-10-20T00:00:00Z,9,Rashid Abdulrahman,Rashid Abdulrahman,association football player,Q878,Q289693
+Q3944162,Q6581097,1970-10-15T00:00:00Z,10,Bakheet Saad Mubarak,Saad Bakhit Mubarak,Emirati footballer,Q878,Q878
+Q3944166,Q6581097,1990-07-19T00:00:00Z,10,Saad Surour,Saad Surour,Emirati footballer,Q878,Q2204078
+Q3944744,Q6581097,1988-03-28T00:00:00Z,12,Saeed Al-Kathiri,Saeed Al-Kathiri,Emirati footballer,Q878,Q1519
+Q3945413,Q6581097,1986-07-05T00:00:00Z,7,"Salem Abdullah (footballer, born 1986)",Salem Abdullah,Emirati footballer,Q878,Q878
+Q3945417,Q6581097,1980-09-19T00:00:00Z,8,Salem Khamis,Salem Khamis,Emirati footballer,Q878,Q613
+Q3945518,Q6581097,1984-01-18T00:00:00Z,5,"Salem Abdullah (footballer, born 1984)",Salim Abdulla,Emirati association football player,Q878,Q613
+Q3978166,Q6581097,1982-08-14T00:00:00Z,4,Suroor Salim,Suroor Salim,Emirati association football player,Q878,Q878
+Q3981139,Q6581097,1983-03-18T00:00:00Z,6,Tariq Hassan,Tariq Hassan,Emirati footballer,Q878,Q613
+Q401135,Q6581097,1963-12-31T00:00:00Z,21,Ahmad bin Mohammad Al Maktoum,Ahmad Mohammad Hasher Al Maktoum,Sport shooter and Emirati Royal,Q878,Q612
+Q401634,Q6581097,1956-07-12T00:00:00Z,3,Ahmed bin Rashid Al Maktoum,Prince Ahmed bin Rashid of Dubai,Dubaian Royal and Deputy Chairperson of Dubai Police & Public Security,Q878,Q140673
+Q4017775,Q6581097,1980-10-28T00:00:00Z,9,Waleed Salem Sulaiman,Waleed Salem Al Jaberi,football player,Q878,Q234600
+Q4022574,Q6581097,1977-12-05T00:00:00Z,9,Yaser Salem Ali,Yaser Salem Ali,Emirati footballer,Q878,Q878
+Q4023070,Q6581097,1982-07-23T00:00:00Z,3,Younis Khamis,Younis Khamis,Emirati basketball player (born 1982),Q878,Q613
+Q403437,Q6581097,1983-04-07T00:00:00Z,20,Ismail Matar,Ismail Matar,Emirati footballer,Q878,Q1519
+Q40380496,Q6581097,1991-11-12T00:00:00Z,3,Mohammed Ismael,Mohammed Ismael,association football player,Q878,Q878
+Q41079167,Q6581097,1998-03-09T00:00:00Z,3,"Ahmed Al-Naqbi (footballer, born 1998)",Ahmed Al Naqbi,Emirati association football player,Q878,Q878
+Q4115537,Q6581097,1975-10-16T00:00:00Z,18,Ahmed Bukhatir,Ahmed Bukhatir,"Ahmed Bukhatir is an Islamic singer from Sharjah, United Arab Emirates.",Q878,Q289693
+Q4118852,Q6581097,2000-01-01T00:00:00Z,3,Issa bin Zayed Al Nahyan,Issa bin Zayed Al Nhayan,Qatari businessman,Q878,Q878
+Q4120127,Q6581072,1943-01-01T00:00:00Z,6,Fatima bint Mubarak Al Ketbi,Fatima bint Mubarak Al Ketbi,Emirati activist,Q878,Q234600
+Q4120392,Q6581097,1956-11-08T00:00:00Z,9,Mohamed Alabbar,Mohamed Atiya,businessman in the real estate and property development industry of the United Arab Emirates,Q878,Q613
+Q41733897,Q6581097,1975-01-02T00:00:00Z,2,Abdullah Sabt Ghulam,Abdullah Sabt Ghulam,Emirati athlete,Q878,
+Q42302836,Q6581097,1969-10-06T00:00:00Z,2,Mohamed Salem Al-Tunaiji,Mohamed Salem Al-Tunaiji,Emirati middle-distance runner,Q878,
+Q42307846,Q6581097,1987-08-04T00:00:00Z,2,Ali Mohamed Al-Balooshi,Ali Mohamed Al-Balooshi,Emirati middle-distance runner,Q878,
+Q42331279,Q6581072,1948-10-10T00:00:00Z,5,Aysha Al Sayyar,Aisha Al-Sayyar,Emirian researcher,Q878,Q289693
+Q4252123,Q6581097,1982-07-01T00:00:00Z,7,Tawfeeq Abdul Razzaq,Tawfeeq Abdul Razzaq,Emirati footballer,Q878,Q878
+Q42895902,Q6581072,1950-01-01T00:00:00Z,6,Najla Mohammad Al Awar,Najla Mohammad Al Awar,politician,Q878,
+Q4296935,Q6581097,1976-09-01T00:00:00Z,7,Omran Jesmi,Omran Jesmi,Emirati footballer,Q878,Q878
+Q4297045,Q6581097,1981-08-13T00:00:00Z,8,Nawaf Mubarak,Nawaf Mubarak,Emirati footballer,Q878,Q289693
+Q4297045,Q6581097,1981-08-31T00:00:00Z,8,Nawaf Mubarak,Nawaf Mubarak,Emirati footballer,Q878,Q289693
+Q4297136,Q6581097,1984-03-29T00:00:00Z,7,Shehab Ahmed,Shehab Ahmed,Emirati footballer,Q878,Q878
+Q4297145,Q6581097,1978-11-03T00:00:00Z,7,Humaid Fakher,Humaid Fakher,Emirati footballer,Q878,Q878
+Q4405780,Q6581097,1993-01-04T00:00:00Z,13,Salem Saleh (chess player),Salem Saleh,Emirati chess player,Q878,Q289693
+Q442803,Q6581097,1921-01-01T00:00:00Z,10,Mohammad Mokri,Mohammad Mokri,Iranian scholar and writer (1921-2007),Q878,Q15761039
+Q44410118,Q6581097,1991-10-31T00:00:00Z,2,Qais Al-Shabebi,Qais Alshabebi,Emirati basketball player (born 1991),Q878,Q612
+Q446757,Q6581097,1965-09-27T00:00:00Z,6,Farhat Bengdara,Farhat Bengdara,Libyan Banker,Q1016,Q40816
+Q446757,Q6581097,1965-09-27T00:00:00Z,6,Farhat Bengdara,Farhat Bengdara,Libyan Banker,Q878,Q40816
+Q45321853,Q6581072,1961-01-01T00:00:00Z,6,Asmaa al-Zarouni,Asmaa al-Zarouni,"Librarian of Amani, Emirati librarian",Q878,Q289693
+Q4537603,Q6581097,1977-05-23T00:00:00Z,10,Abdulsalam Jumaa,Abdulsalam Jumaa Al Junaibi,United Arab Emirati footballer,Q878,Q1519
+Q459319,Q6581097,1951-10-01T00:00:00Z,8,Dhahi Khalfan Tamim,Dhahi Khalfan Tamim,Emirati police officer,Q878,Q612
+Q4665268,Q6581097,1977-09-16T00:00:00Z,5,Abdulaziz Al Anbari,Abdul Azeez Mohamed,Emirati footballer,Q878,Q289693
+Q4665691,Q6581097,1987-01-02T00:00:00Z,3,Abdul Rehman (Emirati cricketer),Abdul Rehman,United Arab Emirates cricketer,Q878,Q530171
+Q4665801,Q6581097,1990-06-17T00:00:00Z,5,Abdulaziz Fayez Al Alawi,Abdulaziz Fayez Al Alawi,Emirati footballer,Q878,Q234600
+Q4665895,Q6581097,1986-01-01T00:00:00Z,6,Abdullah Sultan (footballer),Abdulla Sultan Al Nasseri,footballer,Q878,Q878
+Q4665895,Q6581097,1986-04-09T00:00:00Z,6,Abdullah Sultan (footballer),Abdulla Sultan Al Nasseri,footballer,Q878,Q878
+Q4666026,Q6581097,1983-07-05T00:00:00Z,6,Abdullah Malallah,Abdullah Malallah,Emirati footballer,Q878,Q878
+Q4666068,Q6581097,1979-01-22T00:00:00Z,3,Abdullah Suhail,Abdullah Suhail,Emirati footballer,Q878,
+Q4666187,Q6581097,1974-11-09T00:00:00Z,6,Abdulrahman Ibrahim,Abdulrahman Ibrahim,Emirati footballer,Q878,Q878
+Q4681538,Q6581097,1980-06-19T00:00:00Z,7,Adel Abdulaziz,Adel Abdulaziz,association football player,Q878,Q289693
+Q4695256,Q6581097,1962-01-01T00:00:00Z,5,Ahmed Ali Al Sayegh,Ahmad Ali Al Sayegh,Minister of State in the United Arab Emirates,Q878,Q1519
+Q4695288,Q6581097,1962-07-01T00:00:00Z,4,Ahmad Bin Byat,Ahmad Bin Byat,businessperson,Q878,Q613
+Q4695515,Q6581097,1911-01-01T00:00:00Z,7,Ahmad bin Rashid Al Mualla,Ahmad bin Rashid Al Mu'alla,Sheikh of Umm al-Quwain,Q878,Q175021
+Q4695703,Q6581097,1977-01-01T00:00:00Z,2,Ahmed Abdul Khaleq,Ahmed Abdul Khaleq,Bedoun activist,Q878,Q612
+Q4695705,Q6581097,1988-03-01T00:00:00Z,6,Ahmed Abdulla Al Shamisi,Ahmed Abdulla Al Shamisi,Emirati footballer,Q878,Q878
+Q4695705,Q6581097,1988-03-03T00:00:00Z,6,Ahmed Abdulla Al Shamisi,Ahmed Abdulla Al Shamisi,Emirati footballer,Q878,Q878
+Q4695748,Q6581097,1980-12-13T00:00:00Z,5,Ahmed Moadhed,Ahmed Ali Moadhed,footballer,Q878,Q878
+Q4695885,Q6581097,1985-11-16T00:00:00Z,8,Ahmed Khamis,Ahmed Khamis,Emirati footballer,Q878,Q878
+Q4696097,Q6581097,1963-11-07T00:00:00Z,2,Ahmed bin Saif Al Nahyan,Ahmed bin Saif Al Nahyan,Abu Dhabi royal family member,Q878,Q234600
+Q469901,Q6581072,1976-10-01T00:00:00Z,20,Diana Haddad,Diana Haddad,Lebanese and Emirati singer,Q822,Q2927354
+Q469901,Q6581072,1976-10-01T00:00:00Z,20,Diana Haddad,Diana Haddad,Lebanese and Emirati singer,Q878,Q2927354
+Q4724614,Q6581097,1979-12-12T00:00:00Z,6,Ali Al-Hawasin,Ali Al-Hawasin,association football player,Q878,Q878
+Q482836,Q6581097,1953-01-29T00:00:00Z,15,Hwang Woo-suk,Hwang Woo-suk,South Korean scientist,Q878,Q50247
+Q482836,Q6581097,1953-01-29T00:00:00Z,15,Hwang Woo-suk,Hwang Woo-suk,South Korean scientist,Q884,Q50247
+Q4840796,Q6581097,1985-12-13T00:00:00Z,5,Bader Yaqoot,Bader Yaqoot,United Arab Emirati footballer,Q878,Q878
+Q4841096,Q6581097,1979-08-09T00:00:00Z,4,Badr Jafar,Badr Jafar,Emirati businessman,Q878,Q188810
+Q4898148,Q6581072,1991-11-13T00:00:00Z,11,Betlhem Desalegn,Betlhem Desalegn,Emirati athlete,Q878,Q3624
+Q4976745,Q6581097,1993-07-07T00:00:00Z,6,Fahad Hadeed,Fahad Hadeed,footballer,Q878,Q188810
+Q50186948,Q6581097,1991-10-10T00:00:00Z,3,Ibraheem Al-Alawi,Ibraheem Al-Alawi,association football player,Q878,Q878
+Q502071,Q6581097,1972-03-08T00:00:00Z,23,Andrey Melnichenko (industrialist),Andrey Melnichenko,Russian businessman and billionaire,Q878,Q2678
+Q502071,Q6581097,1972-03-08T00:00:00Z,23,Andrey Melnichenko (industrialist),Andrey Melnichenko,Russian businessman and billionaire,Q159,Q2678
+Q50345136,Q6581072,2000-03-28T00:00:00Z,12,Amna Al Qubaisi,Amna Al Qubaisi,Emirati racing driver,Q878,Q1373453
+Q50345136,Q6581072,2000-03-28T00:00:00Z,12,Amna Al Qubaisi,Amna Al Qubaisi,Emirati racing driver,Q30,Q1373453
+Q50413553,Q6581072,1973-01-01T00:00:00Z,3,Azza bint Sultan Al-Qasimi,Azza Sultan Al-Qasimi,Emirati artist and businesswoman (born 1973),Q878,
+Q50662125,Q6581072,2002-07-23T00:00:00Z,6,Alia Al Mansoori,Alia Al Mansoori,Emirati scientist,Q878,
+Q50676709,Q6581097,1988-12-01T00:00:00Z,7,Adnan Khan,Adnan Khan,Indian actor,Q878,Q843
+Q50867320,Q6581097,1991-06-26T00:00:00Z,4,Younes Ahmad,Younes Ahmad,association football player,Q878,Q878
+Q51001860,Q6581072,1984-01-24T00:00:00Z,5,Hend bint Faisal Al-Qasimi,Hend Faisal Al Qassemi,Businesswoman,Q878,Q612
+Q51316180,Q6581097,1979-12-07T00:00:00Z,3,Jaber Jasim,Jaber Jassem,association football player,Q878,Q878
+Q51316254,Q6581097,1986-05-02T00:00:00Z,3,Jasem Ali,Jassem Ali,association football player,Q878,Q878
+Q51316676,Q6581097,1996-12-18T00:00:00Z,3,Hamad Al-Marzouqi,Hamad Al-Marzouqi,association football player,Q878,Q878
+Q51316833,Q6581097,1994-10-31T00:00:00Z,4,Hussain Abdulrahman,Hussain Abdurahman,association football player,Q878,Q878
+Q51316855,Q6581097,1989-11-24T00:00:00Z,3,Hassan Al Hammadi,Hassan Al-Hammadi,association football player,Q878,Q878
+Q51316927,Q6581097,1989-07-26T00:00:00Z,3,Khalid Ali Matar,Khaled Ali Matar,association football player,Q878,Q878
+Q51316971,Q6581097,1989-12-29T00:00:00Z,3,Khalifa Al-Shahyary,Khalifah Al-Shahyari,association football player,Q878,Q878
+Q51317408,Q6581097,1987-12-09T00:00:00Z,3,Rashid Malallah,Rashed Malallah,association football player,Q878,Q878
+Q51317500,Q6581097,1996-02-23T00:00:00Z,3,Zayed Al-Hammadi,Zaid Al-Hammadi,association football player,Q878,Q878
+Q51317823,Q6581097,1994-06-24T00:00:00Z,3,Salem Al-Eedi,Salem Al-Eidi,association football player,Q878,Q878
+Q51317967,Q6581097,1983-03-11T00:00:00Z,3,Salem Obaid,Salem Obaid,association football player,Q878,Q878
+Q51318070,Q6581097,1991-04-06T00:00:00Z,3,Saoud Faraj,Saoud Faraj,association football player,Q878,Q878
+Q51318142,Q6581097,1980-08-14T00:00:00Z,3,Saeed Al-Naqbi,Saeed Al-Nuqbi,association football player,Q878,Q878
+Q51318402,Q6581097,1995-01-05T00:00:00Z,5,Sultan Al-Mantheri,Sultan Al-Mantheri,association football player,Q878,Q878
+Q51318505,Q6581097,1995-09-17T00:00:00Z,3,Sultan Husain,Sultan Hussain,association football player,Q878,Q878
+Q51318789,Q6581097,1995-02-03T00:00:00Z,3,"Abdullah Mohammed (footballer, born 1995)",Abdullah Mohammed Hassan,association football player,Q878,Q878
+Q515133,Q6581097,1976-01-01T00:00:00Z,23,Khaldoon Al Mubarak,Khaldoon Al Mubarak,Emirati politician and businessman,Q878,Q1519
+Q51840013,Q6581072,1985-12-05T00:00:00Z,25,Latifa bint Mohammed Al Maktoum (born 1985),Latifa bint Mohammed Al Maktoum,sheikha of Dubai,Q878,Q613
+Q5205255,Q6581097,1981-06-06T00:00:00Z,2,DJ Bliss,DJ Bliss,DJ/MC/Radio/TV Personality,Q878,Q612
+Q52106749,Q6581072,1985-09-21T00:00:00Z,9,Alex Hirschi,Alexandra Mary Hirschi,Australian automotive vlogger,Q408,Q34932
+Q52106749,Q6581072,1985-09-21T00:00:00Z,9,Alex Hirschi,Alexandra Mary Hirschi,Australian automotive vlogger,Q878,Q34932
+Q52488068,Q6581072,1983-01-01T00:00:00Z,6,Monira Al Qadiri,Monira Al Qadiri,Senegalese-born artist (born 1983),Q817,Q3718
+Q52488068,Q6581072,1983-01-01T00:00:00Z,6,Monira Al Qadiri,Monira Al Qadiri,Senegalese-born artist (born 1983),Q878,Q3718
+Q5268691,Q6581097,1972-12-11T00:00:00Z,4,Dhaher Al-Aryani,Dhaher Al-Aryani,Olympic sport shooter,Q878,
+Q53436692,Q6581097,1998-11-07T00:00:00Z,15,Khalifa Al Hammadi,Khalifa Al-Hammadi,Emirati association football player,Q878,Q1519
+Q53437227,Q6581097,1999-08-16T00:00:00Z,9,Abdulla Idrees,Abdullah Idriss,Emirati association football player,Q878,Q878
+Q53437839,Q6581097,2001-11-26T00:00:00Z,2,Ahmed Fawzi,Ahmed Fawzi,association football player,Q878,Q4091
+Q53444411,Q6581097,1997-05-19T00:00:00Z,3,Saeed Suwaidan,Saeed Sowaidan,association football player,Q878,Q878
+Q53446508,Q6581097,1996-04-07T00:00:00Z,3,Humaid Saleh,Humaid Abdullah,Emirati association football player,Q878,Q878
+Q53448926,Q6581097,1996-07-07T00:00:00Z,3,Saeed Al Ghafri,Saeed Al-Ghafri,Emirati association football player,Q878,Q878
+Q53533313,Q6581097,1998-01-23T00:00:00Z,3,Saoud Abdulrazaq,Saoud Abdulrazaq,association football player,Q878,Q878
+Q53533596,Q6581097,1998-08-12T00:00:00Z,3,Abdulaziz Al-Kaabi,Abdulaziz Al-Kaebi,Emirati association football player,Q878,Q878
+Q53534444,Q6581097,1997-02-22T00:00:00Z,3,Abdullah Jassim,Abdullah Jassem,association football player,Q878,Q878
+Q53534984,Q6581097,2000-01-22T00:00:00Z,12,Ali Saleh (footballer),Ali Saleh Amro,association football player,Q878,Q878
+Q536478,Q6581097,1955-01-01T00:00:00Z,6,Mohammad Al Murr,Mohammad Al Murr,writer,Q878,Q612
+Q53849536,Q6581097,1989-03-02T00:00:00Z,3,Yousuf Khalfan,Yousef Khalvan,Emirati association football player,Q878,Q878
+Q5392747,Q6581097,1970-07-01T00:00:00Z,4,Ibrahim Al-Matrooshi,Ibrahim Nasser Al-Matrooshi,Emirati athletics competitor,Q878,
+Q5399327,Q6581097,1956-01-01T00:00:00Z,2,Essa Abdulla Al Basha Al Noaimi,Essa Abdulla Al Basha Al Noaimi,Emirati diplomat,Q878,
+Q5429197,Q6581097,1985-01-03T00:00:00Z,5,Fadel Ahmad,Fadel Ahmad,Emirati footballer,Q878,Q878
+Q5431045,Q6581097,1981-12-28T00:00:00Z,6,Faisal Ali Hassan,Faisal Ali Hassan,Emirati footballer,Q878,Q878
+Q5438709,Q6581097,1988-11-25T00:00:00Z,7,Fawaz Awana,Fawaz Awana,footballer,Q878,Q1519
+Q54861510,Q6581097,1901-01-01T00:00:00Z,5,S. A. Zaidi,S. A. Zaidi,Emirati film director,Q878,Q878
+Q54861675,Q6581097,1996-09-29T00:00:00Z,3,Eisa Ali Abbas,Eisa Ali Abbas,association football player,Q878,Q878
+Q54861726,Q6581097,1992-08-02T00:00:00Z,3,Waleed Khalid,Waleed Khalid,association football player,Q878,Q878
+Q54861736,Q6581097,1991-09-08T00:00:00Z,3,"Mohammed Sabeel (footballer, born 1991)",Mohammed Sabeel,association football player,Q878,Q878
+Q54861737,Q6581097,1989-06-08T00:00:00Z,4,Mohammed Yaqoub (footballer),Mohammed Yaqoub,Emirati association football player,Q878,Q878
+Q54861740,Q6581097,1992-09-12T00:00:00Z,3,Nader Ragab,Nader Ragab,association football player,Q878,Q878
+Q54861757,Q6581097,1988-10-28T00:00:00Z,3,Saeed Rashed,Saeed Rashed,association football player,Q878,Q878
+Q54861782,Q6581097,1991-04-25T00:00:00Z,3,Zayed Salem Saleh,Zayed Al-Kathiri,association football player,Q878,Q878
+Q54861801,Q6581097,1995-03-25T00:00:00Z,3,Abdullah Al Mulla,Abdullah Al Mulla,Emirati association football player,Q878,Q878
+Q54862258,Q6581097,2000-10-08T00:00:00Z,4,Faris Khalil,Fares Khalil,association football player,Q878,Q878
+Q54862580,Q6581097,1998-03-01T00:00:00Z,3,"Ali Eid (footballer, born 1998)",Ali Eid,"Emirati association football player, born 1998",Q878,Q878
+Q54862584,Q6581097,1997-04-27T00:00:00Z,6,Mohammed Ali Shaker,Mohammed Ali Shaker,Emirati association football player,Q878,Q878
+Q54862586,Q6581097,1995-08-10T00:00:00Z,3,Mohammed Helal (footballer),Mohammed Hilal,association football player,Q878,Q878
+Q54869330,Q6581097,1997-07-31T00:00:00Z,3,Khalid Al-Shaibani,Khalid Al-Shaibani,Emirati association football player,Q878,Q878
+Q54869331,Q6581097,1998-09-04T00:00:00Z,3,Ali Abdulla Ali,Ali Al-Ansari,association football player,Q878,Q878
+Q54869348,Q6581097,1992-01-29T00:00:00Z,3,Hassan Yousuf,Hassan Yousuf,Emirati association football player,Q878,Q878
+Q54875154,Q6581097,1978-10-14T00:00:00Z,3,Abdel Moneim Al Ameri,Abdul menaem al ameri,Emirati singer,Q878,
+Q55433039,Q6581097,1977-01-01T00:00:00Z,4,Eida Al Menhali,Eida Al Menhali,Emirati singer,Q878,Q878
+Q55433162,Q6581097,1990-02-16T00:00:00Z,7,Omar Al Olama,Omar Al Olama,politician of the United Arab Emirates,Q878,Q612
+Q55612531,Q6581097,1959-05-15T00:00:00Z,4,George Nader (businessman),George Nader,Lebanese-American businessman and convicted sex offender,Q30,Q822
+Q55612531,Q6581097,1959-05-15T00:00:00Z,4,George Nader (businessman),George Nader,Lebanese-American businessman and convicted sex offender,Q878,Q822
+Q55612531,Q6581097,1959-05-15T00:00:00Z,4,George Nader (businessman),George Nader,Lebanese-American businessman and convicted sex offender,Q822,Q822
+Q556586,Q6581097,1982-11-14T00:00:00Z,32,Hamdan bin Mohammed Al Maktoum,Hamdan bin Mohammed Al Maktoum,Crown Prince of Dubai,Q878,Q612
+Q556607,Q6581097,1970-11-20T00:00:00Z,31,Mansour bin Zayed Al Nahyan,Mansour bin Zayed Al Nahyan,Emirati royal and politician,Q878,Q1519
+Q557249,Q6581097,1990-07-06T00:00:00Z,21,Theyab Awana,Theyab Awana,Emirati footballer (1990–2011),Q878,Q1519
+Q5639016,Q6581097,1979-12-25T00:00:00Z,4,Haider Alo Ali,Haider Alo Ali,footballer,Q878,
+Q5644367,Q6581097,1981-04-18T00:00:00Z,4,Hamdan Al Abri,Hamdan Al Abri,"singer, Songwriter",Q878,Q613
+Q56486505,Q6581097,1981-05-23T00:00:00Z,18,Sultan Al Neyadi,Sultan Al Niadi,Emirati astronaut,Q878,Q1519
+Q56725368,Q6581097,1983-12-13T00:00:00Z,25,Hazza Al Mansouri,Hazza Al Mansouri,Emirati astronaut,Q878,Q65072394
+Q5679840,Q6581097,1951-01-01T00:00:00Z,4,Hassan Sharif,Hassan Sharif,Hasan Sharif (1951–2016),Q878,Q388620
+Q5688471,Q6581097,1965-06-02T00:00:00Z,3,Hazza bin Zayed Al Nahyan,Hazza bin Zayed bin Sultan Al Nahyan,Emirati banker,Q878,Q234600
+Q5688474,Q6581097,1989-12-19T00:00:00Z,6,Hazza Salem,Hazza Salem Al Faresi,footballer,Q878,Q612
+Q5688474,Q6581097,1989-01-01T00:00:00Z,6,Hazza Salem,Hazza Salem Al Faresi,footballer,Q878,Q612
+Q569049,Q6581072,1968-02-13T00:00:00Z,25,Ahlam (singer),Ahlam,Emirati actress and singer,Q878,Q1519
+Q57655,Q6581097,1949-07-15T00:00:00Z,72,Mohammed bin Rashid Al Maktoum,Mohammed bin Rashid Al Maktoum,Monarch of Dubai and politician (born 1949),Q1852345,Q612
+Q57655,Q6581097,1949-07-15T00:00:00Z,72,Mohammed bin Rashid Al Maktoum,Mohammed bin Rashid Al Maktoum,Monarch of Dubai and politician (born 1949),Q1852345,Q746705
+Q57655,Q6581097,1949-07-15T00:00:00Z,72,Mohammed bin Rashid Al Maktoum,Mohammed bin Rashid Al Maktoum,ruler of Dubai (born 1949),Q1852345,Q612
+Q57655,Q6581097,1949-07-15T00:00:00Z,72,Mohammed bin Rashid Al Maktoum,Mohammed bin Rashid Al Maktoum,ruler of Dubai (born 1949),Q1852345,Q746705
+Q57655,Q6581097,1949-07-15T00:00:00Z,72,Mohammed bin Rashid Al Maktoum,Mohammed bin Rashid Al Maktoum,Monarch of Dubai and politician (born 1949),Q878,Q612
+Q57655,Q6581097,1949-07-15T00:00:00Z,72,Mohammed bin Rashid Al Maktoum,Mohammed bin Rashid Al Maktoum,Monarch of Dubai and politician (born 1949),Q878,Q746705
+Q57655,Q6581097,1949-07-15T00:00:00Z,72,Mohammed bin Rashid Al Maktoum,Mohammed bin Rashid Al Maktoum,ruler of Dubai (born 1949),Q878,Q612
+Q57655,Q6581097,1949-07-15T00:00:00Z,72,Mohammed bin Rashid Al Maktoum,Mohammed bin Rashid Al Maktoum,ruler of Dubai (born 1949),Q878,Q746705
+Q58301,Q6581097,1972-04-30T00:00:00Z,21,Abdullah bin Zayed Al Nahyan,Abdullah bin Zayed Al Nahyan,United Arab Emirates minister of foreign affairs,Q878,Q1519
+Q594786,Q6581097,1963-10-01T00:00:00Z,14,Abdulrahman Mohamed (Emirati footballer),Abdulrahman Mohamed,Emirati footballer,Q878,Q878
+Q594786,Q6581097,1963-07-01T00:00:00Z,14,Abdulrahman Mohamed (Emirati footballer),Abdulrahman Mohamed,Emirati footballer,Q878,Q878
+Q5949505,Q6581097,1989-10-24T00:00:00Z,3,Hussain Ayed,Hussain Ayed,Emirati footballer,Q878,Q188810
+Q5949568,Q6581097,1953-01-01T00:00:00Z,7,Hussain Sajwani,Hussain Sajwani,Emirati businessman,Q878,Q612
+Q600833,Q6581097,1978-09-01T00:00:00Z,10,Salem Saad,Salem Saad,Emirati footballer (1978-2009),Q878,Q878
+Q60156994,Q6581097,1998-09-11T00:00:00Z,7,Yahia Nader,Yahia Nader,Emirati footballer,Q878,Q878
+Q602133,Q6581097,1989-01-22T00:00:00Z,7,Mahir Jasem,Mahir Jasem,Emirati footballer,Q878,Q613
+Q60735115,Q6581097,1997-01-14T00:00:00Z,6,Zayed Al-Ameri,Zaid Al-Ameri,association football player,Q878,Q878
+Q6087945,Q6581097,1981-04-02T00:00:00Z,6,Issa Ali,Issa Ali Al-Bloushi,Emirati footballer,Q878,Q613
+Q62107320,Q6581097,1998-01-07T00:00:00Z,2,Ali Al-Haidhani,Ali Al Haidhani,Emirati association football player,Q878,Q805
+Q62675861,Q6581072,1979-01-01T00:00:00Z,12,Mariam Almheiri,Mariam Almheiri,Emirati politician,Q878,
+Q6310713,Q6581097,1984-12-23T00:00:00Z,7,Juma bin Dalmook Al Maktoum,Juma bin Dalmook Al Maktoum,sport shooter,Q878,Q612
+Q6310767,Q6581097,1930-01-01T00:00:00Z,5,Juma Al Majid,Juma Al Majid,businessman,Q878,
+Q6398863,Q6581097,1971-09-27T00:00:00Z,3,Khadem al-Qubaisi,Khadem al-Qubaisi,Emirati businessman,Q878,Q1519
+Q6398893,Q6581072,1995-06-19T00:00:00Z,6,Khadija Mohammed,Khadija Mohammed,Olympic weightlifter,Q878,Q612
+Q6399476,Q6581097,1981-03-24T00:00:00Z,5,Khalid Ali,Khalid Ali,Emirati footballer,Q878,
+Q6399604,Q6581097,1980-01-01T00:00:00Z,3,Khalid bin Sultan Al Qasimi (fashion designer),Khalid bin Sultan Al Qasimi,Emirati fashion designer,Q878,Q289693
+Q6399641,Q6581097,1915-07-02T00:00:00Z,2,Khalifa Bin Yousef,Khalifa Bin Yousef,United Arab Emirates politician (1915-1971),Q878,Q878
+Q6399913,Q6581072,1962-10-24T00:00:00Z,12,Nujoom Al-Ghanem,Nujoom Al-Ghanem,"Emirati film director, poet and writer",Q878,Q612
+Q6399941,Q6581097,1970-10-04T00:00:00Z,10,Khamees Saad Mubarak,Khamees Saad Mubarak,Emirati footballer,Q878,Q878
+Q64681267,Q6581097,1998-04-18T00:00:00Z,12,Yahya Al-Ghassani,Yahya Al Ghassani,Emirati association football player,Q878,Q612
+Q64744400,Q6581072,1977-11-20T00:00:00Z,2,Alia Abdulnoor,Alia Abdulnoor,"activist, was arrested and died tied up to a bed from breast cancer",Q878,
+Q648083,Q6581097,1972-12-22T00:00:00Z,11,Ali Al-Badwawi,Ali Al-Badwawi,Emirati football referee,Q878,Q613
+Q648265,Q6581097,1959-09-09T00:00:00Z,23,Ali Bujsaim,Ali Bujsaim,Emirati football referee,Q878,Q612
+Q64853045,Q6581072,1985-09-27T00:00:00Z,7,Latifa bint Ahmed Al Maktoum,Latifah bint Ahmed Al Maktoum,equestrian athlete from the United Arab Emirates,Q878,Q612
+Q65229394,Q6581097,1999-04-10T00:00:00Z,8,Tahnoon Al-Zaabi,Tahnoon Al-Zaabi,Emirati footballer,Q878,Q878
+Q66103593,Q6581072,1981-08-15T00:00:00Z,7,Shamsa bint Mohammed Al Maktoum,Shamsa Al Maktoum,Emirati aristocrat,Q878,Q612
+Q66309094,Q6581097,2001-02-18T00:00:00Z,7,"Erik (footballer, born 2001)",Erik Jorgens de Menezes,Brazilian footballer,Q878,Q1637478
+Q66309094,Q6581097,2001-02-18T00:00:00Z,7,"Erik (footballer, born 2001)",Erik Jorgens de Menezes,Brazilian footballer,Q155,Q1637478
+Q67201492,Q6581072,1979-01-01T00:00:00Z,4,Maya Alhawary,Maya Alhawary,Emirati educator,Q878,Q612
+Q6737627,Q6581097,1992-08-01T00:00:00Z,13,Majed Hassan,Majed Hassan,Emirati footballer,Q878,Q613
+Q67404107,Q6581072,1977-01-01T00:00:00Z,9,Habiba Alsafar,Habiba Alsafar,"Emirati geneticist, biomedical engineer and academic",Q878,
+Q6746517,Q6581097,1949-05-10T00:00:00Z,5,Mana Al Otaiba,Mana Al Otaiba,"Emirati writer, businessman and politician",Q878,Q1519
+Q6746819,Q6581072,1977-11-12T00:00:00Z,7,Manal bint Mohammed Al Maktoum,Manal bint Mohammed bin Rashid Al Maktoum,Emirati politician,Q878,Q612
+Q6751816,Q6581097,1972-01-01T00:00:00Z,2,Mansoor bin Tahnoon Al Nahayan,Mansoor Bin Tahnoon Al Nehayan,Emirati political scientist,Q878,
+Q67530600,Q6581072,1985-12-04T00:00:00Z,13,Sahar (singer),Sahar Moghadass,"Iranian musician, singer and dancer",Q878,Q3616
+Q6793888,Q6581072,1978-01-01T00:00:00Z,11,Reem Al Hashimy,Reem Al Hashimy,Emirati civil servant and Minister of State,Q878,Q613
+Q6804204,Q6581097,1924-01-01T00:00:00Z,4,Saif Ahmad Al Ghurair,Saif Ahmad Al Ghurair,CEO of the Dubai-based Al-Ghurair Group,Q878,Q3021334
+Q6809200,Q6581097,1963-05-22T00:00:00Z,4,Mehad Hamad,Mehad Hamad,Emirati musician,Q878,Q2204078
+Q684263,Q6581097,1964-04-05T00:00:00Z,14,Khalil Ghanim,Khalil Ghanim,Emirati footballer,Q878,Q878
+Q684263,Q6581097,1964-11-12T00:00:00Z,14,Khalil Ghanim,Khalil Ghanim,Emirati footballer,Q878,Q878
+Q6853500,Q6581097,1964-01-01T00:00:00Z,3,Mohammed Ibrahim Al Shaibani,Mohammed Al Shaibani,Government official in Dubai,Q878,Q612
+Q6891264,Q6581097,1983-07-07T00:00:00Z,16,"Ismail Ahmed (footballer, born 1983)",Mohamed Ismail Ahmed Ismail,Moroccan footballer,Q878,Q1028
+Q6891264,Q6581097,1983-07-07T00:00:00Z,16,"Ismail Ahmed (footballer, born 1983)",Mohamed Ismail Ahmed Ismail,Moroccan footballer,Q1028,Q1028
+Q6891447,Q6581097,1978-09-28T00:00:00Z,8,Mohamed Rashid Srour,Mohamed Rashid,Emirati footballer,Q878,Q612
+Q6892132,Q6581097,1976-03-11T00:00:00Z,5,Mohammad Khamis,Mohammad Khamis,Emirati footballer,Q878,
+Q6892902,Q6581097,1962-09-26T00:00:00Z,4,Mohammed Al-Rukn,Mohammed Al-Rukn,constitutional lawyer and political prisoner,Q878,Q612
+Q6892939,Q6581097,1963-01-01T00:00:00Z,8,Mohammad Al Gergawi,Mohammad Abdullah Al Gergawi,Minister of Cabinet Affairs of the United Arab Emirates and the Chairman of the Executive Office in Dubai.,Q878,Q613
+Q6893175,Q6581097,1955-01-01T00:00:00Z,4,Mohammed Khalfan Bin Kharbash,Mohammed Khalfan Bin Kharbash,Emirati politician,Q878,Q613
+Q6893293,Q6581097,1978-01-01T00:00:00Z,3,Mohammed Saeed Harib,Mohammed Saeed Harib,animator,Q878,Q612
+Q6893316,Q6581097,1982-10-28T00:00:00Z,5,Mohammed Salem Saleh,Mohammed Salem Saleh,Emirati footballer,Q878,Q878
+Q6893443,Q6581097,1940-01-01T00:00:00Z,2,Mohammed al Janahi,Mohammed al Janahi,Emirati actor (1940-2008),Q878,
+Q6893466,Q6581097,1986-04-01T00:00:00Z,6,Mohammed bin Hamad bin Mohammed Al Sharqi,Mohammed bin Hamad Al Sharqi,Emirati Sheikh and Crown Prince of Fujairah,Q878,Q4091
+Q6926208,Q6581097,1978-07-01T00:00:00Z,9,Taleb Moussa,Moussa Taleb,Emirati chess grandmaster,Q878,Q612
+Q6930820,Q6581097,1988-07-15T00:00:00Z,3,Mubarak Al-Besher,Mubarak Al-Besher,Emirati swimmer,Q878,
+Q6940091,Q6581097,1990-01-01T00:00:00Z,6,Musallem Fayez,Musallem Fayez Al Hamdani,Emirati footballer,Q878,Q878
+Q6940091,Q6581097,1987-01-01T00:00:00Z,6,Musallem Fayez,Musallem Fayez Al Hamdani,Emirati footballer,Q878,Q878
+Q6940091,Q6581097,1987-03-26T00:00:00Z,6,Musallem Fayez,Musallem Fayez Al Hamdani,Emirati footballer,Q878,Q878
+Q6959930,Q6581072,1956-01-01T00:00:00Z,8,Najat Makki,Najat Makki,Emirati artist,Q878,Q140673
+Q6967626,Q6581097,1971-05-22T00:00:00Z,2,Nasser Hassan Al-Shaikh,Nasser Hassan Al-Shaikh,"Director General of Department of Finance, Government of Dubai",Q878,Q612
+Q6967640,Q6581097,1960-01-01T00:00:00Z,2,Nasser al-Dhaheri,Nasser al-Dhaheri,Emirati writer and journalist,Q878,Q234600
+Q6983153,Q6581072,1978-03-07T00:00:00Z,13,Nayla Al Khaja,Nayla Al Khaja,Emirati film director and screenwriter,Q878,Q612
+Q700838,Q6581097,1978-05-09T00:00:00Z,24,Marwan al-Shehhi,Marwan al-Shehhi,9/11 hijacker (1978–2001),Q878,Q2126436
+Q7074579,Q6581097,1981-08-09T00:00:00Z,7,Obaid Al-Jasmi,Obaid Al-Jasmi,Emirati swimmer,Q878,Q1519
+Q7074580,Q6581097,1985-04-13T00:00:00Z,5,Obaid Khalifa,Obaid Khalifa,Emirati footballer,Q878,Q878
+Q7111346,Q6581072,1920-01-01T00:00:00Z,10,Ousha the Poet,Ousha The Poet,Emirati poet (1920–2018),Q878,Q234600
+Q712839,Q6581097,1945-12-25T00:00:00Z,11,Hamdan bin Rashid Al Maktoum,Hamdan bin Rashid Al Maktoum,Deputy Ruler of Dubai and Minister of Finance (UAE),Q878,Q140673
+Q7267015,Q6581097,1987-08-31T00:00:00Z,3,Qasim Zubair,Qasim Zubair,Emirati cricketer,Q878,Q612
+Q7282648,Q6581072,1956-11-13T00:00:00Z,11,Rafia Ghubash,Rafia Ghubash,Emirati psychiatrist and epidemiologist,Q878,Q612
+Q7294871,Q6581097,1937-01-01T00:00:00Z,5,Rashid Abdullah Al Nuaimi,Rashid Abdullah Al Noaimi,Emirati diplomat and politician,Q878,
+Q7294894,Q6581097,1902-01-01T00:00:00Z,9,Rashid bin Humaid Al Nuaimi III,Rashid Bin Humaid Al Nuaimi,Ruler and Emir of Ajman (1902–1981),Q878,Q159477
+Q7294934,Q6581097,1981-11-12T00:00:00Z,10,Rashid bin Mohammed Al Maktoum,Prince Rashid bin Mohammed of Dubai,Dubaian Royal (1981–2015),Q878,Q612
+Q730188,Q6581097,1969-09-24T00:00:00Z,15,Hussain Ghuloum,Hussain Ghuloum,Emirati footballer,Q878,Q878
+Q733312,Q6581097,1912-06-11T00:00:00Z,27,Rashid bin Saeed Al Maktoum,Rashid bin Saeed Al Maktoum,2nd Prime Minister of the United Arab Emirates and Sheikh of Dubai (1912-1990),Q878,Q612
+Q7398243,Q6581097,1989-12-02T00:00:00Z,5,Saeed Rashid Al Qubaisi,Saeed Rashid Al Qubaisi,Olympic judoka,Q878,
+Q7398256,Q6581097,1962-01-25T00:00:00Z,2,Saeed bin Saqer bin Sultan Al-Qasimi,Saeed bin Saqer bin Sultan Al-Qasimi,Emirati Sultan,Q878,
+Q7398257,Q6581097,1976-10-01T00:00:00Z,7,Saeed bin Maktoum bin Rashid Al Maktoum,Saeed bin Maktoum bin Rashid Al Maktoum,Sheikh,Q878,Q612
+Q7398258,Q6581097,1965-01-01T00:00:00Z,5,Saeed bin Zayed Al Nahyan,Saeed bin Zayed Al Nahyan,Emirati politician (1965–2023),Q878,Q234600
+Q7398258,Q6581097,1965-01-01T00:00:00Z,5,Saeed bin Zayed Al Nahyan,Saeed bin Zayed Al Nahyan,Emirati politician (1965–2023),Q1852345,Q234600
+Q7400010,Q6581097,1983-09-15T00:00:00Z,7,Saif Mohammed Al Bishr,Saif Mohammed Al Bishr,Emirati footballer,Q878,Q878
+Q7403882,Q6581097,1978-12-08T00:00:00Z,6,Saleh Abdulla,Saleh Abdulla,footballer,Q878,
+Q74506088,Q6581072,1992-12-03T00:00:00Z,5,Noura Alktebi,Noura Alktebi,United Arab Emirati Paralympic athlete,Q878,
+Q745375,Q6581097,1965-12-22T00:00:00Z,7,Fareed Al-Marzouqi,Fareed Al-Marzouqi,Emirati football referee (born 1965),Q878,
+Q75019718,Q6581072,1979-01-01T00:00:00Z,5,Razan Al Mubarak,Razan Khalifa Al Mubarak,Emirati business executive,Q878,Q1519
+Q754778,Q6581097,1939-07-02T00:00:00Z,24,Sultan bin Muhammad Al-Qasimi,Sultan bin Mohamed Al-Qasimi,Member of the Supreme Council of the United Arab Emirates,Q878,Q289693
+Q75776525,Q6581097,1986-01-01T00:00:00Z,2,Ahmed Almheiri,Ahmed Almheiri,physicist,Q878,Q187712
+Q7636620,Q6581097,1955-01-01T00:00:00Z,9,Sultan Ahmed bin Sulayem,Sultan Ahmed ibn Sulayem,Emirati businessman (born 1955),Q878,Q613
+Q7636643,Q6581097,1989-01-18T00:00:00Z,6,Sultan Bargash,Sultan Bargash,footballer,Q878,Q1519
+Q7636761,Q6581097,1956-12-01T00:00:00Z,5,Sultan bin Zayed bin Sultan Al Nahyan,Sultan bin Zayed bin Sultan Al Nahyan,Emirati politician (1956-2019),Q878,Q234600
+Q76476288,Q6581097,1994-05-01T00:00:00Z,37,Khamzat Chimaev,Khamzat Chimaev,Russian-Emirati mixed martial artist (born 1994),Q159,Q4134447
+Q76476288,Q6581097,1994-05-01T00:00:00Z,37,Khamzat Chimaev,Khamzat Chimaev,Russian-Emirati mixed martial artist (born 1994),Q878,Q4134447
+Q7675603,Q6581097,1942-01-01T00:00:00Z,3,Tahnoun bin Mohammed Al Nahyan,Tahnoon bin Mohammed Al Nahyan,Ruler's representative of the UAE,Q878,Q234600
+Q76787625,Q6581097,1999-06-03T00:00:00Z,6,"Abdulrahman Saleh (footballer, born 1999)",Abdulrahman Saleh,Emirati footballer,Q878,Q612
+Q7678832,Q6581097,1988-09-26T00:00:00Z,3,Talal Al-Nuaimi,Talal Al-Nuaimi,Emirati basketball player (born 1988),Q878,Q613
+Q774227,Q6581097,1990-08-24T00:00:00Z,10,Rashed Eisa,Rashed Eisa,Emirati footballer,Q878,Q878
+Q77960969,Q6581097,1987-05-10T00:00:00Z,4,Faisal Al-Ketbi,Faisal Al-Ketbi,Emirati jujutsuka,Q878,Q1519
+Q78027448,Q6581097,2000-05-22T00:00:00Z,4,"Gláuber (footballer, born 2000)",Gláuber,Brazilian and Emirati football player,Q878,
+Q78027448,Q6581097,2000-05-22T00:00:00Z,4,"Gláuber (footballer, born 2000)",Gláuber,Brazilian and Emirati football player,Q155,
+Q79351424,Q6581097,2000-08-10T00:00:00Z,3,Yousef Abdelrahman,Yousef Abdulrahman,Emirati footballer,Q878,Q878
+Q79351612,Q6581097,2000-09-29T00:00:00Z,2,"Ahmed Darwish (footballer, born 2000)",Ahmed Darwish,emirati association football player,Q878,Q878
+Q79351634,Q6581097,2001-07-14T00:00:00Z,2,Ismail Al-Zaabi,Ismaeel Al-Zaabi,Emirati association football player,Q878,Q878
+Q79351647,Q6581097,1998-11-14T00:00:00Z,2,Ismael Al-Harbi,Ismaeel Al-Harbi,Emirati association football player,Q878,Q878
+Q79351687,Q6581097,1999-01-01T00:00:00Z,2,Rashid Mubarak,Rashed Mubarak,Emirati association football player,Q878,Q878
+Q79351741,Q6581097,2002-11-26T00:00:00Z,9,Harib Abdalla,Harib Abdalla,Emirati footballer,Q878,Q878
+Q79351742,Q6581097,1999-01-16T00:00:00Z,4,Ahmad Jamil (footballer),Ahmed Jamil,Emirati footballer,Q878,Q612
+Q79351742,Q6581097,1999-01-16T00:00:00Z,4,Ahmad Jamil (footballer),Ahmed Jamil,Emirati footballer,Q878,Q878
+Q79351761,Q6581097,1989-05-17T00:00:00Z,2,Yousef Ahmed Safar,Yousef Ahmed Safar,Emirati association football player,Q878,Q878
+Q79665984,Q6581097,1973-02-23T00:00:00Z,2,Abdulla Bin Mohamed Bin Butti Al Hamed,Abdulla Bin Mohamed Bin Butti Al Hamed,politician,Q878,Q1519
+Q7979024,Q6581072,1964-01-01T00:00:00Z,4,Wedad Lootah,Wedad Lootah,Emirati sexologist,Q878,
+Q8049810,Q6581097,1987-09-06T00:00:00Z,5,Yasir Shah (actor),Yasir Shah,Indian/Pakistani actor,Q878,Q613
+Q8059030,Q6581097,1974-01-19T00:00:00Z,11,Yousef Al Otaiba,Yousef Al Otaiba,diplomat,Q878,Q1519
+Q8059056,Q6581097,1989-03-04T00:00:00Z,5,Yousif Al Bairaq,Yousif Abdelrahman Al Bairaq,United Arab Emirati footballer,Q878,Q878
+Q81060796,Q6581072,1987-01-01T00:00:00Z,8,Eman Al Yousuf,Eman Al Yousuf,Emirati writer,Q878,Q878
+Q81166643,Q6581097,1992-07-27T00:00:00Z,3,Pouya Rahmani,Pouya Rahmani,Iranian-Emirati mixed martial artist (born 1992),Q878,Q331078
+Q840815,Q6581097,1961-11-12T00:00:00Z,22,Mohammed Ben Sulayem,Muhammad ibn Sulayem,president of IAF,Q878,Q612
+Q84175046,Q6581097,2000-02-17T00:00:00Z,3,Leandro Spadacio,Leandro Spadacio,Brazilian footballer,Q878,
+Q84175046,Q6581097,2000-02-17T00:00:00Z,3,Leandro Spadacio,Leandro Spadacio,Brazilian footballer,Q155,
+Q8536372,Q6581097,1979-08-25T00:00:00Z,14,Hussain Al Jassmi,Hussain Al Jassmi,Emirati singer,Q878,Q764279
+Q868801,Q6581097,1989-10-15T00:00:00Z,8,Omar Juma Al-Salfa,Omar Juma Al-Salfa,Emirati sprinter,Q878,
+Q90723881,Q6581097,1999-04-07T00:00:00Z,2,Yousef Ayman,Yousef Ayman,Emirati footballer,Q878,Q878
+Q90726380,Q6581097,2003-03-09T00:00:00Z,2,Hazza Subait,Hazaa Subait,Emirati association football player,Q878,Q878
+Q90863388,Q6581097,2000-03-07T00:00:00Z,4,Ala Zhir,Alaeddine Zouhir,Tunisian association football player,Q878,Q948
+Q90863388,Q6581097,2000-03-07T00:00:00Z,4,Ala Zhir,Alaeddine Zouhir,Tunisian association football player,Q948,Q948
+Q9250258,Q6581097,1995-02-12T00:00:00Z,11,Ed Jones (racing driver),Ed Jones,Emirati racing driver,Q878,Q612
+Q9250258,Q6581097,1995-02-12T00:00:00Z,11,Ed Jones (racing driver),Ed Jones,Emirati racing driver,Q145,Q612
+Q93006097,Q6581097,1999-09-12T00:00:00Z,2,Yaqoub Yousif,Yaqoub Yousef,Emirati association football player,Q878,Q878
+Q9332700,Q6581097,1967-11-28T00:00:00Z,4,Saeed Ahmed Saeed,Saeed-Ahmed Saeed,Emirati chess player,Q878,
+Q933805,Q6581097,1972-02-18T00:00:00Z,15,Khalid Al Qassimi,Khalid Al Qassimi,rally driver,Q878,Q1519
+Q934546,Q6581097,1977-01-01T00:00:00Z,12,Sulaiman Al-Fahim,Sulaiman Al-Fahim,President of the Arab Union for Real Estate Development,Q878,Q612
+Q96464921,Q6581097,1991-05-14T00:00:00Z,2,Ahmed Saif (footballer),Ahmed Saif,Emirati footballer,Q878,Q878
+Q96464940,Q6581097,1996-06-22T00:00:00Z,2,Hamad Jassim,Hamad Jassim,Emirati association football player,Q878,Q878
+Q96481250,Q6581097,1989-12-29T00:00:00Z,2,"Ismael Ahmed (footballer, born 1989)",Ismael Ahmed,Emirati footballer,Q878,Q878
+Q96573383,Q6581097,1967-01-01T00:00:00Z,2,Muhammad Obaid,Ahmad Muhammad Ubaid,"Emirati poet, academic and writer",Q878,Q6742405
+Q96573383,Q6581097,1967-01-01T00:00:00Z,2,Muhammad Obaid,Ahmad Muhammad Ubaid,"Emirati poet, academic and writer",Q1852345,Q6742405
+Q97515142,Q6581097,1996-07-02T00:00:00Z,2,Badr Bilal (Emirati footballer),Badr Bilal,Emirati association football player,Q878,Q878
+Q97515146,Q6581097,1995-05-07T00:00:00Z,2,Hamad Jalal,Hamad Jalal,Emirati association football player,Q878,Q878
+Q97933408,Q6581072,1926-01-01T00:00:00Z,4,Mishkan Al-Awar,Mishkan Al-Awar,Emirati chemist,Q878,Q612
+Q98137590,Q6581097,1992-11-06T00:00:00Z,2,Hamid Al Kamali,Hamid Al-Kamali,Emirati footballer,Q878,Q1519
+Q98955579,Q6581097,1952-12-27T00:00:00Z,2,Zoran Prelević,Zoran Prelević,Serbian basketball player and coach,Q878,Q11194
+Q98955579,Q6581097,1952-12-27T00:00:00Z,2,Zoran Prelević,Zoran Prelević,Serbian basketball player and coach,Q403,Q11194
+Q99439938,Q6581072,1994-08-24T00:00:00Z,3,Shahad Budebs,Shahad Budebs,Emirati footballer,Q878,Q612
+Q99477363,Q6581097,1985-12-10T00:00:00Z,4,Tariq Al Menhali,Tariq Al Menhali,Emirati singer,Q878,
+Q99900509,Q6581072,1939-01-01T00:00:00Z,6,Shaikha Al Maskari,Shaikha Al Maskari,Emirati businesswoman and philanthropist,Q878,Q234600

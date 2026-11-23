@@ -1,0 +1,792 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q101751482,Q6581097,1987-01-13T00:00:00Z,18,Artem Novikov,Artyom Novikov,Russian politician,Q813,Q9361
+Q102292620,Q6581072,1983-10-13T00:00:00Z,9,Gulnaz Zhuzbaeva,Gulnaz Zhuzbaeva,Kyrgyz activist,Q813,
+Q10452982,Q6581097,1978-06-19T00:00:00Z,3,Aibek Bokoyev,Aibek Bokoev,footballer,Q813,Q15180
+Q104651275,Q6581097,1960-09-15T00:00:00Z,9,Kubanychbek Omuraliev,Kubanychbek Omuraliev,Kyrgyzstani diplomat,Q813,Q311827
+Q1048113,Q6581097,1937-06-25T00:00:00Z,14,Bolot Beyshenaliyev,Bolot Beishenaliev,Soviet actor (1937-2002),Q15180,Q16964106
+Q1048113,Q6581097,1937-06-25T00:00:00Z,14,Bolot Beyshenaliyev,Bolot Beishenaliev,Soviet actor (1937-2002),Q813,Q16964106
+Q105277058,Q6581097,1979-08-30T00:00:00Z,17,Ulukbek Maripov,Ulukbek Maripov,Kyrgyz politician,Q813,Q12830593
+Q10555834,Q6581097,1985-08-10T00:00:00Z,8,David Tetteh,David Tetteh,Ghanaian-Kyrgyz footballer,Q117,Q117
+Q10555834,Q6581097,1985-08-10T00:00:00Z,8,David Tetteh,David Tetteh,Ghanaian-Kyrgyz footballer,Q813,Q117
+Q106447583,Q6581097,2000-10-28T00:00:00Z,5,Kubanychbek Aibek Uulu,Kubanychbek Aibek Uulu,Kyrgyz judoka,Q813,
+Q107311745,Q6581072,1973-11-14T00:00:00Z,5,Aigul Japarova,Aigul Japarova,First Lady of Kyrgyzstan,Q813,Q20628885
+Q107311745,Q6581072,1973-11-14T00:00:00Z,5,Aigul Japarova,Aigul Japarova,First Lady of Kyrgyzstan,Q15180,Q20628885
+Q107325044,Q6581097,2000-03-25T00:00:00Z,6,Nursultan Keneshbekov,Nursultan Keneshbekov,kyrgyzstani long-distance runner,Q813,Q20629665
+Q107340052,Q6581097,1991-09-19T00:00:00Z,4,Roman Petrov,Roman Petrov,Kyrgyz fencer,Q813,Q9361
+Q107442836,Q6581097,1976-07-06T00:00:00Z,2,Aibek Junushaliev,Aibek Junushaliev,Kyrgyzstani politician,Q813,Q2782144
+Q107539497,Q6581097,1947-05-24T00:00:00Z,4,Jypar Jeksheev,Zhypar Zheksheev,Kyrgyz politician (1947–2020),Q813,Q7679100
+Q107634646,Q6581072,1999-09-30T00:00:00Z,5,Kanykei Kubanychbekova,Kanykei Kubanychbekova,kyrgyzstani sports shooter,Q813,Q9361
+Q107669323,Q6581097,1981-01-02T00:00:00Z,3,Maksat Kunakunov,Maksat Kunakunov,Kyrgyz politician (born 1981),Q813,Q9361
+Q107800301,Q6581097,1998-07-02T00:00:00Z,11,Ernazar Akmataliev,Ernazar Akmataliev,Kyrgyzstani wrestler (born 1998),Q813,Q12829565
+Q108378280,Q6581097,2006-01-01T00:00:00Z,2,Eldiar Orozbaev,Eldiar Orozbaev,Kyrgyz chess player,Q813,
+Q108453485,Q6581097,1999-08-01T00:00:00Z,2,Temirbolot Tapayev,Temirbolot Tapaev,kyrgyzstani footballer,Q813,Q9361
+Q109324065,Q6581072,1962-04-13T00:00:00Z,3,Elmira Ibraimova,Elmira Sultanovna Ibraimova,"Kyrgyz civil servant, politician and deputy prime minister",Q813,
+Q109446127,Q6581072,1963-08-20T00:00:00Z,4,Gulnara-Klara Samat,Gulnara-Klara Samat,Kyrgyz politician and diplomat,Q813,Q2283488
+Q109495949,Q6581097,1964-10-15T00:00:00Z,7,Baktybek Bekbolotov,Baktybek Bekbolotov,Kyrgyz lieutenant general,Q15180,Q2360023
+Q109495949,Q6581097,1964-10-15T00:00:00Z,7,Baktybek Bekbolotov,Baktybek Bekbolotov,Kyrgyz lieutenant general,Q813,Q2360023
+Q109546214,Q6581097,2000-07-17T00:00:00Z,4,Kayrat Izakov,Kayrat Izakov,kyrgyzstani association football player,Q813,Q1554994
+Q109546215,Q6581097,2000-07-17T00:00:00Z,11,Erzhan Tokotayev,Erzhan Tokotaev,kyrgyzstani association football player,Q813,Q9361
+Q110086097,Q6581097,1984-12-20T00:00:00Z,3,Ayaz Baetov,Ayaz Baetov,politician in Kyrgyzstan,Q813,Q9361
+Q110263292,Q6581097,2003-08-15T00:00:00Z,6,Khristiyan Brauzman,Christian Brauzman,kyrgyzstani footballer,Q813,Q1026291
+Q110817943,Q6581097,1946-12-05T00:00:00Z,3,Chorobek Baigazakov,Chorobek Baigazakov,Kyrgyz politician,Q15180,Q2878226
+Q110817943,Q6581097,1946-12-05T00:00:00Z,3,Chorobek Baigazakov,Chorobek Baigazakov,Kyrgyz politician,Q813,Q2878226
+Q110937359,Q6581097,2001-08-15T00:00:00Z,7,Erbol Atabayev,Erbol Atabayev,kyrgyz-Russian footballer,Q159,Q1026291
+Q110937359,Q6581097,2001-08-15T00:00:00Z,7,Erbol Atabayev,Erbol Atabayev,kyrgyz-Russian footballer,Q813,Q1026291
+Q111548508,Q6581072,1973-09-10T00:00:00Z,3,Altynai Omurbekova,Altynai Omurbekova,vice-speaker of Kyrgyzstan,Q813,Q9361
+Q111744930,Q6581097,1963-04-05T00:00:00Z,9,Jeenbek Kulubayev,Jeenbek Kulubaev,politician in Kyrgyzstan,Q813,Q20629760
+Q112180749,Q6581097,2005-06-23T00:00:00Z,14,Beknaz Almazbekov,Beknaz Almazbekov,Kyrgyz footballer,Q813,Q813
+Q112703041,Q6581097,1960-12-01T00:00:00Z,22,Adylbek Kasymaliev,Adylbek Kasymaliev,"Kyrgyz politician, Prime Minister of Kyrgyzstan since 2024",Q813,Q5289470
+Q11340957,Q6581097,1960-12-05T00:00:00Z,5,Marat Sultanov,Marat Sultanov,Kyrgyz politician,Q813,Q9361
+Q11343058,Q6581097,1944-10-15T00:00:00Z,7,Myrzakan Subanov,Myrzakan Subanov,Russian and Kyrgyztani army general,Q813,Q12831361
+Q114352438,Q6581072,2005-04-19T00:00:00Z,1,Nurai Sovetbekova,Nurai Sovetbekova,Kyrgyz chess player,Q813,
+Q114457731,Q6581072,1992-08-07T00:00:00Z,3,Veronika Bernatskaia,Veronika Bernatskaia,Kyrgyzstani association football referee,Q813,Q9361
+Q114554418,Q6581097,1977-05-13T00:00:00Z,9,Nurlanbek Turgunbek uulu,Nurlanbek Shakiev,speaker of the Supreme Council of Kyrgyzstan,Q813,Q15526364
+Q114853649,Q6581097,1998-09-12T00:00:00Z,3,Temirlan Sultanbekov,Temirlan Sultanbekov,Kyrgyz politician,Q813,Q805876
+Q115650655,Q6581072,1989-01-01T00:00:00Z,9,Ainura Sagyn,Ainura Sagyn,"Kyrgyzstani computer engineer, ecofeminist and entrepreneur",Q813,Q643955
+Q115914970,Q6581097,1980-11-08T00:00:00Z,4,Aibek Matkerimov,Aybek Matkerimov,Kyrgyz politician,Q813,Q487689
+Q115917427,Q6581097,1998-06-19T00:00:00Z,9,Erlan Sherov,Erlan Sherov,Kyrgyzstani judoka,Q813,Q9361
+Q116756234,Q6581072,1995-12-19T00:00:00Z,1,Malika Dina,Malika Dina,Kyrgyz singer,Q813,Q649
+Q116837977,Q6581072,2000-01-01T00:00:00Z,2,Baktygul Toktobolotova,Baktygul Toktobolotova,Kyrgyz footballer (born 2000),Q813,
+Q117304288,Q6581072,2004-12-27T00:00:00Z,4,Altynai Botoyarova,Altynai Botoyarova,Kyrgyz model,Q813,Q9361
+Q117775955,Q6581097,2000-01-01T00:00:00Z,6,Taiyrbek Zhumashbek Uulu,Taiyrbek Zhumashbek Uulu,Kyrgyz amateur wrestler,Q813,
+Q11835959,Q6581097,1993-07-22T00:00:00Z,18,Dzhokhar Tsarnaev,Dzhokhar Tsarnaev,"Kyrgyz-American man convicted of the Boston Marathon bombings on April 15th, 2013",Q30,Q854333
+Q11835959,Q6581097,1993-07-22T00:00:00Z,18,Dzhokhar Tsarnaev,Dzhokhar Tsarnaev,"Kyrgyz-American man convicted of the Boston Marathon bombings on April 15th, 2013",Q813,Q854333
+Q11836274,Q6581097,1986-10-21T00:00:00Z,13,Tamerlan Tsarnaev,Tamerlan Tsarnaev,Chechen perpetrator of the 2013 Boston Marathon bombing (1986–2013),Q159,Q4464911
+Q11836274,Q6581097,1986-10-21T00:00:00Z,13,Tamerlan Tsarnaev,Tamerlan Tsarnaev,Chechen perpetrator of the 2013 Boston Marathon bombing (1986–2013),Q813,Q4464911
+Q118868718,Q6581097,2002-09-02T00:00:00Z,5,Dastanbek Toktosunov,Dastanbek Toktosunov,kyrgyzstani footballer,Q813,Q2224040
+Q119067674,Q6581097,1998-01-07T00:00:00Z,3,Suyuntbek Mamyraliyev,Suyuntbek Mamyraliev,Bahraini footballer,Q813,Q9361
+Q119099509,Q6581097,1998-04-05T00:00:00Z,2,Nikolay Davydov (footballer),Nikolay Davydov,Irish footballer (born 1968),Q183,Q183
+Q119099509,Q6581097,1998-04-05T00:00:00Z,2,Nikolay Davydov (footballer),Nikolay Davydov,Irish footballer (born 1968),Q813,Q183
+Q119154713,Q6581097,2000-07-14T00:00:00Z,5,Adil Kadyrzhanov,Adil Kadyrzhanov,kyrgyzstani footballer,Q813,Q5332
+Q120279045,Q6581097,1982-05-02T00:00:00Z,2,Melis Turgunbaev,Melis Turgunbaev,Kyrgyz politician and government official,Q813,
+Q120354266,Q6581072,1989-10-26T00:00:00Z,4,Maria Drokova,Maria Drokova,"Russian investor and entrepreneur, formerly a spokeswoman for the Russian pro-Putin youth political movement Nashi",Q159,Q3544
+Q120354266,Q6581072,1989-10-26T00:00:00Z,4,Maria Drokova,Maria Drokova,"Russian investor and entrepreneur, formerly a spokeswoman for the Russian pro-Putin youth political movement Nashi",Q813,Q3544
+Q121433751,Q6581097,2003-04-03T00:00:00Z,4,Ermek Kenzhebayev,Ermek Kenzhebaev,Kyrgyz association football player,Q813,Q9361
+Q122782822,Q6581072,1995-07-31T00:00:00Z,3,Aidana Otorbaeva,Aidana Otorbaeva,Kyrgyzstani footballer (born 1995),Q813,
+Q123065234,Q6581097,2004-07-06T00:00:00Z,8,Kimi Merk,Kimi Merk,Kyrgyz-German footballer,Q183,Q14849
+Q123065234,Q6581097,2004-07-06T00:00:00Z,8,Kimi Merk,Kimi Merk,Kyrgyz-German footballer,Q813,Q14849
+Q123509871,Q6581072,1954-01-01T00:00:00Z,3,Shairbu Sagynbaeva,Shairbu Sagynbaeva,Kyrgyzstan social entrepreneur,Q813,
+Q1240501,Q6581097,1924-07-10T00:00:00Z,14,Vladimir Sukharev,Vladimir Sukharev,athletics competitor (1924-1997),Q813,Q163479
+Q1240501,Q6581097,1924-07-10T00:00:00Z,14,Vladimir Sukharev,Vladimir Sukharev,athletics competitor (1924-1997),Q15180,Q163479
+Q124288544,Q6581097,2001-09-13T00:00:00Z,4,Nurdoolot Stalbekov,Nurdoolot Stalbekov,Kyrgyz association football player (2001-),Q813,Q47282
+Q124294824,Q6581097,2000-01-25T00:00:00Z,2,Amantur Shamurzayev,Amantur Shamurzaev,Kyrgyzstani association football player (2000-),Q813,Q9361
+Q124303827,Q6581072,1977-07-19T00:00:00Z,3,Jamilya İsayeva,Jamilya İsayeva,Kyrgyzstani politician,Q813,Q578389
+Q125813369,Q6581097,1998-02-10T00:00:00Z,9,Myktybek Orolbai,Myktybek Orolbai,Kyrgyz mixed martial artist (born 1998),Q813,Q231987
+Q126006236,Q6581097,2000-10-11T00:00:00Z,5,Razhabali Shaydullaev,Rajabali Shaidullaev,Kyrgyzstan mixed martial arts fighter,Q813,Q4160336
+Q126184109,Q6581097,1993-04-26T00:00:00Z,4,Kadyrbek Atambaev,Kadyrbek Atambaev,Leader of Social Democrats in Bishkek Parliament,Q813,
+Q126287658,Q6581072,1991-05-13T00:00:00Z,1,Makhabat Tazhibek Kyzy,Makhabat Tazhibek Kyzy,journalist in Kyrgyzstan,Q813,Q487413
+Q1267138,Q6581097,1986-05-28T00:00:00Z,19,Ruslan Tyumenbayev,Ruslan Tumenbaev,Olympic wrestler,Q813,Q9361
+Q126969520,Q6581097,1982-03-30T00:00:00Z,3,Daniyar Amangeldiev,Daniyar Amangeldiev,politician in Kyrgyzstan,Q813,Q2782016
+Q126969520,Q6581097,1982-03-30T00:00:00Z,3,Daniyar Amangeldiev,Daniyar Amangeldiev,politician in Kyrgyzstan,Q15180,Q2782016
+Q128416430,Q6581097,1996-01-01T00:00:00Z,15,Munarbek Seitbek Uulu,Munarbek Seiitbek Uulu,Kyrgyzstani boxer,Q813,Q47282
+Q128770279,Q6581097,2000-12-03T00:00:00Z,10,Bekzat Almaz Uulu,Bekzat Almaz Uulu,Kyrgyztani freestyle wrestler,Q813,
+Q13036464,Q6581097,1968-05-04T00:00:00Z,10,Andrey Kurnyavka,Andrei Kurnjawka,Russian boxer,Q159,Q9361
+Q13036464,Q6581097,1968-05-04T00:00:00Z,10,Andrey Kurnyavka,Andrei Kurnjawka,Russian boxer,Q15180,Q9361
+Q13036464,Q6581097,1968-05-04T00:00:00Z,10,Andrey Kurnyavka,Andrei Kurnjawka,Russian boxer,Q813,Q9361
+Q131389563,Q6581072,1970-01-01T00:00:00Z,6,Zhanylsynzat Turganbaeva,Zhanylsynzat Turganbaeva,runs an ethnological museum in Bishkek,Q813,
+Q13165522,Q6581072,1946-12-19T00:00:00Z,6,Klara Ajybekova,Klara Ajybekova,Kyrgyz politician,Q813,Q311946
+Q13165774,Q6581072,1964-09-10T00:00:00Z,3,Dinara Akulova,Dinara Akulova,Kyrgyz singer,Q813,Q7652561
+Q13165774,Q6581072,1964-09-10T00:00:00Z,3,Dinara Akulova,Dinara Akulova,Kyrgyz singer,Q15180,Q7652561
+Q13168423,Q6581097,1923-06-16T00:00:00Z,5,Asankhan Dzhumakhmatov,Asankhan Dzhumakhmatov,Kyrgyzstani musician (1923-2008),Q15180,Q12823681
+Q13168423,Q6581097,1923-06-16T00:00:00Z,5,Asankhan Dzhumakhmatov,Asankhan Dzhumakhmatov,Kyrgyzstani musician (1923-2008),Q813,Q12823681
+Q13169503,Q6581072,1984-08-07T00:00:00Z,6,Aida Kasymalieva,Aida Kasymalieva,Kyrgyz journalist and politician,Q813,Q47282
+Q13170240,Q6581097,1972-02-25T00:00:00Z,3,Ruslan Kurmanaliev,Ruslan Kurmanaliev,Kyrgyzstani actor,Q813,
+Q13171350,Q6581072,1984-09-23T00:00:00Z,5,Dina Maslova,Dina Maslova,Kirghiz journalist,Q813,Q9361
+Q13171843,Q6581072,1927-11-22T00:00:00Z,5,Maria Nanaeva,Maria Nanaeva,Soviet and Kyrgyz pharmacologist (1927-2020),Q813,Q3525501
+Q13171843,Q6581072,1927-11-22T00:00:00Z,5,Maria Nanaeva,Maria Nanaeva,Soviet and Kyrgyz pharmacologist (1927-2020),Q15180,Q3525501
+Q13174646,Q6581072,1945-06-14T00:00:00Z,5,Oytozhihon Shobdonova,Oytozhihon Shobdonova,Kyrgyz actress,Q813,Q2669269
+Q13174646,Q6581072,1945-06-14T00:00:00Z,5,Oytozhihon Shobdonova,Oytozhihon Shobdonova,Kyrgyz actress,Q15180,Q2669269
+Q1336365,Q6581097,1987-03-26T00:00:00Z,12,Emil Kenzhisariyev,Emil Kenzhesariev,Kyrgyzstani footballer,Q813,Q9361
+Q134609136,Q6581072,1975-01-25T00:00:00Z,2,Kanyshai Mamyrkulova,Kanyshaj Mamyrkulova,Kyrgyz journalist,Q813,Q13168986
+Q136338204,Q6581097,1997-09-20T00:00:00Z,4,Akbar Abdullaev,Akbar Abdullaev,Kyrgyzstan mixed martial arts fighter,Q813,
+Q136817140,Q6581097,1971-03-03T00:00:00Z,2,Ruslan Mukambetov,Ruslan Mukambetov,,Q813,
+Q138609857,Q6581097,1984-09-09T00:00:00Z,5,Kumarbek Abdyrov,Kumarbek Abdyrov,Kyrgyzstani serial killer,Q15180,
+Q138609857,Q6581097,1984-09-09T00:00:00Z,5,Kumarbek Abdyrov,Kumarbek Abdyrov,Kyrgyzstani serial killer,Q813,
+Q1391232,Q6581097,1931-03-29T00:00:00Z,8,Sopubek Begaliev,Sopubek Begaliev,Soviet economist and politician (1931-2002),Q813,Q12831269
+Q1391928,Q6581097,1966-08-30T00:00:00Z,10,Orzubek Nazarov,Orzubek Nazarov,Kyrgyzstani boxer,Q15180,Q1026291
+Q1391928,Q6581097,1966-08-30T00:00:00Z,10,Orzubek Nazarov,Orzubek Nazarov,Kyrgyzstani boxer,Q813,Q1026291
+Q139300097,Q6581097,1972-08-10T00:00:00Z,1,Mikhail Mikhailov (climber),Mikhail Mikhailov,Kyrgyzstani mountaineer (b. 1972),Q813,Q9361
+Q140181312,Q6581072,1965-07-25T00:00:00Z,1,Dogdurkul Kendirbaeva,Dogdurkul Kendirbaeva,Kyrgyz educator and politician (born 1965),Q813,
+Q141314627,Q6581097,2000-01-01T00:00:00Z,1,Feliks Ulanbekov,Feliks Ulanbekov,Kyrgyzstani sambist,Q813,
+Q14636382,Q6581097,1967-07-07T00:00:00Z,8,Nazim Ajiev,Nazim Ajiyev,Kyrgyz association football player,Q813,Q9361
+Q14636382,Q6581097,1967-07-07T00:00:00Z,8,Nazim Ajiev,Nazim Ajiyev,Kyrgyz association football player,Q15180,Q9361
+Q15522270,Q6581097,1989-03-11T00:00:00Z,8,Magomed Musaev,Magomed Musaev,Olympic wrestler,Q15180,Q157955
+Q15522270,Q6581097,1989-03-11T00:00:00Z,8,Magomed Musaev,Magomed Musaev,Olympic wrestler,Q159,Q157955
+Q15522270,Q6581097,1989-03-11T00:00:00Z,8,Magomed Musaev,Magomed Musaev,Olympic wrestler,Q813,Q157955
+Q15697283,Q6581072,1919-10-29T00:00:00Z,7,Darkul Kuyukova,Darkul Kuyukova,Soviet actor (1919-1997),Q15180,Q16965934
+Q15697283,Q6581072,1919-05-15T00:00:00Z,7,Darkul Kuyukova,Darkul Kuyukova,Soviet actor (1919-1997),Q813,Q16965934
+Q15697283,Q6581072,1919-10-29T00:00:00Z,7,Darkul Kuyukova,Darkul Kuyukova,Soviet actor (1919-1997),Q813,Q16965934
+Q15697283,Q6581072,1919-05-15T00:00:00Z,7,Darkul Kuyukova,Darkul Kuyukova,Soviet actor (1919-1997),Q15180,Q16965934
+Q15732364,Q6581072,1966-10-19T00:00:00Z,2,Erkingul Imankozhoeva,Erkingul Imankozhoeva,Kyrgyz environmental activist and politician,Q813,
+Q15817041,Q6581097,1994-10-16T00:00:00Z,7,Evgeniy Timofeev,Evgeniy Timofeev,Kyrgyzstani alpine skier,Q813,Q9361
+Q1584976,Q6581097,1962-09-27T00:00:00Z,15,Kamchybek Tashiev,Kamchybek Tashiev,Kyrgyz politician,Q15180,Q25529273
+Q1584976,Q6581097,1962-09-27T00:00:00Z,15,Kamchybek Tashiev,Kamchybek Tashiev,Kyrgyz politician,Q813,Q25529273
+Q16146277,Q6581097,1975-05-19T00:00:00Z,1,Konstantin Andriushin,Konstantin Andriushin,Kyrgyz swimmer,Q813,Q9361
+Q16149317,Q6581097,1977-07-05T00:00:00Z,3,Sergey Ashihmin,Sergey Ashihmin,Kyrgyz swimmer,Q813,
+Q16168374,Q6581097,1974-03-19T00:00:00Z,3,Maksat Boburbekov,Maksat Boburbekow,Kyrgyzstani wrestler,Q813,
+Q16205893,Q6581097,1986-09-20T00:00:00Z,3,Semen Danilov,Semen Danilov,Kyrgyzstani swimmer,Q813,Q9361
+Q16208999,Q6581097,1970-04-11T00:00:00Z,2,Nikolay Davydov,Nikolay Davydov,Kyrgyz athletics competitor (born 1970),Q813,
+Q16208999,Q6581097,1970-04-11T00:00:00Z,2,Nikolay Davydov,Nikolay Davydov,Kyrgyz athletics competitor (born 1970),Q159,
+Q16213102,Q6581097,1994-09-05T00:00:00Z,1,Tenirberdi Suiunbaev,Tenirberdi Suiunbaev,middle-distance runner,Q813,
+Q16214191,Q6581097,1972-04-13T00:00:00Z,2,Mital Sharipov,Mital Sharipov,Kyrgyzstani weightlifter,Q813,Q9361
+Q16214238,Q6581097,1972-11-11T00:00:00Z,3,Alexander Tkachev (swimmer),Alexander Tkachev,Russian-born Kyrgyzstani swimmer,Q813,
+Q16214570,Q6581097,1973-02-11T00:00:00Z,1,Konstantin Priahin,Konstantin Priahin,Kyrgyzstani swimmer,Q813,
+Q16216084,Q6581097,1976-02-02T00:00:00Z,3,Aleksandr Shilin,Aleksandr Shilin,Kyrgyzstani swimmer,Q813,Q656
+Q16216184,Q6581097,1976-06-16T00:00:00Z,2,Aleksandr Yegorov (swimmer),Aleksandr Yegorov,Kyrgyzstani swimmer,Q813,Q9361
+Q16216633,Q6581097,1977-09-09T00:00:00Z,2,Dmitri Kuzmin,Dmitri Kuzmin,Russian-born Kyrgyzstani swimmer,Q813,
+Q16217535,Q6581097,1978-01-03T00:00:00Z,2,Andrei Pakin,Andrei Pakin,Kyrgyzstani swimmer,Q813,Q9361
+Q16218548,Q6581097,1979-04-27T00:00:00Z,3,Ivan Ivanov (swimmer),Ivan Ivanov,Kyrgyzstani swimmer,Q813,Q9361
+Q16218672,Q6581072,1979-02-04T00:00:00Z,1,Olga Moltchanova,Olga Moltchanova,Russian-born Kyrgyz swimmer,Q813,
+Q16221003,Q6581072,1980-05-11T00:00:00Z,1,Nataliya Korabelnikova,Nataliya Korabelnikova,Kyrgyzstani swimmer,Q813,
+Q16221186,Q6581072,1980-03-19T00:00:00Z,1,Anjelika Solovieva,Anjelika Solovieva,Kyrgyzstani swimmer,Q813,
+Q16221645,Q6581072,1981-05-09T00:00:00Z,2,Yekaterina Tochenaya,Yekaterina Tochenaya,Kyrgyzstani swimmer,Q813,Q914
+Q16221845,Q6581072,1982-07-06T00:00:00Z,1,Anna Korshikova,Anna Korshikova,Kyrgyzstani swimmer,Q813,Q9361
+Q16222146,Q6581072,1982-01-18T00:00:00Z,1,Alexandra Zertsalova,Alexandra Zertsalova,Kyrgyzstani swimmer,Q813,Q9361
+Q16223218,Q6581097,1984-01-27T00:00:00Z,3,Anton Kramarenko,Anton Kramarenko,Kyrgyzstani swimmer,Q813,Q9361
+Q16227542,Q6581097,1989-10-04T00:00:00Z,3,Ruslan Ismailov (swimmer),Ruslan Ismailov,Kyrgyzstani swimmer,Q813,Q9361
+Q16234584,Q6581097,1992-08-12T00:00:00Z,2,Aznaur Geryugov,Aznaur Geryugov,Russian footballer,Q159,Q1026291
+Q16234584,Q6581097,1992-08-12T00:00:00Z,2,Aznaur Geryugov,Aznaur Geryugov,Russian footballer,Q813,Q1026291
+Q16335449,Q6581072,1920-06-15T00:00:00Z,7,Kuluypa Konduchalova,Kuluypa Konduchalova,Kyrgyz-Soviet politician,Q130276,Q670790
+Q16335449,Q6581072,1920-06-15T00:00:00Z,7,Kuluypa Konduchalova,Kuluypa Konduchalova,Kyrgyz-Soviet politician,Q15180,Q670790
+Q16335449,Q6581072,1920-06-15T00:00:00Z,7,Kuluypa Konduchalova,Kuluypa Konduchalova,Kyrgyz-Soviet politician,Q813,Q670790
+Q1651083,Q6581072,1941-03-21T00:00:00Z,4,Vera Korsakova (hurdler),Vera Korsakova,kyrgyzstani hurdler,Q15180,Q487689
+Q1651083,Q6581072,1941-03-21T00:00:00Z,4,Vera Korsakova (hurdler),Vera Korsakova,kyrgyzstani hurdler,Q813,Q487689
+Q16526848,Q6581097,1986-03-19T00:00:00Z,12,Aiaal Lazarev,Aiaal Lazarev,Russian amateur wrestler,Q813,Q6605
+Q16526848,Q6581097,1986-03-19T00:00:00Z,12,Aiaal Lazarev,Aiaal Lazarev,Russian amateur wrestler,Q159,Q6605
+Q16530870,Q6581097,1973-03-16T00:00:00Z,3,Almaz Askarov (wrestler),Ałmaz Askarow,Kyrgyzstani wrestler,Q813,
+Q16542646,Q6581097,1985-08-05T00:00:00Z,7,Janarbek Kenjeev,Janarbek Kenjeev,Olympic wrestler,Q813,Q643955
+Q16563958,Q6581097,1968-06-15T00:00:00Z,3,Yury Mildzihov,Yury Mildzihov,Olympic wrestler,Q15180,Q5239
+Q16563958,Q6581097,1968-06-15T00:00:00Z,3,Yury Mildzihov,Yury Mildzihov,Olympic wrestler,Q813,Q5239
+Q16565280,Q6581097,1989-10-08T00:00:00Z,6,Kanybek Zholchubekov,Kanybek Zholchubekov,Kyrgyzstani Greco-Roman wrestler,Q813,Q12827367
+Q16580485,Q6581097,1973-11-27T00:00:00Z,5,Murat Jumakeyev,Murat Jumakeyev,Kyrgyzstani football manager,Q15180,Q813
+Q16580485,Q6581097,1973-11-27T00:00:00Z,5,Murat Jumakeyev,Murat Jumakeyev,Kyrgyzstani football manager,Q813,Q813
+Q16583162,Q6581097,1974-07-31T00:00:00Z,3,Nurdin Donbaev,Nurdin Döngbajew,Kyrgyzstani wrestler,Q813,
+Q16612927,Q6581097,1980-12-20T00:00:00Z,4,Uran Kalilov,Uran Kalilov,Olympic wrestler,Q813,Q643955
+Q16613121,Q6581097,1981-01-05T00:00:00Z,4,Ulan Nadyrbek Uulu,Ulan Nadyrbek Uulu,Olympic wrestler,Q813,Q9361
+Q16690399,Q6581097,1994-09-16T00:00:00Z,16,Akhlidin Israilov,Akhlidin Israilov,Kyrgyz association football player,Q813,Q1023290
+Q16703019,Q6581072,1930-01-01T00:00:00Z,3,Kulsara Sulaymanova,Kulsara Sulaymanova,Kyrgyz politician,Q813,Q878861
+Q16703019,Q6581072,1930-01-01T00:00:00Z,3,Kulsara Sulaymanova,Kulsara Sulaymanova,Kyrgyz politician,Q15180,Q878861
+Q16708940,Q6581097,1973-01-02T00:00:00Z,3,Stanislav Tyulenev,Stanislav Tyulenev,Soviet association football player,Q212,Q9361
+Q16708940,Q6581097,1973-01-02T00:00:00Z,3,Stanislav Tyulenev,Stanislav Tyulenev,Soviet association football player,Q15180,Q9361
+Q16708940,Q6581097,1973-01-02T00:00:00Z,3,Stanislav Tyulenev,Stanislav Tyulenev,Soviet association football player,Q813,Q9361
+Q1672646,Q6581072,1961-04-30T00:00:00Z,7,Irina Bogacheva (athlete),Irina Bogachova,Kyrgyzstani and Soviet marathon runner,Q15180,Q220
+Q1672646,Q6581072,1961-05-30T00:00:00Z,7,Irina Bogacheva (athlete),Irina Bogachova,Kyrgyzstani and Soviet marathon runner,Q15180,Q220
+Q1672646,Q6581072,1961-05-30T00:00:00Z,7,Irina Bogacheva (athlete),Irina Bogachova,Kyrgyzstani and Soviet marathon runner,Q813,Q220
+Q1672646,Q6581072,1961-04-30T00:00:00Z,7,Irina Bogacheva (athlete),Irina Bogachova,Kyrgyzstani and Soviet marathon runner,Q813,Q220
+Q16731124,Q6581097,1948-03-25T00:00:00Z,2,German Kuznetsov,German Kuznetsov,Vice-President of Kyrgyzstan,Q813,
+Q16731124,Q6581097,1948-03-25T00:00:00Z,2,German Kuznetsov,German Kuznetsov,Vice-President of Kyrgyzstan,Q159,
+Q16731124,Q6581097,1948-03-25T00:00:00Z,2,German Kuznetsov,German Kuznetsov,Vice-President of Kyrgyzstan,Q15180,
+Q16753247,Q6581097,1987-11-06T00:00:00Z,4,Elijah Ari,Elijah Ari,Kyrguzstani footballer,Q813,Q117
+Q16753247,Q6581097,1987-11-06T00:00:00Z,4,Elijah Ari,Elijah Ari,Kyrguzstani footballer,Q117,Q117
+Q1688707,Q6581072,1976-04-24T00:00:00Z,5,Yevgeniya Roppel,Yevgeniya Roppel,Kyrgyz biathlete,Q813,
+Q1688707,Q6581072,1976-04-24T00:00:00Z,5,Yevgeniya Roppel,Yevgeniya Roppel,Kyrgyz biathlete,Q159,
+Q16911036,Q6581097,1987-03-03T00:00:00Z,11,Daniel Tagoe,Daniel Tagoe,Kyrgyzstani footballer,Q813,Q117
+Q16911036,Q6581097,1987-03-03T00:00:00Z,11,Daniel Tagoe,Daniel Tagoe,Kyrgyzstani footballer,Q117,Q117
+Q16911036,Q6581097,1986-03-03T00:00:00Z,11,Daniel Tagoe,Daniel Tagoe,Kyrgyzstani footballer,Q117,Q117
+Q16911036,Q6581097,1986-03-03T00:00:00Z,11,Daniel Tagoe,Daniel Tagoe,Kyrgyzstani footballer,Q813,Q117
+Q17306248,Q6581072,1994-01-01T00:00:00Z,1,Zăjnagul Zharkynbaeva,Zăjnagul Zharkynbaeva,Kyrgyzstani model,Q813,Q47282
+Q17386392,Q6581097,1987-06-10T00:00:00Z,4,Almazbek Mirzaliev,Almazbek Mirzaliev,Kyrgyzstani footballer,Q813,Q47282
+Q17746498,Q6581097,1969-06-04T00:00:00Z,8,Kanybek Isakov,Kanybek Isakov,Kyrgyz politician and academic,Q813,Q8048581
+Q17746498,Q6581097,1969-06-04T00:00:00Z,8,Kanybek Isakov,Kanybek Isakov,Kyrgyz politician and academic,Q15180,Q8048581
+Q18062356,Q6581097,1947-11-08T00:00:00Z,7,Vladislav Nelyubin,Vladislav Nelyubin,cyclist,Q813,Q9361
+Q18062356,Q6581097,1947-11-08T00:00:00Z,7,Vladislav Nelyubin,Vladislav Nelyubin,cyclist,Q15180,Q9361
+Q18204915,Q6581097,1997-12-31T00:00:00Z,26,Ilzat Akhmetov,Ilzat Akhmetov,Russian association football player,Q159,Q9361
+Q18204915,Q6581097,1997-12-31T00:00:00Z,26,Ilzat Akhmetov,Ilzat Akhmetov,Russian association football player,Q813,Q9361
+Q18236558,Q6581097,1990-12-18T00:00:00Z,20,Dmitry Bivol,Dmitry Bivol,Russian boxer,Q159,Q854333
+Q18236558,Q6581097,1990-12-18T00:00:00Z,20,Dmitry Bivol,Dmitry Bivol,Russian boxer,Q813,Q854333
+Q18637327,Q6581097,1986-03-04T00:00:00Z,4,Mirlan Eshenov,Mirlan Eshenov,Kyrgyzstani football manager,Q813,Q194452
+Q18687893,Q6581097,1980-05-24T00:00:00Z,3,Erkin Ibragimov,Erkin Ibragimov,Olympic judoka,Q813,Q9361
+Q18688129,Q6581097,1973-11-27T00:00:00Z,3,Marat Jumakeyev,Marat Jumakeev,Kyrgyzstani football player and manager,Q15180,Q813
+Q18688129,Q6581097,1973-11-27T00:00:00Z,3,Marat Jumakeyev,Marat Jumakeev,Kyrgyzstani football player and manager,Q813,Q813
+Q18908095,Q6581097,2000-01-01T00:00:00Z,3,Aleksandr Shumeyko,Aleksandr Shumeyko,Soviet and Kyrgyzstani football manager,Q813,Q15180
+Q19571919,Q6581097,1990-11-18T00:00:00Z,5,Sherzod Shakirov,Sherzod Shakirov,Kyrgyzstani footballer,Q813,Q130276
+Q19594168,Q6581097,1974-05-19T00:00:00Z,2,Mirlan Mirzaliev,Mirlan Mirzaliev,Kyrgyzstani footballer,Q813,Q813
+Q19661387,Q6581072,1993-08-06T00:00:00Z,2,Svetlana Tynkova,Svetlana Tynkova,Kyrgyz footballer,Q813,Q813
+Q19910183,Q6581097,1950-09-14T00:00:00Z,4,Oleg Vladimirovich Krasilnikov,Oleg Krasilnikov,,Q813,Q2357921
+Q19917916,Q6581097,1991-10-28T00:00:00Z,11,Otar Bestaev,Otar Bestaev,judoka,Q813,Q5239
+Q19917916,Q6581097,1991-10-28T00:00:00Z,11,Otar Bestaev,Otar Bestaev,judoka,Q159,Q5239
+Q2015361,Q6581097,1935-09-11T00:00:00Z,9,Tolomush Okeyev,Tolomush Okeyev,"film director, screenwriter (1935-2001)",Q813,Q3541513
+Q2015361,Q6581097,1935-09-11T00:00:00Z,9,Tolomush Okeyev,Tolomush Okeyev,"film director, screenwriter (1935-2001)",Q15180,Q3541513
+Q20203079,Q6581097,1989-02-27T00:00:00Z,19,Vitalij Lux,Vitalij Lux,Kyrgyz association football player,Q813,Q2015760
+Q20203079,Q6581097,1989-02-27T00:00:00Z,19,Vitalij Lux,Vitalij Lux,Kyrgyz association football player,Q183,Q2015760
+Q20203081,Q6581097,1990-05-16T00:00:00Z,11,Viktor Maier,Viktor Maier,Kyrgyz footballer,Q813,Q1026291
+Q20203081,Q6581097,1990-05-16T00:00:00Z,11,Viktor Maier,Viktor Maier,Kyrgyz footballer,Q183,Q1026291
+Q20203166,Q6581097,1964-01-14T00:00:00Z,4,Igor Tkachenko (footballer),Igor Tkachenko,Russian association football player,Q159,Q9361
+Q20203166,Q6581097,1964-01-14T00:00:00Z,4,Igor Tkachenko (footballer),Igor Tkachenko,Russian association football player,Q813,Q9361
+Q20203166,Q6581097,1964-01-14T00:00:00Z,4,Igor Tkachenko (footballer),Igor Tkachenko,Russian association football player,Q15180,Q9361
+Q2040688,Q6581097,1972-05-09T00:00:00Z,6,Vitaliy Kobzar,Vitaliy Kobzar,Kyrgyzstani footballer,Q212,Q9361
+Q2040688,Q6581097,1972-05-09T00:00:00Z,6,Vitaliy Kobzar,Vitaliy Kobzar,Kyrgyzstani footballer,Q813,Q9361
+Q2040688,Q6581097,1972-05-09T00:00:00Z,6,Vitaliy Kobzar,Vitaliy Kobzar,Kyrgyzstani footballer,Q15180,Q9361
+Q20534881,Q6581097,1917-08-18T00:00:00Z,8,Zhurahon Rahmonov,Zhurahon Rahmonov,Soviet actor (1917-1977),Q813,Q47282
+Q20534881,Q6581097,1917-08-18T00:00:00Z,8,Zhurahon Rahmonov,Zhurahon Rahmonov,Soviet actor (1917-1977),Q15180,Q47282
+Q20623100,Q6581097,1971-12-02T00:00:00Z,3,Talantaaly Bakchiev,Talantaaly Bakchiev,Kyrgyz poet,Q15180,Q21159638
+Q20623100,Q6581097,1971-12-02T00:00:00Z,3,Talantaaly Bakchiev,Talantaaly Bakchiev,Kyrgyz poet,Q813,Q21159638
+Q20624017,Q6581097,1952-11-20T00:00:00Z,3,Mels Bekboev,Mels Bekboev,Russian military officer,Q15180,Q3312137
+Q20624017,Q6581097,1952-11-20T00:00:00Z,3,Mels Bekboev,Mels Bekboev,Russian military officer,Q813,Q3312137
+Q20624017,Q6581097,1952-11-20T00:00:00Z,3,Mels Bekboev,Mels Bekboev,Russian military officer,Q159,Q3312137
+Q20626393,Q6581072,1954-07-30T00:00:00Z,5,Gülzura Cumakunova,Gülzura Cumakunova,Kyrgyz linguist,Q813,Q486375
+Q20628873,Q6581097,1955-02-05T00:00:00Z,6,Askarbek Salymbekov,Askarbek Salymbekov,Kyrgyzstani mayor,Q15180,Q13169341
+Q20628873,Q6581097,1955-02-05T00:00:00Z,6,Askarbek Salymbekov,Askarbek Salymbekov,Kyrgyzstani mayor,Q813,Q13169341
+Q20629895,Q6581097,1975-12-03T00:00:00Z,6,Nurbek Egen,Nurbek Egen,Kyrgyz and Russian film and TV director and screenwriter,Q159,Q47282
+Q20629895,Q6581097,1975-12-03T00:00:00Z,6,Nurbek Egen,Nurbek Egen,Kyrgyz and Russian film and TV director and screenwriter,Q813,Q47282
+Q2071932,Q6581097,1959-03-28T00:00:00Z,9,Tyntchtykbek Tchoroev,Tyntchtykbek Tchoroev,Kyrgyzstani writer and historian,Q813,Q4334785
+Q2071932,Q6581097,1959-03-28T00:00:00Z,9,Tyntchtykbek Tchoroev,Tyntchtykbek Tchoroev,Kyrgyzstani writer and historian,Q813,Q5986344
+Q2071932,Q6581097,1959-03-28T00:00:00Z,9,Tyntchtykbek Tchoroev,Tyntchtykbek Tchoroev,Kyrgyzstani writer and historian,Q15180,Q4334785
+Q2071932,Q6581097,1959-03-28T00:00:00Z,9,Tyntchtykbek Tchoroev,Tyntchtykbek Tchoroev,Kyrgyzstani writer and historian,Q15180,Q5986344
+Q2073899,Q6581097,1990-03-29T00:00:00Z,24,Mirlan Murzayev,Mirlan Murzaev,Kyrgyzstani footballer,Q813,Q2224040
+Q20745026,Q6581072,1995-05-06T00:00:00Z,13,Darya Maslova,Darya Maslova,Kyrgyzstani long-distance runner,Q813,Q1191779
+Q20754555,Q6581072,1972-01-01T00:00:00Z,3,Elnura Osmonalieva,Elnura Osmonalieva,"Kyrgyz film director, film producer and screenwriter",Q813,Q47282
+Q2082639,Q6581097,1941-01-12T00:00:00Z,15,Bolotbek Shamshiyev,Bolotbek Shamshiyev,Soviet film director (1941–2019),Q813,Q9361
+Q2082639,Q6581097,1941-01-12T00:00:00Z,15,Bolotbek Shamshiyev,Bolotbek Shamshiyev,Soviet film director (1941–2019),Q15180,Q9361
+Q20891936,Q6581072,1941-05-30T00:00:00Z,4,Rakhat Achylova,Rahat Achylova,Kyrgyz sociologist,Q813,Q12822895
+Q20891936,Q6581072,1941-05-30T00:00:00Z,4,Rakhat Achylova,Rahat Achylova,Kyrgyz sociologist,Q15180,Q12822895
+Q20979688,Q6581097,1971-12-09T00:00:00Z,2,Aleksandr Babchenko,Aleksandr Babchenko,kyrgyzstani sport shooter,Q813,Q9361
+Q21097018,Q6581097,1948-10-15T00:00:00Z,4,Zholbors Zhorobekov,Zholbors Zhorobekov,Soviet journalist,Q813,Q231987
+Q21097018,Q6581097,1948-10-15T00:00:00Z,4,Zholbors Zhorobekov,Zholbors Zhorobekov,Soviet journalist,Q15180,Q231987
+Q21144397,Q6581097,1960-10-15T00:00:00Z,9,Chynybay Tursunbekov,Chynybai Tursunbekov,Kyrgyz politician,Q15180,Q6148384
+Q21144397,Q6581097,1960-10-15T00:00:00Z,9,Chynybay Tursunbekov,Chynybai Tursunbekov,Kyrgyz politician,Q813,Q6148384
+Q21181072,Q6581097,1995-06-03T00:00:00Z,10,Bakhtiyar Duyshobekov,Bakhtiyar Duyshobekov,Kyrgyz association football player,Q813,Q813
+Q21285405,Q6581097,1987-03-26T00:00:00Z,5,Pavel Sidorenko,Pavel Sidorenko,Kyrgyz association football player,Q813,Q9361
+Q2154958,Q6581097,1989-07-19T00:00:00Z,9,Chingiz Mamedov,Chingiz Mamedov,Kyrgyzstani judoka,Q813,Q9361
+Q21621733,Q6581097,1994-07-01T00:00:00Z,12,Tamirlan Kozubayev,Tamirlan Kozubaev,Kyrgyz association football player,Q813,Q9361
+Q21622153,Q6581097,1994-01-03T00:00:00Z,9,Farkhat Musabekov,Farhat Musabekov,association football player,Q813,Q9361
+Q21623386,Q6581097,1993-06-13T00:00:00Z,15,Kayrat Zhyrgalbek uulu,Kairat Zhyrgalbek Uulu,association football player,Q813,Q9361
+Q21791432,Q6581072,1985-01-19T00:00:00Z,10,Jiidesh Idirisova,Jiidesh Idirisova,Kyrgyz singer,Q813,Q311946
+Q21857042,Q6581097,1992-04-05T00:00:00Z,4,Abror Kydyraliyev,Abror Kydyraliev,Kyrgyzstani association football player,Q813,Q4249062
+Q22278534,Q6581097,1991-01-01T00:00:00Z,7,Dastan Kasmamytov,Dastan Kasmamytov,activist from Kyrgyzstan,Q813,Q9361
+Q2230840,Q6581097,1957-04-16T00:00:00Z,9,Shamil Abbyasov,Shamil Abbyasov,Kyrgyzstani long and triple jumper,Q15180,Q4068406
+Q2230840,Q6581097,1957-04-16T00:00:00Z,9,Shamil Abbyasov,Shamil Abbyasov,Kyrgyzstani long and triple jumper,Q813,Q4068406
+Q22443148,Q6581097,1995-11-06T00:00:00Z,9,Atabek Azisbekov,Atabek Azisbekov,Kyrgyz amateur wrestler,Q813,Q12829356
+Q2260540,Q6581097,1992-08-27T00:00:00Z,10,Iurii Krakovetskii,Iurii Krakovetskii,Kyrgyzstani judoka,Q813,Q9361
+Q22994189,Q6581072,1989-06-29T00:00:00Z,5,Viktoriia Poliudina,Viktoriia Poliudina,Kyrgyzstani female distance runner,Q813,Q194452
+Q23679544,Q6581097,1996-04-12T00:00:00Z,15,Uzur Dzhuzupbekov,Uzur Dzhuzupbekov,Kyrgyz amateur wrestler,Q813,Q9361
+Q23679669,Q6581097,1996-02-09T00:00:00Z,6,Ulukbek Zholdoshbekov,Ulukbek Zholdoshbekov,Kyrgyz amateur wrestler,Q813,Q311946
+Q23685107,Q6581072,1958-06-23T00:00:00Z,7,Raisa Atambayeva,Raisa Atambayeva,former First Lady of Kyrgyzstan,Q15180,Q1140829
+Q23685107,Q6581072,1958-06-23T00:00:00Z,7,Raisa Atambayeva,Raisa Atambayeva,former First Lady of Kyrgyzstan,Q813,Q1140829
+Q23768206,Q6581097,1979-03-04T00:00:00Z,6,Ivan Borisov (alpine skier),Ivan Borisov,Kyrgyzstani alpine skier,Q813,Q9361
+Q23810819,Q6581097,1958-11-16T00:00:00Z,57,Sooronbay Jeenbekov,Sooronbay Jeenbekov,president of Kyrgyzstan from 2017 to 2020,Q15180,Q3541451
+Q23810819,Q6581097,1958-11-16T00:00:00Z,57,Sooronbay Jeenbekov,Sooronbay Jeenbekov,president of Kyrgyzstan from 2017 to 2020,Q813,Q3541451
+Q23948090,Q6581072,1991-04-11T00:00:00Z,7,Samara Karimova,Samara Karimova,Kyrgyz singer,Q813,Q17024425
+Q23948090,Q6581072,1991-04-11T00:00:00Z,7,Samara Karimova,Samara Karimova,Kyrgyz singer,Q15180,Q17024425
+Q24251116,Q6581097,1975-08-29T00:00:00Z,3,Vladislav Chernobay,Vladislav Chernobay,kyrgyzstani sprinter,Q813,
+Q24452207,Q6581097,1993-09-08T00:00:00Z,14,Izzat Artykov,Izzat Artykov,Kyrgyz weightlifter,Q813,Q1647779
+Q24480,Q6581097,1960-04-04T00:00:00Z,20,Azim Isabekov,Azim Isabekov,Prime Minister of Kyrgyzstan,Q813,Q12818392
+Q24508,Q6581097,1956-04-26T00:00:00Z,9,Kubanychbek Jumaliyev,Kubanychbek Jumaliyev,former Prime Minister of Kyrgyzstan,Q813,Q401943
+Q24565,Q6581097,1956-01-06T00:00:00Z,21,Zhantoro Satybaldiyev,Zhantoro Satybaldiyev,Kyrgyz politician,Q813,Q6874792
+Q24575,Q6581097,1960-03-09T00:00:00Z,19,Daniar Usenov,Daniar Usenov,Kyrgyz banker and politician,Q813,Q9361
+Q24575,Q6581097,1960-03-09T00:00:00Z,19,Daniar Usenov,Daniar Usenov,Kyrgyz banker and politician,Q184,Q9361
+Q24579,Q6581097,1970-05-20T00:00:00Z,22,Ömürbek Babanov,Omurbek Babanov,Kyrgyz politician,Q813,Q15941242
+Q24653,Q6581097,1934-09-19T00:00:00Z,14,Apas Jumagulov,Apas Jumagulov,former Prime Minister of Kyrgyzstan,Q813,Q12818392
+Q24653,Q6581097,1934-09-19T00:00:00Z,14,Apas Jumagulov,Apas Jumagulov,former Prime Minister of Kyrgyzstan,Q15180,Q12818392
+Q24666,Q6581097,1944-01-01T00:00:00Z,13,Jumabek Ibraimov,Jumabek Ibraimov,Kyrgyz politician (1944-1999),Q813,Q2907806
+Q24669,Q6581097,1949-07-16T00:00:00Z,19,Ishenbai Kadyrbekov,Ishenbai Kadyrbekov,Kyrgyzstan politician,Q813,Q311946
+Q24669,Q6581097,1949-07-16T00:00:00Z,19,Ishenbai Kadyrbekov,Ishenbai Kadyrbekov,Kyrgyzstan politician,Q15180,Q311946
+Q24671,Q6581097,1945-11-05T00:00:00Z,23,Nikolai Tanayev,Nikolai Tanayev,Prime Minister of Kyrgyzstan (1945-2020),Q15180,Q18790557
+Q24671,Q6581097,1945-11-05T00:00:00Z,23,Nikolai Tanayev,Nikolai Tanayev,Prime Minister of Kyrgyzstan (1945-2020),Q813,Q18790557
+Q24678,Q6581097,1947-08-07T00:00:00Z,11,Amangeldy Muraliyev,Amangeldy Muraliyev,Kyrgyz politician,Q813,Q12830707
+Q24692,Q6581097,1956-09-17T00:00:00Z,75,Almazbek Atambayev,Almazbek Atambaev,4th President of the Republic of Kyrgyzstan,Q15180,Q12818392
+Q24692,Q6581097,1956-09-17T00:00:00Z,75,Almazbek Atambayev,Almazbek Atambaev,4th President of the Republic of Kyrgyzstan,Q813,Q12818392
+Q24693,Q6581097,1942-10-15T00:00:00Z,12,Tursunbek Chyngyshev,Tursunbek Chyngyshev,"Kyrgyz politician; Prime Minister of Kyrgyzstan, 1992-1993",Q15180,Q486375
+Q24693,Q6581097,1942-10-15T00:00:00Z,12,Tursunbek Chyngyshev,Tursunbek Chyngyshev,"Kyrgyz politician; Prime Minister of Kyrgyzstan, 1992-1993",Q813,Q486375
+Q2471144,Q6581097,1973-06-24T00:00:00Z,8,Oleksandr Aharin,Oleksandr Agarin,footballer,Q212,Q2015760
+Q2471144,Q6581097,1973-06-24T00:00:00Z,8,Oleksandr Aharin,Oleksandr Agarin,footballer,Q15180,Q2015760
+Q2471144,Q6581097,1973-06-24T00:00:00Z,8,Oleksandr Aharin,Oleksandr Agarin,footballer,Q813,Q2015760
+Q25386837,Q6581097,1986-12-13T00:00:00Z,6,Janarbek Akayev,Janarbek Akayev,politician,Q813,Q12830642
+Q25580922,Q6581072,1929-02-27T00:00:00Z,4,Erkin Mademilova,Erkin Mademilova,Kyrgyz ballet dancer (1929–2018),Q15180,Q9361
+Q25580922,Q6581072,1929-02-27T00:00:00Z,4,Erkin Mademilova,Erkin Mademilova,Kyrgyz ballet dancer (1929–2018),Q813,Q9361
+Q25581837,Q6581097,1939-12-16T00:00:00Z,3,Mitalip Mamytov,Mitalip Mamytovich Mamytov,Kyrgyz neurosurgeon,Q813,Q3113244
+Q25581837,Q6581097,1939-12-16T00:00:00Z,3,Mitalip Mamytov,Mitalip Mamytovich Mamytov,Kyrgyz neurosurgeon,Q15180,Q3113244
+Q25582329,Q6581097,1974-09-04T00:00:00Z,3,Yevgeny Petrashov,Yevgeny Petrashov,Kyrgyzstani swimmer,Q813,Q9361
+Q25583440,Q6581097,1930-11-20T00:00:00Z,5,Saybattal Mursalimov,Saybattal Mursalimov,kyrgyzstani equestrian (1930-2014),Q15180,Q9361
+Q25583440,Q6581097,1930-11-20T00:00:00Z,5,Saybattal Mursalimov,Saybattal Mursalimov,kyrgyzstani equestrian (1930-2014),Q813,Q9361
+Q25597804,Q6581072,1935-03-09T00:00:00Z,3,Subayilda Abdykadyrova,Subayilda Abdykadyrova,Kyrgyz writer,Q813,Q12831126
+Q25597804,Q6581072,1935-03-09T00:00:00Z,3,Subayilda Abdykadyrova,Subayilda Abdykadyrova,Kyrgyz writer,Q15180,Q12831126
+Q25597822,Q6581097,1953-08-17T00:00:00Z,6,Myktybek Abdyldayev,Myktybek Abdyldaev,Kyrgyz politician,Q813,Q12830670
+Q25597824,Q6581097,1970-10-01T00:00:00Z,2,Azamat Arapbayev,Azamat Arapbayev,politician,Q813,Q487689
+Q25597826,Q6581097,1968-12-06T00:00:00Z,61,Sadyr Japarov,Sadyr Japarov,Kyrgyz politician and the president of Kyrgyzstan,Q813,Q6391557
+Q25597827,Q6581072,1969-08-19T00:00:00Z,12,Cholpon Sultanbekova,Cholpon Sultanbekova,politician,Q813,Q9361
+Q25597831,Q6581097,1976-03-14T00:00:00Z,21,Talant Mamytov,Talant Mamytov,Kyrgyz politician,Q813,Q1355846
+Q25597842,Q6581097,1976-11-02T00:00:00Z,5,Dastan Jumabekov,Dastan Jumabekov,Kyrgyz politician,Q15180,Q15942739
+Q25597842,Q6581097,1976-11-02T00:00:00Z,5,Dastan Jumabekov,Dastan Jumabekov,Kyrgyz politician,Q813,Q15942739
+Q25601698,Q6581072,1937-12-30T00:00:00Z,4,Gulsaira Momunova,Gulsaira Momunova,Soviet and Kyrgyz poet,Q813,Q12824691
+Q25601698,Q6581072,1937-12-30T00:00:00Z,4,Gulsaira Momunova,Gulsaira Momunova,Soviet and Kyrgyz poet,Q813,Q793902
+Q25601698,Q6581072,1937-12-30T00:00:00Z,4,Gulsaira Momunova,Gulsaira Momunova,Soviet and Kyrgyz poet,Q15180,Q12824691
+Q25601698,Q6581072,1937-12-30T00:00:00Z,4,Gulsaira Momunova,Gulsaira Momunova,Soviet and Kyrgyz poet,Q15180,Q793902
+Q2562313,Q6581097,1950-07-10T00:00:00Z,9,Ismail Isakov,Ismail Isakov,Kyrgyzstani general,Q813,Q7563213
+Q2562313,Q6581097,1950-06-11T00:00:00Z,9,Ismail Isakov,Ismail Isakov,Kyrgyzstani general,Q813,Q7563213
+Q25643265,Q6581072,1988-03-28T00:00:00Z,10,Sardana Trofimova,Sardana Trofimova,Russian long-distance runner,Q15180,Q6610
+Q25643265,Q6581072,1988-03-28T00:00:00Z,10,Sardana Trofimova,Sardana Trofimova,Russian long-distance runner,Q813,Q6610
+Q25643265,Q6581072,1988-03-28T00:00:00Z,10,Sardana Trofimova,Sardana Trofimova,Russian long-distance runner,Q159,Q6610
+Q2565608,Q6581097,1976-12-01T00:00:00Z,20,Aidyn Smagulov,Aidyn Smagulov,Kyrgyz and Kazakh judoka,Q813,Q162548
+Q26132061,Q6581072,1993-11-15T00:00:00Z,4,Zhanyl Okoeva,Zhanyl Okoeva,kyrgyzstani weightlifter,Q813,Q9361
+Q26251849,Q6581097,2000-02-01T00:00:00Z,14,Denis Petrashov,Denis Petrashov,Kyrgyzstani swimmer,Q813,Q9361
+Q26268099,Q6581072,1989-06-02T00:00:00Z,8,Mariya Korobitskaya,Mariya Korobitskaya,Kyrgyz athletics competitor,Q813,Q9361
+Q26268099,Q6581072,1990-05-10T00:00:00Z,8,Mariya Korobitskaya,Mariya Korobitskaya,Kyrgyz athletics competitor,Q813,Q9361
+Q2637574,Q6581097,1943-11-07T00:00:00Z,13,Nasirdin Isanov,Nasirdin Isanov,Prime Minister of Kyrgyzstan (1943-1991),Q15180,Q2556763
+Q2637574,Q6581097,1943-11-07T00:00:00Z,13,Nasirdin Isanov,Nasirdin Isanov,Prime Minister of Kyrgyzstan (1943-1991),Q813,Q2556763
+Q26472810,Q6581097,1991-02-14T00:00:00Z,7,Erkin Adylbek Uulu,Erkin Adylbek Uulu,boxer,Q813,Q683441
+Q26837240,Q6581097,1991-08-02T00:00:00Z,5,Ilya Tyapkin,Ilya Tyapkin,Kyrgyz athletics competitor,Q813,Q183093
+Q27473648,Q6581097,1990-08-20T00:00:00Z,2,Ilyaz Alimov,Ilyaz Alimov,association football player,Q813,Q2347569
+Q27473648,Q6581097,1990-08-24T00:00:00Z,2,Ilyaz Alimov,Ilyaz Alimov,association football player,Q813,Q2347569
+Q27486042,Q6581097,1990-07-21T00:00:00Z,7,Murat Ramonov,Murat Ramonov,Kyrgyz amateur wrestler,Q813,Q9361
+Q27522412,Q6581097,1988-06-01T00:00:00Z,1,Asyl Abdyjapar,Asyl Abdyjapar,Kyrgyz chess player,Q813,
+Q27522412,Q6581097,1988-06-01T00:00:00Z,1,Asyl Abdyjapar,Asyl Abdyjapar,Kyrgyz chess player,Q15180,
+Q27527707,Q6581097,1989-03-17T00:00:00Z,3,Mikhail Markov,Mikhail Markov,Kyrgyzstani chess player,Q813,
+Q27662419,Q6581072,1975-11-17T00:00:00Z,5,Cholpon Orozobekova,Cholpon Orozobekova,Kyrgyz journalist,Q813,Q879120
+Q27662536,Q6581097,1962-08-05T00:00:00Z,6,Sergey Li,Sergey Li,soviet weightlifter,Q813,Q9361
+Q27662536,Q6581097,1962-08-05T00:00:00Z,6,Sergey Li,Sergey Li,soviet weightlifter,Q15180,Q9361
+Q27663857,Q6581072,1971-01-26T00:00:00Z,4,Jyldyz Mambetaliyeva,Jyldyz Mambetaliyeva,politician,Q813,Q9361
+Q27663858,Q6581072,1979-03-26T00:00:00Z,4,Natalya Nikitenko,Natalya Nikitenko,politician,Q15180,Q9361
+Q27663858,Q6581072,1979-03-26T00:00:00Z,4,Natalya Nikitenko,Natalya Nikitenko,politician,Q813,Q9361
+Q27671093,Q6581097,1991-11-19T00:00:00Z,2,Vladimir Kazakbaev,Vladimir Kazakbaev,association football player,Q813,Q813
+Q27734273,Q6581072,1959-08-03T00:00:00Z,2,Gulbara Kalieva,Gulbara Kalieva,Kyrgyzstani lawyer,Q813,
+Q27734273,Q6581072,1959-08-03T00:00:00Z,2,Gulbara Kalieva,Gulbara Kalieva,Kyrgyzstani lawyer,Q15180,
+Q27829576,Q6581097,1997-01-02T00:00:00Z,4,Viktor Kelm,Viktor Kelm,association football player,Q813,Q9361
+Q27830865,Q6581097,1991-07-16T00:00:00Z,8,Ruslan Tsarev,Ruslan Tsarev,Kyrgyz amateur wrestler,Q813,Q486545
+Q27909543,Q6581097,1964-01-01T00:00:00Z,1,Yuri Lomov,Yuri Lomov,kyrgyzstani sport shooter,Q813,
+Q28382526,Q6581097,1994-09-09T00:00:00Z,4,Bektur Talgat Uulu,Bektur Talgat Uulu,association football player,Q813,Q813
+Q28465182,Q6581097,1995-08-06T00:00:00Z,2,Amanbek Manybekov,Amanbek Manybekov,association football player,Q813,Q813
+Q28465182,Q6581097,1995-08-05T00:00:00Z,2,Amanbek Manybekov,Amanbek Manybekov,association football player,Q813,Q813
+Q2880365,Q6581097,1954-01-01T00:00:00Z,4,Bakyt Beshimov,Bakyt Beshimov,Kyrgyzstani politician and opposition leader,Q813,Q9361
+Q28873,Q6581097,1974-04-18T00:00:00Z,12,Eugen Wacker,Eugen Wacker,cyclist,Q15180,Q9361
+Q28873,Q6581097,1974-04-18T00:00:00Z,12,Eugen Wacker,Eugen Wacker,cyclist,Q813,Q9361
+Q28939716,Q6581097,1992-01-05T00:00:00Z,6,Murolimzhon Akhmedov,Murolimzhon Akhmedov,"Football player, attacking midfielder of the national team of Kyrgyzstan",Q813,Q20987039
+Q28967802,Q6581097,1996-03-18T00:00:00Z,10,Odilzhon Abdurakhmanov,Odiljon Abdurakhmanov,association football player,Q813,Q2347569
+Q28976211,Q6581072,1992-01-08T00:00:00Z,5,Dinara Zhorobekova,Dinara Zhorobekova,Kyrgyzstan Student,Q813,Q2224040
+Q29359410,Q6581097,1943-10-05T00:00:00Z,4,Abdukhalim Raimjanov,Abdukhalim Raimjanov,Kyrgyz scientist,Q15180,Q20987039
+Q29359410,Q6581097,1943-10-05T00:00:00Z,4,Abdukhalim Raimjanov,Abdukhalim Raimjanov,Kyrgyz scientist,Q813,Q20987039
+Q297568,Q6581097,1958-12-22T00:00:00Z,16,Omurbek Tekebayev,Omurbek Tekebayev,Kyrgyzstani politician,Q813,Q487689
+Q29865128,Q6581097,1977-07-29T00:00:00Z,23,Sapar Isakov,Sapar Isakov,Kyrgyz politician,Q813,Q9361
+Q30077653,Q6581097,1965-04-05T00:00:00Z,5,Vadim Sergeyev,Vadim Sergeyev,Kyrgyz judoka,Q813,
+Q30093210,Q6581097,1979-06-30T00:00:00Z,2,Valery Pisarev,Valery Pisarev,Kyrgyzstani athlete,Q813,
+Q30098991,Q6581097,1993-04-08T00:00:00Z,5,Vladimir Zoloev,Vladimir Zoloev,Kyrgyz judoka (1993-),Q813,
+Q30230932,Q6581097,1995-06-11T00:00:00Z,6,Muslim Evloev,Muslim Jewłojew,Kyrgyz amateur wrestler (1995-2020),Q159,Q157955
+Q30230932,Q6581097,1995-06-11T00:00:00Z,6,Muslim Evloev,Muslim Jewłojew,Kyrgyz amateur wrestler (1995-2020),Q813,Q157955
+Q30231185,Q6581097,1996-11-07T00:00:00Z,8,Alibek Osmonov,Alibek Osmonov,Kyrgyz amateur wrestler,Q813,Q643955
+Q30231219,Q6581072,1999-03-30T00:00:00Z,14,Aiperi Medet Kyzy,Aiperi Medet Kyzy,Kyrgyz amateur wrestler,Q813,Q17013707
+Q30892740,Q6581072,1918-10-15T00:00:00Z,8,Kakish Ryskulova,Kakish Ryskulova,Russian surgeon (1918-2018),Q2305208,Q12566173
+Q30892740,Q6581072,1918-10-15T00:00:00Z,8,Kakish Ryskulova,Kakish Ryskulova,Russian surgeon (1918-2018),Q15180,Q12566173
+Q30892740,Q6581072,1918-10-15T00:00:00Z,8,Kakish Ryskulova,Kakish Ryskulova,Russian surgeon (1918-2018),Q813,Q12566173
+Q3131624,Q6581072,1981-01-02T00:00:00Z,11,Tatyana Efimenko,Tatyana Efimenko,Kyrgyzstani high jumper,Q813,Q9361
+Q3143433,Q6581097,1983-01-08T00:00:00Z,4,Khurshit Lutfullayev,Hurshil Lutfullaev,Kyrgyzstani footballer,Q813,Q9361
+Q31451910,Q6581097,1950-03-29T00:00:00Z,11,Mukar Cholponbayev,Mukar Cholponbayev,Kyrgyz politician (1950-2020),Q813,Q20629740
+Q3147341,Q6581072,1989-09-06T00:00:00Z,9,Yana Shcherban,Yana Shcherban,Kyrgyz volleyball player,Q813,Q9361
+Q317684,Q6581097,1984-02-14T00:00:00Z,21,Kanatbek Begaliev,Kanatbek Begaliev,Olympic wrestler,Q813,Q17013713
+Q3298692,Q6581097,1976-12-10T00:00:00Z,8,Vyacheslav Amin,Vyacheslav Amin,Kyrgyzstani footballer,Q813,Q15180
+Q33396357,Q6581097,1962-06-01T00:00:00Z,9,Abibilla Kudayberdiev,Abibilla Kudayberdiev,Kyrgyz politician,Q813,Q231987
+Q3428746,Q6581097,1982-02-07T00:00:00Z,6,Asylbek Talasbayev,Asylbek Talasbayev,Kyrgyzstani boxer,Q813,Q1026291
+Q3432844,Q6581097,1983-11-14T00:00:00Z,9,Dmitry Trelevski,Dmitry Trelevski,Kyrgyzstani alpine skier,Q813,Q9361
+Q346446,Q6581097,1965-03-09T00:00:00Z,11,Adakhan Madumarov,Adakhan Madumarov,Kyrgyz politician,Q813,Q231987
+Q346446,Q6581097,1965-03-09T00:00:00Z,11,Adakhan Madumarov,Adakhan Madumarov,Kyrgyz politician,Q813,Q4249062
+Q346446,Q6581097,1965-03-09T00:00:00Z,11,Adakhan Madumarov,Adakhan Madumarov,Kyrgyz politician,Q15180,Q231987
+Q346446,Q6581097,1965-03-09T00:00:00Z,11,Adakhan Madumarov,Adakhan Madumarov,Kyrgyz politician,Q15180,Q4249062
+Q3558114,Q6581097,1955-11-13T00:00:00Z,8,Iskenderbek Aidaraliyev,Iskenderbek Aidaraliyev,Kyrgyz politician,Q813,Q1570028
+Q3558114,Q6581097,1955-11-13T00:00:00Z,8,Iskenderbek Aidaraliyev,Iskenderbek Aidaraliyev,Kyrgyz politician,Q813,Q2573212
+Q3558114,Q6581097,1955-11-13T00:00:00Z,8,Iskenderbek Aidaraliyev,Iskenderbek Aidaraliyev,Kyrgyz politician,Q15180,Q1570028
+Q3558114,Q6581097,1955-11-13T00:00:00Z,8,Iskenderbek Aidaraliyev,Iskenderbek Aidaraliyev,Kyrgyz politician,Q15180,Q2573212
+Q36037,Q6581097,1935-08-24T00:00:00Z,7,Ernest Tursunov,Ernest Tursunov,poet and translator (1935–2014),Q15180,Q9361
+Q36037,Q6581097,1935-08-24T00:00:00Z,7,Ernest Tursunov,Ernest Tursunov,poet and translator (1935–2014),Q813,Q9361
+Q360566,Q6581097,1981-09-04T00:00:00Z,7,Alisher Saipov,Alisher Saipov,Kyrgyzstani journalist (1981–2007),Q813,Q130276
+Q360566,Q6581097,1981-09-04T00:00:00Z,7,Alisher Saipov,Alisher Saipov,Kyrgyzstani journalist (1981–2007),Q265,Q130276
+Q3650449,Q6581097,1955-01-01T00:00:00Z,6,Janysh Kulmambetov,Janysh Kulmambetov,Kyrgyzstani film director,Q813,Q486375
+Q3650449,Q6581097,1955-01-01T00:00:00Z,6,Janysh Kulmambetov,Janysh Kulmambetov,Kyrgyzstani film director,Q15180,Q486375
+Q366160,Q6581097,1953-01-17T00:00:00Z,4,Ednan Karabayev,Ednan Karabayev,Kyrgyzstani politician,Q813,Q643955
+Q37240984,Q6581097,1964-09-03T00:00:00Z,1,Yuri Melentiev,Yuri Melentiev,Kyrgyz sports shooter,Q813,Q9361
+Q3736573,Q6581097,1963-06-17T00:00:00Z,28,Temir Sariyev,Temir Sariyev,Kyrgyzstani politician,Q15180,Q15550014
+Q3736573,Q6581097,1963-06-17T00:00:00Z,28,Temir Sariyev,Temir Sariyev,Kyrgyzstani politician,Q813,Q15550014
+Q3744690,Q6581097,1977-08-06T00:00:00Z,5,Edil Baisalov,Edil Baisalov,Kyrgyzstani politician,Q813,Q9361
+Q375867,Q6581097,1968-06-02T00:00:00Z,29,Talant Dujshebaev,Talant Duyshebaev,Russian handball player,Q15180,Q9361
+Q375867,Q6581097,1968-06-02T00:00:00Z,29,Talant Dujshebaev,Talant Duyshebaev,Russian handball player,Q813,Q9361
+Q375867,Q6581097,1968-06-02T00:00:00Z,29,Talant Dujshebaev,Talant Duyshebaev,Russian handball player,Q29,Q9361
+Q37777535,Q6581097,1968-01-20T00:00:00Z,31,Mukhammedkalyi Abylgaziev,Muhammetkaliy Abulgaziyev,Kyrgyz politician,Q813,Q2349614
+Q37777535,Q6581097,1968-01-20T00:00:00Z,31,Mukhammedkalyi Abylgaziev,Muhammetkaliy Abulgaziyev,Kyrgyz politician,Q15180,Q2349614
+Q3835712,Q6581072,1981-04-17T00:00:00Z,3,Liudmila Sirotkina,Ljudmila Sirotkina,kyrgyzstani modern pentathlete,Q159,
+Q3835712,Q6581072,1981-04-17T00:00:00Z,3,Liudmila Sirotkina,Ljudmila Sirotkina,kyrgyzstani modern pentathlete,Q813,
+Q3835712,Q6581072,1981-04-17T00:00:00Z,3,Liudmila Sirotkina,Ljudmila Sirotkina,kyrgyzstani modern pentathlete,Q15180,
+Q38459236,Q6581097,1973-04-05T00:00:00Z,6,Bakyt Torobayev,Bakyt Torobayev,Kyrgyz politician,Q813,Q487689
+Q3910837,Q6581097,1951-05-17T00:00:00Z,19,Azimzhan Askarov,Azimzhan Askarov,Kyrgyzstani activist and journalist,Q813,Q1703230
+Q39955838,Q6581097,1972-12-11T00:00:00Z,4,Rayimberdi Duishenbiev,Rayimberdi Duishenbiev,Kyrgyzstani general,Q813,Q487689
+Q4054264,Q6581097,1929-03-18T00:00:00Z,6,Emilbek Abakirov,Emilbek Abakirov,politician,Q813,Q2679763
+Q4054264,Q6581097,1929-03-18T00:00:00Z,6,Emilbek Abakirov,Emilbek Abakirov,politician,Q15180,Q2679763
+Q4055257,Q6581072,1936-11-07T00:00:00Z,6,Mayramkan Abylkasymova,Mayramkan Abylkasymova,Soviet poet,Q813,Q4733662
+Q4055257,Q6581072,1936-11-07T00:00:00Z,6,Mayramkan Abylkasymova,Mayramkan Abylkasymova,Soviet poet,Q15180,Q4733662
+Q4059021,Q6581097,1959-01-05T00:00:00Z,5,Askar Aitmatov,Askar Aitmatov,Kırgız politician,Q15180,Q9361
+Q4059021,Q6581097,1959-01-05T00:00:00Z,5,Askar Aitmatov,Askar Aitmatov,Kırgız politician,Q813,Q9361
+Q4059278,Q6581097,1976-02-20T00:00:00Z,6,Aidar Akayev,Aidar Akayev,Kyrgyz politician,Q15180,Q656
+Q4059278,Q6581097,1976-02-20T00:00:00Z,6,Aidar Akayev,Aidar Akayev,Kyrgyz politician,Q813,Q656
+Q4059670,Q6581097,1960-07-06T00:00:00Z,3,Rysbek Akmatbayev,Rysbek Akmatbayev,"Kyrgyz businessman, politician, and criminal leader (1960–2006)",Q15180,Q1017314
+Q4059670,Q6581097,1960-07-06T00:00:00Z,3,Rysbek Akmatbayev,Rysbek Akmatbayev,"Kyrgyz businessman, politician, and criminal leader (1960–2006)",Q813,Q1017314
+Q4060344,Q6581097,1964-09-14T00:00:00Z,24,Akylbek Japarov,Akylbek Japarov,Kyrgyz head of government since 2021,Q813,Q805876
+Q4063946,Q6581072,1973-02-23T00:00:00Z,5,Roza Amanova,Roza Amanova,"Kyrgyz singer, composer, professor",Q15180,Q1647779
+Q4063946,Q6581072,1973-02-23T00:00:00Z,5,Roza Amanova,Roza Amanova,"Kyrgyz singer, composer, professor",Q813,Q1647779
+Q4065018,Q6581097,1951-11-30T00:00:00Z,3,Anvar Artykov,Anvar Artykov,politician,Q15180,Q47282
+Q4065018,Q6581097,1951-11-30T00:00:00Z,3,Anvar Artykov,Anvar Artykov,politician,Q813,Q47282
+Q4070339,Q6581097,1960-01-19T00:00:00Z,3,Osmonbek Artykbayev,Osmonbek Artykbayev,politician,Q15180,Q15409340
+Q4070339,Q6581097,1960-02-19T00:00:00Z,3,Osmonbek Artykbayev,Osmonbek Artykbayev,politician,Q813,Q15409340
+Q4070339,Q6581097,1960-02-19T00:00:00Z,3,Osmonbek Artykbayev,Osmonbek Artykbayev,politician,Q15180,Q15409340
+Q4070339,Q6581097,1960-01-19T00:00:00Z,3,Osmonbek Artykbayev,Osmonbek Artykbayev,politician,Q813,Q15409340
+Q4073117,Q6581097,1979-03-27T00:00:00Z,7,Bakhyt Akhmetov,Bakhyt Akhmetov,Olympic weightlifter,Q813,Q485496
+Q4073117,Q6581097,1979-03-27T00:00:00Z,7,Bakhyt Akhmetov,Bakhyt Akhmetov,Olympic weightlifter,Q232,Q485496
+Q4075181,Q6581097,1985-01-09T00:00:00Z,11,Bazar Bazarguruev,Bazar Bazarguruev,Kyrgyzstani wrestler,Q813,Q28514227
+Q4079603,Q6581097,1956-03-09T00:00:00Z,8,Kadyrzhan Batyrov,Qodirjon Botirov,Kyrgyzstani politician (1956-2018),Q813,Q487689
+Q4079603,Q6581097,1956-03-09T00:00:00Z,8,Kadyrzhan Batyrov,Qodirjon Botirov,Kyrgyzstani politician (1956-2018),Q15180,Q487689
+Q4119272,Q6581097,1986-01-15T00:00:00Z,6,Cholponbek Esenkul Uulu,Cholponbek Esenkul Uulu,Kyrgyzstani footballer,Q813,Q3313591
+Q41434878,Q6581097,1974-08-24T00:00:00Z,2,Yeniya Shorokhov,Yeniya Shorokhov,Kyrgyzstani athlete,Q813,
+Q4160126,Q6581097,1957-05-25T00:00:00Z,4,Alikbek Jekshenkulov,Alikbek Jekshenkulov,former Foreign Minister of Kyrgyzstan,Q813,Q879108
+Q4160126,Q6581097,1957-05-25T00:00:00Z,4,Alikbek Jekshenkulov,Alikbek Jekshenkulov,former Foreign Minister of Kyrgyzstan,Q15180,Q879108
+Q4169985,Q6581072,1988-01-28T00:00:00Z,3,Bermet Duvanaeva,Bermet Duvanaeva,Kyrgyzstani tennis player,Q813,Q9361
+Q4182022,Q6581097,1963-08-27T00:00:00Z,9,Asylbek Jeenbekov,Asylbek Jêênbekov,Kyrgyzstani politician,Q15180,Q117224
+Q4182022,Q6581097,1963-08-27T00:00:00Z,9,Asylbek Jeenbekov,Asylbek Jêênbekov,Kyrgyzstani politician,Q813,Q117224
+Q4196339,Q6581097,1980-05-30T00:00:00Z,8,"Sergei Ivanov (footballer, born 1980)",Sergei Ivanov,Kyrgyzstani footballer,Q813,Q9361
+Q4200114,Q6581097,1956-02-25T00:00:00Z,6,Muratbek Imanaliyev,Muratbek Imanaliyev,Kyrgyz politician,Q15180,Q9361
+Q4200114,Q6581097,1956-02-25T00:00:00Z,6,Muratbek Imanaliyev,Muratbek Imanaliyev,Kyrgyz politician,Q813,Q9361
+Q4201521,Q6581097,1990-06-30T00:00:00Z,5,Andrei Khripkov,Andrei Khripkov,Russian footballer,Q813,Q9361
+Q4201521,Q6581097,1990-06-30T00:00:00Z,5,Andrei Khripkov,Andrei Khripkov,Russian footballer,Q159,Q9361
+Q4214280,Q6581072,1949-07-24T00:00:00Z,13,Olga Karasyova,Olga Karasyova,Soviet gymnast,Q813,Q9361
+Q4214280,Q6581072,1949-07-24T00:00:00Z,13,Olga Karasyova,Olga Karasyova,Soviet gymnast,Q159,Q9361
+Q4214280,Q6581072,1949-07-24T00:00:00Z,13,Olga Karasyova,Olga Karasyova,Soviet gymnast,Q15180,Q9361
+Q4214522,Q6581097,1968-10-30T00:00:00Z,10,Aaly Karashev,Aaly Karashev,Kyrgyz politician and an acting Prime Minister,Q813,Q47282
+Q4216941,Q6581097,1931-01-15T00:00:00Z,7,Tologon Kasymbek,Tölögön Kasımbek,Kyrgyz author (1931-2011),Q15180,Q12829221
+Q4216941,Q6581097,1931-01-15T00:00:00Z,7,Tologon Kasymbek,Tölögön Kasımbek,Kyrgyz author (1931-2011),Q813,Q12829221
+Q421813,Q6581097,1957-03-26T00:00:00Z,14,Aktan Abdykalykov,Aktan Abdykalykov,Kyrgyz screenwriter and film director,Q813,Q813
+Q4218310,Q6581097,1984-09-14T00:00:00Z,9,Valery Kashuba,Valery Kashuba,Kyrgyzstani footballer,Q813,Q816163
+Q42281919,Q6581072,1977-01-01T00:00:00Z,6,Asel Sartbaeva,Asel Sartbaeva,researcher,Q813,Q9361
+Q42281919,Q6581072,1977-01-01T00:00:00Z,6,Asel Sartbaeva,Asel Sartbaeva,researcher,Q15180,Q9361
+Q42295296,Q6581097,1967-11-05T00:00:00Z,1,Aliyarbek Abjaliyev,Aliyarbek Abjaliyev,politician,Q813,Q47282
+Q42295299,Q6581097,1969-07-17T00:00:00Z,1,Salaydin Aydarov,Salaydin Aydarov,politician,Q813,Q683441
+Q42303505,Q6581097,1974-09-30T00:00:00Z,2,Boris Kaveshnikov,Boris Kaveshnikov,Kyrgyzstani athlete,Q159,
+Q42303505,Q6581097,1974-09-30T00:00:00Z,2,Boris Kaveshnikov,Boris Kaveshnikov,Kyrgyzstani athlete,Q813,
+Q42336704,Q6581097,1957-11-13T00:00:00Z,1,Mukhtarbek Aynakulov,Mukhtarbek Aynakulov,politician,Q813,
+Q42336719,Q6581097,1975-03-13T00:00:00Z,2,Nurbek Alimbekov,Nurbek Alimbekov,politician,Q813,Q3718786
+Q42348430,Q6581072,1992-09-01T00:00:00Z,4,Gulshanoi Satarova,Gulshanoi Satarova,Kyrgyz athletics competitor,Q813,
+Q4236684,Q6581097,1987-04-02T00:00:00Z,11,Anton Kochenkov,Anton Kochenkov,Russian footballer,Q159,Q9361
+Q4236684,Q6581097,1987-04-02T00:00:00Z,11,Anton Kochenkov,Anton Kochenkov,Russian footballer,Q813,Q9361
+Q4242256,Q6581097,1978-05-28T00:00:00Z,6,Aleksey Krupnyakov,Aleksey Krupnyakov,Kyrgyzstani wrestler,Q159,Q1829
+Q4242256,Q6581097,1978-05-28T00:00:00Z,6,Aleksey Krupnyakov,Aleksey Krupnyakov,Kyrgyzstani wrestler,Q813,Q1829
+Q4247021,Q6581072,1917-03-19T00:00:00Z,8,Sabira Kumushaliyeva,Sabira Kumushaliyeva,Soviet actor (1917-2007),Q15180,Q16965934
+Q4247021,Q6581072,1917-03-19T00:00:00Z,8,Sabira Kumushaliyeva,Sabira Kumushaliyeva,Soviet actor (1917-2007),Q813,Q16965934
+Q4250598,Q6581072,1923-10-20T00:00:00Z,8,Baken Kydykeyeva,Baken Kydykeyeva,Soviet actress (1923–1993),Q15180,Q2381321
+Q4250598,Q6581072,1923-10-20T00:00:00Z,8,Baken Kydykeyeva,Baken Kydykeyeva,Soviet actress (1923–1993),Q813,Q2381321
+Q42578771,Q6581072,1952-03-30T00:00:00Z,5,Mira Jangaracheva,Mira Jangaracheva,politician,Q813,Q9361
+Q42579733,Q6581072,1953-01-01T00:00:00Z,2,Asylgul Abdurekhmenova,Asylgul Abdurekhmenova,Kyrgyz politician,Q813,
+Q42666013,Q6581097,1964-10-18T00:00:00Z,2,Almasbek Akmatov,Almasbek Akmatov,politician,Q813,Q486375
+Q42666017,Q6581072,1958-02-28T00:00:00Z,2,Aynuru Altybayeva,Aynuru Altybayeva,politician,Q813,Q47282
+Q4267149,Q6581097,1956-02-28T00:00:00Z,8,Valery Losev,Valery Losev,volleyball player,Q813,Q2283488
+Q4267149,Q6581097,1956-02-28T00:00:00Z,8,Valery Losev,Valery Losev,volleyball player,Q15180,Q2283488
+Q42728919,Q6581097,1978-01-12T00:00:00Z,1,Aybek Altynbekov,Aybek Altynbekov,politician,Q813,Q15497850
+Q4275216,Q6581097,1985-05-16T00:00:00Z,5,Claude Maka Kum,Claude Maka Kum,Cameroonian-Kyrgyz footballer,Q813,Q819314
+Q4275216,Q6581097,1985-05-16T00:00:00Z,5,Claude Maka Kum,Claude Maka Kum,Cameroonian-Kyrgyz footballer,Q1009,Q819314
+Q42907454,Q6581097,1970-03-24T00:00:00Z,3,Marat Amankulov,Marat Amankulov,"Kyrgyz politician, (1970-2026)",Q813,Q20160263
+Q430591,Q6581097,1963-06-15T00:00:00Z,20,Igor Paklin,Igor Paklin,Kyrgyz high jumper,Q15180,Q9361
+Q430591,Q6581097,1963-06-15T00:00:00Z,20,Igor Paklin,Igor Paklin,Kyrgyz high jumper,Q813,Q9361
+Q4353012,Q6581072,1988-01-02T00:00:00Z,13,Zhuldyz Eshimova,Zhuldyz Eshimova,Kazakhstani wrestler,Q232,Q643955
+Q4353012,Q6581072,1988-01-02T00:00:00Z,13,Zhuldyz Eshimova,Zhuldyz Eshimova,Kazakhstani wrestler,Q813,Q643955
+Q4357945,Q6581097,1912-05-14T00:00:00Z,12,Tugolbay Sydykbekov,Tugelbay Sydykbekov,Soviet writer (1912-1997),Q34266,Q6391557
+Q4357945,Q6581097,1912-05-14T00:00:00Z,12,Tugolbay Sydykbekov,Tugelbay Sydykbekov,Soviet writer (1912-1997),Q15180,Q6391557
+Q4357945,Q6581097,1912-05-14T00:00:00Z,12,Tugolbay Sydykbekov,Tugelbay Sydykbekov,Soviet writer (1912-1997),Q813,Q6391557
+Q4365217,Q6581097,1937-04-10T00:00:00Z,3,Vladimir Ploskikh,Vladimir Ploskikh,Soviet historian,Q813,Q1520
+Q4365217,Q6581097,1937-04-10T00:00:00Z,3,Vladimir Ploskikh,Vladimir Ploskikh,Soviet historian,Q15180,Q1520
+Q4367680,Q6581097,1948-05-03T00:00:00Z,8,Boris Podkorytov,Boris Podkorytov,Soviet footballer (1948–2026),Q15180,Q649
+Q4367680,Q6581097,1948-05-03T00:00:00Z,8,Boris Podkorytov,Boris Podkorytov,Soviet footballer (1948–2026),Q813,Q649
+Q438079,Q6581097,1966-12-09T00:00:00Z,5,Kadyrbek Sarbayev,Kadyrbek Sarbayev,Foreign minister of Kyrgyzstan,Q15180,Q9361
+Q438079,Q6581097,1966-12-09T00:00:00Z,5,Kadyrbek Sarbayev,Kadyrbek Sarbayev,Foreign minister of Kyrgyzstan,Q813,Q9361
+Q4387742,Q6581097,1976-03-31T00:00:00Z,5,Vladimir Radkevich,Vladimir Radkevich,Uzbekistani footballer,Q265,Q486329
+Q4387742,Q6581097,1976-03-31T00:00:00Z,5,Vladimir Radkevich,Vladimir Radkevich,Uzbekistani footballer,Q813,Q486329
+Q4388867,Q6581097,1977-02-18T00:00:00Z,6,Kid Diamond,Kid Diamond,Kyrgyzstani boxer,Q813,Q9361
+Q4391024,Q6581097,1933-09-29T00:00:00Z,10,Mars Rafikov,Mars Rafikov,soviet cosmonaut (1933–2000),Q15180,Q24013853
+Q4391024,Q6581097,1933-09-29T00:00:00Z,10,Mars Rafikov,Mars Rafikov,soviet cosmonaut (1933–2000),Q15180,Q487689
+Q4391024,Q6581097,1933-09-29T00:00:00Z,10,Mars Rafikov,Mars Rafikov,soviet cosmonaut (1933–2000),Q813,Q24013853
+Q4391024,Q6581097,1933-09-29T00:00:00Z,10,Mars Rafikov,Mars Rafikov,soviet cosmonaut (1933–2000),Q813,Q487689
+Q43921025,Q6581072,1943-08-15T00:00:00Z,3,Roza Uchkempirova,Roza Uchkempirova,Kyrgyz economist,Q15180,Q487413
+Q43921025,Q6581072,1943-08-15T00:00:00Z,3,Roza Uchkempirova,Roza Uchkempirova,Kyrgyz economist,Q813,Q487413
+Q4404922,Q6581097,1969-03-10T00:00:00Z,6,Sadyk Sher-Niyaz,Sadyk Sher-Niyaz,Kyrgyz filmmaker and politician,Q813,Q643955
+Q4404937,Q6581097,1953-12-13T00:00:00Z,6,Medet Sadyrkulov,Medet Sadyrkulov,Kyrgyz politician (1953–2009),Q15180,Q879225
+Q4404937,Q6581097,1953-12-13T00:00:00Z,6,Medet Sadyrkulov,Medet Sadyrkulov,Kyrgyz politician (1953–2009),Q813,Q879225
+Q4406248,Q6581072,1972-08-06T00:00:00Z,5,Aida Salyanova,Aida Salyanova,politician,Q813,Q311946
+Q44185879,Q6581097,1966-07-21T00:00:00Z,10,Erlan Abdyldayev,Erlan Abdyldayev,politician,Q15180,Q35493
+Q44185879,Q6581097,1966-07-21T00:00:00Z,10,Erlan Abdyldayev,Erlan Abdyldayev,politician,Q813,Q35493
+Q4460714,Q6581097,1952-02-28T00:00:00Z,6,Esen Topoev,Esen Topoev,Kyrgyz general,Q813,Q2347569
+Q4460714,Q6581097,1952-02-28T00:00:00Z,6,Esen Topoev,Esen Topoev,Kyrgyz general,Q15180,Q2347569
+Q4467402,Q6581097,1963-12-24T00:00:00Z,4,Nariman Tuleyev,Nariman Tuleyev,Kyrgyzstani mayor,Q813,Q9361
+Q4467402,Q6581097,1963-12-24T00:00:00Z,4,Nariman Tuleyev,Nariman Tuleyev,Kyrgyzstani mayor,Q15180,Q9361
+Q4475475,Q6581072,1962-04-04T00:00:00Z,6,Toktayum Umetalieva,Toktayum Umetalieva,Kyrgyzstani politician and physicist,Q15180,Q2601054
+Q4475475,Q6581072,1962-04-04T00:00:00Z,6,Toktayum Umetalieva,Toktayum Umetalieva,Kyrgyzstani politician and physicist,Q813,Q2601054
+Q4478718,Q6581097,1919-11-06T00:00:00Z,10,Turdakun Usubaliev,Turdakun Usubalijew,Soviet politician (1919-2015),Q15180,Q2349614
+Q4478718,Q6581097,1919-11-06T00:00:00Z,10,Turdakun Usubaliev,Turdakun Usubalijew,Soviet politician (1919-2015),Q813,Q2349614
+Q4517080,Q6581097,1939-11-09T00:00:00Z,16,Suimenkul Chokmorov,Suimenkul Chokmorov,Soviet actor (1939-1992),Q813,Q12831269
+Q4517080,Q6581097,1939-11-09T00:00:00Z,16,Suimenkul Chokmorov,Suimenkul Chokmorov,Soviet actor (1939-1992),Q15180,Q12831269
+Q4522047,Q6581072,1988-03-07T00:00:00Z,26,Valentina Shevchenko,Valentina Shevchenko,Kyrgyzstani- mixed martial arts (MMA) fighter and muay thai fighter,Q813,Q9361
+Q4522047,Q6581072,1988-03-07T00:00:00Z,26,Valentina Shevchenko,Valentina Shevchenko,Kyrgyzstani- mixed martial arts (MMA) fighter and muay thai fighter,Q419,Q9361
+Q4522047,Q6581072,1988-03-07T00:00:00Z,26,Valentina Shevchenko,Valentina Shevchenko,Kyrgyzstani- mixed martial arts (MMA) fighter and muay thai fighter,Q15180,Q9361
+Q4522047,Q6581072,1988-03-07T00:00:00Z,26,Valentina Shevchenko,Valentina Shevchenko,Kyrgyzstani- mixed martial arts (MMA) fighter and muay thai fighter,Q159,Q9361
+Q45228016,Q6581097,1965-05-02T00:00:00Z,6,Taalaibek Omuraliev,Taalaibek Omuraliev,Kyrgyzstani general,Q813,Q311946
+Q4526131,Q6581072,1917-12-19T00:00:00Z,5,Kerimbubu Shopokova,Kerimbubu Shopokova,Kyrgyz politician,Q813,Q200847
+Q4526131,Q6581072,1917-12-19T00:00:00Z,5,Kerimbubu Shopokova,Kerimbubu Shopokova,Kyrgyz politician,Q15180,Q200847
+Q4535150,Q6581097,1959-04-03T00:00:00Z,7,Leonid Yurtaev,Leonid Yurtaev,Kyrgyzstani chess grandmaster (1959-2011),Q15180,Q9361
+Q4535150,Q6581097,1959-04-03T00:00:00Z,7,Leonid Yurtaev,Leonid Yurtaev,Kyrgyzstani chess grandmaster (1959-2011),Q813,Q9361
+Q457980,Q6581097,1948-10-29T00:00:00Z,31,Felix Kulov,Felix Kulov,Kyrgyz politician and former Prime Minister,Q813,Q9361
+Q458616,Q6581097,1958-03-31T00:00:00Z,8,Moldomusa Kongantiyev,Moldomusa Kongantiyev,Kyrgyzstani politician (1958–2022),Q813,Q1355846
+Q466022,Q6581097,1961-08-21T00:00:00Z,23,Igor Chudinov,Igor Chudinov,Kyrgyzstani politician,Q813,Q9361
+Q467543,Q6581097,1954-02-23T00:00:00Z,8,Alexander Mashkevitch,Alexander Mashkevitch,Kyrgyzstani-Israeli businessman and investor,Q16,Q9361
+Q467543,Q6581097,1954-02-23T00:00:00Z,8,Alexander Mashkevitch,Alexander Mashkevitch,Kyrgyzstani-Israeli businessman and investor,Q232,Q9361
+Q467543,Q6581097,1954-02-23T00:00:00Z,8,Alexander Mashkevitch,Alexander Mashkevitch,Kyrgyzstani-Israeli businessman and investor,Q801,Q9361
+Q467543,Q6581097,1954-02-23T00:00:00Z,8,Alexander Mashkevitch,Alexander Mashkevitch,Kyrgyzstani-Israeli businessman and investor,Q813,Q9361
+Q4699222,Q6581072,1993-05-04T00:00:00Z,26,Aisuluu Tynybekova,Aisuluu Tynybekova,Olympic wrestler,Q813,Q1355846
+Q4700766,Q6581097,1966-06-16T00:00:00Z,6,Akhmatbek Keldibekov,Akhmatbek Keldibekov,Kyrgyzstani politician,Q813,Q7563213
+Q4700766,Q6581097,1966-06-16T00:00:00Z,6,Akhmatbek Keldibekov,Akhmatbek Keldibekov,Kyrgyzstani politician,Q15180,Q7563213
+Q4701626,Q6581097,1994-02-07T00:00:00Z,3,Akramzhon Umarov,Akram Umarov,Kyrgyzstani footballer,Q813,Q813
+Q47022903,Q6581097,1972-12-22T00:00:00Z,4,Jyrgalbek Kalmamatov,Jyrgalbek Kalmamatov,Kyrgyzstani politician (1972-2018),Q813,Q683441
+Q4715058,Q6581097,1981-10-30T00:00:00Z,3,Aleksandr Beldinov,Aleksandr Beldinov,footballer,Q813,Q813
+Q4715231,Q6581097,1974-05-18T00:00:00Z,3,Aleksandr Kovalevsky,Aleksandr Kovalevsky,Olympic wrestler,Q813,
+Q4715370,Q6581097,1960-06-24T00:00:00Z,2,Aleksandr Poddubny,Aleksandr Poddubny,fencer,Q15180,
+Q4715370,Q6581097,1960-06-24T00:00:00Z,2,Aleksandr Poddubny,Aleksandr Poddubny,fencer,Q813,
+Q4715994,Q6581097,1983-03-26T00:00:00Z,2,Aleksey Pogorelov,Aleksey Pogorelov,Russian athletics competitor (born 1983),Q159,Q9361
+Q4715994,Q6581097,1983-03-26T00:00:00Z,2,Aleksey Pogorelov,Aleksey Pogorelov,Russian athletics competitor (born 1983),Q813,Q9361
+Q4726714,Q6581072,1995-12-17T00:00:00Z,8,Alina Litvinenko,Alina Litvinenko,Kyrgyzstani footballer,Q813,Q9361
+Q4726714,Q6581072,1995-12-17T00:00:00Z,8,Alina Litvinenko,Alina Litvinenko,Kyrgyzstani footballer,Q232,Q9361
+Q47465817,Q6581097,1976-05-30T00:00:00Z,2,Dmitry Shnayder,Dmitry Shnayder,kyrgyzstani javelin thrower,Q813,
+Q4751615,Q6581097,1971-05-17T00:00:00Z,4,Anarbek Ormombekov,Anarbek Ormonbekov,footballer,Q813,Q130276
+Q4752177,Q6581097,1988-06-14T00:00:00Z,4,Anatoly Vlasichev,Anatoly Vlasichev,footballer,Q813,Q47282
+Q4759192,Q6581097,1980-07-06T00:00:00Z,3,Andrey Krasnov,Andrey Krasnov,footballer,Q813,Q15180
+Q4759209,Q6581097,1974-09-25T00:00:00Z,1,Andrey Mitkovets,Andrey Mitkovets,Kyrgyzstani canoeist,Q813,
+Q4796359,Q6581097,1990-05-15T00:00:00Z,9,Arsen Eraliev,Arsen Eraliev,Olympic wrestler,Q813,Q17013713
+Q4796365,Q6581097,1977-06-01T00:00:00Z,13,Arsen Gitinov,Arsen Gitinov,Olympic wrestler,Q813,Q19721915
+Q4796606,Q6581097,1951-06-10T00:00:00Z,1,Arstanbek Nogoev,Arstanbek Nogoev,Kyrgyzstani mayor,Q813,
+Q4796607,Q6581097,1968-04-28T00:00:00Z,5,Arstanbek Abdyldayev,Arstanbek Abdyldayev,Kyrgyzstani politician,Q813,Q20625438
+Q4797429,Q6581097,1988-02-02T00:00:00Z,3,Artem Muladjanov,Artem Mulajanov,footballer,Q813,Q9361
+Q4801344,Q6581072,1982-01-29T00:00:00Z,7,Olga Reshetkova,Olga Reshetkova,Kyrgyzstani cross-country skier,Q813,Q9361
+Q4831029,Q6581097,1985-12-20T00:00:00Z,4,Aybek Abdymomunov,Aybek Abdymomunov,Kyrgyzstani boxer,Q813,
+Q4831032,Q6581097,1984-04-12T00:00:00Z,3,Aybek Orozaliyev,Aybek Orozaliev,Kyrgyzstani footballer,Q813,Q15180
+Q4832186,Q6581097,1989-12-03T00:00:00Z,11,Azamat Baymatov,Azamat Baymatov,Kyrgyzstani footballer,Q813,Q47282
+Q4832193,Q6581097,1978-06-19T00:00:00Z,5,Azamat Ishenbayev,Azamat Ishenbaev,Kyrgyzstani footballer,Q813,Q15180
+Q4832194,Q6581097,1986-02-03T00:00:00Z,1,Azamat Sydykov,Azamat Sydykov,concert pianist,Q813,
+Q4832514,Q6581072,1956-09-28T00:00:00Z,7,Salamat Sadikova,Salamat Sadikova,Folk singer,Q813,Q487631
+Q4832653,Q6581097,1971-03-15T00:00:00Z,3,Aziz Beishenaliev,Aziz Beishenaliev,Kyrgyz actor,Q813,Q9361
+Q4832653,Q6581097,1971-03-15T00:00:00Z,3,Aziz Beishenaliev,Aziz Beishenaliev,Kyrgyz actor,Q159,Q9361
+Q4832693,Q6581097,1992-06-23T00:00:00Z,7,Aziz Sydykov,Aziz Sydykov,footballer,Q813,Q9361
+Q484292,Q6581097,1928-12-12T00:00:00Z,100,Chinghiz Aitmatov,Chingiz Aĭtmatov,Soviet and Kyrgyz author (1928–2008),Q813,Q2600970
+Q484292,Q6581097,1928-12-12T00:00:00Z,100,Chinghiz Aitmatov,Chingiz Aĭtmatov,Soviet and Kyrgyz author (1928–2008),Q15180,Q2600970
+Q484816,Q6581097,1949-08-01T00:00:00Z,62,Kurmanbek Bakiyev,Kurmanbek Bakiyev,Kyrgyzstani politician,Q813,Q3297105
+Q4849619,Q6581097,1980-03-17T00:00:00Z,3,Bakytbek Mamatov,Bakytbek Mamatov,footballer,Q813,Q1023290
+Q4849619,Q6581097,1980-03-17T00:00:00Z,3,Bakytbek Mamatov,Bakytbek Mamatov,footballer,Q813,Q15180
+Q485136,Q6581072,1950-08-23T00:00:00Z,75,Roza Otunbayeva,Roza Otunbayeva,President of Kyrgyzstan,Q15180,Q9361
+Q485136,Q6581072,1950-08-23T00:00:00Z,75,Roza Otunbayeva,Roza Otunbayeva,President of Kyrgyzstan,Q813,Q9361
+Q48620473,Q6581097,1996-09-17T00:00:00Z,6,Tariel Zharkymbaev,Tariel Zharkymbaev,Kyrgyz cross-country skier,Q159,Q9361
+Q48620473,Q6581097,1996-09-17T00:00:00Z,6,Tariel Zharkymbaev,Tariel Zharkymbaev,Kyrgyz cross-country skier,Q813,Q9361
+Q4881685,Q6581097,1985-12-28T00:00:00Z,3,Bekzat Osmonaliev,Bekzat Osmonaliev,Kyrgyzdtani weightlifter,Q813,Q1647779
+Q48870075,Q6581072,1999-11-09T00:00:00Z,23,Meerim Zhumanazarova,Meerim Zhumanazarova,Kyrgyzstani freestyle wrestler,Q813,Q17013707
+Q48894067,Q6581097,1995-09-15T00:00:00Z,5,Eldar Moldozhunusov,Eldar Moldogunuzov,association football player,Q813,
+Q48894073,Q6581097,1998-09-15T00:00:00Z,4,Atay Dzhumashev,Atay Dzhumashev,association football player,Q813,Q9361
+Q48894077,Q6581097,1998-07-22T00:00:00Z,3,Aydar Mambetaliyev,Aidar Mambetaliev,association football player,Q813,Q9361
+Q4892570,Q6581072,1972-06-03T00:00:00Z,4,Bermet Akayeva,Bermet Akayeva,Kyrgyz politician,Q15180,Q656
+Q4892570,Q6581072,1972-06-03T00:00:00Z,4,Bermet Akayeva,Bermet Akayeva,Kyrgyz politician,Q813,Q656
+Q48955565,Q6581097,1994-07-20T00:00:00Z,2,Raul Dzhalilov,Raul Dzhalilov,Kyrgyzstani-Kazakhstani footballer,Q813,Q9361
+Q48955565,Q6581097,1994-07-20T00:00:00Z,2,Raul Dzhalilov,Raul Dzhalilov,Kyrgyzstani-Kazakhstani footballer,Q232,Q9361
+Q489893,Q6581097,1944-11-10T00:00:00Z,56,Askar Akayev,Askar Akayev,1st and former President of Kyrgyzstan,Q15180,Q2907815
+Q489893,Q6581097,1944-11-10T00:00:00Z,56,Askar Akayev,Askar Akayev,1st and former President of Kyrgyzstan,Q813,Q2907815
+Q4945386,Q6581097,1946-02-28T00:00:00Z,6,Boris Silayev,Boris Silayev,former Kyrgyz and active Russian statesman,Q813,Q15241923
+Q4945386,Q6581097,1946-02-28T00:00:00Z,6,Boris Silayev,Boris Silayev,former Kyrgyz and active Russian statesman,Q159,Q15241923
+Q4945386,Q6581097,1946-02-28T00:00:00Z,6,Boris Silayev,Boris Silayev,former Kyrgyz and active Russian statesman,Q15180,Q15241923
+Q502083,Q6581097,1934-12-22T00:00:00Z,12,Andrei Iordan,Andrei Iordan,Prime Minister of Kyrgyzstan (1934-2006),Q813,Q15180
+Q5216279,Q6581097,1982-09-08T00:00:00Z,7,Daniar Kobonov,Daniar Kobonov,kyrgyzstani wrestler,Q813,Q20628910
+Q5223041,Q6581072,1995-12-08T00:00:00Z,5,Dariya Talanova,Dariya Talanova,Kyrgyzstani swimmer,Q813,Q9361
+Q5226870,Q6581097,1947-01-01T00:00:00Z,4,Dastan Sarygulov,Dastan Sarygulov,Kyrgyzstani businessman and politician,Q813,
+Q523637,Q6581097,1954-12-19T00:00:00Z,13,Nikolaus Messmer,Nikolaus Messmer,Kyrgyzstani Catholic priest (1954–2016),Q813,Q484706
+Q5242132,Q6581097,1988-01-06T00:00:00Z,5,Davron Askarov,Davron Askarov,Kyrgyzstani footballer,Q813,Q130276
+Q5285365,Q6581097,1955-08-18T00:00:00Z,25,Djoomart Otorbaev,Djoomart Otorbaev,Kyrgyzstani politician,Q813,Q9361
+Q5289241,Q6581097,1959-03-16T00:00:00Z,5,Janish Bakiyev,Janish Bakiyev,Kyrgyzstani politician,Q813,Q813
+Q5358973,Q6581072,1975-04-11T00:00:00Z,3,Elena Bobrovskaya,Elena Bobrovskaya,Athletics (sport) competitor,Q813,
+Q5359130,Q6581072,1980-11-15T00:00:00Z,2,Elena Skochilo,Elena Skochilo,Kyrgyzstani journalist,Q813,Q9361
+Q5396564,Q6581097,1985-09-29T00:00:00Z,4,Erzhan Askarov,Erzhan Askarov,Kyrgyzstani distance runner,Q813,Q2600981
+Q5418259,Q6581097,1986-09-08T00:00:00Z,4,Evgeniy Malinin,Evgeniy Malinin,Kyrgyzstani footballer,Q813,Q130276
+Q5436513,Q6581097,1988-12-04T00:00:00Z,6,Farukh Abitov,Farukh Abitov,footballer,Q813,Q813
+Q55081125,Q6581097,1969-05-27T00:00:00Z,6,Erlis Terdikbayev,Erlis Terdikbayev,Kyrgyz major general,Q813,Q486370
+Q55104284,Q6581097,1999-09-28T00:00:00Z,11,Alimardon Shukurov,Alimardon Shukurov,association football player (1999-),Q813,Q12824711
+Q5518677,Q6581072,1983-05-29T00:00:00Z,5,Galina Pedan,Galina Pedan,Kyrgyz athletics competitor (born 1983),Q813,Q9361
+Q55389886,Q6581097,1999-09-29T00:00:00Z,23,Zholaman Sharshenbekov,Zholaman Sharshenbekov,Kyrgyz amateur wrestler,Q813,Q17024332
+Q55389918,Q6581097,1999-04-15T00:00:00Z,24,Akzhol Makhmudov,Akzhol Makhmudov,Kyrgyz amateur wrestler,Q813,Q2669269
+Q559465,Q6581097,1969-04-18T00:00:00Z,4,Melis Myrzakmatov,Melis Myrzakmatov,"Kyrgyz politician, Mayor of Osh",Q813,
+Q56236090,Q6581097,1997-06-21T00:00:00Z,2,Musulman Dzholomanov,Musulman Dzholomanov,Kyrgyzstani middle-distance runner,Q813,Q9361
+Q56236296,Q6581097,1997-12-29T00:00:00Z,13,Amantur Ismailov,Amantur Ismailov,Kyrgyz amateur wrestler,Q813,Q9361
+Q56289457,Q6581072,1994-05-12T00:00:00Z,3,Anna Bulanova,Anna Bulanova,Kyrgystani sprinter and long jumper,Q813,Q9361
+Q56378813,Q6581097,1993-05-21T00:00:00Z,3,Artur Te,Artur Te,Kyrgyz judoka (1993-),Q813,
+Q56486595,Q6581097,1993-04-11T00:00:00Z,3,Adilet Kyshtakbekov,Adilet Kyshtakbekov,kyrgyzstani athletics competitor,Q813,Q12826614
+Q567761,Q6581097,1952-08-25T00:00:00Z,8,Almanbet Matubraimov,Almanbet Matubraimov,Kyrgyzstani politician,Q813,Q18584201
+Q567761,Q6581097,1952-08-25T00:00:00Z,8,Almanbet Matubraimov,Almanbet Matubraimov,Kyrgyzstani politician,Q15180,Q18584201
+Q57585985,Q6581097,1993-05-27T00:00:00Z,3,Urmatbek Amatov,Urmatbek Amatov,Kyrgyz Greco-Roman wrestler,Q813,
+Q57610655,Q6581097,1998-08-28T00:00:00Z,8,Kai Merk,Kai Merk,Kyrgyz-German footballer,Q813,Q570408
+Q57610655,Q6581097,1998-08-28T00:00:00Z,8,Kai Merk,Kai Merk,Kyrgyz-German footballer,Q183,Q570408
+Q57776448,Q6581097,1977-10-27T00:00:00Z,8,Chingiz Aidarbekov,Chingiz Aidarbekov,Kyrgyz politician,Q813,Q9361
+Q58312,Q6581097,1967-05-18T00:00:00Z,9,Ruslan Kazakbayev,Ruslan Kazakbayev,Kyrgyzstani politician,Q813,Q15942732
+Q584119,Q6581097,1951-09-17T00:00:00Z,16,Satymkul Dzhumanazarov,Satymkul Dzhumanazarov,athletics competitor (1951–2007),Q813,Q15925662
+Q584119,Q6581097,1951-09-17T00:00:00Z,16,Satymkul Dzhumanazarov,Satymkul Dzhumanazarov,athletics competitor (1951–2007),Q15180,Q15925662
+Q58836930,Q6581097,1955-04-27T00:00:00Z,4,Zhusupbek Sharipov,Zhusupbek Sharipov,kyrgyzstani politician,Q813,
+Q58885833,Q6581072,1947-11-07T00:00:00Z,4,Mayram Akayeva,Mayram Akayeva,1st and former First Lady of Kyrgyzstan,Q813,Q793902
+Q59160096,Q6581072,1968-01-01T00:00:00Z,3,Aigul Jeenbekova,Aigul Jeenbekova,First Lady of Kyrgyzstan 2017–2020,Q813,Q117224
+Q59160153,Q6581072,1940-01-01T00:00:00Z,3,Tatyana Bakiyeva,Tatyana Bakiyeva,First Lady of Kyrgyzstan (March 2005 to April 2010),Q813,Q894
+Q594143,Q6581097,1988-12-11T00:00:00Z,15,Anton Zemlyanukhin,Anton Zemlianukhin,Kyrgyzstani footballer,Q813,Q1026291
+Q595362,Q6581097,1988-12-12T00:00:00Z,6,Rasul Abduraim,Rasul Abduraim,Kyrgyz taekwondoin,Q813,Q9361
+Q5962220,Q6581097,1949-01-28T00:00:00Z,6,Medetbek Kerimkulov,Medetbek Kerimkulov,Kyrgyzstani politician,Q813,
+Q5997296,Q6581097,1987-10-09T00:00:00Z,8,Ildar Amirov,Ildar Amirov,Kyrgyzstani footballer,Q813,Q15180
+Q5997929,Q6581097,1992-05-09T00:00:00Z,2,Ilia Ignatev,Ilia Ignatev,Kyrgyzstani sailor,Q813,
+Q60535701,Q6581097,1998-08-24T00:00:00Z,6,Ayzar Akmatov,Aizar Akmatov,Kyrgyzstani national footballer,Q813,Q9361
+Q60551637,Q6581097,1997-06-13T00:00:00Z,7,Kutman Kadyrbekov,Kutman Kadyrbekov,Kyrgyzstani association football player,Q813,Q9361
+Q60551637,Q6581097,1992-11-16T00:00:00Z,7,Kutman Kadyrbekov,Kutman Kadyrbekov,Kyrgyzstani association football player,Q813,Q9361
+Q60555690,Q6581097,1994-09-11T00:00:00Z,8,Bekzhan Sagynbayev,Bekzhan Sagynbaev,Kyrgyzstani national footballer,Q813,Q9361
+Q60555848,Q6581097,1998-02-21T00:00:00Z,8,Ernist Batyrkanov,Ernist Batyrkanov,"Kyrgyzstani national footballer, forward",Q813,Q1554994
+Q60616723,Q6581097,1995-07-01T00:00:00Z,5,Mustafa Yusupov,Mustafa Iusupov,Kyrgyzstani association football player,Q813,
+Q60617662,Q6581097,1971-11-26T00:00:00Z,3,Sergey Kopenkin,Sergey Kopenkin,Kyrgyzstani boxer,Q813,Q854333
+Q60617662,Q6581097,1971-11-26T00:00:00Z,3,Sergey Kopenkin,Sergey Kopenkin,Kyrgyzstani boxer,Q15180,Q854333
+Q60647949,Q6581097,1976-01-03T00:00:00Z,3,Nurbek Kasenov,Nurbek Kasenov,Kyrgyzstani boxer,Q813,
+Q60647949,Q6581097,1976-01-03T00:00:00Z,3,Nurbek Kasenov,Nurbek Kasenov,Kyrgyzstani boxer,Q15180,
+Q60676585,Q6581097,1968-09-07T00:00:00Z,3,Taalaibek Kadiraliev,Taalaybek Kadyraliyev,Kyrgyzstani boxer,Q15180,Q311946
+Q60676585,Q6581097,1968-09-07T00:00:00Z,3,Taalaibek Kadiraliev,Taalaybek Kadyraliyev,Kyrgyzstani boxer,Q168811,Q311946
+Q60676585,Q6581097,1968-09-07T00:00:00Z,3,Taalaibek Kadiraliev,Taalaybek Kadyraliyev,Kyrgyzstani boxer,Q813,Q311946
+Q60716336,Q6581097,1979-08-17T00:00:00Z,3,Vladislav Vizilter,Vladislav Vizilter,Kyrgyzstani boxer,Q813,
+Q60717631,Q6581097,1978-12-19T00:00:00Z,3,Aleksey Katulevsky,Aleksey Katulevsky,Kyrgyzstani boxer,Q813,Q9361
+Q6081736,Q6581097,1991-03-01T00:00:00Z,3,Islam Shamshiyev,Islam Shamshiev,Kyrgyzstani footballer (born 1991),Q813,
+Q60825498,Q6581097,1969-09-11T00:00:00Z,2,"Igor Sergeyev (footballer, born 1969)",Igor Sergeyev,Kyrgyzstani footballer,Q15180,
+Q60825498,Q6581097,1969-09-11T00:00:00Z,2,"Igor Sergeyev (footballer, born 1969)",Igor Sergeyev,Kyrgyzstani footballer,Q813,
+Q60838764,Q6581097,1993-12-04T00:00:00Z,3,Avazbek Otkeev,Avazbek Otkeev,Kyrgyz association football player,Q813,Q813
+Q60838862,Q6581097,1994-02-07T00:00:00Z,3,Mirbek Akhmataliyev,Mirbek Akhmataliev,kyrgyzstani footballer,Q813,Q3349902
+Q60838869,Q6581097,1995-10-15T00:00:00Z,3,Danila Sokirchenko,Danila Sokirchenko,Kyrgyz association football player,Q813,
+Q60839019,Q6581097,1998-08-21T00:00:00Z,15,Joel Kojo,Joel Kojo,Kyrgyz footballer (born 1999),Q813,Q3761
+Q60839019,Q6581097,1998-08-21T00:00:00Z,15,Joel Kojo,Joel Kojo,Kyrgyz footballer (born 1999),Q117,Q3761
+Q6095494,Q6581072,1984-03-07T00:00:00Z,8,Iuliia Andreeva,Iuliia Andreeva,Kyrgyzstani distance runner,Q813,Q9361
+Q6095494,Q6581072,1981-03-07T00:00:00Z,8,Iuliia Andreeva,Iuliia Andreeva,Kyrgyzstani distance runner,Q813,Q9361
+Q6095593,Q6581097,1985-12-01T00:00:00Z,5,Iurii Zakharov,Iurii Zakharov,Kyrgyzstani swimmer,Q813,Q9361
+Q62712601,Q6581097,1996-02-03T00:00:00Z,3,Abay Bokoleyev,Abay Bokoleyev,kyrgyzstani footballer,Q813,Q816163
+Q62712963,Q6581097,1994-04-18T00:00:00Z,6,Marsel Islamkulov,Marsel Islamkulov,Kazakhstani association football player,Q813,Q1026291
+Q62712963,Q6581097,1994-04-18T00:00:00Z,6,Marsel Islamkulov,Marsel Islamkulov,Kazakhstani association football player,Q232,Q1026291
+Q62713483,Q6581097,1996-09-20T00:00:00Z,6,Azim Azarov,Azim Azarov,kyrgyzstani footballer,Q813,Q9361
+Q6319340,Q6581072,1960-03-02T00:00:00Z,4,Jyldyz Joldosheva,Jyldyz Joldosheva,Kyrgyzstani politician,Q813,
+Q63252805,Q6581097,1957-12-02T00:00:00Z,3,Abdygul Chotbaev,Abdygul Chotbaev,Kyrgyzstani General and politician,Q813,Q130276
+Q63252805,Q6581097,1957-12-02T00:00:00Z,3,Abdygul Chotbaev,Abdygul Chotbaev,Kyrgyzstani General and politician,Q15180,Q130276
+Q63313631,Q6581072,1960-07-31T00:00:00Z,7,Baktygul Jeenbaeva,Baktygul Jeenbaeva,Kyrgyzstani politician and finance minister,Q813,Q9361
+Q6356476,Q6581097,1974-08-03T00:00:00Z,4,Kamchy Kolbayev,Kamchy Kolbayev,Kyrgyz criminal authority,Q813,Q1017314
+Q6356476,Q6581097,1974-08-03T00:00:00Z,4,Kamchy Kolbayev,Kamchy Kolbayev,Kyrgyz criminal authority,Q15180,Q1017314
+Q6370599,Q6581097,1987-03-14T00:00:00Z,7,Karim Izrailov,Karim Izrailov,Kyrgyzstani footballer,Q813,Q9361
+Q6380721,Q6581097,1991-06-27T00:00:00Z,7,Kayumzhan Sharipov,Kayumjan Sharipov,Kyrgyzstani footballer,Q813,Q813
+Q6380721,Q6581097,1991-07-27T00:00:00Z,7,Kayumzhan Sharipov,Kayumjan Sharipov,Kyrgyzstani footballer,Q813,Q813
+Q64167901,Q6581097,1969-11-10T00:00:00Z,3,Oleksandr Yankovskyi,Aleksandr Yanovsky,Ukrainian footballer,Q813,Q816163
+Q64167901,Q6581097,1969-11-10T00:00:00Z,3,Oleksandr Yankovskyi,Aleksandr Yanovsky,Ukrainian footballer,Q212,Q816163
+Q64167901,Q6581097,1969-11-10T00:00:00Z,3,Oleksandr Yankovskyi,Aleksandr Yanovsky,Ukrainian footballer,Q15180,Q816163
+Q6429878,Q6581097,1969-10-10T00:00:00Z,4,Konstantin Aleksandrov (wrestler),Konstantin Aleksandrov,Olympic wrestler,Q813,
+Q6429878,Q6581097,1969-10-10T00:00:00Z,4,Konstantin Aleksandrov (wrestler),Konstantin Aleksandrov,Olympic wrestler,Q159,
+Q6446518,Q6581097,1989-03-10T00:00:00Z,2,Kursanbek Sheratov,Kursanbek Sheratov,footballer,Q813,Q15180
+Q64929851,Q6581097,2000-11-25T00:00:00Z,13,Gulzhigit Alykulov,Gulzhigit Alykulov,Kyrgyzstani footballer,Q813,Q1647779
+Q65163420,Q6581097,1918-02-12T00:00:00Z,20,Fedor Samokhin,Fedor Samokhin,Russian writer of Kyrgyzstan,Q813,Q105064553
+Q65163420,Q6581097,1918-02-12T00:00:00Z,20,Fedor Samokhin,Fedor Samokhin,Russian writer of Kyrgyzstan,Q15180,Q105064553
+Q65171957,Q6581097,1997-07-30T00:00:00Z,8,Aleksandr Mishchenko,Aleksandr Mishchenko,Kyrgyz association football player,Q813,Q1676038
+Q6526362,Q6581097,1937-08-25T00:00:00Z,4,Leonid Ivanov (runner),Leonid Ivanov,Soviet-Kyrgyz long-distance runner,Q813,Q157835
+Q6526362,Q6581097,1937-08-25T00:00:00Z,4,Leonid Ivanov (runner),Leonid Ivanov,Soviet-Kyrgyz long-distance runner,Q15180,Q157835
+Q66038675,Q6581097,1978-06-15T00:00:00Z,1,Murataly Tagaev,Murataly Tagaev,Kyrgyz politician,Q813,Q2556747
+Q66712698,Q6581097,1984-08-20T00:00:00Z,2,Radik Vodopyanov,Radik Vodopyanov,Kyrgyzstani footballer,Q813,Q9361
+Q6710526,Q6581072,1966-06-15T00:00:00Z,2,Lyudmila Derevyankina,Lyudmila Derevyankina,soviet and kyrgyzstani runner,Q813,
+Q6710526,Q6581072,1966-06-15T00:00:00Z,2,Lyudmila Derevyankina,Lyudmila Derevyankina,soviet and kyrgyzstani runner,Q159,
+Q6710526,Q6581072,1966-06-15T00:00:00Z,2,Lyudmila Derevyankina,Lyudmila Derevyankina,soviet and kyrgyzstani runner,Q15180,
+Q6740127,Q6581097,1988-03-20T00:00:00Z,6,Maksim Agapov,Maksim Agapov,Kyrgyz footballer,Q813,Q9361
+Q6746979,Q6581097,1991-08-22T00:00:00Z,3,Manas Zhutanov,Manas Zhutanov,Russian footballer,Q813,Q3541451
+Q6746979,Q6581097,1991-08-22T00:00:00Z,3,Manas Zhutanov,Manas Zhutanov,Russian footballer,Q159,Q3541451
+Q6754927,Q6581097,1991-03-01T00:00:00Z,4,Marat Adzhiniyazov,Marat Ajiniyazov,Kyrgyzstani footballer,Q813,Q1023290
+Q6763924,Q6581072,1959-06-03T00:00:00Z,3,Marina Sysoyeva,Marina Sysoyeva,Soviet-Kyrgyz high jumper,Q813,Q9361
+Q6763924,Q6581072,1959-06-03T00:00:00Z,3,Marina Sysoyeva,Marina Sysoyeva,Soviet-Kyrgyz high jumper,Q15180,Q9361
+Q6795619,Q6581097,1974-02-17T00:00:00Z,2,Maksim Smetanin,Maxim Smetanin,Kyrgyz athletics competitor (born 1974),Q813,
+Q6983487,Q6581072,1985-11-07T00:00:00Z,4,Nazira Aytbekova,Nazira Aytbekova,TV presenter,Q813,Q805876
+Q6990994,Q6581097,1962-01-01T00:00:00Z,7,Nematjan Zakirov,Nematjan Zakirov,football player of Kyrgyzstan,Q813,Q2224040
+Q6990994,Q6581097,1962-01-01T00:00:00Z,7,Nematjan Zakirov,Nematjan Zakirov,football player of Kyrgyzstan,Q813,Q47282
+Q6990994,Q6581097,1962-01-01T00:00:00Z,7,Nematjan Zakirov,Nematjan Zakirov,football player of Kyrgyzstan,Q15180,Q2224040
+Q6990994,Q6581097,1962-01-01T00:00:00Z,7,Nematjan Zakirov,Nematjan Zakirov,football player of Kyrgyzstan,Q15180,Q47282
+Q7070151,Q6581097,1969-12-10T00:00:00Z,2,Nurlan Motuev,Nurlan Motuev,Kyrgyzstani politician,Q813,Q3541520
+Q7082623,Q6581072,1979-08-02T00:00:00Z,2,Oksana Luneva,Oksana Luneva,Kyrgyz athletics competitor (born 1979),Q813,
+Q7082623,Q6581072,1979-08-02T00:00:00Z,2,Oksana Luneva,Oksana Luneva,Kyrgyz athletics competitor (born 1979),Q159,
+Q7086071,Q6581097,1968-12-04T00:00:00Z,5,Oleg Kazmirchuk,Oleg Kazmirchuk,Kyrgyzstani footballer,Q813,Q1520
+Q7086071,Q6581097,1968-12-04T00:00:00Z,5,Oleg Kazmirchuk,Oleg Kazmirchuk,Kyrgyzstani footballer,Q15180,Q1520
+Q7086531,Q6581072,1977-09-26T00:00:00Z,5,Olga Artamonova,Olga Artamonova,Olympic judoka,Q813,
+Q7109516,Q6581097,1943-12-20T00:00:00Z,9,Otto Barch,Otto Barch,Kyrgyz racewalker (1943–2025),Q813,Q9361
+Q7109516,Q6581097,1943-12-20T00:00:00Z,9,Otto Barch,Otto Barch,Kyrgyz racewalker (1943–2025),Q15180,Q9361
+Q7155690,Q6581097,1987-07-11T00:00:00Z,14,Pavel Matyash,Pavel Matiash,footballer,Q813,Q9361
+Q7278435,Q6581097,1969-05-07T00:00:00Z,6,Raatbek Sanatbayev,Raatbek Sanatbayev,Kyrgyzstani wrestler and politician (1969–2006),Q813,Q47282
+Q72975620,Q6581072,1988-06-13T00:00:00Z,5,Katharina Konradi,Katharina Konradi,Kyrgyz operatic soprano,Q813,Q9361
+Q7361568,Q6581097,1987-08-28T00:00:00Z,4,Roman Ablakimov,Roman Ablakimov,footballer,Q813,Q9361
+Q7361568,Q6581097,1987-08-28T00:00:00Z,4,Roman Ablakimov,Roman Ablakimov,footballer,Q232,Q9361
+Q7362044,Q6581097,1981-03-30T00:00:00Z,3,Roman Kornilov,Roman Kornilov,footballer,Q813,Q130276
+Q7362177,Q6581097,1948-09-12T00:00:00Z,3,Roman Shin,Roman Shin,Kyrgyzstani politician,Q813,Q684441
+Q7380977,Q6581097,1990-10-14T00:00:00Z,4,Ruslan Amirov,Ruslan Amirov,footballer,Q813,Q813
+Q7380986,Q6581097,1979-08-22T00:00:00Z,2,Ruslan Jamshidov,Ruslan Djamshidov,footballer,Q813,Q15180
+Q7381002,Q6581097,1986-11-22T00:00:00Z,3,Ruslan Ismailov (sport shooter),Ruslan Ismailov,Kyrgyztani sport shooter,Q813,
+Q7381053,Q6581097,1975-01-04T00:00:00Z,5,Ruslan Sydykov,Ruslan Sydykov,footballer,Q813,Q15180
+Q7382448,Q6581097,1989-12-19T00:00:00Z,3,Rustam Zakirov,Rustam Zakirov,Kyrgyzstani footballer (1989-2020),Q813,
+Q7382472,Q6581097,1985-09-12T00:00:00Z,2,Rustem Usanov,Rustem Usanov,Kyrgyz footballer,Q813,Q15180
+Q73883858,Q6581097,1981-03-24T00:00:00Z,5,Marlen Mamataliev,Marlen Mamataliev,Kyrgyz politician,Q15180,Q9361
+Q73883858,Q6581097,1981-03-24T00:00:00Z,5,Marlen Mamataliev,Marlen Mamataliev,Kyrgyz politician,Q813,Q9361
+Q7453565,Q6581097,1986-06-20T00:00:00Z,2,Sergey Kaleutin,Sergei Kaleutin,footballer,Q159,
+Q7453565,Q6581097,1986-06-20T00:00:00Z,2,Sergey Kaleutin,Sergei Kaleutin,footballer,Q813,
+Q7454067,Q6581097,1983-05-03T00:00:00Z,2,Sergey Pakura,Sergey Pakura,Kyrgysztani middle distance runner,Q813,
+Q7454524,Q6581097,1973-08-29T00:00:00Z,4,Serguei Katchiourine,Serguei Katchiourine,Olympic fencer,Q15180,Q130276
+Q7454524,Q6581097,1973-08-29T00:00:00Z,4,Serguei Katchiourine,Serguei Katchiourine,Olympic fencer,Q159,Q130276
+Q7454524,Q6581097,1973-08-29T00:00:00Z,4,Serguei Katchiourine,Serguei Katchiourine,Olympic fencer,Q813,Q130276
+Q75012682,Q6581097,1993-03-05T00:00:00Z,14,Rafael Fiziev,Rafael Fiziev,Azerbaijani mixed martial arts fighter,Q813,Q163479
+Q75012682,Q6581097,1993-03-05T00:00:00Z,14,Rafael Fiziev,Rafael Fiziev,Azerbaijani mixed martial arts fighter,Q227,Q163479
+Q7504871,Q6581097,1928-10-25T00:00:00Z,3,Shukurbek Beyshenaliev,Shukurbek Beyshenaliev,Russian writer,Q813,Q20626076
+Q7504871,Q6581097,1928-10-25T00:00:00Z,3,Shukurbek Beyshenaliev,Shukurbek Beyshenaliev,Russian writer,Q15180,Q20626076
+Q7678887,Q6581097,1980-04-27T00:00:00Z,4,Talant Samsaliev,Talant Samsaliev,Kyrgyzstani footballer,Q813,Q9361
+Q7678888,Q6581097,1989-10-17T00:00:00Z,4,Talant Dzhanagulov,Talant Dzhanagulov,Olympic judoka,Q813,Q9361
+Q7688538,Q6581072,1976-06-03T00:00:00Z,3,Tatyana Borisova,Tatyana Borisova,Kyrgyzstani distance runner,Q813,Q9361
+Q7688566,Q6581072,1973-05-28T00:00:00Z,2,Tatyana Sudarikova,Tatyana Sudarikova,Olympic javelin thrower,Q813,
+Q7688566,Q6581072,1973-05-28T00:00:00Z,2,Tatyana Sudarikova,Tatyana Sudarikova,Olympic javelin thrower,Q15180,
+Q7688566,Q6581072,1973-05-28T00:00:00Z,2,Tatyana Sudarikova,Tatyana Sudarikova,Olympic javelin thrower,Q159,
+Q7814207,Q6581072,1954-06-17T00:00:00Z,5,Tolekan Ismailova,Tolekan Ismailova,Kirghizia politician,Q813,Q487413
+Q7814207,Q6581072,1954-06-17T00:00:00Z,5,Tolekan Ismailova,Tolekan Ismailova,Kirghizia politician,Q15180,Q487413
+Q7856361,Q6581097,1990-01-31T00:00:00Z,12,Tursunali Rustamov,Tursunali Rustamov,footballer,Q813,Q2990701
+Q7856362,Q6581097,1958-03-17T00:00:00Z,7,Tursunbai Bakir Uulu,Tursunbai Bakir Uulu,Kyrgyzstani politician,Q813,Q1023290
+Q7878722,Q6581097,1976-06-18T00:00:00Z,2,Ulanbek Moldodosov,Ulanbek Moldodosov,Kyrgyzstani weightlifter,Q813,Q9361
+Q7908249,Q6581097,1984-05-28T00:00:00Z,10,Vadim Kharchenko,Vadim Kharchenko,Kyrgyzstani footballer,Q813,Q130276
+Q7911371,Q6581097,1992-10-12T00:00:00Z,18,Valery Kichin,Valery Kichin,Kyrgyzstani association football player,Q813,Q9361
+Q7911371,Q6581097,1992-10-12T00:00:00Z,18,Valery Kichin,Valery Kichin,Kyrgyzstani association football player,Q159,Q9361
+Q7916712,Q6581097,1988-12-13T00:00:00Z,4,Vasilii Danilov,Vasilii Danilov,swimmer,Q813,
+Q7920669,Q6581097,1989-02-02T00:00:00Z,5,Veniamin Shumeyko,Venyamin Shumeyko,Kyrgyz footballer,Q813,Q9361
+Q7936940,Q6581097,1973-06-05T00:00:00Z,3,Vitaly Vasilyev,Vitaly Vasilyev,Kyrgyzstani swimmer,Q813,Q9361
+Q7938403,Q6581097,1984-09-03T00:00:00Z,3,Vladimir Khoroshunov,Vladimir Khoroshunov,Kyrgyzstani footballer,Q813,Q2015760
+Q7938682,Q6581097,1965-06-26T00:00:00Z,3,Vladimir Torgovkin,Vladimir Torgovkin,Olympic wrestler,Q813,
+Q7938682,Q6581097,1965-06-26T00:00:00Z,3,Vladimir Torgovkin,Vladimir Torgovkin,Olympic wrestler,Q159,
+Q7938682,Q6581097,1965-06-26T00:00:00Z,3,Vladimir Torgovkin,Vladimir Torgovkin,Olympic wrestler,Q15180,
+Q7938700,Q6581097,1987-05-08T00:00:00Z,3,Vladimir Verevkin,Vladimir Verevkin,Kyrgyzstani footballer,Q813,Q813
+Q7938924,Q6581097,1980-08-15T00:00:00Z,5,Vladislav Volkov (Kyrgyzstani footballer),Vladislav Volkov,Kyrgyz footballer,Q813,Q2015760
+Q8061810,Q6581097,1973-01-25T00:00:00Z,1,Yury Uliachenko,Yury Uliachenko,Kyrgyzstani canoeist,Q813,
+Q8065877,Q6581072,1960-11-23T00:00:00Z,5,Zamira Sydykova,Zamira Sydykova,Kyrgyzstani diplomat,Q813,Q9361
+Q834792,Q6581097,1933-04-10T00:00:00Z,13,Absamat Masaliyev,Absamat Masaliyev,Soviet politician (1933-2004),Q813,Q12817795
+Q834792,Q6581097,1933-04-10T00:00:00Z,13,Absamat Masaliyev,Absamat Masaliyev,Soviet politician (1933-2004),Q15180,Q12817795
+Q84720784,Q6581097,1975-02-07T00:00:00Z,9,Kanatbek Isaev,Kanatbek Isaev,"politician, member of the Kyrgyz Parliament, leader of the Kyrgyzstan party",Q813,Q2781917
+Q85859291,Q6581097,1995-11-01T00:00:00Z,8,Maxim Gordeev,Maxim Gordeev,Kyrgyz alpine skier,Q813,Q194452
+Q85943445,Q6581097,1993-05-21T00:00:00Z,8,Arsalan Budazhapov,Arsalan Budazhapov,Kyrgyz amateur wrestler,Q813,
+Q86682524,Q6581097,2000-02-09T00:00:00Z,3,Kamolidin Tashiyev,Kamolidin Tashiev,Kyrgyzstani footballer,Q813,Q487689
+Q876789,Q6581097,1978-06-21T00:00:00Z,7,Vitus Nagorny,Vitus Nagorny,German footballer,Q813,Q1355846
+Q876789,Q6581097,1978-06-21T00:00:00Z,7,Vitus Nagorny,Vitus Nagorny,German footballer,Q15180,Q1355846
+Q876789,Q6581097,1978-06-21T00:00:00Z,7,Vitus Nagorny,Vitus Nagorny,German footballer,Q183,Q1355846
+Q878787,Q6581097,1961-05-08T00:00:00Z,5,Jengishbek Nazaraliev,Jengishbek Nazaraliev,Kyrgyzstani politician and physician,Q813,Q813
+Q89291512,Q6581097,1996-01-01T00:00:00Z,4,Islambek Orozbekov,Islambek Orozbekov,Kyrgyz amateur wrestler,Q813,
+Q89291523,Q6581097,1997-01-01T00:00:00Z,3,Roman Kim (wrestler),Roman Kim,Kyrgyz amateur wrestler,Q813,
+Q892939,Q6581072,1985-04-19T00:00:00Z,5,Elena Proskurakova,Elena Proskurakova,Olympic judoka,Q813,Q194452
+Q92408537,Q6581097,2001-08-12T00:00:00Z,3,Emir Shigaybayev,Emir Shigaybaev,Kyrgyz association football player,Q813,Q9361
+Q9283969,Q6581072,1968-11-01T00:00:00Z,5,Gulnur Satylganova,Gulnur Satylganova,Kyrgyz singer,Q813,Q1647779
+Q9336637,Q6581097,1984-07-29T00:00:00Z,3,Sergey Chikishev,Sergey Chikishev,association football player,Q813,Q15180
+Q9336661,Q6581097,1977-04-23T00:00:00Z,7,Sergey Kutsov,Sergey Kutsov,Kyrgyzstani footballer,Q813,Q130276
+Q9370472,Q6581097,1975-07-23T00:00:00Z,6,Valery Berezovsky,Valeriy Berezovskiy,Kyrgystani football player,Q813,Q9361
+Q9386046,Q6581097,1972-07-30T00:00:00Z,5,Zakir Dzhalilov,Zakir Djalilov,Kyrgyz association football player,Q15180,Q9361
+Q9386046,Q6581097,1972-07-30T00:00:00Z,5,Zakir Dzhalilov,Zakir Djalilov,Kyrgyz association football player,Q813,Q9361
+Q9386801,Q6581097,1972-01-17T00:00:00Z,5,Zamirbek Zhumagulov,Zamirbek Jumagulov,Kyrgyzstani footballer,Q813,Q9361
+Q946098,Q6581072,1989-12-13T00:00:00Z,12,Ksenia Palkina,Ksenia Palkina,Kyrgyzstani tennis player,Q813,Q154801
+Q96338578,Q6581097,1964-12-15T00:00:00Z,22,Kubatbek Boronov,Kubatbek Boronov,Kyrgyz politician,Q813,Q8066755
+Q97119949,Q6581097,1966-01-01T00:00:00Z,1,Nur Omarov,Nur Omarov,Kyrgyz political scientist,Q813,
+Q97288924,Q6581097,1962-04-28T00:00:00Z,1,Igor Feldman,Igor Feldman,Kyrgyz modern pentathlete,Q813,
+Q97288924,Q6581097,1962-04-28T00:00:00Z,1,Igor Feldman,Igor Feldman,Kyrgyz modern pentathlete,Q15180,
+Q97325252,Q6581072,1976-12-17T00:00:00Z,4,Aida Ismailova,Aida Ismailova,Kyrgyz politician,Q813,Q9361
+Q97332650,Q6581097,1971-02-09T00:00:00Z,1,Pavel Uvarov (pentathlete),Pavel Uvarov,Kyrgyz modern pentathlete,Q813,Q2015760
+Q97332650,Q6581097,1971-02-09T00:00:00Z,1,Pavel Uvarov (pentathlete),Pavel Uvarov,Kyrgyz modern pentathlete,Q15180,Q2015760
+Q976179,Q6581097,1981-03-16T00:00:00Z,6,Vladislav Chernyshov,Vladislav Chernyshov,Kazakhstani footballer,Q813,Q9361
+Q976179,Q6581097,1981-03-16T00:00:00Z,6,Vladislav Chernyshov,Vladislav Chernyshov,Kazakhstani footballer,Q232,Q9361
+Q98106400,Q6581072,2004-08-25T00:00:00Z,4,Elizaveta Pecherskikh,Elizaveta Rogozhnikova,Kyrgyzstani swimmer,Q813,Q9361
+Q981956,Q6581097,1953-11-19T00:00:00Z,15,Kanybek Osmonaliyev,Kanybek Osmonaliyev,Soviet weightlifter,Q813,Q2855539
+Q981956,Q6581097,1953-11-19T00:00:00Z,15,Kanybek Osmonaliyev,Kanybek Osmonaliyev,Soviet weightlifter,Q15180,Q2855539
+Q98842937,Q6581097,1971-05-03T00:00:00Z,7,Raimbek Matraimov,Raimbek Matraimov,Kyrgyz politician,Q813,Q2556727

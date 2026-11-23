@@ -1,0 +1,877 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q1003422,Q6581097,1986-09-10T00:00:00Z,14,Francis Litsingi,Francis Litsingi,Congolese footballer (born 1986),Q971,Q3844
+Q100587870,Q6581097,2001-03-13T00:00:00Z,4,Nathan Fuakala,Nathan Fuakala,Belgian footballer,Q142,Q34001
+Q100587870,Q6581097,2001-03-13T00:00:00Z,4,Nathan Fuakala,Nathan Fuakala,Belgian footballer,Q971,Q34001
+Q100919546,Q6581097,1999-05-17T00:00:00Z,10,Gabriel Charpentier,Gabriel Charpentier,Congolese and French footballer,Q971,Q142
+Q100919546,Q6581097,1999-05-17T00:00:00Z,10,Gabriel Charpentier,Gabriel Charpentier,Congolese and French footballer,Q142,Q142
+Q1017284,Q6581097,1979-05-31T00:00:00Z,8,Edson Minga,Edson Minga,Republic of the Congo footballer,Q971,Q3844
+Q102068544,Q6581097,2002-09-28T00:00:00Z,12,Béni Makouana,Béni Makouana,Congolese footballer,Q971,Q3844
+Q103232786,Q6581097,2003-09-15T00:00:00Z,13,Warren Bondo,Warren Bondo,Congolese and French association football player,Q971,Q192393
+Q103232786,Q6581097,2003-09-15T00:00:00Z,13,Warren Bondo,Warren Bondo,Congolese and French association football player,Q142,Q192393
+Q10445411,Q6581097,1988-04-17T00:00:00Z,2,Mimille Okiélé,Mimille Okiélé,footballer,Q971,Q3229454
+Q104579527,Q6581097,1998-07-18T00:00:00Z,10,Antoine Makoumbou,Antoine Makoumbou,French-Congolese footballer,Q142,Q90
+Q104579527,Q6581097,1998-07-18T00:00:00Z,10,Antoine Makoumbou,Antoine Makoumbou,French-Congolese footballer,Q971,Q90
+Q10476001,Q6581097,1979-12-31T00:00:00Z,4,Jean-Sylvestre N'Keoua,Jean-Silvestre N'Keoua,Republic of the Congo footballer,Q971,Q1152126
+Q10476001,Q6581097,1979-12-31T00:00:00Z,4,Jean-Sylvestre N'Keoua,Jean-Silvestre N'Keoua,Republic of the Congo footballer,Q1152126,Q1152126
+Q104840765,Q6581097,1924-03-23T00:00:00Z,2,Jean-Baptiste Kibwe,Jean-Baptiste Kibwe,Congolese politician,Q974,Q187593
+Q104840765,Q6581097,1924-03-23T00:00:00Z,2,Jean-Baptiste Kibwe,Jean-Baptiste Kibwe,Congolese politician,Q971,Q187593
+Q104840765,Q6581097,1924-03-03T00:00:00Z,2,Jean-Baptiste Kibwe,Jean-Baptiste Kibwe,Congolese politician,Q974,Q187593
+Q104840765,Q6581097,1924-03-03T00:00:00Z,2,Jean-Baptiste Kibwe,Jean-Baptiste Kibwe,Congolese politician,Q971,Q187593
+Q10496304,Q6581097,1977-07-12T00:00:00Z,2,Patrick Kazadi,Patrick Kazadi,Democratic Republic of the Congo footballer,Q971,Q3844
+Q10496304,Q6581097,1977-07-12T00:00:00Z,2,Patrick Kazadi,Patrick Kazadi,Democratic Republic of the Congo footballer,Q974,Q3844
+Q10496304,Q6581097,1973-03-29T00:00:00Z,2,Patrick Kazadi,Patrick Kazadi,Democratic Republic of the Congo footballer,Q974,Q3844
+Q10496304,Q6581097,1973-03-29T00:00:00Z,2,Patrick Kazadi,Patrick Kazadi,Democratic Republic of the Congo footballer,Q971,Q3844
+Q105072416,Q6581072,1960-11-29T00:00:00Z,1,Jean-Paul Mpila,Jean-Paul Mpila,Congolese football manager,Q971,Q3844
+Q105202099,Q6581097,1986-01-17T00:00:00Z,3,Steven Moussala,Steven Moussala,photographer from Congo,Q971,Q3844
+Q105202099,Q6581097,1986-01-17T00:00:00Z,3,Steven Moussala,Steven Moussala,photographer from Congo,Q142,Q3844
+Q10544535,Q6581097,1990-01-31T00:00:00Z,6,Jordan Massengo,Jordan Massengo,Congolese footballer,Q971,Q142
+Q10549210,Q6581097,1992-03-13T00:00:00Z,3,Jean-Bryan Boukaka,Jean-Bryan Boukaka,Congolese footballer,Q971,Q8358
+Q105551696,Q6581097,1999-12-07T00:00:00Z,4,Raddy Ovouka,Raddy Ovouka,Congolese professional footballer,Q971,
+Q106087236,Q6581097,2000-03-11T00:00:00Z,6,Nsana Simon,Nsana Simon,French footballer,Q142,Q160506
+Q106087236,Q6581097,2000-03-11T00:00:00Z,6,Nsana Simon,Nsana Simon,French footballer,Q971,Q160506
+Q106677189,Q6581097,2000-02-02T00:00:00Z,2,Oba Ikama Ulitch,Oba Ikama Ulitch,Congolese association football player,Q971,Q971
+Q107132264,Q6581097,1999-01-20T00:00:00Z,1,Lionel Samba,Lionel Samba,Congolese and French footballer,Q142,Q3844
+Q107132264,Q6581097,1999-01-20T00:00:00Z,1,Lionel Samba,Lionel Samba,Congolese and French footballer,Q971,Q3844
+Q107323658,Q6581097,1999-02-06T00:00:00Z,5,Dorian Keletela,Dorian Keletela,Congolese sprinter (born 1999),Q971,Q971
+Q107637110,Q6581097,2002-01-08T00:00:00Z,4,Kamal Bafounta,Kamal Bafounta,French and Spanish footballer,Q29,Q13598
+Q107637110,Q6581097,2002-01-08T00:00:00Z,4,Kamal Bafounta,Kamal Bafounta,French and Spanish footballer,Q971,Q13598
+Q107637110,Q6581097,2002-01-08T00:00:00Z,4,Kamal Bafounta,Kamal Bafounta,French and Spanish footballer,Q142,Q13598
+Q1077509,Q6581097,1987-07-11T00:00:00Z,14,Chris Malonga,Chris Malonga,French and Congolese footballer,Q971,Q212420
+Q1077509,Q6581097,1987-07-11T00:00:00Z,14,Chris Malonga,Chris Malonga,French and Congolese footballer,Q142,Q212420
+Q108111737,Q6581097,2002-05-06T00:00:00Z,16,Bradley Locko,Bradley Locko,French footballer (born 2002),Q142,Q193877
+Q108111737,Q6581097,2002-05-06T00:00:00Z,16,Bradley Locko,Bradley Locko,French footballer (born 2002),Q971,Q193877
+Q109043954,Q6581072,1998-01-01T00:00:00Z,4,Sardoine Mia,,Congolese painter (born 1998),Q971,Q223920
+Q109318125,Q6581097,1971-03-21T00:00:00Z,3,Alain Mayama,Alain Mayama,Congolese Catholic priest,Q971,Q3844
+Q1096417,Q6581097,1932-02-28T00:00:00Z,9,Claude Antoine Dacosta,Claude Antoine Dacosta,Prime Minister of the Republic of the Congo (1931–2007),Q971,Q223920
+Q109925610,Q6581072,1992-01-01T00:00:00Z,1,Ruth Kodia,Ruth Kodia,Congolese handball player,Q971,
+Q109925620,Q6581072,1996-08-05T00:00:00Z,3,Kimberley Rutil,Kimberley Rutil,Congolese handball player,Q971,Q1138493
+Q109925620,Q6581072,1996-08-05T00:00:00Z,3,Kimberley Rutil,Kimberley Rutil,Congolese handball player,Q142,Q1138493
+Q109925625,Q6581072,1992-04-27T00:00:00Z,2,Diane Yimga,Diane Yimga,Congolese handball player,Q971,
+Q109925625,Q6581072,1992-04-27T00:00:00Z,2,Diane Yimga,Diane Yimga,Congolese handball player,Q1009,
+Q109925630,Q6581072,2004-04-23T00:00:00Z,5,Betchaïdelle Ngombele,Betchaïdelle Ngombele,Congolese handball player,Q971,Q3844
+Q109925635,Q6581072,1994-01-01T00:00:00Z,1,Sharon Dorson,Sharon Dorson,Congolese handball player,Q971,
+Q109925639,Q6581072,1997-09-18T00:00:00Z,3,Joséphine Nkou,Joséphine Nkou,Congolese handball player,Q142,Q142
+Q109925639,Q6581072,1997-09-18T00:00:00Z,3,Joséphine Nkou,Joséphine Nkou,Congolese handball player,Q971,Q142
+Q109937321,Q6581072,1997-01-19T00:00:00Z,2,Mercianne Hendo,Mercianne Hendo,Congolese handball player,Q971,Q971
+Q109937322,Q6581072,1993-06-21T00:00:00Z,1,Klenn Divoko,Klenn Divoko,Congolese handball player,Q971,
+Q109937390,Q6581072,1992-01-01T00:00:00Z,1,Magalie Bazekene,Magalie Bazekene,Congolese handball player,Q971,
+Q109937398,Q6581072,1998-01-01T00:00:00Z,1,Avelle Ntondele,Avelle Ntondele,Congolese handball player,Q971,
+Q109937407,Q6581072,1996-01-01T00:00:00Z,1,Belvina Mouyamba,Belvina Mouyamba,Congolese handball player,Q971,
+Q109937418,Q6581072,1994-01-01T00:00:00Z,1,Richca Obangue,Richca Obangue,Congolese handball player,Q971,
+Q109937428,Q6581072,1995-01-01T00:00:00Z,1,Patience Okabande,Patience Okabande,Congolese handball player,Q971,
+Q109937434,Q6581072,2000-06-30T00:00:00Z,6,Fanta Diagouraga,Fanta Diagouraga,Congolese handball player,Q142,Q363266
+Q109937434,Q6581072,2000-06-30T00:00:00Z,6,Fanta Diagouraga,Fanta Diagouraga,Congolese handball player,Q971,Q363266
+Q109937438,Q6581072,1994-10-21T00:00:00Z,3,Kassandra Jappont,Kassandra Jappont,Congolese handball player,Q142,Q947069
+Q109937438,Q6581072,1994-10-21T00:00:00Z,3,Kassandra Jappont,Kassandra Jappont,Congolese handball player,Q971,Q947069
+Q110208053,Q6581072,1992-11-21T00:00:00Z,1,Rita Saraiva,Rita Saraiva,Congolese handball player,Q971,
+Q110358689,Q6581097,1953-01-28T00:00:00Z,1,Charles Omboumahou,Charles Omboumahou,Congolese sports administrator,Q971,
+Q110561514,Q6581097,2001-07-01T00:00:00Z,6,Yannis M'Bemba,Yannis M'Bemba,French footballer,Q1000,Q41604
+Q110561514,Q6581097,2001-07-01T00:00:00Z,6,Yannis M'Bemba,Yannis M'Bemba,French footballer,Q142,Q41604
+Q110561514,Q6581097,2001-07-01T00:00:00Z,6,Yannis M'Bemba,Yannis M'Bemba,French footballer,Q971,Q41604
+Q110751506,Q6581097,1999-08-17T00:00:00Z,4,Chandrel Massanga,Chandrel Massanga,Turkish footballer,Q971,Q223920
+Q110963683,Q6581097,2000-11-08T00:00:00Z,1,Ismaël Kanda,Ismaël Kanda,French professional footballer,Q971,Q648
+Q110963683,Q6581097,2000-11-08T00:00:00Z,1,Ismaël Kanda,Ismaël Kanda,French professional footballer,Q142,Q648
+Q112321262,Q6581097,1951-09-14T00:00:00Z,3,Philippe Mvouo,Philippe Mvouo,Congolese politician,Q971,Q213089
+Q112399,Q6581097,1952-10-10T00:00:00Z,7,Joseph Kignoumbi Kia Mboungou,Joseph Kignoumbi Kia Mboungou,Congolese politician,Q971,Q223920
+Q112570920,Q6581072,1929-06-28T00:00:00Z,3,Joséphine Mountou-Bayonne,Joséphine Mountou-Bayonne,Congolese politician (1929–2022),Q971,Q2490824
+Q11315377,Q6581072,1958-01-01T00:00:00Z,5,Solange Koulinka,Solange Koulinka,Congolese handballer,Q971,Q3844
+Q113389164,Q6581097,2000-07-24T00:00:00Z,3,Kévin Mouanga,Kévin Mouanga,Congolese and French association footballer,Q142,Q237394
+Q113389164,Q6581097,2000-07-24T00:00:00Z,3,Kévin Mouanga,Kévin Mouanga,Congolese and French association footballer,Q971,Q237394
+Q113801239,Q6581097,1973-11-23T00:00:00Z,6,Brice Armand Ibombo,Armand Brice Ibombo,Congolese Roman Catholic bishop,Q971,Q2820151
+Q113877116,Q6581097,2001-06-15T00:00:00Z,2,Jason Bahamboula,Jason Bahamboula,French footballer,Q971,Q41185
+Q113877116,Q6581097,2001-06-15T00:00:00Z,2,Jason Bahamboula,Jason Bahamboula,French footballer,Q142,Q41185
+Q114246947,Q6581097,1995-02-21T00:00:00Z,4,Fred Dembi,Fred Dembi,Congolese and French footballer (born 1995),Q142,Q223920
+Q114246947,Q6581097,1995-02-21T00:00:00Z,4,Fred Dembi,Fred Dembi,Congolese and French footballer (born 1995),Q971,Q223920
+Q114258201,Q6581072,1959-01-01T00:00:00Z,7,Lydie Pongault,Lydie Pongault,Congolese politician,Q971,
+Q115598240,Q6581072,1940-01-01T00:00:00Z,2,Cecile-Ivelyse Diamoneka,Cécile-Ivelyse Diamoneka,author from Congo writing in French,Q971,Q667652
+Q116067790,Q6581097,2003-04-20T00:00:00Z,2,Loick Ayina,Loick Ayina,Congolese footballer,Q971,
+Q116155,Q6581097,1988-11-04T00:00:00Z,21,Prince Oniangué,Prince Oniangue,Congolese and French footballer,Q142,Q90
+Q116155,Q6581097,1988-11-04T00:00:00Z,21,Prince Oniangué,Prince Oniangue,Congolese and French footballer,Q971,Q90
+Q116269503,Q6581097,1951-08-15T00:00:00Z,6,Maurice Pellosh,Maurice Pellosh,Congolese photographer (1951 — 2023),Q971,Q4949228
+Q117009265,Q6581097,2005-08-11T00:00:00Z,5,Déo Bassinga,Déo Bassinga,Congolese footballer (born 2005),Q971,Q3844
+Q117187756,Q6581097,1998-06-05T00:00:00Z,2,Messie Biatoumoussoka,Messie Biatoumoussoka,Congolese and French footballer,Q971,Q160506
+Q117187756,Q6581097,1998-06-05T00:00:00Z,2,Messie Biatoumoussoka,Messie Biatoumoussoka,Congolese and French footballer,Q142,Q160506
+Q117441854,Q6581097,1952-11-07T00:00:00Z,2,Gabriel Dengaki,Gabriel N'dengaki,Congolese footballer (1952–2025),Q971,
+Q117441932,Q6581097,1945-07-11T00:00:00Z,1,Jean-Michel Ongagna,Jean-Michel Ongagna,Congolese footballer (1945–2021),Q971,
+Q11764472,Q6581097,1944-04-07T00:00:00Z,7,Léon Yombe,Léon Yombe,Congolese athletics competitor,Q971,
+Q11902951,Q6581072,1950-01-01T00:00:00Z,3,Yolande Kada-Gango,Yolande Kada-Gango,Congolese handballer,Q971,
+Q119528826,Q6581072,1974-01-01T00:00:00Z,3,Therese Patricia Okoumou,Therese Patricia Okoumou,immigrant rights activist,Q971,
+Q121333744,Q6581097,1997-08-20T00:00:00Z,4,Alain Ipiélé,Alain Ipiélé,French-Congolese footballer,Q971,Q90
+Q121333744,Q6581097,1997-08-20T00:00:00Z,4,Alain Ipiélé,Alain Ipiélé,French-Congolese footballer,Q142,Q90
+Q12312502,Q6581097,1991-01-08T00:00:00Z,4,Plaisir Bahamboula,Plaisir Bahamboula,French footballer,Q142,Q208812
+Q12312502,Q6581097,1991-01-08T00:00:00Z,4,Plaisir Bahamboula,Plaisir Bahamboula,French footballer,Q971,Q208812
+Q123196730,Q6581072,1942-02-03T00:00:00Z,4,Élise Thérèse Gamassa,Élise Thérèse Gamassa,Congolese politician defending women's rights,Q971,Q739308
+Q1235985,Q6581097,1942-01-01T00:00:00Z,9,Hervé Itoua,Hervé Itoua,Catholic bishop,Q971,
+Q124214861,Q6581097,2004-09-26T00:00:00Z,3,Yvan Ikia Dimi,Yvan Ikia Dimi,footballer,Q971,
+Q124214861,Q6581097,2004-09-26T00:00:00Z,3,Yvan Ikia Dimi,Yvan Ikia Dimi,footballer,Q142,
+Q125567359,Q6581097,1993-06-02T00:00:00Z,1,Brandon Diau,Brandon Diau,Congolese footballer,Q971,
+Q125567359,Q6581097,1993-06-02T00:00:00Z,1,Brandon Diau,Brandon Diau,Congolese footballer,Q183,
+Q126506865,Q6581097,2004-05-09T00:00:00Z,7,Christ Makosso,Christ Makosso,footballer,Q971,Q3844
+Q12720229,Q6581072,1955-01-01T00:00:00Z,4,Aleth Félix-Tchicaya,Aleth Felix-Tchicaya,Congolese writer,Q971,Q3844
+Q12720229,Q6581072,1955-01-01T00:00:00Z,4,Aleth Félix-Tchicaya,Aleth Felix-Tchicaya,Congolese writer,Q31,Q3844
+Q12728341,Q6581072,1959-01-01T00:00:00Z,11,Flore Hazoumé,Flore Hazoumé,Congolese writer,Q971,Q3844
+Q127576,Q6581097,1987-01-31T00:00:00Z,16,Christopher Oualembo,Christopher Oualembo,Congolese footballer,Q974,Q185075
+Q127576,Q6581097,1987-01-31T00:00:00Z,16,Christopher Oualembo,Christopher Oualembo,Congolese footballer,Q971,Q185075
+Q127576,Q6581097,1987-01-31T00:00:00Z,16,Christopher Oualembo,Christopher Oualembo,Congolese footballer,Q142,Q185075
+Q127813158,Q6581072,1952-11-07T00:00:00Z,5,Scholastique Dianzinga,Scholastique Dianzinga,Congolese historian,Q971,Q3844
+Q1287521,Q6581097,1933-09-23T00:00:00Z,6,Ambroise Noumazalaye,Ambroise Noumazalaye,Prime Minister of the Republic of the Congo (1933-2007),Q971,Q3844
+Q129158424,Q6581097,2000-06-18T00:00:00Z,3,Freddy Mayala,Freddy Mayala,Congolese swimmer,Q971,
+Q134267924,Q6581097,1912-12-12T00:00:00Z,3,Paul Kamba,,"Congolese singer-songwriter, guitarist and pioneer of Congolese rumba (1912–1950)",Q971,Q30228065
+Q134411712,Q6581097,1959-01-28T00:00:00Z,3,Daniel Owassa,Daniel Owassa,Congolese diplomat,Q971,
+Q134511428,Q6581097,1956-02-17T00:00:00Z,2,Firmin Edouard Matoko,Firmin Edouard Matoko,Senior UNESCO official,Q971,
+Q135068772,Q6581097,2000-01-09T00:00:00Z,3,Jésah Ayessa,Jésah Ayessa,French footballer,Q971,
+Q135068772,Q6581097,2000-01-09T00:00:00Z,3,Jésah Ayessa,Jésah Ayessa,French footballer,Q142,
+Q1353745,Q6581097,1938-08-04T00:00:00Z,15,Jean Nguza Karl-i-Bond,Nguza Karl-i-Bond,Democratic Republic of the Congo politician (1938-2003),Q971,Q451850
+Q1353745,Q6581097,1938-08-04T00:00:00Z,15,Jean Nguza Karl-i-Bond,Nguza Karl-i-Bond,Democratic Republic of the Congo politician (1938-2003),Q974,Q451850
+Q136218934,Q6581097,2005-06-03T00:00:00Z,3,Philippe Ndinga,Philippe Ndinga,Congolese association football player,Q1000,Q3825
+Q136218934,Q6581097,2005-06-03T00:00:00Z,3,Philippe Ndinga,Philippe Ndinga,Congolese association football player,Q971,Q3825
+Q137177972,Q6581097,1977-10-04T00:00:00Z,6,François Halyday Mbouangui,François Halyday Mbouangui,Congolese Roman Catholic bishop,Q971,Q3314787
+Q137926919,Q6581097,2007-09-06T00:00:00Z,1,Brad Mantsounga,Brad-Hamilton Mantsounga,footballer,Q971,
+Q137926919,Q6581097,2007-09-06T00:00:00Z,1,Brad Mantsounga,Brad-Hamilton Mantsounga,footballer,Q142,
+Q138049438,Q6581097,1925-07-14T00:00:00Z,1,Marie-Joseph Leko,Marie-Joseph Leko,Republic of the Congo politician (born 1925),Q971,Q109504902
+Q138427838,Q6581072,1936-03-25T00:00:00Z,3,Émilie Manima,Émilie Manima,Congolese politician,Q971,Q3844
+Q138427838,Q6581072,1936-03-25T00:00:00Z,3,Émilie Manima,Émilie Manima,Congolese politician,Q974,Q3844
+Q138659994,Q6581097,1992-11-04T00:00:00Z,3,Jocelin-Patrick Mandzela,Jocelin-Patrick Mandzela,,Q971,Q656
+Q139093,Q6581097,1986-05-27T00:00:00Z,5,Jean-Claude Mpassy,Jean-Claude Mpassy,German footballer,Q183,Q205929
+Q139093,Q6581097,1986-05-27T00:00:00Z,5,Jean-Claude Mpassy,Jean-Claude Mpassy,German footballer,Q971,Q205929
+Q139791406,Q6581097,1956-08-29T00:00:00Z,1,Mavoungou Zinga Mabio,Mavoungou Zinga Mabio,Congolese politician,Q971,
+Q1397945,Q6581097,1950-06-06T00:00:00Z,12,Paul Moukila,Paul Moukila,Congolese footballer (1950–1992),Q971,Q3491439
+Q14243630,Q6581097,1992-10-26T00:00:00Z,10,Ulysse Diallo,Ulysse Diallo,association footballer,Q912,Q3703
+Q14243630,Q6581097,1992-10-26T00:00:00Z,10,Ulysse Diallo,Ulysse Diallo,association footballer,Q971,Q3703
+Q14272783,Q6581097,1994-03-03T00:00:00Z,13,Christoffer Mafoumbi,Christoffer Mafoumbi,French-Congolese footballer,Q971,Q34001
+Q14272783,Q6581097,1994-03-03T00:00:00Z,13,Christoffer Mafoumbi,Christoffer Mafoumbi,French-Congolese footballer,Q142,Q34001
+Q1429431,Q6581097,1971-10-10T00:00:00Z,4,Florent Baloki,Florent Baloki-Milandou,Congolese association football player (1971-2007),Q971,Q3844
+Q1441303,Q6581097,1989-07-27T00:00:00Z,8,Franchel Ibara,Franchel Ibara,Congolese footballer,Q971,Q3844
+Q1442493,Q6581097,1985-08-09T00:00:00Z,5,Francky Sembolo,Francky Sembolo,Congolese footballer,Q971,Q2088506
+Q14538209,Q6581097,1989-07-31T00:00:00Z,8,Ulrich Kapolongo,Ulrich Kapolongo,Republic of the Congo footballer,Q971,Q3844
+Q14776444,Q6581072,1990-08-15T00:00:00Z,3,Chardente Saya Ndoulou,Chardente Ndoulou,Congolese women's footballer,Q971,Q8066011
+Q14776532,Q6581072,1991-03-08T00:00:00Z,5,Laure Koléla,Laure Koléla,Congolese association football player,Q971,Q223920
+Q1495349,Q6581097,1942-07-28T00:00:00Z,13,Louis Portella Mbuyu,Louis Portella,Congolese catholic bishop,Q971,Q223920
+Q1497963,Q6581097,1950-01-01T00:00:00Z,10,Timothée Modibo-Nzockena,Timothée Modibo-Nzockena,Congolese catholic priest (1950-2016),Q971,
+Q15046890,Q6581097,1957-07-25T00:00:00Z,6,Jean-Claude Gakosso,Jean-Claude Gakosso,Republic of the Congo politician,Q971,Q765370
+Q15069958,Q6581097,1942-01-01T00:00:00Z,8,Jean-Michel Tchissoukou,Jean-Michel Tchissoukou,Congolese film director,Q971,Q223920
+Q15407130,Q6581097,1976-02-13T00:00:00Z,6,Dieudonné Niangouna,Dieudonné Niangouna,"Congolese playwright, actor and theatre director",Q971,Q3844
+Q1541759,Q6581097,1938-12-15T00:00:00Z,14,Jean-Baptiste Tati Loutard,Jean-Baptiste Tati-Loutard,Republic of the Congo politician (1938–2009),Q971,Q223920
+Q1541759,Q6581097,1938-12-15T00:00:00Z,14,Jean-Baptiste Tati Loutard,Jean-Baptiste Tati-Loutard,Republic of the Congo politician (1938–2009),Q142,Q223920
+Q15489258,Q6581072,1953-09-06T00:00:00Z,6,Marie-Léontine Tsibinda,Marie-Leontine Tsibinda,Republic of Congo writer,Q971,Q855327
+Q15489258,Q6581072,1953-09-06T00:00:00Z,6,Marie-Léontine Tsibinda,Marie-Leontine Tsibinda,Republic of Congo writer,Q16,Q855327
+Q15489258,Q6581072,1958-01-01T00:00:00Z,6,Marie-Léontine Tsibinda,Marie-Leontine Tsibinda,Republic of Congo writer,Q971,Q855327
+Q15489258,Q6581072,1958-01-01T00:00:00Z,6,Marie-Léontine Tsibinda,Marie-Leontine Tsibinda,Republic of Congo writer,Q16,Q855327
+Q15615705,Q6581097,1957-11-12T00:00:00Z,2,Célestin Mpoua,Celestin Mpoua,Handball player from Democratic Republic of the Congo,Q971,
+Q15782448,Q6581097,1992-01-01T00:00:00Z,7,Allan Kimbaloula,Allan Kimbaloula,Congolese and French footballer (born 1992),Q971,Q182481
+Q15782448,Q6581097,1992-01-01T00:00:00Z,7,Allan Kimbaloula,Allan Kimbaloula,Congolese and French footballer (born 1992),Q142,Q182481
+Q1594289,Q6581097,1985-07-06T00:00:00Z,3,Patrick Mouaya,Patrick Mouaya,Republic of the Congo footballer,Q971,Q3844
+Q1594289,Q6581097,1984-07-06T00:00:00Z,3,Patrick Mouaya,Patrick Mouaya,Republic of the Congo footballer,Q971,Q3844
+Q16028595,Q6581097,1941-12-25T00:00:00Z,7,Sébastien Kamba,Sébastien Kamba,Congolese cineast,Q971,Q3844
+Q16189575,Q6581097,1947-05-04T00:00:00Z,3,Alphonse Yanghat,Alphonse Yanghat,Congolese sprint athlete (1947-2018),Q971,
+Q16191165,Q6581097,1961-06-27T00:00:00Z,1,Fernand Sabaye,Fernand Sabaye,Congolese politician,Q971,
+Q16193461,Q6581097,1960-02-25T00:00:00Z,7,Léandre-Alain Baker,Léandre-Alain Baker,filmmaker,Q929,Q3832
+Q16193461,Q6581097,1960-02-25T00:00:00Z,7,Léandre-Alain Baker,Léandre-Alain Baker,filmmaker,Q971,Q3832
+Q16198739,Q6581097,1969-03-12T00:00:00Z,3,Lucien Ebata,Lucien Ebata,Congolese-Canadian businessman,Q971,Q22343237
+Q16198739,Q6581097,1969-03-12T00:00:00Z,3,Lucien Ebata,Lucien Ebata,Congolese-Canadian businessman,Q16,Q22343237
+Q16199771,Q6581097,1988-10-25T00:00:00Z,9,Boris Moubhio Ngonga,Boris Moubhibo Ngonga,Congolese footballer,Q971,Q971
+Q16199771,Q6581097,1988-11-25T00:00:00Z,9,Boris Moubhio Ngonga,Boris Moubhibo Ngonga,Congolese footballer,Q971,Q971
+Q16202864,Q6581097,1985-01-24T00:00:00Z,9,Chancel Massa,Chancel Massa,Congolese footballer,Q971,Q3844
+Q16202864,Q6581097,1985-08-28T00:00:00Z,9,Chancel Massa,Chancel Massa,Congolese footballer,Q971,Q3844
+Q16202864,Q6581097,1987-01-24T00:00:00Z,9,Chancel Massa,Chancel Massa,Congolese footballer,Q971,Q3844
+Q16203384,Q6581097,1989-02-17T00:00:00Z,3,Childran Djodjo Miangounina,Childran Djodjo Miangounina,Congolese footballer,Q971,Q971
+Q16211319,Q6581072,1988-05-07T00:00:00Z,9,Pamela Mouele-Mboussi,Pamela Mouele-Mboussi,Congolese athlete,Q971,Q3844
+Q16211319,Q6581072,1988-07-05T00:00:00Z,9,Pamela Mouele-Mboussi,Pamela Mouele-Mboussi,Congolese athlete,Q971,Q3844
+Q16212519,Q6581097,1996-03-29T00:00:00Z,2,Bersyl Obassi,Bersyl Obassi,Congolese association football player,Q971,Q971
+Q16225249,Q6581097,1994-12-04T00:00:00Z,2,Stanislas Dua Ankira,Stanislas Dua Ankira,Republic of Congo footballer,Q971,Q971
+Q16228878,Q6581097,1996-07-28T00:00:00Z,2,Glen Kinfounia,Glen Kinfounia,Congolese footballer,Q971,Q971
+Q16228987,Q6581097,1996-07-17T00:00:00Z,10,Hardy Binguila,Hardy Binguila,Congolese footballer,Q971,Q223920
+Q16229532,Q6581097,1993-06-22T00:00:00Z,3,Lorry Nkolo,Lorry Nkolo,Congolese footballer,Q971,Q971
+Q16230214,Q6581097,1996-03-31T00:00:00Z,2,Charvely Mabiala,Charvely Mabiala,Congolese footballer,Q971,Q971
+Q16231288,Q6581097,1986-10-29T00:00:00Z,3,Gildas Kiwoko Mouyabi,Gildas Kiwoko Mouyabi,Congolese footballer,Q971,Q971
+Q16232149,Q6581097,1988-07-07T00:00:00Z,3,Hermann Nkodia,Hermann Nkodia,Congolese footballer,Q971,Q971
+Q16233527,Q6581097,1986-03-09T00:00:00Z,4,Rudy Ndey,Rudy Ndey,Republic of the Congo footballer,Q971,Q3844
+Q16233527,Q6581097,1990-03-09T00:00:00Z,4,Rudy Ndey,Rudy Ndey,Republic of the Congo footballer,Q971,Q3844
+Q16233752,Q6581097,1991-03-17T00:00:00Z,10,Dimitri Bissiki,Dimitri Magnoleke Bissiki,Congolese footballer,Q971,Q971
+Q16234117,Q6581097,1991-12-24T00:00:00Z,4,Prince Shembo,Prince Shembo,American football player,Q30,Q16565
+Q16234117,Q6581097,1991-12-24T00:00:00Z,4,Prince Shembo,Prince Shembo,American football player,Q971,Q16565
+Q16235094,Q6581097,1992-04-18T00:00:00Z,2,Tsiba Moukassa,Tsiba Moukassa,Republic of the Congo footballer,Q971,Q971
+Q16235288,Q6581097,1993-12-27T00:00:00Z,9,Mahamane Cissé,Mahamane Cissé,Nigerien footballer,Q912,Q2620152
+Q16235288,Q6581097,1993-12-27T00:00:00Z,9,Mahamane Cissé,Mahamane Cissé,Nigerien footballer,Q971,Q2620152
+Q16235440,Q6581097,1993-02-17T00:00:00Z,2,Henrino Makaya,Henrino Makaya,Congolese footballer,Q971,Q971
+Q16236699,Q6581097,1995-04-22T00:00:00Z,2,Chris Fagih Tchibota,Chris Fagih Tchibota,Congolese footballer,Q971,Q971
+Q16236960,Q6581097,1995-01-12T00:00:00Z,10,Pavelh Ndzila,Pavelh Ndzila,Congolese footballer,Q971,Q971
+Q16239583,Q6581097,1996-02-20T00:00:00Z,4,Kader Bidimbou,Kader Bidimbou,Republic of the Congo footballer,Q971,Q971
+Q16239684,Q6581097,1996-08-02T00:00:00Z,4,Moïse Nkounkou,Moise Nkounkou,Congolese footballer,Q971,Q3844
+Q16266497,Q6581097,1934-02-28T00:00:00Z,2,Jean-Claude Ganga,Jean-Claude Ganga,Congolese sports administrator,Q971,Q3844
+Q1657742,Q6581097,1987-04-14T00:00:00Z,12,Igor N'Ganga,Igor Nganga,Congolese footballer,Q971,Q3838
+Q1662552,Q6581097,1922-04-01T00:00:00Z,5,Mohammed Murad Ghaleb,Mohammed Murad Ghaleb,Epytian politician and diplomat (1922-2007),Q971,Q85
+Q1662552,Q6581097,1922-04-01T00:00:00Z,5,Mohammed Murad Ghaleb,Mohammed Murad Ghaleb,Epytian politician and diplomat (1922-2007),Q79,Q85
+Q16673607,Q6581097,1929-07-17T00:00:00Z,5,Jean-Pierre Makouta-Mboukou,Jean-Pierre Makouta-Mboukou,"Teacher, political researchers, dramatist, novelist",Q971,Q6410537
+Q16681345,Q6581097,1955-01-01T00:00:00Z,3,Tshitenge Lubabu,Tshitenge Lubabu,Congolese journalist,Q971,
+Q16727513,Q6581097,1961-03-08T00:00:00Z,1,Michel Bidimbou,Michel Bidimbou,Congolese politician,Q971,
+Q16727600,Q6581097,1954-01-22T00:00:00Z,3,Roland Bouiti-Viaudo,Roland Bouiti-Viaudo,Republic of the Congo politician,Q971,Q971
+Q16730014,Q6581097,1961-12-02T00:00:00Z,1,Jean-Claude Ibovi,Jean-Claude Ibovi,Congolese politician,Q971,
+Q16733553,Q6581097,1956-11-12T00:00:00Z,1,Serge Blanchard Oba,Serge Blanchard Oba,Republic of the Congo politician,Q971,
+Q1684790,Q6581097,1975-01-31T00:00:00Z,3,Jean-Clotaire Tsoumou-Madza,Jean-Clotaire Tsoumou-Madza,Republic of Congo footballer,Q971,Q3844
+Q16910147,Q6581097,1996-03-05T00:00:00Z,21,Emmanuel Mudiay,Emmanuel Mudiay,Congolese basketball player,Q30,Q3838
+Q16910147,Q6581097,1996-03-05T00:00:00Z,21,Emmanuel Mudiay,Emmanuel Mudiay,Congolese basketball player,Q971,Q3838
+Q16910147,Q6581097,1996-03-05T00:00:00Z,21,Emmanuel Mudiay,Emmanuel Mudiay,Congolese basketball player,Q974,Q3838
+Q16951225,Q6581097,1952-01-01T00:00:00Z,1,Benoît Bati,Benoît Bati,Congolese politician,Q971,
+Q17005466,Q6581097,1926-01-01T00:00:00Z,4,Zacharie Elenga,Zacharie Elenga,Congolese musician,Q974,Q3844
+Q17005466,Q6581097,1926-01-01T00:00:00Z,4,Zacharie Elenga,Zacharie Elenga,Congolese musician,Q971,Q3844
+Q17071495,Q6581097,1970-09-17T00:00:00Z,4,Neil Wigan,Neil Wigan,British diplomat,Q971,
+Q17071495,Q6581097,1970-09-17T00:00:00Z,4,Neil Wigan,Neil Wigan,British diplomat,Q145,
+Q17076721,Q6581097,1952-01-01T00:00:00Z,3,Georges Moyen,Georges Moyen,Congolese physician and politician,Q971,
+Q17110704,Q6581097,1967-12-01T00:00:00Z,1,Jean-Didace Médard Moussodia,Jean-Didace Médard Moussodia,Congolese politician,Q971,
+Q17350937,Q6581097,1935-04-09T00:00:00Z,3,Martial Sinda,Martial Sinda,Congolese poet and academic,Q971,Q6413905
+Q17350961,Q6581097,1968-12-05T00:00:00Z,6,Pierre Tchibota,Pierre Tchibota,Congolese association football player,Q971,Q223920
+Q17353134,Q6581072,1973-11-05T00:00:00Z,5,Niasony,Niasony,Congolese singer,Q971,Q3844
+Q17386339,Q6581097,1994-06-06T00:00:00Z,5,Elvis Mashike,Elvis Mashike Sukisa,Congolese footballer,Q974,Q971
+Q17386339,Q6581097,1994-06-06T00:00:00Z,5,Elvis Mashike,Elvis Mashike Sukisa,Congolese footballer,Q971,Q971
+Q17465910,Q6581072,1959-09-29T00:00:00Z,4,Diane Corner,Diane Corner,UN official,Q145,
+Q17465910,Q6581072,1959-09-29T00:00:00Z,4,Diane Corner,Diane Corner,UN official,Q971,
+Q17496643,Q6581097,1988-10-15T00:00:00Z,4,Lassy Mbouity,Lassy Mbouity,Congolese writer and politician,Q971,Q3844
+Q17496970,Q6581072,1986-09-22T00:00:00Z,6,Jocelyne Mavoungou,Jocelyne Mavoungou,Congolese handball player,Q971,
+Q17518885,Q6581097,1995-02-19T00:00:00Z,13,Nolan Mbemba,Nolan Mbemba,Congolese and French footballer,Q971,Q41604
+Q17518885,Q6581097,1995-02-19T00:00:00Z,13,Nolan Mbemba,Nolan Mbemba,Congolese and French footballer,Q142,Q41604
+Q17518885,Q6581097,1995-02-19T00:00:00Z,13,Nolan Mbemba,Nolan Mbemba,Congolese and French footballer,Q974,Q41604
+Q17544342,Q6581072,1973-11-20T00:00:00Z,10,Léontine Tsiba,Léontine Tsiba,Congolese athletics competitor (* 1973),Q971,Q61451118
+Q17612219,Q6581097,1990-07-21T00:00:00Z,14,Franck Elemba,Franck Elemba,Republic of the Congo shot putter,Q971,Q3844
+Q1771229,Q6581097,1967-06-03T00:00:00Z,10,Benoît Lecomte,Benoît Lecomte,French swimmer,Q142,Q255105
+Q1771229,Q6581097,1967-06-03T00:00:00Z,10,Benoît Lecomte,Benoît Lecomte,French swimmer,Q971,Q255105
+Q1776795,Q6581097,1986-02-22T00:00:00Z,6,Arnaud Monkam,Arnaud Monkam,Cameroonian footballer,Q971,Q132830
+Q1776795,Q6581097,1986-02-22T00:00:00Z,6,Arnaud Monkam,Arnaud Monkam,Cameroonian footballer,Q1009,Q132830
+Q182309,Q6581097,1921-09-13T00:00:00Z,23,Cyrille Adoula,Cyrille Adoula,"Congolese Prime Minister, Ambassador (1921-1978)",Q974,Q3838
+Q182309,Q6581097,1921-09-13T00:00:00Z,23,Cyrille Adoula,Cyrille Adoula,"Congolese Prime Minister, Ambassador (1921-1978)",Q971,Q3838
+Q1832226,Q6581097,1935-01-15T00:00:00Z,6,Jean Serge Essous,Jean-Serge Essous,Congolese musician (1935–2009),Q971,Q3307130
+Q1832226,Q6581097,1935-01-15T00:00:00Z,6,Jean Serge Essous,Jean-Serge Essous,Congolese musician (1935–2009),Q974,Q3307130
+Q1856221,Q6581097,1985-07-04T00:00:00Z,10,Lys Mouithys,Lys Mouithys,Republic of the Congo footballer,Q971,Q3844
+Q18638205,Q6581072,1979-01-30T00:00:00Z,8,Tatiana Bvegadzi,Tatiana Bvegadzi,Olympic judoka,Q971,Q3844
+Q18640185,Q6581097,1991-06-14T00:00:00Z,14,Dieumerci Ndongala,Dieumerci Ndongala,Congolese footballer,Q971,Q3838
+Q18640185,Q6581097,1991-06-14T00:00:00Z,14,Dieumerci Ndongala,Dieumerci Ndongala,Congolese footballer,Q31,Q3838
+Q18640185,Q6581097,1991-06-14T00:00:00Z,14,Dieumerci Ndongala,Dieumerci Ndongala,Congolese footballer,Q974,Q3838
+Q18643865,Q6581097,1997-02-19T00:00:00Z,8,Romaric Belemene,Romaric Belemene,Republic of the Congo basketball player (born 1997),Q971,Q223920
+Q18655697,Q6581097,1939-12-17T00:00:00Z,2,Bernard Combo-Matsiona,Bernard Combo-Matsiona,"Congolese politician, agricultural engineer and minister (1939-2012)",Q971,Q3844
+Q18684644,Q6581097,1990-01-26T00:00:00Z,16,Marvin Baudry,Marvin Baudry,Congolese and French footballer,Q971,Q41876
+Q18684644,Q6581097,1990-01-26T00:00:00Z,16,Marvin Baudry,Marvin Baudry,Congolese and French footballer,Q142,Q41876
+Q18719424,Q6581097,1989-03-06T00:00:00Z,10,Césaire Gandzé,Césaire Gandzé,footballer,Q971,Q971
+Q1872905,Q6581097,1974-12-27T00:00:00Z,5,Luc-Arsène Diamesso,Luc-Arsène Diamesso,German association football player,Q183,Q971
+Q1872905,Q6581097,1974-12-27T00:00:00Z,5,Luc-Arsène Diamesso,Luc-Arsène Diamesso,German association football player,Q971,Q971
+Q18811760,Q6581097,1993-02-13T00:00:00Z,8,Sagesse Babélé,Sagesse Babélé,footballer,Q971,Q971
+Q18811995,Q6581097,1996-06-29T00:00:00Z,16,Silvère Ganvoula,Silvère Ganvoula,Congolese footballer,Q971,Q3844
+Q1925,Q6581097,1990-06-29T00:00:00Z,33,Yann M'Vila,Yann M'Vila,French association football player (born 1990),Q142,Q41604
+Q1925,Q6581097,1990-06-29T00:00:00Z,33,Yann M'Vila,Yann M'Vila,French association football player (born 1990),Q971,Q41604
+Q19259799,Q6581097,1993-03-23T00:00:00Z,11,Kévin Koubemba,Kévin Koubemba,Congolese and French association football player,Q971,Q251731
+Q19259799,Q6581097,1993-03-23T00:00:00Z,11,Kévin Koubemba,Kévin Koubemba,Congolese and French association football player,Q142,Q251731
+Q192661,Q6581097,1985-04-17T00:00:00Z,51,Jo-Wilfried Tsonga,Jo-Wilfried Tsonga,French tennis player,Q971,Q1476
+Q192661,Q6581097,1985-04-17T00:00:00Z,51,Jo-Wilfried Tsonga,Jo-Wilfried Tsonga,French tennis player,Q142,Q1476
+Q19518286,Q6581072,1972-01-01T00:00:00Z,5,Florence Lina Mouissou,Florence Lina Mouissou,Congolese writer,Q971,
+Q1952495,Q6581097,1949-01-01T00:00:00Z,3,Raymond Serge Bale,Raymond Serge Bale,Congolese diplomat,Q971,
+Q1953445,Q6581097,1927-07-20T00:00:00Z,12,Charles David Ganao,Charles David Ganao,Congolese politician (1926–2012),Q971,Q2490824
+Q1953445,Q6581097,1928-07-20T00:00:00Z,12,Charles David Ganao,Charles David Ganao,Congolese politician (1926–2012),Q971,Q2490824
+Q1979321,Q6581097,1960-01-06T00:00:00Z,9,Anaclet Wamba,Anaclet Wamba,French boxer,Q142,Q3242329
+Q1979321,Q6581097,1960-01-06T00:00:00Z,9,Anaclet Wamba,Anaclet Wamba,French boxer,Q971,Q3242329
+Q19847375,Q6581097,1995-10-07T00:00:00Z,8,Vladis-Emmerson Illoy-Ayyet,Vladis-Emmerson Illoy-Ayyet,Ukrainian association football player,Q212,Q1874
+Q19847375,Q6581097,1995-10-07T00:00:00Z,8,Vladis-Emmerson Illoy-Ayyet,Vladis-Emmerson Illoy-Ayyet,Ukrainian association football player,Q971,Q1874
+Q19968696,Q6581097,1992-02-14T00:00:00Z,5,Hugo Konongo,Hugo Konongo,French and Congolese association football player,Q142,Q7880
+Q19968696,Q6581097,1992-02-14T00:00:00Z,5,Hugo Konongo,Hugo Konongo,French and Congolese association football player,Q971,Q7880
+Q20024989,Q6581097,1990-04-21T00:00:00Z,6,Yannick Loemba,Yannick Loemba,Congolese and Belgian association football player,Q31,Q3844
+Q20024989,Q6581097,1990-04-21T00:00:00Z,6,Yannick Loemba,Yannick Loemba,Congolese and Belgian association football player,Q971,Q3844
+Q20030606,Q6581097,1967-03-02T00:00:00Z,6,Mohamed Siluvangi,Mohamed Siluvangi,Congolese boxer,Q971,Q3838
+Q2034864,Q6581097,1986-01-14T00:00:00Z,7,Maël Lépicier,Maël Lépicier,footballer,Q971,Q1476
+Q2038244,Q6581097,1982-12-31T00:00:00Z,11,Judson Wallace,Charles Judson Wallace,American basketball player,Q971,Q23556
+Q2038244,Q6581097,1982-12-31T00:00:00Z,11,Judson Wallace,Charles Judson Wallace,American basketball player,Q30,Q23556
+Q2055671,Q6581097,1954-01-01T00:00:00Z,10,Jean-Jacques N'Domba,Jean-Jacques N'Domba,Congolese footballer (1954–2024),Q971,Q223920
+Q2055671,Q6581097,1960-01-12T00:00:00Z,10,Jean-Jacques N'Domba,Jean-Jacques N'Domba,Congolese footballer (1954–2024),Q971,Q223920
+Q2069013,Q6581097,1983-03-29T00:00:00Z,10,Yannick Salem,Yannick Salem,Congolese and French footballer,Q142,Q41604
+Q2069013,Q6581097,1983-03-29T00:00:00Z,10,Yannick Salem,Yannick Salem,Congolese and French footballer,Q971,Q41604
+Q20816114,Q6581097,1979-06-20T00:00:00Z,8,Kiripi Katembo,Kiripi Katembo,"Congolese photographer, filmmaker and painter",Q974,Q204381
+Q20816114,Q6581097,1979-06-20T00:00:00Z,8,Kiripi Katembo,Kiripi Katembo,"Congolese photographer, filmmaker and painter",Q971,Q204381
+Q20817355,Q6581072,1973-03-31T00:00:00Z,2,Fatima Beyina-Moussa,Fatima Beyina-Moussa,Director General of ECAir and President of the African Education Foundation (AEF),Q971,Q3718
+Q209845,Q6581072,1979-09-29T00:00:00Z,39,Gaitana (singer),Gaitana,Ukrainian singer,Q212,Q1899
+Q209845,Q6581072,1979-09-29T00:00:00Z,39,Gaitana (singer),Gaitana,Ukrainian singer,Q971,Q1899
+Q20991620,Q6581072,1993-10-24T00:00:00Z,6,Jennifer Batu,Jennifer Batu,Congolese athletics competitor,Q971,Q242191
+Q20993943,Q6581097,1995-05-22T00:00:00Z,9,Dylan Bahamboula,Dylan Bahamboula,Congolese and French association football player,Q142,Q238310
+Q20993943,Q6581097,1995-05-22T00:00:00Z,9,Dylan Bahamboula,Dylan Bahamboula,Congolese and French association football player,Q971,Q238310
+Q21005154,Q6581097,1993-02-05T00:00:00Z,4,Julsy Boukama-Kaya,Julsy Boukama-Kaya,Congolese association football player,Q971,Q971
+Q21067108,Q6581097,1998-07-20T00:00:00Z,6,Merveil Ndockyt,Merveil Ndockyt,Congolese association football player,Q971,Q3844
+Q21067108,Q6581097,1998-07-20T00:00:00Z,6,Merveil Ndockyt,Merveil Ndockyt,Congolese association football player,Q971,Q971
+Q21294691,Q6581097,1992-01-14T00:00:00Z,9,Jules Iloki,Jules Iloki,"Congolese, Guinean and French association football player",Q971,Q90
+Q21294691,Q6581097,1992-01-14T00:00:00Z,9,Jules Iloki,Jules Iloki,"Congolese, Guinean and French association football player",Q142,Q90
+Q21294691,Q6581097,1992-01-14T00:00:00Z,9,Jules Iloki,Jules Iloki,"Congolese, Guinean and French association football player",Q1006,Q90
+Q214776,Q6581097,1938-02-01T00:00:00Z,3,Harald Nestroy,Harald Nestroy,German diplomat,Q971,Q1799
+Q214776,Q6581097,1938-02-01T00:00:00Z,3,Harald Nestroy,Harald Nestroy,German diplomat,Q183,Q1799
+Q2160386,Q6581097,1968-09-24T00:00:00Z,5,Rock Embingou,Rock Embingou,Congolese association football player,Q971,Q971
+Q21621889,Q6581097,1996-02-22T00:00:00Z,11,Yann Mabella,Yann Mabella,French association football player,Q971,Q7880
+Q21621889,Q6581097,1996-02-22T00:00:00Z,11,Yann Mabella,Yann Mabella,French association football player,Q142,Q7880
+Q21763587,Q6581097,1945-05-10T00:00:00Z,2,Pamelo Mounk'a,Pamélo Mounka,Congolese musician (1945-1996),Q971,Q3844
+Q2178739,Q6581097,1982-01-15T00:00:00Z,4,Rémi Adiko,Rémi Adiko,football player,Q971,Q1515
+Q21808617,Q6581097,1959-04-07T00:00:00Z,6,Jean-Didiace Bémou,Jean-Didiace Bémou,Congolese sprinter,Q971,
+Q21808638,Q6581097,1953-07-15T00:00:00Z,6,Antoine Kiakouama,Antoine Kiakouama,Congolese sprinter,Q971,
+Q21808656,Q6581097,1961-02-11T00:00:00Z,5,Henri Ndinga,Henri Ndinga,Republic of the Congo sprinter,Q971,
+Q21936272,Q6581097,1996-06-14T00:00:00Z,12,Gilles Anthony Afoumba,Gilles Anthony Afoumba,Congolese athlete,Q971,Q3844
+Q21936521,Q6581072,1956-05-21T00:00:00Z,8,Françoise M'Pika,Francoise Mpika,Congolese athlete,Q971,
+Q22280180,Q6581097,1995-04-26T00:00:00Z,10,Dylan Saint-Louis,Dylan Saint-Louis,French and Congolese association football player,Q971,Q271659
+Q22280180,Q6581097,1995-04-26T00:00:00Z,10,Dylan Saint-Louis,Dylan Saint-Louis,French and Congolese association football player,Q790,Q271659
+Q22280180,Q6581097,1995-04-26T00:00:00Z,10,Dylan Saint-Louis,Dylan Saint-Louis,French and Congolese association football player,Q142,Q271659
+Q2274101,Q6581097,1989-01-08T00:00:00Z,12,Dominique Malonga (footballer),Dominique Malonga,Congolese footballer,Q142,Q200945
+Q2274101,Q6581097,1989-01-08T00:00:00Z,12,Dominique Malonga (footballer),Dominique Malonga,Congolese footballer,Q971,Q200945
+Q22957702,Q6581072,1992-12-28T00:00:00Z,3,Adama Smith Dickens,Adama Smith Dickens,Congolese footballer,Q971,
+Q22986085,Q6581072,1942-05-21T00:00:00Z,10,Agathe Pembellot,Agathe Pembellot,Congolese judge,Q971,Q223920
+Q23006456,Q6581097,1997-04-10T00:00:00Z,8,Viny Okouo,Viny Okouo,Congolese basketball player,Q971,Q3844
+Q23541290,Q6581097,1996-11-08T00:00:00Z,2,Offrande Zanzala,Offrande Zanzala,Congolese association football player,Q971,Q3844
+Q23900401,Q6581097,1953-06-07T00:00:00Z,5,Rigobert Roger Andely,Rigobert Roger Andely,Congolese economist,Q971,Q3324947
+Q23900401,Q6581097,1953-06-07T00:00:00Z,5,Rigobert Roger Andely,Rigobert Roger Andely,Congolese economist,Q974,Q3324947
+Q23902207,Q6581097,1952-05-24T00:00:00Z,5,Emmanuel M'Pioh,Emmanuel M'Pioh,Congolese long-distance runner,Q971,
+Q23928873,Q6581097,1943-11-13T00:00:00Z,26,Clément Mouamba,Clément Mouamba,Congolese politician (1943–2021),Q971,Q109532893
+Q23969475,Q6581097,1935-01-01T00:00:00Z,5,Guy Menga,Guy Menga,Congolese journalist and writer,Q971,Q109527313
+Q2410725,Q6581072,1989-06-22T00:00:00Z,5,Aminata Aboubakar Yacoub,Aminata Aboubakar Yacoub,Republic of the Congo swimmer,Q971,
+Q24150698,Q6581097,1953-01-01T00:00:00Z,5,Calixte Ganongo,Calixte Ganongo,Congolese businessman and politician,Q971,Q3124895
+Q24175564,Q6581072,1972-01-01T00:00:00Z,7,Jacqueline Lydia Mikolo,Jacqueline Lydia Mikolo,Congolese politician,Q971,
+Q24176158,Q6581072,1963-04-18T00:00:00Z,8,Rosalie Matondo,Rosalie Matondo,"Congolese Research fellow, agricultural engineer and politician",Q971,Q3659
+Q2420980,Q6581097,1975-03-14T00:00:00Z,18,Abd al Malik (rapper),Abd al Malik,French rapper,Q142,Q187153
+Q2420980,Q6581097,1975-03-14T00:00:00Z,18,Abd al Malik (rapper),Abd al Malik,French rapper,Q971,Q187153
+Q2437109,Q6581097,1979-12-08T00:00:00Z,11,Kamini (rapper),Kamini,French rapper,Q971,Q856170
+Q2437109,Q6581097,1979-12-08T00:00:00Z,11,Kamini (rapper),Kamini,French rapper,Q142,Q856170
+Q248332,Q6581097,1938-12-15T00:00:00Z,18,Alfred Raoul,Alfred Raoul,President of Congo-Brazzaville from 1968 to 1969,Q971,Q223920
+Q24880625,Q6581097,1944-05-03T00:00:00Z,5,Jacques Yvon Ndolou,Jacques Yvon Ndolou,politician from the Republic of the Congo,Q971,Q780884
+Q2542749,Q6581097,1944-05-29T00:00:00Z,12,Yves Marie Monot,Yves Marie Monot,Catholic bishop,Q971,Q225568
+Q2542749,Q6581097,1944-05-29T00:00:00Z,12,Yves Marie Monot,Yves Marie Monot,Catholic bishop,Q142,Q225568
+Q254291,Q6581097,1982-06-01T00:00:00Z,13,Matt Moussilou,Matt Moussilou,Congolese-French footballer (born 1982),Q142,Q90
+Q254291,Q6581097,1982-06-01T00:00:00Z,13,Matt Moussilou,Matt Moussilou,Congolese-French footballer (born 1982),Q971,Q90
+Q2547716,Q6581097,1984-05-24T00:00:00Z,15,Lucien Aubey,Lucien Aubey,Congolese and French footballer,Q142,Q3844
+Q2547716,Q6581097,1984-05-24T00:00:00Z,15,Lucien Aubey,Lucien Aubey,Congolese and French footballer,Q971,Q3844
+Q2549681,Q6581097,1978-10-09T00:00:00Z,9,Oscar Ewolo,Oscar Ewolo,Republic of the Congo and French footballer (born 1978),Q971,Q3844
+Q2549681,Q6581097,1978-10-09T00:00:00Z,9,Oscar Ewolo,Oscar Ewolo,Republic of the Congo and French footballer (born 1978),Q142,Q3844
+Q26237842,Q6581072,2000-01-01T00:00:00Z,5,Ingrid Ebouka-Babackas,Ingrid Ebouka-Babackas,Female politician of the Republic of the Congo,Q971,
+Q26251475,Q6581097,1992-03-24T00:00:00Z,1,Japhie Nguia,Japhie Nguia,Republic of the Congo basketball player (born 1992),Q971,Q3844
+Q26254130,Q6581072,1953-01-01T00:00:00Z,7,Arlette Soudan-Nonault,Arlette Soudan-Nonault,Congolese journalist and politician,Q971,Q3844
+Q26254130,Q6581072,1953-01-01T00:00:00Z,7,Arlette Soudan-Nonault,Arlette Soudan-Nonault,Congolese journalist and politician,Q974,Q3844
+Q26262331,Q6581072,1993-01-07T00:00:00Z,9,Marcelle Bouele Bondo,Cecilia Bouele,Congolese sprinter,Q971,Q3844
+Q2626621,Q6581097,1969-01-01T00:00:00Z,11,Guy Goma BBC interview,Guy Goma,Congolese student,Q971,Q971
+Q26689539,Q6581097,1964-04-11T00:00:00Z,4,Jean-Marc Thystère Tchicaya,Jean-Marc Thystère-Tchicaya,Congolese politician,Q971,Q244241
+Q26704923,Q6581097,1996-08-02T00:00:00Z,5,Dienov Andres Koka,Dienov Andres Koka,Congolese swimmer,Q971,
+Q26704953,Q6581097,1997-05-17T00:00:00Z,4,Deo Gracia Ngokaba,Deo Gracia Ngokaba,judoka,Q971,
+Q26838136,Q6581097,1996-02-03T00:00:00Z,4,Anauel Ngamissengue,Anauel Ngamissengue,boxer,Q142,Q3844
+Q26838136,Q6581097,1996-02-03T00:00:00Z,4,Anauel Ngamissengue,Anauel Ngamissengue,boxer,Q971,Q3844
+Q26838458,Q6581097,1995-04-18T00:00:00Z,4,Dival Malonga,Dival Malonga,boxer,Q971,Q3844
+Q268522,Q6581097,1966-02-24T00:00:00Z,35,Alain Mabanckou,Alain Mabanckou,Congolese writer (born 1966),Q971,Q223920
+Q268522,Q6581097,1966-02-24T00:00:00Z,35,Alain Mabanckou,Alain Mabanckou,Congolese writer (born 1966),Q142,Q223920
+Q26920298,Q6581072,1995-01-02T00:00:00Z,6,Bellore Sangala,Bellore Sangala,Republic of the Congo swimmer,Q971,
+Q26924844,Q6581097,1996-05-07T00:00:00Z,9,Mavis Tchibota,Mavis Tchibota,Congolese-Israeli association footballer,Q971,Q223920
+Q26924844,Q6581097,1996-05-07T00:00:00Z,9,Mavis Tchibota,Mavis Tchibota,Congolese-Israeli association footballer,Q801,Q223920
+Q2707137,Q6581097,1979-04-05T00:00:00Z,9,Barel Mouko,Barel Mouko,Congolese footballer,Q971,Q223920
+Q2707390,Q6581097,1941-07-14T00:00:00Z,15,Emmanuel Dongala,Emmanuel Dongala,Congolese chemist and novelist,Q30,Q3844
+Q2707390,Q6581097,1941-07-14T00:00:00Z,15,Emmanuel Dongala,Emmanuel Dongala,Congolese chemist and novelist,Q971,Q3844
+Q2707390,Q6581097,1941-07-14T00:00:00Z,15,Emmanuel Dongala,Emmanuel Dongala,Congolese chemist and novelist,Q929,Q3844
+Q2722930,Q6581097,1985-06-16T00:00:00Z,16,Francis N'Ganga,Francis N'Ganga,footballer,Q971,Q6616
+Q2723134,Q6581097,1984-02-23T00:00:00Z,9,Albin Ebondo,Albin Ebondo,French association football player,Q142,Q23482
+Q2723134,Q6581097,1984-02-23T00:00:00Z,9,Albin Ebondo,Albin Ebondo,French association football player,Q971,Q23482
+Q27244970,Q6581097,1997-04-04T00:00:00Z,9,Jordan Sakho,Jordan Sakho,Congolese basketball player,Q974,Q3838
+Q27244970,Q6581097,1997-04-04T00:00:00Z,9,Jordan Sakho,Jordan Sakho,Congolese basketball player,Q971,Q3838
+Q273791,Q6581072,1964-03-10T00:00:00Z,19,Edith Lucie Bongo,Edith Lucie Bongo,First Lady of Gabon (1964-2009),Q1000,Q3844
+Q273791,Q6581072,1964-03-10T00:00:00Z,19,Edith Lucie Bongo,Edith Lucie Bongo,First Lady of Gabon (1964-2009),Q971,Q3844
+Q27445659,Q6581072,1961-01-01T00:00:00Z,7,Francine Ntoumi,Francine Ntoumi,Congolese parasitologist,Q971,Q3844
+Q27671252,Q6581097,1995-07-05T00:00:00Z,7,Randi Goteni,Randi Goteni,Congolese and French footballer,Q142,Q3844
+Q27671252,Q6581097,1995-07-05T00:00:00Z,7,Randi Goteni,Randi Goteni,Congolese and French footballer,Q971,Q3844
+Q27999609,Q6581097,1944-05-01T00:00:00Z,3,Makosso IV,Moe Makosso IV,17th King of Loango,Q971,Q971
+Q28070428,Q6581097,1996-01-09T00:00:00Z,7,Fernand Mayembo,Fernand Mayembo,association football player,Q971,Q3844
+Q28341308,Q6581097,1997-10-13T00:00:00Z,5,Ismaël Ankobo,Ismaël Ankobo,association football player,Q971,Q3844
+Q2839968,Q6581097,1941-03-25T00:00:00Z,14,Alphonse Poaty-Souchlaty,Alphonse Poaty-Souchlaty,Congolese politician (1941–2024),Q971,Q223920
+Q2849324,Q6581097,1942-01-04T00:00:00Z,10,Ange Édouard Poungui,Ange Édouard Poungui,politician of the Republic of the Congo,Q971,Q3326889
+Q2849558,Q6581097,1963-03-02T00:00:00Z,4,Anges Ngapy,Anges Ngapy,Congolese footballer,Q971,Q213089
+Q285646,Q6581097,1946-03-18T00:00:00Z,10,Anatole Milandou,Anatole Milandou,Catholic archbishop,Q971,Q6413905
+Q2871636,Q6581097,1928-04-28T00:00:00Z,5,Augustin Poignet,Augustin Poignet,Congolese politician (1928-2008),Q971,Q3844
+Q2871915,Q6581097,1953-10-24T00:00:00Z,18,Aurlus Mabélé,Aurlus Mabélé,Congolese singer and composer,Q142,Q3400075
+Q2871915,Q6581097,1953-10-24T00:00:00Z,18,Aurlus Mabélé,Aurlus Mabélé,Congolese singer and composer,Q142,Q3844
+Q2871915,Q6581097,1953-10-24T00:00:00Z,18,Aurlus Mabélé,Aurlus Mabélé,Congolese singer and composer,Q971,Q3400075
+Q2871915,Q6581097,1953-10-24T00:00:00Z,18,Aurlus Mabélé,Aurlus Mabélé,Congolese singer and composer,Q971,Q3844
+Q28801783,Q6581097,2000-07-10T00:00:00Z,7,Prestige Mboungou,Prestige Mboungou,Republic of the Congo association football player,Q971,Q3844
+Q28967456,Q6581097,1984-06-05T00:00:00Z,2,Makassy,Makassy,Congolese and French association football player and rapper,Q971,Q3844
+Q28967456,Q6581097,1984-06-05T00:00:00Z,2,Makassy,Makassy,Congolese and French association football player and rapper,Q142,Q3844
+Q2900663,Q6581097,1982-09-08T00:00:00Z,6,Bhaudry Massouanga,Bhaudry Massouanga,Republic of Congo footballer,Q971,Q971
+Q29048009,Q6581097,1975-11-12T00:00:00Z,6,Benjamin Youla,Benjamin Youla,Congolese athlete (* 1975),Q971,
+Q2925110,Q6581097,1971-03-26T00:00:00Z,9,Christian Samba,Brice Samba,Congolese association football player,Q971,Q1152126
+Q2925110,Q6581097,1971-03-26T00:00:00Z,9,Christian Samba,Brice Samba,Congolese association football player,Q971,Q3844
+Q2926388,Q6581097,1982-04-15T00:00:00Z,11,Bruce Abdoulaye,Bruce Abdoulaye,football player,Q971,Q194145
+Q2926388,Q6581097,1982-04-15T00:00:00Z,11,Bruce Abdoulaye,Bruce Abdoulaye,football player,Q142,Q194145
+Q2926914,Q6581097,1964-12-10T00:00:00Z,3,Bruno Ossébi,Bruno Ossébi,Congolese journalist (1964-2009),Q971,Q142
+Q2926914,Q6581097,1964-12-10T00:00:00Z,3,Bruno Ossébi,Bruno Ossébi,Congolese journalist (1964-2009),Q142,Q142
+Q29578211,Q6581097,1996-12-13T00:00:00Z,11,Yhoan Andzouana,Yhoan Andzouana,Congolese footballer,Q971,Q3844
+Q2964938,Q6581097,1982-05-23T00:00:00Z,3,Christel Kimbembe,Christel Kimbembe,Republic of the Congo footballer,Q971,Q3844
+Q2976884,Q6581097,1951-06-13T00:00:00Z,8,Claude Andrey,Claude Andrey,Swiss association football player and coach,Q971,Q71
+Q2976884,Q6581097,1951-06-13T00:00:00Z,8,Claude Andrey,Claude Andrey,Swiss association football player and coach,Q39,Q71
+Q2980657,Q6581097,1949-01-01T00:00:00Z,3,Clément Miérassa,Clément Miérassa,Republic of the Congo politician,Q971,
+Q30092677,Q6581097,1997-09-25T00:00:00Z,9,Durel Avounou,Durel Avounou,association football player,Q971,Q3844
+Q3018335,Q6581097,1989-02-28T00:00:00Z,6,David Louhoungou,David Louhoungou,Congolese and French footballer,Q142,Q90
+Q3018335,Q6581097,1989-02-28T00:00:00Z,6,David Louhoungou,David Louhoungou,Congolese and French footballer,Q971,Q90
+Q3022596,Q6581097,1975-01-14T00:00:00Z,4,Denis-Christel Sassou Nguesso,Denis-Christel Sassou Nguesso,Congolese politician,Q971,Q3844
+Q3022954,Q6581097,1978-11-09T00:00:00Z,4,Denis Tsoumou,Denis Tsoumou,Congolese footballer,Q971,Q3844
+Q3024657,Q6581097,1988-03-16T00:00:00Z,7,Destin Onka Malonga,Destin Onka Malonga,Congolese footballer (1988–2016),Q971,Q3844
+Q3027201,Q6581097,1969-08-09T00:00:00Z,6,Didier Ekanza Simba,Didier Simba-Ekanza,Congolese association football player,Q974,Q3838
+Q3027201,Q6581097,1969-08-09T00:00:00Z,6,Didier Ekanza Simba,Didier Simba-Ekanza,Congolese association football player,Q971,Q3838
+Q30305316,Q6581097,1997-06-29T00:00:00Z,8,Eden Massouema,Eden Massouema,Congolese and French association football player,Q971,Q241064
+Q30305316,Q6581097,1997-06-29T00:00:00Z,8,Eden Massouema,Eden Massouema,Congolese and French association football player,Q142,Q241064
+Q3037882,Q6581097,1974-12-03T00:00:00Z,3,Doudou Copa,Doudou Copa,Congolese singer,Q971,Q971
+Q3042238,Q6581097,1990-06-24T00:00:00Z,12,Dzon Delarge,John Delarge,footballer,Q971,Q3844
+Q30480291,Q6581097,1997-08-05T00:00:00Z,7,Bryan Passi,Bryan Passi,French association football player,Q971,Q23482
+Q30480291,Q6581097,1997-08-05T00:00:00Z,7,Bryan Passi,Bryan Passi,French association football player,Q142,Q23482
+Q30502301,Q6581097,1997-01-30T00:00:00Z,1,Exaucé Ngassaki,Exaucé Ngassaki,association football player,Q971,Q3844
+Q3052686,Q6581097,1948-04-20T00:00:00Z,4,Emmanuel Dungia,Emmanuel Dungia,Democratic Republic of the Congo politician,Q971,Q834551
+Q3052686,Q6581097,1948-04-20T00:00:00Z,4,Emmanuel Dungia,Emmanuel Dungia,Democratic Republic of the Congo politician,Q974,Q834551
+Q3063929,Q6581097,1988-02-27T00:00:00Z,12,Fabrice Ondama,Fabrice Ondama,Republic of the Congo footballer,Q971,Q3844
+Q3082931,Q6581097,1940-10-10T00:00:00Z,6,Franklin Boukaka,Franklin Boukaka,Congolese artist (1940-1972),Q971,Q3844
+Q3092708,Q6581097,1989-01-21T00:00:00Z,16,Férébory Doré,Férébory Doré,footballer,Q971,Q3844
+Q3104904,Q6581072,1969-01-01T00:00:00Z,7,Ghislaine Sathoud,Ghislaine Sathoud,Congolese writer,Q971,Q223920
+Q3106944,Q6581097,1991-04-24T00:00:00Z,5,Giovan Oniangue,Giovan Oniangue,Congolese basketball player,Q142,Q3844
+Q3106944,Q6581097,1991-04-24T00:00:00Z,5,Giovan Oniangue,Giovan Oniangue,Congolese basketball player,Q971,Q3844
+Q3108437,Q6581097,1983-09-10T00:00:00Z,6,Gladys Bokese,Gladys Bokese,Democratic Republic of the Congo footballer,Q974,Q3838
+Q3108437,Q6581097,1981-09-12T00:00:00Z,6,Gladys Bokese,Gladys Bokese,Democratic Republic of the Congo footballer,Q974,Q3838
+Q3108437,Q6581097,1983-09-10T00:00:00Z,6,Gladys Bokese,Gladys Bokese,Democratic Republic of the Congo footballer,Q971,Q3838
+Q3108437,Q6581097,1981-09-12T00:00:00Z,6,Gladys Bokese,Gladys Bokese,Democratic Republic of the Congo footballer,Q971,Q3838
+Q3121597,Q6581097,1959-08-06T00:00:00Z,7,Guy Brice Parfait Kolélas,Guy Brice Parfait Kolélas,Congolese politician,Q142,Q3844
+Q3121597,Q6581097,1959-08-06T00:00:00Z,7,Guy Brice Parfait Kolélas,Guy Brice Parfait Kolélas,Congolese politician,Q971,Q3844
+Q313389,Q6581097,1989-09-18T00:00:00Z,41,Serge Ibaka,Serge Ibaka,Congolese-Spanish basketball player,Q971,Q3844
+Q313389,Q6581097,1989-09-18T00:00:00Z,41,Serge Ibaka,Serge Ibaka,Congolese-Spanish basketball player,Q29,Q3844
+Q31355346,Q6581097,1995-01-25T00:00:00Z,6,Ramaric Etou,Romaric Etou,association football player (1995-),Q971,Q971
+Q3142653,Q6581097,1961-11-30T00:00:00Z,4,Hugues Ngouelondélé,Hugues Ngouelondélé,Republic of the Congo politician (* 1961),Q971,Q3844
+Q3159687,Q6581097,1907-12-13T00:00:00Z,6,Jacques Opangault,Jacques Opangault,Prime Minister of the Republic of the Congo,Q971,Q2922199
+Q3166001,Q6581097,1903-11-09T00:00:00Z,5,Jean Félix-Tchicaya,Jean Félix-Tchicaya,Congolese politician (1903-1961),Q971,Q3825
+Q3166001,Q6581097,1903-11-09T00:00:00Z,5,Jean Félix-Tchicaya,Jean Félix-Tchicaya,Congolese politician (1903-1961),Q142,Q3825
+Q3167755,Q6581097,1947-03-19T00:00:00Z,6,Jean-Marie Mokoko,Jean-Marie Michel Mokoko,Congolese general officer and politician,Q971,Q3324947
+Q3168083,Q6581097,1946-01-27T00:00:00Z,6,Jean-Michel M'Bono,Jean-Michel M'Bono,Congolese footballer,Q971,Q3844
+Q3168646,Q6581097,1939-07-26T00:00:00Z,4,Jean-Paul Pigasse,Jean-Paul Pigasse,French journalist,Q971,Q7880
+Q3168646,Q6581097,1939-07-26T00:00:00Z,4,Jean-Paul Pigasse,Jean-Paul Pigasse,French journalist,Q142,Q7880
+Q3169789,Q6581097,1936-01-07T00:00:00Z,9,Jean-Pierre Thystère Tchicaya,Jean-Pierre Thystère Tchicaya,Republic of the Congo politician (1936–2008),Q971,Q223920
+Q3170084,Q6581097,1982-09-01T00:00:00Z,6,Jean-Vivien Bantsimba,Jean-Vivien Bantsimba,Congolese and French footballer,Q142,Q90
+Q3170084,Q6581097,1982-09-01T00:00:00Z,6,Jean-Vivien Bantsimba,Jean-Vivien Bantsimba,Congolese and French footballer,Q971,Q90
+Q3173343,Q6581097,1907-02-25T00:00:00Z,4,Jean Malonga,Jean Malonga,Congolese writer and politician (1907-1985),Q971,Q265319
+Q3173343,Q6581097,1907-02-25T00:00:00Z,4,Jean Malonga,Jean Malonga,Congolese writer and politician (1907-1985),Q142,Q265319
+Q3176257,Q6581072,1947-01-01T00:00:00Z,5,Jeannette Balou Tchichelle,Jeannette Balou Tchichelle,Congolese writer (1947–2005),Q971,
+Q3180831,Q6581097,1991-04-09T00:00:00Z,5,John-Christophe Ayina,John-Christophe Ayina,French footballer,Q142,Q30974
+Q3180831,Q6581097,1991-04-09T00:00:00Z,5,John-Christophe Ayina,John-Christophe Ayina,French footballer,Q971,Q30974
+Q3183258,Q6581097,1949-02-02T00:00:00Z,9,Jonas Bahamboula,Jonas Bahamboula,Congolese footballer,Q971,Q3844
+Q3188929,Q6581097,1971-01-15T00:00:00Z,5,Jules Tchimbakala,Jules Tchimbakala,Congolese footballer (born 1971),Q971,Q223920
+Q320053,Q6581097,1974-08-01T00:00:00Z,8,Macchambes Younga-Mouhani,Macchambes Younga-Mouhani,Congolese footballer,Q183,Q1152126
+Q320053,Q6581097,1974-08-01T00:00:00Z,8,Macchambes Younga-Mouhani,Macchambes Younga-Mouhani,Congolese footballer,Q971,Q1152126
+Q321066,Q6581097,1931-08-25T00:00:00Z,11,Tchicaya U Tam'si,Tchicaya U Tam'si,Congolese writer,Q971,Q855327
+Q32148754,Q6581072,1968-02-12T00:00:00Z,5,Judith Diankoléla-Missengué,Judith Diankoléla-Missengué,Congolese athlete,Q971,
+Q32288144,Q6581097,1970-01-28T00:00:00Z,4,David Nkoua,David Nkoua,Congolese sprinter,Q971,
+Q3229259,Q6581097,1941-01-01T00:00:00Z,2,Justin Lekoundzou,Justin Lekoundzou,Republic of the Congo politician,Q971,Q2922199
+Q324321,Q6581097,1937-09-12T00:00:00Z,16,Henri Lopes,Henri Lopès,"writer, diplomat and politician of the Republic of the Congo",Q142,Q3838
+Q324321,Q6581097,1937-09-12T00:00:00Z,16,Henri Lopes,Henri Lopès,"writer, diplomat and politician of the Republic of the Congo",Q971,Q3838
+Q327430,Q6581097,1933-06-26T00:00:00Z,14,John Bulaitis,John Bulaitis,nuncio,Q971,Q84
+Q3284948,Q6581072,1935-10-15T00:00:00Z,7,Mambou Aimée Gnali,Mambou Aimée Gnali,Republic of the Congo politician,Q971,Q3844
+Q3289519,Q6581097,1984-04-24T00:00:00Z,5,Marcelin Tamboulas,Marcelin Tamboulas,Central African footballer,Q971,Q3832
+Q3289519,Q6581097,1980-04-24T00:00:00Z,5,Marcelin Tamboulas,Marcelin Tamboulas,Central African footballer,Q929,Q3832
+Q3289519,Q6581097,1980-04-24T00:00:00Z,5,Marcelin Tamboulas,Marcelin Tamboulas,Central African footballer,Q971,Q3832
+Q3289519,Q6581097,1984-04-24T00:00:00Z,5,Marcelin Tamboulas,Marcelin Tamboulas,Central African footballer,Q929,Q3832
+Q3295579,Q6581097,1959-11-12T00:00:00Z,5,Martin Parfait Aimé Coussoud-Mavoungou,Martin Parfait Aimé Coussoud-Mavoungou,Congolese politician (1959–2022),Q971,Q246554
+Q3295579,Q6581097,1959-11-12T00:00:00Z,5,Martin Parfait Aimé Coussoud-Mavoungou,Martin Parfait Aimé Coussoud-Mavoungou,Congolese politician (1959–2022),Q974,Q246554
+Q3301933,Q6581097,1957-01-14T00:00:00Z,4,Mav Cacharel,Mav Cacharel,Congolese musician and singer-songwriter,Q971,Q3844
+Q3302180,Q6581097,1987-03-12T00:00:00Z,9,Max Kouguère,Max Kougere,Central African basketball player,Q971,Q3844
+Q3302180,Q6581097,1987-03-12T00:00:00Z,9,Max Kouguère,Max Kougere,Central African basketball player,Q929,Q3844
+Q33061382,Q6581097,1947-03-03T00:00:00Z,7,Jean-Pierre Bassegela,Jean-Pierre Bassegela,Congolese sprinter,Q971,
+Q33110254,Q6581097,1967-05-08T00:00:00Z,4,Médard Makanga,Médard Makanga,Congolese sprinter,Q971,
+Q3319427,Q6581097,1974-06-03T00:00:00Z,3,Moké Kajima,Moké Kajima,Congolese footballer (born 1974),Q142,Q3838
+Q3319427,Q6581097,1974-06-03T00:00:00Z,3,Moké Kajima,Moké Kajima,Congolese footballer (born 1974),Q974,Q3838
+Q3319427,Q6581097,1974-06-03T00:00:00Z,3,Moké Kajima,Moké Kajima,Congolese footballer (born 1974),Q971,Q3838
+Q3342516,Q6581097,1988-04-26T00:00:00Z,11,Nobel Boungou Colo,Nobel Boungou Colo,French basketball player,Q142,Q3844
+Q3342516,Q6581097,1988-04-26T00:00:00Z,11,Nobel Boungou Colo,Nobel Boungou Colo,French basketball player,Q974,Q3844
+Q3342516,Q6581097,1988-04-26T00:00:00Z,11,Nobel Boungou Colo,Nobel Boungou Colo,French basketball player,Q971,Q3844
+Q334554,Q6581097,1984-03-28T00:00:00Z,30,Christopher Samba,Christopher Samba,Congolese-French footballer (born 1984),Q971,Q46135
+Q334554,Q6581097,1984-03-28T00:00:00Z,30,Christopher Samba,Christopher Samba,Congolese-French footballer (born 1984),Q142,Q46135
+Q3345854,Q6581097,1947-07-12T00:00:00Z,6,Noël Minga,Noël Minga,Congolese association football player,Q971,Q223920
+Q3352011,Q6581097,1954-11-19T00:00:00Z,4,Omer Yengo,Omer Yengo,football referee from the Republic of the Congo,Q971,
+Q3360399,Q6581097,1987-10-06T00:00:00Z,7,Emile Bakale,Emilie Rony Bakale,swimmer of the Republic of Congo (* 1987),Q971,Q83404
+Q3361184,Q6581097,1986-03-15T00:00:00Z,8,Ghyd-Kermeliss-Holly Olonghot,Ghyd-Kermeliss-Holly Olonghot,Republic of the Congo athletics competitor (born 1986),Q971,Q3844
+Q3367537,Q6581097,1951-01-01T00:00:00Z,11,Pascal N'Zonzi,Pascal Nzonzi,French actor,Q142,Q213510
+Q3367537,Q6581097,1951-01-01T00:00:00Z,11,Pascal N'Zonzi,Pascal Nzonzi,French actor,Q971,Q213510
+Q3368464,Q6581097,1964-08-29T00:00:00Z,8,Frédéric Bintsamou,Frédéric Bintsamou,Congolese warlord and religious leader,Q971,Q3844
+Q3380880,Q6581097,1971-06-03T00:00:00Z,3,Philippe Wamba,Philippe Wamba,American journalist (1971-2002),Q971,Q104994
+Q3383396,Q6581097,1957-01-01T00:00:00Z,2,Pierre-Michel Nguimbi,Pierre-Michel Nguimbi,Republic of the Congo politician,Q971,
+Q3386379,Q6581097,1941-07-24T00:00:00Z,8,Pierre Moussa,Pierre Moussa,Republic of the Congo politician,Q971,Q3844
+Q3386464,Q6581097,1953-07-17T00:00:00Z,7,Pierre Oba,Pierre Oba,Republic of the Congo politician,Q971,Q971
+Q3387889,Q6581072,1962-05-05T00:00:00Z,6,Pierrette Adams,Pierrette Adams,Congolese singer,Q1008,Q223920
+Q3387889,Q6581072,1962-05-05T00:00:00Z,6,Pierrette Adams,Pierrette Adams,Congolese singer,Q971,Q223920
+Q339964,Q6581097,1941-06-24T00:00:00Z,13,Louis Sylvain Goma,Louis Sylvain Goma,Prime Minister of the Republic of the Congo,Q971,Q223920
+Q3429586,Q6581072,1976-08-29T00:00:00Z,11,Rhode Makoumbou,Rhode Bath-Schéba Makoumbou,Congolese painter,Q971,Q3844
+Q3438286,Q6581097,1946-04-28T00:00:00Z,3,Rodolphe Adada,Rodolphe Adada,politician and diplomat,Q971,Q3307123
+Q3484986,Q6581097,1977-09-19T00:00:00Z,5,Singuila,Singuila,French singer,Q971,Q193929
+Q3484986,Q6581097,1977-09-19T00:00:00Z,5,Singuila,Singuila,French singer,Q142,Q193929
+Q34984604,Q6581097,1964-03-05T00:00:00Z,5,Mwana Bute Kasongo,Mwana Bute Kasongo,Congolese sprinter (* 1964),Q971,
+Q35002435,Q6581072,1970-01-28T00:00:00Z,6,Lasnet Nkouka,Lasnet Nkouka,Congolese athlete,Q971,
+Q3515146,Q6581097,1989-07-18T00:00:00Z,6,Tanguy Ngombo,Tanguy Ngombo,Qatari basketball player (born 1989),Q971,Q3844
+Q3515146,Q6581097,1989-07-18T00:00:00Z,6,Tanguy Ngombo,Tanguy Ngombo,Qatari basketball player (born 1989),Q846,Q3844
+Q3523502,Q6581097,1981-03-21T00:00:00Z,4,Theddy Ongoly,Theddy Ongoly,Republic of the Congo footballer,Q971,Q739308
+Q3526682,Q6581097,1952-01-07T00:00:00Z,10,Théophile Nkounkou,Théophile Nkounkou,Congolese athlete,Q971,Q265319
+Q3526683,Q6581097,1936-02-02T00:00:00Z,15,Théophile Obenga,Théophile Obenga,Congolese academic and politician,Q971,Q971
+Q354942,Q6581097,1937-01-21T00:00:00Z,10,Yvon Goujon,Yvon Goujon,footballer,Q142,Q71724
+Q354942,Q6581097,1937-01-21T00:00:00Z,10,Yvon Goujon,Yvon Goujon,footballer,Q971,Q71724
+Q3568195,Q6581097,1980-03-28T00:00:00Z,4,Wilfried Urbain Elvis Endzanga,Wilfried Urbain Elvis Endzanga,Republic of the Congo footballer,Q974,Q3844
+Q3568195,Q6581097,1980-03-28T00:00:00Z,4,Wilfried Urbain Elvis Endzanga,Wilfried Urbain Elvis Endzanga,Republic of the Congo footballer,Q971,Q3844
+Q3572817,Q6581097,1947-03-06T00:00:00Z,7,Youlou Mabiala,Youlou Mabiala,musician,Q971,Q3844
+Q3572817,Q6581097,1947-03-06T00:00:00Z,7,Youlou Mabiala,Youlou Mabiala,musician,Q974,Q3844
+Q3588368,Q6581097,1952-10-19T00:00:00Z,4,Emile Bongeli,Emile Bongeli,Congolese politician,Q974,Q831370
+Q3588368,Q6581097,1952-10-19T00:00:00Z,4,Emile Bongeli,Emile Bongeli,Congolese politician,Q971,Q831370
+Q3624418,Q6581097,1988-09-07T00:00:00Z,8,Bernard Onanga Itoua,Bernard Onanga Itoua,French-Congolese footballer,Q974,Q160927
+Q3624418,Q6581097,1988-09-07T00:00:00Z,8,Bernard Onanga Itoua,Bernard Onanga Itoua,French-Congolese footballer,Q142,Q160927
+Q3624418,Q6581097,1988-09-07T00:00:00Z,8,Bernard Onanga Itoua,Bernard Onanga Itoua,French-Congolese footballer,Q971,Q160927
+Q36755387,Q6581097,1930-01-01T00:00:00Z,1,Joseph Midiburo,Joseph Midiburo,Congolese politician,Q971,
+Q37019492,Q6581097,1948-08-18T00:00:00Z,3,Antoine Nkounkou,Antoine Nkounkou,Congolese sprinter,Q971,
+Q37019492,Q6581097,1948-09-13T00:00:00Z,3,Antoine Nkounkou,Antoine Nkounkou,Congolese sprinter,Q971,
+Q37020692,Q6581097,1949-10-16T00:00:00Z,5,Louis Nkanza,Louis Nkanza,Congolese sprinter,Q971,
+Q37020692,Q6581097,1949-10-06T00:00:00Z,5,Louis Nkanza,Louis Nkanza,Congolese sprinter,Q971,
+Q3716824,Q6581097,1987-12-02T00:00:00Z,8,Dwight Hardy,Dwight Hardy,American basketball player,Q30,Q60
+Q3716824,Q6581097,1986-12-02T00:00:00Z,8,Dwight Hardy,Dwight Hardy,American basketball player,Q971,Q60
+Q3716824,Q6581097,1987-12-02T00:00:00Z,8,Dwight Hardy,Dwight Hardy,American basketball player,Q971,Q60
+Q3716824,Q6581097,1986-12-02T00:00:00Z,8,Dwight Hardy,Dwight Hardy,American basketball player,Q30,Q60
+Q37501374,Q6581097,1958-10-20T00:00:00Z,2,Pierre Ndinga,Pierre Ndinga,Congolese sprinter,Q971,
+Q37502803,Q6581097,1969-06-11T00:00:00Z,2,Hygien-Nicaise Lombocko,Hygien-Nicaise Lombocko,Congolese sprinter,Q971,
+Q37502873,Q6581097,1961-07-10T00:00:00Z,2,Armand Biniakounou,Armand Biniakounou,Congolese sprinter,Q971,
+Q37770124,Q6581072,1993-08-15T00:00:00Z,13,Natacha Ngoye Akamabi,Natacha Ngoye Akamabi,Republic of Congo sprinter,Q971,Q223920
+Q37818075,Q6581097,1971-08-23T00:00:00Z,4,Michael Dzong,Michael Dzong,Congolese sprinter,Q971,
+Q37944302,Q6581097,1998-08-13T00:00:00Z,5,Roger Tamba M'Pinda,Roger Tamba M'Pinda,Congolese and French association football player,Q971,Q3344
+Q37944302,Q6581097,1998-08-13T00:00:00Z,5,Roger Tamba M'Pinda,Roger Tamba M'Pinda,Congolese and French association football player,Q142,Q3344
+Q379725,Q6581097,1931-11-15T00:00:00Z,41,Pascal Lissouba,Pascal Lissouba,First President of the Republic of the Congo (1931–2020),Q971,Q135952641
+Q379725,Q6581097,1931-11-15T00:00:00Z,41,Pascal Lissouba,Pascal Lissouba,First President of the Republic of the Congo (1931–2020),Q971,Q61451118
+Q3806081,Q6581097,1976-01-01T00:00:00Z,3,Jadelin Mabiala Gangbo,Jadelin Mabiala Gangbo,Congolese writer,Q38,Q3844
+Q3806081,Q6581097,1976-01-01T00:00:00Z,3,Jadelin Mabiala Gangbo,Jadelin Mabiala Gangbo,Congolese writer,Q971,Q3844
+Q382527,Q6581097,1941-03-27T00:00:00Z,8,Ernest Kombo,Ernest Kombo,Catholic bishop (1941-2008),Q971,Q223920
+Q3837220,Q6581072,1983-05-04T00:00:00Z,11,Lorène Bazolo,Lorène Bazolo,Portuguese sprinter,Q971,Q3844
+Q3837220,Q6581072,1983-05-04T00:00:00Z,11,Lorène Bazolo,Lorène Bazolo,Portuguese sprinter,Q45,Q3844
+Q38716141,Q6581097,1965-05-01T00:00:00Z,4,Shintu Kibambe,Shintu Kibambe,Congolese sprinter,Q971,
+Q38716175,Q6581097,1972-04-01T00:00:00Z,4,Ilunga Kafila,Ilunga Kafila,Congolese sprinter,Q971,
+Q38716208,Q6581097,1967-09-17T00:00:00Z,4,Luasa Batungile,Luasa Batungile,Congolese sprinter,Q971,
+Q39749,Q6581097,1990-01-24T00:00:00Z,13,Tripy Makonda,Tripy Makonda,French footballer,Q971,Q193877
+Q39749,Q6581097,1990-01-24T00:00:00Z,13,Tripy Makonda,Tripy Makonda,French footballer,Q142,Q193877
+Q40167671,Q6581097,1995-01-28T00:00:00Z,10,Bevic Moussiti-Oko,Bevic Moussiti-Oko,Congolese association football player,Q971,Q3844
+Q405312,Q6581097,1959-01-25T00:00:00Z,5,Jean-Léonard Touadi,Jean-Léonard Touadi,Italian politician,Q38,Q3844
+Q405312,Q6581097,1959-01-25T00:00:00Z,5,Jean-Léonard Touadi,Jean-Léonard Touadi,Italian politician,Q971,Q3844
+Q40876208,Q6581097,1951-01-01T00:00:00Z,5,Bernard Mabikana,Bernard Mabikana,Congolese athletics competitor,Q971,
+Q4118470,Q6581097,1980-01-07T00:00:00Z,4,Armel Disney,Armel Disney,Republic of Congo footballer,Q971,Q3844
+Q41434455,Q6581097,1970-01-19T00:00:00Z,4,Hakim Mazou,Hakim Mazou,Congolese athletics competitor,Q971,
+Q41739371,Q6581072,1973-04-27T00:00:00Z,5,Addo Ndala,Addo Ndala,Congolese athlete,Q971,
+Q41764854,Q6581097,1997-03-07T00:00:00Z,9,Alpha Sissoko,Alpha Sissoko,"Congolese, Malian and French association football player",Q971,Q142
+Q41764854,Q6581097,1997-03-07T00:00:00Z,9,Alpha Sissoko,Alpha Sissoko,"Congolese, Malian and French association football player",Q142,Q142
+Q41764854,Q6581097,1997-03-07T00:00:00Z,9,Alpha Sissoko,Alpha Sissoko,"Congolese, Malian and French association football player",Q912,Q142
+Q4197268,Q6581097,1982-02-05T00:00:00Z,4,Patrick Iwosso,Patrik Iwosso,association football player,Q971,Q971
+Q42288012,Q6581097,1950-12-05T00:00:00Z,4,Alphonse Mandonda,Alphonse Mandonda,Congolese middle-distance runner,Q971,
+Q42298370,Q6581097,1963-12-12T00:00:00Z,3,Kazanga Makok,Kazanga Makok,Congolese middle-distance runner (* 1966),Q971,
+Q42302708,Q6581097,1974-04-16T00:00:00Z,4,Symphorien Samba,Symphorien Samba,Congolese middle-distance runner,Q971,
+Q42307881,Q6581072,1980-11-25T00:00:00Z,8,Noelly Mankatu Bibiche,Noelly Mankatu Bibiche,Congolese middle-distance runner,Q971,
+Q42374903,Q6581097,1936-04-21T00:00:00Z,2,Stanislas Batchi,Stanislas Batchi,Republic of the Congo politician and diplomat (1936-2003),Q971,Q3312318
+Q4308629,Q6581097,1980-09-29T00:00:00Z,4,Maurice Pedro Muteba Mwanza,Maurice Pedro Muteba Mwanza,Republic of the Congo footballer,Q971,Q1152126
+Q4332458,Q6581097,1983-07-10T00:00:00Z,8,Burnel Okana-Stazi,Burnel Okana-Stazi,Republic of Congo footballer,Q971,Q3307123
+Q434665,Q6581097,1916-03-25T00:00:00Z,10,Eugène Moke Motsüri,Eugène Moke Motsüri,Catholic bishop,Q974,
+Q434665,Q6581097,1916-03-25T00:00:00Z,10,Eugène Moke Motsüri,Eugène Moke Motsüri,Catholic bishop,Q971,
+Q448055,Q6581097,1961-10-01T00:00:00Z,11,René Ngongo,René Ngongo,Congolse biologist,Q974,Q204381
+Q448055,Q6581097,1961-10-01T00:00:00Z,11,René Ngongo,René Ngongo,Congolse biologist,Q971,Q204381
+Q4516818,Q6581097,1914-01-12T00:00:00Z,4,Stéphane Tchichelle,Stéphane Tchitchelle,politician of Republic of Congo (RC),Q142,
+Q4516818,Q6581097,1914-01-12T00:00:00Z,4,Stéphane Tchichelle,Stéphane Tchitchelle,politician of Republic of Congo (RC),Q971,
+Q4516818,Q6581097,1915-01-12T00:00:00Z,4,Stéphane Tchichelle,Stéphane Tchitchelle,politician of Republic of Congo (RC),Q142,
+Q4516818,Q6581097,1915-01-12T00:00:00Z,4,Stéphane Tchichelle,Stéphane Tchitchelle,politician of Republic of Congo (RC),Q971,
+Q45286969,Q6581072,1950-01-01T00:00:00Z,3,Angélique Abemane,Angélique Abemane,Congolese handball player,Q971,
+Q454025,Q6581097,1938-12-31T00:00:00Z,38,Marien Ngouabi,Marien Ngouabi,President of Congo-Brazzaville from 1969 to 1977,Q971,Q1201732
+Q46575949,Q6581097,1938-10-18T00:00:00Z,2,François Luc Macosso,François Luc Macosso,Politician of Republic of the Congo,Q971,Q3307115
+Q4666633,Q6581097,1920-09-20T00:00:00Z,1,Abel Thauley-Ganga,Abel Thauley-Ganga,Congolese trade unionist,Q971,
+Q4686972,Q6581072,1957-01-01T00:00:00Z,4,Adèle Caby-Livannah,Adèle Caby-Livannah,Congolese writer,Q971,
+Q4686987,Q6581072,1944-06-05T00:00:00Z,7,Adélaïde Moundélé-Ngollo,Adélaïde Moundélé-Ngollo,Republic of the Congo politician,Q971,Q3844
+Q4697192,Q6581097,1932-01-01T00:00:00Z,3,Aimé Emmanuel Yoka,Aimé Emmanuel Yoka,Homme d'État congolais ‧ Oncle de Dénis Sassou Nguesso,Q971,Q3124895
+Q4697194,Q6581097,1984-12-07T00:00:00Z,3,Aimé Lavie,Aimé Lavie,footballer,Q971,Q6441
+Q47001649,Q6581097,1941-11-13T00:00:00Z,11,Henri Elendé,Henri Elendé,Congolese athletics competitor,Q971,Q3844
+Q4705620,Q6581097,1959-06-17T00:00:00Z,3,Alain Akouala Atipault,Alain Akouala Atipault,Republic of the Congo politician,Q971,
+Q4705682,Q6581097,1953-11-24T00:00:00Z,2,Alain Moka,Alain Moka,Republic of the Congo politician,Q971,
+Q4706593,Q6581097,1931-05-05T00:00:00Z,7,Alan Donald,Alan Ewen Donald,British diplomat (1931-2018),Q145,Q1017537
+Q4706593,Q6581097,1931-05-05T00:00:00Z,7,Alan Donald,Alan Ewen Donald,British diplomat (1931-2018),Q971,Q1017537
+Q4710224,Q6581097,1916-12-17T00:00:00Z,1,Albert Fourvelle,Albert Fourvelle,Congolese politician,Q971,
+Q471592,Q6581097,1989-11-16T00:00:00Z,11,Amine Linganzi,Amine Linganzi,French and Congolese association football player,Q971,Q3561
+Q471592,Q6581097,1989-11-16T00:00:00Z,11,Amine Linganzi,Amine Linganzi,French and Congolese association football player,Q142,Q3561
+Q4720824,Q6581097,1937-10-20T00:00:00Z,2,Alexandre Denguet Atiki,Alexandre Denguet Atiki,Congolese politician,Q971,Q3844
+Q4720824,Q6581097,1937-10-27T00:00:00Z,2,Alexandre Denguet Atiki,Alexandre Denguet Atiki,Congolese politician,Q971,Q3844
+Q4735363,Q6581097,1937-01-01T00:00:00Z,1,Alphonse Gondzia,Alphonse Gondzia,Republic of the Congo politician,Q971,
+Q4752077,Q6581097,1965-03-11T00:00:00Z,23,Anatole Collinet Makosso,Anatole Collinet Makosso,Republic of the Congo politician,Q971,Q223920
+Q4759945,Q6581097,1911-08-14T00:00:00Z,2,André Kerhervé,André Kerhervé,French politician active in Congo-Brazzaville,Q971,
+Q4760008,Q6581097,2000-01-01T00:00:00Z,1,André Mouélé,André Mouélé,Congolese politician,Q971,
+Q4760021,Q6581097,1940-09-26T00:00:00Z,2,André Obami Itou,André Obami Itou,Republic of the Congo politician,Q971,
+Q4760022,Q6581097,1961-01-01T00:00:00Z,3,André Okombi Salissa,André Okombi Salissa,Republic of the Congo politician,Q971,Q1868960
+Q4764304,Q6581072,1901-01-01T00:00:00Z,9,Angèle Bandou,Angèle Bandou,Republic of the Congo politician,Q971,
+Q4775519,Q6581097,1941-01-01T00:00:00Z,3,Antoine Ndinga Oba,Antoine Ndinga Oba,Republic of the Congo politician,Q971,
+Q4790661,Q6581097,1946-03-19T00:00:00Z,3,Arild Retvedt Øyen,Arild Retvedt Øyen,Norwegian diplomat,Q20,
+Q4790661,Q6581097,1946-03-19T00:00:00Z,3,Arild Retvedt Øyen,Arild Retvedt Øyen,Norwegian diplomat,Q971,
+Q4791074,Q6581097,1990-02-20T00:00:00Z,3,Aristote Lusinga,Aristote Lusinga,footballer,Q971,Q12191
+Q4794970,Q6581097,1988-11-28T00:00:00Z,14,Arnold Bouka Moutou,Arnold Bouka Moutou,French footballer,Q971,Q41876
+Q4794970,Q6581097,1988-11-28T00:00:00Z,14,Arnold Bouka Moutou,Arnold Bouka Moutou,French footballer,Q142,Q41876
+Q4819122,Q6581097,1948-05-18T00:00:00Z,2,Aubrey Hooks,Aubrey Hooks,American diplomat,Q971,
+Q4821040,Q6581097,1936-03-28T00:00:00Z,1,Auguste Batina,Auguste Batina,Member of Senate of Congo-Brazzaville (1936-2017),Q971,
+Q48778190,Q6581072,1983-10-08T00:00:00Z,9,Destinée Doukaga,Destinée Ermela Doukaga,"Congolese politician, writer and pilot (* 1983)",Q971,Q246554
+Q4888314,Q6581097,1942-09-25T00:00:00Z,2,Benjamin Bounkoulou,Benjamin Bounkoulou,Republic of the Congo politician,Q971,Q109503970
+Q4893697,Q6581097,1946-06-14T00:00:00Z,3,Bernard Tchibambelela,Bernard Tchibambelela,Congolese politician (1946–2025),Q971,Q3844
+Q4893774,Q6581097,1950-09-17T00:00:00Z,5,Bernard Zoba,Bernard Zoba,African commissioner,Q971,Q971
+Q4893775,Q6581097,1929-01-01T00:00:00Z,2,Bernard Zoniaba,Bernard Zoniaba,Congolese politician,Q971,
+Q4895851,Q6581097,1981-03-06T00:00:00Z,1,Bertrand Dibessa,Bertrand Boukinda Dibessa,Republic of the Congo basketball player (born 1981),Q971,
+Q4937347,Q6581072,1979-05-15T00:00:00Z,6,Monika Bakale,Monika Bakale,swimmer,Q971,
+Q4967922,Q6581072,1952-01-01T00:00:00Z,7,Brigitte Yengo,Brigitte Yengo,Congolese Roman Catholic nun,Q971,Q223920
+Q4977708,Q6581097,1984-05-18T00:00:00Z,4,Bruce Inkango,Bruce Inkango,footballer,Q142,Q6616
+Q4977708,Q6581097,1984-05-18T00:00:00Z,4,Bruce Inkango,Bruce Inkango,footballer,Q971,Q6616
+Q4977829,Q6581097,1990-04-26T00:00:00Z,2,Bruce Lalombongo,Bruce Lalombongo,Swiss footballer,Q971,Q3844
+Q4977829,Q6581097,1990-04-26T00:00:00Z,2,Bruce Lalombongo,Bruce Lalombongo,Swiss footballer,Q39,Q3844
+Q4979263,Q6581097,1956-10-06T00:00:00Z,3,Bruno Itoua,Bruno Itoua,Republic of Congo politician,Q971,Q223920
+Q5015809,Q6581097,1977-10-04T00:00:00Z,6,Cabral Ibacka,Cabral Ibacka,Romanian actor,Q218,Q19660
+Q5015809,Q6581097,1977-10-04T00:00:00Z,6,Cabral Ibacka,Cabral Ibacka,Romanian actor,Q971,Q19660
+Q50380281,Q6581097,1997-03-25T00:00:00Z,3,Alan Dzabana,Alan Dzabana,French and Congolese association football player,Q142,Q180005
+Q50380281,Q6581097,1997-03-25T00:00:00Z,3,Alan Dzabana,Alan Dzabana,French and Congolese association football player,Q971,Q180005
+Q5056072,Q6581097,1988-04-15T00:00:00Z,3,Cecil Filanckembo,Cecil Filanckembo,footballer,Q971,Q1142926
+Q5075228,Q6581097,1926-06-16T00:00:00Z,4,Charles Assemekang,Charles Assemekang,Congolese (Republic of) politician,Q971,Q271894
+Q5082018,Q6581097,1954-01-28T00:00:00Z,8,Charles Richard Mondjo,Charles Richard Mondjo,Congolese politician (* 1954),Q971,Q3844
+Q50942534,Q6581072,1998-01-02T00:00:00Z,3,Myriam Djekoundade,Myriam Djekoundade,French basketball player (born 1998),Q971,Q188776
+Q50942534,Q6581072,1998-01-02T00:00:00Z,3,Myriam Djekoundade,Myriam Djekoundade,French basketball player (born 1998),Q142,Q188776
+Q5108654,Q6581097,1976-08-11T00:00:00Z,3,Christ Bongo,Christ Bongo,Republic of the Congo footballer,Q971,Q3838
+Q5108654,Q6581097,1976-08-11T00:00:00Z,3,Christ Bongo,Christ Bongo,Republic of the Congo footballer,Q974,Q3838
+Q5108934,Q6581097,1988-12-12T00:00:00Z,1,Christ Silas Djio,Christ Silas Djio,Republic of the Congo basketball player (born 1988),Q971,
+Q5109638,Q6581097,1992-07-01T00:00:00Z,3,Christian Gandu,Christian Gandu,Congolese professional football,Q29999,Q6500954
+Q5109638,Q6581097,1992-07-01T00:00:00Z,3,Christian Gandu,Christian Gandu,Congolese professional football,Q971,Q6500954
+Q5112787,Q6581097,1990-03-19T00:00:00Z,12,Christopher Maboulou,Christopher Maboulou,Congolese footballer,Q971,Q237367
+Q5112787,Q6581097,1990-03-19T00:00:00Z,12,Christopher Maboulou,Christopher Maboulou,Congolese footballer,Q142,Q237367
+Q5128661,Q6581097,1937-05-25T00:00:00Z,2,Claude-Ernest Ndalla,Claude-Ernest Ndalla,Republic of the Congo politician,Q971,
+Q5128679,Q6581097,1954-01-01T00:00:00Z,4,Claude Alphonse Nsilou,Claude Alphonse Nsilou,Republic of the Congo politician and architect,Q971,Q3844
+Q5129307,Q6581072,1953-12-07T00:00:00Z,4,Claudine Munari,Claudine Munari,Republic of the Congo politician,Q971,Q223920
+Q5129307,Q6581072,1953-12-07T00:00:00Z,4,Claudine Munari,Claudine Munari,Republic of the Congo politician,Q971,Q3326889
+Q5163608,Q6581097,1966-01-01T00:00:00Z,2,Constant-Serge Bounda,Constant-Serge Bounda,congolese diplomat and former UN personnality,Q971,
+Q5195469,Q6581097,1984-11-12T00:00:00Z,5,Samy-Oyame Mawene,Samy-Oyame Mawene,footballer,Q971,Q41185
+Q5202477,Q6581072,1932-05-28T00:00:00Z,7,Céline Yandza,Céline Yandza,Congolese politician,Q971,Q3844
+Q5216344,Q6581097,1942-01-01T00:00:00Z,5,Daniel Abibi,Daniel Abibi,"Congolese politician, mathematician and diplomat",Q971,
+Q521920,Q6581097,1935-10-20T00:00:00Z,10,André Milongo,André Milongo,Prime Minister of the Republic of the Congo (1935–2007),Q971,Q109505834
+Q5221409,Q6581072,1955-01-01T00:00:00Z,5,Dany Engobo,Dany Engobo,Congolese musician,Q971,
+Q5267362,Q6581097,1984-09-14T00:00:00Z,10,Devilert Arsene Kimbembe,Devilert Arsene Kimbembe,Congolese sprinter,Q971,Q3844
+Q527155,Q6581097,1938-01-01T00:00:00Z,2,Alphonse Nzoungou,Alphonse Nzoungou,Republic of the Congo politician (1938-2012),Q971,
+Q5275219,Q6581097,1945-11-26T00:00:00Z,3,Dieudonné Ganga,Dieudonné Ganga,Republic of the Congo politician,Q971,
+Q5285290,Q6581097,1991-11-09T00:00:00Z,2,Djeny Bembo-Leta,Djeny Bembo-Leta,professional footballer,Q971,Q3838
+Q5285290,Q6581097,1991-11-09T00:00:00Z,2,Djeny Bembo-Leta,Djeny Bembo-Leta,professional footballer,Q974,Q3838
+Q5291160,Q6581097,1940-01-25T00:00:00Z,1,Dominique Ntsiété,Dominique Ntsiété,Congolese politician (1940-2012),Q971,
+Q5297798,Q6581097,1988-05-15T00:00:00Z,3,Dorian Ngoma,Dorian Ngoma,footballer,Q971,Q41604
+Q5335809,Q6581097,1945-12-01T00:00:00Z,1,Eddie Amkongo,Eddie Amkongo,Namibian politician,Q971,
+Q5335809,Q6581097,1945-12-01T00:00:00Z,1,Eddie Amkongo,Eddie Amkongo,Namibian politician,Q1030,
+Q5337555,Q6581097,1947-06-19T00:00:00Z,1,Edgard Diafouka-Bambela,Edgard Diafouka-Bambela,Congolese politician,Q971,
+Q5371792,Q6581072,1945-01-07T00:00:00Z,7,Émilienne Raoul,Emilienne Raoul,Republic of the Congo politician,Q971,Q3844
+Q5373200,Q6581097,1914-08-18T00:00:00Z,4,Emmanuel Damongo-Dadet,Emmanuel Damongo-Dadet,Republic of the Congo politician (1914-1973),Q971,Q1142926
+Q5388449,Q6581097,1953-01-01T00:00:00Z,3,Erik Adigard,Erik Adigard,"Communication designer, media artist (born 1953)",Q971,Q3844
+Q5388449,Q6581097,1953-01-01T00:00:00Z,3,Erik Adigard,Erik Adigard,"Communication designer, media artist (born 1953)",Q971,Q971
+Q538878,Q6581097,1994-01-14T00:00:00Z,10,Nathan Kabasele,Nathan Kabasele,footballer,Q971,Q239
+Q538878,Q6581097,1994-01-14T00:00:00Z,10,Nathan Kabasele,Nathan Kabasele,footballer,Q31,Q239
+Q5406946,Q6581097,1961-11-05T00:00:00Z,5,Eugen Moldovan,Eugen Moldovan,Romanian footballer,Q971,Q82174
+Q5406946,Q6581097,1961-11-05T00:00:00Z,5,Eugen Moldovan,Eugen Moldovan,Romanian footballer,Q1028,Q82174
+Q5409443,Q6581097,1964-03-14T00:00:00Z,3,Euloge Landry Kolélas,Euloge Landry Kolélas,Congolese politician,Q971,Q3844
+Q542784,Q6581097,1990-12-27T00:00:00Z,13,Juvhel Tsoumou,Juvhel Tsoumou,footballer,Q183,Q3844
+Q542784,Q6581097,1990-12-27T00:00:00Z,13,Juvhel Tsoumou,Juvhel Tsoumou,footballer,Q971,Q3844
+Q5443878,Q6581097,1956-10-12T00:00:00Z,3,Ferdinand Mbahou,Ferdinand Mbahou,Republic of the Congo politician,Q971,Q3326889
+Q544448,Q6581097,1986-01-03T00:00:00Z,11,Guy Tchingoma,Guy Tchingoma,Gabonese footballer (1986-2008),Q1000,Q223920
+Q544448,Q6581097,1986-01-03T00:00:00Z,11,Guy Tchingoma,Guy Tchingoma,Gabonese footballer (1986-2008),Q971,Q223920
+Q5446833,Q6581097,1957-09-21T00:00:00Z,5,Fidèle Dimou,Fidèle Dimou,Prefect of Kouilou Department,Q971,Q3324948
+Q5452128,Q6581097,1951-11-02T00:00:00Z,5,Firmin Ayessa,Firmin Ayessa,Republic of the Congo politician,Q971,Q780884
+Q5460873,Q6581097,1949-08-17T00:00:00Z,4,Florent Ntsiba,Florent Ntsiba,Republic of the Congo politician,Q971,Q1868960
+Q5484748,Q6581097,1980-06-03T00:00:00Z,3,Marien Michel Ngouabi,Marien Michel Ngouabi,Congolese swimmer (* 1980),Q971,Q1563
+Q5493295,Q6581097,1954-10-10T00:00:00Z,3,François Ibovi,François Ibovi,Republic of the Congo politician,Q971,Q3048212
+Q5493341,Q6581097,1963-05-06T00:00:00Z,4,François Makita,François Makita,Congolese footballer,Q971,Q3844
+Q54935519,Q6581097,1979-12-31T00:00:00Z,3,Kevin Ngapoula-Mbembo,Kevin Ngapoula-Mbembo,Congolese judoka (* 1979),Q971,
+Q5515546,Q6581097,1938-07-20T00:00:00Z,1,Gabriel Bokilo,Gabriel Bokilo,Republic of the Congo politician,Q971,Q3844
+Q5515608,Q6581097,1956-08-24T00:00:00Z,3,Gabriel Entcha-Ebia,Gabriel Entcha-Ebia,Congolese politician (1956 - 2021),Q971,
+Q5515770,Q6581097,1945-01-28T00:00:00Z,1,Gabriel Oba-Apounou,Gabriel Oba-Apounou,Republic of the Congo politician,Q971,
+Q5526759,Q6581097,1950-01-01T00:00:00Z,3,Gaston Tchangana,Gaston Tchangana,Congolese football manager,Q971,Q971
+Q5546920,Q6581097,1922-02-22T00:00:00Z,2,Georges Yhambot,Georges Yhambot,Congolese politician,Q971,
+Q5553441,Q6581097,1982-03-10T00:00:00Z,4,Gervais Batota,Gervais Batota,Republic of the Congo footballer,Q971,Q3844
+Q5561139,Q6581097,1960-11-01T00:00:00Z,6,Gilbert Ondongo,Gilbert Ondongo,Republic of the Congo politician,Q971,
+Q559442,Q6581097,1917-07-09T00:00:00Z,36,Fulbert Youlou,Fulbert Youlou,President of the Republic of the Congo (1917-1972),Q971,Q3844
+Q559442,Q6581097,1917-07-09T00:00:00Z,36,Fulbert Youlou,Fulbert Youlou,President of the Republic of the Congo (1917-1972),Q971,Q864647
+Q559442,Q6581097,1917-07-19T00:00:00Z,36,Fulbert Youlou,Fulbert Youlou,President of the Republic of the Congo (1917-1972),Q971,Q3844
+Q559442,Q6581097,1917-07-19T00:00:00Z,36,Fulbert Youlou,Fulbert Youlou,President of the Republic of the Congo (1917-1972),Q971,Q864647
+Q559442,Q6581097,1917-07-09T00:00:00Z,36,Fulbert Youlou,Fulbert Youlou,President of the Republic of the Congo (1917-1972),Q142,Q3844
+Q559442,Q6581097,1917-07-09T00:00:00Z,36,Fulbert Youlou,Fulbert Youlou,President of the Republic of the Congo (1917-1972),Q142,Q864647
+Q559442,Q6581097,1917-07-19T00:00:00Z,36,Fulbert Youlou,Fulbert Youlou,President of the Republic of the Congo (1917-1972),Q142,Q3844
+Q559442,Q6581097,1917-07-19T00:00:00Z,36,Fulbert Youlou,Fulbert Youlou,President of the Republic of the Congo (1917-1972),Q142,Q864647
+Q56065094,Q6581097,1998-05-28T00:00:00Z,9,Mons Bassouamina,Mons Bassouamina,French and Congolese association football player,Q142,Q271659
+Q56065094,Q6581097,1998-05-28T00:00:00Z,9,Mons Bassouamina,Mons Bassouamina,French and Congolese association football player,Q971,Q271659
+Q56065106,Q6581097,1996-05-11T00:00:00Z,5,Scott Bitsindou,Romeni Scott Bitsindou,Belgian association football player,Q971,Q240
+Q5625984,Q6581097,1941-11-15T00:00:00Z,2,Gérard Bitsindou,Gérard Bitsindou,Republic of the Congo politician (1941–2012),Q971,Q864647
+Q5640426,Q6581097,1978-02-22T00:00:00Z,2,Hakeem Kashama,Hakeem Kashama,Canadian and American football player (born 1978),Q974,Q6500954
+Q5640426,Q6581097,1978-02-22T00:00:00Z,2,Hakeem Kashama,Hakeem Kashama,Canadian and American football player (born 1978),Q971,Q6500954
+Q5646702,Q6581072,1989-11-08T00:00:00Z,8,Han Xing,Han Xing,Olympic table tennis player,Q971,Q11746
+Q5649061,Q6581072,1966-10-27T00:00:00Z,3,Hanne Nabintu Herland,Hanne Nabintu Herland,"Author, lecturer, social pundit",Q971,Q1743993
+Q5649061,Q6581072,1966-10-27T00:00:00Z,3,Hanne Nabintu Herland,Hanne Nabintu Herland,"Author, lecturer, social pundit",Q20,Q1743993
+Q5665051,Q6581097,1988-11-11T00:00:00Z,3,Harris Tchilimbou,Harris Tchilimbou,footballer,Q971,Q3844
+Q56824101,Q6581097,1911-01-01T00:00:00Z,2,Daniel Ndoundou,,Congolese Protestant church leader,Q971,Q6410537
+Q5708967,Q6581097,1964-02-07T00:00:00Z,2,Hellot Matson Mampouya,Hellot Matson Mampouya,politician,Q971,Q3838
+Q5708967,Q6581097,1964-02-07T00:00:00Z,2,Hellot Matson Mampouya,Hellot Matson Mampouya,politician,Q974,Q3838
+Q5715430,Q6581097,1952-01-01T00:00:00Z,4,Henri Djombo,Henri Djombo,Republic of the Congo politician,Q971,Q22908175
+Q57242842,Q6581097,1998-03-23T00:00:00Z,6,Baron Kibamba,Baron Kibamba,association football player,Q971,Q246554
+Q574007,Q6581097,1932-04-22T00:00:00Z,27,Anthony Soter Fernandez,Anthony Soter Fernandez,Catholic archbishop (1932–2020),Q833,Q939738
+Q574007,Q6581097,1932-04-22T00:00:00Z,27,Anthony Soter Fernandez,Anthony Soter Fernandez,Catholic archbishop (1932–2020),Q971,Q939738
+Q57418,Q6581097,1943-11-23T00:00:00Z,78,Denis Sassou Nguesso,Denis Sassou-Nguesso,President of the Republic of the Congo (1979–1992; 1997–present),Q971,Q3048212
+Q57418,Q6581097,1943-11-23T00:00:00Z,78,Denis Sassou Nguesso,Denis Sassou-Nguesso,President of the Republic of the Congo (1979–1992; 1997–present),Q1152126,Q3048212
+Q5745031,Q6581097,1982-02-16T00:00:00Z,1,Hervé Assoua-Wande,Hervé Assoua-Wande,Republic of the Congo basketball player (born 1982),Q971,
+Q57890,Q6581097,1954-01-08T00:00:00Z,21,Isidore Mvouba,Isidore Mvouba,Prime Minister of the Republic of the Congo,Q971,Q6410537
+Q58135,Q6581097,1946-07-01T00:00:00Z,6,Basile Ikouébé,Basile Ikouébé,Republic of the Congo politician,Q971,
+Q58313463,Q6581097,2001-07-07T00:00:00Z,18,Han-Noah Massengo,Han-Noah Massengo,French association football player,Q971,Q241064
+Q58313463,Q6581097,2001-07-07T00:00:00Z,18,Han-Noah Massengo,Han-Noah Massengo,French association football player,Q142,Q241064
+Q58491100,Q6581072,1945-05-07T00:00:00Z,10,Antoinette Sassou Nguesso,Antoinette Sassou Nguesso,First Lady of the Republic of the Congo,Q971,Q3844
+Q58494909,Q6581097,1994-06-01T00:00:00Z,1,Brunallergene Etou,Brunallergene Etou,Congolese and French association football player,Q142,Q3844
+Q58494909,Q6581097,1994-06-01T00:00:00Z,1,Brunallergene Etou,Brunallergene Etou,Congolese and French association football player,Q971,Q3844
+Q58820755,Q6581072,1970-01-01T00:00:00Z,7,Annette Kouamba Matondo,Annette Kouamba Matondo,Congolese film director and journalist,Q971,Q3844
+Q5897000,Q6581097,1985-01-01T00:00:00Z,5,Honore Kabongo,Honore Kabongo,Rwandan footballer,Q971,Q146723
+Q601502,Q6581097,1927-01-01T00:00:00Z,15,Émile Biayenda,Émile Biayenda,Congolese Roman-Catholic cardinal (1927–1977),Q971,Q971
+Q61388073,Q6581097,1966-01-01T00:00:00Z,2,Paulin Makaya,Paulin Makaya,Congolese politician,Q145,Q3844
+Q61388073,Q6581097,1966-01-01T00:00:00Z,2,Paulin Makaya,Paulin Makaya,Congolese politician,Q971,Q3844
+Q61415246,Q6581072,1955-04-16T00:00:00Z,6,Antoinette Dinga Dzondo,Antoinette Dinga-Dzondo,Congolese politician,Q971,Q739308
+Q61600532,Q6581072,1972-01-01T00:00:00Z,6,Inès Nefer Bertille Ingani,Inès Nefer Ingani,Congolese politician,Q971,
+Q6169029,Q6581097,1952-01-01T00:00:00Z,4,Jean-Blaise Kololo,Jean-Blaise Kololo,Republic of the Congo politician,Q971,
+Q6169165,Q6581097,1958-01-01T00:00:00Z,3,Jean-Claude Siapa Ivouloungou,Jean-Claude Siapa Ivouloungou,Congolese politician,Q971,
+Q6169192,Q6581097,1955-02-16T00:00:00Z,2,Jean-Dominique Okemba,Jean-Dominique Okemba,Republic of the Congo politician,Q971,
+Q6169352,Q6581097,1962-05-24T00:00:00Z,5,Jean-Jacques Bouya,Jean-Jacques Bouya,Congolese politician,Q971,Q3516616
+Q6169668,Q6581097,1942-08-13T00:00:00Z,2,Jean-Martin Mbemba,Jean-Martin Mbemba,Republic of the Congo politician,Q971,
+Q6169929,Q6581097,1952-01-01T00:00:00Z,3,Jean-Pierre Lékoba,Jean-Pierre Lékoba,Member of the National Assembly of the Republic of the Congo,Q971,
+Q6169940,Q6581097,1937-03-23T00:00:00Z,2,Jean-Pierre Nonault,Jean-Pierre Nonault,Congolese politician,Q971,Q739308
+Q6170957,Q6581097,1983-04-15T00:00:00Z,1,Jean Koumba,Jean Koumba,Republic of the Congo basketball player (born 1983),Q971,
+Q6171067,Q6581097,1983-01-01T00:00:00Z,7,Jean Luc Herbulot,Jean Luc Herbulot,Congolese film director and screenwriter,Q971,Q223920
+Q6172056,Q6581072,1943-08-01T00:00:00Z,7,Jeanne Dambendzet,Jeanne Dambendzet,Republic of the Congo politician,Q971,
+Q6287458,Q6581097,1952-01-01T00:00:00Z,2,Joseph Tonda,Joseph Tonda,Congolese sociologist,Q971,
+Q6287458,Q6581097,1952-01-01T00:00:00Z,2,Joseph Tonda,Joseph Tonda,Congolese sociologist,Q1000,
+Q6317789,Q6581097,1947-04-05T00:00:00Z,2,Justin Koumba,Justin Koumba,Congolese politician,Q971,Q6403949
+Q63765036,Q6581072,1975-09-15T00:00:00Z,9,Nadège Abomangoli,Nadège Abomangoli,French politician,Q142,Q3844
+Q63765036,Q6581072,1975-09-15T00:00:00Z,9,Nadège Abomangoli,Nadège Abomangoli,French politician,Q971,Q3844
+Q6395735,Q6581097,1982-11-15T00:00:00Z,2,Kevine Andzouana,Kevine Andzouana,Congolese footballer,Q971,Q971
+Q64157845,Q6581072,1977-01-01T00:00:00Z,3,Dominique Tchimbakala,Dominique Tchimbakala,French journalist and news presenter,Q142,Q90
+Q64157845,Q6581072,1977-01-01T00:00:00Z,3,Dominique Tchimbakala,Dominique Tchimbakala,French journalist and news presenter,Q971,Q90
+Q652244,Q6581097,1989-12-12T00:00:00Z,5,Omega Roberts,Omega Roberts,Liberian footballer,Q971,Q3748
+Q652244,Q6581097,1989-12-12T00:00:00Z,5,Omega Roberts,Omega Roberts,Liberian footballer,Q912,Q3748
+Q65964616,Q6581097,2000-11-21T00:00:00Z,4,Will Hondermarck,Will Hondermarck,"Congoese, Irish and French footballer",Q142,Q6548
+Q65964616,Q6581097,2000-11-21T00:00:00Z,4,Will Hondermarck,Will Hondermarck,"Congoese, Irish and French footballer",Q971,Q6548
+Q65964616,Q6581097,2000-11-21T00:00:00Z,4,Will Hondermarck,Will Hondermarck,"Congoese, Irish and French footballer",Q27,Q6548
+Q66685087,Q6581097,1996-06-02T00:00:00Z,7,Bradley Mazikou,Bradley Mazikou,Congolese and French footballer (born 1996),Q142,Q6548
+Q66685087,Q6581097,1996-06-02T00:00:00Z,7,Bradley Mazikou,Bradley Mazikou,Congolese and French footballer (born 1996),Q971,Q6548
+Q6695723,Q6581097,1949-10-30T00:00:00Z,1,Luc Adamo Matéta,Luc Adamo Matéta,Republic of the Congo politician,Q971,
+Q6695814,Q6581097,1994-06-04T00:00:00Z,5,Junior Etou,Junior Etou,Congolese basketball player,Q971,Q223920
+Q6711024,Q6581097,1950-01-01T00:00:00Z,2,Léon-Alfred Opimbat,Léon-Alfred Opimbat,Republic of the Congo politician,Q971,
+Q6711036,Q6581097,1928-07-13T00:00:00Z,1,Léon Angor,Léon Angor,Congolese diplomat,Q971,
+Q673081,Q6581097,1979-08-19T00:00:00Z,6,Oumar Kondé,Oumar Kondé,Swiss footballer,Q971,Q69621
+Q673081,Q6581097,1979-08-19T00:00:00Z,6,Oumar Kondé,Oumar Kondé,Swiss footballer,Q39,Q69621
+Q6745366,Q6581097,1949-01-08T00:00:00Z,3,Mamadou Kamara Dékamo,Mamadou Kamara Dékamo,Republic of the Congo politician,Q971,
+Q6787108,Q6581097,1947-01-01T00:00:00Z,4,Mathias Dzon,Mathias Dzon,Congolese politician,Q971,Q3307123
+Q6793338,Q6581097,1955-10-05T00:00:00Z,1,Maurice Mavoungou,Maurice Mavoungou,Republic of the Congo politician,Q971,
+Q6836307,Q6581097,1940-01-01T00:00:00Z,4,Michel Boyibanda,Michel Boyibanda,Congolese musician,Q971,
+Q6836508,Q6581097,2000-01-01T00:00:00Z,1,Michel Ngakala,Michel Ngakala,"Military officer, politician",Q971,
+Q6836911,Q6581072,1987-11-30T00:00:00Z,6,Michelle Banga Moundzoula,Michelle Banga Moundzoula,Republic of the Congo sprinter,Q971,
+Q6938486,Q6581097,1988-09-01T00:00:00Z,3,Murhyen Kaster Mereck Bindoumou,Murhyen Kaster Mereck Bindoumou,Congolese footballer,Q971,Q3844
+Q6957044,Q6581097,1990-08-24T00:00:00Z,3,Naby Twimumu,Naby Twimumu,Luxembourgian footballer,Q971,Q974
+Q6957044,Q6581097,1990-08-24T00:00:00Z,3,Naby Twimumu,Naby Twimumu,Luxembourgian footballer,Q32,Q974
+Q6964224,Q6581097,1973-02-16T00:00:00Z,2,Nansha Kalonji,Nansha Kalonji,Belgian footballer,Q31,Q239
+Q6964224,Q6581097,1973-02-16T00:00:00Z,2,Nansha Kalonji,Nansha Kalonji,Belgian footballer,Q971,Q239
+Q706382,Q6581097,1977-10-28T00:00:00Z,8,Rolf-Christel Guié-Mien,Rolf-Christel Guié-Mien,Republic of the Congo footballer,Q971,Q3844
+Q7075902,Q6581097,1988-11-08T00:00:00Z,3,Occupé Bayenga,Occupé Bayenga,footballer,Q971,Q3838
+Q7075902,Q6581097,1988-11-08T00:00:00Z,3,Occupé Bayenga,Occupé Bayenga,footballer,Q298,Q3838
+Q7122834,Q6581097,1941-01-01T00:00:00Z,3,Pacifique Issoïbeka,Pacifique Issoïbeka,Republic of the Congo politician,Q971,
+Q7141729,Q6581097,1948-11-28T00:00:00Z,6,Pascal Tsaty Mabiala,Pascal Tsaty Mabiala,Congolese politician,Q971,Q3260216
+Q7141729,Q6581097,1949-11-28T00:00:00Z,6,Pascal Tsaty Mabiala,Pascal Tsaty Mabiala,Congolese politician,Q971,Q3260216
+Q7145418,Q6581097,1949-01-01T00:00:00Z,2,Patrice Yengo,Patrice Yengo,French anthropologist,Q971,Q223920
+Q7147030,Q6581097,1980-04-25T00:00:00Z,4,Patrick Lolo,Patrick Lolo,Republic of the Congo footballer,Q971,Q15210709
+Q7148801,Q6581097,1982-02-02T00:00:00Z,5,Paty Yeye Lenkebe,Paty Yeye Lenkebe,Republic of the Congo footballer,Q971,Q974
+Q7152065,Q6581097,1914-07-17T00:00:00Z,7,Paul Lomami-Tshibamba,Paul Lomami-Tshibamba,Congolese writer (1914–1985),Q974,Q3844
+Q7152065,Q6581097,1914-07-17T00:00:00Z,7,Paul Lomami-Tshibamba,Paul Lomami-Tshibamba,Congolese writer (1914–1985),Q971,Q3844
+Q7191981,Q6581097,1940-01-01T00:00:00Z,2,Pierre-Ernest Abandzounou,Pierre-Ernest Abandzounou,Republic of the Congo politician,Q971,
+Q7192047,Q6581097,1940-01-01T00:00:00Z,2,Pierre Anga,Pierre Anga,Congolese army officer/rebel leader,Q971,
+Q7192163,Q6581097,1945-01-01T00:00:00Z,2,Pierre-Damien Boussoukou-Boumba,Pierre Damien Boussoukou-Boumba,Republic of the Congo politician,Q971,
+Q7192242,Q6581097,1912-04-19T00:00:00Z,4,Pierre Goura,Pierre Goura,Republic of the Congo politician (1912–1996),Q142,Q271894
+Q7192242,Q6581097,1912-04-19T00:00:00Z,4,Pierre Goura,Pierre Goura,Republic of the Congo politician (1912–1996),Q971,Q271894
+Q7192336,Q6581097,1954-11-01T00:00:00Z,2,Pierre M'Pelé,Pierre M'Pelé,Congolese physician,Q971,Q223920
+Q7192339,Q6581097,1962-10-15T00:00:00Z,5,Pierre Mabiala,Pierre Mabiala,Republic of the Congo politician,Q971,Q969317
+Q7192374,Q6581097,1950-04-03T00:00:00Z,3,Pierre Moutouari,Pierre Moutouari,Soukous singer from the Republic of Congo,Q974,
+Q7192374,Q6581097,1950-04-03T00:00:00Z,3,Pierre Moutouari,Pierre Moutouari,Soukous singer from the Republic of Congo,Q971,
+Q7192379,Q6581097,1954-06-27T00:00:00Z,5,Pierre Ngolo,Pierre Ngolo,Republic of the Congo politician,Q971,
+Q7192383,Q6581097,1939-01-01T00:00:00Z,1,Pierre Nzé,Pierre Nzé,Republic of the Congo politician,Q971,
+Q7192384,Q6581097,1947-01-01T00:00:00Z,2,Pierre Nzila,Pierre Nzila,Republic of the Congo politician,Q971,
+Q7192397,Q6581097,1945-11-23T00:00:00Z,2,Pierre Passi,Pierre Passi,Republic of the Congo politician,Q971,
+Q71982865,Q6581097,1994-12-23T00:00:00Z,9,Ravy Tsouka,Ravy Tsouka,association football player,Q142,Q160927
+Q71982865,Q6581097,1994-12-23T00:00:00Z,9,Ravy Tsouka,Ravy Tsouka,association football player,Q971,Q160927
+Q7283328,Q6581097,1989-03-12T00:00:00Z,4,Rahavi Kifouéti,Rahavi Kifouéti,footballer,Q971,Q135265
+Q7283328,Q6581097,1989-03-12T00:00:00Z,4,Rahavi Kifouéti,Rahavi Kifouéti,footballer,Q142,Q135265
+Q7298700,Q6581097,1936-03-25T00:00:00Z,2,Raymond Damase Ngollo,Raymond Damase Ngollo,Congolese general and politician (1936–2017),Q971,
+Q7299001,Q6581097,1956-03-19T00:00:00Z,5,Raymond Mboulou,Raymond Mboulou,Republic of the Congo politician (* 1956),Q971,Q21747123
+Q730028,Q6581097,1940-01-01T00:00:00Z,2,Rigobert Ngouolali,Rigobert Ngouolali,Republic of the Congo politician,Q971,
+Q7324241,Q6581097,1978-04-11T00:00:00Z,5,Richard Bokatola,Richard Bokatola,Republic of the Congo footballer (born 1979),Q971,Q1152126
+Q7324241,Q6581097,1979-04-11T00:00:00Z,5,Richard Bokatola,Richard Bokatola,Republic of the Congo footballer (born 1979),Q971,Q1152126
+Q7343116,Q6581097,1942-01-01T00:00:00Z,3,Robert Corfou,Robert Corfou,footballer,Q971,Q1144938
+Q7354536,Q6581097,1983-08-10T00:00:00Z,2,Rock Itoua-Ndinga,Rock Itoua-Ndinga,Republic of Congo footballer,Q971,Q971
+Q7362903,Q6581097,1980-12-12T00:00:00Z,1,Romaric Kondzy,Romaric Kondzy,Republic of the Congo basketball player (born 1980),Q971,
+Q7362903,Q6581097,1980-12-12T00:00:00Z,1,Romaric Kondzy,Romaric Kondzy,Republic of the Congo basketball player (born 1980),Q929,
+Q7367841,Q6581072,1963-01-01T00:00:00Z,6,Rose Mapendo,Rose Mapendo,Congolese activist,Q971,Q3327593
+Q7367841,Q6581072,1963-01-01T00:00:00Z,6,Rose Mapendo,Rose Mapendo,Congolese activist,Q974,Q3327593
+Q7399575,Q6581097,1990-01-03T00:00:00Z,9,Saheed Idowu,Saheed Idowu,Republic of Congo table tennis player,Q971,Q3844
+Q740411,Q6581097,1939-01-14T00:00:00Z,30,Joachim Yhombi-Opango,Joachim Yhombi-Opango,Congolese politician (1939–2020),Q971,Q1201732
+Q740438,Q6581097,1921-02-11T00:00:00Z,31,Alphonse Massamba-Débat,Alphonse Massamba-Débat,Congolese politician (1921-1977),Q971,Q16255083
+Q74048217,Q6581097,2002-05-15T00:00:00Z,23,Chrislain Matsima,Chrislain Matsima,French footballer (born 2002),Q971,Q170507
+Q74048217,Q6581097,2002-05-15T00:00:00Z,23,Chrislain Matsima,Chrislain Matsima,French footballer (born 2002),Q974,Q170507
+Q74048217,Q6581097,2002-05-15T00:00:00Z,23,Chrislain Matsima,Chrislain Matsima,French footballer (born 2002),Q142,Q170507
+Q7407777,Q6581097,1986-12-15T00:00:00Z,4,Sam Ledor,Sam Ledor,footballer,Q971,Q1033
+Q7426828,Q6581097,1932-01-01T00:00:00Z,3,Saturnin Pandi,Saturnin Pandi,"soukous recording artist, conga player",Q974,
+Q7426828,Q6581097,1932-01-01T00:00:00Z,3,Saturnin Pandi,Saturnin Pandi,"soukous recording artist, conga player",Q971,
+Q7428367,Q6581097,1979-04-17T00:00:00Z,3,Savity Lipenia,Savity Lipenia,Republic of the Congo footballer,Q971,Q974
+Q7453335,Q6581097,1986-09-03T00:00:00Z,2,Serge Makofo,Serge Makofo,footballer,Q974,Q3838
+Q7453335,Q6581097,1986-09-03T00:00:00Z,2,Serge Makofo,Serge Makofo,footballer,Q971,Q3838
+Q7453335,Q6581097,1986-10-22T00:00:00Z,2,Serge Makofo,Serge Makofo,footballer,Q971,Q3838
+Q7453335,Q6581097,1986-10-22T00:00:00Z,2,Serge Makofo,Serge Makofo,footballer,Q974,Q3838
+Q7453340,Q6581097,1948-12-29T00:00:00Z,2,Serge Michel Odzoki,Serge Michel Odzoki,Republic of the Congo politician,Q971,Q627885
+Q7453342,Q6581097,1959-07-22T00:00:00Z,4,Serge Mombouli,Serge Mombouli,Congolese diplomat,Q971,Q223920
+Q7563406,Q6581097,1975-11-05T00:00:00Z,1,Sorel-Arthur Kembe,Sorel-Arthur Kembe,fencer,Q971,
+Q7630018,Q6581097,1937-06-06T00:00:00Z,8,Stéphane Maurice Bongho-Nouarra,Stéphane Maurice Bongho-Nouarra,Prime Minister of the Republic of the Congo (1937–2007),Q971,Q627885
+Q7645353,Q6581097,1976-05-05T00:00:00Z,8,Suraju Saka,Suraju Saka,Republic of Congo table tennis player,Q971,Q1033
+Q7645353,Q6581097,1976-05-05T00:00:00Z,8,Suraju Saka,Suraju Saka,Republic of Congo table tennis player,Q974,Q1033
+Q7645353,Q6581097,1976-05-05T00:00:00Z,8,Suraju Saka,Suraju Saka,Republic of Congo table tennis player,Q1033,Q1033
+Q7660858,Q6581097,2000-01-01T00:00:00Z,2,Sylvestre Ossiala,Sylvestre Ossiala,Republic of the Congo politician,Q971,
+Q767085,Q6581097,1933-06-12T00:00:00Z,14,Bernard Kolélas,Bernard Kolélas,Prime Minister of the Republic of the Congo (1933–2009),Q971,Q3844
+Q7694065,Q6581097,1979-04-29T00:00:00Z,1,Teddy Okobo Itoua,Teddy Okobo Itoua,Congolese basketball player,Q971,
+Q772308,Q6581097,1978-01-24T00:00:00Z,5,Camille Oponga,Camille Oponga,Republic of Congo footballer,Q971,Q3844
+Q773877,Q6581097,1986-05-24T00:00:00Z,11,Ladislas Douniama,Ladislas Douniama,Congolese footballer,Q971,Q3844
+Q7783275,Q6581097,1988-06-06T00:00:00Z,4,Thernand Bakouboula,Thernand Bakouboula,footballer,Q971,Q211134
+Q78463871,Q6581097,1933-03-11T00:00:00Z,5,Aloïse Moudileno-Massengo,Aloïse Moudileno Massengo,Congolese politician (1933-2020),Q971,Q22343333
+Q7849615,Q6581097,1983-06-07T00:00:00Z,2,Tshiabola Mapanya,Tshiabola Mapanya,Republic of the Congo footballer,Q971,Q971
+Q7849626,Q6581097,1977-08-17T00:00:00Z,1,Jim Tshimpaka Kadima,Tshimpaka Kadima,Democratic Republic of the Congo basketball player (born 1977),Q974,
+Q7849626,Q6581097,1977-08-17T00:00:00Z,1,Jim Tshimpaka Kadima,Tshimpaka Kadima,Democratic Republic of the Congo basketball player (born 1977),Q971,
+Q79314210,Q6581097,2001-03-29T00:00:00Z,19,Alexis Beka Beka,Alexis Beka Beka,French-Congolese association football player (born 2001),Q142,Q90
+Q79314210,Q6581097,2001-03-29T00:00:00Z,19,Alexis Beka Beka,Alexis Beka Beka,French-Congolese association football player (born 2001),Q971,Q90
+Q7964236,Q6581097,1980-11-14T00:00:00Z,2,Walter Bakouma,Walter Bakouma,Republic of the Congo footballer,Q971,Q6944588
+Q8022581,Q6581097,1969-01-01T00:00:00Z,1,Willy Matsanga,Willy Matsanga,Republic of the Congo politician,Q971,
+Q8023360,Q6581097,1908-06-29T00:00:00Z,1,Wilton Blancké,Wilton Blancké,ambassador,Q971,Q1345
+Q8048383,Q6581072,1982-07-31T00:00:00Z,6,Yang Fen,Yang Fen,Congolese table tennis player,Q971,Q46862
+Q8054445,Q6581097,1988-10-08T00:00:00Z,4,Yohan M'Vila,Yohan M'Vila,footballer,Q971,Q41604
+Q8062286,Q6581097,1992-03-15T00:00:00Z,5,Yven Moyo,Yven Moyo,Congolese and French association football player,Q142,Q6548
+Q8062286,Q6581097,1992-03-15T00:00:00Z,5,Yven Moyo,Yven Moyo,Congolese and French association football player,Q971,Q6548
+Q81148990,Q6581097,1992-07-30T00:00:00Z,1,Igor Ibaka,Igor Ibaka,Congolese basketball player,Q971,
+Q81148990,Q6581097,1992-07-30T00:00:00Z,1,Igor Ibaka,Igor Ibaka,Congolese basketball player,Q974,
+Q817288,Q6581097,1941-08-18T00:00:00Z,33,Beniamino Stella,Beniamino Stella,Italian Roman-Catholic archbishop and cardinal,Q38,Q46539
+Q817288,Q6581097,1941-08-18T00:00:00Z,33,Beniamino Stella,Beniamino Stella,Italian Roman-Catholic archbishop and cardinal,Q971,Q46539
+Q822633,Q6581097,1943-06-27T00:00:00Z,9,Bernard Nsayi,Bernard Nsayi,Congolese theologian and catholic bishop,Q971,Q3314787
+Q86841844,Q6581072,2000-10-31T00:00:00Z,21,Cyréna Samba-Mayela,Cyréna Samba-Mayela,French athletics competitor,Q971,Q192378
+Q86841844,Q6581072,2000-10-31T00:00:00Z,21,Cyréna Samba-Mayela,Cyréna Samba-Mayela,French athletics competitor,Q142,Q192378
+Q87491722,Q6581097,1955-11-11T00:00:00Z,2,Gilles Coudray,Gilles Coudray,Congolese swimmer,Q971,
+Q88063614,Q6581072,1950-01-01T00:00:00Z,2,Pascaline Bobeka,Pascaline Bobeka,Congolese handball player,Q971,
+Q88063693,Q6581072,1950-01-01T00:00:00Z,3,Nicole Oba,Nicole Oba,Congolese handball player,Q971,
+Q88063763,Q6581072,1950-01-01T00:00:00Z,2,Micheline Okemba,Micheline Okemba,Congolese handball player,Q971,
+Q88063915,Q6581072,1950-01-01T00:00:00Z,2,Julienne Malaki,Julienne Malaki,Congolese handball player,Q971,
+Q88063994,Q6581072,1950-01-01T00:00:00Z,2,Isabelle Azanga,Isabelle Azanga,Congolese handball player,Q971,
+Q88064057,Q6581072,1950-01-01T00:00:00Z,3,Henriette Koula,Henriette Koula,Congolese handball player,Q971,
+Q88064190,Q6581072,1950-01-01T00:00:00Z,2,Germaine Djimbi,Germaine Djimbi,Congolese handball player,Q971,
+Q88070367,Q6581072,1950-01-01T00:00:00Z,2,Yvonne Makouala,Yvonne Makouala,Congolese handball player,Q971,
+Q88070457,Q6581072,1950-01-01T00:00:00Z,2,Viviane Okoula,Viviane Okoula,Congolese handball player,Q971,
+Q88070607,Q6581072,1950-01-01T00:00:00Z,2,Pemba Lopez,Pemba Lopez,Congolese handball player,Q971,
+Q96210695,Q6581072,1994-06-10T00:00:00Z,4,Isaure Mosabau,Isaure Mosabau,Congolese and French handball player,Q142,Q193877
+Q96210695,Q6581072,1994-06-10T00:00:00Z,4,Isaure Mosabau,Isaure Mosabau,Congolese and French handball player,Q971,Q193877
+Q96210695,Q6581072,1994-06-10T00:00:00Z,4,Isaure Mosabau,Isaure Mosabau,Congolese and French handball player,Q974,Q193877
+Q963790,Q6581097,1947-07-13T00:00:00Z,13,François M'Pelé,François M'Pelé,Republic of the Congo footballer,Q971,Q3844
+Q964762,Q6581097,1941-01-01T00:00:00Z,5,Ange Diawara,Ange Diawara,Republic of the Congo politician (1941-1973),Q971,Q739308
+Q969596,Q6581097,1986-03-19T00:00:00Z,6,Ted Lavie,Ted Lavie,footballer,Q142,Q6441
+Q969596,Q6581097,1986-03-19T00:00:00Z,6,Ted Lavie,Ted Lavie,footballer,Q971,Q6441
+Q969596,Q6581097,1986-03-19T00:00:00Z,6,Ted Lavie,Ted Lavie,footballer,Q974,Q6441
+Q97036793,Q6581072,1940-09-13T00:00:00Z,5,Micheline Golengo,Micheline Golengo,Congolese politician (1940-2009),Q971,Q3844
+Q974644,Q6581097,1988-03-14T00:00:00Z,25,Delvin N'Dinga,Delvin N'Dinga,Republic of the Congo footballer,Q142,Q223920
+Q974644,Q6581097,1988-03-14T00:00:00Z,25,Delvin N'Dinga,Delvin N'Dinga,Republic of the Congo footballer,Q971,Q223920
+Q979565,Q6581097,1984-10-23T00:00:00Z,7,Destin Makita,Destin Makita,Republic of the Congo footballer,Q971,Q3844
+Q983273,Q6581097,1947-06-05T00:00:00Z,25,Sony Lab'ou Tansi,Sony Lab'ou Tansi,"Playwright, Novelist and Screenwriter (1947-1995)",Q971,Q6410283
+Q983273,Q6581097,1947-06-05T00:00:00Z,25,Sony Lab'ou Tansi,Sony Lab'ou Tansi,"Playwright, Novelist and Screenwriter (1947-1995)",Q974,Q6410283
+Q99485406,Q6581097,2003-01-16T00:00:00Z,2,Jason Ngouabi,Jason Ngouabi,French footballer,Q971,Q107501
+Q99485406,Q6581097,2003-01-16T00:00:00Z,2,Jason Ngouabi,Jason Ngouabi,French footballer,Q142,Q107501
+Q99654405,Q6581072,1939-01-01T00:00:00Z,6,Alice Badiangana,Alice Badiangana,Congolese (Brazzaville) politician and women's activist,Q971,Q3844

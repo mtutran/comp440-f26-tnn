@@ -1,0 +1,542 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q102291737,Q6581072,1986-01-01T00:00:00Z,5,Iman Ghaleb al-Hamli,Iman Ghaleb Al-Hamli,Yemeni entrepreneur,Q805,
+Q104622,Q6581072,1979-02-07T00:00:00Z,95,Tawakkol Karman,Tawakkol Karman,"Yemeni-Turkish journalist, politician and human rights activist (born 1979)",Q805,Q466216
+Q104816462,Q6581097,1976-02-03T00:00:00Z,12,Sheikh Ali Jaber,Ali Saleh Mohammed Ali Jaber,preacher and scholar with Indonesian nationality (1976-2021),Q805,Q35484
+Q104816462,Q6581097,1976-02-03T00:00:00Z,12,Sheikh Ali Jaber,Ali Saleh Mohammed Ali Jaber,preacher and scholar with Indonesian nationality (1976-2021),Q252,Q35484
+Q105582449,Q6581097,1976-09-10T00:00:00Z,6,Ali Al Bukhaiti,Ali Al Bukhaiti,Yemeni journalist and politician,Q805,Q805
+Q105582449,Q6581097,1976-09-10T00:00:00Z,6,Ali Al Bukhaiti,Ali Al Bukhaiti,Yemeni journalist and politician,Q145,Q805
+Q106206,Q6581097,1971-01-03T00:00:00Z,8,Tarek Al-Wazir,Tarek Al-Wazir,German politician,Q805,Q3042
+Q106206,Q6581097,1971-01-03T00:00:00Z,8,Tarek Al-Wazir,Tarek Al-Wazir,German politician,Q183,Q3042
+Q106432191,Q6581097,1996-11-23T00:00:00Z,3,Ali Nasser Ali Hasan,Ali Nasser Ali Hasan,Yemeni footballer,Q805,Q3692
+Q107380593,Q6581072,2001-01-25T00:00:00Z,7,Entisar al-Hammadi,Intisar al-Hammadi,Yemeni actress and model,Q805,Q466216
+Q107641375,Q6581072,1985-11-26T00:00:00Z,4,Yasameen Al-Raimi,Yasameen Al-Raimi,Yemeni sports shooter,Q805,
+Q109239136,Q6581097,1917-01-01T00:00:00Z,2,Ahmad Abd Al Rahman Al Moulami,Ahmad Abd Al Rahman Al Moulami,Yemeni writer,Q805,Q4117268
+Q10951483,Q6581097,1940-01-01T00:00:00Z,3,Muhammad al-Shurafi,Muhammad al-Shurafi,poet,Q805,
+Q109890215,Q6581072,1987-01-01T00:00:00Z,8,Harbia Al Himiary,Harbia Al Himiary,Yemeni engineer,Q805,Q2471
+Q110090447,Q6581097,1944-01-01T00:00:00Z,2,Hussein Bin Abdallah Al Amri,Hussein Bin Abdallah Al Amri,Yemeni diplomat and writer,Q805,Q2471
+Q110509912,Q6581072,1989-10-21T00:00:00Z,3,Shatha Altowai,Shatha Altowai,Yemeni artist,Q805,Q131694
+Q110522160,Q6581072,1976-01-01T00:00:00Z,3,Afrah al-Zouba,Afrah al-Zouba,Yemeni diplomat and activist (born 1976),Q805,
+Q111284614,Q6581097,1995-01-20T00:00:00Z,2,Osama Anbar,Osama Anbar,Yemeni footballer,Q805,Q805
+Q11281342,Q6581097,1966-08-30T00:00:00Z,7,Ali al-Muqri,Ali al-Muqri,Yemeni journalist and writer,Q805,Q466216
+Q113407477,Q6581097,1965-01-01T00:00:00Z,4,Mohsen al-Daeri,Mohsen al-Daeri,Yemen's pro-Houthi Defense Minister,Q805,
+Q113574719,Q6581097,1972-01-01T00:00:00Z,3,Ibrahim Haidan,Ibrahim Haidan,Yemeni military officer and politician,Q805,
+Q113858203,Q6581097,1979-01-01T00:00:00Z,4,Abdullah al-Alimi Bawazir,Abdullah al-Alimi Bawazeer,Member of the Yemeni Presidential Leadership Council,Q805,
+Q113917331,Q6581072,1942-01-01T00:00:00Z,2,Shafiqa Zawqari,Shafiqa Zawqari,Yemeni short story writer,Q805,
+Q113952759,Q6581097,1968-01-01T00:00:00Z,2,Nasser al-Dhaibani,Nasser al-Dhaibani,Yemeni army major general,Q805,
+Q113953342,Q6581097,1962-01-01T00:00:00Z,2,Amin al-Waeli,Amin al-Waeli,Yemeni major general and politician,Q805,Q4117263
+Q113958369,Q6581097,1970-01-01T00:00:00Z,3,Taher al-Aqili,Taher al-Aqili,Yemeni general and politician,Q805,
+Q114350102,Q6581097,1973-01-01T00:00:00Z,2,Khaled al-Wesabi,Khaled al-Wesabi,Yemeni politician,Q805,
+Q114869710,Q6581097,1973-01-01T00:00:00Z,2,Qassem Bahaibah,Qassem Mohammad Qassem Bahaibah,Yemeni politician,Q805,
+Q115092066,Q6581097,1996-01-01T00:00:00Z,2,Younes Abdulsalam,Younes Abdulsalam,Yemeni journalist,Q805,
+Q115122618,Q6581072,1996-10-01T00:00:00Z,3,Rasha al-Harazi,Rasha al-Harazi,Yemeni journalist,Q805,
+Q115650350,Q6581072,2000-01-01T00:00:00Z,8,Maeen Al-Obaidi,Maeen Al-Obaidi,Yemeni lawyer,Q805,
+Q116052617,Q6581097,1997-04-14T00:00:00Z,2,Mohamed Aman (footballer),Mohamed Aman,Yemeni footballer,Q805,
+Q116263747,Q6581097,1947-01-01T00:00:00Z,2,Abdullah Ali Alewa,Abdullah Ali Alewa,Yemeni politician,Q805,Q3125264
+Q116264609,Q6581097,1957-01-01T00:00:00Z,2,Hussein al-Awadhi,Husseni al-Awadhi,Yemeni politician and journalist,Q805,
+Q116264752,Q6581097,1959-01-01T00:00:00Z,2,Abdullah al-Dafa'i,Abdullah al-Dafa'i,Yemeni politician,Q805,
+Q116264753,Q6581097,1949-01-01T00:00:00Z,1,Alawi Hussein Attas,Alawi Hussein Attas,Yemeni politician,Q805,
+Q116272456,Q6581097,1957-01-01T00:00:00Z,1,Abdulmalek al-Eryani,Abdulmalek al-Eryani,Yemeni politician,Q805,
+Q116289291,Q6581097,1956-01-01T00:00:00Z,2,Saleh Sumai,Saleh Sumai,Yemeni politician,Q805,
+Q116398205,Q6581097,1948-01-01T00:00:00Z,2,Ghaleb al-Qamesh,Ghaleb al-Qamesh,Yemeni intelligence officer and politician,Q805,Q4117448
+Q116480225,Q6581097,1938-01-01T00:00:00Z,2,Mohammed Hassan Damaj,Mohammed Hassan Damaj,Yemeni politician,Q805,Q4117787
+Q116680793,Q6581072,1986-01-01T00:00:00Z,3,Saba Hamzah,Saba Hamzah,Yemeni poet and researcher,Q805,Q2471
+Q116754003,Q6581097,1933-01-01T00:00:00Z,4,Mutaher al-Eryani,Mutaher al-Eryani,"Yemeni poet, historian and archeologist (1933–2016)",Q805,
+Q116791151,Q6581097,1934-12-20T00:00:00Z,3,Anis Hassan Yahya,Anis Hassan Yahya,Yemeni socialist thinker and politician (1934–2026),Q805,Q131694
+Q116791151,Q6581097,1934-12-20T00:00:00Z,3,Anis Hassan Yahya,Anis Hassan Yahya,Yemeni socialist thinker and politician (1934–2026),Q834486,Q131694
+Q116791151,Q6581097,1934-12-20T00:00:00Z,3,Anis Hassan Yahya,Anis Hassan Yahya,Yemeni socialist thinker and politician (1934–2026),Q49910,Q131694
+Q116791151,Q6581097,1934-12-20T00:00:00Z,3,Anis Hassan Yahya,Anis Hassan Yahya,Yemeni socialist thinker and politician (1934–2026),Q199841,Q131694
+Q116872157,Q6581097,1999-10-15T00:00:00Z,3,Harwan Al-Zubaidi,Harwan Al-Zubaidi,Yemeni footballer,Q805,Q2471
+Q12000123,Q6581097,1938-01-01T00:00:00Z,3,Shaher Abdulhak,Shaher Abdulhak,Yemeni businessman,Q805,Q466216
+Q120645018,Q6581097,2003-07-05T00:00:00Z,4,Abdullah Al-Yaari,Abdullah Al-Yaari,Yemeni middle-distance runner,Q805,
+Q12177902,Q6581097,1939-03-17T00:00:00Z,6,Abu Bakr Salem,Abu Bakr Salem,"Yemeni-Saudi singer, poet, and composer of Hadhrami origins",Q805,Q1014010
+Q12177902,Q6581097,1939-03-17T00:00:00Z,6,Abu Bakr Salem,Abu Bakr Salem,"Yemeni-Saudi singer, poet, and composer of Hadhrami origins",Q851,Q1014010
+Q12177931,Q6581097,1972-01-01T00:00:00Z,2,Nasser al-Bahri,Nasser al-Bahri,Yemeni al-Qaeda member,Q805,Q851
+Q12182187,Q6581072,1971-09-16T00:00:00Z,4,Isra Girgrah,Isra Girgrah,American boxer,Q30,Q131694
+Q12182187,Q6581072,1971-09-16T00:00:00Z,4,Isra Girgrah,Isra Girgrah,American boxer,Q805,Q131694
+Q12197705,Q6581097,1984-05-04T00:00:00Z,4,Bader Saleh,Bader Saleh,Yemeni comedy artist,Q805,Q374365
+Q12199113,Q6581072,1984-10-20T00:00:00Z,12,Balqees (singer),Balqees,Yemeni actress and singer,Q878,Q1519
+Q12199113,Q6581072,1984-10-20T00:00:00Z,12,Balqees (singer),Balqees,Yemeni actress and singer,Q805,Q1519
+Q12208137,Q6581097,1990-05-07T00:00:00Z,3,Hussein Al-Ghazi,Hussein Al-Ghazi,association football player,Q805,Q805
+Q12212800,Q6581072,1958-12-14T00:00:00Z,9,Raufa Hassan al-Sharki,Raufa Hassan al-Sharki,"educator, feminist and human rights activist from Yemen (1958-2011)",Q805,Q99648
+Q12212871,Q6581097,1917-01-01T00:00:00Z,2,Rajih Labouza,Rajih Labouza,,Q805,
+Q12213376,Q6581097,1954-01-15T00:00:00Z,32,Rashad al-Alimi,Rashad al-Alimi,Chairman of the Presidential Leadership Council of Yemen since 2022,Q805,Q466216
+Q12213501,Q6581072,1985-11-30T00:00:00Z,3,Raghda Gamal,Raghda Gamal,a Yemeni journalist and poet.,Q805,
+Q12219331,Q6581097,1970-01-01T00:00:00Z,11,Abu Bakr ash-Shatry,Abu Bakr ash-Shatry,Saudi Quran reciter,Q851,Q374365
+Q12219331,Q6581097,1970-01-01T00:00:00Z,11,Abu Bakr ash-Shatry,Abu Bakr ash-Shatry,Saudi Quran reciter,Q805,Q374365
+Q12223068,Q6581097,1955-08-08T00:00:00Z,16,Abdel-Aziz bin Habtour,Abd al-Aziz ibn Habtour,Yemeni politician (born 1955),Q805,Q328180
+Q12223209,Q6581097,1952-12-13T00:00:00Z,3,Abdul Qader Qahtan,Abdul Qader Qahtan,"Yemeni jurist, security officer, and politician",Q805,Q466216
+Q12223818,Q6581097,1959-08-19T00:00:00Z,4,Abdulmalik Al-Mekhlafi,Abdulmalik al-Mekhlafi,Advisor to the President/ Yemeni Politician,Q805,Q466216
+Q12223917,Q6581097,1938-01-01T00:00:00Z,4,Abdul Wahab Al-Dailami,Abdul Wahab Al-Dailami,Yemeni politician of Persian origin,Q805,Q955523
+Q12227833,Q6581097,1910-12-21T00:00:00Z,11,Ali Ahmad Bakathir,Ali Ahmad Bakathir,Indonesian-born Yemeni poet and dramatist (1910-1969),Q252,Q11462
+Q12227833,Q6581097,1910-12-21T00:00:00Z,11,Ali Ahmad Bakathir,Ali Ahmad Bakathir,Indonesian-born Yemeni poet and dramatist (1910-1969),Q805,Q11462
+Q12228141,Q6581097,1935-01-01T00:00:00Z,3,Ali Abdul Mughni,Ali Abdul Mughni,Yemeni military personnel,Q805,
+Q12229947,Q6581097,1961-01-01T00:00:00Z,5,Fuad al-Kibsi,Fuad al-Kibsi,Yemeni singer,Q805,
+Q12231682,Q6581097,1949-01-01T00:00:00Z,6,Faisal Alawi,Faisal Alawi,Yemeni singer from Lahej,Q805,Q404774
+Q12234642,Q6581097,1946-01-01T00:00:00Z,4,Karama Mursal,Karama Mursal,Yemeni singer,Q805,
+Q12240087,Q6581097,1921-12-22T00:00:00Z,6,Mohammed bin Ismail Al Amrani,Mohammed bin Ismail Al Amrani,Yemeni judge,Q805,Q12220316
+Q12240557,Q6581097,1927-01-01T00:00:00Z,9,Muhammad Said al-Attar,Muhammad Said al-Attar,Yemeni politician and diplomat (1927–2005),Q805,Q977
+Q12240743,Q6581097,1947-01-01T00:00:00Z,3,Mohammed al-Yadoumi,Mohammed al-Yadoumi,Yemeni politician and chairman of Islah Party,Q805,
+Q12240745,Q6581097,1939-01-01T00:00:00Z,2,Mohammed Abdullah Saleh,Mohammed Abdullah Saleh,Yemeni Major General,Q805,
+Q12242130,Q6581097,1952-01-01T00:00:00Z,2,Murshed Al-Arashani,Morshed Ali Alarshany,Yemeni politician and judge,Q805,
+Q12242349,Q6581097,1979-01-01T00:00:00Z,5,Marwan al-Ghafory,Marwan Al-Ghafuri,Yemeni writer,Q805,
+Q12242349,Q6581097,1979-01-01T00:00:00Z,5,Marwan al-Ghafory,Marwan Al-Ghafuri,Yemeni writer,Q183,
+Q12246801,Q6581072,1987-11-24T00:00:00Z,2,Maysoon al-Eryani,Maysoon al-Eryani,Yemeni poet,Q805,
+Q12249847,Q6581072,1960-01-01T00:00:00Z,3,Huda al-Baan,Huda Al-Ban,former Ministry of Human Rights,Q805,
+Q12251720,Q6581097,1965-12-17T00:00:00Z,5,Yahya Mohamed Abdullah Saleh,Yahya Mohamed Abdullah Saleh,Yemeni politician,Q805,Q2471
+Q122767881,Q6581097,1948-01-01T00:00:00Z,3,Assassination of Thabet Gawas,Assassination of Thabet Gawas,"2022 murder in Aden, Yemen",Q805,
+Q123572112,Q6581097,1991-01-01T00:00:00Z,4,Mohamed al-Ghoom,Mohamed Al-Ghoom,Yemeni composer and maestro,Q805,Q4117824
+Q123819200,Q6581097,1970-01-02T00:00:00Z,19,Yahya Saree,Yahya Saree,"spokesperson for the Houthis, a paramilitary organization linked to the Yemeni Armed Forces in the Middle East",Q805,Q275732
+Q124287468,Q6581097,1993-01-01T00:00:00Z,2,Ahmed Baider,Ahmed Baider,Yemeni journalist,Q805,Q2471
+Q124691,Q6581072,1966-03-19T00:00:00Z,9,Elham Manea,Elham Manea,Swiss-American academic,Q805,Q312723
+Q124691,Q6581072,1966-03-19T00:00:00Z,9,Elham Manea,Elham Manea,Swiss-American academic,Q39,Q312723
+Q125740695,Q6581097,1982-01-01T00:00:00Z,4,Levi Marhabi,Levi Marhabi,Yemenite Orthodox Jew,Q805,Q4117637
+Q125740695,Q6581097,1987-01-01T00:00:00Z,4,Levi Marhabi,Levi Marhabi,Yemenite Orthodox Jew,Q805,Q4117637
+Q127417214,Q6581097,1986-01-01T00:00:00Z,2,Abu Hajer al-Hadhrami,Abu Hajer al-Hadhrami,Al-Qaeda munshid (nasheed singer),Q805,Q310772
+Q128804528,Q6581097,1950-01-01T00:00:00Z,13,Ahmed al-Rahawi,Ahmed al-Rahawi,Yemeni politician (1950–2025),Q805,Q4117538
+Q130484557,Q6581097,1942-02-04T00:00:00Z,2,Mohamad Khadim Al Wajih,Mohamad Khadim Al Wajih,Yemeni politician and economist,Q805,
+Q130484557,Q6581097,1940-01-01T00:00:00Z,2,Mohamad Khadim Al Wajih,Mohamad Khadim Al Wajih,Yemeni politician and economist,Q805,
+Q130492801,Q6581097,2001-01-01T00:00:00Z,3,Tareq Shihab,Tareq Shihab,dutch-English footballer (born 2001),Q145,Q992
+Q130492801,Q6581097,2001-01-01T00:00:00Z,3,Tareq Shihab,Tareq Shihab,dutch-English footballer (born 2001),Q29999,Q992
+Q130492801,Q6581097,2001-01-01T00:00:00Z,3,Tareq Shihab,Tareq Shihab,dutch-English footballer (born 2001),Q805,Q992
+Q131608556,Q6581097,1991-01-01T00:00:00Z,2,Samer Fadl,Samer Fadl,Yemeni footballer (born 1978),Q805,
+Q131612386,Q6581072,1970-01-01T00:00:00Z,1,Amna Al-Nasiri,Amna Al-Nasiri,"Yemeni artist, author, and academic (b. 1970)",Q805,Q2125362
+Q131823699,Q6581097,1988-06-05T00:00:00Z,3,Saber Bamatraf,Saber Bamatraf,Yemeni musical artist and cultural activist,Q805,Q131694
+Q132184901,Q6581097,1953-01-01T00:00:00Z,2,Jaber Ali Ahmed,Jaber Ali Ahmed,Yemeni musician (b. 1953),Q805,
+Q1322893,Q6581097,1939-04-05T00:00:00Z,16,Haidar Abu Bakr al-Attas,Haidar Abu Bakr al-Attas,politician,Q805,Q4118387
+Q1322893,Q6581097,1939-04-05T00:00:00Z,16,Haidar Abu Bakr al-Attas,Haidar Abu Bakr al-Attas,politician,Q199841,Q4118387
+Q1322893,Q6581097,1939-04-05T00:00:00Z,16,Haidar Abu Bakr al-Attas,Haidar Abu Bakr al-Attas,politician,Q202775,Q4118387
+Q13360057,Q6581097,1968-01-01T00:00:00Z,2,Nabil Hasan al-Faqih,Nabil Hasan al-Faqih,Yemeni Minister of Tourism,Q805,
+Q134956518,Q6581097,1982-01-01T00:00:00Z,7,Muhammad Abd al-Karim al-Ghamari,Muhammad Abd al-Karim al-Ghamari,Yemeni military officer (born c. 1980s),Q267584,Q12226787
+Q134956518,Q6581097,1982-01-01T00:00:00Z,7,Muhammad Abd al-Karim al-Ghamari,Muhammad Abd al-Karim al-Ghamari,Yemeni military officer (born c. 1980s),Q805,Q12226787
+Q135563132,Q6581097,1933-01-01T00:00:00Z,1,Abdullah Asnag,Abdullah Asnag,Yemeni trade union leader,Q805,
+Q13566073,Q6581097,1978-01-01T00:00:00Z,6,Walid bin Attash,Waalid bin Attaash,Yemeni terror suspect,Q805,
+Q136026273,Q6581097,1967-01-01T00:00:00Z,10,Muhammad Miftah,Muhammad Ahmed Miftah,Yemeni Islamic scholar and politician (born 1967),Q267584,Q388291
+Q136026273,Q6581097,1967-01-01T00:00:00Z,10,Muhammad Miftah,Muhammad Ahmed Miftah,Yemeni Islamic scholar and politician (born 1967),Q805,Q388291
+Q136672302,Q6581072,1985-01-01T00:00:00Z,1,Reham al-Badr,Reham al-Badr,Yemeni human rights activist,Q805,
+Q136914151,Q6581097,2006-02-06T00:00:00Z,2,Abdulaziz Masnoum,Abdulaziz Masnom,Yemeni footballer (born 2006),Q805,Q241135
+Q1374543,Q6581072,1992-11-10T00:00:00Z,6,Fatima Dahman,Fatima Sulaiman Dahman,Olympic sprinter,Q805,Q466216
+Q1393511,Q6581097,1934-01-01T00:00:00Z,6,Faisal Bin Shamlan,Faisal Bin Shamlan,Yemeni politician (1934-2010),Q805,Q1517159
+Q140239360,Q6581097,1952-06-12T00:00:00Z,4,Yassin Abdoh Saeed Noman,Yassin Abdoh Saeed Noman,"Yemeni politician, diplomat, and international expert",Q805,Q4117600
+Q140810197,Q6581097,1966-01-01T00:00:00Z,4,Abu al-Fadhl Ahmad Mohammed al-Saadi,Abu al-Fadhl Ahmad Mohammed al-Saadi,yemeni politician and government official,Q805,Q12225320
+Q1469704,Q6581097,1950-01-01T00:00:00Z,4,Mohammed Nasser Ahmed,Mohammed Nasser Ahmed,Yemeni military officer and politician,Q805,Q6956478
+Q14759067,Q6581072,1923-01-01T00:00:00Z,8,Bracha Qafih,Bracha Kapach,"Yemen-born Israeli rabbanit, Israel Prize laureate for social welfare",Q805,Q805
+Q14759067,Q6581072,1923-01-01T00:00:00Z,8,Bracha Qafih,Bracha Kapach,"Yemen-born Israeli rabbanit, Israel Prize laureate for social welfare",Q801,Q805
+Q14799310,Q6581097,1986-05-21T00:00:00Z,3,Omar Hussein,Omar Hussein,stand-up comedian,Q805,Q30
+Q15197815,Q6581097,1933-12-22T00:00:00Z,6,Hassan Muhammad Makki,Hassan Muhammad Makki,Yemeni politician (1933–2016),Q805,Q270041
+Q1573947,Q6581097,2000-01-01T00:00:00Z,3,Hamoud Muhammed Ou'bad,Hamoud Muhammed Ou'bad,Yemeni politician,Q805,
+Q15844022,Q6581072,1984-05-29T00:00:00Z,8,Sara Ishaq,Sara Ishaq,filmmaker,Q145,Q23436
+Q15844022,Q6581072,1984-05-29T00:00:00Z,8,Sara Ishaq,Sara Ishaq,filmmaker,Q805,Q23436
+Q15991195,Q6581097,1958-01-01T00:00:00Z,2,Abdulwahab Alamrani,Abdulwahab Alamrani,Yemeni author and diplomat,Q805,Q2471
+Q15991776,Q6581097,1990-01-01T00:00:00Z,3,Farea Al-Muslimi,Farea Al-Muslimi,Yemeni writer,Q805,Q805
+Q16012507,Q6581097,1902-01-01T00:00:00Z,2,Hayel Saeed,Hayel Saeed,Yemeni businessman,Q805,
+Q16012991,Q6581097,1940-03-07T00:00:00Z,5,Muhammad Ali Haitham,Muhammad Ali Haitham,Yemeni politician (1940-1993),Q805,
+Q16016187,Q6581097,1973-01-01T00:00:00Z,2,Khaled Ali Hajj,Khalid A. Hajj,Saudi Arabian terrorist,Q805,
+Q16118426,Q6581097,1959-01-29T00:00:00Z,2,Saadaldeen Talib,Saadaldeen Talib,Yemeni politician,Q805,Q241135
+Q16119420,Q6581097,1956-01-01T00:00:00Z,5,Sultan al-Barakani,Sultan al-Barakani,Speaker of the Yemeni Parliament,Q805,
+Q16119465,Q6581097,1958-01-01T00:00:00Z,5,Sultan Ali al-Aradah,Sultan Bin Ali Al-Aradah,Member of the Yemeni Presidential Leadership Council,Q805,
+Q16119670,Q6581097,1972-01-01T00:00:00Z,3,Abd al-Wahhab al-Humayqani,Abdul Wahhab Al-humayqani,Yemeni politician,Q805,
+Q16119688,Q6581097,1968-01-01T00:00:00Z,22,Ahmad Awad bin Mubarak,Ahmad Awad Bin Mubarak,Prime Minister of Yemen,Q805,Q131694
+Q16119911,Q6581097,1954-01-01T00:00:00Z,4,Abdu al-Hudhaifi,Abdu al-Hudhaifi,Yemeni politician,Q805,Q4117227
+Q16120263,Q6581097,1970-01-01T00:00:00Z,2,Othman Hussein Megali,Othman Hussein Fayed Majali,Member of the Yemeni Presidential Leadership Council,Q805,
+Q16120837,Q6581097,1964-01-01T00:00:00Z,2,Mohammed Ali Yaser,Mohamed Ali Bin yaser,Yemeni politician,Q805,
+Q16120881,Q6581072,1948-01-01T00:00:00Z,6,Maymuna Abu Bakr,Maymuna Abu Bakr,Yemeni lyricist,Q805,
+Q16121557,Q6581097,1959-01-01T00:00:00Z,3,Ameen Ali al-Akimi,Amin Ali Alakimi,Yemeni politician,Q805,
+Q16121830,Q6581072,1962-01-01T00:00:00Z,4,Oras Sultan Naji,Oras Sultan Naji,Yemeni politician,Q805,Q131694
+Q16122399,Q6581097,1956-01-01T00:00:00Z,2,Ali Hasan al-Ahmadi,Ali Hassan Al-ahmadi,Yemeni politician,Q805,Q4118418
+Q16122503,Q6581097,1957-01-01T00:00:00Z,2,Ali Ahmad Nasser al-Dhahab,Ali Ahmad Nasser al-Dhahab,Yemeni politician,Q805,
+Q16123980,Q6581097,1940-01-01T00:00:00Z,3,Shihab Ghanem,Shihab Ghanem,Emirati engineer,Q805,
+Q16123980,Q6581097,1940-01-01T00:00:00Z,3,Shihab Ghanem,Shihab Ghanem,Emirati engineer,Q878,
+Q16124105,Q6581072,1979-01-01T00:00:00Z,9,Bushra al-Maqtari,Bushra al-Maqtari,Yemeni writer and political activist,Q805,
+Q16125531,Q6581097,1962-05-01T00:00:00Z,5,Sagheer Hamoud Aziz,Sagheer Hamoud Aziz,"Yemeni politician, and Chief of the Yemeni Army Staff",Q805,Q805
+Q16126537,Q6581097,1970-01-01T00:00:00Z,2,Fathi Tawfiq Abdulrahim,Fathi Tawfiq Abdulrahim,Yemeni politician,Q805,Q388330
+Q16127497,Q6581097,1966-01-01T00:00:00Z,3,Mabkhoot bin Madhi,Mabkhoot bin Madhi,Yemeni politician,Q805,
+Q16127778,Q6581097,1947-11-22T00:00:00Z,3,Hussein Arab,Hussein Arab,Yemeni politician,Q805,Q4117556
+Q16128135,Q6581097,1953-01-01T00:00:00Z,6,Yahya Ali al-Raee,Yahya Ali al-Raie,Yemeni politician,Q805,Q805
+Q16145882,Q6581097,1959-09-25T00:00:00Z,2,Yahya Al-Mutawakel,Yahya Al-Mutawakel,Yemeni Cabinet Minister,Q805,Q2471
+Q16147670,Q6581097,1993-04-01T00:00:00Z,3,Yaser Bamatraf,Yaser Ba-Matraf,Yemeni taekwondo practitioner,Q805,
+Q16148673,Q6581097,1946-01-01T00:00:00Z,4,Nasser al-Awlaki,Nasser al-Awlaki,Yemenite scholar and politician,Q805,Q328180
+Q16150458,Q6581097,1992-12-28T00:00:00Z,3,Ahmed Sadeq Al Khamri,Ahmed Sadeq El-Khamri,Yemeni footballer,Q805,Q805
+Q16150603,Q6581097,1990-03-03T00:00:00Z,7,Kid Galahad (boxer),Abdul Barry Awad,Super Bantamweight boxer,Q805,Q3861
+Q16187308,Q6581097,1956-01-01T00:00:00Z,6,Hisham Sharaf,Hisham Sharaf,Yemeni politician,Q805,Q466216
+Q16214585,Q6581097,1973-12-07T00:00:00Z,17,Ali Raymi,Ali Raymi,Boxing Knockout Artist,Q805,Q5806
+Q16220889,Q6581097,1980-01-01T00:00:00Z,3,Ghaleb Nassar Al Bihani,Ghaleb Nassar Al Bihani,Held at the Guantanamo Bay detention camp,Q805,
+Q16221552,Q6581097,1981-01-12T00:00:00Z,3,Mohamed Saad (swimmer),Mohamed Saad,Yemeni swimmer,Q805,
+Q16231840,Q6581097,1987-12-03T00:00:00Z,5,Akram Al-Noor,Akram Al-Noor,Olympic taekwondo practitioner,Q805,Q2471
+Q16297599,Q6581097,1970-01-01T00:00:00Z,2,Himyar Abdullah al-Ahmar,Himyar Abdullah al-Ahmar,Yemeni politician,Q805,Q2471
+Q16297795,Q6581097,1948-01-01T00:00:00Z,2,Mohammed al-Sabry,Mohammed bin Mohammed Ahmed AL-SABRI,Yemeni politician,Q805,
+Q16297850,Q6581097,1978-03-01T00:00:00Z,2,Yasser Al-Awadi,Yaser Ahmed Salem Al-awadhi,Yemeni politician,Q805,Q12226676
+Q16740055,Q6581097,1976-07-29T00:00:00Z,2,Mohsen Ayed,Mohsen Ayed,"Yemeni writer, activist and journalist",Q805,Q805
+Q1679844,Q6581097,1960-07-22T00:00:00Z,9,Jamal Ahmad Mohammad Al Badawi,Jamal Ahmad Mohammad Al Badawi,Member of al-Qaeda,Q805,Q4118389
+Q17007872,Q6581072,2003-03-03T00:00:00Z,9,Nada al-Ahdal,Nada al-Ahdal,human rights activist from Yemen,Q805,Q138986
+Q18206373,Q6581097,1963-01-01T00:00:00Z,4,Faisal Hawar,Faisal Hawar,Somali engineer and entrepreneur,Q805,Q131694
+Q18639086,Q6581097,2000-01-01T00:00:00Z,5,Abu al-Baraa el-Azdi,Abu al-Baraa el-Azdi,Yemeni military personnel,Q805,Q805
+Q18808495,Q6581097,2000-01-01T00:00:00Z,2,Ahmed Abdul Qader,Ahmed Abdul Qader,"Yemen criminal, currently imprisoned in Estonia (fl. 2001)",Q805,
+Q19006319,Q6581097,1979-07-14T00:00:00Z,20,Muhammad al-Houthi,Mohammed Ali al-Houthi,Chairman of the Houthi Revolutionary Committee,Q805,Q991395
+Q19144122,Q6581097,1990-01-01T00:00:00Z,4,Harith bin Ghazi al-Nadhari,Harith bin Ghazi al-Nadhari,,Q805,Q805
+Q19271880,Q6581097,1957-05-02T00:00:00Z,5,Sami Hasan Al Nash,Sami Hasan Al Nash,Yemeni football manager (1957-2021),Q805,Q805
+Q19429056,Q6581097,1975-10-01T00:00:00Z,5,Nasser bin Ali al-Ansi,Nasser bin Ali al-Ansi,Yemeni al-Qaeda leader,Q805,Q466216
+Q19429078,Q6581097,1979-01-01T00:00:00Z,18,Saleh Ali al-Sammad,Saleh as-Sammad,former head of the Houthi Supreme Political Council,Q267584,Q1884209
+Q19429078,Q6581097,1979-01-01T00:00:00Z,18,Saleh Ali al-Sammad,Saleh as-Sammad,former head of the Houthi Supreme Political Council,Q805,Q1884209
+Q1951898,Q6581097,1908-01-01T00:00:00Z,26,Muhammad bin Ladin,Mohammed bin Awad bin Laden,Saudi businessman (1908–1967),Q805,Q202775
+Q1951898,Q6581097,1908-01-01T00:00:00Z,26,Muhammad bin Ladin,Mohammed bin Awad bin Laden,Saudi businessman (1908–1967),Q805,Q241135
+Q1951898,Q6581097,1908-01-01T00:00:00Z,26,Muhammad bin Ladin,Mohammed bin Awad bin Laden,Saudi businessman (1908–1967),Q805,Q805
+Q19662393,Q6581072,1964-05-01T00:00:00Z,6,Shada Nasser,Shada Nasser,Yemeni lawyer,Q805,Q131694
+Q19664123,Q6581097,1994-07-04T00:00:00Z,8,Abdulwasea Al-Matari,Abdulwasea Al-Matari,footballer,Q805,Q805
+Q19664325,Q6581097,1994-03-10T00:00:00Z,7,Mohammed Boqshan,Mohammed Ahmed Ali Boqshan,footballer,Q805,Q805
+Q19673630,Q6581097,1956-07-22T00:00:00Z,7,Mahmoud al-Subaihi,Mahmoud al-Subaihi,Yemeni major general and politician,Q805,
+Q19689754,Q6581097,1955-06-20T00:00:00Z,3,Riad Yassin,Riad Yassin,Yemeni politician,Q805,Q131694
+Q19726748,Q6581097,2000-01-01T00:00:00Z,8,Hussein Khairan,Hussein Khairan,Yemeni politician,Q805,Q4117519
+Q19880569,Q6581097,1962-09-26T00:00:00Z,2,Abdul Al-Ghadi,Abdul Al-Ghadi,athletics competitor (born 1962),Q267584,
+Q19880569,Q6581097,1962-09-26T00:00:00Z,2,Abdul Al-Ghadi,Abdul Al-Ghadi,athletics competitor (born 1962),Q805,
+Q19880571,Q6581097,1952-10-10T00:00:00Z,4,Ali Al-Ghadi,Ali Al-Ghadi,long-distance runner,Q805,
+Q19880571,Q6581097,1952-10-10T00:00:00Z,4,Ali Al-Ghadi,Ali Al-Ghadi,long-distance runner,Q267584,
+Q19882804,Q6581097,1996-11-18T00:00:00Z,38,Akram Afif,Akram Afif,Qatari association football player (born 1996),Q805,Q3861
+Q19892037,Q6581072,1962-01-01T00:00:00Z,4,Amal Basha,Amal Basha,Yemeni activist,Q805,Q805
+Q19958122,Q6581097,1993-01-02T00:00:00Z,3,Waleed Al-Hubaishi,Waleed Al-Hubaishi,Yemeni association football player,Q805,Q805
+Q19962678,Q6581097,1968-01-01T00:00:00Z,2,Asim Thahit Abdullah al Khalaqi,Asim Thahit Abdullah al Khalaqi,,Q805,Q3692
+Q20022485,Q6581097,1968-09-17T00:00:00Z,4,Ehab Fuad Ahmed Nagi,Ehab Fuad Ahmed Nagi,Yemeni sprinter,Q805,
+Q200964,Q6581097,1971-04-22T00:00:00Z,41,Anwar al-Awlaki,Anwar al-Awlaki,American-Yemeni imam and suspected Islamist extremist (1971–2011),Q30,Q33264
+Q200964,Q6581097,1971-04-22T00:00:00Z,41,Anwar al-Awlaki,Anwar al-Awlaki,American-Yemeni imam and suspected Islamist extremist (1971–2011),Q805,Q33264
+Q20384844,Q6581072,1954-01-01T00:00:00Z,5,Hooria Mashhour,Hooria Mashhour,Yemeni politician,Q805,Q131694
+Q20385496,Q6581097,1963-02-25T00:00:00Z,4,Jalal al-Rowaishan,Jalal al-Ruwaishan,Yemeni military officer and politician,Q805,Q388291
+Q20385886,Q6581097,1952-12-02T00:00:00Z,19,Ahmed Obaid Bin Dagher,Ahmed Obaid Bin Dagher,"President of the Yemeni Shura Council, and former Prime Minister",Q805,Q4117552
+Q20385904,Q6581097,1960-01-01T00:00:00Z,2,Jamal al-Sallal,Jamal Abdullah as-Sallal,Yemeni politician,Q805,
+Q20411765,Q6581097,1954-01-01T00:00:00Z,2,Abdulrahman al-Akwa'a,Abdulrahman al-Akwa'a,Yemeni politician,Q805,
+Q20412164,Q6581097,1952-10-22T00:00:00Z,2,Rashid Barba'a,Rashid Barba'a,politician,Q805,Q241135
+Q20414203,Q6581097,1961-04-18T00:00:00Z,8,Abdullah Mohsen al-Akwa,Abdullah Mohsen al-Akwa,Yemeni politician,Q805,Q2471
+Q20423105,Q6581097,1965-01-01T00:00:00Z,2,Mohammed al-Somali,Mohammed al-Somali,Yemeni military personnel,Q805,
+Q20423157,Q6581097,1962-01-01T00:00:00Z,6,Mohammed Ali al-Maqdashi,Mohammed Ali al-Maqdashi,Yemeni military officer and politician,Q805,Q328193
+Q20423300,Q6581097,1965-01-01T00:00:00Z,3,Muhammad Musa al-Amri,Muhammad Musa al-Amri,Yemeni politician,Q805,
+Q20423647,Q6581072,1977-03-08T00:00:00Z,15,Nadia Al-Sakkaf,Nadia Al-Sakkaf,former government minister in Yemen; editor-in-chief of the Yemen Times,Q805,Q805
+Q20649058,Q6581097,1977-01-01T00:00:00Z,2,Moath al-Alwi,Moath Hamza Ahmed al Alwi,Yemeni prisoner in Guantanamo Bay prison,Q805,Q805
+Q20740937,Q6581097,1990-01-01T00:00:00Z,11,Hashem Al-Ghaili,Hashem Al-Ghaili,"Yemeni science communicator, director and producer",Q805,
+Q20774338,Q6581072,1965-01-01T00:00:00Z,4,Sumaya Ali Raja,Sumaya Ali Raja,Yemeni journalist and political activist,Q805,Q388330
+Q20811058,Q6581072,1977-01-01T00:00:00Z,7,Jamala al-Baidhani,Jamala al-Baidhani,Yemeni activist (1977–2012),Q805,Q1752951
+Q2086857,Q6581097,1988-01-20T00:00:00Z,16,Ali Afif,Ali Afif,Qatari footballer,Q805,Q3861
+Q20880434,Q6581072,1957-01-01T00:00:00Z,7,Fatima al-Aqel,Fatima al-Aqel,Yemeni activist for people with disabilities,Q805,Q805
+Q20934577,Q6581097,1999-03-02T00:00:00Z,4,Abdullah Al-Qwabani,Abdullah Al-Qwabani,Yemeni long-distance runner,Q805,Q131694
+Q2108172,Q6581097,1992-03-05T00:00:00Z,7,Ali Khousrof,Ali Khousrof,Olympic judoka,Q805,Q2471
+Q21181140,Q6581097,1993-01-01T00:00:00Z,4,Yaser Ali Al-Gabr,Yaser Ali Al-Gabr,Yemeni association football player,Q805,Q805
+Q21268639,Q6581097,1957-01-01T00:00:00Z,2,Adam Saif,Adam Saif,Yemeni actor,Q805,
+Q21620698,Q6581097,1998-08-09T00:00:00Z,5,Ahmed Al-Sarori,Ahmed Al-Sarori,association football player,Q805,Q805
+Q21622445,Q6581097,1993-01-01T00:00:00Z,6,Mudir Al-Radaei,Mudir Al-Radaei,Yemeni footballer,Q805,Q2471
+Q21642643,Q6581072,1987-06-05T00:00:00Z,4,Safa Karman,Safa Karman,Yemeni journalist,Q805,Q2471
+Q21668992,Q6581097,1950-05-05T00:00:00Z,7,Jaafar Mohammed Saad,Jaafar Mohammed Saad,governor of Yemen's Aden Governorate,Q805,Q377588
+Q21680111,Q6581097,1975-05-09T00:00:00Z,5,Nayef al-Bakri,Nayef al-Bakri,Yemeni politician,Q805,Q131694
+Q22006533,Q6581097,1980-01-01T00:00:00Z,2,Mahmoud Omar Mohammed Bin Atef,Mahmoud Omar Mohammed Bin Atef,,Q805,Q5806
+Q22054939,Q6581097,1967-01-01T00:00:00Z,15,Aidarus al-Zoubaidi,Aidarus al-Zoubaidi,Yemeni politician (born 1967),Q199841,Q328187
+Q22054939,Q6581097,1967-01-01T00:00:00Z,15,Aidarus al-Zoubaidi,Aidarus al-Zoubaidi,Yemeni politician (born 1967),Q805,Q328187
+Q22054939,Q6581097,1967-01-01T00:00:00Z,15,Aidarus al-Zoubaidi,Aidarus al-Zoubaidi,Yemeni politician (born 1967),Q878,Q328187
+Q22092158,Q6581097,1979-10-13T00:00:00Z,3,Ali Ahmad Muhammad Al Rahizi,Ali Ahmad Muhammad Al Rahizi,Yemeni detainee in Guantanamo Bay,Q805,Q466216
+Q2266637,Q6581097,1908-06-13T00:00:00Z,7,Hassan ibn Yahya,Hassan ibn Yahya,Yemeni politician (1908–2003),Q805,Q2471
+Q22683225,Q6581097,1970-01-01T00:00:00Z,7,Tareq Saleh,Tareq Saleh,Member of the Yemeni Presidential Leadership Council,Q805,Q2471
+Q22684197,Q6581072,1965-11-22T00:00:00Z,4,Arwa Othman,Arwa Othman,Yemeni writer,Q805,Q388330
+Q22928480,Q6581072,1926-01-01T00:00:00Z,6,Mahia Nagib,Māhīyah Najīb,Yemeni journalist,Q805,Q131694
+Q22935823,Q6581097,1979-11-13T00:00:00Z,2,Zahar Omar Hamis Bin Hamdoun,Zahar Omar Hamis Bin Hamdoun,Yemeni citizen detained in Guantanamo Bay detention camp,Q805,
+Q2339431,Q6581097,1968-02-25T00:00:00Z,6,Salim Hamdan,Salim Hamdan,Guantanamo detainee,Q805,Q805
+Q23816432,Q6581072,1965-01-01T00:00:00Z,3,Rashida al-Qaili,Rashida al-Qaili,Yemeni politician and writer,Q805,
+Q2404104,Q6581097,1946-01-01T00:00:00Z,6,Ahmed Abdul Rahman Al-Samawi,Ahmed A AL-Samawi,banker,Q805,Q955523
+Q24883318,Q6581097,1979-01-01T00:00:00Z,2,Abdel Malik Ahmed Abdel Wahab Al Rahabi,Abdel Malik Ahmed Abdel Wahab Al Rahabi,citizen of Yemen who was held in extrajudicial detention by the United States,Q805,Q805
+Q25451095,Q6581097,1938-03-11T00:00:00Z,4,Ahmed bin Ahmed Qasim,Ahmed Bin Ahmed Kassem,Yemeni singer,Q805,
+Q2555542,Q6581097,1939-02-10T00:00:00Z,18,Ali Salem al-Beidh,Ali Salim al-Beidh,"Yemeni Politician, last president of the People's Democratic Republic of Yemen, first vice president of the Republic of Yemen",Q842,Q4117638
+Q2555542,Q6581097,1939-02-10T00:00:00Z,18,Ali Salem al-Beidh,Ali Salim al-Beidh,"Yemeni Politician, last president of the People's Democratic Republic of Yemen, first vice president of the Republic of Yemen",Q202775,Q4117638
+Q2555542,Q6581097,1939-02-10T00:00:00Z,18,Ali Salem al-Beidh,Ali Salim al-Beidh,"Yemeni Politician, last president of the People's Democratic Republic of Yemen, first vice president of the Republic of Yemen",Q805,Q4117638
+Q2555542,Q6581097,1939-02-10T00:00:00Z,18,Ali Salem al-Beidh,Ali Salim al-Beidh,"Yemeni Politician, last president of the People's Democratic Republic of Yemen, first vice president of the Republic of Yemen",Q199841,Q4117638
+Q25830924,Q6581097,1983-01-01T00:00:00Z,3,Mansur Ahmad Saad al-Dayfi,Mansur Ahmad Saad al-Dayfi,Guantanamo Bay detainee,Q805,Q475033
+Q26205352,Q6581097,1955-04-07T00:00:00Z,3,Dawood Abdulmalek Yahya Al-Hidabi,Dawood Abdulmalek Yahya Al-Hidabi,Yemeni researcher and an international lecturer in Management Science,Q805,Q2471
+Q2622743,Q6581097,1939-07-04T00:00:00Z,14,Abdul Aziz Abdul Ghani,Abdul Aziz Abdul Ghani,Yemeni politician (1939–2011),Q805,Q466216
+Q26311375,Q6581097,1950-01-01T00:00:00Z,8,Talal Aklan,Talal Aklan,Yemeni politician,Q805,Q805
+Q26431505,Q6581097,1991-12-18T00:00:00Z,5,Zeyad Mater,Zeyad Mater,judoka,Q805,
+Q26457464,Q6581097,1998-01-01T00:00:00Z,6,Mohammed Rageh,Mohammed Rageh,Yemeni male middle-distance runner,Q805,
+Q26464727,Q6581097,1977-08-01T00:00:00Z,2,Mahmoud Abd Al Aziz Abd Al Mujahid,Mahmoud Abd Al Aziz Abd Al Mujahid,Yemeni citizen (born 1977),Q805,Q388330
+Q26464727,Q6581097,1977-08-01T00:00:00Z,2,Mahmoud Abd Al Aziz Abd Al Mujahid,Mahmoud Abd Al Aziz Abd Al Mujahid,Yemeni citizen (born 1977),Q805,Q805
+Q26465203,Q6581097,1962-01-01T00:00:00Z,2,Mohammed Ahmad Said Al Edah,Mohammed Ahmad Said Al Edah,Yemeni citizen,Q805,Q466216
+Q26465203,Q6581097,1962-01-01T00:00:00Z,2,Mohammed Ahmad Said Al Edah,Mohammed Ahmad Said Al Edah,Yemeni citizen,Q805,Q805
+Q26702680,Q6581072,1977-01-01T00:00:00Z,11,Nihal Ali Al-Awlaqi,Nihal Naj Ali Al-Awlaqi,Yemeni politician,Q805,Q131694
+Q26704407,Q6581097,1949-09-26T00:00:00Z,2,Ahmed Ali al-Ashwal,Ahmed Ali Al-Ashwal,Yemeni general,Q805,
+Q2682065,Q6581097,1972-01-01T00:00:00Z,4,Yasir Abdel Baqi,Yasir Abdel Baqi,author and screenwriter,Q805,
+Q26979206,Q6581072,1999-11-25T00:00:00Z,7,Nooran Ba Matraf,Nooran Ba Matraf,Yemeni swimmer,Q30,Q23556
+Q26979206,Q6581072,1999-11-25T00:00:00Z,7,Nooran Ba Matraf,Nooran Ba Matraf,Yemeni swimmer,Q805,Q23556
+Q27144139,Q6581097,2000-01-01T00:00:00Z,2,Abdul-Rab al-Shadadi,Abdul Rab al-Shadadi,Yemeni general (1963–2016),Q805,
+Q27522892,Q6581097,1984-01-01T00:00:00Z,5,Basheer Al-Qudaimi,Basheer Al Qudaimi,Yemeni chess player,Q805,
+Q2753071,Q6581097,1989-01-01T00:00:00Z,7,Tameem Al-Kubati,Tameem Al-Kubati,Yemeni taekwondo practitioner,Q805,Q2471
+Q27662779,Q6581097,1960-01-01T00:00:00Z,1,Mohammed Abdullah Saleh al-Asad,Mohammed Abdullah Saleh al-Asad,,Q805,
+Q2784436,Q6581097,1952-01-01T00:00:00Z,9,Hasan al-Lawzi,Hasan al-Lawzi,Yemeni writer and politician (1952–2020),Q805,Q2471
+Q2784468,Q6581072,1945-01-01T00:00:00Z,3,Azizah Abd Allah Abu Lahum,Azizah Abd Allah Abu Lahum,Novelist and writer,Q805,Q2889442
+Q27957267,Q6581097,1981-07-24T00:00:00Z,2,Shawki Awad Balzuhair,Shawki Awad Balzuhair,Yemeni Guantanamo detainee,Q805,
+Q27978664,Q6581072,1975-01-01T00:00:00Z,12,Ashwaq Moharram,Ashwaq Moharram,Yemeni physician and activist,Q805,
+Q28033701,Q6581097,1979-01-01T00:00:00Z,2,Yasin Qasem Muhammad Ismail,Yasin Qasem Muhammad Ismail,Yemeni detainee in Guantanamo Bay,Q805,Q805
+Q28033701,Q6581097,1979-01-01T00:00:00Z,2,Yasin Qasem Muhammad Ismail,Yasin Qasem Muhammad Ismail,Yemeni detainee in Guantanamo Bay,Q805,Q99648
+Q28033715,Q6581072,1982-01-01T00:00:00Z,7,Hind Al-Eryani,Hind al-Eryani,Yemini activist and journalist,Q805,
+Q28055512,Q6581097,1975-01-01T00:00:00Z,2,Muhammad al-Ansi,Muhammad al-Ansi,Yemeni detainee,Q805,Q2471
+Q28055512,Q6581097,1975-01-01T00:00:00Z,2,Muhammad al-Ansi,Muhammad al-Ansi,Yemeni detainee,Q805,Q805
+Q28086296,Q6581097,1969-01-01T00:00:00Z,8,Muhammad al-Atifi,Mohamed al-Atifi,Yemeni Minister of Defence,Q805,Q4117339
+Q28109278,Q6581072,1968-02-25T00:00:00Z,2,Hana Ali Saleh,Hana Ali Saleh,Yemeni Olimpic Chalenger,Q805,
+Q28113136,Q6581097,1983-03-01T00:00:00Z,2,Saeed Al-Adhreai,Saeed Al-Adhreai,Yemeni sprinter,Q805,
+Q28113144,Q6581097,1982-05-01T00:00:00Z,2,Basheer Al-Khewani,Basheer Al-Khewani,Yemeni track and field athlete,Q805,
+Q28113144,Q6581097,1979-05-01T00:00:00Z,2,Basheer Al-Khewani,Basheer Al-Khewani,Yemeni track and field athlete,Q805,
+Q28151681,Q6581097,1976-12-06T00:00:00Z,2,Anwar Mohamed (athlete),Anwar Mohamed,Yemeni middle-distance runner,Q805,
+Q28151706,Q6581097,1975-09-26T00:00:00Z,2,Awad Salah Nasser,Awad Salah Nasser,Yemeni middle-distance runner (born 1975),Q805,
+Q28151712,Q6581097,1974-03-19T00:00:00Z,2,Khalid Al-Estashi,Khalid Al-Estashi,Yemeni long-distance runner,Q805,
+Q28151724,Q6581097,1968-01-01T00:00:00Z,3,Mohamed Al-Saadi,Mohamed Al-Saadi,Yemeni long-distance runner (born 1968),Q805,
+Q28151727,Q6581097,1977-06-26T00:00:00Z,4,Saeed Basweidan,Saeed Basweidan,Yemeni middle-distance runner,Q805,
+Q28151729,Q6581097,1971-06-25T00:00:00Z,2,Anwar Mohamed Ali,Anwar Mohamed Ali,Yemeni track and field sprint athlete,Q805,
+Q2824669,Q6581097,1975-12-27T00:00:00Z,5,Adnan Farhan Abd Al Latif,Adnan Farhan Abd Al Latif,Guantanamo Bay detainee,Q805,Q4117786
+Q28318871,Q6581097,1974-12-01T00:00:00Z,4,Salah Al-Humaidi,Salah Al-Humaidi,Yemeni judoka (1974-),Q805,
+Q28318874,Q6581097,1971-06-15T00:00:00Z,4,Mansour Al-Soraihi,Mansour Al-Soraihi,Yemeni judoka (1971-),Q805,
+Q28320288,Q6581097,1972-10-21T00:00:00Z,4,Mohamed Al-Jalai,Mohamed Al-Jalai,Yemeni judoka (1972-),Q805,
+Q28320293,Q6581097,1964-05-11T00:00:00Z,4,Ahmed Al-Shiekh,Ahmed Al-Shiekh,Yemeni judoka (1964-),Q805,
+Q28320308,Q6581097,1968-09-18T00:00:00Z,4,Yahia Mufarrih,Yahia Mufarrih,Yemeni judoka (1968-),Q805,
+Q2836307,Q6581097,1940-09-16T00:00:00Z,7,Ali Mohsen,Ali Mohsen,Yemeni footballer (1940-1993),Q805,Q131694
+Q28531029,Q6581097,1981-01-01T00:00:00Z,3,Khalid Mohammed Salih Al Dhuby,Khalid Mohammed Salih Al Dhuby,Yemeni citizen,Q805,
+Q28656122,Q6581097,1974-01-01T00:00:00Z,3,Tariq al-Dahab,Tariq al-Dahab,Yemeni al-Qaeda leader (c. 1975 – 2012),Q805,
+Q28714829,Q6581097,1952-01-01T00:00:00Z,3,Sadeq Amin Abu Rass,Sadeq Ameen Abu Rass,Yemeni politician,Q805,Q4117229
+Q28919292,Q6581097,1980-01-01T00:00:00Z,2,Mohamed Tahar,Mohamed Tahar,Yemeni extrajudicial prisoner,Q805,Q805
+Q28919292,Q6581097,1980-01-01T00:00:00Z,2,Mohamed Tahar,Mohamed Tahar,Yemeni extrajudicial prisoner,Q805,Q99648
+Q2911194,Q6581097,1917-11-27T00:00:00Z,7,Yosef Qafih,Yosef Qafih,"Yemenite-Israeli rabbi, scholar and translator (1917–2000)",Q805,Q2471
+Q2911194,Q6581097,1917-11-27T00:00:00Z,7,Yosef Qafih,Yosef Qafih,"Yemenite-Israeli rabbi, scholar and translator (1917–2000)",Q801,Q2471
+Q2912290,Q6581072,1954-01-01T00:00:00Z,3,Zahra Rahmat Allah,Zahra Rahmat Allah,Yemeni journalist and writer,Q805,
+Q29430512,Q6581072,1985-01-01T00:00:00Z,12,Fadia Najeeb Thabet,Fadia Najib Thabet,Child Protection Officer in Yemen - International Woman of Courage 2017,Q805,Q805
+Q29616918,Q6581097,1981-01-01T00:00:00Z,2,Almigdad Mojalli,Almigdad Mojalli,Yemeni journalist,Q805,
+Q30081257,Q6581072,1933-01-01T00:00:00Z,5,Radhia Ihsan,Radhia Ihsan,"Yemeni academic, journalist, writer and women's rights activist (1933–)",Q1865132,Q131694
+Q30081257,Q6581072,1933-01-01T00:00:00Z,5,Radhia Ihsan,Radhia Ihsan,"Yemeni academic, journalist, writer and women's rights activist (1933–)",Q1865132,Q2263449
+Q30081257,Q6581072,1933-01-01T00:00:00Z,5,Radhia Ihsan,Radhia Ihsan,"Yemeni academic, journalist, writer and women's rights activist (1933–)",Q834486,Q131694
+Q30081257,Q6581072,1933-01-01T00:00:00Z,5,Radhia Ihsan,Radhia Ihsan,"Yemeni academic, journalist, writer and women's rights activist (1933–)",Q834486,Q2263449
+Q30081257,Q6581072,1933-01-01T00:00:00Z,5,Radhia Ihsan,Radhia Ihsan,"Yemeni academic, journalist, writer and women's rights activist (1933–)",Q805,Q131694
+Q30081257,Q6581072,1933-01-01T00:00:00Z,5,Radhia Ihsan,Radhia Ihsan,"Yemeni academic, journalist, writer and women's rights activist (1933–)",Q805,Q2263449
+Q30081257,Q6581072,1933-01-01T00:00:00Z,5,Radhia Ihsan,Radhia Ihsan,"Yemeni academic, journalist, writer and women's rights activist (1933–)",Q199841,Q131694
+Q30081257,Q6581072,1933-01-01T00:00:00Z,5,Radhia Ihsan,Radhia Ihsan,"Yemeni academic, journalist, writer and women's rights activist (1933–)",Q199841,Q2263449
+Q3013149,Q6581097,1946-01-01T00:00:00Z,4,Salih Saeed Ba-Amer,Salih Saeed Ba-Amer,Yemeni writer,Q805,Q12233153
+Q3013158,Q6581072,1971-01-01T00:00:00Z,4,Huda al-Attas,Huda al-Attas,Yemeni journalist and writer,Q805,
+Q3013183,Q6581097,1958-01-01T00:00:00Z,4,Muhammad al-Gharbi Amran,Muhammad al-Gharbi Amran,writer,Q805,Q2471
+Q3013302,Q6581097,1938-03-30T00:00:00Z,3,Abdallah Salim Bawazir,Abdallah Salim Bawazir,writer (1938-2004),Q805,
+Q3013561,Q6581097,1964-01-01T00:00:00Z,3,Zayd Salih al-Faqih,Zayd Salih al-Faqih,writer,Q805,
+Q30466246,Q6581072,1980-01-01T00:00:00Z,3,Eqbal Dauqan,Eqbal Dauqan,yemeni-Malaysian biochemist,Q805,
+Q30466246,Q6581072,1980-01-01T00:00:00Z,3,Eqbal Dauqan,Eqbal Dauqan,yemeni-Malaysian biochemist,Q833,
+Q3064458,Q6581097,1974-11-12T00:00:00Z,6,Fahd al-Quso,Fahd al-Quso,Yemeni militant (1974–2012),Q805,Q131694
+Q3064458,Q6581097,1974-11-12T00:00:00Z,6,Fahd al-Quso,Fahd al-Quso,Yemeni militant (1974–2012),Q851,Q131694
+Q307252,Q6581097,1934-12-01T00:00:00Z,12,Abdul Karim Abdullah al-Arashi,Abdul Karim Abdullah al-Arashi,President of North Yemen (1934-2006),Q805,Q2471
+Q307338,Q6581097,1946-02-18T00:00:00Z,23,Abdul Qadir Bajamal,Abdul Qadir Bajamal,Yemeni politician (1946–2020),Q805,Q1296908
+Q307637,Q6581097,1932-01-01T00:00:00Z,8,Abdullah ibn Husayn al-Ahmar,Abdullah ibn Husayn al-Ahmar,Yemeni politician (1933-2007),Q805,Q805
+Q3082728,Q6581097,1952-01-01T00:00:00Z,3,Muhammad Salih Haydara,Muhammad Salih Haydara,Yemeni writer (1952–2024),Q805,Q131694
+Q3082742,Q6581097,1933-01-01T00:00:00Z,4,Kamal Haydar,Kamal Haydar,Yemeni writer,Q805,
+Q3082792,Q6581097,1968-01-01T00:00:00Z,7,Bader Ben Hirsi,Bader Ben Hirsi,English film director,Q805,Q145
+Q31540834,Q6581097,1955-01-01T00:00:00Z,2,Faraj al-Bahsani,Faraj Salmin Al-Buhsani,former member of the Yemeni Presidential Leadership Council,Q805,Q5555986
+Q3269968,Q6581072,1989-11-25T00:00:00Z,7,Waseelah Saad,Waseelah Saad,Yemeni athletics competitor (born 1989),Q805,Q131694
+Q3272068,Q6581097,1966-07-20T00:00:00Z,3,Sharaf Mahfood,Sharaf Mahfood,footballer,Q805,Q805
+Q33037293,Q6581072,1976-04-12T00:00:00Z,10,Radhya Al-Mutawakel,Razia Al-Mutawakil,human rights defender from Yemen,Q805,
+Q3318989,Q6581097,1978-02-01T00:00:00Z,4,Mohammad Ahmed Abdullah Saleh Al Hanashi,Mohammad Ahmed Abdullah Saleh Al Hanashi,Guantanamo detainee (1978–2009),Q805,Q805
+Q33529917,Q6581097,1997-05-12T00:00:00Z,7,Mokhtar Al-Yamani,Mokhtar Al-Yamani,Yemeni swimmer,Q805,Q60
+Q3378641,Q6581097,1986-11-29T00:00:00Z,4,Nashwan Al-Harazi,Nashwan Al-Harazi,gymnast,Q805,Q2471
+Q3379561,Q6581097,1984-10-06T00:00:00Z,5,Mohammed Al-Yafaee,Mohammed Al-Yafaee,Yemeni athletics competitor (born 1984),Q805,
+Q36029334,Q6581097,1986-03-06T00:00:00Z,6,Mohammed Ayash,Mohammed Ayash,Yemeni association football player,Q805,Q805
+Q362268,Q6581097,1953-04-26T00:00:00Z,23,Ali Muhammad Mujawar,Ali Muhammad Mujawar,Yemeni politician (born 1953),Q805,Q328180
+Q3660603,Q6581097,1949-01-01T00:00:00Z,3,Muhammad Umar Bahah,Muhammad Umar Bahah,Yemeni writer and journalist,Q805,
+Q3660605,Q6581097,1940-01-01T00:00:00Z,3,Muhammad Abdallah Muthanna,Muhammad Abdallah Muthanna,writer,Q805,
+Q3660608,Q6581072,1954-01-01T00:00:00Z,9,Ramziya al-Iryani,Ramziya al-Iryani,Yemeni writer,Q805,Q388274
+Q3660613,Q6581072,1978-01-01T00:00:00Z,2,Maha Naji Salah,Maha Naji Salah,Yemeni writer,Q805,Q2471
+Q3660664,Q6581097,1951-01-01T00:00:00Z,5,Mayfa' Abdel Rahman,Mayfa' Abdel Rahman,Yemeni short story writer and journalist,Q805,
+Q3698944,Q6581072,1968-01-01T00:00:00Z,4,Nadia Al-Kokabany,Nadia Al-Kokabany,Yemeni novelist (1968-),Q805,Q466216
+Q3698947,Q6581097,1936-01-01T00:00:00Z,2,Al-Qarshi Abd ur-Raheem Salaam,Al-Qarshi Abd ur-Raheem Salaam,writer,Q805,
+Q3698951,Q6581097,1953-01-01T00:00:00Z,3,Ali Mohammed Zayd,Ali Mohammed Zayd,Ambassador for Yemen,Q805,
+Q3698979,Q6581072,1970-01-01T00:00:00Z,3,Ibtisam al-Mutawakkil,Ibtisam al-Mutawakkil,Yemeni poet,Q805,Q2471
+Q3698982,Q6581097,1955-01-01T00:00:00Z,2,Shawqi Shafiq,Shawqi Shafiq,Yemeni poet,Q805,
+Q3698984,Q6581097,1955-01-01T00:00:00Z,4,Junaid Muhammad Junaid,Junaid Muhammad Junaid,poet,Q805,
+Q3698988,Q6581097,1968-01-01T00:00:00Z,7,Ahmad Zein,Ahmad Zein,Yemeni writer,Q805,
+Q3698993,Q6581097,1967-01-01T00:00:00Z,2,Mohammad al-Qaood,Mohammad al-Qaood,Poet and writer,Q805,
+Q3698996,Q6581097,1934-01-01T00:00:00Z,3,Abd al-Majeed al-Qadi,Abd al-Majeed al-Qadi,playwright,Q805,
+Q3698997,Q6581097,1978-08-10T00:00:00Z,2,AbdulWahab al-Awdi,AbdulWahab al-Awdi,"Poet, translator, economist",Q805,
+Q3698998,Q6581072,1971-01-01T00:00:00Z,8,Hoda Ablan,Hoda Ablan,Yemeni poet,Q805,Q99648
+Q3699003,Q6581097,1936-01-01T00:00:00Z,3,Ahmad Mahfuz Umar,Ahmad Mahfuz Umar,Yemeni writer,Q805,Q131694
+Q3699028,Q6581097,2000-01-01T00:00:00Z,3,Samir Abdel Fattah,Samir Abdel Fattah,writer and playwright,Q805,
+Q3931565,Q6581072,1963-05-19T00:00:00Z,11,Reema Abdo,Reema Abdo,"Canadian swimmer, Olympic bronze medalist",Q16,Q131694
+Q3931565,Q6581072,1963-05-19T00:00:00Z,11,Reema Abdo,Reema Abdo,"Canadian swimmer, Olympic bronze medalist",Q805,Q131694
+Q400701,Q6581097,1909-04-21T00:00:00Z,8,Ahmad Muhammad Numan,Ahmad Numan,Yemeni politician (1909–1996),Q805,Q267584
+Q4058917,Q6581097,1932-10-20T00:00:00Z,11,Mohsin Ahmad al-Aini,Mohsin Ahmad al-Aini,Prime Minister of the Yemen Arab Republic (1932–2021),Q267584,Q4117320
+Q4058917,Q6581097,1932-10-20T00:00:00Z,11,Mohsin Ahmad al-Aini,Mohsin Ahmad al-Aini,Prime Minister of the Yemen Arab Republic (1932–2021),Q580188,Q4117320
+Q4058917,Q6581097,1932-10-20T00:00:00Z,11,Mohsin Ahmad al-Aini,Mohsin Ahmad al-Aini,Prime Minister of the Yemen Arab Republic (1932–2021),Q805,Q4117320
+Q4059062,Q6581097,1942-01-01T00:00:00Z,8,Ayoob Tarish,Ayoob Tarish,Yemeni musician,Q805,Q466216
+Q4115045,Q6581097,1973-06-20T00:00:00Z,7,Ahmed Saleh,Ahmed Saleh,eldest son of former Yemeni president Ali Abdullah Saleh,Q805,Q2471
+Q4116063,Q6581097,1987-07-02T00:00:00Z,14,Alaa Al-Sasi,Ala Al-Sasi,footballer,Q805,Q805
+Q4116301,Q6581097,1943-01-01T00:00:00Z,4,Abdurrahman Ali Al-Jifri,Abd Al-Rahman Ali Al-Jifri,Yemeni opposition leader,Q805,
+Q4116383,Q6581097,1986-11-12T00:00:00Z,6,Akram Al-Worafi,Akram Al-Worafi,Yemeni footballer,Q805,Q805
+Q4116394,Q6581097,1984-01-01T00:00:00Z,5,Salem Saeed,Salem Saeed,Yemeni footballer,Q805,Q805
+Q4117116,Q6581097,1973-01-01T00:00:00Z,6,Wajdi al-Ahdal,Wajdi al-Ahdal,novelist,Q805,Q270041
+Q4119168,Q6581072,1976-07-08T00:00:00Z,6,Arwa (singer),Arwa,Yemeni singer,Q805,Q35178
+Q4119190,Q6581097,1939-11-12T00:00:00Z,5,Mohammad Abdul-Wali,Mohammad Abdul-Wali,Yemeni diplomat and writer (1940–1973),Q805,
+Q4119190,Q6581097,1940-01-01T00:00:00Z,5,Mohammad Abdul-Wali,Mohammad Abdul-Wali,Yemeni diplomat and writer (1940–1973),Q805,
+Q4119526,Q6581097,1980-06-07T00:00:00Z,15,Ali Al-Nono,Ali Al-Nono,Yemeni footballer,Q805,Q2471
+Q4119595,Q6581097,1934-10-12T00:00:00Z,8,Abdul-Karim Al-Iryani,Abd Al-Karim Al-Iryani,Yemeni politician and minister (1934–2015),Q805,
+Q4119927,Q6581097,1947-03-21T00:00:00Z,8,Yasin Said Numan,Yasin Saeed Noman,Yemen politician,Q805,Q1865132
+Q4120565,Q6581097,1971-04-16T00:00:00Z,15,Ali al-Jifri,Habib Ali al-Jufri,Oblique scholar,Q805,Q374365
+Q4122043,Q6581097,1993-11-03T00:00:00Z,5,Nabil Al-Garbi,Nabil Mohammed Al-Garbi,Yemeni distance runner,Q805,Q955523
+Q4122043,Q6581097,1990-11-03T00:00:00Z,5,Nabil Al-Garbi,Nabil Mohammed Al-Garbi,Yemeni distance runner,Q805,Q955523
+Q4122043,Q6581097,1992-11-03T00:00:00Z,5,Nabil Al-Garbi,Nabil Mohammed Al-Garbi,Yemeni distance runner,Q805,Q955523
+Q4164516,Q6581097,1942-01-01T00:00:00Z,8,Abdul Majeed al-Zindani,Abdul Majeed al-Zindani,Yemeni politician (1938–2024),Q805,Q20383441
+Q42224294,Q6581097,1969-10-25T00:00:00Z,3,Hameed Mohammed Yahya Aklan,Hameed Mohammed Yahya Aklan,Yemeni radiologist and academic,Q805,Q328128
+Q45309078,Q6581072,1959-10-25T00:00:00Z,3,Fatima al-Ashabi,Fatima al-Ashabi,Yemeni poet,Q805,Q20404068
+Q45309078,Q6581072,1959-10-25T00:00:00Z,3,Fatima al-Ashabi,Fatima al-Ashabi,Yemeni poet,Q267584,Q20404068
+Q45309078,Q6581072,1959-10-25T00:00:00Z,3,Fatima al-Ashabi,Fatima al-Ashabi,Yemeni poet,Q145,Q20404068
+Q4539761,Q6581097,1965-01-01T00:00:00Z,8,Yahia al-Houthi,Yahia Badreddin al-Houthi,Houthi leader (born 1961),Q267584,Q20302205
+Q4539761,Q6581097,1961-12-01T00:00:00Z,8,Yahia al-Houthi,Yahia Badreddin al-Houthi,Houthi leader (born 1961),Q580188,Q20302205
+Q4539761,Q6581097,1965-01-01T00:00:00Z,8,Yahia al-Houthi,Yahia Badreddin al-Houthi,Houthi leader (born 1961),Q580188,Q20302205
+Q4539761,Q6581097,1961-12-01T00:00:00Z,8,Yahia al-Houthi,Yahia Badreddin al-Houthi,Houthi leader (born 1961),Q805,Q20302205
+Q4539761,Q6581097,1965-01-01T00:00:00Z,8,Yahia al-Houthi,Yahia Badreddin al-Houthi,Houthi leader (born 1961),Q805,Q20302205
+Q4539761,Q6581097,1961-12-01T00:00:00Z,8,Yahia al-Houthi,Yahia Badreddin al-Houthi,Houthi leader (born 1961),Q267584,Q20302205
+Q458632,Q6581072,1998-06-17T00:00:00Z,29,Nujood Ali,Nujood Ali,Advocate of opposition to forced marriages,Q805,Q805
+Q46074769,Q6581072,1956-01-01T00:00:00Z,2,Amal al-Shami,Amal al-Shami,Yemeni writer,Q805,
+Q4664562,Q6581097,1952-01-01T00:00:00Z,3,Abd al-Karim al-Razihi,Abd al-Karim al-Razihi,Yemeni poet,Q805,
+Q4664583,Q6581097,1936-01-01T00:00:00Z,2,Abd al-Rahman Fakhri,Abd al-Rahman Fakhri,Yemeni poet and literary critic (1936–2016),Q805,
+Q4664724,Q6581097,1952-01-01T00:00:00Z,4,Abdel-Malik Mansour,Abdel-Malik Mansour,Yemeni diplomat,Q805,Q388291
+Q4665019,Q6581097,1986-02-16T00:00:00Z,3,Abdo Al-Edresi,Abdo Al-Edresi,footballer,Q805,Q805
+Q4665240,Q6581097,1956-08-04T00:00:00Z,4,Abdul-Wali al-Shameri,Abdul-Wali al-Shameri,Yemeni Ambassador to Egypt,Q805,
+Q4665243,Q6581097,1974-02-12T00:00:00Z,4,Abdul-Wasa Al-Saqqaf,Abdul-Wasa Al-Saqqaf,"Arab poet, journalist, writer and translator",Q805,Q466216
+Q4665246,Q6581097,1952-01-01T00:00:00Z,2,Abdul Wahab Raweh,AbdulWahab Raweh,Yemeni politician,Q805,Q466216
+Q4665499,Q6581097,1930-01-01T00:00:00Z,11,Abdul Latif Dayfallah,Abd al-Latif Dayfallah,Yemeni military officer and politician (1930–2019),Q805,Q388274
+Q4665793,Q6581097,1951-01-01T00:00:00Z,4,Abdulaziz Al-Saqqaf,Abdulaziz Al-Saqqaf,activist (1951–1999),Q805,
+Q4665796,Q6581097,1937-01-01T00:00:00Z,6,Abdulaziz al-Maqaleh,Abdulaziz Al-Maqaleh,Poet and writer (1937–2022),Q805,Q20381610
+Q4665796,Q6581097,1937-01-01T00:00:00Z,6,Abdulaziz al-Maqaleh,Abdulaziz Al-Maqaleh,Poet and writer (1937–2022),Q267584,Q20381610
+Q4665809,Q6581097,1975-01-01T00:00:00Z,2,Abdulaziz Muhammad Saleh bin Otash,Abdulaziz Muhammad Saleh bin Otash,Member of al-Qaeda,Q805,Q851
+Q4665826,Q6581097,1986-01-11T00:00:00Z,3,Abdulelah Sharyan,Abdulelah Sharyan,Yemeni association football player,Q805,Q805
+Q4665827,Q6581097,1977-01-01T00:00:00Z,3,Abdulelah Haider Shaye,Abdulelah Haider Shaye,Yemeni journalist,Q805,
+Q4665865,Q6581097,1965-01-01T00:00:00Z,3,Abdel Karim al-Khaiwani,Abdulkarim al-Khaiwani,journalist,Q805,Q466216
+Q4665920,Q6581097,1929-01-01T00:00:00Z,8,Abdullah al-Baradouni,Abdullah Al-Baradouni,Yemeni poet (1929–1999),Q805,Q12184372
+Q4665930,Q6581097,1974-01-01T00:00:00Z,2,Abdullah Al-Rimi,Abdullah Al-Rimi,Yemeni terrorist,Q805,Q466216
+Q4666020,Q6581097,1932-01-01T00:00:00Z,7,Abdullah Kurshumi,Abdullah Kurshumi,Prime Minister of North Yemen (1932–2007),Q805,Q2471
+Q4666059,Q6581097,1938-01-01T00:00:00Z,3,Abdullah Saleh al-Ashtal,Abdullah Saleh al-Ashtal,"Diplomatic, UN Permanent ambassador- Yemen",Q805,
+Q4666091,Q6581097,1947-01-01T00:00:00Z,4,Abdullah al-Saidi,Abdullah as-Saidi,Yemeni diplomat,Q805,Q805
+Q4666205,Q6581097,1976-12-01T00:00:00Z,5,Abdulsalam Al Ghurbani,Abdulsalam Al Ghurbani,footballer,Q805,Q805
+Q4666208,Q6581097,1978-01-01T00:00:00Z,7,Abdulsalam Al Gadabi,Abdulsalam Al Gadabi,swimmer,Q805,Q2471
+Q4666217,Q6581097,1958-01-01T00:00:00Z,4,Abdulwahab al-Rawhani,Abdulwahab al-Rawhani,Yemeni Minister of Culture,Q805,
+Q4666220,Q6581097,1949-01-01T00:00:00Z,3,Abdulwahed Mohamed Fara,Abdulwahed Mohamed Fara,Yemeni Ambassador to Indonesia,Q805,
+Q4670104,Q6581097,2000-01-01T00:00:00Z,2,Abu Bara al Yemeni,Abu Bara al Yemeni,Yemeni terrorist,Q805,
+Q4670479,Q6581097,1955-07-01T00:00:00Z,8,Abubakar Al-Mass,Abubakar Al-Mass,(South) Yemeni association football player,Q805,Q131694
+Q4678423,Q6581097,1963-05-27T00:00:00Z,14,Umar bin Hafiz,Umar bin Hafiz,Yemini Islamic scholar (b. 1963),Q805,Q1014010
+Q4681541,Q6581097,1979-07-06T00:00:00Z,6,Adel Al-Salimi,Adel Al-Salimi,footballer,Q805,Q805
+Q4695292,Q6581097,1936-01-01T00:00:00Z,2,Ahmad Daifallah Al-Azeib,Ahmad Daifallah Al-Azeib,Yemeni Ambassador to Oman,Q805,
+Q4695925,Q6581097,1960-01-01T00:00:00Z,2,Ahmed Mohammed (Yemeni politician),Ahmed Mohammed,Yemeni politician,Q805,
+Q4701607,Q6581097,1986-09-08T00:00:00Z,3,Akram Al-Selwi,Akram Al-Selwi,footballer,Q805,Q805
+Q4724544,Q6581097,1970-01-12T00:00:00Z,2,Ali Abdullah Ahmed,Ali Abdullah Ahmed,Guantanamo Bay detainee,Q805,Q805
+Q4725106,Q6581097,1980-03-10T00:00:00Z,3,"Ali Omar (footballer, born 1980)",Ali Omar,Yemeni footballer,Q805,Q817
+Q4725285,Q6581097,1969-09-11T00:00:00Z,4,Ali al-Bahlul,Ali al-Bahlul,Al Qaeda operative,Q805,Q805
+Q4746300,Q6581097,1965-01-01T00:00:00Z,4,Amin Al-Sanini,Amin Al-Sanini,Yemeni footballer and manager,Q805,Q2471
+Q475105,Q6581097,1956-10-06T00:00:00Z,8,Sadiq al-Ahmar,Sadiq al-Ahmar,Yemeni politician; leader of the Hashid tribal federation and the Al-Islah tribal confederacy,Q805,Q12210853
+Q4778008,Q6581097,1986-02-05T00:00:00Z,3,Anwar Al-Aug,Anwar Al-Aug,Yemeni footballer,Q805,Q805
+Q4788743,Q6581097,1976-08-12T00:00:00Z,3,Aref Thabit Al-Dali,Aref Thabit Al-Dali,footballer,Q805,
+Q4831458,Q6581097,1993-02-03T00:00:00Z,6,Aiman Al-Hagri,Ayman Al Hagri,footballer,Q805,Q805
+Q4831458,Q6581097,1992-01-01T00:00:00Z,6,Aiman Al-Hagri,Ayman Al Hagri,footballer,Q805,Q805
+Q483672,Q6581097,1947-03-21T00:00:00Z,86,Ali Abdullah Saleh,Ali Abdullah Saleh,President of North Yemen (1978–1990) and Yemen (1990–2012),Q805,Q5673905
+Q4950379,Q6581072,1969-01-01T00:00:00Z,17,Boushra Almutawakel,Boushra Almutawakel,Yemeni photographer,Q805,Q2471
+Q51754289,Q6581097,1990-06-01T00:00:00Z,3,Hamada Al-Zubairi,Hamada Al-Zubairi,association football player,Q805,Q2471
+Q52156087,Q6581097,1986-01-01T00:00:00Z,20,Mahdi al-Mashat,Mahdi al-Mashat,Yemeni politician,Q805,Q12187833
+Q5247450,Q6581097,1976-01-01T00:00:00Z,3,Jamal al-Sharabi,Jamal al-Sharaabi,killed in 2011 in Yemen,Q805,Q805
+Q52769295,Q6581097,1994-11-05T00:00:00Z,3,Ammar Hamsan,Ammar Hamsan,association football player,Q805,Q805
+Q52769734,Q6581097,1994-01-01T00:00:00Z,2,Ahmed Al-Haifi,Ahmed Al-Haifi,association football player,Q805,Q805
+Q52769921,Q6581097,1988-12-04T00:00:00Z,5,Mohammed Ba Rowis,Mohammed Ba Rowis,association football player,Q805,Q805
+Q54094013,Q6581097,1960-01-01T00:00:00Z,4,Khaled al-Yamani,Khalid Al-Yamani,former Minister of Foreign Affairs of Yemen,Q805,Q131694
+Q542294,Q6581072,1966-01-01T00:00:00Z,20,Khadija al-Salami,Khadija al-Salami,Yemeni female film producer,Q805,Q2471
+Q5434768,Q6581097,1937-12-01T00:00:00Z,9,Faraj Said Bin Ghanem,Faraj Said Bin Ghanem,Prime Minister of Yemen from 1997 to 1998,Q199841,Q5555986
+Q5434768,Q6581097,1937-12-01T00:00:00Z,9,Faraj Said Bin Ghanem,Faraj Said Bin Ghanem,Prime Minister of Yemen from 1997 to 1998,Q805,Q5555986
+Q5434768,Q6581097,1937-12-01T00:00:00Z,9,Faraj Said Bin Ghanem,Faraj Said Bin Ghanem,Prime Minister of Yemen from 1997 to 1998,Q202775,Q5555986
+Q5434993,Q6581097,1965-02-08T00:00:00Z,5,Fares Manaa,Fares Mana'a,Top Yemeni arms dealer and appointed governor of the Saada Governorate by the Houthis in 2011,Q805,Q991395
+Q54360506,Q6581072,1972-01-01T00:00:00Z,3,Belquis Al Lahabi,Belquis Al Lahabi,Yemeni human rights activist,Q805,Q805
+Q5437744,Q6581097,1979-12-29T00:00:00Z,3,Fathi Jabir,Fathi Jabir,footballer,Q805,Q805
+Q5438719,Q6581097,1979-01-01T00:00:00Z,3,Fawaz al-Rabeiee,Fawaz al-Rabeiee,Yemeni terrorist,Q805,Q851
+Q5441619,Q6581097,1978-04-18T00:00:00Z,4,Fekri Al-Hubaishi,Fekri Al-Hubaishi,Yemeni footballer,Q805,Q805
+Q54875121,Q6581072,1950-01-01T00:00:00Z,3,Saba Jallas,Saba Jallas,Yemeni artist,Q805,
+Q55436193,Q6581097,2000-01-01T00:00:00Z,4,Ahmed al-Maisari,Ahmed al-Maisari,former Deputy Prime Minister of Yemen and Minister of Interior,Q805,Q4117556
+Q55978840,Q6581072,1925-01-01T00:00:00Z,5,Souad Zuhair,Su'ad Zuhayr,Egyptian writer,Q805,Q7283492
+Q5627924,Q6581097,1958-01-05T00:00:00Z,3,Mohamed Qubaty,Mohamed Abdulmageed Qubaty,"Yemeni Minister, Ambassador & Politician",Q805,Q131694
+Q5636754,Q6581097,1956-01-01T00:00:00Z,7,Habib Abdulrab Sarori,Habib Abdulrab Sarori,Yemeni writer,Q142,Q805
+Q5636754,Q6581097,1956-01-01T00:00:00Z,7,Habib Abdulrab Sarori,Habib Abdulrab Sarori,Yemeni writer,Q145,Q805
+Q5636754,Q6581097,1956-01-01T00:00:00Z,7,Habib Abdulrab Sarori,Habib Abdulrab Sarori,Yemeni writer,Q805,Q805
+Q5639683,Q6581097,1901-01-01T00:00:00Z,3,Haitham al-Yemeni,Haitham al-Yemeni,Yemeni terrorist,Q805,
+Q5644466,Q6581097,1940-01-01T00:00:00Z,4,Hameed Al-Qushaibi,Hameed Al-Qushaibi,Brigadier in the Yemeni army,Q805,Q172597
+Q5644670,Q6581097,1967-12-27T00:00:00Z,3,Hamid al-Ahmar,Hamid al-Ahmar,Yemeni politician,Q805,Q2471
+Q5645953,Q6581097,1918-01-01T00:00:00Z,6,Hamoud Al-Jaifi,Hamoud al-Gayifi,Yemeni politician (1918–1985),Q805,Q580188
+Q57158407,Q6581097,1983-07-14T00:00:00Z,6,Amr Gamal (director),Amr Gamal,Yemeni Film Director,Q805,Q268
+Q57373157,Q6581097,1977-01-01T00:00:00Z,23,Maeen Abdulmalik Saeed,Maeen Abdulmalik Saeed,former Prime Minister of Yemen (2018-2024),Q805,Q466216
+Q57480,Q6581097,1945-09-01T00:00:00Z,66,Abdrabbuh Mansour Hadi,Abdrabbuh Mansour Hadi,President of Yemen from 2012 to 2022,Q805,Q241774
+Q57905,Q6581097,1935-04-04T00:00:00Z,29,Mohammed Basindawa,Mohammed Basindawa,Yemeni politician,Q805,Q131694
+Q58297,Q6581097,1942-01-01T00:00:00Z,10,Abu Bakr al-Qirbi,Abu Bakr al-Qirbi,Yemeni politician and diplomat (born 1942),Q580188,Q1752951
+Q58297,Q6581097,1942-01-01T00:00:00Z,10,Abu Bakr al-Qirbi,Abu Bakr al-Qirbi,Yemeni politician and diplomat (born 1942),Q805,Q1752951
+Q58297,Q6581097,1942-01-01T00:00:00Z,10,Abu Bakr al-Qirbi,Abu Bakr al-Qirbi,Yemeni politician and diplomat (born 1942),Q267584,Q1752951
+Q60485387,Q6581097,1988-04-10T00:00:00Z,7,Saoud Al-Sowadi,Saoud Al-Sowadi,Yemeni footballer,Q805,Q805
+Q60565242,Q6581097,1985-01-01T00:00:00Z,6,Hussein Moheb,Hussein Moheb,Yemeni singer,Q805,
+Q60668567,Q6581097,1989-03-13T00:00:00Z,6,Mohammed Fuad Omar,Mohammed Fuad Omar,association football player,Q805,Q805
+Q60668803,Q6581097,1990-01-08T00:00:00Z,5,Abdulaziz Al-Gumaei,Abdulaziz Al-Gumaei,Yemeni footballer,Q805,Q805
+Q60668803,Q6581097,1989-11-30T00:00:00Z,5,Abdulaziz Al-Gumaei,Abdulaziz Al-Gumaei,Yemeni footballer,Q805,Q805
+Q60675931,Q6581097,1994-04-27T00:00:00Z,4,Ahmed Abdulrab,Ahmed Abdulrab,Yemeni footballer,Q805,Q805
+Q60675973,Q6581097,1986-01-01T00:00:00Z,4,Wahid Al Khyat,Wahid Al Khyat,Yemeni footballer,Q805,Q805
+Q60676058,Q6581097,1994-04-21T00:00:00Z,4,Ahmed Dhabaan,Ahmed Dhabaan,Yemeni association football player,Q805,Q2471
+Q60676058,Q6581097,1994-07-09T00:00:00Z,4,Ahmed Dhabaan,Ahmed Dhabaan,Yemeni association football player,Q805,Q2471
+Q60676112,Q6581097,1996-01-01T00:00:00Z,4,Ala Addin Mahdi,Ala Addin Mahdi,Yemeni association football player,Q805,Q805
+Q60686097,Q6581097,1997-02-21T00:00:00Z,3,Ali Hafeedh,Ali Hafeedh,Yemeni footballer,Q805,Q805
+Q60686180,Q6581097,1992-01-01T00:00:00Z,3,Salem Al-Omzae,Salem Al-Omzae,Yemeni footballer,Q805,Q805
+Q60686212,Q6581097,1994-04-03T00:00:00Z,4,Ahmed Alos,Ahmed Alos,Yemeni footballer,Q805,Q805
+Q60737398,Q6581097,1992-04-15T00:00:00Z,3,Emad Mansoor,Emad Mansoor,Yemeni footballer,Q805,Q805
+Q60738721,Q6581097,1998-10-07T00:00:00Z,5,Salem Al-Harsh,Salem Al-Harsh,Yemeni association football player,Q805,Q131694
+Q6125878,Q6581097,1967-05-26T00:00:00Z,2,Jalal Faqira,Jalal Faqira,Yemeni politician,Q805,
+Q6127529,Q6581097,1968-07-23T00:00:00Z,5,Jamal Amer,Jamal Amer,Yemeni journalist and politician,Q805,Q388274
+Q6159492,Q6581097,1942-01-01T00:00:00Z,3,Jarallah Omar,Jarallah Omar,Yemeni politician,Q805,Q6442071
+Q61793845,Q6581072,1994-10-28T00:00:00Z,6,Hoda Muthana,Hoda Muthana,American expatriate who joined ISIS,Q805,Q138458
+Q61896007,Q6581097,1997-02-01T00:00:00Z,2,Rami Al-Wasmani,Rami Al-Wasmani,Yemeni footballer (born 1997),Q805,Q805
+Q6399299,Q6581097,1974-01-21T00:00:00Z,4,Khaled Afarah,Khaled Afarah,footballer,Q805,Q805
+Q6399320,Q6581097,1986-11-02T00:00:00Z,6,Khaled Baleid,Khaled Baleid,Yemeni footballer,Q805,Q131694
+Q6399485,Q6581097,1965-01-01T00:00:00Z,17,Khaled Bahah,Khaled Bahah,"Yemeni politician, diplomat and ambassador to Canada",Q805,Q241135
+Q65029888,Q6581097,1958-01-01T00:00:00Z,4,Yahya al-Hajuri,,Yemeni Salafist scholar,Q805,
+Q65640445,Q6581097,1961-12-25T00:00:00Z,7,Sabri Al-Haiki,Sabri Al-Haiki,"artist, critic & poet from Yemen.",Q805,Q466216
+Q659976,Q6581097,1972-05-01T00:00:00Z,17,Ramzi bin al-Shibh,Ramzi bin al-Shibh,9/11 organizer,Q805,Q805
+Q66057251,Q6581097,1974-01-01T00:00:00Z,5,Munir Al Yafi,Munir Al Yafi,south arabian military personnel,Q805,Q4119894
+Q68107054,Q6581097,1979-10-28T00:00:00Z,3,Mohammed Al-Hadhrami,Mohammed Al-Hadhrami,"Ambassador of Yemen to the USA, Former Minister of Foreign Affairs of Yemen",Q805,Q2471
+Q6822196,Q6581097,1957-01-01T00:00:00Z,5,Ahmed Fathi,Ahmed Fathi,Yemeni musician and singer,Q805,
+Q68773,Q6581097,1933-01-01T00:00:00Z,12,Muqbil al-Wadi'i,Muqbil ibn Hādī al-Wādiʻī,Islamic studies scholar (1933–2001),Q580188,Q3012928
+Q68773,Q6581097,1933-01-01T00:00:00Z,12,Muqbil al-Wadi'i,Muqbil ibn Hādī al-Wādiʻī,Islamic studies scholar (1933–2001),Q805,Q3012928
+Q68773,Q6581097,1933-01-01T00:00:00Z,12,Muqbil al-Wadi'i,Muqbil ibn Hādī al-Wādiʻī,Islamic studies scholar (1933–2001),Q267584,Q3012928
+Q68824414,Q6581097,1970-11-30T00:00:00Z,3,Ahmed Lamlas,Ahmed Hamid Lamlas,Yemeni politician,Q805,Q4118415
+Q68837007,Q6581097,1965-04-03T00:00:00Z,12,Salem Saleh bin Braik,Salem Saleh bin Braik,Yemeni politician,Q805,Q310772
+Q6890998,Q6581097,1952-01-01T00:00:00Z,1,Mohamed Alanssi,Mohamed Alanssi,FBI informant,Q805,
+Q6892410,Q6581097,1948-01-01T00:00:00Z,3,Mohammad Sewar,Mohammad Sewar,Yemeni politician,Q805,
+Q6892882,Q6581097,1983-10-20T00:00:00Z,1,Mohammed Al-Ashwal,Mohammed Al-Ashwal,Yemeni martial artist,Q805,
+Q6892913,Q6581097,1985-11-30T00:00:00Z,4,Mohammed Al Abidi,Mohammed Al Abidi,footballer,Q805,
+Q6892946,Q6581097,1948-01-01T00:00:00Z,3,Mohammed Ali Hassan Al-Moayad,Mohammed Ali Hassan Al-Moayad,imam,Q805,Q805
+Q6892951,Q6581097,1950-12-12T00:00:00Z,2,Mohammed Ali al-Ahwal,Mohammed Ali al-Ahwal,"Banker, diplomat (1950-2013)",Q805,Q4117801
+Q6893116,Q6581097,1971-01-01T00:00:00Z,2,Mohammed Hamdi al-Ahdal,Mohammed Hamdi al-Ahdal,citizen of Saudi Arabia (born 1971),Q805,Q527887
+Q6930660,Q6581097,1972-01-02T00:00:00Z,4,Muaadh Abdulkhalek,Muaadh Abdulkhalek,Yemeni footballer,Q805,Q805
+Q6943646,Q6581097,1953-01-01T00:00:00Z,2,Mutaher al-Masri,Mutaher al-Masri,Yemeni politician,Q805,
+Q6956915,Q6581072,1964-01-01T00:00:00Z,5,Nabila al-Zubayr,Nabila al-Zubayr,Yemeni poet,Q805,Q6109849
+Q6959960,Q6581097,1953-01-01T00:00:00Z,4,Najeeb Qahtan al-Shaabi,Najeeb Qahtan Al-Shaabi,Yemeni politician,Q805,
+Q6967154,Q6581097,1976-10-01T00:00:00Z,14,Nasir al-Wuhayshi,Nasir al-Wuhayshi,Yemeni Al-Qaeda member,Q805,Q805
+Q6967263,Q6581097,1962-11-29T00:00:00Z,2,Nasr Taha Mustafa,Nasr Taha Mustafa,Yemeni journalist and politician,Q805,
+Q70463766,Q6581097,1949-02-03T00:00:00Z,3,Abdul Jabbar Numan,Abdul Jabbar Numan,Yemeni artist,Q805,Q466216
+Q7146118,Q6581097,1958-07-15T00:00:00Z,3,Patrick Bingham-Hall,Patrick Bingham-Hall,"Australian photographer, author and editor",Q408,Q131694
+Q7146118,Q6581097,1958-07-15T00:00:00Z,3,Patrick Bingham-Hall,Patrick Bingham-Hall,"Australian photographer, author and editor",Q805,Q131694
+Q719638,Q6581072,1958-08-27T00:00:00Z,5,Amat Al Alim Alsoswa,Amat Al Alim Alsoswa,Yemeni politician,Q805,Q388330
+Q72433980,Q6581097,2000-04-13T00:00:00Z,3,Adel Al Chadli,Adel Al Chadli,Yemeni football player,Q805,Q131694
+Q7265789,Q6581097,2000-01-01T00:00:00Z,3,Qaed Salim Sinan al-Harethi,Qaed Salim Sinan al-Harethi,Yemeni al-Qaeda member,Q805,Q4117697
+Q7267019,Q6581097,1978-06-05T00:00:00Z,15,Qasim al-Raymi,Qasim al-Raymi,Yemeni al-Qaeda member,Q805,Q4118313
+Q7294790,Q6581097,1974-01-01T00:00:00Z,2,Rashad Mohammed Saeed Ismael,Rashad Mohammed Saeed Ismael,Yemeni terrorist,Q805,Q99648
+Q7298434,Q6581097,1978-01-01T00:00:00Z,1,Rayed Mohammed Abdullah Ali,Rayed Mohammed Abdullah Ali,Student pilot deported from New Zealand for having 9/11 hijacker links,Q805,
+Q7306912,Q6581072,1996-01-01T00:00:00Z,16,Reem Al Numery,Reem Al Numery,Yemeni child rights activist,Q805,Q805
+Q73397077,Q6581097,2000-01-16T00:00:00Z,4,Ahmed Al-Yaari,Ahmed al-Yaari,Yemen sprinter,Q805,
+Q7398217,Q6581097,1940-01-01T00:00:00Z,4,Saeed Aulaqi,Saeed Aulaqi,Yemeni writer,Q805,
+Q7403896,Q6581097,1993-02-10T00:00:00Z,7,Saleh Al-Yazidi,Saleh Bader Al Yazidi,Yemeni footballer,Q805,Q1295806
+Q7404040,Q6581097,1952-01-01T00:00:00Z,2,Salem Ali Qatan,Salem Ali Qatan,Yemeni military officer,Q805,
+Q7409367,Q6581097,1986-05-03T00:00:00Z,3,Sami Juaim,Sami Juaim,footballer,Q805,Q805
+Q7460973,Q6581097,1954-09-16T00:00:00Z,16,Shaya al-Zindani,Shaea al-Zindani,Yemeni diplomat and politician (born 1954),Q805,Q4117376
+Q74770272,Q6581097,1989-05-15T00:00:00Z,2,Mohsen Qarawi,Mohsen Qarawi,Yemeni footballer,Q805,Q805
+Q77887203,Q6581097,1999-12-15T00:00:00Z,3,Omar Al-Dahi,Omar Al-Dahi,Yemeni footballer,Q805,Q805
+Q78145700,Q6581097,1999-05-24T00:00:00Z,3,Nasser Al-Gahwashi,Nasser Al-Gahwashi,Yemeni footballer,Q805,Q1752951
+Q7959776,Q6581072,1956-01-01T00:00:00Z,6,Wahiba Faraʽa,Waheeba Fare’e Al-Fakih,Yemeni politician,Q805,Q12184911
+Q8046919,Q6581097,1947-01-01T00:00:00Z,3,Yahya Hussain Al-Aarashi,Yahya Hussain Al-Aarashi,Yemeni Ambassador to Qatar,Q805,
+Q8049879,Q6581097,1986-02-02T00:00:00Z,5,Yasser Al-Baadani,Yasser Al-Baadani,Yemeni footballer,Q805,Q805
+Q8049884,Q6581097,1979-03-27T00:00:00Z,5,Yasser Basuhai,Yasser Basuhai,footballer,Q805,Q805
+Q8064640,Q6581097,1986-07-06T00:00:00Z,2,Zaher Farid Al-Fadhli,Zaher Farid Al-Fadhli,footballer,Q805,
+Q8067549,Q6581097,1943-01-01T00:00:00Z,6,Zayd Mutee' Dammaj,Zayd Mutee' Dammaj,Yemeni author and politician,Q805,Q4117787
+Q87329788,Q6581072,1986-01-01T00:00:00Z,8,Yasmin al Qadhi,Yasmin Al Qadhi,Yemeni journalist who rescues child soldiers,Q805,
+Q87723531,Q6581072,1990-01-01T00:00:00Z,7,Alaa Al-Eryani,Alaa Al-Eryani,"Yemeni filmmaker, photographer, writer, feminist activist",Q805,
+Q88406945,Q6581097,1931-01-01T00:00:00Z,2,Abdullah Badheeb,Abdullah Badheeb,Yemeni writer,Q805,
+Q924397,Q6581097,1940-12-31T00:00:00Z,19,Ali Nasir Muhammad,Ali Nasir Muhammad,leader of South Yemen from 1980 to 1986,Q199841,Q20417059
+Q924397,Q6581097,1940-12-31T00:00:00Z,19,Ali Nasir Muhammad,Ali Nasir Muhammad,leader of South Yemen from 1980 to 1986,Q805,Q20417059
+Q96095612,Q6581072,1978-01-01T00:00:00Z,5,Huda Al-Sarari,Hoda Al Sarari,Yemeni human rights lawyer,Q805,
+Q979788,Q6581097,1945-06-20T00:00:00Z,11,Ali Mohsen al-Ahmar,Ali Mohsen al-Ahmar,Yemeni general (born 1945),Q805,Q5673905

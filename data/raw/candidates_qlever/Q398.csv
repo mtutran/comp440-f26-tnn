@@ -1,0 +1,548 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q100934680,Q6581097,1996-10-10T00:00:00Z,6,Elijah Thomas,Elijah Thomas,American basketball player (born 1996),Q398,Q16557
+Q100934680,Q6581097,1996-10-10T00:00:00Z,6,Elijah Thomas,Elijah Thomas,American basketball player (born 1996),Q30,Q16557
+Q10278224,Q6581072,1984-05-20T00:00:00Z,25,Eunice Kirwa,Eunice Kirwa,Kenyan-Bahraini long-distance runner,Q398,Q114
+Q104419543,Q6581097,2000-08-25T00:00:00Z,6,Ahmed Madan (cyclist),Ahmed Madan,Bahraini cyclist,Q398,Q248302
+Q10452129,Q6581097,1982-12-20T00:00:00Z,6,Hussain Salman,Hussain Salman,Bahraini footballer,Q398,Q398
+Q104903512,Q6581097,1950-01-01T00:00:00Z,2,Amin Saleh,Amin Saleh,"Bahraini screenwriter, poet, and translator",Q398,Q3882
+Q106956334,Q6581097,1992-09-24T00:00:00Z,6,Ebrahim Lutfalla,Ebrahim Lutfalla,Bahraini association football player,Q398,Q248302
+Q107289506,Q6581072,1975-01-01T00:00:00Z,6,Muneera Swar,Munira Suawar,Bahraini novelist,Q398,
+Q107648957,Q6581072,1993-10-08T00:00:00Z,4,Maryam Hassani,Maryam Hassani,Bahraini sports shooter,Q398,Q270500
+Q107691795,Q6581097,2000-10-05T00:00:00Z,4,Habib Haroon,Habib Haroon,Bahraini footballer,Q398,Q398
+Q107729230,Q6581097,1998-06-18T00:00:00Z,4,Hasan Merza,Hasan Mirza,Bahraini handball player,Q398,
+Q108030072,Q6581097,2001-02-07T00:00:00Z,6,Mohamed Habib Naser,Mohamed Mohamed,Bahraini handball player,Q398,
+Q10843439,Q6581072,1967-06-26T00:00:00Z,5,Ghada Jamshir,Ghada Jamshir,Bahraini women's rights activist,Q398,Q375630
+Q10858598,Q6581072,1941-01-01T00:00:00Z,5,Munira Fakhro,Munira Fakhro,Bahraini academic and a candidate in Bahrain's 2006 general election for the opposition Waad,Q398,
+Q109257944,Q6581097,1998-02-22T00:00:00Z,3,Jasim Khelaif,Jasim Khelaif,Bahraini footballer,Q398,
+Q109258380,Q6581097,1996-01-25T00:00:00Z,9,Abdullah Al-Hashash,Abdullah al-Hashash,Bahraini professional footballer,Q398,Q1771398
+Q109259624,Q6581072,1977-01-01T00:00:00Z,2,Hala bint Mohammed Al Khalifa,Hala bint Mohammed Al Khalifa,Bahraini politician,Q398,
+Q109264421,Q6581097,1997-12-17T00:00:00Z,5,Moses Atede,Moses Atede,Bahraini footballer,Q1033,
+Q109264421,Q6581097,1997-12-17T00:00:00Z,5,Moses Atede,Moses Atede,Bahraini footballer,Q398,
+Q110051192,Q6581097,1995-08-25T00:00:00Z,3,Ahmed Nabeel,Ahmed Nabeel,Bahraini footballer,Q398,Q3882
+Q111676618,Q6581097,1990-10-09T00:00:00Z,2,Ahmed Al-Derazi,Ahmed Al Derazi,Bahraini basketball player (born 1990),Q398,
+Q112990953,Q6581097,2003-01-25T00:00:00Z,22,Akhmed Tazhudinov,Akhmed Tazhudinov,Russian-Bahraini freestyle wrestler (born 2003),Q159,Q4137129
+Q112990953,Q6581097,2003-01-25T00:00:00Z,22,Akhmed Tazhudinov,Akhmed Tazhudinov,Russian-Bahraini freestyle wrestler (born 2003),Q398,Q4137129
+Q113581946,Q6581097,1937-01-01T00:00:00Z,3,Mohamad bin Khalifa Al Khalifa,Mohammed bin Khalifa Al Khalifa,politician in Bahrain,Q398,Q398
+Q113992871,Q6581097,1955-02-15T00:00:00Z,4,Ali bin Khalifa Al Khalifa,Ali bin Khalifa bin Salman Al Khalifa,politician in Bahrain,Q398,
+Q1141219,Q6581097,1983-02-05T00:00:00Z,16,Sayed Mohamed Adnan,Sayed Mohamed Adnan,Bahrani football player,Q398,Q9347
+Q11766972,Q6581072,1994-01-06T00:00:00Z,6,Manal El-Bahraoui,Manal El Bahraoui,Moroccan-Bahraini middle-distance runner,Q398,
+Q11766972,Q6581072,1994-01-06T00:00:00Z,6,Manal El-Bahraoui,Manal El Bahraoui,Moroccan-Bahraini middle-distance runner,Q1028,
+Q117782941,Q6581097,2003-01-05T00:00:00Z,7,Magomedrasul Asluev,Magomedrasul Asluev,russia born Bahraini freestyle wrestler,Q159,Q4131417
+Q117782941,Q6581097,2003-01-05T00:00:00Z,7,Magomedrasul Asluev,Magomedrasul Asluev,russia born Bahraini freestyle wrestler,Q398,Q4131417
+Q12052828,Q6581097,1977-01-01T00:00:00Z,5,Mohamed Albuflasa,Mohamed Albuflasa,"Bahraini poet, writer, former independent candidate for Parliament",Q398,Q398
+Q12178441,Q6581072,1955-08-18T00:00:00Z,3,Ahlaam Muhammed,Ahlaam Muhammed,Bahraini actor,Q398,
+Q12180567,Q6581072,1987-04-16T00:00:00Z,4,Amal Anbari,Amal Anbari,Moroccan actor,Q1028,Q1028
+Q12180567,Q6581072,1987-04-16T00:00:00Z,4,Amal Anbari,Amal Anbari,Moroccan actor,Q398,Q1028
+Q12181663,Q6581097,1956-08-02T00:00:00Z,3,Ibrahim Bahar,Ibrahim Bahar,Bahraini actor (1956-2019),Q398,Q3882
+Q12181736,Q6581097,1948-01-01T00:00:00Z,4,Ibrahim Bu Hindi,Ibrahim Bu Hindi,Bahraini poet and playwright,Q17061755,Q270500
+Q12181736,Q6581097,1948-01-01T00:00:00Z,4,Ibrahim Bu Hindi,Ibrahim Bu Hindi,Bahraini poet and playwright,Q398,Q270500
+Q12183010,Q6581072,1961-11-17T00:00:00Z,3,Istiqlal Ahmed,Istiqlal Ahmed,actor,Q398,
+Q12198211,Q6581072,1969-10-19T00:00:00Z,4,Parween Habib,Barwīn Ḥabīb,Bahraini journalist and poet,Q398,Q3882
+Q12208559,Q6581072,2002-05-15T00:00:00Z,20,Hala Al Turk,Hala Al Turk,Bahraini actress and singer,Q398,Q3882
+Q12209927,Q6581097,1987-12-20T00:00:00Z,2,Khaled Al Shaer,Khaled Al Shaer,Bahraini journalist,Q398,Q270500
+Q12210768,Q6581097,1942-01-01T00:00:00Z,2,Khalifa Al Dhahrani,Khalifa Al Dhahrani,Member of the National Assembly of Bahrain,Q398,
+Q12214700,Q6581072,1969-11-08T00:00:00Z,5,Zahra Arafat,Zahra Arafat,Bahraini actress,Q398,Q398
+Q12215867,Q6581072,1961-05-26T00:00:00Z,3,Souad Ali,Soad Ali,Bahraini actress,Q398,
+Q12219471,Q6581072,1985-06-11T00:00:00Z,4,Sabrin Burshid,Sabrin Burshid,Bahraini actress and broadcaster (1985–2019),Q398,Q3882
+Q12223293,Q6581097,1946-01-01T00:00:00Z,5,Abdullatif Al-Mahmood,Abdullatif Al-Mahmood,Bahraini politician,Q398,Q3360322
+Q12223369,Q6581097,1948-01-01T00:00:00Z,2,Abdullah Al-Saadawi,Abdullah Al-Saadawi,"Bahraini actor, director, and playwright (1948–2024)",Q398,
+Q12237257,Q6581072,1954-04-13T00:00:00Z,3,Latifa Al Megren,Latifa Al Megren,Bahraini actress,Q398,
+Q123524734,Q6581097,2003-09-02T00:00:00Z,3,Abdulla Al-Khulasi,Abdulla Al-Khulasi,Bahraini footballer,Q398,Q270500
+Q124412894,Q6581097,1960-12-18T00:00:00Z,3,Mohammed bin Isa Al Khalifa,Mohammed bin Isa Al Khalifa,Bahraini royal,Q398,
+Q125492109,Q6581097,2001-04-02T00:00:00Z,3,Vincent Emmanuel,Vincent Emmanuel,Bahraini footballer,Q398,
+Q125492109,Q6581097,2001-04-02T00:00:00Z,3,Vincent Emmanuel,Vincent Emmanuel,Bahraini footballer,Q1033,
+Q128753696,Q6581097,1984-11-10T00:00:00Z,2,Ali Ashoor,Ali Ashoor,Bahraini football manager (born 1984),Q398,
+Q130265411,Q6581072,1991-01-01T00:00:00Z,2,Rooba Al-Omari,Rooba Al-Omari,Bahrain Paralympic athlete,Q398,
+Q130295962,Q6581072,1978-08-19T00:00:00Z,1,Waheeda Malullah,Waheeda Malullah,Bahraini photographer,Q398,Q270500
+Q136159020,Q6581097,1971-08-03T00:00:00Z,1,Jamal Alrowaiei,Jamal Alrowaiei,Bahraini diplomat,Q398,Q1771398
+Q14512405,Q6581097,1990-03-23T00:00:00Z,12,Alemu Bekele,Alemu Bekele,Ethiopian long distance runner for Bahrain,Q398,Q2646407
+Q14636388,Q6581097,1963-08-01T00:00:00Z,4,Salah Nooruddin,Salah Nooruddin,Bahraini businessman,Q398,
+Q14636401,Q6581097,1980-08-20T00:00:00Z,6,Bader Najem,Bader Najem,Kuwaiti association football player,Q398,Q35178
+Q15091593,Q6581097,1995-06-30T00:00:00Z,14,Ali Khamis,Ali Khamis,Bahraini hurdler,Q398,Q398
+Q15615816,Q6581097,1993-01-19T00:00:00Z,23,Ali Assadalla,Ali Assad,Bahraini-Qatari footballer,Q398,Q3882
+Q15615816,Q6581097,1993-01-19T00:00:00Z,23,Ali Assadalla,Ali Assad,Bahraini-Qatari footballer,Q846,Q3882
+Q15622789,Q6581097,1991-12-15T00:00:00Z,12,Andrew Fisher (sprinter),Andrew Fisher,Jamaican athletics competitor,Q398,Q766
+Q15622789,Q6581097,1991-12-15T00:00:00Z,12,Andrew Fisher (sprinter),Andrew Fisher,Jamaican athletics competitor,Q766,Q766
+Q15983029,Q6581097,1970-08-02T00:00:00Z,3,Abdulla Saleh,Abdulla Saleh,Bahraini footballer,Q398,
+Q16019109,Q6581097,1937-01-01T00:00:00Z,4,Isa al-Jowder,Isa al-Jowder,Bahraini politician,Q398,
+Q16118206,Q6581072,1991-08-23T00:00:00Z,3,Hanan Redha,Hanan Redha,Bahraini singer,Q398,Q398
+Q16124166,Q6581072,1987-04-03T00:00:00Z,3,Noor el-Sheikh,Noor el-Sheikh,Bahraini actress,Q398,
+Q16146346,Q6581097,1977-06-27T00:00:00Z,4,Salem Nasser Bakheet,Salem Nasser Bakheet,Bahraini high jumper,Q398,
+Q16149753,Q6581097,1995-11-16T00:00:00Z,11,Cliff Alexander,Cliff Alexander,American basketball player,Q30,Q1297
+Q16149753,Q6581097,1995-11-16T00:00:00Z,11,Cliff Alexander,Cliff Alexander,American basketball player,Q398,Q1297
+Q16157209,Q6581097,1989-10-23T00:00:00Z,11,Khalid bin Hamad Al Khalifa,Prince Khalid bin Hamad of Bahrain,Bahraini royal (born 1989),Q398,Q1771398
+Q16190522,Q6581072,1957-01-01T00:00:00Z,7,Nada Haffadh,Nada Haffadh,Bahraini politician,Q398,Q3882
+Q16194140,Q6581097,1961-12-14T00:00:00Z,4,Abduljalil Khalil,Abduljalil Khalil,Bahraini politician (born 1961),Q398,Q12188544
+Q16194507,Q6581097,1962-12-30T00:00:00Z,3,Mahdi Abu Deeb,Mahdi Abu Deeb,Unionist and human rights activist,Q398,Q398
+Q16209255,Q6581072,1996-11-17T00:00:00Z,31,Ruth Jebet,Ruth Jebet,Bahraini steeplechase and long-distance runner of Kenyan descent,Q398,Q114
+Q16209255,Q6581072,1996-11-17T00:00:00Z,31,Ruth Jebet,Ruth Jebet,Bahraini steeplechase and long-distance runner of Kenyan descent,Q114,Q114
+Q16212465,Q6581097,1993-09-26T00:00:00Z,9,Abraham Rotich,Abraham Kipchirchir Rotich,Kenyan/Bahraini middle-distance runner,Q114,Q114
+Q16212465,Q6581097,1993-06-26T00:00:00Z,9,Abraham Rotich,Abraham Kipchirchir Rotich,Kenyan/Bahraini middle-distance runner,Q398,Q114
+Q16212465,Q6581097,1993-09-26T00:00:00Z,9,Abraham Rotich,Abraham Kipchirchir Rotich,Kenyan/Bahraini middle-distance runner,Q398,Q114
+Q16212465,Q6581097,1993-06-26T00:00:00Z,9,Abraham Rotich,Abraham Kipchirchir Rotich,Kenyan/Bahraini middle-distance runner,Q114,Q114
+Q16215921,Q6581097,1976-05-03T00:00:00Z,3,Matar Matar,Matar Matar,Bahraini politician,Q398,Q398
+Q16224071,Q6581097,1985-09-10T00:00:00Z,3,Dawood Youssef,Dawood Youssef,Bahraini swimmer,Q398,
+Q16229270,Q6581097,1988-04-20T00:00:00Z,3,Hesham Shehab,Hesham Shehab,Bahraini swimmer,Q398,
+Q16231450,Q6581097,1986-11-23T00:00:00Z,3,Mohamed Ali Al-Shaaban,Mohamed Ali Al-Shaaban,Bahraini Physician and Bahrain Radio and TV Personality,Q398,Q3882
+Q16231540,Q6581072,1986-07-23T00:00:00Z,18,Esra'a Al Shafei,Esra'a Al Shafei,Bahraini activist,Q398,
+Q16231783,Q6581097,1987-10-20T00:00:00Z,2,"James Love (rugby union, born 1987)",James Love,Bahraini rugby union player (1987-),Q398,
+Q16525822,Q6581097,1992-07-17T00:00:00Z,14,Albert Rop,Albert Kibichii Rop,Bahraini long-distance runner of Kenyan descent,Q398,Q1323405
+Q16525822,Q6581097,1992-07-17T00:00:00Z,14,Albert Rop,Albert Kibichii Rop,Bahraini long-distance runner of Kenyan descent,Q114,Q1323405
+Q16610724,Q6581072,1996-12-25T00:00:00Z,13,Tigist Gashaw,Tigist Gashaw,Bahraini middle-distance runner,Q398,Q115
+Q16610724,Q6581072,1996-12-25T00:00:00Z,13,Tigist Gashaw,Tigist Gashaw,Bahraini middle-distance runner,Q115,Q115
+Q16730783,Q6581097,1944-01-01T00:00:00Z,5,Khalid bin Abdullah Al Khalifa,Khalid bin Abdullah Al Khalifa,Bahraini engineer and deputy prime minister,Q398,
+Q16730784,Q6581097,1954-01-01T00:00:00Z,6,Rashid bin Abdullah Al Khalifa,Rashid bin Abdullah Al Khalifa,Minister of Interior of Bahrain,Q398,
+Q16855061,Q6581072,1993-01-16T00:00:00Z,22,Kemi Adekoya,Oluwakemi Adekoya,Bahraini hurdler and sprinter of Nigerian descent,Q1033,Q8673
+Q16855061,Q6581072,1993-01-16T00:00:00Z,22,Kemi Adekoya,Oluwakemi Adekoya,Bahraini hurdler and sprinter of Nigerian descent,Q398,Q8673
+Q16885688,Q6581072,1957-01-01T00:00:00Z,6,Fawziyya al-Sindi,Fawzia al-Sindi,Bahraini poet and journalist,Q17061755,Q3882
+Q16885688,Q6581072,1957-01-01T00:00:00Z,6,Fawziyya al-Sindi,Fawzia al-Sindi,Bahraini poet and journalist,Q398,Q3882
+Q16916386,Q6581097,1992-07-20T00:00:00Z,12,Kemarley Brown,Kemarley Brown,Jamaican athletics competitor,Q766,Q766
+Q16916386,Q6581097,1992-07-20T00:00:00Z,12,Kemarley Brown,Kemarley Brown,Jamaican athletics competitor,Q398,Q766
+Q1708116,Q6581072,1985-02-12T00:00:00Z,6,Azza Al-Qasmi,Azza Al Qasmi,Bahraini sport shooter,Q398,Q1771398
+Q17153108,Q6581097,1961-11-06T00:00:00Z,3,Faisal Buressli,Faisal Buressli,Bahraini basketball coach and basketball player,Q398,Q3882
+Q17306061,Q6581097,1993-03-20T00:00:00Z,13,JaKarr Sampson,JaKarr Sampson,American basketball player (born 1993),Q30,Q37320
+Q17306061,Q6581097,1993-03-20T00:00:00Z,13,JaKarr Sampson,JaKarr Sampson,American basketball player (born 1993),Q398,Q37320
+Q1747936,Q6581097,1980-07-31T00:00:00Z,14,Mohamed Husain,Mohamed Husain,Bahraini footballer,Q398,Q398
+Q17521065,Q6581097,1992-10-11T00:00:00Z,16,Abraham Cheroben,Abraham Cheroben,Bahrain athletics competitor,Q114,Q114
+Q17521065,Q6581097,1992-10-11T00:00:00Z,16,Abraham Cheroben,Abraham Cheroben,Bahrain athletics competitor,Q398,Q114
+Q1753897,Q6581097,1981-12-31T00:00:00Z,10,Husain Ali,Husain Ali,Bahraini footballer,Q398,Q248302
+Q17543386,Q6581097,1996-05-17T00:00:00Z,16,Abbas Abubakar Abbas,Abubakar Abbas,Nigerian-Bahraini sprint athlete,Q398,Q182984
+Q17543386,Q6581097,1996-05-17T00:00:00Z,16,Abbas Abubakar Abbas,Abubakar Abbas,Nigerian-Bahraini sprint athlete,Q1033,Q182984
+Q1772030,Q6581072,1989-07-12T00:00:00Z,27,Rose Chelimo,Rose Chelimo,Kenyan-Bahraini athletics competitor,Q398,Q114
+Q1772030,Q6581072,1989-07-12T00:00:00Z,27,Rose Chelimo,Rose Chelimo,Kenyan-Bahraini athletics competitor,Q114,Q114
+Q18077524,Q6581097,1934-01-01T00:00:00Z,5,Abdul Karim Al-Orrayed,Abdul Karim Al-Orrayed,Bahraini artist,Q398,Q3882
+Q186364,Q6581097,1989-07-19T00:00:00Z,11,Bilisuma Shugi,Bilisuma Shugi,Ethiopian-born long-distance runner for Bahrain,Q398,Q202107
+Q18637079,Q6581097,1990-07-19T00:00:00Z,8,Abdulla Al-Haza'a,Abdulla Al-Haza'a,footballer,Q398,Q398
+Q18704840,Q6581097,1989-07-24T00:00:00Z,6,Hamed Al-Doseri,Hamed Al-Doseri,Bahraini footballer,Q398,Q398
+Q18704840,Q6581097,1984-06-25T00:00:00Z,6,Hamed Al-Doseri,Hamed Al-Doseri,Bahraini footballer,Q398,Q398
+Q18704841,Q6581097,1989-09-29T00:00:00Z,11,Sami Al-Husaini,Sami Al-Husaini,Bahraini footballer,Q398,Q3882
+Q18705106,Q6581097,1989-05-09T00:00:00Z,6,Mohamed Duaij Mahorfi,Mohamed Duaij Mahorfi,Bahraini footballer,Q398,Q3882
+Q18705121,Q6581097,1979-05-12T00:00:00Z,8,Marjan Eid,Marjan Eid,Footballer; Football manager,Q398,Q1771398
+Q18758267,Q6581097,1991-03-04T00:00:00Z,11,Sayed Jaafar Ahmed,Sayed Jaafar Ahmed,footballer,Q398,Q398
+Q18806858,Q6581097,1988-09-25T00:00:00Z,8,Faisal Bodahoom,Faisal Bodahoom,footballer,Q398,Q398
+Q18922688,Q6581097,1993-01-31T00:00:00Z,7,Abdulla Shallal,Abdulla Shallal,footballer,Q398,Q3882
+Q18922691,Q6581097,1993-06-12T00:00:00Z,20,Abdulla Yusuf Helal,Abdulla Yusuf Helal,Bahraini association football player,Q398,Q3882
+Q18922692,Q6581097,1988-03-27T00:00:00Z,7,Abdulla Yaser,Abdulla Yaser,footballer,Q398,Q3882
+Q1921727,Q6581072,1992-06-10T00:00:00Z,5,Merima Mohammed,Merima Mohammed,Ethiopian marathon runner,Q115,
+Q1921727,Q6581072,1992-06-10T00:00:00Z,5,Merima Mohammed,Merima Mohammed,Ethiopian marathon runner,Q398,
+Q19310249,Q6581097,1984-09-03T00:00:00Z,5,Turki al-Binali,Turki al-Binali,Bahraini Islamic scholar and senior member of IS (1984–2017),Q398,Q270500
+Q19357604,Q6581072,1945-01-01T00:00:00Z,7,Hamda Khamis,Hamda Khamis,Bahraini poet,Q398,Q3882
+Q19357604,Q6581072,1945-01-01T00:00:00Z,7,Hamda Khamis,Hamda Khamis,Bahraini poet,Q17061755,Q3882
+Q19513726,Q6581097,1989-05-28T00:00:00Z,11,Shumi Dechasa,Shumi Dechasa,Bahraini athlete,Q398,
+Q195873,Q6581072,1984-08-18T00:00:00Z,4,Mariam Bukamal,Mariam Bukamal,Bahraini television presenter,Q398,Q1771398
+Q19703180,Q6581097,1991-07-05T00:00:00Z,5,Ashraf Waheed Al Sebaie,Ashraf Waheed Al Sebaie,association football player,Q398,Q398
+Q19874854,Q6581097,1941-01-01T00:00:00Z,5,Ali Khalifa Al-Kuwari,Ali Khalifa Al-Kuwari,"Qatari democracy activist, author and professor",Q846,Q3861
+Q19874854,Q6581097,1941-01-01T00:00:00Z,5,Ali Khalifa Al-Kuwari,Ali Khalifa Al-Kuwari,"Qatari democracy activist, author and professor",Q398,Q3861
+Q19892743,Q6581097,1987-12-10T00:00:00Z,4,Hussain Jawad,Hussain Jawad,Bahraini human rights activist,Q398,Q398
+Q20051084,Q6581097,1995-08-23T00:00:00Z,10,John Kibet Koech,John Kibet Koech,Bahraini steeplechase runner of Kenyan descent,Q398,Q996730
+Q203776,Q6581097,1981-06-23T00:00:00Z,14,Mohamed Hubail,Mohamed Hubail,Bahraini footballer,Q398,Q398
+Q20382717,Q6581097,1959-11-23T00:00:00Z,2,Saud Kanoo,Saud Kanoo,politician,Q398,
+Q20384113,Q6581097,1968-11-13T00:00:00Z,2,Salman Hamad Al-Sheikh,Salman Hamad Al-Sheikh,Bahraini Soldier and Politician,Q398,
+Q20385014,Q6581072,1960-01-01T00:00:00Z,2,Somaya Al Jowder,Somaya Al Jowder,Bahraini politician,Q398,
+Q20385366,Q6581097,1962-01-01T00:00:00Z,2,Ahmed Al Mulla,Ahmed Al Mulla,politician,Q398,Q270500
+Q20386880,Q6581072,1972-06-24T00:00:00Z,2,Sawsan Taqawi,Sawsan Taqawi,Bahraini politician,Q398,
+Q20387381,Q6581097,1959-01-23T00:00:00Z,2,Khalid Al Maskati,Khalid Al Maskati,politician,Q398,
+Q20389935,Q6581097,1944-01-01T00:00:00Z,2,Sadiq Al Shehabi,Sadiq Al Shehabi,Bahraini politician (1944–2017),Q398,
+Q20392500,Q6581097,1947-01-01T00:00:00Z,2,Ebrahim Bashmi,Ebrahim Bashmi,"Bahraini politician, novelist, journalist and nonfiction writer",Q398,Q3882
+Q20393155,Q6581072,1992-11-21T00:00:00Z,3,Zainab Ghazi,Zainab Ghazi,Bahraini actress,Q398,
+Q20394724,Q6581097,1970-01-01T00:00:00Z,2,Dhiyaa Al-Musawi,Dhiyaa Al-Musawi,politician,Q398,Q3882
+Q20397773,Q6581072,1960-01-01T00:00:00Z,2,Ebtisam Hejres,Ebtisam Hejres,Bahraini politician MP 2011-2014,Q398,Q270500
+Q20402357,Q6581097,1946-01-01T00:00:00Z,8,Khalifa bin Ahmed Al Khalifa,Khalifa bin Ahmed Al Khalifa,Bahraini soldier,Q398,Q398
+Q20402426,Q6581097,1949-01-01T00:00:00Z,2,Khalil Al Thawadi,Khalil Al Thawadi,politician,Q398,
+Q20408969,Q6581097,1969-01-01T00:00:00Z,2,Adel Al Asoomi,Adel Al Asoomi,Bahraini politician,Q398,Q3882
+Q20410707,Q6581097,1949-06-20T00:00:00Z,3,Abdul Jalil Al Tarif,Abdul Jalil Al Tarif,politician,Q398,
+Q20410876,Q6581097,1965-01-01T00:00:00Z,2,Abdul Hakim Al-Shammari,Abdul Hakim Al-Shammari,Bahraini businessman and politician,Q398,
+Q20411945,Q6581097,1944-04-06T00:00:00Z,2,Faisal Al-Mousawi,Faisal Al-Mousawi,Bahraini politician,Q398,
+Q20413992,Q6581097,1961-02-26T00:00:00Z,2,Abdullah bin Khalaf Al Dossari,Abdullah bin Khalaf Al Dossari,politician,Q398,
+Q20418017,Q6581097,1942-12-01T00:00:00Z,2,Ali bin Saleh Al Saleh,Ali Saleh Al-Saleh,Bahraini politician,Q398,
+Q20418421,Q6581097,1901-01-01T00:00:00Z,3,Ali bin Abdullah Al Khalifa,Ali bin Abdullah Al Khalifa,Bahraini politician,Q398,
+Q20423350,Q6581097,1954-01-01T00:00:00Z,2,Mahmoud Al Mahmoud,Mahmoud Al Mahmoud,Bahraini politician,Q398,
+Q20675826,Q6581097,1978-10-10T00:00:00Z,3,Shahzad Ahmed,Shahzad Ahmed,Bahraini cricketer,Q398,
+Q20675933,Q6581097,1975-12-14T00:00:00Z,4,Mirza Baig,Mirza Baig,cricketer,Q398,
+Q20676375,Q6581097,1975-03-17T00:00:00Z,4,Tahir Dar,Tahir Dar,Bahraini cricketer,Q398,
+Q20676744,Q6581097,1980-02-01T00:00:00Z,3,Imran Ghulam,Imran Ghulam,cricketer,Q398,
+Q20676895,Q6581097,1978-02-25T00:00:00Z,3,Muhammad Hanif (cricketer),Muhammad Hanif,cricketer,Q398,
+Q20685142,Q6581072,1987-02-22T00:00:00Z,8,Vishnupriya (actress),Vishnupriya,Indian actress,Q398,Q398
+Q20736493,Q6581097,1974-12-29T00:00:00Z,3,Mirza Yaqoob,Mirza Yaqoob,cricketer,Q398,
+Q20736495,Q6581097,1974-11-02T00:00:00Z,3,Zafar Zaheer,Zafar Zaheer,cricketer,Q398,
+Q20736507,Q6581097,1975-10-17T00:00:00Z,3,Shihara Perera,Shihara Perera,cricketer,Q398,
+Q20736513,Q6581097,1975-11-29T00:00:00Z,3,Yaser Sadeq,Yaser Sadeq,cricketer,Q398,
+Q20744493,Q6581097,1980-07-20T00:00:00Z,4,Vasantha Kunder,Vasantha Kunder,cricketer,Q398,Q7821664
+Q20744702,Q6581097,1987-04-27T00:00:00Z,3,Shahzad Siddique,Shahzad Siddique,cricketer,Q398,
+Q20925712,Q6581097,1984-03-27T00:00:00Z,8,Benson Seurei,Benson Kiplagat Seurei,Bahraini middle-distance runner of Kenyan descent,Q398,
+Q20925712,Q6581097,1984-03-27T00:00:00Z,8,Benson Seurei,Benson Kiplagat Seurei,Bahraini middle-distance runner of Kenyan descent,Q114,
+Q20934582,Q6581097,1993-02-23T00:00:00Z,9,Aweke Ayalew,Aweke Ayalew,Bahraini athlete,Q115,Q115
+Q20934582,Q6581097,1993-02-23T00:00:00Z,9,Aweke Ayalew,Aweke Ayalew,Bahraini athlete,Q398,Q115
+Q20988052,Q6581072,1990-10-27T00:00:00Z,4,Aster Tesfaye,Aster Tesfaye,Bahraini athlete,Q398,
+Q21064559,Q6581097,1976-08-12T00:00:00Z,3,Khalid Ahmed Mohamed,Khalid Ahmed Mohamed,Bahraini sport shooter,Q398,Q3882
+Q21089520,Q6581072,1998-05-23T00:00:00Z,32,Salwa Eid Naser,Salwa Eid Naser,Bahraini sprinter,Q1033,Q852238
+Q21089520,Q6581072,1998-05-23T00:00:00Z,32,Salwa Eid Naser,Salwa Eid Naser,Bahraini sprinter,Q398,Q852238
+Q21209082,Q6581072,2005-01-01T00:00:00Z,8,Alzain Tareq,Alzain Tareq,Bahraini swimmer,Q398,Q398
+Q21401997,Q6581097,1990-08-26T00:00:00Z,6,Isaac Korir,Isaac Korir,Kenyan-Bahraini long-distance runner,Q398,
+Q22132918,Q6581097,1941-01-01T00:00:00Z,3,Isa bin Ibrahim Al Khalifa,Isa bin Ibrahim Al Khalifa,politician,Q398,Q270500
+Q22132921,Q6581097,1938-11-25T00:00:00Z,3,Isa bin Mohammed Al Khalifa,Isa bin Mohammed Al Khalifa,,Q398,Q270500
+Q2228531,Q6581097,1985-08-25T00:00:00Z,22,Sayed Mohammed Jaffer,Sayed Mohammed Jaffer,Bahraini footballer,Q398,Q398
+Q22688029,Q6581097,1953-01-01T00:00:00Z,4,Duaij bin Salman Al Khalifa,Duaij bin Salman Al Khalifa,Bahraini soldier,Q398,Q270500
+Q22690297,Q6581072,2000-01-01T00:00:00Z,6,Mai bint Mohammed Al Khalifa,Mai bint Mohammed Al Khalifa,politician,Q398,
+Q22928603,Q6581097,1987-04-01T00:00:00Z,9,Ahmed Abdulla Ali,Ahmed Abdulla Ali,association football player,Q398,Q1771398
+Q22929507,Q6581097,1988-07-16T00:00:00Z,8,Ali Haram,Ali Haram,association football player,Q398,Q398
+Q22929507,Q6581097,1988-12-11T00:00:00Z,8,Ali Haram,Ali Haram,association football player,Q398,Q398
+Q22929682,Q6581097,1994-04-08T00:00:00Z,12,Kamil Al-Aswad,Kamil Al Aswad,association football player (1994-),Q398,Q3882
+Q2353139,Q6581072,1969-05-15T00:00:00Z,25,Assala,Assala,Syrian singer,Q858,Q3766
+Q2353139,Q6581072,1969-05-15T00:00:00Z,25,Assala,Assala,Syrian singer,Q398,Q3766
+Q23664644,Q6581097,1990-09-09T00:00:00Z,14,Mohamed Al-Romaihi,Mohamed Al Romaihi,association football player,Q398,Q3882
+Q23695484,Q6581072,1990-10-23T00:00:00Z,6,Violah Jepchumba,Violah Jepchumba,Kenyan female long-distance runner,Q398,
+Q23695484,Q6581072,1990-10-23T00:00:00Z,6,Violah Jepchumba,Violah Jepchumba,Kenyan female long-distance runner,Q114,
+Q23809799,Q6581097,1976-03-24T00:00:00Z,3,Salman Al Khalifa,Salman Al Khalifa,Bahraini racing driver,Q398,Q270500
+Q23811234,Q6581097,1983-12-15T00:00:00Z,3,Hussain Karimi,Hussain Karimi,Bahraini racing driver,Q398,Q3882
+Q24050595,Q6581097,1962-12-25T00:00:00Z,5,Khalid Ibrahim Jouma,Khaled Ibrahim Jouma,Bahraini athletics competitor,Q398,
+Q2510784,Q6581072,1990-04-06T00:00:00Z,4,Aprilsasi Putri Lejarsar Variella,Aprilsasi Putri Lejarsar Variella,Indonesian badminton player,Q252,Q11445
+Q2510784,Q6581072,1990-04-06T00:00:00Z,4,Aprilsasi Putri Lejarsar Variella,Aprilsasi Putri Lejarsar Variella,Indonesian badminton player,Q398,Q11445
+Q25426146,Q6581097,1993-03-09T00:00:00Z,5,Nelson Cherutich,Nelson Cherutich,Bahraini athletics competitor,Q398,Q114
+Q25936128,Q6581097,1970-01-01T00:00:00Z,4,Jamal Ahmed Al-Doseri,Jamal Ahmed Al-Doseri,Bahraini cyclist,Q398,
+Q25936141,Q6581097,1971-05-25T00:00:00Z,4,Jameel Kadhem,Jameel Kadhem,Bahraini cyclist,Q398,
+Q2602002,Q6581097,1970-01-01T00:00:00Z,5,Yusuf Alireza,Yusuf Alireza,Bahraini entrepreneur,Q398,Q398
+Q26251144,Q6581097,1967-07-09T00:00:00Z,4,Saber Mohamed Hasan,Saber Mohamed Hasan,Bahraini former cyclist,Q398,
+Q26256544,Q6581072,1997-03-13T00:00:00Z,14,Edidiong Odiong,Edidiong Odiong,Bahraini sprinter,Q398,
+Q26261195,Q6581097,1996-10-24T00:00:00Z,10,Farhan Farhan,Farhan Farhan,Bahraini swimmer,Q398,Q1771398
+Q26263140,Q6581097,1991-10-08T00:00:00Z,12,Hassan Chani,Hassan Chani,Bahraini long-distance runner,Q1028,Q1028
+Q26263140,Q6581097,1991-10-08T00:00:00Z,12,Hassan Chani,Hassan Chani,Bahraini long-distance runner,Q398,Q1028
+Q26263140,Q6581097,1988-05-05T00:00:00Z,12,Hassan Chani,Hassan Chani,Bahraini long-distance runner,Q398,Q1028
+Q26263140,Q6581097,1988-05-05T00:00:00Z,12,Hassan Chani,Hassan Chani,Bahraini long-distance runner,Q1028,Q1028
+Q26263159,Q6581072,1999-06-14T00:00:00Z,6,Fatema Almahmeed,Fatema Almahmeed,Bahraini swimmer,Q398,
+Q26267512,Q6581072,1995-03-17T00:00:00Z,13,Hajar Al-Khaldi,Hajar Alkhaldi,Bahraini sprinter,Q398,Q398
+Q26267516,Q6581072,1997-07-09T00:00:00Z,13,Iman Essa Jasim,Iman Essa Jasim,Bahraini athlete,Q398,Q1033
+Q2628641,Q6581097,1985-11-02T00:00:00Z,15,Abdulla Baba Fatadi,Abdulla Baba Fatadi,Bahraini footballer,Q1033,Q8673
+Q2628641,Q6581097,1985-11-02T00:00:00Z,15,Abdulla Baba Fatadi,Abdulla Baba Fatadi,Bahraini footballer,Q398,Q8673
+Q26324073,Q6581097,1991-03-11T00:00:00Z,4,Mahmood Haji,Mahmood Haji,Bahraini sports shooter,Q398,
+Q26324385,Q6581097,1996-03-01T00:00:00Z,14,Yaqoob Salem Yaqoob,Yaqoob Salem Yaqoob,Bahraini sprinter,Q398,Q1033
+Q263314,Q6581072,1952-10-18T00:00:00Z,17,Haya Rashed Al-Khalifa,Princess Haya bint Rashed Al Khalifa,Bahrani lawyer and diplomat,Q398,
+Q26384472,Q6581097,1996-02-27T00:00:00Z,14,Birhanu Balew,Birhanu Balew,Bahraini long-distance runner,Q398,Q1024659
+Q26699105,Q6581097,1988-01-01T00:00:00Z,5,Abo Baker Adam,Abo Baker Adam,Bahraini footballer,Q398,Q398
+Q26838071,Q6581072,1998-06-27T00:00:00Z,14,Dalila Abdulkadir,Dalila Abdulkadir,Bahraini long-distance runner,Q398,Q398
+Q26838083,Q6581072,1997-07-07T00:00:00Z,9,Tigest Getent,Tigest Mekonin,Bahraini athletics competitor,Q398,Q5255116
+Q26844873,Q6581097,1989-04-07T00:00:00Z,7,Zouhair Aouad,Zouhair Aouad,Bahraini long-distance runner,Q398,
+Q26923612,Q6581097,1932-12-05T00:00:00Z,5,Hussain Al Baharna,Hussain Al Baharna,"Bahraini lawyer, legal scholar, author and politician",Q398,Q398
+Q2741419,Q6581097,1988-11-24T00:00:00Z,3,Jasim Abdalla,Jasim Mohamed,Emirati basketball player,Q398,Q84
+Q2741419,Q6581097,1988-11-24T00:00:00Z,3,Jasim Abdalla,Jasim Mohamed,Emirati basketball player,Q145,Q84
+Q2741419,Q6581097,1988-11-24T00:00:00Z,3,Jasim Abdalla,Jasim Mohamed,Emirati basketball player,Q878,Q84
+Q2756152,Q6581097,1982-02-11T00:00:00Z,14,Hussain Ali Baba,Hussain Ali Baba,Bahraini footballer,Q398,Q3882
+Q27616999,Q6581097,1987-09-15T00:00:00Z,3,Heri Setiawan,Heri Setiawan,Indonesian badminton player,Q398,Q10619
+Q27616999,Q6581097,1987-09-15T00:00:00Z,3,Heri Setiawan,Heri Setiawan,Indonesian badminton player,Q252,Q10619
+Q277652,Q6581097,1982-06-25T00:00:00Z,19,A'ala Hubail,A'ala Hubail,Bahraini footballer,Q398,Q1416753
+Q27778672,Q6581072,2002-07-15T00:00:00Z,2,Leleya Sabkar,Lilya Jaweed Sabkar,association football player,Q398,Q3882
+Q27778690,Q6581072,1987-06-27T00:00:00Z,3,Reem Al-Hashmi,Reem Yusuf Al Hashmi,association football player,Q398,Q270500
+Q2789952,Q6581097,1974-07-20T00:00:00Z,7,Abdelhak Zakaria,Abdelhak Zakaria,Moroccan-Bahraini distance runner,Q1028,
+Q2789952,Q6581097,1974-07-20T00:00:00Z,7,Abdelhak Zakaria,Abdelhak Zakaria,Moroccan-Bahraini distance runner,Q398,
+Q27999638,Q6581072,1967-01-26T00:00:00Z,6,Fatema Nedham,Fatema Nedham,Bahraini Paralympic athlete,Q398,
+Q28063863,Q6581097,1986-03-26T00:00:00Z,3,Alexandre Matão,Alexandre Matão,Brazilian association football player,Q155,Q174
+Q28063863,Q6581097,1986-03-26T00:00:00Z,3,Alexandre Matão,Alexandre Matão,Brazilian association football player,Q398,Q174
+Q28063866,Q6581097,1994-08-07T00:00:00Z,11,Ahmed Bughammar,Ahmed Bughammar,association football player,Q398,Q270500
+Q28063866,Q6581097,1997-12-30T00:00:00Z,11,Ahmed Bughammar,Ahmed Bughammar,association football player,Q398,Q270500
+Q28063932,Q6581097,1996-09-20T00:00:00Z,5,"Mohamed Adel (footballer, born 1996)",Mohammed Adel Hasan,association football player,Q398,
+Q28063934,Q6581097,1995-11-30T00:00:00Z,16,Ali Madan,Ali Madan,association football player,Q398,Q248302
+Q28063964,Q6581097,1995-06-09T00:00:00Z,3,Hazza Ali,Hazza Ali,association football player,Q398,
+Q28114437,Q6581097,1995-12-29T00:00:00Z,13,Dawit Fikadu,Dawit Fikadu,Ethiopian marathon runner,Q115,Q115
+Q28114437,Q6581097,1995-12-29T00:00:00Z,13,Dawit Fikadu,Dawit Fikadu,Ethiopian marathon runner,Q398,Q115
+Q28382512,Q6581097,1994-10-26T00:00:00Z,4,Ahmed Al-Maqabi,Ahmed Al-Maqabi,Bahraini handball player,Q398,
+Q28382518,Q6581097,1988-07-07T00:00:00Z,7,Ali Merza,Ali Merza,Bahraini handball player,Q398,
+Q28382543,Q6581097,1991-02-22T00:00:00Z,6,Hasan Al-Samahiji,Hasan Al-Samahiji,Bahraini handball player,Q398,
+Q28382551,Q6581097,1988-01-14T00:00:00Z,10,Husain Al-Sayyad,Husain Al-Sayyad,Bahraini handball player,Q398,Q398
+Q28382552,Q6581097,1989-03-23T00:00:00Z,6,Jasim Al-Salatna,Jasim Al-Salatna,Bahraini handball player,Q398,
+Q28382565,Q6581097,1992-04-28T00:00:00Z,6,Komail Mahfoodh,Komail Mahfoodh,Bahraini handball player,Q398,
+Q28382566,Q6581097,1989-03-15T00:00:00Z,5,Mahdi Saad,Mahdi Saad,Bahraini handball player,Q398,
+Q28382568,Q6581097,1983-10-04T00:00:00Z,5,Mahmood Abdulqader,Mahmood Abdulqader,Bahraini handball player,Q398,
+Q28382579,Q6581097,1991-01-18T00:00:00Z,6,Ali Abdulla Eid,Ali Eid,Bahraini handball player,Q398,
+Q28382583,Q6581097,1989-08-12T00:00:00Z,5,Mohamed Abdulhusain,Mohamed Abdulhusain,Bahraini handball player,Q398,
+Q28382585,Q6581097,1987-04-17T00:00:00Z,7,Mohamed Merza,Mohamed Merza,Bahraini handball player,Q398,
+Q28382624,Q6581097,1993-07-20T00:00:00Z,6,Mohamed Habib,Mohamed Habib,Bahraini handball player,Q398,
+Q28714876,Q6581097,1993-05-09T00:00:00Z,5,Amine Benaddi,Amine Benaddi,association football player,Q1028,
+Q28714876,Q6581097,1993-05-09T00:00:00Z,5,Amine Benaddi,Amine Benaddi,association football player,Q398,
+Q2871583,Q6581097,1914-01-01T00:00:00Z,2,Salem Allan,Salem Allan,popular Fijiri singer from Bahrain,Q398,
+Q28840354,Q6581097,1966-11-01T00:00:00Z,4,Hamad Bader,Hamad Bader,Bahraini swimmer,Q398,
+Q28861586,Q6581097,1968-01-01T00:00:00Z,4,Esa Fadel,Esa Fadel,Bahraini swimmer,Q398,
+Q2914654,Q6581072,1964-09-07T00:00:00Z,16,Houda Nonoo,Houda Nonoo,Bahraini diplomat,Q398,Q3882
+Q30006145,Q6581097,1960-09-18T00:00:00Z,6,Saad Mubarak Ali,Saad Mubarak Ali,Bahraini athlete,Q398,
+Q30082339,Q6581097,1961-11-04T00:00:00Z,2,Fareed Ramadan,Farid Ramadan,Bahraini writer and film producer,Q398,Q270500
+Q30244251,Q6581097,1990-07-25T00:00:00Z,6,Sadik Mikhou,Sadik Mikhou,Bahraini athletics competitor,Q398,
+Q3031123,Q6581097,1986-12-01T00:00:00Z,11,Tareq Mubarak Taher,Tareq Mubarak Taher,Kenyan-born Bahraini athlete,Q398,Q114
+Q3031123,Q6581097,1984-03-24T00:00:00Z,11,Tareq Mubarak Taher,Tareq Mubarak Taher,Kenyan-born Bahraini athlete,Q398,Q114
+Q3031123,Q6581097,1984-03-24T00:00:00Z,11,Tareq Mubarak Taher,Tareq Mubarak Taher,Kenyan-born Bahraini athlete,Q114,Q114
+Q3031123,Q6581097,1986-12-01T00:00:00Z,11,Tareq Mubarak Taher,Tareq Mubarak Taher,Kenyan-born Bahraini athlete,Q114,Q114
+Q309650,Q6581097,1933-06-03T00:00:00Z,36,Isa bin Salman Al Khalifa,Isa II of Bahrain,Emir of Bahrain (1961-1999),Q398,Q6164132
+Q31076320,Q6581097,1936-01-01T00:00:00Z,3,Abdul Rahman Rafi,Abd al-Rahman Rafi',Bahraini poet,Q398,Q3882
+Q31076320,Q6581097,1936-01-01T00:00:00Z,3,Abdul Rahman Rafi,Abd al-Rahman Rafi',Bahraini poet,Q17061755,Q3882
+Q3138557,Q6581097,1964-01-01T00:00:00Z,9,Nabeel Rajab,Nabeel Rajab,"Bahraini human rights activist, Bahraini opposition leader.",Q398,Q398
+Q315111,Q6581097,1980-07-17T00:00:00Z,30,Rashid Ramzi,Rashid Ramzi,Moroccan-born middle distance runner for Bahrain,Q1028,Q183405
+Q315111,Q6581097,1980-07-17T00:00:00Z,30,Rashid Ramzi,Rashid Ramzi,Moroccan-born middle distance runner for Bahrain,Q398,Q183405
+Q317715,Q6581097,1987-01-01T00:00:00Z,15,Abdullah Omar,Abdullah Omar,Bahraini footballer,Q398,Q3659
+Q3242826,Q6581097,1961-04-05T00:00:00Z,14,Abdulhadi al-Khawaja,Abdulhadi al-Khawaja,Bahraini human rights activist,Q756617,Q398
+Q3242826,Q6581097,1961-04-05T00:00:00Z,14,Abdulhadi al-Khawaja,Abdulhadi al-Khawaja,Bahraini human rights activist,Q398,Q398
+Q32482,Q6581097,1948-01-01T00:00:00Z,9,Hasan Mushaima,Hasan Mushaima,Bahraini politician and Haq Movement secretary-general (born 1948),Q398,Q248302
+Q3249363,Q6581097,1938-03-01T00:00:00Z,6,Abdul Amir al-Jamri,Abdul Amir al-Jamri,Bahraini opposition leader and Shia cleric (1938–2006),Q398,Q3249336
+Q328211,Q6581097,1991-02-12T00:00:00Z,8,Faisal bin Hamad Al Khalifa,Prince Faisal bin Hamad of Bahrain,Bahraini Royal (1991-2006),Q398,Q1771398
+Q33127703,Q6581072,1983-01-01T00:00:00Z,7,Yazz Ahmed,Yazz Ahmed,British-Bahraini trumpet player and composer,Q145,Q398
+Q33127703,Q6581072,1983-01-01T00:00:00Z,7,Yazz Ahmed,Yazz Ahmed,British-Bahraini trumpet player and composer,Q398,Q398
+Q3314599,Q6581072,1988-06-09T00:00:00Z,15,Mimi Belete,Mimi Belete,Bahraini middle- and long-distance runner of Ethiopian descent,Q398,Q3624
+Q3314599,Q6581072,1988-06-09T00:00:00Z,15,Mimi Belete,Mimi Belete,Bahraini middle- and long-distance runner of Ethiopian descent,Q115,Q3624
+Q3375419,Q6581097,1978-02-04T00:00:00Z,12,Mohamed Abdelfatah (wrestler),Mohamed Abdelfatah,wrestler,Q398,Q134514
+Q3375419,Q6581097,1978-02-04T00:00:00Z,12,Mohamed Abdelfatah (wrestler),Mohamed Abdelfatah,wrestler,Q79,Q134514
+Q348608,Q6581097,1985-01-13T00:00:00Z,15,Adam Batirov,Adam Batirov,Russian-Bahraini amateur wrestler,Q398,Q147756
+Q348608,Q6581097,1985-01-13T00:00:00Z,15,Adam Batirov,Adam Batirov,Russian-Bahraini amateur wrestler,Q159,Q147756
+Q35543122,Q6581072,1997-06-27T00:00:00Z,19,Aminat Yusuf Jamal,Aminat Yusuf Jamal,Bahraini athlete,Q1033,Q1033
+Q35543122,Q6581072,1997-06-27T00:00:00Z,19,Aminat Yusuf Jamal,Aminat Yusuf Jamal,Bahraini athlete,Q398,Q1033
+Q35787165,Q6581072,1996-11-27T00:00:00Z,8,Noora Salem Jasim,Noora Salem Jasim,Bahraini athlete,Q1033,Q1033
+Q35787165,Q6581072,1996-11-27T00:00:00Z,8,Noora Salem Jasim,Noora Salem Jasim,Bahraini athlete,Q398,Q1033
+Q35968383,Q6581072,1997-07-12T00:00:00Z,2,Desi Mokonin,Desi Mokonin,Bahraini athlete,Q398,
+Q35973804,Q6581072,1997-12-12T00:00:00Z,5,Bontu Rebitu,Bontu Rebitu,Bahraini athlete,Q398,
+Q3648229,Q6581097,1985-09-23T00:00:00Z,6,C. J. Giles,C.J. Giles,American/Bahraini basketball player,Q398,Q5083
+Q3648229,Q6581097,1985-09-23T00:00:00Z,6,C. J. Giles,C.J. Giles,American/Bahraini basketball player,Q30,Q5083
+Q36697245,Q6581072,1999-12-31T00:00:00Z,34,Winfred Yavi,Winfred Yavi,Bahraini steeplechase runner,Q398,Q473717
+Q36697245,Q6581072,1999-12-31T00:00:00Z,34,Winfred Yavi,Winfred Yavi,Bahraini steeplechase runner,Q114,Q473717
+Q3737725,Q6581072,1948-01-01T00:00:00Z,17,Sabika bint Ibrahim Al Khalifa,Sabika bint Ibrahim Al Khalifa,Bahraini royal,Q398,Q270500
+Q3843442,Q6581097,1980-06-01T00:00:00Z,8,Mahmood Abdulla,Mahmood Abdulla,football player,Q398,Q398
+Q3843442,Q6581097,1987-03-18T00:00:00Z,8,Mahmood Abdulla,Mahmood Abdulla,football player,Q398,Q398
+Q39197762,Q6581097,1984-12-01T00:00:00Z,2,Ali Almossawi,Ali Almossawi,American author,Q398,
+Q4018594,Q6581097,1987-06-16T00:00:00Z,6,Wayne Chism,Wayne Chism,American basketball player,Q30,Q985409
+Q4018594,Q6581097,1987-06-16T00:00:00Z,6,Wayne Chism,Wayne Chism,American basketball player,Q398,Q985409
+Q4115514,Q6581072,1991-01-01T00:00:00Z,12,Ayat Al-Qurmezi,Ayat Al-Qurmezi,Bahrani activist and poet,Q398,Q398
+Q4116064,Q6581097,1975-02-24T00:00:00Z,12,Talal Yousef,Talal Yousef,Bahraini footballer,Q398,Q398
+Q4116996,Q6581097,1997-01-29T00:00:00Z,6,Death of Ali Jawad al-Sheikh,Ali Jawad al-Sheikh,Bahraini uprising death (1997–2011),Q398,Q1416753
+Q4117193,Q6581097,1961-12-17T00:00:00Z,5,Mansoor al-Jamri,Mansoor Al-Jamri,"Bahraini journalist, author, and activist (born 1961)",Q398,Q398
+Q4119948,Q6581097,1980-07-07T00:00:00Z,7,Ebrahim Al-Mishkhas,Ebrahim Al Mishkhas,Bahraini footballer,Q398,Q398
+Q4120076,Q6581097,1954-10-09T00:00:00Z,5,Abdulwahab Hussain,Abdulwahab Hussain,"Bahraini political activist, writer and philosopher (born 1954)",Q398,Q398
+Q4120296,Q6581097,1980-11-05T00:00:00Z,10,Sayed Mahmood Jalal,Sayed Mahmood Jalal,Bahraini footballer,Q398,Q398
+Q41253285,Q6581097,1966-02-06T00:00:00Z,4,Khaled Abdullah Hassan,Khaled Abdullah Hassan,Bahraini athlete,Q398,
+Q41433667,Q6581097,1976-10-16T00:00:00Z,4,Fawaz Ismail Johar,Fawaz Ismail Johar,Bahraini athletics competitor,Q398,
+Q4164475,Q6581097,1980-12-12T00:00:00Z,10,Abdulla Al-Marzooqi,Abdulla Al Marzooqi,Bahraini association footballer,Q398,Q398
+Q4164483,Q6581097,1980-03-24T00:00:00Z,10,Rashid Al-Dosari,Rashid Al-Dosari,Bahraini footballer,Q398,Q398
+Q4164632,Q6581097,1977-07-11T00:00:00Z,17,Salman Isa,Salman Isa,Bahraini footballer,Q398,Q398
+Q4164632,Q6581097,1977-07-12T00:00:00Z,17,Salman Isa,Salman Isa,Bahraini footballer,Q398,Q398
+Q4166605,Q6581097,1965-10-30T00:00:00Z,6,Ali Salman,Ali Salman,Bahraini Islamist,Q398,Q2282197
+Q42304412,Q6581097,1974-10-24T00:00:00Z,4,Mohamed Saleh Hadj Haidara,Mohamed Saleh Hadj Haidara,Bahraini athletics competitor,Q398,
+Q42822269,Q6581072,1954-10-25T00:00:00Z,4,Faeqa bint Saeed Al Saleh,Faeqa bint Saeed Al Saleh,Bahraini politician,Q398,Q3882
+Q43252897,Q6581072,2000-01-01T00:00:00Z,3,Sameera bint Ibrahim Rajab,Sameera bint Ibrahim Rajab,politician,Q398,Q3882
+Q43384564,Q6581097,1965-04-19T00:00:00Z,4,Abdullah Al-Dosari (runner),Abdullah Al-Dosari,Bahraini athlete,Q398,
+Q433878,Q6581072,1977-11-08T00:00:00Z,13,Nadia Ejjafini,Nadia Ejjafini,Moroccan-born long distance runner who has competed for Bahrain and Italy,Q38,Q3551
+Q433878,Q6581072,1977-11-08T00:00:00Z,13,Nadia Ejjafini,Nadia Ejjafini,Moroccan-born long distance runner who has competed for Bahrain and Italy,Q1028,Q3551
+Q433878,Q6581072,1977-11-08T00:00:00Z,13,Nadia Ejjafini,Nadia Ejjafini,Moroccan-born long distance runner who has competed for Bahrain and Italy,Q398,Q3551
+Q438721,Q6581097,1983-03-29T00:00:00Z,25,Yusuf Saad Kamel,Yusuf Saad Kamel,Bahraini athletics competitor (born 1983),Q398,Q998813
+Q438721,Q6581097,1983-03-29T00:00:00Z,25,Yusuf Saad Kamel,Yusuf Saad Kamel,Bahraini athletics competitor (born 1983),Q114,Q998813
+Q443605,Q6581072,1991-05-08T00:00:00Z,31,Kalkidan Gezahegne,Kalkidan Gezahegne,Ethiopian distance runner,Q115,Q3624
+Q443605,Q6581072,1991-05-08T00:00:00Z,31,Kalkidan Gezahegne,Kalkidan Gezahegne,Ethiopian distance runner,Q398,Q3624
+Q44744301,Q6581072,1962-01-01T00:00:00Z,3,Fatima al-Taytun,Fatima al-Taytun,Bahraini Poet,Q398,
+Q464095,Q6581097,1984-11-22T00:00:00Z,13,Mahmood Abdulrahman,Mahmood Abdulrahman,Bahraini association football player,Q398,Q270500
+Q4663716,Q6581097,1983-06-13T00:00:00Z,10,Abbas Ahmed Khamis,Abbas Ahmed Khamis,Bahraini footballer,Q398,Q398
+Q4663735,Q6581097,1987-05-11T00:00:00Z,8,Abbas Ayyad,Abbas Ayyad,Bahraini footballer,Q398,Q398
+Q466453,Q6581072,1982-09-06T00:00:00Z,13,Ruqaya Al-Ghasra,Ruqaya Al-Ghasra,Bahraini sprinter,Q398,
+Q4665643,Q6581097,1966-01-01T00:00:00Z,2,Abdulrahman Khaled,Abdul Rahman Khalid,"Modern pentathlete, fencer",Q398,
+Q4665839,Q6581097,1945-01-01T00:00:00Z,3,Abdulhadi Khalaf,Abdulhadi Khalaf,Bahraini academic and activist,Q398,
+Q4665842,Q6581097,1944-08-02T00:00:00Z,2,Abdulhussain bin Ali Mirza,Abdulhussain bin Ali Mirza,Bahraini statesman,Q398,Q3882
+Q4665847,Q6581097,1962-01-15T00:00:00Z,7,Abduljalil al-Singace,Abduljalil al-Singace,Bahraini activist,Q398,Q398
+Q4665878,Q6581097,1985-06-03T00:00:00Z,7,Abdulla Al-Dakeel,Abdulla Al-Dakeel,Bahraini footballer,Q398,Q270500
+Q4666100,Q6581097,1975-06-30T00:00:00Z,6,Abdullah bin Hamad bin Isa Al Khalifa,Prince Abdullah bin Hamad of Bahrain,Bahraini royal (born 1975),Q398,Q1771398
+Q4666152,Q6581097,1954-04-15T00:00:00Z,12,Abdullatif bin Rashid Al Zayani,Abdullatif bin Rashid Al Zayani,Bahraini engineer and retired lieutenant general (born 1954),Q398,Q270500
+Q4666176,Q6581097,1990-03-31T00:00:00Z,4,Abdulrahim Abdulhameed,Abdulrahim Abdulhameed,Taekwondo practitioner,Q398,
+Q4666181,Q6581097,1980-05-13T00:00:00Z,7,Abdulrahman Abdulkarim,Abdulrahman Abdulkarim,Bahraini footballer,Q398,Q398
+Q4666191,Q6581097,1944-07-18T00:00:00Z,2,Abdulrahman Mohammed Jamsheer,Abdulrahman Mohammed Jamsheer,Bahraini businessman and politician (1944–2024),Q398,Q270500
+Q4666215,Q6581097,1989-07-21T00:00:00Z,13,Abdulwahab Al-Malood,Abdulwahab Al Malood,Bahraini footballer,Q398,Q270500
+Q4666215,Q6581097,1990-06-07T00:00:00Z,13,Abdulwahab Al-Malood,Abdulwahab Al Malood,Bahraini footballer,Q398,Q270500
+Q4666218,Q6581097,1987-04-13T00:00:00Z,13,Abdulwahab Al-Safi,Abdulwahab Al Safi,Bahraini footballer,Q398,Q3882
+Q4666218,Q6581097,1984-06-04T00:00:00Z,13,Abdulwahab Al-Safi,Abdulwahab Al Safi,Bahraini footballer,Q398,Q3882
+Q4681531,Q6581097,1985-09-27T00:00:00Z,8,Adel Abbas,Adel Abbas,footballer,Q398,
+Q4681582,Q6581097,1960-01-01T00:00:00Z,2,Adel Mouwda,Adel Mouwda,Bahraini politician,Q398,Q270500
+Q4695239,Q6581097,1938-01-01T00:00:00Z,2,Ahmad Al-Thawadi,Ahmad Al-Thawadi,Bahraini politician,Q398,
+Q4695719,Q6581097,1966-01-01T00:00:00Z,2,Ahmed Al-Doseri,Ahmed Al-Doseri,"Modern pentathlete, fencer",Q398,
+Q4695738,Q6581097,1978-02-01T00:00:00Z,4,Ahmed Al Hujairi,Ahmed Al Hujairi,Bahraini footballer,Q398,Q398
+Q4695835,Q6581097,1961-09-18T00:00:00Z,11,Ahmed Hamada,Ahmed Hamada Jassim,Bahraini hurdler,Q398,
+Q4695850,Q6581097,1980-03-29T00:00:00Z,3,Ahmed Hassan Taleb,Ahmed Hassan Taleb,footballer,Q398,
+Q4695936,Q6581097,1988-12-06T00:00:00Z,5,Ahmed Al Khattal,Ahmed Mubarak Al Khattal,footballer,Q398,Q398
+Q4695936,Q6581097,1988-10-06T00:00:00Z,5,Ahmed Al Khattal,Ahmed Mubarak Al Khattal,footballer,Q398,Q398
+Q4695947,Q6581097,1982-12-13T00:00:00Z,6,Ahmed Mushaima,Ahmed Mushaima,Bahraini footballer,Q398,Q398
+Q4705095,Q6581097,1981-07-22T00:00:00Z,6,Ala Ghawas,Ala Ghawas,Bahraini singer,Q398,
+Q4716407,Q6581097,1971-01-01T00:00:00Z,2,Alessandro Raho,Alessandro Raho,British artist (born 1971),Q398,Q2467
+Q4716407,Q6581097,1971-01-01T00:00:00Z,2,Alessandro Raho,Alessandro Raho,British artist (born 1971),Q145,Q2467
+Q472062,Q6581097,1981-12-31T00:00:00Z,12,Hasan Mahboob,Hasan Mahboob,Kenyan long-distance runner competing for Bahrain,Q398,Q1323405
+Q4724519,Q6581097,1977-12-26T00:00:00Z,6,Ali Aamer,Ali Aamer,football player,Q398,Q398
+Q4724519,Q6581097,1979-12-26T00:00:00Z,6,Ali Aamer,Ali Aamer,football player,Q398,Q398
+Q4724573,Q6581097,1962-01-01T00:00:00Z,2,Ali Ahmed Abdulla,Ali Ahmed Abdulla,Member of Council of Representatives of Bahrain,Q398,
+Q4724635,Q6581097,1948-01-01T00:00:00Z,2,Ali Al Shargawi,Ali al-Sharqawi,Bahraini poet and playwright,Q398,Q3882
+Q4724635,Q6581097,1948-01-01T00:00:00Z,2,Ali Al Shargawi,Ali al-Sharqawi,Bahraini poet and playwright,Q17061755,Q3882
+Q4724637,Q6581097,1972-08-16T00:00:00Z,8,Ali Hassan Al-Thani,Ali Al Thani,footballer,Q398,Q398
+Q4724702,Q6581097,1960-01-01T00:00:00Z,5,Ali Bahar,Ali Bahar,"Bahraini singer, guitarist, and organ player",Q398,Q270500
+Q4725168,Q6581097,1979-09-24T00:00:00Z,6,Ali Saeed Abdulla,Ali Saeed Abdulla,Bahraini footballer,Q398,
+Q47465748,Q6581097,1969-01-01T00:00:00Z,4,Youssef Ali Nesaif Boukhamas,Youssef Ali Nesaif Boukhamas,Bahraini athlete,Q398,
+Q47487657,Q6581097,1967-06-29T00:00:00Z,4,Rashid Riyadh Al-Ameeri,Rashid Riyadh Al-Ameeri,Bahraini athletics competitor,Q398,
+Q47495164,Q6581097,1972-03-11T00:00:00Z,3,Mohammed bin Khalifa bin Ahmed,Mohammed bin Khalifa bin Ahmed,politician,Q398,Q3882
+Q47502203,Q6581072,1979-11-24T00:00:00Z,3,Nada Al Shaibani,Nada Al Shaibani,Bahraini broadcaster,Q398,Q1771398
+Q47544125,Q6581097,1991-06-25T00:00:00Z,8,Mahdi Abduljabbar,Mahdi Abduljabbar,association football player,Q398,Q3882
+Q4868006,Q6581097,1960-12-13T00:00:00Z,7,Bassam Al-Thawadi,Bassam Al-Thawadi,filmmaker,Q398,Q3882
+Q509763,Q6581097,1976-10-13T00:00:00Z,27,Nawaf Shukralla,Nawaf Shukralla,Bahraini football referee,Q398,Q3882
+Q513880,Q6581072,1990-05-21T00:00:00Z,17,Shitaye Eshete,Shitaye Eshete,Ethiopian-born long-distance runner for Bahrain,Q398,
+Q5242606,Q6581097,1986-07-09T00:00:00Z,7,Dawood Saad,Dawood Saad,Bahraini footballer,Q398,Q270500
+Q5252727,Q6581097,1989-04-18T00:00:00Z,7,Dejenee Regassa,Dejenee Regassa Mootumaa,Ethiopian-born long-distance runner for Bahrain,Q398,Q115
+Q527718,Q6581097,1986-09-11T00:00:00Z,21,Ismail Abdullatif,Ismail Abdul-Latif,Bahraini footballer,Q398,Q270500
+Q5302279,Q6581072,1991-04-01T00:00:00Z,14,Dounia Batma,Dounia Batma,Moroccan singer,Q1028,Q7903
+Q5302279,Q6581072,1991-04-01T00:00:00Z,14,Dounia Batma,Dounia Batma,Moroccan singer,Q398,Q7903
+Q5310131,Q6581097,1983-01-18T00:00:00Z,8,Duaij Naser Abdulla,Duaij Naser,association football player,Q398,Q270500
+Q5331960,Q6581097,1908-03-08T00:00:00Z,4,Ebrahim Al-Arrayedh,Ibrahim al-Urayyid,Bahraini poet (1908-2002),Q17061755,Q1156
+Q5331960,Q6581097,1908-01-01T00:00:00Z,4,Ebrahim Al-Arrayedh,Ibrahim al-Urayyid,Bahraini poet (1908-2002),Q398,Q1156
+Q5331960,Q6581097,1908-01-01T00:00:00Z,4,Ebrahim Al-Arrayedh,Ibrahim al-Urayyid,Bahraini poet (1908-2002),Q17061755,Q1156
+Q5331960,Q6581097,1908-03-08T00:00:00Z,4,Ebrahim Al-Arrayedh,Ibrahim al-Urayyid,Bahraini poet (1908-2002),Q398,Q1156
+Q5331971,Q6581097,1960-01-01T00:00:00Z,7,Ebrahim Daoud Nonoo,Ebrahim Daoud Nonoo,Bahraini politician,Q398,
+Q5429567,Q6581097,1964-04-26T00:00:00Z,2,Fahmi al-Jowder,Fahmi al-Jowder,Bahraini politician,Q398,
+Q5431031,Q6581097,1968-10-08T00:00:00Z,7,Faisal Abdulaziz,Faisal Abdulaziz,footballer (1968-2021),Q398,Q398
+Q5437438,Q6581072,1988-01-01T00:00:00Z,7,Fatema Hameed Gerashi,Fatema Hameed Gerashi,swimmer,Q398,
+Q5437823,Q6581072,1975-10-15T00:00:00Z,6,Fatima Abdul Raheem,Fatima Abdul raheem,Bahraini actress,Q398,Q270500
+Q54862257,Q6581097,1946-01-01T00:00:00Z,2,Khalifa al-Arifi,Khalifa al-Arifi,actor,Q398,
+Q54862494,Q6581097,1922-01-01T00:00:00Z,3,Abdullah bin Khalid bin Ali Al Khalifa,Abdullah bin Khalid bin Ali Al Khalifa,"Bahraini writer, historian, poet, and politician",Q398,Q270500
+Q5533851,Q6581072,1991-01-29T00:00:00Z,8,Genzeb Shumi,Genzeb Shumi,Ethiopian-born middle distance runner for Bahrain,Q398,Q115
+Q5556051,Q6581097,1977-05-19T00:00:00Z,6,Ghazi Al Kuwari,Ghazi Al Kuwari,footballer,Q398,Q398
+Q55719860,Q6581097,1997-10-06T00:00:00Z,10,Mohamed Al-Hardan,Mohammed Al-Hardan,association football player,Q398,Q398
+Q56255031,Q6581072,1979-10-22T00:00:00Z,5,Haifa Hussein,Haifa Hussein,actress,Q398,Q270500
+Q56283918,Q6581072,1993-05-23T00:00:00Z,10,Eunice Chumba,Eunice Chumba,Bahraini female long-distance runner,Q114,Q114
+Q56283918,Q6581072,1993-05-23T00:00:00Z,10,Eunice Chumba,Eunice Chumba,Bahraini female long-distance runner,Q398,Q114
+Q56378967,Q6581097,1991-05-26T00:00:00Z,6,Mohammed Tiouali,Mohammed Tiouali,Bahraini long-distance runner,Q1028,Q1028
+Q56378967,Q6581097,1991-05-26T00:00:00Z,6,Mohammed Tiouali,Mohammed Tiouali,Bahraini long-distance runner,Q398,Q1028
+Q5640980,Q6581072,1971-01-01T00:00:00Z,3,Hala bint D'aij Al Khalifa,Princess Hala bint D'aij Al Khalifa,Bahraini Royal,Q398,Q398
+Q5643949,Q6581097,1984-04-22T00:00:00Z,8,Hamad Rakea Al-Anezi,Hamad Rakea Al Anezi,Bahraini footballer,Q398,Q398
+Q5644438,Q6581097,1969-10-20T00:00:00Z,5,Hamed Al-Jazaf,Hamed Al-Jazaf,Bahraini footballer,Q398,Q398
+Q56513430,Q6581097,1985-08-11T00:00:00Z,10,Sayed Shubbar Alawi,Sayed Shubbar Alawi,association football player,Q398,Q3882
+Q5679558,Q6581097,1984-09-26T00:00:00Z,5,Hassan Al Mosawi,Hassan Al Mosawi,footballer,Q398,
+Q57352,Q6581097,1950-01-28T00:00:00Z,78,Hamad bin Isa Al Khalifa,Hamad II of Bahrain,King of Bahrain,Q398,Q1771398
+Q57352,Q6581097,1950-01-28T00:00:00Z,78,Hamad bin Isa Al Khalifa,Hamad II of Bahrain,King of Bahrain,Q398,Q398
+Q5746145,Q6581072,1927-01-01T00:00:00Z,6,Hessa bint Salman Al Khalifa,Hessa bint Salman Al Khalifa,Bahraini Queen consort,Q398,
+Q5765817,Q6581072,1979-05-05T00:00:00Z,7,Hind (singer),Hind,Bahraini singer,Q398,Q398
+Q5772524,Q6581097,1976-12-30T00:00:00Z,2,Hisham Abdulqader Abdulla,Hisham Abdulqader Abdulla,volleyball player,Q398,Q270500
+Q57726,Q6581097,1935-11-24T00:00:00Z,46,Khalifa bin Salman Al Khalifa,Khalifa bin Salman Al Khalifa,Prime Minister of Bahrain (1970-2020),Q398,Q6164132
+Q58140,Q6581097,1969-10-21T00:00:00Z,39,Salman bin Hamad Al Khalifa,"Salman bin Hamad, Crown Prince of Bahrain",Prime Minister of the Kingdom of Bahrain,Q398,Q1771398
+Q58171,Q6581097,1960-04-24T00:00:00Z,15,Khalid bin Ahmed Al Khalifa,Khalid bin Ahmed Al Khalifa,Bahraini politician,Q398,Q3882
+Q5865,Q6581072,1984-09-16T00:00:00Z,31,Maryam Yusuf Jamal,Maryam Yusuf Jamal,Bahraini track and field athlete,Q398,Q646859
+Q5941122,Q6581097,1958-01-01T00:00:00Z,8,Hamood Sultan,Humood Sultan,Bahraini footballer,Q398,Q270500
+Q59560311,Q6581097,2000-08-26T00:00:00Z,7,Musa Isah,Musa Isah,Bahraini athletics competitor,Q398,
+Q600443,Q6581097,1980-11-04T00:00:00Z,14,Mohamed Salmeen,Mohamed Salmeen,Bahraini footballer,Q398,Q270500
+Q60191533,Q6581072,1961-01-01T00:00:00Z,8,Fawzia Zainal,Fawzia Zainal,political and journalist from Bahrein,Q398,
+Q60464625,Q6581097,1994-04-14T00:00:00Z,9,Sayed Baqer,Sayed Baqer,Bahraini footballer,Q398,Q3882
+Q60474701,Q6581097,1994-08-07T00:00:00Z,10,Sayed Redha Isa,Sayed Redha Isa,Bahraini association football player,Q398,Q3882
+Q60474751,Q6581097,1991-02-21T00:00:00Z,9,Ahmed Merza,Ahmed Merza,association football player,Q398,Q3882
+Q60474751,Q6581097,1991-02-24T00:00:00Z,9,Ahmed Merza,Ahmed Merza,association football player,Q398,Q3882
+Q60474804,Q6581097,1997-09-29T00:00:00Z,8,Hamad Al-Shamsan,Hamad Al-Shamsan,Bahraini association football player,Q398,Q3882
+Q60476067,Q6581097,1992-10-08T00:00:00Z,9,Ahmed Juma,Ahmed Juma,Bahraini association football player,Q398,Q3882
+Q60476080,Q6581097,1998-02-12T00:00:00Z,17,Mohamed Marhoon,Mohamed Marhoon,footballer,Q398,Q248302
+Q60494801,Q6581097,1996-02-01T00:00:00Z,10,Jasim Al-Shaikh,Jasim Al-Shaikh,association football player,Q398,Q3882
+Q60565413,Q6581097,1973-01-01T00:00:00Z,2,Mamdouh Abbas Al Saleh,Mamdouh Abbas Al Saleh,Bahraini politician,Q398,Q3882
+Q60565427,Q6581072,1969-01-01T00:00:00Z,2,Masouma Abdelrahim,Masouma Abdelrahim,Bahraini politician (born 1932),Q398,
+Q60565489,Q6581097,1977-01-01T00:00:00Z,3,Fadhel Al Sawad,Fadhel Al Sawad,Bahraini politician,Q398,
+Q60565494,Q6581097,1968-01-01T00:00:00Z,2,Ali Ishaqi,Ali Ishaqi,Bahraini politician,Q398,
+Q60565496,Q6581097,1974-01-01T00:00:00Z,3,Hamad Al Kooheji,Hamad Al Kooheji,"Bahraini politician, merchant, and social activist",Q398,
+Q60565504,Q6581097,1987-01-01T00:00:00Z,4,Mohammed Isa Al Abbasi,Mohammed Isa Al Abbasi,Bahraini politician and journalist,Q398,
+Q60565509,Q6581097,1974-03-31T00:00:00Z,3,Hisham Al Asheeri,Hisham Al Asheeri,Bahraini politician,Q398,Q4164843
+Q60576776,Q6581072,1994-08-16T00:00:00Z,5,Yara Salman,Yara Salman,"entrepreneur, businesswomen and socialite",Q398,Q398
+Q60614359,Q6581097,1993-11-07T00:00:00Z,5,Hakeem al-Araibi,Hakeem al-Araibi,Bahraini footballer and dissident,Q408,Q398
+Q60614359,Q6581097,1993-11-07T00:00:00Z,5,Hakeem al-Araibi,Hakeem al-Araibi,Bahraini footballer and dissident,Q398,Q398
+Q60914270,Q6581072,1973-01-01T00:00:00Z,2,Fatima Abbas,Fatima Abbas,Bahraini politician,Q398,
+Q60914396,Q6581097,1960-01-01T00:00:00Z,2,Abdul Nabi Salman,Abdul Nabi Salman,Bahraini politician,Q398,Q2351767
+Q60914520,Q6581097,1980-01-01T00:00:00Z,2,Mahmood Al Bahrani,Mahmood Al Bahrani,Bahraini politician and businessman,Q398,
+Q60914546,Q6581097,1977-01-01T00:00:00Z,3,Ahmed Mohammed Al Amer,Ahmed Mohammed Al Amer,Bahraini politician,Q398,
+Q61065492,Q6581097,1999-01-11T00:00:00Z,3,Ahmed Husain,Ahmed Husain,Bahraini handball player,Q398,
+Q61065498,Q6581097,1996-02-29T00:00:00Z,5,Hasan Madan,Hasan Madan,Bahraini handball player,Q398,
+Q61065500,Q6581097,1998-10-06T00:00:00Z,4,Abdulla Yaseen,Abdulla Yaseen,Bahraini handball player,Q398,
+Q6126808,Q6581072,1965-01-01T00:00:00Z,6,Jalila al-Salman,Jalila al-Salman,Human rights defender from Bahrain,Q398,Q398
+Q6127595,Q6581097,1988-11-07T00:00:00Z,13,Jamal Rashid,Jamal Rashid,footballer,Q398,Q270500
+Q61418102,Q6581097,1998-01-31T00:00:00Z,6,Ahmed Jalal (handballer),Ahmed Jalal Fadhul,Bahraini handball player,Q398,
+Q6164174,Q6581097,1957-01-01T00:00:00Z,3,Jassim Al Saeedi,His Eminence Sheikh Dr. Jasim Ahmed Al-Saidi,Bahraini politician,Q398,
+Q632643,Q6581072,1980-01-01T00:00:00Z,5,Meriam bint Abdullah Al Khalifa,Meriam Al Khalifa,Bahraini royal of the House of Al-Khalifa,Q398,Q3882
+Q63391588,Q6581097,2001-01-01T00:00:00Z,5,Abdelrahman Mahmoud,Abdelrahman Mahmoud,Bahraini athletics competitor,Q398,
+Q6355372,Q6581097,1970-01-01T00:00:00Z,3,Kamal Ahmed (politician),Kamal Ahmed,Minister of State for Cabinet Affairs of Bahrain,Q398,
+Q6369212,Q6581072,1988-02-18T00:00:00Z,9,Kareema Saleh Jasim,Kareema Saleh Jasim,Bahraini long-distance runner,Q398,Q114
+Q6370583,Q6581097,1962-01-01T00:00:00Z,7,Karim Fakhrawi,Karim Fakhrawi,Bahraini publisher,Q398,Q398
+Q6399334,Q6581097,1958-09-23T00:00:00Z,3,Khaled El Sheikh,Khaled El Sheikh,Bahraini singer,Q398,
+Q6399448,Q6581097,1962-01-07T00:00:00Z,3,Khalid Abdul Rahim,Khalid Abdul Rahim,Bahraini business magnate,Q398,
+Q6399484,Q6581097,1996-09-06T00:00:00Z,5,Khalid Baba,Khalid Baba,Bahraini swimmer,Q398,Q3882
+Q6399634,Q6581097,1936-01-01T00:00:00Z,2,Khalifa Ahmed Al Bin Ali,Khalifa Ahmed Al Bin Ali,Bahraini lawyer,Q398,Q3360322
+Q6399646,Q6581097,1966-04-21T00:00:00Z,2,Khalifa Hamad Khamis,Khalifa Khamis,fencer,Q398,
+Q6399738,Q6581097,1967-07-28T00:00:00Z,4,Khalil al-Marzooq,Khalil al-Marzooq,Bahrain politician,Q398,Q3882
+Q6399961,Q6581097,1966-10-20T00:00:00Z,5,Khamis Eid,Khamis Eid Rafe Thani,footballer,Q398,Q398
+Q6481690,Q6581072,1977-06-26T00:00:00Z,6,Lamees Dhaif,Lamees Dhaif,"Bahraini journalist, active in the Bahraini resistance campaign",Q398,Q398
+Q6495425,Q6581072,1956-01-01T00:00:00Z,6,Lateefa Al Gaood,Lateefa Al Gaood,Member of the Council of Representatives of Bahrain,Q398,Q1771398
+Q6505594,Q6581072,1945-01-01T00:00:00Z,2,Layla Fakhro,Layla Fakhro,Bahraini activist,Q398,
+Q6535108,Q6581072,1987-06-26T00:00:00Z,22,Maryam al-Khawaja,Maryam al-Khawaja,Bahraini human rights activist,Q398,Q3766
+Q6558826,Q6581072,1987-02-17T00:00:00Z,11,Lishan Dula,Lishan Dula,Bahraini-Ethiopian runner,Q398,
+Q657337,Q6581097,1975-08-05T00:00:00Z,6,Al Mustafa Riyadh,Al Mustafa Riyadh,Bahraini marathon runner,Q398,Q1028
+Q66730924,Q6581097,1936-11-25T00:00:00Z,4,Jassim Al Muawda,Jassim Al Muawda,Bahraini association football player (1936-2017),Q398,Q270500
+Q6702964,Q6581072,1971-12-25T00:00:00Z,6,Lulwa Al Awadhi,Lulwa Al Awadhi,Bahraini lawyer and activist,Q398,Q398
+Q6733663,Q6581097,1931-12-01T00:00:00Z,3,Mahdi Al Tajir,Mahdi Al Tajir,An Emirati politician and businessman of Bahraini origin residing in Britain,Q398,Q398
+Q6734264,Q6581097,1987-05-08T00:00:00Z,9,Mahmood Al-Ajmi,Mahmood Al Ajmi,Bahraini footballer,Q398,Q398
+Q6761787,Q6581072,1984-03-17T00:00:00Z,7,Mariam Mohamed Hadi Al Hilli,Mariam Mohamed Hadi Al Hilli,Bahraini sprinter,Q398,
+Q68167940,Q6581097,1930-01-01T00:00:00Z,2,Ahmed Salman Kamal,Ahmed Salman Kamal,Bahraini politician and journalist,Q398,Q3882
+Q68169261,Q6581097,1953-01-01T00:00:00Z,3,Baqer Al-Najjar,Baqer Al-Najjar,Bahraini writer,Q398,
+Q6819952,Q6581097,1938-01-01T00:00:00Z,2,Isa bin Rashid Al Khalifa,Isa bin Rashid Al Khalifa,Bahraini poet,Q398,Q270500
+Q6829735,Q6581097,1948-01-01T00:00:00Z,5,Qassim Haddad,Kacem Haddad,Bahraini poet,Q398,Q270500
+Q6853808,Q6581097,1964-11-02T00:00:00Z,2,Mohammed Khalid,Mohammed Khalid,Bahraini politician,Q398,
+Q6891270,Q6581097,1979-11-13T00:00:00Z,5,Mohamed Jaffar,Mohamed Jaffar,footballer,Q398,
+Q6891280,Q6581097,1973-12-13T00:00:00Z,7,Mohamed Juma (footballer),Mohamed Juma,footballer,Q398,
+Q6893110,Q6581097,1975-10-02T00:00:00Z,3,Mohammed Haddad,Mohammed Haddad,Bahraini musician,Q398,
+Q6893124,Q6581097,1941-01-01T00:00:00Z,2,Mohammed Hasan Kamaluddin,Mohammed Hasan Kamaluddin,Bahraini politician and writer,Q398,Q3882
+Q6893152,Q6581097,1939-01-01T00:00:00Z,2,Mohammed Jaber Al-Ansari,Mohammed Jaber Al-Ansari,Bahraini philosopher,Q398,
+Q6893381,Q6581097,1989-10-13T00:00:00Z,7,Mohammed Tayeb Al Alawi,Mohammed Tayeb Al Alawi,Bahraini footballer,Q398,Q3882
+Q6893495,Q6581097,1940-01-01T00:00:00Z,2,Mohammed bin Salman Al Khalifa,Mohammed ibn Salman Al Khalifa,son of Salman bin Hamad Al Khalifa,Q398,
+Q6956811,Q6581097,1950-10-25T00:00:00Z,2,Nabeel bin Yaqub Al-Hamar,Nabeel bin Yaqub Al-Hamar,Bahraini politician,Q398,
+Q6967647,Q6581097,1987-05-08T00:00:00Z,11,Nasser bin Hamad Al Khalifa,Prince Nasser bin Hamad of Bahrain,Member of the Bahraini royal family and head of several government organizations,Q398,Q1771398
+Q6983237,Q6581097,1950-01-01T00:00:00Z,3,Nazar Al Baharna,Nazar Al Baharna,Bahraini academic and politician,Q398,
+Q7089724,Q6581097,1990-09-23T00:00:00Z,4,Omar Jasim,Omar Jasim,Bahraini swimmer,Q398,
+Q7294783,Q6581097,1979-01-18T00:00:00Z,4,Rashad Jamal Salem,Rashad Jamal Salem,Bahraini footballer,Q398,Q398
+Q7294915,Q6581097,1979-11-09T00:00:00Z,3,Rashid Mohamed,Rashid Mohamed,Bahraini distance runner,Q398,
+Q7294933,Q6581097,1952-01-01T00:00:00Z,4,Rashid bin Khalifa Al Khalifa,Prince Rashid bin Khalifa Al Khalifa,Bahraini royal; painter,Q398,Q3882
+Q7395543,Q6581097,1991-04-28T00:00:00Z,3,Saad Al Amer,Saad Al Amer,association football player,Q398,
+Q7395543,Q6581097,1989-02-10T00:00:00Z,3,Saad Al Amer,Saad Al Amer,association football player,Q398,
+Q739618,Q6581097,1945-01-22T00:00:00Z,6,Ibrahim Youssef Al-Doy,Ibrahim Youssef Al-Doy,Bahraini football referee,Q398,Q270500
+Q7398255,Q6581097,1954-01-01T00:00:00Z,4,Saeed al-Shehabi,Saeed al-Shehabi,Bahraini activist,Q398,Q398
+Q7403881,Q6581097,1983-02-06T00:00:00Z,10,Saleh Abdulhameed,Saleh Abdulhameed,Bahraini football defender,Q398,Q398
+Q7403881,Q6581097,1982-08-04T00:00:00Z,10,Saleh Abdulhameed,Saleh Abdulhameed,Bahraini football defender,Q398,Q398
+Q7403907,Q6581097,1981-01-01T00:00:00Z,8,Saleh Farhan,Saleh Farhan,Bahraini footballer,Q398,Q398
+Q7403908,Q6581097,1963-01-10T00:00:00Z,2,Saleh Sultan Faraj,Saleh Sultan Faraj,Bahraini modern pentathlete and fencer,Q398,
+Q7405402,Q6581097,1965-11-02T00:00:00Z,23,Salman bin Ibrahim Al Khalifa,Salman Bin Ibrahim Al-Khalifa,President of the Asian Football Federation,Q398,Q1771398
+Q7405404,Q6581097,1979-07-24T00:00:00Z,4,Salman Ebrahim Mohamed Ali Al Khalifa,Salman Ebrahim,Guantanamo detainee,Q398,Q1771398
+Q7405423,Q6581097,1968-05-19T00:00:00Z,8,Salman Sharida,Salman Sharida,Bahraini footballer and manager,Q398,Q398
+Q7405425,Q6581097,1979-10-02T00:00:00Z,3,Salman Zaman,Salman Zaman,Olympic rifle shooter,Q398,Q270500
+Q7409259,Q6581072,1990-02-21T00:00:00Z,4,Sameera Al-Bitar,Sameera Al-Bitar,swimmer,Q398,Q3805
+Q7421547,Q6581072,1995-08-03T00:00:00Z,6,Sara Al-Flaij,Sara Al-Flaij,Bahraini swimmer,Q398,Q30
+Q7428681,Q6581072,1956-07-15T00:00:00Z,3,Sawsan al-Sha'er,Sawsan Al Sha'er,Bahraini journalist,Q398,
+Q7429184,Q6581097,1992-07-17T00:00:00Z,15,Sayed Dhiya Saeed,Sayed Saeed,Bahraini footballer,Q398,Q270500
+Q74534480,Q6581097,2002-11-20T00:00:00Z,5,Abdulla Ahmed,Abdulla Ahmed Ali Yusuf,Bahraini swimmer,Q398,Q3882
+Q7462455,Q6581072,1989-08-19T00:00:00Z,6,Shaila Sabt,Shaila Sabt,Bahraini model,Q398,Q5864116
+Q746971,Q6581097,1944-12-16T00:00:00Z,6,Jassim Mandi,Jassim Mandi,Bahraini football referee,Q398,Q3882
+Q76436350,Q6581097,1956-01-01T00:00:00Z,3,Essa al-Busmait,Essa al-Busmait,Bahraini sailor,Q398,
+Q7685798,Q6581097,1975-01-01T00:00:00Z,3,Tareq Al-Farsani,Tareq Al-Farsani,Bahraini bodybuilder,Q398,Q3882
+Q7695237,Q6581072,1991-08-20T00:00:00Z,10,Tejitu Daba,Tejitu Daba,Bahraini long-distance runner of Ethiopian descent,Q398,Q115
+Q7695237,Q6581072,1991-08-20T00:00:00Z,10,Tejitu Daba,Tejitu Daba,Bahraini long-distance runner of Ethiopian descent,Q115,Q115
+Q7938195,Q6581097,1984-10-06T00:00:00Z,7,Vladan Vukosavljević (basketball),Vladan Vukosavljević,Serbian basketball player,Q398,Q390358
+Q7938195,Q6581097,1984-10-06T00:00:00Z,7,Vladan Vukosavljević (basketball),Vladan Vukosavljević,Serbian basketball player,Q403,Q390358
+Q7961681,Q6581097,1991-02-03T00:00:00Z,17,Waleed Al Hayam,Waleed Al Hayam,Bahraini footballer,Q398,Q270500
+Q8064841,Q6581072,1983-01-01T00:00:00Z,14,Zainab al-Khawaja,Zainab al-Khawaja,Bahraini activist,Q398,
+Q8065036,Q6581097,1971-01-01T00:00:00Z,6,Zakariya Rashid Hassan al-Ashiri,Zakariya Rashid Hassan al-Ashiri,Bahraini journalist,Q398,Q270500
+Q80830629,Q6581097,1997-03-17T00:00:00Z,3,Abdulaziz Khalid,Abdulaziz Khalid,Bahraini football player,Q398,
+Q815255,Q6581097,1988-10-17T00:00:00Z,16,Belal Mansoor Ali,Belal Mansoor Ali,Bahraini athletics competitor (born 1988),Q398,Q114
+Q85432012,Q6581097,1967-04-18T00:00:00Z,3,Khaled Al-Sada,Khaled Al-Sada,Bahraini sailor,Q398,
+Q85436781,Q6581097,1957-02-07T00:00:00Z,3,Mohamed Al-Sada,Mohamed Al-Sada,Bahraini sailor,Q398,
+Q8973423,Q6581072,1974-02-06T00:00:00Z,8,Zainab Al Askari,Zainab Al Askari,Bahraini actress,Q398,Q3882
+Q927623,Q6581097,1987-06-29T00:00:00Z,8,Hamad Al Fardan,Hamad Al Fardan,racing driver,Q398,Q3882
+Q9304188,Q6581097,1989-12-24T00:00:00Z,13,Rashed Al-Hooti,Rashed Al Hooti,footballer,Q398,Q3882
+Q941911,Q6581097,1975-04-16T00:00:00Z,8,Ali Al Jallawi,Ali Al Jallawi,"Poet, researcher and writer",Q398,Q3882
+Q95699883,Q6581097,1982-10-10T00:00:00Z,3,Aymen Tawfeeq Almoayed,Aymen Tawfeeq Almoayed,"Bahraini diplomat, lawyer and strategist",Q398,
+Q96246918,Q6581097,1931-01-01T00:00:00Z,3,Ahmed Al Khalifa,Ahmad Al Khalifa,Bahraini poet,Q17061755,Q6164132
+Q96246918,Q6581097,1931-01-01T00:00:00Z,3,Ahmed Al Khalifa,Ahmad Al Khalifa,Bahraini poet,Q398,Q6164132
+Q96247394,Q6581097,1955-01-01T00:00:00Z,4,Ahmed Madan (poet),Ahmad Madan,Bahraini poet,Q17061755,Q3299616
+Q96247394,Q6581097,1955-01-01T00:00:00Z,4,Ahmed Madan (poet),Ahmad Madan,Bahraini poet,Q398,Q3299616
+Q96247773,Q6581097,1930-01-01T00:00:00Z,2,Taqi Baharna,Taqi Baharnah,Bahraini poet and diplomat,Q398,Q3882
+Q96247773,Q6581097,1930-01-01T00:00:00Z,2,Taqi Baharna,Taqi Baharnah,Bahraini poet and diplomat,Q17061755,Q3882
+Q96267568,Q6581097,1942-09-01T00:00:00Z,2,Hassan Salman Kamal,Hassan Salman Kamal,Bahraini poet and radio personality,Q398,Q3882
+Q96267568,Q6581097,1942-09-01T00:00:00Z,2,Hassan Salman Kamal,Hassan Salman Kamal,Bahraini poet and radio personality,Q17061755,Q3882
+Q96273319,Q6581097,1940-01-01T00:00:00Z,2,Khalifah Hassan Qassim,Khalifah Hassan Qassim,"Bahraini poet, journalist and naval officer",Q398,Q3360322
+Q96273319,Q6581097,1940-01-01T00:00:00Z,2,Khalifah Hassan Qassim,Khalifah Hassan Qassim,"Bahraini poet, journalist and naval officer",Q17061755,Q3360322
+Q96305061,Q6581097,1948-09-01T00:00:00Z,2,Alawi al-Hashimi,Alawi al-Hashimi,Bahraini poet and academic,Q17061755,Q3882
+Q96305061,Q6581097,1948-09-01T00:00:00Z,2,Alawi al-Hashimi,Alawi al-Hashimi,Bahraini poet and academic,Q398,Q3882
+Q96678041,Q6581097,1952-12-17T00:00:00Z,2,Ahmed Al-Saie,Ahmed Al-Saie,Bahraini sailor,Q398,
+Q96745832,Q6581097,1984-03-28T00:00:00Z,3,Sami Kooheji,Sami Kooheji,Bahraini sailor,Q398,
+Q98885149,Q6581097,1955-01-01T00:00:00Z,2,Majed bin Ali Al-Naimi,Majed bin Ali Al-Naimi,Bahraini Minister,Q398,
+Q99968427,Q6581097,1901-01-01T00:00:00Z,3,Khalid bin Ali Al Khalifa,Shaikh Khalid bin Ali bin Abdullah Al Khalifa,kingdom of Bahrain royal family member,Q398,

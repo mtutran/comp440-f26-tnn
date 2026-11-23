@@ -1,0 +1,895 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q100220,Q6581072,1930-07-10T00:00:00Z,14,Susan Cummings (actress),Susan Cummings,German-American actress of the 1950s and 1960s,Q41304,Q980
+Q100220,Q6581072,1930-07-10T00:00:00Z,14,Susan Cummings (actress),Susan Cummings,German-American actress of the 1950s and 1960s,Q30,Q980
+Q100513,Q6581097,1905-06-30T00:00:00Z,12,Vinzenz Schöttl,Vinzenz Schöttl,SS officer (1905-1946),Q43287,Q28059602
+Q100513,Q6581097,1905-06-30T00:00:00Z,12,Vinzenz Schöttl,Vinzenz Schöttl,SS officer (1905-1946),Q41304,Q28059602
+Q100513,Q6581097,1905-06-30T00:00:00Z,12,Vinzenz Schöttl,Vinzenz Schöttl,SS officer (1905-1946),Q7318,Q28059602
+Q101064,Q6581097,1905-03-24T00:00:00Z,11,Erhard Kroeger,Erhard Kroeger,"Baltic German politician (NSDAP), MdR, SS officer and Holocaust perpetrator (1905–1987)",Q211,Q1773
+Q101064,Q6581097,1905-03-24T00:00:00Z,11,Erhard Kroeger,Erhard Kroeger,"Baltic German politician (NSDAP), MdR, SS officer and Holocaust perpetrator (1905–1987)",Q41304,Q1773
+Q101064,Q6581097,1905-03-24T00:00:00Z,11,Erhard Kroeger,Erhard Kroeger,"Baltic German politician (NSDAP), MdR, SS officer and Holocaust perpetrator (1905–1987)",Q34266,Q1773
+Q101064,Q6581097,1905-03-24T00:00:00Z,11,Erhard Kroeger,Erhard Kroeger,"Baltic German politician (NSDAP), MdR, SS officer and Holocaust perpetrator (1905–1987)",Q183,Q1773
+Q101064,Q6581097,1905-03-24T00:00:00Z,11,Erhard Kroeger,Erhard Kroeger,"Baltic German politician (NSDAP), MdR, SS officer and Holocaust perpetrator (1905–1987)",Q7318,Q1773
+Q101421,Q6581097,1904-08-29T00:00:00Z,11,Johann Schwarzhuber,Johann Schwarzhuber,Nazi German military official (1904-1947),Q41304,Q533166
+Q101421,Q6581097,1904-08-29T00:00:00Z,11,Johann Schwarzhuber,Johann Schwarzhuber,Nazi German military official (1904-1947),Q43287,Q533166
+Q101421,Q6581097,1904-08-29T00:00:00Z,11,Johann Schwarzhuber,Johann Schwarzhuber,Nazi German military official (1904-1947),Q7318,Q533166
+Q10294972,Q6581097,1918-03-21T00:00:00Z,3,Herbert Abratis,Herbert Abratis,German paratrooper and Knight's Cross recipient (1918-1945),Q7318,Q745085
+Q10294972,Q6581097,1918-03-21T00:00:00Z,3,Herbert Abratis,Herbert Abratis,German paratrooper and Knight's Cross recipient (1918-1945),Q43287,Q745085
+Q10294972,Q6581097,1918-03-21T00:00:00Z,3,Herbert Abratis,Herbert Abratis,German paratrooper and Knight's Cross recipient (1918-1945),Q41304,Q745085
+Q10307786,Q6581097,1906-10-07T00:00:00Z,2,Johannes Arndt,Johannes Arndt,German officer and Knight's Cross recipient,Q183,Q41252
+Q10307786,Q6581097,1906-10-07T00:00:00Z,2,Johannes Arndt,Johannes Arndt,German officer and Knight's Cross recipient,Q7318,Q41252
+Q10307786,Q6581097,1906-10-07T00:00:00Z,2,Johannes Arndt,Johannes Arndt,German officer and Knight's Cross recipient,Q41304,Q41252
+Q10307786,Q6581097,1906-10-07T00:00:00Z,2,Johannes Arndt,Johannes Arndt,German officer and Knight's Cross recipient,Q1206012,Q41252
+Q10307786,Q6581097,1906-10-07T00:00:00Z,2,Johannes Arndt,Johannes Arndt,German officer and Knight's Cross recipient,Q43287,Q41252
+Q103152,Q6581097,1905-07-11T00:00:00Z,6,Walter Eisfeld,Walter Eisfeld,SS officer (1905-1940),Q43287,Q2814
+Q103152,Q6581097,1905-07-11T00:00:00Z,6,Walter Eisfeld,Walter Eisfeld,SS officer (1905-1940),Q41304,Q2814
+Q103152,Q6581097,1905-07-11T00:00:00Z,6,Walter Eisfeld,Walter Eisfeld,SS officer (1905-1940),Q7318,Q2814
+Q104512,Q6581097,1906-08-09T00:00:00Z,6,Bruno Kitt,Bruno Kitt,German physician and SS leader,Q7318,Q751123
+Q104512,Q6581097,1906-08-09T00:00:00Z,6,Bruno Kitt,Bruno Kitt,German physician and SS leader,Q43287,Q751123
+Q104512,Q6581097,1906-08-09T00:00:00Z,6,Bruno Kitt,Bruno Kitt,German physician and SS leader,Q41304,Q751123
+Q105940,Q6581097,1927-12-14T00:00:00Z,10,Givi Margvelashvili,Giwi Margwelaschwili,Georgian philosopher (1927-2020),Q41304,Q64
+Q105940,Q6581097,1927-12-14T00:00:00Z,10,Givi Margvelashvili,Giwi Margwelaschwili,Georgian philosopher (1927-2020),Q183,Q64
+Q105940,Q6581097,1927-12-14T00:00:00Z,10,Givi Margvelashvili,Giwi Margwelaschwili,Georgian philosopher (1927-2020),Q7318,Q64
+Q105940,Q6581097,1927-12-14T00:00:00Z,10,Givi Margvelashvili,Giwi Margwelaschwili,Georgian philosopher (1927-2020),Q15180,Q64
+Q107281,Q6581097,1908-12-18T00:00:00Z,7,Werner Knab,Werner Knab,German diplomat and officer (1908-1945),Q43287,Q6905
+Q107281,Q6581097,1908-12-18T00:00:00Z,7,Werner Knab,Werner Knab,German diplomat and officer (1908-1945),Q7318,Q6905
+Q107281,Q6581097,1908-12-18T00:00:00Z,7,Werner Knab,Werner Knab,German diplomat and officer (1908-1945),Q41304,Q6905
+Q108427,Q6581097,1921-11-19T00:00:00Z,8,Max Kruse (author),Max Kruse,German writer (1921–2015),Q7318,Q574451
+Q108427,Q6581097,1921-11-19T00:00:00Z,8,Max Kruse (author),Max Kruse,German writer (1921–2015),Q41304,Q574451
+Q108427,Q6581097,1921-11-19T00:00:00Z,8,Max Kruse (author),Max Kruse,German writer (1921–2015),Q183,Q574451
+Q110911228,Q6581097,1920-01-01T00:00:00Z,1,Ulrich P. Strauss,Ulrich P. Strauss,American physical chemist,Q30,Q1794
+Q110911228,Q6581097,1920-01-01T00:00:00Z,1,Ulrich P. Strauss,Ulrich P. Strauss,American physical chemist,Q41304,Q1794
+Q112522,Q6581097,1907-05-06T00:00:00Z,7,Friedrich Suhr,Friedrich Suhr,German jurist (1907-1946),Q7318,Q3920
+Q112522,Q6581097,1907-05-06T00:00:00Z,7,Friedrich Suhr,Friedrich Suhr,German jurist (1907-1946),Q43287,Q3920
+Q112522,Q6581097,1907-05-06T00:00:00Z,7,Friedrich Suhr,Friedrich Suhr,German jurist (1907-1946),Q41304,Q3920
+Q113551597,Q6581097,1919-11-13T00:00:00Z,1,Siegmund Spiegel,Siegmund Spiegel,German-American architect and Holocaust survivor,Q41304,Q3750
+Q113551597,Q6581097,1919-11-13T00:00:00Z,1,Siegmund Spiegel,Siegmund Spiegel,German-American architect and Holocaust survivor,Q183,Q3750
+Q113551597,Q6581097,1919-11-13T00:00:00Z,1,Siegmund Spiegel,Siegmund Spiegel,German-American architect and Holocaust survivor,Q30,Q3750
+Q1165052,Q6581072,1915-08-31T00:00:00Z,23,Gretl Braun,Gretl Braun,sister of Eva Braun (1915-1987); sister-in-law of Adolf Hitler,Q43287,Q1726
+Q1165052,Q6581072,1915-08-31T00:00:00Z,23,Gretl Braun,Gretl Braun,sister of Eva Braun (1915-1987); sister-in-law of Adolf Hitler,Q41304,Q1726
+Q1165052,Q6581072,1915-08-31T00:00:00Z,23,Gretl Braun,Gretl Braun,sister of Eva Braun (1915-1987); sister-in-law of Adolf Hitler,Q183,Q1726
+Q1165052,Q6581072,1915-08-31T00:00:00Z,23,Gretl Braun,Gretl Braun,sister of Eva Braun (1915-1987); sister-in-law of Adolf Hitler,Q7318,Q1726
+Q121067,Q6581097,1926-01-01T00:00:00Z,7,Heinz Höhne,Heinz Höhne,German journalist and writer,Q713750,Q64
+Q121067,Q6581097,1926-01-01T00:00:00Z,7,Heinz Höhne,Heinz Höhne,German journalist and writer,Q41304,Q64
+Q121067,Q6581097,1926-01-01T00:00:00Z,7,Heinz Höhne,Heinz Höhne,German journalist and writer,Q183,Q64
+Q121067,Q6581097,1926-01-01T00:00:00Z,7,Heinz Höhne,Heinz Höhne,German journalist and writer,Q7318,Q64
+Q12230673,Q6581097,1903-01-01T00:00:00Z,5,Fritz Kramp,Fritz Kramp,film director,Q124943,Q43287
+Q12230673,Q6581097,1903-01-01T00:00:00Z,5,Fritz Kramp,Fritz Kramp,film director,Q79,Q43287
+Q12230673,Q6581097,1903-01-01T00:00:00Z,5,Fritz Kramp,Fritz Kramp,film director,Q183,Q43287
+Q12230673,Q6581097,1903-01-01T00:00:00Z,5,Fritz Kramp,Fritz Kramp,film director,Q43287,Q43287
+Q12230673,Q6581097,1903-01-01T00:00:00Z,5,Fritz Kramp,Fritz Kramp,film director,Q41304,Q43287
+Q12230673,Q6581097,1903-01-01T00:00:00Z,5,Fritz Kramp,Fritz Kramp,film director,Q3087763,Q43287
+Q124314,Q6581097,1912-02-06T00:00:00Z,6,Henry Picker,Henry Picker,German lawyer and writer (1912–1988),Q43287,Q3857
+Q124314,Q6581097,1912-02-06T00:00:00Z,6,Henry Picker,Henry Picker,German lawyer and writer (1912–1988),Q41304,Q3857
+Q124314,Q6581097,1912-02-06T00:00:00Z,6,Henry Picker,Henry Picker,German lawyer and writer (1912–1988),Q713750,Q3857
+Q124314,Q6581097,1912-02-06T00:00:00Z,6,Henry Picker,Henry Picker,German lawyer and writer (1912–1988),Q7318,Q3857
+Q124314,Q6581097,1912-02-06T00:00:00Z,6,Henry Picker,Henry Picker,German lawyer and writer (1912–1988),Q183,Q3857
+Q126016,Q6581097,1905-05-12T00:00:00Z,10,Artur Becker,Artur Becker,German politician (1905-1938),Q43287,Q3097
+Q126016,Q6581097,1905-05-12T00:00:00Z,10,Artur Becker,Artur Becker,German politician (1905-1938),Q41304,Q3097
+Q126016,Q6581097,1905-05-12T00:00:00Z,10,Artur Becker,Artur Becker,German politician (1905-1938),Q178038,Q3097
+Q1279259,Q6581097,1932-04-16T00:00:00Z,6,Eberhard Panitz,Eberhard Panitz,German writer (1932–2021),Q41304,Q1731
+Q1279259,Q6581097,1932-04-16T00:00:00Z,6,Eberhard Panitz,Eberhard Panitz,German writer (1932–2021),Q7318,Q1731
+Q1279259,Q6581097,1932-04-16T00:00:00Z,6,Eberhard Panitz,Eberhard Panitz,German writer (1932–2021),Q183,Q1731
+Q1279259,Q6581097,1932-04-16T00:00:00Z,6,Eberhard Panitz,Eberhard Panitz,German writer (1932–2021),Q16957,Q1731
+Q1334255,Q6581072,1924-04-22T00:00:00Z,4,Elvira Eisenschneider,Elvira Eisenschneider,German resistance fighter (1924–1944),Q1206012,Q676963
+Q1334255,Q6581072,1924-04-22T00:00:00Z,4,Elvira Eisenschneider,Elvira Eisenschneider,German resistance fighter (1924–1944),Q15180,Q676963
+Q1334255,Q6581072,1924-04-22T00:00:00Z,4,Elvira Eisenschneider,Elvira Eisenschneider,German resistance fighter (1924–1944),Q170361,Q676963
+Q1334255,Q6581072,1924-04-22T00:00:00Z,4,Elvira Eisenschneider,Elvira Eisenschneider,German resistance fighter (1924–1944),Q41304,Q676963
+Q1341826,Q6581097,1911-06-12T00:00:00Z,4,Hannsgeorg Laubenthal,Hannsgeorg Laubenthal,German singer and actor (1911–1971),Q7318,Q365
+Q1341826,Q6581097,1911-06-12T00:00:00Z,4,Hannsgeorg Laubenthal,Hannsgeorg Laubenthal,German singer and actor (1911–1971),Q1206012,Q365
+Q1341826,Q6581097,1911-06-12T00:00:00Z,4,Hannsgeorg Laubenthal,Hannsgeorg Laubenthal,German singer and actor (1911–1971),Q183,Q365
+Q1341826,Q6581097,1911-06-12T00:00:00Z,4,Hannsgeorg Laubenthal,Hannsgeorg Laubenthal,German singer and actor (1911–1971),Q43287,Q365
+Q1341826,Q6581097,1911-06-12T00:00:00Z,4,Hannsgeorg Laubenthal,Hannsgeorg Laubenthal,German singer and actor (1911–1971),Q41304,Q365
+Q134931293,Q6581097,1904-09-12T00:00:00Z,2,Erwin Petermann,,German art collector and museum director (1904-1989),Q43287,Q1022
+Q134931293,Q6581097,1904-09-12T00:00:00Z,2,Erwin Petermann,,German art collector and museum director (1904-1989),Q7318,Q1022
+Q134931293,Q6581097,1904-09-12T00:00:00Z,2,Erwin Petermann,,German art collector and museum director (1904-1989),Q183,Q1022
+Q134931293,Q6581097,1904-09-12T00:00:00Z,2,Erwin Petermann,,German art collector and museum director (1904-1989),Q41304,Q1022
+Q1352493,Q6581097,1906-02-05T00:00:00Z,5,Erich Isselhorst,Erich Isselhorst,German soldier and jurist (1906-1948),Q41304,Q22485
+Q1352493,Q6581097,1906-02-05T00:00:00Z,5,Erich Isselhorst,Erich Isselhorst,German soldier and jurist (1906-1948),Q43287,Q22485
+Q1352493,Q6581097,1906-02-05T00:00:00Z,5,Erich Isselhorst,Erich Isselhorst,German soldier and jurist (1906-1948),Q7318,Q22485
+Q135658683,Q6581097,1922-03-07T00:00:00Z,4,Hans Ephraimson-Abt,Hans Ephraimson-Abt,German-born American businessperson and advocate for the victims of aviation accidents,Q7318,Q64
+Q135658683,Q6581097,1922-03-07T00:00:00Z,4,Hans Ephraimson-Abt,Hans Ephraimson-Abt,German-born American businessperson and advocate for the victims of aviation accidents,Q183,Q64
+Q135658683,Q6581097,1922-03-07T00:00:00Z,4,Hans Ephraimson-Abt,Hans Ephraimson-Abt,German-born American businessperson and advocate for the victims of aviation accidents,Q41304,Q64
+Q135658683,Q6581097,1922-03-07T00:00:00Z,4,Hans Ephraimson-Abt,Hans Ephraimson-Abt,German-born American businessperson and advocate for the victims of aviation accidents,Q30,Q64
+Q13580214,Q6581097,1901-05-22T00:00:00Z,3,Alexander Schleicher,Alexander Schleicher,German pioneer of sailplane design,Q7318,
+Q13580214,Q6581097,1901-05-22T00:00:00Z,3,Alexander Schleicher,Alexander Schleicher,German pioneer of sailplane design,Q183,
+Q13580214,Q6581097,1901-05-22T00:00:00Z,3,Alexander Schleicher,Alexander Schleicher,German pioneer of sailplane design,Q41304,
+Q13580214,Q6581097,1901-05-22T00:00:00Z,3,Alexander Schleicher,Alexander Schleicher,German pioneer of sailplane design,Q43287,
+Q1360169,Q6581097,1921-09-12T00:00:00Z,6,Ernst Schumacher (theater),Ernst Schumacher,German theatre critic (1921–2012),Q7318,Q26785926
+Q1360169,Q6581097,1921-09-12T00:00:00Z,6,Ernst Schumacher (theater),Ernst Schumacher,German theatre critic (1921–2012),Q41304,Q26785926
+Q1360169,Q6581097,1921-09-12T00:00:00Z,6,Ernst Schumacher (theater),Ernst Schumacher,German theatre critic (1921–2012),Q16957,Q26785926
+Q1360169,Q6581097,1921-09-12T00:00:00Z,6,Ernst Schumacher (theater),Ernst Schumacher,German theatre critic (1921–2012),Q713750,Q26785926
+Q1360169,Q6581097,1921-09-12T00:00:00Z,6,Ernst Schumacher (theater),Ernst Schumacher,German theatre critic (1921–2012),Q183,Q26785926
+Q136303325,Q6581097,1928-10-24T00:00:00Z,2,Felix Posen,Felix Posen,educational pioneer,Q41304,Q64
+Q136303325,Q6581097,1928-10-24T00:00:00Z,2,Felix Posen,Felix Posen,educational pioneer,Q7318,Q64
+Q136303325,Q6581097,1928-10-24T00:00:00Z,2,Felix Posen,Felix Posen,educational pioneer,Q30,Q64
+Q1363578,Q6581097,1909-07-06T00:00:00Z,6,Erwin Weinmann,,German physician,Q183,Q481424
+Q1363578,Q6581097,1909-07-06T00:00:00Z,6,Erwin Weinmann,,German physician,Q43287,Q481424
+Q1363578,Q6581097,1909-07-06T00:00:00Z,6,Erwin Weinmann,,German physician,Q41304,Q481424
+Q1363578,Q6581097,1909-07-06T00:00:00Z,6,Erwin Weinmann,,German physician,Q7318,Q481424
+Q1374367,Q6581097,1926-06-01T00:00:00Z,4,Werner Grübmeyer,Werner Grübmeyer,German politician (1926-2018),Q7318,Q1813037
+Q1374367,Q6581097,1926-06-01T00:00:00Z,4,Werner Grübmeyer,Werner Grübmeyer,German politician (1926-2018),Q41304,Q1813037
+Q1374367,Q6581097,1926-06-01T00:00:00Z,4,Werner Grübmeyer,Werner Grübmeyer,German politician (1926-2018),Q183,Q1813037
+Q1398161,Q6581072,1905-04-01T00:00:00Z,6,Hilde Ephraim,Hilde Ephraim,politician (1905-1940),Q41304,Q162049
+Q1398161,Q6581072,1905-04-01T00:00:00Z,6,Hilde Ephraim,Hilde Ephraim,politician (1905-1940),Q41304,Q64
+Q1398161,Q6581072,1905-04-01T00:00:00Z,6,Hilde Ephraim,Hilde Ephraim,politician (1905-1940),Q43287,Q162049
+Q1398161,Q6581072,1905-04-01T00:00:00Z,6,Hilde Ephraim,Hilde Ephraim,politician (1905-1940),Q43287,Q64
+Q1398161,Q6581072,1905-04-01T00:00:00Z,6,Hilde Ephraim,Hilde Ephraim,politician (1905-1940),Q1206012,Q162049
+Q1398161,Q6581072,1905-04-01T00:00:00Z,6,Hilde Ephraim,Hilde Ephraim,politician (1905-1940),Q1206012,Q64
+Q1398161,Q6581072,1905-04-01T00:00:00Z,6,Hilde Ephraim,Hilde Ephraim,politician (1905-1940),Q7318,Q162049
+Q1398161,Q6581072,1905-04-01T00:00:00Z,6,Hilde Ephraim,Hilde Ephraim,politician (1905-1940),Q7318,Q64
+Q1458887,Q6581097,1908-03-07T00:00:00Z,5,Friedrich Dörr,Friedrich Dörr,German Catholic theologian and hymnwriter (1908–1993),Q41304,Q502591
+Q1458887,Q6581097,1908-03-07T00:00:00Z,5,Friedrich Dörr,Friedrich Dörr,German Catholic theologian and hymnwriter (1908–1993),Q183,Q502591
+Q1458887,Q6581097,1908-03-07T00:00:00Z,5,Friedrich Dörr,Friedrich Dörr,German Catholic theologian and hymnwriter (1908–1993),Q7318,Q502591
+Q1458887,Q6581097,1908-03-07T00:00:00Z,5,Friedrich Dörr,Friedrich Dörr,German Catholic theologian and hymnwriter (1908–1993),Q713750,Q502591
+Q1458887,Q6581097,1908-03-07T00:00:00Z,5,Friedrich Dörr,Friedrich Dörr,German Catholic theologian and hymnwriter (1908–1993),Q43287,Q502591
+Q1530507,Q6581097,1927-05-28T00:00:00Z,5,Edward Fraenkel,Edward Fraenkel,mathematician,Q145,Q1707
+Q1530507,Q6581097,1927-05-28T00:00:00Z,5,Edward Fraenkel,Edward Fraenkel,mathematician,Q41304,Q1707
+Q15379136,Q6581097,1923-05-29T00:00:00Z,11,Carl Duering,Carl Duering,German actor,Q41304,Q64
+Q15379136,Q6581097,1923-05-29T00:00:00Z,11,Carl Duering,Carl Duering,German actor,Q145,Q64
+Q1561863,Q6581097,1908-11-17T00:00:00Z,5,Günter Stempel,Günter Stempel,German politician (1908-1981),Q43287,Q1799
+Q1561863,Q6581097,1908-11-17T00:00:00Z,5,Günter Stempel,Günter Stempel,German politician (1908-1981),Q7318,Q1799
+Q1561863,Q6581097,1908-11-17T00:00:00Z,5,Günter Stempel,Günter Stempel,German politician (1908-1981),Q16957,Q1799
+Q1561863,Q6581097,1908-11-17T00:00:00Z,5,Günter Stempel,Günter Stempel,German politician (1908-1981),Q183,Q1799
+Q1561863,Q6581097,1908-11-17T00:00:00Z,5,Günter Stempel,Günter Stempel,German politician (1908-1981),Q41304,Q1799
+Q15637647,Q6581097,1904-03-14T00:00:00Z,3,Viktor von Loßberg,Viktor von Loßberg,German airman and Knight's Cross recipient (1904–1983),Q7318,Q268
+Q15637647,Q6581097,1904-03-14T00:00:00Z,3,Viktor von Loßberg,Viktor von Loßberg,German airman and Knight's Cross recipient (1904–1983),Q43287,Q268
+Q15637647,Q6581097,1904-03-14T00:00:00Z,3,Viktor von Loßberg,Viktor von Loßberg,German airman and Knight's Cross recipient (1904–1983),Q41304,Q268
+Q15637647,Q6581097,1904-03-14T00:00:00Z,3,Viktor von Loßberg,Viktor von Loßberg,German airman and Knight's Cross recipient (1904–1983),Q183,Q268
+Q16007827,Q6581097,1908-06-06T00:00:00Z,2,Hans Latza,Hans Latza,German SS-Obersturmbannführer,Q43287,
+Q16007827,Q6581097,1908-06-06T00:00:00Z,2,Hans Latza,Hans Latza,German SS-Obersturmbannführer,Q41304,
+Q16007827,Q6581097,1908-06-06T00:00:00Z,2,Hans Latza,Hans Latza,German SS-Obersturmbannführer,Q183,
+Q16007827,Q6581097,1908-06-06T00:00:00Z,2,Hans Latza,Hans Latza,German SS-Obersturmbannführer,Q7318,
+Q1603024,Q6581097,1910-03-21T00:00:00Z,11,Helmuth Vetter,Helmut Vetter,German Nazi SS officer (1910–1949),Q41304,Q552604
+Q1603024,Q6581097,1910-03-21T00:00:00Z,11,Helmuth Vetter,Helmut Vetter,German Nazi SS officer (1910–1949),Q7318,Q552604
+Q1603024,Q6581097,1910-03-21T00:00:00Z,11,Helmuth Vetter,Helmut Vetter,German Nazi SS officer (1910–1949),Q43287,Q552604
+Q1712106,Q6581072,1928-09-23T00:00:00Z,6,Juliane Hund,Juliane Hund,German chess player (1928–1999),Q183,Q2973
+Q1712106,Q6581072,1928-09-23T00:00:00Z,6,Juliane Hund,Juliane Hund,German chess player (1928–1999),Q41304,Q2973
+Q1712106,Q6581072,1928-09-23T00:00:00Z,6,Juliane Hund,Juliane Hund,German chess player (1928–1999),Q7318,Q2973
+Q1745760,Q6581097,1928-05-02T00:00:00Z,5,Klaus Storck,Klaus Storck,German cellist and university teacher (1928–2011),Q183,Q64
+Q1745760,Q6581097,1928-05-02T00:00:00Z,5,Klaus Storck,Klaus Storck,German cellist and university teacher (1928–2011),Q1206012,Q64
+Q1745760,Q6581097,1928-05-02T00:00:00Z,5,Klaus Storck,Klaus Storck,German cellist and university teacher (1928–2011),Q41304,Q64
+Q1745760,Q6581097,1928-05-02T00:00:00Z,5,Klaus Storck,Klaus Storck,German cellist and university teacher (1928–2011),Q7318,Q64
+Q1875531,Q6581097,1913-06-23T00:00:00Z,7,Rolf Mützelburg,Rolf Mützelburg,German navy officer and WWII submarine commander (1913–1942),Q41304,Q1707
+Q1875531,Q6581097,1913-06-23T00:00:00Z,7,Rolf Mützelburg,Rolf Mützelburg,German navy officer and WWII submarine commander (1913–1942),Q43287,Q1707
+Q1875531,Q6581097,1913-06-23T00:00:00Z,7,Rolf Mützelburg,Rolf Mützelburg,German navy officer and WWII submarine commander (1913–1942),Q7318,Q1707
+Q1875531,Q6581097,1913-06-23T00:00:00Z,7,Rolf Mützelburg,Rolf Mützelburg,German navy officer and WWII submarine commander (1913–1942),Q1206012,Q1707
+Q1875531,Q6581097,1913-06-23T00:00:00Z,7,Rolf Mützelburg,Rolf Mützelburg,German navy officer and WWII submarine commander (1913–1942),Q183,Q1707
+Q1896836,Q6581072,1921-11-05T00:00:00Z,6,Marianne Joachim,Marianne Joachim,Jewish German resistance activist (1921–1943),Q41304,Q64
+Q1896836,Q6581072,1921-11-05T00:00:00Z,6,Marianne Joachim,Marianne Joachim,Jewish German resistance activist (1921–1943),Q7318,Q64
+Q1896836,Q6581072,1921-11-05T00:00:00Z,6,Marianne Joachim,Marianne Joachim,Jewish German resistance activist (1921–1943),Q1206012,Q64
+Q194836,Q6581097,1905-04-18T00:00:00Z,10,Karl Gutenberger,Karl Gutenberger,"German general and politician (NSDAP), MdR (1905–1961)",Q41304,Q2066
+Q194836,Q6581097,1905-04-18T00:00:00Z,10,Karl Gutenberger,Karl Gutenberger,"German general and politician (NSDAP), MdR (1905–1961)",Q43287,Q2066
+Q194836,Q6581097,1905-04-18T00:00:00Z,10,Karl Gutenberger,Karl Gutenberger,"German general and politician (NSDAP), MdR (1905–1961)",Q1206012,Q2066
+Q194836,Q6581097,1905-04-18T00:00:00Z,10,Karl Gutenberger,Karl Gutenberger,"German general and politician (NSDAP), MdR (1905–1961)",Q183,Q2066
+Q194836,Q6581097,1905-04-18T00:00:00Z,10,Karl Gutenberger,Karl Gutenberger,"German general and politician (NSDAP), MdR (1905–1961)",Q7318,Q2066
+Q19666043,Q6581072,1907-10-04T00:00:00Z,4,Margot Walter,Margot Walter,German actress,Q713750,Q1711
+Q19666043,Q6581072,1907-10-04T00:00:00Z,4,Margot Walter,Margot Walter,German actress,Q1206012,Q1711
+Q19666043,Q6581072,1907-10-04T00:00:00Z,4,Margot Walter,Margot Walter,German actress,Q41304,Q1711
+Q19666043,Q6581072,1903-10-04T00:00:00Z,4,Margot Walter,Margot Walter,German actress,Q713750,Q1711
+Q19666043,Q6581072,1903-10-04T00:00:00Z,4,Margot Walter,Margot Walter,German actress,Q41304,Q1711
+Q19666043,Q6581072,1903-10-04T00:00:00Z,4,Margot Walter,Margot Walter,German actress,Q1206012,Q1711
+Q1973525,Q6581097,1904-04-03T00:00:00Z,5,Robert-Richard Zapp,Robert-Richard Zapp,German World War II U-boat commander  (1904–1964),Q43287,Q22629
+Q1973525,Q6581097,1904-04-03T00:00:00Z,5,Robert-Richard Zapp,Robert-Richard Zapp,German World War II U-boat commander  (1904–1964),Q41304,Q22629
+Q1973525,Q6581097,1904-04-03T00:00:00Z,5,Robert-Richard Zapp,Robert-Richard Zapp,German World War II U-boat commander  (1904–1964),Q7318,Q22629
+Q1973525,Q6581097,1904-04-03T00:00:00Z,5,Robert-Richard Zapp,Robert-Richard Zapp,German World War II U-boat commander  (1904–1964),Q183,Q22629
+Q19959705,Q6581072,1926-02-06T00:00:00Z,6,Elisabeth Guttenberger,Elisabeth Guttenberger,German Holocaust survivor and human rights activist (1926–2024),Q713750,Q1022
+Q19959705,Q6581072,1926-02-06T00:00:00Z,6,Elisabeth Guttenberger,Elisabeth Guttenberger,German Holocaust survivor and human rights activist (1926–2024),Q183,Q1022
+Q19959705,Q6581072,1926-02-06T00:00:00Z,6,Elisabeth Guttenberger,Elisabeth Guttenberger,German Holocaust survivor and human rights activist (1926–2024),Q41304,Q1022
+Q20243129,Q6581097,1919-05-08T00:00:00Z,2,Lothar Salinger,Lothar Salinger,politically engaged German worker,Q41304,Q64
+Q20243129,Q6581097,1919-05-08T00:00:00Z,2,Lothar Salinger,Lothar Salinger,politically engaged German worker,Q1206012,Q64
+Q213844,Q6581072,1926-06-04T00:00:00Z,25,Judith Malina,Judith Malina,"German-born American theater and film actress, writer and director",Q41304,Q1707
+Q213844,Q6581072,1926-06-04T00:00:00Z,25,Judith Malina,Judith Malina,"German-born American theater and film actress, writer and director",Q30,Q1707
+Q214326,Q6581097,1905-05-12T00:00:00Z,6,Herbert Busemann,Herbert Busemann,mathematician,Q183,Q64
+Q214326,Q6581097,1905-05-12T00:00:00Z,6,Herbert Busemann,Herbert Busemann,mathematician,Q43287,Q64
+Q214326,Q6581097,1905-05-12T00:00:00Z,6,Herbert Busemann,Herbert Busemann,mathematician,Q41304,Q64
+Q214326,Q6581097,1905-05-12T00:00:00Z,6,Herbert Busemann,Herbert Busemann,mathematician,Q30,Q64
+Q216706,Q6581097,1902-02-04T00:00:00Z,8,Adolf-Heinz Beckerle,Adolf Beckerle,German politician (1902-1976),Q7318,Q1794
+Q216706,Q6581097,1902-02-04T00:00:00Z,8,Adolf-Heinz Beckerle,Adolf Beckerle,German politician (1902-1976),Q713750,Q1794
+Q216706,Q6581097,1902-02-04T00:00:00Z,8,Adolf-Heinz Beckerle,Adolf Beckerle,German politician (1902-1976),Q41304,Q1794
+Q22294386,Q6581072,1922-05-05T00:00:00Z,4,Eva Fleischer,Eva Fleischer,German opera singer (1922-2016),Q7318,Q1799
+Q22294386,Q6581072,1922-05-05T00:00:00Z,4,Eva Fleischer,Eva Fleischer,German opera singer (1922-2016),Q183,Q1799
+Q22294386,Q6581072,1922-05-05T00:00:00Z,4,Eva Fleischer,Eva Fleischer,German opera singer (1922-2016),Q16957,Q1799
+Q22294386,Q6581072,1922-05-05T00:00:00Z,4,Eva Fleischer,Eva Fleischer,German opera singer (1922-2016),Q41304,Q1799
+Q22959317,Q6581097,1905-09-25T00:00:00Z,1,Walther Gruner,Walther Gruner,German-born singing teacher and operatic baritone,Q43287,Q1794
+Q22959317,Q6581097,1905-09-25T00:00:00Z,1,Walther Gruner,Walther Gruner,German-born singing teacher and operatic baritone,Q41304,Q1794
+Q22959317,Q6581097,1905-09-25T00:00:00Z,1,Walther Gruner,Walther Gruner,German-born singing teacher and operatic baritone,Q145,Q1794
+Q24999,Q6581072,1929-01-01T00:00:00Z,19,Cordelia Edvardson,Cordelia Edvardson,"German-born Swedish journalist, author and Holocaust survivor",Q34,Q1726
+Q24999,Q6581072,1929-01-01T00:00:00Z,19,Cordelia Edvardson,Cordelia Edvardson,"German-born Swedish journalist, author and Holocaust survivor",Q41304,Q1726
+Q24999,Q6581072,1929-01-01T00:00:00Z,19,Cordelia Edvardson,Cordelia Edvardson,"German-born Swedish journalist, author and Holocaust survivor",Q29,Q1726
+Q24999,Q6581072,1929-01-01T00:00:00Z,19,Cordelia Edvardson,Cordelia Edvardson,"German-born Swedish journalist, author and Holocaust survivor",Q801,Q1726
+Q2518,Q6581097,1930-04-03T00:00:00Z,129,Helmut Kohl,Helmut Kohl,Chancellor of West Germany and reunified Germany (1982–1998),Q41304,Q1875414
+Q2518,Q6581097,1930-04-03T00:00:00Z,129,Helmut Kohl,Helmut Kohl,Chancellor of West Germany and reunified Germany (1982–1998),Q183,Q1875414
+Q2518,Q6581097,1930-04-03T00:00:00Z,129,Helmut Kohl,Helmut Kohl,Chancellor of West Germany and reunified Germany (1982–1998),Q7318,Q1875414
+Q2518,Q6581097,1930-04-03T00:00:00Z,129,Helmut Kohl,Helmut Kohl,Chancellor of West Germany and reunified Germany (1982–1998),Q713750,Q1875414
+Q2560878,Q6581097,1907-09-23T00:00:00Z,4,Werner Bockelmann,Werner Bockelmann,German politician (1907–1968),Q41304,Q649
+Q2560878,Q6581097,1907-09-23T00:00:00Z,4,Werner Bockelmann,Werner Bockelmann,German politician (1907–1968),Q43287,Q649
+Q2560878,Q6581097,1907-09-23T00:00:00Z,4,Werner Bockelmann,Werner Bockelmann,German politician (1907–1968),Q7318,Q649
+Q2560878,Q6581097,1907-09-23T00:00:00Z,4,Werner Bockelmann,Werner Bockelmann,German politician (1907–1968),Q183,Q649
+Q2562493,Q6581097,1903-07-28T00:00:00Z,5,Werner Schmidt-Boelcke,Werner Schmidt-Boelcke,German conductor and composer (1903-1985),Q7318,Q311849
+Q2562493,Q6581097,1903-07-28T00:00:00Z,5,Werner Schmidt-Boelcke,Werner Schmidt-Boelcke,German conductor and composer (1903-1985),Q41304,Q311849
+Q2562493,Q6581097,1903-07-28T00:00:00Z,5,Werner Schmidt-Boelcke,Werner Schmidt-Boelcke,German conductor and composer (1903-1985),Q183,Q311849
+Q2591448,Q6581097,1913-09-18T00:00:00Z,5,Wolfgang Sievers,Wolfgang Sievers,Australian photographer (1913–2007),Q41304,Q64
+Q2591448,Q6581097,1913-09-18T00:00:00Z,5,Wolfgang Sievers,Wolfgang Sievers,Australian photographer (1913–2007),Q43287,Q64
+Q2591448,Q6581097,1913-09-18T00:00:00Z,5,Wolfgang Sievers,Wolfgang Sievers,Australian photographer (1913–2007),Q408,Q64
+Q26697185,Q6581072,1927-07-15T00:00:00Z,3,Lisa Kahn (poet),Lisa Kahn,Germanist,Q7318,Q363830
+Q26697185,Q6581072,1927-07-15T00:00:00Z,3,Lisa Kahn (poet),Lisa Kahn,Germanist,Q183,Q363830
+Q26697185,Q6581072,1927-07-15T00:00:00Z,3,Lisa Kahn (poet),Lisa Kahn,Germanist,Q30,Q363830
+Q26697185,Q6581072,1921-07-15T00:00:00Z,3,Lisa Kahn (poet),Lisa Kahn,Germanist,Q7318,Q363830
+Q26697185,Q6581072,1927-07-15T00:00:00Z,3,Lisa Kahn (poet),Lisa Kahn,Germanist,Q41304,Q363830
+Q26697185,Q6581072,1927-07-15T00:00:00Z,3,Lisa Kahn (poet),Lisa Kahn,Germanist,Q713750,Q363830
+Q26697185,Q6581072,1921-07-15T00:00:00Z,3,Lisa Kahn (poet),Lisa Kahn,Germanist,Q713750,Q363830
+Q26697185,Q6581072,1921-07-15T00:00:00Z,3,Lisa Kahn (poet),Lisa Kahn,Germanist,Q183,Q363830
+Q26697185,Q6581072,1921-07-15T00:00:00Z,3,Lisa Kahn (poet),Lisa Kahn,Germanist,Q30,Q363830
+Q26697185,Q6581072,1921-07-15T00:00:00Z,3,Lisa Kahn (poet),Lisa Kahn,Germanist,Q41304,Q363830
+Q26698079,Q6581097,1923-04-22T00:00:00Z,2,Robert Ludwig Kahn,Robert L. Kahn,German-American scholar,Q30,Q2090
+Q26698079,Q6581097,1923-04-22T00:00:00Z,2,Robert Ludwig Kahn,Robert L. Kahn,German-American scholar,Q41304,Q2090
+Q26698079,Q6581097,1923-04-22T00:00:00Z,2,Robert Ludwig Kahn,Robert L. Kahn,German-American scholar,Q7318,Q2090
+Q28015524,Q6581072,1900-05-19T00:00:00Z,1,Charlotte Hohmann,Charlotte Hohmann,magazine editor,Q41304,
+Q28015524,Q6581072,1900-05-19T00:00:00Z,1,Charlotte Hohmann,Charlotte Hohmann,magazine editor,Q7318,
+Q28015524,Q6581072,1900-05-19T00:00:00Z,1,Charlotte Hohmann,Charlotte Hohmann,magazine editor,Q16957,
+Q28085,Q6581097,1906-03-19T00:00:00Z,94,Adolf Eichmann,Adolf Eichmann,German-Austrian SS officer and one of the major organizers of the Holocaust (1906–1962),Q183,Q2942
+Q28085,Q6581097,1906-03-19T00:00:00Z,94,Adolf Eichmann,Adolf Eichmann,German-Austrian SS officer and one of the major organizers of the Holocaust (1906–1962),Q40,Q2942
+Q28085,Q6581097,1906-03-19T00:00:00Z,94,Adolf Eichmann,Adolf Eichmann,German-Austrian SS officer and one of the major organizers of the Holocaust (1906–1962),Q7318,Q2942
+Q28085,Q6581097,1906-03-19T00:00:00Z,94,Adolf Eichmann,Adolf Eichmann,German-Austrian SS officer and one of the major organizers of the Holocaust (1906–1962),Q41304,Q2942
+Q2886753,Q6581072,1912-02-05T00:00:00Z,12,Hedwig Potthast,Hedwig Potthast,Private secretary and mistress of Heinrich Himmler,Q183,Q365
+Q2886753,Q6581072,1912-02-05T00:00:00Z,12,Hedwig Potthast,Hedwig Potthast,Private secretary and mistress of Heinrich Himmler,Q43287,Q365
+Q2886753,Q6581072,1912-02-05T00:00:00Z,12,Hedwig Potthast,Hedwig Potthast,Private secretary and mistress of Heinrich Himmler,Q7318,Q365
+Q2886753,Q6581072,1912-02-05T00:00:00Z,12,Hedwig Potthast,Hedwig Potthast,Private secretary and mistress of Heinrich Himmler,Q41304,Q365
+Q28970585,Q6581097,1903-08-02T00:00:00Z,6,Richard Grune,Richard Grune,German artist,Q713750,Q3798
+Q28970585,Q6581097,1903-08-02T00:00:00Z,6,Richard Grune,Richard Grune,German artist,Q7318,Q3798
+Q28970585,Q6581097,1903-08-02T00:00:00Z,6,Richard Grune,Richard Grune,German artist,Q43287,Q3798
+Q28970585,Q6581097,1903-08-02T00:00:00Z,6,Richard Grune,Richard Grune,German artist,Q41304,Q3798
+Q28970607,Q6581072,1921-04-27T00:00:00Z,2,Lore Kadden Lindenfeld,Lore Kadden Lindenfeld,textile artist (1921–2010),Q30,Q702259
+Q28970607,Q6581072,1921-04-27T00:00:00Z,2,Lore Kadden Lindenfeld,Lore Kadden Lindenfeld,textile artist (1921–2010),Q41304,Q702259
+Q30220874,Q6581097,1902-09-17T00:00:00Z,3,Horst Siewert,Horst Siewert,,Q41304,Q656
+Q30220874,Q6581097,1902-09-17T00:00:00Z,3,Horst Siewert,Horst Siewert,,Q7318,Q656
+Q30220874,Q6581097,1902-09-17T00:00:00Z,3,Horst Siewert,Horst Siewert,,Q43287,Q656
+Q30345172,Q6581097,1924-10-20T00:00:00Z,4,Peter Wallfisch,Peter Wallfisch,pianist (1924-1993),Q145,Q1799
+Q30345172,Q6581097,1924-10-20T00:00:00Z,4,Peter Wallfisch,Peter Wallfisch,pianist (1924-1993),Q41304,Q1799
+Q30345172,Q6581097,1924-10-20T00:00:00Z,4,Peter Wallfisch,Peter Wallfisch,pianist (1924-1993),Q7318,Q1799
+Q3049549,Q6581097,1912-08-15T00:00:00Z,10,Heinrich Borgmann,Heinrich Borgmann,Recipient of the Knight's Cross,Q43287,Q490066
+Q3049549,Q6581097,1912-08-15T00:00:00Z,10,Heinrich Borgmann,Heinrich Borgmann,Recipient of the Knight's Cross,Q7318,Q490066
+Q3049549,Q6581097,1912-08-15T00:00:00Z,10,Heinrich Borgmann,Heinrich Borgmann,Recipient of the Knight's Cross,Q41304,Q490066
+Q3092525,Q6581097,1919-10-29T00:00:00Z,9,Félix Marten,Félix Marten,German-born French actor,Q142,Q486548
+Q3092525,Q6581097,1919-10-29T00:00:00Z,9,Félix Marten,Félix Marten,German-born French actor,Q41304,Q486548
+Q3228614,Q6581072,1908-04-13T00:00:00Z,9,Lea Niako,Lea Niako,German dancer and actress,Q183,Q1055
+Q3228614,Q6581072,1908-04-13T00:00:00Z,9,Lea Niako,Lea Niako,German dancer and actress,Q41304,Q1055
+Q3228614,Q6581072,1908-04-13T00:00:00Z,9,Lea Niako,Lea Niako,German dancer and actress,Q43287,Q1055
+Q3228614,Q6581072,1908-04-13T00:00:00Z,9,Lea Niako,Lea Niako,German dancer and actress,Q7318,Q1055
+Q322990,Q6581097,1911-02-01T00:00:00Z,15,Michael Murach,Michael Murach,boxer (1911-1941),Q41304,Q2765
+Q322990,Q6581097,1911-02-01T00:00:00Z,15,Michael Murach,Michael Murach,boxer (1911-1941),Q7318,Q2765
+Q323740,Q6581097,1903-02-03T00:00:00Z,8,John Sieg,John Sieg,Journalist and German Resistance fighter (1903-1942),Q30,Q12439
+Q323740,Q6581097,1903-02-03T00:00:00Z,8,John Sieg,John Sieg,Journalist and German Resistance fighter (1903-1942),Q41304,Q12439
+Q323740,Q6581097,1903-02-03T00:00:00Z,8,John Sieg,John Sieg,Journalist and German Resistance fighter (1903-1942),Q7318,Q12439
+Q3672351,Q6581097,1909-03-08T00:00:00Z,6,Fritz Buntrock,Fritz Buntrock,Holocaust perpetrator (1909-1948),Q7318,Q2916
+Q3672351,Q6581097,1909-03-08T00:00:00Z,6,Fritz Buntrock,Fritz Buntrock,Holocaust perpetrator (1909-1948),Q43287,Q2916
+Q3672351,Q6581097,1909-03-08T00:00:00Z,6,Fritz Buntrock,Fritz Buntrock,Holocaust perpetrator (1909-1948),Q41304,Q2916
+Q36843,Q6581097,1904-10-21T00:00:00Z,16,Walter Gross (politician),Walter Gross,German physician and Nazi politician (1904-1945),Q7318,Q2865
+Q36843,Q6581097,1904-10-21T00:00:00Z,16,Walter Gross (politician),Walter Gross,German physician and Nazi politician (1904-1945),Q41304,Q2865
+Q36843,Q6581097,1904-10-21T00:00:00Z,16,Walter Gross (politician),Walter Gross,German physician and Nazi politician (1904-1945),Q183,Q2865
+Q40904,Q6581097,1901-12-05T00:00:00Z,141,Werner Heisenberg,Werner Heisenberg,German theoretical physicist and nobel prize winner (1901–1976),Q7318,Q2999
+Q40904,Q6581097,1901-12-05T00:00:00Z,141,Werner Heisenberg,Werner Heisenberg,German theoretical physicist and nobel prize winner (1901–1976),Q713750,Q2999
+Q40904,Q6581097,1901-12-05T00:00:00Z,141,Werner Heisenberg,Werner Heisenberg,German theoretical physicist and nobel prize winner (1901–1976),Q41304,Q2999
+Q40904,Q6581097,1901-12-05T00:00:00Z,141,Werner Heisenberg,Werner Heisenberg,German theoretical physicist and nobel prize winner (1901–1976),Q43287,Q2999
+Q4241544,Q6581097,1905-01-01T00:00:00Z,5,Kurt Kreuzinger,Kurt Kreuzinger,German botanist (1905–1989),Q43287,
+Q4241544,Q6581097,1905-01-01T00:00:00Z,5,Kurt Kreuzinger,Kurt Kreuzinger,German botanist (1905–1989),Q41304,
+Q4241544,Q6581097,1905-01-01T00:00:00Z,5,Kurt Kreuzinger,Kurt Kreuzinger,German botanist (1905–1989),Q7318,
+Q4241544,Q6581097,1905-01-01T00:00:00Z,5,Kurt Kreuzinger,Kurt Kreuzinger,German botanist (1905–1989),Q183,
+Q4290979,Q6581097,1920-08-30T00:00:00Z,7,Hermann Merxmüller,Hermann Merxmüller,German botanist (1920–1988),Q183,Q1726
+Q4290979,Q6581097,1920-08-30T00:00:00Z,7,Hermann Merxmüller,Hermann Merxmüller,German botanist (1920–1988),Q41304,Q1726
+Q4290979,Q6581097,1920-08-30T00:00:00Z,7,Hermann Merxmüller,Hermann Merxmüller,German botanist (1920–1988),Q7318,Q1726
+Q43067,Q6581097,1900-10-07T00:00:00Z,121,Heinrich Himmler,Heinrich Himmler,German Nazi politician; leader of the German SS & main architect of the Holocaust (1900-1945),Q7318,Q1726
+Q43067,Q6581097,1900-10-07T00:00:00Z,121,Heinrich Himmler,Heinrich Himmler,German Nazi politician; leader of the German SS & main architect of the Holocaust (1900-1945),Q43287,Q1726
+Q43067,Q6581097,1900-10-07T00:00:00Z,121,Heinrich Himmler,Heinrich Himmler,German Nazi politician; leader of the German SS & main architect of the Holocaust (1900-1945),Q41304,Q1726
+Q4316490,Q6581097,1901-01-30T00:00:00Z,4,Karl Neitzel,Karl Neitzel,German navy officer and WWII submarine commander (1901-1966),Q713750,Q110011
+Q4316490,Q6581097,1901-01-30T00:00:00Z,4,Karl Neitzel,Karl Neitzel,German navy officer and WWII submarine commander (1901-1966),Q7318,Q110011
+Q4316490,Q6581097,1901-01-30T00:00:00Z,4,Karl Neitzel,Karl Neitzel,German navy officer and WWII submarine commander (1901-1966),Q43287,Q110011
+Q4316490,Q6581097,1901-01-30T00:00:00Z,4,Karl Neitzel,Karl Neitzel,German navy officer and WWII submarine commander (1901-1966),Q41304,Q110011
+Q4396519,Q6581097,1913-05-11T00:00:00Z,4,Helmut Rosenbaum,Helmut Rosenbaum,German Navy Officer and World War II U-boat commander,Q7318,Q71163
+Q4396519,Q6581097,1913-05-11T00:00:00Z,4,Helmut Rosenbaum,Helmut Rosenbaum,German Navy Officer and World War II U-boat commander,Q41304,Q71163
+Q4422709,Q6581097,1904-03-20T00:00:00Z,3,Hans Robert Scultetus,Hans Robert Scultetus,German meteorologist (1904–1976),Q7318,Q43287
+Q4422709,Q6581097,1904-03-20T00:00:00Z,3,Hans Robert Scultetus,Hans Robert Scultetus,German meteorologist (1904–1976),Q41304,Q43287
+Q4422709,Q6581097,1904-03-20T00:00:00Z,3,Hans Robert Scultetus,Hans Robert Scultetus,German meteorologist (1904–1976),Q183,Q43287
+Q4502524,Q6581097,1906-05-09T00:00:00Z,4,Otto Huth,Otto Huth,German theologian (1906–1998),Q41304,Q586
+Q4502524,Q6581097,1906-05-09T00:00:00Z,4,Otto Huth,Otto Huth,German theologian (1906–1998),Q183,Q586
+Q4502524,Q6581097,1906-05-09T00:00:00Z,4,Otto Huth,Otto Huth,German theologian (1906–1998),Q7318,Q586
+Q452526,Q6581072,1924-05-31T00:00:00Z,20,Gisela May,Gisela May,German actress and singer (1924-2016),Q41304,Q4178
+Q452526,Q6581072,1924-05-31T00:00:00Z,20,Gisela May,Gisela May,German actress and singer (1924-2016),Q16957,Q4178
+Q452526,Q6581072,1924-05-31T00:00:00Z,20,Gisela May,Gisela May,German actress and singer (1924-2016),Q7318,Q4178
+Q452526,Q6581072,1924-05-31T00:00:00Z,20,Gisela May,Gisela May,German actress and singer (1924-2016),Q183,Q4178
+Q4583,Q6581072,1929-06-12T00:00:00Z,172,Anne Frank,Anne Frank,German-born Dutch Jewish diarist and Holocaust victim (1929–1945),Q223050,Q28196010
+Q4583,Q6581072,1929-06-12T00:00:00Z,172,Anne Frank,Anne Frank,German-born Dutch Jewish diarist and Holocaust victim (1929–1945),Q7318,Q28196010
+Q4583,Q6581072,1929-06-12T00:00:00Z,172,Anne Frank,Anne Frank,German-born Dutch Jewish diarist and Holocaust victim (1929–1945),Q41304,Q28196010
+Q4612,Q6581072,1901-12-27T00:00:00Z,204,Marlene Dietrich,Marlene Dietrich,German and American actress and singer (1901–1992),Q1206012,Q464401
+Q4612,Q6581072,1901-12-27T00:00:00Z,204,Marlene Dietrich,Marlene Dietrich,German and American actress and singer (1901–1992),Q30,Q464401
+Q4612,Q6581072,1901-12-27T00:00:00Z,204,Marlene Dietrich,Marlene Dietrich,German and American actress and singer (1901–1992),Q7318,Q464401
+Q4612,Q6581072,1901-12-27T00:00:00Z,204,Marlene Dietrich,Marlene Dietrich,German and American actress and singer (1901–1992),Q43287,Q464401
+Q4612,Q6581072,1901-12-27T00:00:00Z,204,Marlene Dietrich,Marlene Dietrich,German and American actress and singer (1901–1992),Q41304,Q464401
+Q463528,Q6581072,1904-06-06T00:00:00Z,14,Tatyana Pelttser,Tatyana Pelttser,Soviet and Russian actress (1904–1992),Q2184,Q649
+Q463528,Q6581072,1904-06-06T00:00:00Z,14,Tatyana Pelttser,Tatyana Pelttser,Soviet and Russian actress (1904–1992),Q15180,Q649
+Q463528,Q6581072,1904-06-06T00:00:00Z,14,Tatyana Pelttser,Tatyana Pelttser,Soviet and Russian actress (1904–1992),Q159,Q649
+Q463528,Q6581072,1904-06-06T00:00:00Z,14,Tatyana Pelttser,Tatyana Pelttser,Soviet and Russian actress (1904–1992),Q41304,Q649
+Q463528,Q6581072,1904-06-06T00:00:00Z,14,Tatyana Pelttser,Tatyana Pelttser,Soviet and Russian actress (1904–1992),Q34266,Q649
+Q465207,Q6581097,1917-09-16T00:00:00Z,24,Alexander Schmorell,Alexander Schmorell,active within the White Rose non-violent resistance group in Nazi Germany,Q41304,Q5337
+Q465207,Q6581097,1917-09-16T00:00:00Z,24,Alexander Schmorell,Alexander Schmorell,active within the White Rose non-violent resistance group in Nazi Germany,Q7318,Q5337
+Q50362078,Q6581097,1915-08-10T00:00:00Z,7,Horst Rosenthal,Horst Rosenthal,German-Jewish cartoonist (1915–1942),Q43287,Q1799
+Q50362078,Q6581097,1915-08-10T00:00:00Z,7,Horst Rosenthal,Horst Rosenthal,German-Jewish cartoonist (1915–1942),Q41304,Q1799
+Q50362078,Q6581097,1915-08-10T00:00:00Z,7,Horst Rosenthal,Horst Rosenthal,German-Jewish cartoonist (1915–1942),Q142,Q1799
+Q5171172,Q6581072,1921-06-20T00:00:00Z,13,Cornelia Oberlander,Cornelia Oberlander,Canadian architect (1921-2021),Q7318,Q2899
+Q5171172,Q6581072,1921-06-20T00:00:00Z,13,Cornelia Oberlander,Cornelia Oberlander,Canadian architect (1921-2021),Q30,Q2899
+Q5171172,Q6581072,1921-06-20T00:00:00Z,13,Cornelia Oberlander,Cornelia Oberlander,Canadian architect (1921-2021),Q16,Q2899
+Q5171172,Q6581072,1921-06-20T00:00:00Z,13,Cornelia Oberlander,Cornelia Oberlander,Canadian architect (1921-2021),Q41304,Q2899
+Q5388051,Q6581097,1900-07-31T00:00:00Z,4,Erich Katz,Erich Katz,"German-born musician, composer, critic and professor (1900-1973)",Q30,Q268
+Q5388051,Q6581097,1900-07-31T00:00:00Z,4,Erich Katz,Erich Katz,"German-born musician, composer, critic and professor (1900-1973)",Q41304,Q268
+Q5388051,Q6581097,1900-07-31T00:00:00Z,4,Erich Katz,Erich Katz,"German-born musician, composer, critic and professor (1900-1973)",Q43287,Q268
+Q5394884,Q6581097,1914-09-10T00:00:00Z,4,Ernst-Georg Buchterkirch,Ernst-Georg Buchterkirch,"German military officer, recipient of the Knight's Cross (1914–1971)",Q183,Q105048
+Q5394884,Q6581097,1914-09-10T00:00:00Z,4,Ernst-Georg Buchterkirch,Ernst-Georg Buchterkirch,"German military officer, recipient of the Knight's Cross (1914–1971)",Q1206012,Q105048
+Q5394884,Q6581097,1914-09-10T00:00:00Z,4,Ernst-Georg Buchterkirch,Ernst-Georg Buchterkirch,"German military officer, recipient of the Knight's Cross (1914–1971)",Q41304,Q105048
+Q5394884,Q6581097,1914-09-10T00:00:00Z,4,Ernst-Georg Buchterkirch,Ernst-Georg Buchterkirch,"German military officer, recipient of the Knight's Cross (1914–1971)",Q7318,Q105048
+Q5394884,Q6581097,1914-09-10T00:00:00Z,4,Ernst-Georg Buchterkirch,Ernst-Georg Buchterkirch,"German military officer, recipient of the Knight's Cross (1914–1971)",Q43287,Q105048
+Q539603,Q6581072,1929-05-30T00:00:00Z,9,Margit Saad,Margit Saad,German actress (1929–2023),Q41304,Q1726
+Q539603,Q6581072,1929-05-30T00:00:00Z,9,Margit Saad,Margit Saad,German actress (1929–2023),Q142,Q1726
+Q539603,Q6581072,1929-05-30T00:00:00Z,9,Margit Saad,Margit Saad,German actress (1929–2023),Q183,Q1726
+Q539603,Q6581072,1929-05-30T00:00:00Z,9,Margit Saad,Margit Saad,German actress (1929–2023),Q713750,Q1726
+Q55411305,Q6581097,1901-07-07T00:00:00Z,4,Bernhard Blume (writer),Bernhard Blume,German American philologist and writer (1901–1978),Q41304,Q1022
+Q55411305,Q6581097,1901-07-07T00:00:00Z,4,Bernhard Blume (writer),Bernhard Blume,German American philologist and writer (1901–1978),Q30,Q1022
+Q55411305,Q6581097,1901-04-07T00:00:00Z,4,Bernhard Blume (writer),Bernhard Blume,German American philologist and writer (1901–1978),Q30,Q1022
+Q55411305,Q6581097,1901-04-07T00:00:00Z,4,Bernhard Blume (writer),Bernhard Blume,German American philologist and writer (1901–1978),Q41304,Q1022
+Q55415,Q6581072,1902-08-22T00:00:00Z,94,Leni Riefenstahl,Leni Riefenstahl,"German filmmaker, photographer, actress, and nazi propagandist (1902–2003)",Q183,Q64
+Q55415,Q6581072,1902-08-22T00:00:00Z,94,Leni Riefenstahl,Leni Riefenstahl,"German filmmaker, photographer, actress, and nazi propagandist (1902–2003)",Q43287,Q64
+Q55415,Q6581072,1902-08-22T00:00:00Z,94,Leni Riefenstahl,Leni Riefenstahl,"German filmmaker, photographer, actress, and nazi propagandist (1902–2003)",Q1049,Q64
+Q55415,Q6581072,1902-08-22T00:00:00Z,94,Leni Riefenstahl,Leni Riefenstahl,"German filmmaker, photographer, actress, and nazi propagandist (1902–2003)",Q41304,Q64
+Q55415,Q6581072,1902-08-22T00:00:00Z,94,Leni Riefenstahl,Leni Riefenstahl,"German filmmaker, photographer, actress, and nazi propagandist (1902–2003)",Q7318,Q64
+Q5626990,Q6581097,1914-04-08T00:00:00Z,2,Günter Amelung,Günter Amelung,German military officer and Knight's Cross recipient (1914–1944),Q183,Q64
+Q5626990,Q6581097,1914-04-08T00:00:00Z,2,Günter Amelung,Günter Amelung,German military officer and Knight's Cross recipient (1914–1944),Q1206012,Q64
+Q5626990,Q6581097,1914-04-08T00:00:00Z,2,Günter Amelung,Günter Amelung,German military officer and Knight's Cross recipient (1914–1944),Q41304,Q64
+Q5626990,Q6581097,1914-04-08T00:00:00Z,2,Günter Amelung,Günter Amelung,German military officer and Knight's Cross recipient (1914–1944),Q7318,Q64
+Q5649639,Q6581097,1911-03-08T00:00:00Z,3,Hans-Karl Mayer,Hans-Karl Mayer,German fighter ace and Knight's Cross recipient (1911–1940),Q41304,Q149087
+Q5649639,Q6581097,1911-03-08T00:00:00Z,3,Hans-Karl Mayer,Hans-Karl Mayer,German fighter ace and Knight's Cross recipient (1911–1940),Q43287,Q149087
+Q5649639,Q6581097,1911-03-08T00:00:00Z,3,Hans-Karl Mayer,Hans-Karl Mayer,German fighter ace and Knight's Cross recipient (1911–1940),Q7318,Q149087
+Q566200,Q6581072,1918-08-27T00:00:00Z,9,Anneliese Uhlig,Anneliese Uhlig,German actress (1918-2017),Q30,Q2066
+Q566200,Q6581072,1918-08-27T00:00:00Z,9,Anneliese Uhlig,Anneliese Uhlig,German actress (1918-2017),Q7318,Q2066
+Q566200,Q6581072,1918-08-27T00:00:00Z,9,Anneliese Uhlig,Anneliese Uhlig,German actress (1918-2017),Q713750,Q2066
+Q566200,Q6581072,1918-08-27T00:00:00Z,9,Anneliese Uhlig,Anneliese Uhlig,German actress (1918-2017),Q41304,Q2066
+Q566200,Q6581072,1918-08-27T00:00:00Z,9,Anneliese Uhlig,Anneliese Uhlig,German actress (1918-2017),Q43287,Q2066
+Q5700640,Q6581097,1911-05-24T00:00:00Z,4,Heinz Cramer,Heinz Cramer,German general and Knight's Cross recipient (1911-2003),Q41304,Q6602
+Q57085,Q6581097,1900-03-23T00:00:00Z,107,Erich Fromm,Erick Fromm,German-American sociologist and psychoanalyst (1900–1980),Q183,Q1794
+Q57085,Q6581097,1900-03-23T00:00:00Z,107,Erich Fromm,Erick Fromm,German-American sociologist and psychoanalyst (1900–1980),Q39,Q1794
+Q57085,Q6581097,1900-03-23T00:00:00Z,107,Erich Fromm,Erick Fromm,German-American sociologist and psychoanalyst (1900–1980),Q41304,Q1794
+Q57085,Q6581097,1900-03-23T00:00:00Z,107,Erich Fromm,Erick Fromm,German-American sociologist and psychoanalyst (1900–1980),Q43287,Q1794
+Q57085,Q6581097,1900-03-23T00:00:00Z,107,Erich Fromm,Erick Fromm,German-American sociologist and psychoanalyst (1900–1980),Q30,Q1794
+Q57109,Q6581097,1911-03-16T00:00:00Z,79,Josef Mengele,Josef Mengele,Nazi SS doctor and Military Officer at Auschwitz (1911–1979),Q41304,Q489685
+Q57109,Q6581097,1911-03-16T00:00:00Z,79,Josef Mengele,Josef Mengele,Nazi SS doctor and Military Officer at Auschwitz (1911–1979),Q7318,Q489685
+Q57109,Q6581097,1911-03-16T00:00:00Z,79,Josef Mengele,Josef Mengele,Nazi SS doctor and Military Officer at Auschwitz (1911–1979),Q43287,Q489685
+Q57163,Q6581097,1907-10-09T00:00:00Z,46,Horst Wessel,Horst Wessel,SA officer (1907-1930),Q43287,Q2112
+Q57163,Q6581097,1907-10-09T00:00:00Z,46,Horst Wessel,Horst Wessel,SA officer (1907-1930),Q41304,Q2112
+Q572373,Q6581097,1904-12-25T00:00:00Z,8,Gerhard von Mende,Gerhard von Mende,German scholar (1904–1963),Q183,Q1773
+Q572373,Q6581097,1904-12-25T00:00:00Z,8,Gerhard von Mende,Gerhard von Mende,German scholar (1904–1963),Q41304,Q1773
+Q572373,Q6581097,1904-12-25T00:00:00Z,8,Gerhard von Mende,Gerhard von Mende,German scholar (1904–1963),Q7318,Q1773
+Q572373,Q6581097,1904-12-25T00:00:00Z,8,Gerhard von Mende,Gerhard von Mende,German scholar (1904–1963),Q34266,Q1773
+Q57304,Q6581097,1911-06-29T00:00:00Z,44,Prince Bernhard of Lippe-Biesterfeld,Prince Bernhard of Lippe-Biesterfeld,husband of Queen Juliana of the Netherlands (1911-2004); prince consort of the Netherlands (1911-2004),Q41304,Q3150
+Q57304,Q6581097,1911-06-29T00:00:00Z,44,Prince Bernhard of Lippe-Biesterfeld,Prince Bernhard of Lippe-Biesterfeld,husband of Queen Juliana of the Netherlands (1911-2004); prince consort of the Netherlands (1911-2004),Q29999,Q3150
+Q57304,Q6581097,1911-06-29T00:00:00Z,44,Prince Bernhard of Lippe-Biesterfeld,Prince Bernhard of Lippe-Biesterfeld,husband of Queen Juliana of the Netherlands (1911-2004); prince consort of the Netherlands (1911-2004),Q43287,Q3150
+Q57309,Q6581097,1907-12-28T00:00:00Z,41,Erich Mielke,Erich Mielke,German politician (1907-2000),Q15180,Q64
+Q57309,Q6581097,1907-12-28T00:00:00Z,41,Erich Mielke,Erich Mielke,German politician (1907-2000),Q41304,Q64
+Q57309,Q6581097,1907-12-28T00:00:00Z,41,Erich Mielke,Erich Mielke,German politician (1907-2000),Q43287,Q64
+Q57309,Q6581097,1907-12-28T00:00:00Z,41,Erich Mielke,Erich Mielke,German politician (1907-2000),Q183,Q64
+Q57309,Q6581097,1907-12-28T00:00:00Z,41,Erich Mielke,Erich Mielke,German politician (1907-2000),Q16957,Q64
+Q5735875,Q6581097,1920-05-13T00:00:00Z,5,Herbert Werner,Herbert Werner,German naval officer and submariner (1920–2013),Q41304,Q2833
+Q5735875,Q6581097,1920-05-13T00:00:00Z,5,Herbert Werner,Herbert Werner,German naval officer and submariner (1920–2013),Q30,Q2833
+Q5735875,Q6581097,1920-05-13T00:00:00Z,5,Herbert Werner,Herbert Werner,German naval officer and submariner (1920–2013),Q2415901,Q2833
+Q5735875,Q6581097,1920-05-13T00:00:00Z,5,Herbert Werner,Herbert Werner,German naval officer and submariner (1920–2013),Q713750,Q2833
+Q5735875,Q6581097,1920-05-13T00:00:00Z,5,Herbert Werner,Herbert Werner,German naval officer and submariner (1920–2013),Q7318,Q2833
+Q57384,Q6581097,1912-03-23T00:00:00Z,108,Wernher von Braun,Wernher von Braun,German and later American aerospace engineer and space architect (1912–1977),Q41304,Q988588
+Q57384,Q6581097,1912-03-23T00:00:00Z,108,Wernher von Braun,Wernher von Braun,German and later American aerospace engineer and space architect (1912–1977),Q30,Q988588
+Q57384,Q6581097,1912-03-23T00:00:00Z,108,Wernher von Braun,Wernher von Braun,German and later American aerospace engineer and space architect (1912–1977),Q713750,Q988588
+Q57384,Q6581097,1912-03-23T00:00:00Z,108,Wernher von Braun,Wernher von Braun,German and later American aerospace engineer and space architect (1912–1977),Q7318,Q988588
+Q57384,Q6581097,1912-03-23T00:00:00Z,108,Wernher von Braun,Wernher von Braun,German and later American aerospace engineer and space architect (1912–1977),Q43287,Q988588
+Q5739572,Q6581097,1905-07-13T00:00:00Z,3,Herman Bottcher,Herman Bottcher,Recipient of the Purple Heart medal (1905-1944),Q30,Q494299
+Q5739572,Q6581097,1905-07-13T00:00:00Z,3,Herman Bottcher,Herman Bottcher,Recipient of the Purple Heart medal (1905-1944),Q41304,Q494299
+Q5739572,Q6581097,1905-07-13T00:00:00Z,3,Herman Bottcher,Herman Bottcher,Recipient of the Purple Heart medal (1905-1944),Q43287,Q494299
+Q5740732,Q6581097,1900-01-31T00:00:00Z,5,Hermann Hölter,Hermann Hölter,modern pentathlete (1900-1989),Q713750,Q14817
+Q5740732,Q6581097,1900-01-31T00:00:00Z,5,Hermann Hölter,Hermann Hölter,modern pentathlete (1900-1989),Q41304,Q14817
+Q5740732,Q6581097,1900-01-31T00:00:00Z,5,Hermann Hölter,Hermann Hölter,modern pentathlete (1900-1989),Q183,Q14817
+Q5740732,Q6581097,1900-01-31T00:00:00Z,5,Hermann Hölter,Hermann Hölter,modern pentathlete (1900-1989),Q43287,Q14817
+Q5740732,Q6581097,1900-01-31T00:00:00Z,5,Hermann Hölter,Hermann Hölter,modern pentathlete (1900-1989),Q7318,Q14817
+Q57535,Q6581097,1907-12-27T00:00:00Z,30,Sebastian Haffner,Sebastian Haffner,German journalist and author (1907–1999),Q183,Q699800
+Q57535,Q6581097,1907-12-27T00:00:00Z,30,Sebastian Haffner,Sebastian Haffner,German journalist and author (1907–1999),Q43287,Q699800
+Q57535,Q6581097,1907-12-27T00:00:00Z,30,Sebastian Haffner,Sebastian Haffner,German journalist and author (1907–1999),Q41304,Q699800
+Q57535,Q6581097,1907-12-27T00:00:00Z,30,Sebastian Haffner,Sebastian Haffner,German journalist and author (1907–1999),Q713750,Q699800
+Q57535,Q6581097,1907-12-27T00:00:00Z,30,Sebastian Haffner,Sebastian Haffner,German journalist and author (1907–1999),Q145,Q699800
+Q57535,Q6581097,1907-12-27T00:00:00Z,30,Sebastian Haffner,Sebastian Haffner,German journalist and author (1907–1999),Q7318,Q699800
+Q57575,Q6581097,1907-02-04T00:00:00Z,34,Otto Ohlendorf,Otto Ohlendorf,German SS officer and Holocaust perpetrator (1907–1951),Q7318,Q1623694
+Q57575,Q6581097,1907-02-04T00:00:00Z,34,Otto Ohlendorf,Otto Ohlendorf,German SS officer and Holocaust perpetrator (1907–1951),Q43287,Q1623694
+Q57575,Q6581097,1907-02-04T00:00:00Z,34,Otto Ohlendorf,Otto Ohlendorf,German SS officer and Holocaust perpetrator (1907–1951),Q41304,Q1623694
+Q57676,Q6581097,1906-10-30T00:00:00Z,38,Hermann Fegelein,Hermann Fegelein,German lieutenant general in the Waffen-SS (1906–1945),Q41304,Q14859
+Q57676,Q6581097,1906-10-30T00:00:00Z,38,Hermann Fegelein,Hermann Fegelein,German lieutenant general in the Waffen-SS (1906–1945),Q7318,Q14859
+Q57676,Q6581097,1906-10-30T00:00:00Z,38,Hermann Fegelein,Hermann Fegelein,German lieutenant general in the Waffen-SS (1906–1945),Q154195,Q14859
+Q57688,Q6581097,1906-11-10T00:00:00Z,33,Josef Kramer,Josef Kramer,"German SS officer, concentration camp commandant, and convicted war criminal (1906–1945)",Q7318,Q1726
+Q57688,Q6581097,1906-11-10T00:00:00Z,33,Josef Kramer,Josef Kramer,"German SS officer, concentration camp commandant, and convicted war criminal (1906–1945)",Q43287,Q1726
+Q57688,Q6581097,1906-11-10T00:00:00Z,33,Josef Kramer,Josef Kramer,"German SS officer, concentration camp commandant, and convicted war criminal (1906–1945)",Q41304,Q1726
+Q57708,Q6581097,1901-11-25T00:00:00Z,25,Arthur Liebehenschel,Arthur Liebehenschel,SS officer (1901–1948),Q43287,Q268
+Q57708,Q6581097,1901-11-25T00:00:00Z,25,Arthur Liebehenschel,Arthur Liebehenschel,SS officer (1901–1948),Q7318,Q268
+Q57708,Q6581097,1901-11-25T00:00:00Z,25,Arthur Liebehenschel,Arthur Liebehenschel,SS officer (1901–1948),Q41304,Q268
+Q57820,Q6581097,1918-09-22T00:00:00Z,38,Hans Scholl,Hans Scholl,"German pacifist, executed by Nazi Germany (1918–1943)",Q7318,Q1146049
+Q57820,Q6581097,1918-09-22T00:00:00Z,38,Hans Scholl,Hans Scholl,"German pacifist, executed by Nazi Germany (1918–1943)",Q41304,Q1146049
+Q57889,Q6581097,1905-08-13T00:00:00Z,30,Franz Ziereis,Franz Ziereis,"German SS officer, commandant of the Mauthausen concentration camp (1905-1945)",Q7318,Q1726
+Q57889,Q6581097,1905-08-13T00:00:00Z,30,Franz Ziereis,Franz Ziereis,"German SS officer, commandant of the Mauthausen concentration camp (1905-1945)",Q41304,Q1726
+Q57889,Q6581097,1905-08-13T00:00:00Z,30,Franz Ziereis,Franz Ziereis,"German SS officer, commandant of the Mauthausen concentration camp (1905-1945)",Q43287,Q1726
+Q5927602,Q6581097,1915-07-15T00:00:00Z,6,Hubert Schiffer,Hubert Schiffer,"German Jesuit, survivor of atomic bombing of Hiroshima (1915-1982)",Q713750,Q3771
+Q5927602,Q6581097,1915-07-15T00:00:00Z,6,Hubert Schiffer,Hubert Schiffer,"German Jesuit, survivor of atomic bombing of Hiroshima (1915-1982)",Q41304,Q3771
+Q5927602,Q6581097,1915-07-15T00:00:00Z,6,Hubert Schiffer,Hubert Schiffer,"German Jesuit, survivor of atomic bombing of Hiroshima (1915-1982)",Q43287,Q3771
+Q6001165,Q6581072,1909-06-18T00:00:00Z,13,Ilse Braun,Ilse Braun,sister of Eva Braun (1909-1979),Q183,Q1726
+Q6001165,Q6581072,1909-06-18T00:00:00Z,13,Ilse Braun,Ilse Braun,sister of Eva Braun (1909-1979),Q43287,Q1726
+Q6001165,Q6581072,1909-06-18T00:00:00Z,13,Ilse Braun,Ilse Braun,sister of Eva Braun (1909-1979),Q41304,Q1726
+Q6001165,Q6581072,1909-06-18T00:00:00Z,13,Ilse Braun,Ilse Braun,sister of Eva Braun (1909-1979),Q7318,Q1726
+Q60039,Q6581097,1904-03-07T00:00:00Z,81,Reinhard Heydrich,Reinhard Heydrich,German Nazi SS and Gestapo police official and main architect of the Holocaust Genocide (1904-1942),Q7318,Q2814
+Q60039,Q6581097,1904-03-07T00:00:00Z,81,Reinhard Heydrich,Reinhard Heydrich,German Nazi SS and Gestapo police official and main architect of the Holocaust Genocide (1904-1942),Q41304,Q2814
+Q60039,Q6581097,1904-03-07T00:00:00Z,81,Reinhard Heydrich,Reinhard Heydrich,German Nazi SS and Gestapo police official and main architect of the Holocaust Genocide (1904-1942),Q43287,Q2814
+Q6005678,Q6581072,1927-05-25T00:00:00Z,7,Imogen Stuart,Imogen Stuart,Irish sculptor (1927-2024),Q41304,Q64
+Q6005678,Q6581072,1927-05-25T00:00:00Z,7,Imogen Stuart,Imogen Stuart,Irish sculptor (1927-2024),Q183,Q64
+Q6005678,Q6581072,1927-05-25T00:00:00Z,7,Imogen Stuart,Imogen Stuart,Irish sculptor (1927-2024),Q27,Q64
+Q6005678,Q6581072,1927-05-25T00:00:00Z,7,Imogen Stuart,Imogen Stuart,Irish sculptor (1927-2024),Q713750,Q64
+Q6005678,Q6581072,1927-05-25T00:00:00Z,7,Imogen Stuart,Imogen Stuart,Irish sculptor (1927-2024),Q7318,Q64
+Q60287,Q6581097,1904-01-02T00:00:00Z,30,Walter Heitler,Walter Heitler,physicist (1904-1981),Q39,Q1040
+Q60287,Q6581097,1904-01-02T00:00:00Z,30,Walter Heitler,Walter Heitler,physicist (1904-1981),Q39,Q507854
+Q60287,Q6581097,1904-01-02T00:00:00Z,30,Walter Heitler,Walter Heitler,physicist (1904-1981),Q41304,Q1040
+Q60287,Q6581097,1904-01-02T00:00:00Z,30,Walter Heitler,Walter Heitler,physicist (1904-1981),Q41304,Q507854
+Q60343,Q6581097,1910-04-18T00:00:00Z,21,Rudolf Lange,Rudolf Lange,SS officer (1910-1945),Q7318,Q44498
+Q60343,Q6581097,1910-04-18T00:00:00Z,21,Rudolf Lange,Rudolf Lange,SS officer (1910-1945),Q27306,Q44498
+Q60343,Q6581097,1910-04-18T00:00:00Z,21,Rudolf Lange,Rudolf Lange,SS officer (1910-1945),Q41304,Q44498
+Q60403,Q6581097,1909-10-14T00:00:00Z,22,Bernd Rosemeyer,Bernd Rosemeyer,German racecar driver and icon of national-socialism,Q38872,Q4185
+Q60403,Q6581097,1909-10-14T00:00:00Z,22,Bernd Rosemeyer,Bernd Rosemeyer,German racecar driver and icon of national-socialism,Q41304,Q4185
+Q60403,Q6581097,1909-10-14T00:00:00Z,22,Bernd Rosemeyer,Bernd Rosemeyer,German racecar driver and icon of national-socialism,Q7318,Q4185
+Q60502,Q6581097,1909-11-24T00:00:00Z,26,Gerhard Gentzen,Gerhard Gentzen,German mathematician (1909-1945),Q41304,Q4098
+Q60502,Q6581097,1909-11-24T00:00:00Z,26,Gerhard Gentzen,Gerhard Gentzen,German mathematician (1909-1945),Q27306,Q4098
+Q60502,Q6581097,1909-11-24T00:00:00Z,26,Gerhard Gentzen,Gerhard Gentzen,German mathematician (1909-1945),Q7318,Q4098
+Q60714,Q6581097,1903-07-10T00:00:00Z,21,Werner Best,Werner Best,"German lawyer, police chief, Gestapo organizer, National Socialist, war criminal, and Holocaust perpetrator (1903–1989)",Q183,Q2973
+Q60714,Q6581097,1903-07-10T00:00:00Z,21,Werner Best,Werner Best,"German lawyer, police chief, Gestapo organizer, National Socialist, war criminal, and Holocaust perpetrator (1903–1989)",Q7318,Q2973
+Q60714,Q6581097,1903-07-10T00:00:00Z,21,Werner Best,Werner Best,"German lawyer, police chief, Gestapo organizer, National Socialist, war criminal, and Holocaust perpetrator (1903–1989)",Q41304,Q2973
+Q60714,Q6581097,1903-07-10T00:00:00Z,21,Werner Best,Werner Best,"German lawyer, police chief, Gestapo organizer, National Socialist, war criminal, and Holocaust perpetrator (1903–1989)",Q43287,Q2973
+Q60831980,Q6581097,1918-05-19T00:00:00Z,11,Egon Albrecht-Lemke,Egon Albrecht-Lemke,German-Brazilian fighter ace and Knight's Cross recipient (1918–1944),Q155,Q4361
+Q60831980,Q6581097,1918-05-19T00:00:00Z,11,Egon Albrecht-Lemke,Egon Albrecht-Lemke,German-Brazilian fighter ace and Knight's Cross recipient (1918–1944),Q183,Q4361
+Q60831980,Q6581097,1918-05-19T00:00:00Z,11,Egon Albrecht-Lemke,Egon Albrecht-Lemke,German-Brazilian fighter ace and Knight's Cross recipient (1918–1944),Q7318,Q4361
+Q60831980,Q6581097,1918-05-19T00:00:00Z,11,Egon Albrecht-Lemke,Egon Albrecht-Lemke,German-Brazilian fighter ace and Knight's Cross recipient (1918–1944),Q41304,Q4361
+Q60876,Q6581097,1902-03-07T00:00:00Z,36,Heinz Rühmann,Heinz Rühmann,German actor (1902–1994),Q713750,Q2066
+Q60876,Q6581097,1902-03-07T00:00:00Z,36,Heinz Rühmann,Heinz Rühmann,German actor (1902–1994),Q7318,Q2066
+Q60876,Q6581097,1902-03-07T00:00:00Z,36,Heinz Rühmann,Heinz Rühmann,German actor (1902–1994),Q183,Q2066
+Q60876,Q6581097,1902-03-07T00:00:00Z,36,Heinz Rühmann,Heinz Rühmann,German actor (1902–1994),Q27306,Q2066
+Q60876,Q6581097,1902-03-07T00:00:00Z,36,Heinz Rühmann,Heinz Rühmann,German actor (1902–1994),Q41304,Q2066
+Q61183,Q6581097,1903-02-10T00:00:00Z,22,Waldemar Hoven,Waldemar Hoven,"German physician, SS officer and convicted war criminal (1903-1948)",Q41304,Q2833
+Q61183,Q6581097,1903-02-10T00:00:00Z,22,Waldemar Hoven,Waldemar Hoven,"German physician, SS officer and convicted war criminal (1903-1948)",Q7318,Q2833
+Q61185,Q6581097,1914-01-17T00:00:00Z,20,Kurt Franz,Kurt Franz,"SS officer, third commandant of Treblinka extermination camp",Q7318,Q1718
+Q61185,Q6581097,1914-01-17T00:00:00Z,20,Kurt Franz,Kurt Franz,"SS officer, third commandant of Treblinka extermination camp",Q41304,Q1718
+Q61185,Q6581097,1914-01-17T00:00:00Z,20,Kurt Franz,Kurt Franz,"SS officer, third commandant of Treblinka extermination camp",Q713750,Q1718
+Q61533,Q6581097,1912-10-05T00:00:00Z,23,Fritz Fischer (medical doctor),Fritz Fischer,"German SS officer and concentration camp doctor, convicted war criminal (1912-2003)",Q713750,Q700055
+Q61533,Q6581097,1912-10-05T00:00:00Z,23,Fritz Fischer (medical doctor),Fritz Fischer,"German SS officer and concentration camp doctor, convicted war criminal (1912-2003)",Q183,Q700055
+Q61533,Q6581097,1912-10-05T00:00:00Z,23,Fritz Fischer (medical doctor),Fritz Fischer,"German SS officer and concentration camp doctor, convicted war criminal (1912-2003)",Q41304,Q700055
+Q61533,Q6581097,1912-10-05T00:00:00Z,23,Fritz Fischer (medical doctor),Fritz Fischer,"German SS officer and concentration camp doctor, convicted war criminal (1912-2003)",Q7318,Q700055
+Q61550,Q6581097,1909-08-16T00:00:00Z,16,Kurt Lischka,Kurt Lischka,SS Lieutenant Colonel & Gestapo chief assigned to Paris (1909-1989),Q41304,Q1799
+Q61550,Q6581097,1909-08-16T00:00:00Z,16,Kurt Lischka,Kurt Lischka,SS Lieutenant Colonel & Gestapo chief assigned to Paris (1909-1989),Q183,Q1799
+Q61550,Q6581097,1909-08-16T00:00:00Z,16,Kurt Lischka,Kurt Lischka,SS Lieutenant Colonel & Gestapo chief assigned to Paris (1909-1989),Q7318,Q1799
+Q61945,Q6581097,1900-10-10T00:00:00Z,23,Franz Walter Stahlecker,Franz Walter Stahlecker,"German police officer, Holocaust perpetrator (1900-1942)",Q43287,Q80526
+Q61945,Q6581097,1900-10-10T00:00:00Z,23,Franz Walter Stahlecker,Franz Walter Stahlecker,"German police officer, Holocaust perpetrator (1900-1942)",Q41304,Q80526
+Q61945,Q6581097,1900-10-10T00:00:00Z,23,Franz Walter Stahlecker,Franz Walter Stahlecker,"German police officer, Holocaust perpetrator (1900-1942)",Q7318,Q80526
+Q61996,Q6581097,1905-07-03T00:00:00Z,15,Fritz Hartjenstein,Fritz Hartjenstein,SS officer (1905–1954),Q7318,Q6850
+Q61996,Q6581097,1905-07-03T00:00:00Z,15,Fritz Hartjenstein,Fritz Hartjenstein,SS officer (1905–1954),Q43287,Q6850
+Q61996,Q6581097,1905-07-03T00:00:00Z,15,Fritz Hartjenstein,Fritz Hartjenstein,SS officer (1905–1954),Q41304,Q6850
+Q62009,Q6581097,1908-05-27T00:00:00Z,20,Fritz Witt,Fritz Witt,SS general (1908–1944),Q1206012,Q314439
+Q62009,Q6581097,1908-05-27T00:00:00Z,20,Fritz Witt,Fritz Witt,SS general (1908–1944),Q41304,Q314439
+Q62009,Q6581097,1908-05-27T00:00:00Z,20,Fritz Witt,Fritz Witt,SS general (1908–1944),Q7318,Q314439
+Q62414,Q6581097,1923-11-05T00:00:00Z,27,Rudolf Augstein,Rudolf Augstein,German journalist (1923-2002),Q713750,Q1715
+Q62414,Q6581097,1923-11-05T00:00:00Z,27,Rudolf Augstein,Rudolf Augstein,German journalist (1923-2002),Q41304,Q1715
+Q62414,Q6581097,1923-11-05T00:00:00Z,27,Rudolf Augstein,Rudolf Augstein,German journalist (1923-2002),Q7318,Q1715
+Q62414,Q6581097,1923-11-05T00:00:00Z,27,Rudolf Augstein,Rudolf Augstein,German journalist (1923-2002),Q183,Q1715
+Q62471,Q6581097,1913-03-27T00:00:00Z,16,Theodor Dannecker,Theodor Dannecker,German SS officer and Holocaust perpetrator (1913–1945),Q7318,Q3806
+Q62471,Q6581097,1913-03-27T00:00:00Z,16,Theodor Dannecker,Theodor Dannecker,German SS officer and Holocaust perpetrator (1913–1945),Q43287,Q3806
+Q62471,Q6581097,1913-03-27T00:00:00Z,16,Theodor Dannecker,Theodor Dannecker,German SS officer and Holocaust perpetrator (1913–1945),Q41304,Q3806
+Q62539,Q6581072,1929-08-08T00:00:00Z,29,Gudrun Burwitz,Gudrun Burwitz,German Neo-Nazi and daughter of SS chief Heinrich Himmler (1929-2018),Q7318,Q1726
+Q62539,Q6581072,1929-08-08T00:00:00Z,29,Gudrun Burwitz,Gudrun Burwitz,German Neo-Nazi and daughter of SS chief Heinrich Himmler (1929-2018),Q41304,Q1726
+Q62539,Q6581072,1929-08-08T00:00:00Z,29,Gudrun Burwitz,Gudrun Burwitz,German Neo-Nazi and daughter of SS chief Heinrich Himmler (1929-2018),Q183,Q1726
+Q62616,Q6581097,1905-04-29T00:00:00Z,21,Erich Naumann,Erich Naumann,"German SS general, SD member, Einsatzgruppe B chief and convicted war criminal (1905–1951)",Q43287,Q8738
+Q62616,Q6581097,1905-04-29T00:00:00Z,21,Erich Naumann,Erich Naumann,"German SS general, SD member, Einsatzgruppe B chief and convicted war criminal (1905–1951)",Q41304,Q8738
+Q62616,Q6581097,1905-04-29T00:00:00Z,21,Erich Naumann,Erich Naumann,"German SS general, SD member, Einsatzgruppe B chief and convicted war criminal (1905–1951)",Q7318,Q8738
+Q62626,Q6581097,1914-06-20T00:00:00Z,21,Albrecht Brandi,Albrecht Brandi,German navy officer and world war II U-boat commander,Q41304,Q1295
+Q62626,Q6581097,1914-06-20T00:00:00Z,21,Albrecht Brandi,Albrecht Brandi,German navy officer and world war II U-boat commander,Q7318,Q1295
+Q62626,Q6581097,1914-06-20T00:00:00Z,21,Albrecht Brandi,Albrecht Brandi,German navy officer and world war II U-boat commander,Q183,Q1295
+Q62626,Q6581097,1914-06-20T00:00:00Z,21,Albrecht Brandi,Albrecht Brandi,German navy officer and world war II U-boat commander,Q713750,Q1295
+Q62626,Q6581097,1914-06-20T00:00:00Z,21,Albrecht Brandi,Albrecht Brandi,German navy officer and world war II U-boat commander,Q43287,Q1295
+Q62902,Q6581072,1919-10-25T00:00:00Z,26,Beate Uhse-Rotermund,Beate Uhse-Rotermund,German pilot and sex shop entrepreneur (1919–2001),Q41304,Q1309411
+Q62902,Q6581072,1919-10-25T00:00:00Z,26,Beate Uhse-Rotermund,Beate Uhse-Rotermund,German pilot and sex shop entrepreneur (1919–2001),Q41304,Q5584
+Q62902,Q6581072,1919-10-25T00:00:00Z,26,Beate Uhse-Rotermund,Beate Uhse-Rotermund,German pilot and sex shop entrepreneur (1919–2001),Q7318,Q1309411
+Q62902,Q6581072,1919-10-25T00:00:00Z,26,Beate Uhse-Rotermund,Beate Uhse-Rotermund,German pilot and sex shop entrepreneur (1919–2001),Q7318,Q5584
+Q62902,Q6581072,1919-10-25T00:00:00Z,26,Beate Uhse-Rotermund,Beate Uhse-Rotermund,German pilot and sex shop entrepreneur (1919–2001),Q183,Q1309411
+Q62902,Q6581072,1919-10-25T00:00:00Z,26,Beate Uhse-Rotermund,Beate Uhse-Rotermund,German pilot and sex shop entrepreneur (1919–2001),Q183,Q5584
+Q62963,Q6581097,1910-11-28T00:00:00Z,21,Heinz Hoffmann,Heinz Hoffmann,German politician (SED) (1910-1985),Q7318,Q1973682
+Q62963,Q6581097,1910-11-28T00:00:00Z,21,Heinz Hoffmann,Heinz Hoffmann,German politician (SED) (1910-1985),Q15180,Q1973682
+Q62963,Q6581097,1910-11-28T00:00:00Z,21,Heinz Hoffmann,Heinz Hoffmann,German politician (SED) (1910-1985),Q43287,Q1973682
+Q62963,Q6581097,1910-11-28T00:00:00Z,21,Heinz Hoffmann,Heinz Hoffmann,German politician (SED) (1910-1985),Q41304,Q1973682
+Q62963,Q6581097,1910-11-28T00:00:00Z,21,Heinz Hoffmann,Heinz Hoffmann,German politician (SED) (1910-1985),Q16957,Q1973682
+Q63071,Q6581097,1921-12-04T00:00:00Z,18,Paul Schäfer,Paul Schäfer,German criminal and founder of a sect and agricultural commune Colonia Dignidad in Chile (1921–2010),Q41304,Q586
+Q63071,Q6581097,1921-12-04T00:00:00Z,18,Paul Schäfer,Paul Schäfer,German criminal and founder of a sect and agricultural commune Colonia Dignidad in Chile (1921–2010),Q414,Q586
+Q63071,Q6581097,1921-12-04T00:00:00Z,18,Paul Schäfer,Paul Schäfer,German criminal and founder of a sect and agricultural commune Colonia Dignidad in Chile (1921–2010),Q298,Q586
+Q63071,Q6581097,1921-12-04T00:00:00Z,18,Paul Schäfer,Paul Schäfer,German criminal and founder of a sect and agricultural commune Colonia Dignidad in Chile (1921–2010),Q183,Q586
+Q63071,Q6581097,1921-12-04T00:00:00Z,18,Paul Schäfer,Paul Schäfer,German criminal and founder of a sect and agricultural commune Colonia Dignidad in Chile (1921–2010),Q7318,Q586
+Q63195,Q6581097,1900-05-23T00:00:00Z,20,Franz Neumann (political scientist),Franz Leopold Neumann,German political activist (1900–1954),Q41304,Q588
+Q63195,Q6581097,1900-05-23T00:00:00Z,20,Franz Neumann (political scientist),Franz Leopold Neumann,German political activist (1900–1954),Q43287,Q588
+Q63234,Q6581097,1906-08-20T00:00:00Z,23,Hans Aumeier,Hans Aumeier,German SS officer (1906-1948),Q41304,Q7042
+Q63234,Q6581097,1906-08-20T00:00:00Z,23,Hans Aumeier,Hans Aumeier,German SS officer (1906-1948),Q7318,Q7042
+Q63234,Q6581097,1906-08-20T00:00:00Z,23,Hans Aumeier,Hans Aumeier,German SS officer (1906-1948),Q43287,Q7042
+Q63371,Q6581097,1906-06-14T00:00:00Z,20,Heinrich Schwarz,Heinrich Schwarz,SS officer (1906-1947),Q43287,Q1726
+Q63371,Q6581097,1906-06-14T00:00:00Z,20,Heinrich Schwarz,Heinrich Schwarz,SS officer (1906-1947),Q7318,Q1726
+Q63371,Q6581097,1906-06-14T00:00:00Z,20,Heinrich Schwarz,Heinrich Schwarz,SS officer (1906-1947),Q41304,Q1726
+Q63528,Q6581097,1901-05-02T00:00:00Z,18,Willi Bredel,Willi Bredel,German writer and politician (1901-1964),Q43287,Q1055
+Q63528,Q6581097,1901-05-02T00:00:00Z,18,Willi Bredel,Willi Bredel,German writer and politician (1901-1964),Q41304,Q1055
+Q63528,Q6581097,1901-05-02T00:00:00Z,18,Willi Bredel,Willi Bredel,German writer and politician (1901-1964),Q183,Q1055
+Q63528,Q6581097,1901-05-02T00:00:00Z,18,Willi Bredel,Willi Bredel,German writer and politician (1901-1964),Q16957,Q1055
+Q63702,Q6581072,1923-03-07T00:00:00Z,41,Irma Grese,Irma Grese,German concentration camp guard (1923–1945),Q183,Q56435143
+Q63702,Q6581072,1923-10-07T00:00:00Z,41,Irma Grese,Irma Grese,German concentration camp guard (1923–1945),Q7318,Q56435143
+Q63702,Q6581072,1923-03-07T00:00:00Z,41,Irma Grese,Irma Grese,German concentration camp guard (1923–1945),Q41304,Q56435143
+Q63702,Q6581072,1923-03-07T00:00:00Z,41,Irma Grese,Irma Grese,German concentration camp guard (1923–1945),Q7318,Q56435143
+Q63702,Q6581072,1923-10-07T00:00:00Z,41,Irma Grese,Irma Grese,German concentration camp guard (1923–1945),Q183,Q56435143
+Q63702,Q6581072,1923-10-07T00:00:00Z,41,Irma Grese,Irma Grese,German concentration camp guard (1923–1945),Q41304,Q56435143
+Q63962,Q6581097,1910-03-14T00:00:00Z,21,Ernst Schäfer,Ernst Schäfer,German zoologist (1910-1992),Q41304,Q365
+Q63962,Q6581097,1910-03-14T00:00:00Z,21,Ernst Schäfer,Ernst Schäfer,German zoologist (1910-1992),Q183,Q365
+Q63962,Q6581097,1910-03-14T00:00:00Z,21,Ernst Schäfer,Ernst Schäfer,German zoologist (1910-1992),Q43287,Q365
+Q63962,Q6581097,1910-03-14T00:00:00Z,21,Ernst Schäfer,Ernst Schäfer,German zoologist (1910-1992),Q7318,Q365
+Q64198,Q6581072,1900-06-01T00:00:00Z,20,Johanna Wolf,Johanna Wolf,Secretary to Adolf Hitler (1900–1985),Q41304,Q1726
+Q64198,Q6581072,1900-06-01T00:00:00Z,20,Johanna Wolf,Johanna Wolf,Secretary to Adolf Hitler (1900–1985),Q7318,Q1726
+Q64198,Q6581072,1900-06-01T00:00:00Z,20,Johanna Wolf,Johanna Wolf,Secretary to Adolf Hitler (1900–1985),Q43287,Q1726
+Q64274,Q6581097,1900-08-17T00:00:00Z,11,Paul Kirchhoff,Paul Kirchhoff,German anthropologist (1900-1972),Q96,Q1651003
+Q64274,Q6581097,1900-08-17T00:00:00Z,11,Paul Kirchhoff,Paul Kirchhoff,German anthropologist (1900-1972),Q43287,Q1651003
+Q64274,Q6581097,1900-08-17T00:00:00Z,11,Paul Kirchhoff,Paul Kirchhoff,German anthropologist (1900-1972),Q41304,Q1651003
+Q64670,Q6581097,1912-02-14T00:00:00Z,13,Josef Schwammberger,Josef Schwammberger,"Austrian Nazi SS Officer, murderer (1912-2004)",Q1206012,Q185541
+Q64670,Q6581097,1912-02-14T00:00:00Z,13,Josef Schwammberger,Josef Schwammberger,"Austrian Nazi SS Officer, murderer (1912-2004)",Q40,Q185541
+Q64670,Q6581097,1912-02-14T00:00:00Z,13,Josef Schwammberger,Josef Schwammberger,"Austrian Nazi SS Officer, murderer (1912-2004)",Q183,Q185541
+Q64670,Q6581097,1912-02-14T00:00:00Z,13,Josef Schwammberger,Josef Schwammberger,"Austrian Nazi SS Officer, murderer (1912-2004)",Q41304,Q185541
+Q64799,Q6581097,1920-03-14T00:00:00Z,28,Heinz Hitler,Heinz Hitler,nephew of Adolf Hitler (1920–1942),Q1206012,Q1733
+Q64799,Q6581097,1920-03-14T00:00:00Z,28,Heinz Hitler,Heinz Hitler,nephew of Adolf Hitler (1920–1942),Q41304,Q1733
+Q65385,Q6581097,1904-06-14T00:00:00Z,16,Hans Bernd Gisevius,Hans Bernd Gisevius,German diplomat and intelligence officer (1904–1974),Q183,Q3912
+Q65385,Q6581097,1904-06-14T00:00:00Z,16,Hans Bernd Gisevius,Hans Bernd Gisevius,German diplomat and intelligence officer (1904–1974),Q41304,Q3912
+Q65385,Q6581097,1904-06-14T00:00:00Z,16,Hans Bernd Gisevius,Hans Bernd Gisevius,German diplomat and intelligence officer (1904–1974),Q43287,Q3912
+Q65385,Q6581097,1904-06-14T00:00:00Z,16,Hans Bernd Gisevius,Hans Bernd Gisevius,German diplomat and intelligence officer (1904–1974),Q7318,Q3912
+Q65385,Q6581097,1904-07-14T00:00:00Z,16,Hans Bernd Gisevius,Hans Bernd Gisevius,German diplomat and intelligence officer (1904–1974),Q7318,Q3912
+Q65385,Q6581097,1904-07-14T00:00:00Z,16,Hans Bernd Gisevius,Hans Bernd Gisevius,German diplomat and intelligence officer (1904–1974),Q43287,Q3912
+Q65385,Q6581097,1904-07-14T00:00:00Z,16,Hans Bernd Gisevius,Hans Bernd Gisevius,German diplomat and intelligence officer (1904–1974),Q41304,Q3912
+Q65385,Q6581097,1904-07-14T00:00:00Z,16,Hans Bernd Gisevius,Hans Bernd Gisevius,German diplomat and intelligence officer (1904–1974),Q183,Q3912
+Q65475,Q6581097,1915-01-14T00:00:00Z,13,Heinz Brücher,Heinz Brücher,German SS officer and botanist (1915-1991),Q7318,Q2973
+Q65475,Q6581097,1915-01-14T00:00:00Z,13,Heinz Brücher,Heinz Brücher,German SS officer and botanist (1915-1991),Q414,Q2973
+Q65475,Q6581097,1915-01-14T00:00:00Z,13,Heinz Brücher,Heinz Brücher,German SS officer and botanist (1915-1991),Q41304,Q2973
+Q65475,Q6581097,1915-01-14T00:00:00Z,13,Heinz Brücher,Heinz Brücher,German SS officer and botanist (1915-1991),Q43287,Q2973
+Q65956,Q6581097,1900-11-24T00:00:00Z,14,Kurt Richter,Kurt Richter,German chess player (1900–1969),Q16957,Q64
+Q65956,Q6581097,1900-11-24T00:00:00Z,14,Kurt Richter,Kurt Richter,German chess player (1900–1969),Q183,Q64
+Q65956,Q6581097,1900-11-24T00:00:00Z,14,Kurt Richter,Kurt Richter,German chess player (1900–1969),Q41304,Q64
+Q65956,Q6581097,1900-11-24T00:00:00Z,14,Kurt Richter,Kurt Richter,German chess player (1900–1969),Q7318,Q64
+Q65956,Q6581097,1900-11-24T00:00:00Z,14,Kurt Richter,Kurt Richter,German chess player (1900–1969),Q43287,Q64
+Q66255,Q6581097,1906-02-04T00:00:00Z,17,Franz Hössler,Franz Hössler,"German SS officer and Schutzhaftlagerführer in Auschwitz, Mittelbau and Bergen-Belsen concentration camps (1906-1945)",Q43287,Q2009304
+Q66255,Q6581097,1906-02-04T00:00:00Z,17,Franz Hössler,Franz Hössler,"German SS officer and Schutzhaftlagerführer in Auschwitz, Mittelbau and Bergen-Belsen concentration camps (1906-1945)",Q41304,Q2009304
+Q66255,Q6581097,1906-02-04T00:00:00Z,17,Franz Hössler,Franz Hössler,"German SS officer and Schutzhaftlagerführer in Auschwitz, Mittelbau and Bergen-Belsen concentration camps (1906-1945)",Q7318,Q2009304
+Q6670871,Q6581097,1926-05-16T00:00:00Z,4,Mordechai Rechtman,Mordechai Rechtman,"Israeli bassoonist, conductor, educator and arranger",Q41304,Q153974
+Q6670871,Q6581097,1926-05-16T00:00:00Z,4,Mordechai Rechtman,Mordechai Rechtman,"Israeli bassoonist, conductor, educator and arranger",Q801,Q153974
+Q66832036,Q6581097,1910-10-28T00:00:00Z,3,Ludwig Schmitt (footballer),Ludwig Schmitt,German footballer,Q7318,Q1794
+Q66832036,Q6581097,1910-10-28T00:00:00Z,3,Ludwig Schmitt (footballer),Ludwig Schmitt,German footballer,Q41304,Q1794
+Q67053,Q6581097,1914-02-22T00:00:00Z,13,Karl Otto Götz,Karl Otto Götz,German artist (1914-2017),Q7318,Q1017
+Q67053,Q6581097,1914-02-22T00:00:00Z,13,Karl Otto Götz,Karl Otto Götz,German artist (1914-2017),Q183,Q1017
+Q67053,Q6581097,1914-02-22T00:00:00Z,13,Karl Otto Götz,Karl Otto Götz,German artist (1914-2017),Q713750,Q1017
+Q67053,Q6581097,1914-02-22T00:00:00Z,13,Karl Otto Götz,Karl Otto Götz,German artist (1914-2017),Q41304,Q1017
+Q67549,Q6581097,1912-09-05T00:00:00Z,10,Günther-Eberhardt Wisliceny,Günther-Eberhardt Wisliceny,German military officer and recipient of the Knight's Cross (1912–1985),Q1206012,Q687502
+Q67549,Q6581097,1912-09-05T00:00:00Z,10,Günther-Eberhardt Wisliceny,Günther-Eberhardt Wisliceny,German military officer and recipient of the Knight's Cross (1912–1985),Q183,Q687502
+Q67549,Q6581097,1912-09-05T00:00:00Z,10,Günther-Eberhardt Wisliceny,Günther-Eberhardt Wisliceny,German military officer and recipient of the Knight's Cross (1912–1985),Q41304,Q687502
+Q67549,Q6581097,1912-09-05T00:00:00Z,10,Günther-Eberhardt Wisliceny,Günther-Eberhardt Wisliceny,German military officer and recipient of the Knight's Cross (1912–1985),Q43287,Q687502
+Q67549,Q6581097,1912-09-05T00:00:00Z,10,Günther-Eberhardt Wisliceny,Günther-Eberhardt Wisliceny,German military officer and recipient of the Knight's Cross (1912–1985),Q7318,Q687502
+Q67637,Q6581097,1925-10-20T00:00:00Z,24,Konrad Wolf,Konrad Wolf,East German film director (1925–1982),Q41304,Q494529
+Q67637,Q6581097,1925-10-20T00:00:00Z,24,Konrad Wolf,Konrad Wolf,East German film director (1925–1982),Q16957,Q494529
+Q67637,Q6581097,1925-10-20T00:00:00Z,24,Konrad Wolf,Konrad Wolf,East German film director (1925–1982),Q7318,Q494529
+Q67637,Q6581097,1925-10-20T00:00:00Z,24,Konrad Wolf,Konrad Wolf,East German film director (1925–1982),Q15180,Q494529
+Q67786,Q6581097,1907-06-01T00:00:00Z,21,Max Pauly,Max Pauly,SS Sturmbannführer; commandant of Stutthof concentration camp (1907–1946),Q41304,Q518460
+Q67786,Q6581097,1907-06-01T00:00:00Z,21,Max Pauly,Max Pauly,SS Sturmbannführer; commandant of Stutthof concentration camp (1907–1946),Q7318,Q518460
+Q67997,Q6581097,1909-09-29T00:00:00Z,15,Herbert Lange,Herbert Lange,SS officer (1909–1945),Q7318,Q1921037
+Q67997,Q6581097,1909-09-29T00:00:00Z,15,Herbert Lange,Herbert Lange,SS officer (1909–1945),Q41304,Q1921037
+Q68303,Q6581097,1901-12-17T00:00:00Z,9,Walther Bierkamp,Walther Bierkamp,SS officer and lawyer (1901–1945),Q7318,Q1055
+Q68303,Q6581097,1901-12-17T00:00:00Z,9,Walther Bierkamp,Walther Bierkamp,SS officer and lawyer (1901–1945),Q41304,Q1055
+Q68303,Q6581097,1901-12-17T00:00:00Z,9,Walther Bierkamp,Walther Bierkamp,SS officer and lawyer (1901–1945),Q43287,Q1055
+Q68427,Q6581097,1911-04-27T00:00:00Z,13,Bruno Beger,Bruno Beger,German racial anthropologist (1911–2009),Q7318,Q1794
+Q68427,Q6581097,1911-04-27T00:00:00Z,13,Bruno Beger,Bruno Beger,German racial anthropologist (1911–2009),Q41304,Q1794
+Q68427,Q6581097,1911-04-27T00:00:00Z,13,Bruno Beger,Bruno Beger,German racial anthropologist (1911–2009),Q183,Q1794
+Q68525,Q6581097,1902-05-28T00:00:00Z,15,Stefan Cohn-Vossen,Stephan Cohn-Vossen,Russian mathematician (1902–1936),Q15180,Q1799
+Q68525,Q6581097,1902-05-28T00:00:00Z,15,Stefan Cohn-Vossen,Stephan Cohn-Vossen,Russian mathematician (1902–1936),Q41304,Q1799
+Q68525,Q6581097,1902-05-28T00:00:00Z,15,Stefan Cohn-Vossen,Stephan Cohn-Vossen,Russian mathematician (1902–1936),Q183,Q1799
+Q68966,Q6581097,1920-10-15T00:00:00Z,11,Heinz Barth,Heinz Barth,German World War II SS officer and war criminal (1920–2007),Q16957,Q585627
+Q68966,Q6581097,1920-10-15T00:00:00Z,11,Heinz Barth,Heinz Barth,German World War II SS officer and war criminal (1920–2007),Q183,Q585627
+Q68966,Q6581097,1920-10-15T00:00:00Z,11,Heinz Barth,Heinz Barth,German World War II SS officer and war criminal (1920–2007),Q41304,Q585627
+Q68966,Q6581097,1920-10-15T00:00:00Z,11,Heinz Barth,Heinz Barth,German World War II SS officer and war criminal (1920–2007),Q7318,Q585627
+Q69392,Q6581097,1909-04-11T00:00:00Z,13,Werner Braune,Werner Braune,SS officer (1909–1951),Q43287,Q1917579
+Q69392,Q6581097,1909-04-11T00:00:00Z,13,Werner Braune,Werner Braune,SS officer (1909–1951),Q41304,Q1917579
+Q69392,Q6581097,1909-04-11T00:00:00Z,13,Werner Braune,Werner Braune,SS officer (1909–1951),Q7318,Q1917579
+Q69743,Q6581097,1903-04-28T00:00:00Z,11,August Zehender,August Zehender,SS General (1903-1945),Q41304,Q3951
+Q69743,Q6581097,1903-04-28T00:00:00Z,11,August Zehender,August Zehender,SS General (1903-1945),Q7318,Q3951
+Q69743,Q6581097,1903-04-28T00:00:00Z,11,August Zehender,August Zehender,SS General (1903-1945),Q43287,Q3951
+Q69864,Q6581072,1920-03-16T00:00:00Z,20,Dorothea Binz,Dorothea Binz,German supervisor at Ravensbrück concentration (1920-1947),Q41304,Q15818491
+Q69864,Q6581072,1920-03-16T00:00:00Z,20,Dorothea Binz,Dorothea Binz,German supervisor at Ravensbrück concentration (1920-1947),Q7318,Q15818491
+Q69998,Q6581072,1924-01-04T00:00:00Z,23,Marianne Werner,Marianne Werner,West German shot putter (1924–2023),Q183,Q6910
+Q69998,Q6581072,1924-01-04T00:00:00Z,23,Marianne Werner,Marianne Werner,West German shot putter (1924–2023),Q41304,Q6910
+Q69998,Q6581072,1924-01-04T00:00:00Z,23,Marianne Werner,Marianne Werner,West German shot putter (1924–2023),Q713750,Q6910
+Q69998,Q6581072,1924-01-04T00:00:00Z,23,Marianne Werner,Marianne Werner,West German shot putter (1924–2023),Q7318,Q6910
+Q70168,Q6581097,1901-03-09T00:00:00Z,11,Joachim Hämmerling,Joachim Hämmerling,Danish-German biologist (1901-1980),Q43287,Q64
+Q70168,Q6581097,1901-03-09T00:00:00Z,11,Joachim Hämmerling,Joachim Hämmerling,Danish-German biologist (1901-1980),Q41304,Q64
+Q70168,Q6581097,1901-03-09T00:00:00Z,11,Joachim Hämmerling,Joachim Hämmerling,Danish-German biologist (1901-1980),Q183,Q64
+Q70168,Q6581097,1901-03-09T00:00:00Z,11,Joachim Hämmerling,Joachim Hämmerling,Danish-German biologist (1901-1980),Q7318,Q64
+Q70707,Q6581097,1905-04-16T00:00:00Z,21,Ludwig Fischer,Ludwig Fischer,SA officer (1905-1947); Governor of Warsaw district,Q43287,Q3758
+Q70707,Q6581097,1905-04-16T00:00:00Z,21,Ludwig Fischer,Ludwig Fischer,SA officer (1905-1947); Governor of Warsaw district,Q41304,Q3758
+Q70707,Q6581097,1905-04-16T00:00:00Z,21,Ludwig Fischer,Ludwig Fischer,SA officer (1905-1947); Governor of Warsaw district,Q7318,Q3758
+Q70757,Q6581097,1902-07-14T00:00:00Z,10,Anton Kaindl,Anton Kaindl,German SS officer and commandant of the Sachsenhausen concentration camp (1902-1948),Q41304,Q1726
+Q70757,Q6581097,1902-07-14T00:00:00Z,10,Anton Kaindl,Anton Kaindl,German SS officer and commandant of the Sachsenhausen concentration camp (1902-1948),Q7318,Q1726
+Q70883,Q6581097,1909-10-08T00:00:00Z,13,Gerhard Flesch,Gerhard Flesch,Nazi war criminal (1909-1948),Q41304,Q268
+Q70883,Q6581097,1909-10-08T00:00:00Z,13,Gerhard Flesch,Gerhard Flesch,Nazi war criminal (1909-1948),Q7318,Q268
+Q70883,Q6581097,1909-10-08T00:00:00Z,13,Gerhard Flesch,Gerhard Flesch,Nazi war criminal (1909-1948),Q43287,Q268
+Q71022,Q6581097,1906-12-25T00:00:00Z,76,Ernst Ruska,Ernst Ruska,German physicist (1906–1988),Q41304,Q2966
+Q71022,Q6581097,1906-12-25T00:00:00Z,76,Ernst Ruska,Ernst Ruska,German physicist (1906–1988),Q43287,Q2966
+Q71022,Q6581097,1906-12-25T00:00:00Z,76,Ernst Ruska,Ernst Ruska,German physicist (1906–1988),Q7318,Q2966
+Q71022,Q6581097,1906-12-25T00:00:00Z,76,Ernst Ruska,Ernst Ruska,German physicist (1906–1988),Q2415901,Q2966
+Q71022,Q6581097,1906-12-25T00:00:00Z,76,Ernst Ruska,Ernst Ruska,German physicist (1906–1988),Q183,Q2966
+Q71218,Q6581097,1900-03-21T00:00:00Z,11,Georg-Henning Graf von Bassewitz-Behr,Georg-Henning Graf von Bassewitz-Behr,"higher SS and Police Leader, SS-Gruppenführer",Q43287,Q602822
+Q71218,Q6581097,1900-03-21T00:00:00Z,11,Georg-Henning Graf von Bassewitz-Behr,Georg-Henning Graf von Bassewitz-Behr,"higher SS and Police Leader, SS-Gruppenführer",Q7318,Q602822
+Q71218,Q6581097,1900-03-21T00:00:00Z,11,Georg-Henning Graf von Bassewitz-Behr,Georg-Henning Graf von Bassewitz-Behr,"higher SS and Police Leader, SS-Gruppenführer",Q41304,Q602822
+Q71258,Q6581072,1920-03-19T00:00:00Z,16,Hildegard Lächert,Hildegard Lächert,Nazi concentration camp guard (1920–1995),Q7318,Q64
+Q71258,Q6581072,1920-03-19T00:00:00Z,16,Hildegard Lächert,Hildegard Lächert,Nazi concentration camp guard (1920–1995),Q713750,Q64
+Q71258,Q6581072,1920-03-19T00:00:00Z,16,Hildegard Lächert,Hildegard Lächert,Nazi concentration camp guard (1920–1995),Q41304,Q64
+Q71306,Q6581097,1917-08-19T00:00:00Z,10,Egon Mayer,Egon Mayer,German World War II fighter pilot (1917–1944),Q41304,Q3834
+Q71306,Q6581097,1917-08-19T00:00:00Z,10,Egon Mayer,Egon Mayer,German World War II fighter pilot (1917–1944),Q7318,Q3834
+Q71306,Q6581097,1917-08-19T00:00:00Z,10,Egon Mayer,Egon Mayer,German World War II fighter pilot (1917–1944),Q43287,Q3834
+Q71498,Q6581097,1908-06-10T00:00:00Z,11,Fritz Suhren,Fritz Suhren,SS officer (1908-1950),Q7318,Q496056
+Q71498,Q6581097,1908-06-10T00:00:00Z,11,Fritz Suhren,Fritz Suhren,SS officer (1908-1950),Q43287,Q496056
+Q71498,Q6581097,1908-06-10T00:00:00Z,11,Fritz Suhren,Fritz Suhren,SS officer (1908-1950),Q41304,Q496056
+Q7150747,Q6581097,1906-01-01T00:00:00Z,2,Paul Fromm (philanthropist),Paul Fromm,German vintner & music patron (1906-1987),Q41304,Q269447
+Q7150747,Q6581097,1906-09-28T00:00:00Z,2,Paul Fromm (philanthropist),Paul Fromm,German vintner & music patron (1906-1987),Q43287,Q269447
+Q7150747,Q6581097,1906-01-01T00:00:00Z,2,Paul Fromm (philanthropist),Paul Fromm,German vintner & music patron (1906-1987),Q30,Q269447
+Q7150747,Q6581097,1906-01-01T00:00:00Z,2,Paul Fromm (philanthropist),Paul Fromm,German vintner & music patron (1906-1987),Q43287,Q269447
+Q7150747,Q6581097,1906-09-28T00:00:00Z,2,Paul Fromm (philanthropist),Paul Fromm,German vintner & music patron (1906-1987),Q41304,Q269447
+Q7150747,Q6581097,1906-01-01T00:00:00Z,2,Paul Fromm (philanthropist),Paul Fromm,German vintner & music patron (1906-1987),Q1206012,Q269447
+Q7150747,Q6581097,1906-09-28T00:00:00Z,2,Paul Fromm (philanthropist),Paul Fromm,German vintner & music patron (1906-1987),Q1206012,Q269447
+Q7150747,Q6581097,1906-09-28T00:00:00Z,2,Paul Fromm (philanthropist),Paul Fromm,German vintner & music patron (1906-1987),Q30,Q269447
+Q71631,Q6581097,1901-05-07T00:00:00Z,10,Walther Wüst,Walther Wüst,Rector of the University of Munich and SS member (1901-1993),Q41304,Q3758
+Q71631,Q6581097,1901-05-07T00:00:00Z,10,Walther Wüst,Walther Wüst,Rector of the University of Munich and SS member (1901-1993),Q7318,Q3758
+Q71631,Q6581097,1901-05-07T00:00:00Z,10,Walther Wüst,Walther Wüst,Rector of the University of Munich and SS member (1901-1993),Q713750,Q3758
+Q7172402,Q6581097,1912-08-05T00:00:00Z,2,Peter-Eberhard Müllensiefen,Peter-Eberhard Müllensiefen,German reconnaissance pilot and Knight's Cross recipient (1912-2004),Q7318,Q984800
+Q7172402,Q6581097,1912-08-05T00:00:00Z,2,Peter-Eberhard Müllensiefen,Peter-Eberhard Müllensiefen,German reconnaissance pilot and Knight's Cross recipient (1912-2004),Q43287,Q984800
+Q7172402,Q6581097,1912-08-05T00:00:00Z,2,Peter-Eberhard Müllensiefen,Peter-Eberhard Müllensiefen,German reconnaissance pilot and Knight's Cross recipient (1912-2004),Q41304,Q984800
+Q7172402,Q6581097,1912-08-05T00:00:00Z,2,Peter-Eberhard Müllensiefen,Peter-Eberhard Müllensiefen,German reconnaissance pilot and Knight's Cross recipient (1912-2004),Q183,Q984800
+Q7172402,Q6581097,1912-08-05T00:00:00Z,2,Peter-Eberhard Müllensiefen,Peter-Eberhard Müllensiefen,German reconnaissance pilot and Knight's Cross recipient (1912-2004),Q1206012,Q984800
+Q72597,Q6581097,1912-10-31T00:00:00Z,12,Anton Thumann,Anton Thumann,SS officer (1912-1946),Q7318,Q490319
+Q72597,Q6581097,1912-10-31T00:00:00Z,12,Anton Thumann,Anton Thumann,SS officer (1912-1946),Q41304,Q490319
+Q72597,Q6581097,1912-10-31T00:00:00Z,12,Anton Thumann,Anton Thumann,SS officer (1912-1946),Q43287,Q490319
+Q72737,Q6581097,1913-06-17T00:00:00Z,14,Gerhard Palitzsch,Gerhard Palitzsch,German SS NCO (1913-1944),Q41304,Q1549488
+Q72737,Q6581097,1913-06-17T00:00:00Z,14,Gerhard Palitzsch,Gerhard Palitzsch,German SS NCO (1913-1944),Q43287,Q1549488
+Q72737,Q6581097,1913-06-17T00:00:00Z,14,Gerhard Palitzsch,Gerhard Palitzsch,German SS NCO (1913-1944),Q7318,Q1549488
+Q72983,Q6581097,1901-05-24T00:00:00Z,12,Nikolaus Riehl,Nikolaus Riehl,German chemist (1901-1990),Q713750,Q656
+Q72983,Q6581097,1901-05-24T00:00:00Z,12,Nikolaus Riehl,Nikolaus Riehl,German chemist (1901-1990),Q41304,Q656
+Q72983,Q6581097,1901-05-24T00:00:00Z,12,Nikolaus Riehl,Nikolaus Riehl,German chemist (1901-1990),Q34266,Q656
+Q72983,Q6581097,1901-05-24T00:00:00Z,12,Nikolaus Riehl,Nikolaus Riehl,German chemist (1901-1990),Q183,Q656
+Q72983,Q6581097,1901-05-24T00:00:00Z,12,Nikolaus Riehl,Nikolaus Riehl,German chemist (1901-1990),Q16957,Q656
+Q72983,Q6581097,1901-05-24T00:00:00Z,12,Nikolaus Riehl,Nikolaus Riehl,German chemist (1901-1990),Q15180,Q656
+Q7310364,Q6581097,1917-03-25T00:00:00Z,2,Reinhold Bobbe,Reinhold Bobbe,German military officer and Knight's Cross recipient (1917–1971),Q43287,Q2090
+Q7310364,Q6581097,1917-03-25T00:00:00Z,2,Reinhold Bobbe,Reinhold Bobbe,German military officer and Knight's Cross recipient (1917–1971),Q183,Q2090
+Q7310364,Q6581097,1917-03-25T00:00:00Z,2,Reinhold Bobbe,Reinhold Bobbe,German military officer and Knight's Cross recipient (1917–1971),Q7318,Q2090
+Q7310364,Q6581097,1917-03-25T00:00:00Z,2,Reinhold Bobbe,Reinhold Bobbe,German military officer and Knight's Cross recipient (1917–1971),Q41304,Q2090
+Q7310364,Q6581097,1917-03-25T00:00:00Z,2,Reinhold Bobbe,Reinhold Bobbe,German military officer and Knight's Cross recipient (1917–1971),Q1206012,Q2090
+Q73324,Q6581097,1913-05-12T00:00:00Z,10,Georg Bachmayer,Georg Bachmayer,German SS officer and concentration camp administrator (1913–1945),Q41304,Q259202
+Q73324,Q6581097,1913-05-12T00:00:00Z,10,Georg Bachmayer,Georg Bachmayer,German SS officer and concentration camp administrator (1913–1945),Q7318,Q259202
+Q73324,Q6581097,1913-05-12T00:00:00Z,10,Georg Bachmayer,Georg Bachmayer,German SS officer and concentration camp administrator (1913–1945),Q43287,Q259202
+Q7339,Q6581072,1926-02-16T00:00:00Z,36,Margot Frank,Margot Frank,older sister of Anne Frank (1926–1945),Q29999,Q2475182
+Q7339,Q6581072,1926-02-16T00:00:00Z,36,Margot Frank,Margot Frank,older sister of Anne Frank (1926–1945),Q41304,Q2475182
+Q7339,Q6581072,1926-02-16T00:00:00Z,36,Margot Frank,Margot Frank,older sister of Anne Frank (1926–1945),Q183,Q2475182
+Q7377355,Q6581097,1910-09-27T00:00:00Z,5,Rudolf Weiss,Rudolf Weiss,German officer,Q41304,
+Q7377388,Q6581097,1902-12-17T00:00:00Z,10,Rudolph Anders,Rudolph Anders,actor (1902-1987),Q41304,Q505447
+Q7377388,Q6581097,1902-12-17T00:00:00Z,10,Rudolph Anders,Rudolph Anders,actor (1902-1987),Q43287,Q505447
+Q7377388,Q6581097,1902-12-17T00:00:00Z,10,Rudolph Anders,Rudolph Anders,actor (1902-1987),Q30,Q505447
+Q742410,Q6581097,1928-03-25T00:00:00Z,5,Hans Steinbrenner (sculptor),Hans Steinbrenner,German sculptor (1928-2008),Q183,Q1794
+Q742410,Q6581097,1928-03-25T00:00:00Z,5,Hans Steinbrenner (sculptor),Hans Steinbrenner,German sculptor (1928-2008),Q41304,Q1794
+Q742410,Q6581097,1928-03-25T00:00:00Z,5,Hans Steinbrenner (sculptor),Hans Steinbrenner,German sculptor (1928-2008),Q713750,Q1794
+Q742410,Q6581097,1928-03-25T00:00:00Z,5,Hans Steinbrenner (sculptor),Hans Steinbrenner,German sculptor (1928-2008),Q7318,Q1794
+Q75098,Q6581097,1912-12-31T00:00:00Z,15,Horst Fischer,Horst Fischer,German physician and camp doctor in the Auschwitz III Monowitz concentration camp (1912–1966),Q16957,Q1731
+Q75098,Q6581097,1912-12-31T00:00:00Z,15,Horst Fischer,Horst Fischer,German physician and camp doctor in the Auschwitz III Monowitz concentration camp (1912–1966),Q1206012,Q1731
+Q75098,Q6581097,1912-12-31T00:00:00Z,15,Horst Fischer,Horst Fischer,German physician and camp doctor in the Auschwitz III Monowitz concentration camp (1912–1966),Q7318,Q1731
+Q75098,Q6581097,1912-12-31T00:00:00Z,15,Horst Fischer,Horst Fischer,German physician and camp doctor in the Auschwitz III Monowitz concentration camp (1912–1966),Q43287,Q1731
+Q75098,Q6581097,1912-12-31T00:00:00Z,15,Horst Fischer,Horst Fischer,German physician and camp doctor in the Auschwitz III Monowitz concentration camp (1912–1966),Q41304,Q1731
+Q75178591,Q6581097,1929-03-14T00:00:00Z,2,Werner Doehner,Werner Doehner,Hindenburg disaster survivor (1929-2019),Q41304,Q2973
+Q75178591,Q6581097,1929-03-14T00:00:00Z,2,Werner Doehner,Werner Doehner,Hindenburg disaster survivor (1929-2019),Q30,Q2973
+Q75178591,Q6581097,1929-03-14T00:00:00Z,2,Werner Doehner,Werner Doehner,Hindenburg disaster survivor (1929-2019),Q96,Q2973
+Q75205,Q6581097,1907-08-08T00:00:00Z,13,Franz Abromeit,Franz Abromeit,German SS member and Judenreferent,Q41304,Q4204727
+Q75205,Q6581097,1907-08-08T00:00:00Z,13,Franz Abromeit,Franz Abromeit,German SS member and Judenreferent,Q43287,Q4204727
+Q75205,Q6581097,1907-08-08T00:00:00Z,13,Franz Abromeit,Franz Abromeit,German SS member and Judenreferent,Q7318,Q4204727
+Q75205,Q6581097,1907-08-08T00:00:00Z,13,Franz Abromeit,Franz Abromeit,German SS member and Judenreferent,Q79,Q4204727
+Q75463,Q6581072,1922-09-17T00:00:00Z,9,Marianne Cohn,Marianne Cohn,French resistance fighter (1922–1944),Q7318,Q2119
+Q75463,Q6581072,1922-09-17T00:00:00Z,9,Marianne Cohn,Marianne Cohn,French resistance fighter (1922–1944),Q41304,Q2119
+Q75463,Q6581072,1922-09-17T00:00:00Z,9,Marianne Cohn,Marianne Cohn,French resistance fighter (1922–1944),Q1206012,Q2119
+Q75663,Q6581097,1930-12-01T00:00:00Z,11,Joachim Hoffmann,Joachim Hoffmann,German revisionist historian (1930-2002),Q713750,Q4120832
+Q75663,Q6581097,1930-12-01T00:00:00Z,11,Joachim Hoffmann,Joachim Hoffmann,German revisionist historian (1930-2002),Q41304,Q4120832
+Q75663,Q6581097,1930-12-01T00:00:00Z,11,Joachim Hoffmann,Joachim Hoffmann,German revisionist historian (1930-2002),Q7318,Q4120832
+Q75663,Q6581097,1930-12-01T00:00:00Z,11,Joachim Hoffmann,Joachim Hoffmann,German revisionist historian (1930-2002),Q183,Q4120832
+Q75674,Q6581072,1909-07-03T00:00:00Z,12,Hilde Weissner,Hilde Weissner,German actress (1909–1987),Q713750,Q393
+Q75674,Q6581072,1909-07-03T00:00:00Z,12,Hilde Weissner,Hilde Weissner,German actress (1909–1987),Q41304,Q393
+Q75674,Q6581072,1909-07-03T00:00:00Z,12,Hilde Weissner,Hilde Weissner,German actress (1909–1987),Q7318,Q393
+Q75674,Q6581072,1909-07-03T00:00:00Z,12,Hilde Weissner,Hilde Weissner,German actress (1909–1987),Q43287,Q393
+Q7613660,Q6581097,1925-10-21T00:00:00Z,4,Steve Previn,Steve Previn,film and TV director (1925–1993),Q41304,Q64
+Q7613660,Q6581097,1925-10-21T00:00:00Z,4,Steve Previn,Steve Previn,film and TV director (1925–1993),Q30,Q64
+Q76181,Q6581097,1904-09-21T00:00:00Z,11,Franz Stock,Franz Stock,"Catholic priest, wartime chaplain and peace activist (1904–1948)",Q1206012,Q26696033
+Q76181,Q6581097,1904-09-21T00:00:00Z,11,Franz Stock,Franz Stock,"Catholic priest, wartime chaplain and peace activist (1904–1948)",Q41304,Q26696033
+Q76181,Q6581097,1904-09-21T00:00:00Z,11,Franz Stock,Franz Stock,"Catholic priest, wartime chaplain and peace activist (1904–1948)",Q43287,Q26696033
+Q76215,Q6581097,1902-09-02T00:00:00Z,20,Albert Bormann,Albert Bormann,"German Nazi officer, adjutant to Adolf Hitler (1902–1989)",Q7318,Q7072
+Q76215,Q6581097,1902-09-02T00:00:00Z,20,Albert Bormann,Albert Bormann,"German Nazi officer, adjutant to Adolf Hitler (1902–1989)",Q183,Q7072
+Q76215,Q6581097,1902-09-02T00:00:00Z,20,Albert Bormann,Albert Bormann,"German Nazi officer, adjutant to Adolf Hitler (1902–1989)",Q41304,Q7072
+Q76215,Q6581097,1902-09-02T00:00:00Z,20,Albert Bormann,Albert Bormann,"German Nazi officer, adjutant to Adolf Hitler (1902–1989)",Q43287,Q7072
+Q76367,Q6581097,1900-06-17T00:00:00Z,79,Martin Bormann,Martin Bormann,German Nazi Party official and head of the Nazi Party Chancellery (1900–1945),Q41304,Q7072
+Q76367,Q6581097,1900-07-17T00:00:00Z,79,Martin Bormann,Martin Bormann,German Nazi Party official and head of the Nazi Party Chancellery (1900–1945),Q41304,Q7072
+Q76367,Q6581097,1900-07-17T00:00:00Z,79,Martin Bormann,Martin Bormann,German Nazi Party official and head of the Nazi Party Chancellery (1900–1945),Q7318,Q7072
+Q76367,Q6581097,1900-06-17T00:00:00Z,79,Martin Bormann,Martin Bormann,German Nazi Party official and head of the Nazi Party Chancellery (1900–1945),Q43287,Q7072
+Q76367,Q6581097,1900-07-17T00:00:00Z,79,Martin Bormann,Martin Bormann,German Nazi Party official and head of the Nazi Party Chancellery (1900–1945),Q183,Q7072
+Q76367,Q6581097,1900-07-17T00:00:00Z,79,Martin Bormann,Martin Bormann,German Nazi Party official and head of the Nazi Party Chancellery (1900–1945),Q43287,Q7072
+Q76367,Q6581097,1900-06-17T00:00:00Z,79,Martin Bormann,Martin Bormann,German Nazi Party official and head of the Nazi Party Chancellery (1900–1945),Q183,Q7072
+Q76367,Q6581097,1900-06-17T00:00:00Z,79,Martin Bormann,Martin Bormann,German Nazi Party official and head of the Nazi Party Chancellery (1900–1945),Q7318,Q7072
+Q764259,Q6581097,1903-11-15T00:00:00Z,7,Paul Götze,Paul Götze,SS personnel (1903-1948),Q7318,Q2814
+Q764259,Q6581097,1903-11-15T00:00:00Z,7,Paul Götze,Paul Götze,SS personnel (1903-1948),Q43287,Q2814
+Q764259,Q6581097,1903-11-15T00:00:00Z,7,Paul Götze,Paul Götze,SS personnel (1903-1948),Q41304,Q2814
+Q76433,Q6581072,1912-02-06T00:00:00Z,92,Eva Braun,Eva Braun,"photographer, longtime companion and later wife of Adolf Hitler (1912–1945)",Q43287,Q1726
+Q76433,Q6581072,1912-02-06T00:00:00Z,92,Eva Braun,Eva Braun,"photographer, longtime companion and later wife of Adolf Hitler (1912–1945)",Q7318,Q1726
+Q76433,Q6581072,1912-02-06T00:00:00Z,92,Eva Braun,Eva Braun,"photographer, longtime companion and later wife of Adolf Hitler (1912–1945)",Q41304,Q1726
+Q76534,Q6581097,1913-04-10T00:00:00Z,34,Stefan Heym,Stefan Heym,German writer (1913-2001),Q30,Q2795
+Q76534,Q6581097,1913-04-10T00:00:00Z,34,Stefan Heym,Stefan Heym,German writer (1913-2001),Q41304,Q2795
+Q76534,Q6581097,1913-04-10T00:00:00Z,34,Stefan Heym,Stefan Heym,German writer (1913-2001),Q183,Q2795
+Q76534,Q6581097,1913-04-10T00:00:00Z,34,Stefan Heym,Stefan Heym,German writer (1913-2001),Q16957,Q2795
+Q76671,Q6581097,1911-11-11T00:00:00Z,11,Johann Altfuldisch,Johann Altfuldisch,"German SS officer, concentration camp guard and convicted war criminal (1911–1947)",Q41304,Q504513
+Q76671,Q6581097,1911-11-11T00:00:00Z,11,Johann Altfuldisch,Johann Altfuldisch,"German SS officer, concentration camp guard and convicted war criminal (1911–1947)",Q43287,Q504513
+Q76671,Q6581097,1911-11-11T00:00:00Z,11,Johann Altfuldisch,Johann Altfuldisch,"German SS officer, concentration camp guard and convicted war criminal (1911–1947)",Q7318,Q504513
+Q76893,Q6581072,1927-04-17T00:00:00Z,33,Margot Honecker,Margot Honecker,East German politician (1927-2016),Q7318,Q2814
+Q76893,Q6581072,1927-04-17T00:00:00Z,33,Margot Honecker,Margot Honecker,East German politician (1927-2016),Q298,Q2814
+Q76893,Q6581072,1927-04-17T00:00:00Z,33,Margot Honecker,Margot Honecker,East German politician (1927-2016),Q16957,Q2814
+Q76893,Q6581072,1927-04-17T00:00:00Z,33,Margot Honecker,Margot Honecker,East German politician (1927-2016),Q41304,Q2814
+Q77087,Q6581097,1906-11-18T00:00:00Z,62,Klaus Mann,Klaus Mann,German writer (1906–1949),Q41304,Q1726
+Q77087,Q6581097,1906-11-18T00:00:00Z,62,Klaus Mann,Klaus Mann,German writer (1906–1949),Q7318,Q1726
+Q77087,Q6581097,1906-11-18T00:00:00Z,62,Klaus Mann,Klaus Mann,German writer (1906–1949),Q43287,Q1726
+Q77087,Q6581097,1906-11-18T00:00:00Z,62,Klaus Mann,Klaus Mann,German writer (1906–1949),Q30,Q1726
+Q77347,Q6581072,1910-08-01T00:00:00Z,42,Gerda Taro,Gerda Taro,"German photographer, best known for her reporting on the Spanish Civil War (1910–1937)",Q41304,Q1022
+Q77489,Q6581097,1902-08-10T00:00:00Z,21,Curt Siodmak,Curt Siodmak,German-American writer,Q41304,Q1731
+Q77489,Q6581097,1902-08-10T00:00:00Z,21,Curt Siodmak,Curt Siodmak,German-American writer,Q183,Q1731
+Q77489,Q6581097,1902-08-10T00:00:00Z,21,Curt Siodmak,Curt Siodmak,German-American writer,Q30,Q1731
+Q77489,Q6581097,1902-08-10T00:00:00Z,21,Curt Siodmak,Curt Siodmak,German-American writer,Q43287,Q1731
+Q77566,Q6581097,1920-03-22T00:00:00Z,23,Werner Klemperer,Werner Klemperer,German-American actor and musician (1920–2000),Q41304,Q365
+Q77566,Q6581097,1920-03-22T00:00:00Z,23,Werner Klemperer,Werner Klemperer,German-American actor and musician (1920–2000),Q30,Q365
+Q77688,Q6581072,1928-06-04T00:00:00Z,45,Ruth Westheimer,Ruth Westheimer,German-American sex therapist,Q30,Q1751874
+Q77688,Q6581072,1928-06-04T00:00:00Z,45,Ruth Westheimer,Ruth Westheimer,German-American sex therapist,Q183,Q1751874
+Q77688,Q6581072,1928-06-04T00:00:00Z,45,Ruth Westheimer,Ruth Westheimer,German-American sex therapist,Q41304,Q1751874
+Q77688,Q6581072,1928-06-04T00:00:00Z,45,Ruth Westheimer,Ruth Westheimer,German-American sex therapist,Q7318,Q1751874
+Q77899,Q6581097,1906-06-22T00:00:00Z,9,Heinrich Seetzen,Heinrich Seetzen,German SS officer,Q7318,Q3857
+Q77899,Q6581097,1906-06-22T00:00:00Z,9,Heinrich Seetzen,Heinrich Seetzen,German SS officer,Q43287,Q3857
+Q77899,Q6581097,1906-06-22T00:00:00Z,9,Heinrich Seetzen,Heinrich Seetzen,German SS officer,Q41304,Q3857
+Q77934,Q6581072,1923-08-07T00:00:00Z,11,Liane Berkowitz,Liane Berkowitz,German resistance fighter (1923–1943),Q1206012,Q64
+Q77934,Q6581072,1923-08-07T00:00:00Z,11,Liane Berkowitz,Liane Berkowitz,German resistance fighter (1923–1943),Q41304,Q64
+Q77934,Q6581072,1923-08-07T00:00:00Z,11,Liane Berkowitz,Liane Berkowitz,German resistance fighter (1923–1943),Q7318,Q64
+Q78031,Q6581097,1901-02-27T00:00:00Z,14,Fritz Diez,Fritz Diez,German actor (1901-1979),Q183,Q487278
+Q78031,Q6581097,1901-02-27T00:00:00Z,14,Fritz Diez,Fritz Diez,German actor (1901-1979),Q41304,Q487278
+Q78031,Q6581097,1901-02-27T00:00:00Z,14,Fritz Diez,Fritz Diez,German actor (1901-1979),Q16957,Q487278
+Q78293,Q6581097,1911-11-11T00:00:00Z,14,Hans Bothmann,Hans Bothmann,SS officer (1911–1946),Q43287,Q550364
+Q78293,Q6581097,1911-11-11T00:00:00Z,14,Hans Bothmann,Hans Bothmann,SS officer (1911–1946),Q7318,Q550364
+Q78293,Q6581097,1911-11-11T00:00:00Z,14,Hans Bothmann,Hans Bothmann,SS officer (1911–1946),Q41304,Q550364
+Q78345,Q6581097,1930-04-14T00:00:00Z,10,Martin Adolf Bormann,Martin Adolf Bormann,"German Roman Catholic priest and missionary, lay theologian; son of Reichsleiter Martin Bormann (1930–2013)",Q183,Q220090
+Q78345,Q6581097,1930-04-14T00:00:00Z,10,Martin Adolf Bormann,Martin Adolf Bormann,"German Roman Catholic priest and missionary, lay theologian; son of Reichsleiter Martin Bormann (1930–2013)",Q41304,Q220090
+Q78345,Q6581097,1930-04-14T00:00:00Z,10,Martin Adolf Bormann,Martin Adolf Bormann,"German Roman Catholic priest and missionary, lay theologian; son of Reichsleiter Martin Bormann (1930–2013)",Q7318,Q220090
+Q78348,Q6581097,1900-03-26T00:00:00Z,17,Erich Bauer,Erich Bauer,Holocaust perpetrator (1900–1980),Q41304,Q64
+Q78348,Q6581097,1900-03-26T00:00:00Z,17,Erich Bauer,Erich Bauer,Holocaust perpetrator (1900–1980),Q43287,Q64
+Q78348,Q6581097,1900-03-26T00:00:00Z,17,Erich Bauer,Erich Bauer,Holocaust perpetrator (1900–1980),Q7318,Q64
+Q78505,Q6581097,1904-06-26T00:00:00Z,57,Peter Lorre,Peter Lorre,Hungarian and American actor (1904–1964),Q40,Q27541
+Q78505,Q6581097,1904-06-26T00:00:00Z,57,Peter Lorre,Peter Lorre,Hungarian and American actor (1904–1964),Q30,Q27541
+Q78505,Q6581097,1904-06-26T00:00:00Z,57,Peter Lorre,Peter Lorre,Hungarian and American actor (1904–1964),Q41304,Q27541
+Q84642,Q6581072,1908-06-04T00:00:00Z,40,Geli Raubal,Geli Raubal,niece of Adolf Hitler (1908–1931),Q533534,Q41329
+Q84642,Q6581072,1908-06-04T00:00:00Z,40,Geli Raubal,Geli Raubal,niece of Adolf Hitler (1908–1931),Q40,Q41329
+Q84642,Q6581072,1908-06-04T00:00:00Z,40,Geli Raubal,Geli Raubal,niece of Adolf Hitler (1908–1931),Q43287,Q41329
+Q84642,Q6581072,1908-06-04T00:00:00Z,40,Geli Raubal,Geli Raubal,niece of Adolf Hitler (1908–1931),Q41304,Q41329
+Q84708,Q6581072,1916-09-09T00:00:00Z,7,Ada Tschechowa,Ada Tschechowa,German actress (1916–1966),Q34266,Q649
+Q84708,Q6581072,1916-09-09T00:00:00Z,7,Ada Tschechowa,Ada Tschechowa,German actress (1916–1966),Q7318,Q649
+Q84708,Q6581072,1916-09-09T00:00:00Z,7,Ada Tschechowa,Ada Tschechowa,German actress (1916–1966),Q713750,Q649
+Q84708,Q6581072,1916-09-09T00:00:00Z,7,Ada Tschechowa,Ada Tschechowa,German actress (1916–1966),Q41304,Q649
+Q84890,Q6581097,1912-01-09T00:00:00Z,8,Waldemar Fegelein,Waldemar Fegelein,SS officer (1912-2000),Q43287,Q14859
+Q84890,Q6581097,1912-01-09T00:00:00Z,8,Waldemar Fegelein,Waldemar Fegelein,SS officer (1912-2000),Q183,Q14859
+Q84890,Q6581097,1912-01-09T00:00:00Z,8,Waldemar Fegelein,Waldemar Fegelein,SS officer (1912-2000),Q7318,Q14859
+Q84890,Q6581097,1912-01-09T00:00:00Z,8,Waldemar Fegelein,Waldemar Fegelein,SS officer (1912-2000),Q41304,Q14859
+Q85095,Q6581072,1933-02-01T00:00:00Z,12,Rosemarie Nitribitt,Rosemarie Nitribitt,German high-class call girl and murder victim,Q183,Q1718
+Q85095,Q6581072,1933-02-01T00:00:00Z,12,Rosemarie Nitribitt,Rosemarie Nitribitt,German high-class call girl and murder victim,Q41304,Q1718
+Q85095,Q6581072,1933-02-01T00:00:00Z,12,Rosemarie Nitribitt,Rosemarie Nitribitt,German high-class call girl and murder victim,Q7318,Q1718
+Q85446032,Q6581097,1920-04-14T00:00:00Z,7,Eddie Jaku,Eddie Jaku,"German Holocaust survivor, lived in Australia (1920-2021)",Q408,Q158004
+Q85446032,Q6581097,1920-04-14T00:00:00Z,7,Eddie Jaku,Eddie Jaku,"German Holocaust survivor, lived in Australia (1920-2021)",Q41304,Q158004
+Q85450,Q6581072,1900-11-02T00:00:00Z,18,Carola Neher,Carola Neher,German actress (1900-1942),Q43287,Q1726
+Q85450,Q6581072,1900-11-02T00:00:00Z,18,Carola Neher,Carola Neher,German actress (1900-1942),Q41304,Q1726
+Q85450,Q6581072,1900-11-02T00:00:00Z,18,Carola Neher,Carola Neher,German actress (1900-1942),Q1206012,Q1726
+Q86035,Q6581097,1913-02-19T00:00:00Z,16,Fritz-Julius Lemp,Fritz-Julius Lemp,German World War II U-boat commander,Q41304,Q170322
+Q86035,Q6581097,1913-02-19T00:00:00Z,16,Fritz-Julius Lemp,Fritz-Julius Lemp,German World War II U-boat commander,Q7318,Q170322
+Q87207,Q6581097,1916-04-30T00:00:00Z,6,Werner Ziegler,Werner Ziegler,German World War II Major General (1916-2001),Q43287,Q506856
+Q87207,Q6581097,1916-04-30T00:00:00Z,6,Werner Ziegler,Werner Ziegler,German World War II Major General (1916-2001),Q7318,Q506856
+Q87207,Q6581097,1916-04-30T00:00:00Z,6,Werner Ziegler,Werner Ziegler,German World War II Major General (1916-2001),Q183,Q506856
+Q87207,Q6581097,1916-04-30T00:00:00Z,6,Werner Ziegler,Werner Ziegler,German World War II Major General (1916-2001),Q41304,Q506856
+Q87695,Q6581097,1910-01-13T00:00:00Z,6,Ludwig Plagge,Ludwig Plagge,SS officer (1910–1948),Q41304,Q557459
+Q87695,Q6581097,1910-01-13T00:00:00Z,6,Ludwig Plagge,Ludwig Plagge,SS officer (1910–1948),Q43287,Q557459
+Q87695,Q6581097,1910-01-13T00:00:00Z,6,Ludwig Plagge,Ludwig Plagge,SS officer (1910–1948),Q7318,Q557459
+Q88194,Q6581097,1901-01-09T00:00:00Z,15,Karl Möckel,Karl Möckel,SS officer (1901-1948),Q41304,Q46866
+Q88194,Q6581097,1901-01-09T00:00:00Z,15,Karl Möckel,Karl Möckel,SS officer (1901-1948),Q7318,Q46866
+Q88194,Q6581097,1901-01-09T00:00:00Z,15,Karl Möckel,Karl Möckel,SS officer (1901-1948),Q43287,Q46866
+Q89140,Q6581097,1912-05-13T00:00:00Z,7,Hans Wilhelm König,Hans Wilhelm König,"SS officer, Nazi physician at Auschwitz",Q7318,Q1022
+Q89140,Q6581097,1912-05-13T00:00:00Z,7,Hans Wilhelm König,Hans Wilhelm König,"SS officer, Nazi physician at Auschwitz",Q41304,Q1022
+Q89140,Q6581097,1912-05-13T00:00:00Z,7,Hans Wilhelm König,Hans Wilhelm König,"SS officer, Nazi physician at Auschwitz",Q713750,Q1022
+Q89140,Q6581097,1912-05-13T00:00:00Z,7,Hans Wilhelm König,Hans Wilhelm König,"SS officer, Nazi physician at Auschwitz",Q43287,Q1022
+Q90724,Q6581097,1909-08-24T00:00:00Z,14,Horst Böhme (SS officer),Horst Böhme,German SS officer,Q41304,Q2670486
+Q90724,Q6581097,1909-08-24T00:00:00Z,14,Horst Böhme (SS officer),Horst Böhme,German SS officer,Q43287,Q2670486
+Q90724,Q6581097,1909-08-24T00:00:00Z,14,Horst Böhme (SS officer),Horst Böhme,German SS officer,Q7318,Q2670486
+Q90891,Q6581097,1907-05-11T00:00:00Z,11,Hermann Behrends,Hermann Behrends,German Nazi official (1907-1948),Q41304,Q990505
+Q90891,Q6581097,1907-05-11T00:00:00Z,11,Hermann Behrends,Hermann Behrends,German Nazi official (1907-1948),Q43287,Q990505
+Q90891,Q6581097,1907-05-11T00:00:00Z,11,Hermann Behrends,Hermann Behrends,German Nazi official (1907-1948),Q7318,Q990505
+Q90997,Q6581097,1908-03-23T00:00:00Z,7,Franz von Bodmann,Franz von Bodmann,SS officer (1908–1945),Q41304,Q48977729
+Q90997,Q6581097,1908-03-23T00:00:00Z,7,Franz von Bodmann,Franz von Bodmann,SS officer (1908–1945),Q41304,Q505967
+Q90997,Q6581097,1908-03-23T00:00:00Z,7,Franz von Bodmann,Franz von Bodmann,SS officer (1908–1945),Q7318,Q48977729
+Q90997,Q6581097,1908-03-23T00:00:00Z,7,Franz von Bodmann,Franz von Bodmann,SS officer (1908–1945),Q7318,Q505967
+Q90997,Q6581097,1908-03-23T00:00:00Z,7,Franz von Bodmann,Franz von Bodmann,SS officer (1908–1945),Q43287,Q48977729
+Q90997,Q6581097,1908-03-23T00:00:00Z,7,Franz von Bodmann,Franz von Bodmann,SS officer (1908–1945),Q43287,Q505967
+Q91290,Q6581097,1911-10-08T00:00:00Z,11,Heinz Thilo,Heinz Thilo,German SS officer (1911-1945),Q7318,Q702259
+Q91290,Q6581097,1911-10-08T00:00:00Z,11,Heinz Thilo,Heinz Thilo,German SS officer (1911-1945),Q43287,Q702259
+Q91290,Q6581097,1911-10-08T00:00:00Z,11,Heinz Thilo,Heinz Thilo,German SS officer (1911-1945),Q41304,Q702259
+Q91655,Q6581097,1912-06-28T00:00:00Z,8,Karl Seebach,Karl Seebach,German mathematician (1912–2007),Q183,Q1726
+Q91655,Q6581097,1912-06-28T00:00:00Z,8,Karl Seebach,Karl Seebach,German mathematician (1912–2007),Q7318,Q1726
+Q91655,Q6581097,1912-06-28T00:00:00Z,8,Karl Seebach,Karl Seebach,German mathematician (1912–2007),Q41304,Q1726
+Q91655,Q6581097,1912-06-28T00:00:00Z,8,Karl Seebach,Karl Seebach,German mathematician (1912–2007),Q43287,Q1726
+Q91894,Q6581097,1926-09-03T00:00:00Z,9,Emilio Lorenzo Stehle,Emil Stehle,German Roman Catholic bishop and theologian (1926–2017),Q183,Q1247002
+Q91894,Q6581097,1926-09-03T00:00:00Z,9,Emilio Lorenzo Stehle,Emil Stehle,German Roman Catholic bishop and theologian (1926–2017),Q41304,Q1247002
+Q919876,Q6581097,1926-09-25T00:00:00Z,22,John Ericson,John Ericson,German-American film and television actor,Q41304,Q1718
+Q919876,Q6581097,1926-01-01T00:00:00Z,22,John Ericson,John Ericson,German-American film and television actor,Q30,Q1718
+Q919876,Q6581097,1926-09-25T00:00:00Z,22,John Ericson,John Ericson,German-American film and television actor,Q30,Q1718
+Q919876,Q6581097,1926-01-01T00:00:00Z,22,John Ericson,John Ericson,German-American film and television actor,Q41304,Q1718
+Q92021,Q6581097,1907-07-09T00:00:00Z,6,Walter Quakernack,Walter Quakernack,German war criminal (1907-1946),Q7318,Q767106
+Q92021,Q6581097,1907-07-09T00:00:00Z,6,Walter Quakernack,Walter Quakernack,German war criminal (1907-1946),Q41304,Q767106
+Q92021,Q6581097,1907-07-09T00:00:00Z,6,Walter Quakernack,Walter Quakernack,German war criminal (1907-1946),Q43287,Q767106
+Q92048,Q6581097,1906-04-07T00:00:00Z,12,Hans Möser,Hans Möser,SS-Obersturmführer,Q41304,Q2973
+Q92048,Q6581097,1906-04-07T00:00:00Z,12,Hans Möser,Hans Möser,SS-Obersturmführer,Q7318,Q2973
+Q92048,Q6581097,1906-04-07T00:00:00Z,12,Hans Möser,Hans Möser,SS-Obersturmführer,Q43287,Q2973
+Q92050,Q6581097,1901-02-26T00:00:00Z,12,Josef Kollmer,Josef Kollmer,SS officer (1901-1948),Q7318,Q488636
+Q92050,Q6581097,1901-02-26T00:00:00Z,12,Josef Kollmer,Josef Kollmer,SS officer (1901-1948),Q41304,Q488636
+Q92050,Q6581097,1901-02-26T00:00:00Z,12,Josef Kollmer,Josef Kollmer,SS officer (1901-1948),Q43287,Q488636
+Q95394,Q6581097,1902-08-29T00:00:00Z,12,Alfred Trzebinski,Alfred Trzebinski,"SS-physician at the Auschwitz, Majdanek and Neuengamme concentration camps in Nazi Germany",Q41304,Q1005837
+Q95394,Q6581097,1902-08-29T00:00:00Z,12,Alfred Trzebinski,Alfred Trzebinski,"SS-physician at the Auschwitz, Majdanek and Neuengamme concentration camps in Nazi Germany",Q7318,Q1005837
+Q95394,Q6581097,1902-08-29T00:00:00Z,12,Alfred Trzebinski,Alfred Trzebinski,"SS-physician at the Auschwitz, Majdanek and Neuengamme concentration camps in Nazi Germany",Q43287,Q1005837
+Q95605,Q6581097,1904-10-11T00:00:00Z,12,Alexander Piorkowski,Alexander Piorkowski,German Nazi concentration camp commandant,Q7318,Q24879
+Q95605,Q6581097,1904-10-11T00:00:00Z,12,Alexander Piorkowski,Alexander Piorkowski,German Nazi concentration camp commandant,Q41304,Q24879
+Q95605,Q6581097,1904-10-11T00:00:00Z,12,Alexander Piorkowski,Alexander Piorkowski,German Nazi concentration camp commandant,Q43287,Q24879
+Q95689,Q6581097,1927-01-20T00:00:00Z,6,Wolfgang Kasack,Wolfgang Kasack,German writer (1927–2003),Q7318,Q1711
+Q95689,Q6581097,1927-01-20T00:00:00Z,6,Wolfgang Kasack,Wolfgang Kasack,German writer (1927–2003),Q41304,Q1711
+Q95689,Q6581097,1927-01-20T00:00:00Z,6,Wolfgang Kasack,Wolfgang Kasack,German writer (1927–2003),Q183,Q1711
+Q95689,Q6581097,1927-01-20T00:00:00Z,6,Wolfgang Kasack,Wolfgang Kasack,German writer (1927–2003),Q713750,Q1711
+Q95873,Q6581097,1921-06-14T00:00:00Z,9,Hans Stark,Hans Stark,SS Officer (1921-1991),Q713750,Q2973
+Q95873,Q6581097,1921-06-14T00:00:00Z,9,Hans Stark,Hans Stark,SS Officer (1921-1991),Q7318,Q2973
+Q95873,Q6581097,1921-06-14T00:00:00Z,9,Hans Stark,Hans Stark,SS Officer (1921-1991),Q41304,Q2973
+Q95995,Q6581097,1920-05-13T00:00:00Z,10,Ernst Heinrichsohn,Ernst Heinrichsohn,German politician and lawyer; member of the SS who participated in the deportation of French Jews to Auschwitz during World War II,Q41304,Q64
+Q95995,Q6581097,1920-05-13T00:00:00Z,10,Ernst Heinrichsohn,Ernst Heinrichsohn,German politician and lawyer; member of the SS who participated in the deportation of French Jews to Auschwitz during World War II,Q7318,Q64
+Q95995,Q6581097,1920-05-13T00:00:00Z,10,Ernst Heinrichsohn,Ernst Heinrichsohn,German politician and lawyer; member of the SS who participated in the deportation of French Jews to Auschwitz during World War II,Q713750,Q64
+Q96000,Q6581097,1901-05-19T00:00:00Z,18,Otto Ambros,Otto Ambros,German chemist (1901-1990),Q183,Q14803
+Q96000,Q6581097,1901-05-19T00:00:00Z,18,Otto Ambros,Otto Ambros,German chemist (1901-1990),Q41304,Q14803
+Q96000,Q6581097,1901-05-19T00:00:00Z,18,Otto Ambros,Otto Ambros,German chemist (1901-1990),Q7318,Q14803
+Q96781,Q6581097,1931-07-16T00:00:00Z,8,Hanns Kreisel,Hanns Kreisel,German mycologist (1931-2017),Q7318,Q2079
+Q96781,Q6581097,1931-07-16T00:00:00Z,8,Hanns Kreisel,Hanns Kreisel,German mycologist (1931-2017),Q16957,Q2079
+Q96781,Q6581097,1931-07-16T00:00:00Z,8,Hanns Kreisel,Hanns Kreisel,German mycologist (1931-2017),Q183,Q2079
+Q96781,Q6581097,1931-07-16T00:00:00Z,8,Hanns Kreisel,Hanns Kreisel,German mycologist (1931-2017),Q41304,Q2079
+Q97507,Q6581072,1907-03-24T00:00:00Z,9,Violetta (performer),Violetta,German sideshow performer (1907–1973),Q41304,Q884571
+Q97507,Q6581072,1907-03-24T00:00:00Z,9,Violetta (performer),Violetta,German sideshow performer (1907–1973),Q30,Q884571
+Q97871,Q6581097,1929-09-30T00:00:00Z,6,Lothar Kolditz,Lothar Kolditz,German chemist and politician,Q16957,Q2637402
+Q97871,Q6581097,1929-09-30T00:00:00Z,6,Lothar Kolditz,Lothar Kolditz,German chemist and politician,Q183,Q2637402
+Q97871,Q6581097,1929-09-30T00:00:00Z,6,Lothar Kolditz,Lothar Kolditz,German chemist and politician,Q41304,Q2637402
+Q97871,Q6581097,1929-09-30T00:00:00Z,6,Lothar Kolditz,Lothar Kolditz,German chemist and politician,Q7318,Q2637402
+Q98259,Q6581097,1910-08-22T00:00:00Z,12,Hans Günther (SS officer),Hans Günther,SS officer (1910–1945),Q7318,Q1729
+Q98259,Q6581097,1910-08-22T00:00:00Z,12,Hans Günther (SS officer),Hans Günther,SS officer (1910–1945),Q41304,Q1729
+Q98259,Q6581097,1910-08-22T00:00:00Z,12,Hans Günther (SS officer),Hans Günther,SS officer (1910–1945),Q43287,Q1729
+Q982982,Q6581072,1923-12-15T00:00:00Z,21,Inge Keller,Inge Keller,German actress (1923-2017),Q16957,Q64
+Q982982,Q6581072,1923-12-15T00:00:00Z,21,Inge Keller,Inge Keller,German actress (1923-2017),Q183,Q64
+Q982982,Q6581072,1923-12-15T00:00:00Z,21,Inge Keller,Inge Keller,German actress (1923-2017),Q41304,Q64
+Q982982,Q6581072,1923-12-15T00:00:00Z,21,Inge Keller,Inge Keller,German actress (1923-2017),Q7318,Q64
+Q98586,Q6581097,1901-01-12T00:00:00Z,9,Karl Künstler,Karl Künstler,German SS,Q7318,Q187610
+Q98586,Q6581097,1901-01-12T00:00:00Z,9,Karl Künstler,Karl Künstler,German SS,Q43287,Q187610
+Q98586,Q6581097,1901-01-12T00:00:00Z,9,Karl Künstler,Karl Künstler,German SS,Q41304,Q187610
+Q99173,Q6581097,1907-05-13T00:00:00Z,9,Walter Sonntag,Walter Sonntag,German physician (1907-1948),Q41304,Q22690
+Q99173,Q6581097,1907-05-13T00:00:00Z,9,Walter Sonntag,Walter Sonntag,German physician (1907-1948),Q7318,Q22690
+Q99173,Q6581097,1907-05-13T00:00:00Z,9,Walter Sonntag,Walter Sonntag,German physician (1907-1948),Q43287,Q22690

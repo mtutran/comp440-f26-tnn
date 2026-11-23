@@ -1,0 +1,2 @@
+{"date": "2026-11-19", "sample": "pilot", "n_fetched": 200, "elapsed_s": 484.0, "requests": 608, "rate_limit_wait": 0.0, "retries": 0, "deadline_retries": 0, "pause_wait": 300.0, "note": "reconstructed from printed report"}
+{"date": "2026-11-19", "sample": "pilot", "n_fetched": 4, "elapsed_s": 11.6, "rate_limit_wait": 0.0, "pause_wait": 6.0, "retries": 0, "deadline_retries": 0, "requests": 14}

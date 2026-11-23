@@ -1,0 +1,867 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q1008051,Q6581097,1974-12-24T00:00:00Z,15,Samuel Caballero,Samuel Caballero,Honduran association football player,Q783,Q2075665
+Q1008114,Q6581097,1981-08-11T00:00:00Z,8,Mauricio Castro,Mauricio Castro,Honduran footballer,Q783,Q3238
+Q101603208,Q6581097,1963-05-07T00:00:00Z,9,Teodoro Gómez,Teodoro Gómez,Honduran Roman-Catholic bishop,Q783,Q783
+Q101607039,Q6581097,1961-12-06T00:00:00Z,10,Walter Guillén Soto,Walter Guillén Soto,Honduran Catholic bishop,Q783,Q274584
+Q10388063,Q6581097,1978-05-14T00:00:00Z,9,Jairo Martínez,Jairo Martínez,Honduran footballer,Q783,Q916536
+Q104151392,Q6581097,1998-04-08T00:00:00Z,4,Wisdom Quaye,Wisdom Quaye,Honduran footballer,Q783,Q916536
+Q10415808,Q6581097,1972-06-24T00:00:00Z,4,Nerlin Membreño,Merlyn Membreño,Honduran footballer,Q783,Q3238
+Q104214067,Q6581097,1997-10-24T00:00:00Z,10,Elvin Oliva,Elvin Casildo,Honduran footballer,Q783,Q958080
+Q1043023,Q6581097,1942-01-31T00:00:00Z,3,Carlos López Contreras,Carlos López Contreras,Foreign Minister of Honduras,Q783,
+Q1043065,Q6581097,1967-10-22T00:00:00Z,63,Carlos Mencia,Carlos Mencia,American stand-up comedian (born 1967),Q30,Q274584
+Q1043065,Q6581097,1967-10-22T00:00:00Z,63,Carlos Mencia,Carlos Mencia,American stand-up comedian (born 1967),Q783,Q274584
+Q10442523,Q6581097,1988-04-17T00:00:00Z,6,"Milton Palacios (footballer, born 1988)",Milton Geovanny Palacios,Honduran footballer,Q783,Q7409064
+Q10443410,Q6581097,1985-09-15T00:00:00Z,7,Obed Enamorado,Obed Enamorado,Honduran footballer,Q783,Q1027018
+Q10452484,Q6581097,1986-08-09T00:00:00Z,4,Julián Rápalo,Julián Rápalo,Honduran footballer,Q783,Q2542686
+Q10453060,Q6581097,1975-03-19T00:00:00Z,6,José Luis Pineda,José Luis Pineda,Honduran footballer,Q783,Q274584
+Q105077006,Q6581097,1993-02-10T00:00:00Z,4,Fernando Palma,Fernando Palma,Honduran actor and engineer,Q783,Q3238
+Q105082754,Q6581097,1948-01-01T00:00:00Z,2,Jorge Bran,Jorge Bran,Honduran footballer,Q783,Q2483679
+Q10530652,Q6581097,1978-04-25T00:00:00Z,4,Hugo Sarmiento,Hugo Sarmiento,Honduran footballer,Q783,Q274584
+Q10551200,Q6581097,1935-01-01T00:00:00Z,5,Jorge Alberto Solís,Jorge Alberto Solís,Honduran footballer (1935-1997),Q783,Q783
+Q106029276,Q6581097,1936-03-08T00:00:00Z,3,Carlos Suazo,Carlos Suazo,Honduran footballer,Q783,Q1027018
+Q106070697,Q6581097,1944-12-16T00:00:00Z,2,"Rigoberto Gómez (footballer, born 1944)",Rigoberto Gómez Murillo,Honduran footballer,Q783,Q2603720
+Q106418882,Q6581097,1970-03-05T00:00:00Z,8,Isidoro del Carmen Mora Ortega,Isidoro del Carmen Mora Ortega,Nicaraguan Roman Catholic prelate,Q783,Q596688
+Q1073159,Q6581097,1975-07-18T00:00:00Z,10,Alexis Flores,Alexis Flores,Honduran murderer,Q783,Q783
+Q107370133,Q6581097,1949-05-10T00:00:00Z,3,Miguel Ángel Matamoros,Miguel Ángel Matamoros,Honduran footballer,Q783,Q605984
+Q107615946,Q6581097,1997-09-27T00:00:00Z,8,José Pinto (Honduran footballer),José Pinto,Honduran association football player,Q783,Q3238
+Q107662990,Q6581072,1997-01-21T00:00:00Z,5,Julimar Ávila,Julimar Ávila,Honduran-American swimmer,Q783,Q100
+Q107662990,Q6581072,1997-01-21T00:00:00Z,5,Julimar Ávila,Julimar Ávila,Honduran-American swimmer,Q30,Q100
+Q107688092,Q6581097,1949-05-25T00:00:00Z,3,Selvin Cárcamo,Selvin Cárcamo,Honduran footballer,Q783,Q2720977
+Q107738822,Q6581097,1951-01-12T00:00:00Z,2,Rigoberto Sosa,Rigoberto Sosa,Honduran footballer (1951-1993),Q783,
+Q109654303,Q6581097,1982-02-13T00:00:00Z,7,Yulan Adonay Archaga Carias,Yulan Adonay Archaga Carias,Honduran fugitive,Q783,Q274584
+Q109845804,Q6581072,1959-03-24T00:00:00Z,2,Maribel Espinoza,Maribel Espinoza,elected to Congress for the Salvador de Honduras Party,Q783,Q3238
+Q110076283,Q6581097,1964-01-01T00:00:00Z,5,Renato Florentino,Renato Florentino,Vice President of Honduras,Q783,Q783
+Q110560505,Q6581097,1950-05-10T00:00:00Z,2,Arnulfo Echeverría,Arnulfo Echeverría,Honduran footballer,Q783,Q2720977
+Q110595818,Q6581072,1968-05-04T00:00:00Z,3,Indyra Mendoza,Indyra Mendoza,Honduran economist,Q783,Q3238
+Q110651912,Q6581072,1985-01-14T00:00:00Z,6,Xiomara Zelaya,Xiomara Zelaya,Honduran politician (born 1985),Q783,Q772672
+Q110849189,Q6581097,1964-12-04T00:00:00Z,5,Luis Redondo,Luis Rolando Redondo Guifarro,Honduran Politician,Q783,Q274584
+Q111077006,Q6581097,1968-12-09T00:00:00Z,3,Eduardo Enrique Reina,Eduardo Enrique Reina,Honduran politician (born 1968),Q783,
+Q111136897,Q6581097,1944-09-19T00:00:00Z,2,Raúl Suazo,Raúl Suazo Lagos,Honduran footballer,Q783,Q2279521
+Q111191457,Q6581097,1943-08-23T00:00:00Z,2,Mario Caballero,Mario Caballero,Honduran footballer,Q783,Q767244
+Q111365559,Q6581072,1986-07-30T00:00:00Z,1,Erika Mejía,Erika Mejía,Businesswoman (born 1986),Q783,
+Q111547977,Q6581097,1946-07-29T00:00:00Z,2,Reynaldo Mejía,Reynaldo Mejía,Honduran footballer,Q783,Q916536
+Q112181010,Q6581097,1998-08-18T00:00:00Z,3,Cristian Sacaza,Cristian Sacaza,Honduran footballer,Q783,
+Q112646,Q6581097,1963-01-18T00:00:00Z,8,Elvin Santos,Elvin Santos,Honduran politician,Q783,Q3238
+Q112916742,Q6581072,1956-01-01T00:00:00Z,1,Anarella Vélez,Anarella Vélez,Honduran politician,Q783,Q783
+Q115183994,Q6581097,1996-09-16T00:00:00Z,4,Alexy Vega,Alexy Vega,Honduran footballer,Q783,
+Q115492161,Q6581072,1993-11-30T00:00:00Z,4,Isabella Lovestory,Isabella Lovestory,Honduran singer based in Canada,Q16,Q3238
+Q115492161,Q6581072,1993-11-30T00:00:00Z,4,Isabella Lovestory,Isabella Lovestory,Honduran singer based in Canada,Q783,Q3238
+Q115650042,Q6581072,1999-09-20T00:00:00Z,9,Sandy Cabrera Arteaga,Sandy Cabrera Arteaga,Honduran reproductive rights activist,Q783,Q783
+Q116796252,Q6581072,1954-04-11T00:00:00Z,2,Rebeca Ráquel,Rebeca Ráquel Obando,Honduran judge (born 1954),Q783,Q3238
+Q116901045,Q6581097,2006-08-31T00:00:00Z,7,Keyrol Figueroa,Keyrol Figueroa,Honduran association football player (born 2006),Q30,Q3238
+Q116901045,Q6581097,2006-08-31T00:00:00Z,7,Keyrol Figueroa,Keyrol Figueroa,Honduran association football player (born 2006),Q783,Q3238
+Q11691071,Q6581097,1955-09-12T00:00:00Z,2,Mario Canahuati,Mario Canahuati,Honduran politician,Q783,Q274584
+Q117004613,Q6581072,1990-06-29T00:00:00Z,2,Jennifer Ávila,Jennifer Ávila Reyes,researcher,Q783,Q2277161
+Q117212834,Q6581097,1947-01-01T00:00:00Z,2,Tonín Mendoza,Marco Antonio Mendoza,Honduran footballer,Q783,Q783
+Q117247029,Q6581097,1999-06-14T00:00:00Z,4,Jesús Batiz,Jesús Batiz,Honduran-American soccer player,Q30,Q1027018
+Q117247029,Q6581097,1999-06-14T00:00:00Z,4,Jesús Batiz,Jesús Batiz,Honduran-American soccer player,Q783,Q1027018
+Q117751300,Q6581097,2004-02-08T00:00:00Z,15,"David Ruiz (footballer, born 2004)",David Ruiz,Honduran-American soccer player,Q783,Q8652
+Q117751300,Q6581097,2004-02-08T00:00:00Z,15,"David Ruiz (footballer, born 2004)",David Ruiz,Honduran-American soccer player,Q30,Q8652
+Q11792851,Q6581097,1987-04-20T00:00:00Z,4,Norberto Bernárdez Ávila,Norberto Bernárdez Ávila,Hondurian rower,Q783,Q783
+Q11864578,Q6581097,1972-07-05T00:00:00Z,4,Illich Guardiola,Illich Guardiola,Honduran voice actor,Q783,Q783
+Q11864578,Q6581097,1974-07-05T00:00:00Z,4,Illich Guardiola,Illich Guardiola,Honduran voice actor,Q783,Q783
+Q11864578,Q6581097,1972-07-05T00:00:00Z,4,Illich Guardiola,Illich Guardiola,Honduran voice actor,Q30,Q783
+Q11864578,Q6581097,1974-07-05T00:00:00Z,4,Illich Guardiola,Illich Guardiola,Honduran voice actor,Q30,Q783
+Q119938230,Q6581097,1901-01-01T00:00:00Z,1,Marcelino Ponce Martínez,Marcelino Ponce Martínez,Honduran politician,Q783,
+Q121221990,Q6581097,1948-01-01T00:00:00Z,2,Adolfo Collins,Gorcha Adolfo Collins,Honduran footballer,Q783,
+Q121323581,Q6581072,1981-11-22T00:00:00Z,3,Olga Margarita Alvarado,Olga Margarita Alvarado,Honduran politician (born 1981),Q783,
+Q122897613,Q6581097,1950-11-16T00:00:00Z,2,Estanislao Ortega,Estanislao Ortega,Honduran footballer,Q783,Q2395223
+Q124935801,Q6581097,2003-12-04T00:00:00Z,5,Alenis Vargas,Alenis Vargas,Honduran footballer,Q783,
+Q126950153,Q6581097,2001-09-05T00:00:00Z,9,Josué Canales,Josué Canales,Spanish athlete (born in Honduras),Q783,Q609188
+Q126950153,Q6581097,2001-09-05T00:00:00Z,9,Josué Canales,Josué Canales,Spanish athlete (born in Honduras),Q29,Q609188
+Q126956956,Q6581097,2006-05-20T00:00:00Z,2,Nayrobi Vargas,Nayrobi Vargas,Honduran association football player,Q783,Q274584
+Q127754842,Q6581097,2007-11-30T00:00:00Z,5,Dereck Moncada,Dereck Moncada,Honduran association football player,Q783,Q2603720
+Q127982,Q6581097,1976-01-29T00:00:00Z,44,Saúl Martínez,Saúl Martínez,Honduran association football player,Q783,Q867117
+Q128797086,Q6581097,2005-01-01T00:00:00Z,2,Leonardo Posadas,Leonardo García Posadas,Honduran association football player (born 2005),Q183,Q1055
+Q128797086,Q6581097,2005-01-01T00:00:00Z,2,Leonardo Posadas,Leonardo García Posadas,Honduran association football player (born 2005),Q783,Q1055
+Q131480092,Q6581097,1950-10-17T00:00:00Z,2,Mariano Godoy,Mariano Godoy,Honduran footballer,Q783,Q3238
+Q134718186,Q6581097,2000-03-01T00:00:00Z,3,Luís Crisanto,Luís Crisanto,Honduran footballer,Q783,Q2277161
+Q134879668,Q6581097,2001-04-15T00:00:00Z,3,Dixon Ramírez,Dixon Ramírez,Honduran footballer (born 2001),Q783,Q2358773
+Q1356186,Q6581097,1987-04-08T00:00:00Z,25,Jerry Bengtson,Jerry Bengtson,Honduran footballer,Q783,Q958080
+Q1361211,Q6581097,1987-05-03T00:00:00Z,11,Rolando Palacios,Rolando Palacios,Honduran athletics competitor (born 1987),Q783,Q7409064
+Q1362369,Q6581097,1954-06-05T00:00:00Z,14,Julio César Arzú,Julio César Arzú,Honduran footballer,Q783,Q3238
+Q136307495,Q6581072,2001-09-01T00:00:00Z,2,Rori Lowe,Rori Lowe,Honduran sprinter,Q783,
+Q136376881,Q6581097,2001-10-28T00:00:00Z,3,Erick Puerto,Erick Puerto,Honduran footballer (born 2001),Q783,Q998218
+Q136525424,Q6581097,2008-06-30T00:00:00Z,2,Luis Suazo,Luis Suazo,Honduran footballer,Q783,
+Q1367612,Q6581097,1989-07-30T00:00:00Z,22,"Mario Martínez (footballer, born 1989)",Mario Martínez,Honduran footballer,Q783,Q274584
+Q137599370,Q6581072,1981-05-15T00:00:00Z,4,María Antonieta Mejía,María Antonieta Mejía,First Vice President of Honduras since 2026,Q783,Q2552667
+Q137848137,Q6581097,1982-07-28T00:00:00Z,3,Tomás Zambrano,Tomás Zambrano,President of the National Congress of Honduras,Q783,Q633929
+Q137945061,Q6581097,1937-12-01T00:00:00Z,2,Crisanto Norales,Crisanto Norales,Honduran footballer,Q783,
+Q137988590,Q6581072,1960-01-01T00:00:00Z,3,Carolina Echeverría,Carolina Echeverría,Honduran politician (1960–2021),Q783,Q867112
+Q13846462,Q6581097,1956-03-14T00:00:00Z,1,José Rosario Bonano,José Rosario Bonano,Honduras politician,Q739,
+Q13846462,Q6581097,1956-03-14T00:00:00Z,1,José Rosario Bonano,José Rosario Bonano,Honduras politician,Q783,
+Q13848103,Q6581097,1987-10-10T00:00:00Z,21,Rony Martínez,Rony Martínez,Honduran footballer,Q783,Q2720977
+Q13848103,Q6581097,1988-10-16T00:00:00Z,21,Rony Martínez,Rony Martínez,Honduran footballer,Q783,Q2720977
+Q1390601,Q6581097,1976-08-20T00:00:00Z,5,Fabio Ulloa,Fabio Ulloa,Honduran footballer,Q783,Q1027018
+Q1394643,Q6581097,1967-01-01T00:00:00Z,7,Javier Abril Espinoza,Javier Abril Espinoza,Honduran writer,Q783,Q783
+Q140409695,Q6581097,2002-10-31T00:00:00Z,2,Clinton Bennett (footballer),Clinton Bennett,Honduran footballer,Q783,Q2396956
+Q140430745,Q6581097,1948-06-28T00:00:00Z,2,Mauricio Álvarez,Mauricio Álvarez,Honduran footballer (born 1950),Q783,Q6152950
+Q14156559,Q6581097,1968-08-08T00:00:00Z,3,Aldo Calderón van Dyke,Aldo Calderón van Dyke,Honduran journalist,Q783,Q783
+Q14167899,Q6581097,1992-04-21T00:00:00Z,7,Wilmer Fuentes,Wilmer Fuentes,Honduran association football player,Q783,Q2277161
+Q141982252,Q6581097,2011-01-01T00:00:00Z,2,Kevin Gyamfi,,,Q783,
+Q142238,Q6581097,1973-07-23T00:00:00Z,4,César Ham,César Ham,Honduran politician,Q783,
+Q142238,Q6581097,1973-07-23T00:00:00Z,4,César Ham,César Ham,Honduran politician,Q739,
+Q14941966,Q6581097,1965-08-30T00:00:00Z,5,"Luis Cálix (footballer, born 1965)",Luis Enrique Cálix,Honduran footballer,Q783,Q1027018
+Q15020856,Q6581072,1954-01-08T00:00:00Z,16,Julieta Castellanos,Julieta Castellanos,Honduran sociologist,Q783,Q2394598
+Q15075085,Q6581097,1978-02-27T00:00:00Z,3,"Carlos Escobar (footballer, born 1978)",Carlos Escobar,Honduran association football player,Q783,Q916536
+Q15187517,Q6581097,1965-01-01T00:00:00Z,2,Ángel Alfredo Villatoro,Ángel Alfredo Villatoro,Honduran journalist,Q783,Q2277161
+Q15195995,Q6581097,1953-01-30T00:00:00Z,17,Salvador Nasralla,Salvador Nasralla,First Vice President of Honduras from 2022 to 2024,Q298,Q3238
+Q15195995,Q6581097,1953-01-30T00:00:00Z,17,Salvador Nasralla,Salvador Nasralla,First Vice President of Honduras from 2022 to 2024,Q783,Q3238
+Q15427651,Q6581072,1967-02-02T00:00:00Z,4,Rosa Elena Bonilla,Rosa Elena Bonilla,Honduran politician,Q783,Q3238
+Q15503307,Q6581097,1936-09-18T00:00:00Z,2,Aníbal Delgado Fiallos,Aníbal Delgado Fiallos,Honduran politician,Q783,Q823443
+Q1556756,Q6581097,1938-01-01T00:00:00Z,5,Gustavo Álvarez Martínez,Gustavo Álvarez Martínez,Honduran military officer (1938-1989),Q783,Q3238
+Q15647114,Q6581097,1951-03-08T00:00:00Z,5,Mauricio Oliva,Mauricio Oliva,Honduran politician,Q783,Q3238
+Q15805906,Q6581097,1990-01-11T00:00:00Z,8,"Diego Reyes (footballer, born 1990)",Diego Reyes Sandoval,Honduran association football player,Q783,Q2226585
+Q15805906,Q6581097,1990-01-13T00:00:00Z,8,"Diego Reyes (footballer, born 1990)",Diego Reyes Sandoval,Honduran association football player,Q783,Q2226585
+Q15896691,Q6581097,1983-09-30T00:00:00Z,7,Walter Williams (footballer),Walter Williams,Honduran soccer player (1983-2018),Q783,Q916536
+Q15919231,Q6581097,1993-11-24T00:00:00Z,19,Bryan Acosta,Bryan Acosta,Honduran footballer,Q783,Q916536
+Q15992745,Q6581097,1948-09-15T00:00:00Z,4,Anibal Barrow,Anibal Barrow,Honduran journalist and news anchor,Q783,Q274584
+Q15993894,Q6581097,1996-10-21T00:00:00Z,9,Jonathan Toro,Jonathan Rubio,Honduran footballer,Q783,Q274584
+Q16013449,Q6581072,1946-01-16T00:00:00Z,14,Jeannette Kawas,Jeanette Kawas,Environmental activist (1946-1995),Q783,Q1027018
+Q16013833,Q6581097,1958-08-10T00:00:00Z,6,Carlos Escaleras,Carlos Escaleras,Honduran politician,Q783,Q2226585
+Q16018705,Q6581097,1901-01-01T00:00:00Z,1,Luis Antonio Chávez,Luis Antonio Chavez,Honduran journalist,Q783,
+Q16090104,Q6581072,1925-08-13T00:00:00Z,2,Hipólita Rodríguez,Hipólita Rodríguez,Honduran politician,Q783,
+Q16105192,Q6581097,1939-06-18T00:00:00Z,2,Donaldo Ernesto Reyes,Donaldo Ernesto Reyes,Honduran politician,Q783,
+Q16105537,Q6581097,1941-03-07T00:00:00Z,3,Toribio Aguilera,Toribio Aguilera,Honduran economist and politician,Q783,
+Q16106153,Q6581072,1942-02-04T00:00:00Z,2,Adela Elizabeth Zúñiga,Adela Elizabeth Zúniga,Honduran politician,Q783,
+Q16107021,Q6581097,1945-07-04T00:00:00Z,2,German Leitzelar,German Leitzelar,Honduran politician,Q783,
+Q16107248,Q6581072,1946-03-06T00:00:00Z,2,Victoria Carrasco,Victoria Carrasco,Honduran politician,Q783,
+Q16114210,Q6581097,1947-10-09T00:00:00Z,1,Romualdo Bueso Melghem,Romualdo Bueso Melghem,Honduran politician,Q783,
+Q16120042,Q6581072,1948-05-01T00:00:00Z,2,Elvia Josefina Amador,Elvia Josefina Amador,Honduran politician,Q783,
+Q16121382,Q6581097,1948-04-27T00:00:00Z,1,Abraham Kafati Díaz,Abraham Kafati Díaz,Honduran politician,Q783,
+Q16121908,Q6581097,1948-02-17T00:00:00Z,1,Eliseo Noel Mejía,Eliseo Noel Mejía,Honduran politician,Q783,
+Q16124097,Q6581097,1948-04-27T00:00:00Z,1,Felipe Zúniga del Cid,Felipe Zúniga del Cid,Honduran politician,Q783,
+Q16136366,Q6581097,1949-10-25T00:00:00Z,1,Rodolfo Irias Navas,Rodolfo Irias Navas,Honduran politician,Q783,Q916536
+Q16144886,Q6581097,1950-05-01T00:00:00Z,2,Rigoberto Chang Castillo,Rigoberto Chang Castillo,Honduran politician and lawyer,Q783,
+Q16145028,Q6581097,1950-08-26T00:00:00Z,1,Celín Discua,Celín Discua,Honduran politician,Q783,
+Q16145579,Q6581097,1950-12-12T00:00:00Z,2,Oscar Ramón Nájera,Óscar Ramón Nájera,Honduran politician,Q783,
+Q16145760,Q6581097,1950-04-23T00:00:00Z,1,George Romeo Silvestri,George Romeo Silvestri,Honduran politician,Q783,
+Q16145861,Q6581097,1965-04-12T00:00:00Z,2,Lisandro Mauricio Arias,Lisandro Mauricio Arias,Honduran politician,Q783,
+Q16146133,Q6581097,1955-04-25T00:00:00Z,3,Marco Antonio Andino,Marco Antonio Andino,politician and lawyer (1955-2015),Q783,
+Q16146159,Q6581097,1958-06-08T00:00:00Z,35,Nasry Asfura,Nasry Asfura,Honduran politician and businessman (born 1958),Q783,Q3238
+Q16146550,Q6581097,1966-03-09T00:00:00Z,1,Jorge Aguilar Paredes,Jorge Aguilar Paredes,Honduran politician,Q783,
+Q16146948,Q6581097,1986-03-20T00:00:00Z,3,Roy Barahona,Roy Barahona,Honduran swimmer,Q783,
+Q16147175,Q6581072,1969-12-14T00:00:00Z,3,Silvia Ayala,Silvia Ayala,Honduran politician,Q783,
+Q16147482,Q6581097,1972-05-13T00:00:00Z,1,José Azcona Bocock,José Azcona Bocock,Honduran politician,Q783,
+Q16147500,Q6581097,1954-01-21T00:00:00Z,1,Juan Francisco Argeñal,Juan Francisco Argeñal,Honduran politician,Q783,
+Q16147524,Q6581072,1984-03-15T00:00:00Z,2,Sadia Argueta,Sadia Argueta,Honduran politician,Q783,
+Q16147571,Q6581097,1950-10-23T00:00:00Z,1,Roberto Gámez Panchamé,Roberto Gámez Panchamé,Honduran politician,Q783,
+Q16148697,Q6581097,1967-10-13T00:00:00Z,3,Hernaín Arzú,Hernaín Arzú,Honduran footballer,Q783,Q958080
+Q16149862,Q6581097,1968-02-18T00:00:00Z,4,Marco Anariba,Marco Antonio Anariba,footballer,Q783,Q2277161
+Q16150565,Q6581097,1964-12-26T00:00:00Z,6,Álex Ávila,Alex Ávila,Honduran footballer,Q783,Q783
+Q16151713,Q6581072,1952-07-17T00:00:00Z,2,Martha Concepción Figueroa,Martha Concepción Figueroa,Honduran politician,Q783,
+Q16151817,Q6581097,1952-12-28T00:00:00Z,2,Carlos Alfredo Lara Watson,Carlos Alfredo Lara Watson,Honduran politician,Q783,
+Q16151916,Q6581097,1952-07-01T00:00:00Z,2,José Tomás Ponce,José Tomás Ponce,Honduran politician,Q783,
+Q16185264,Q6581097,1953-01-23T00:00:00Z,5,Arturo Bonilla,Arturo Bonilla,Honduran footballer,Q783,Q2277161
+Q16185290,Q6581072,1953-02-19T00:00:00Z,2,María Teresa Chávez,María Teresa Chávez,Honduran politician,Q783,
+Q16185600,Q6581097,1953-08-22T00:00:00Z,2,Orle Solís,Orle Solís,Honduran politician,Q783,
+Q16186144,Q6581097,1954-02-07T00:00:00Z,5,Jimmy Bailey,Jimmy James Bailey,Honduran footballer,Q783,Q1027018
+Q16186177,Q6581072,1954-08-20T00:00:00Z,2,Gladys Bernarda Casco,Gladys Bernarda Casco,Honduran politician,Q783,
+Q16186246,Q6581097,1954-12-05T00:00:00Z,2,Miguel Ángel Gámez,Miguel Ángel Gámez,Honduran politician,Q783,
+Q16186379,Q6581072,1954-10-15T00:00:00Z,4,Vilma Cecilia Morales,Vilma Cecilia Morales,Honduran lawyer,Q783,Q673089
+Q16186676,Q6581097,1955-12-08T00:00:00Z,1,Julio César Gámez Interiano,Julio César Gámez Interiano,Honduran politician,Q783,
+Q16187195,Q6581097,1956-07-17T00:00:00Z,2,David Matamoros Batson,David Matamoros Batson,Honduran politician,Q783,Q61
+Q16188884,Q6581097,1957-01-18T00:00:00Z,1,Oscar Orlando Burgos,Oscar Orlando Burgos,Honduran politician,Q783,
+Q16189338,Q6581097,1957-09-17T00:00:00Z,2,Carlos Gabriel Kattán,Carlos Gabriel Kattán,Honduran politician,Q783,
+Q16190245,Q6581097,1969-12-21T00:00:00Z,1,Sergio Arturo Castellanos,Sergio Arturo Castellanos,Honduran politician,Q783,
+Q16192590,Q6581097,1957-03-07T00:00:00Z,1,Alberto Chedrani,Alberto Chedrani,Honduran politician,Q783,
+Q16192631,Q6581097,1958-01-17T00:00:00Z,1,Wilfredo Bustillo Castellanos,Wilfredo Bustillo Castellanos,Honduran politician,Q783,
+Q16194070,Q6581072,1961-06-19T00:00:00Z,2,Ana Julia García,Ana Julia García,Honduran politician,Q783,
+Q16194608,Q6581097,1962-12-11T00:00:00Z,1,Gabo Alfredo Jalil,Gabo Alfredo Jalil,Honduran politician,Q783,
+Q16194645,Q6581097,1962-08-28T00:00:00Z,1,Wenceslao Lara Orellana,Wenceslao Lara Orellana,Honduran politician,Q783,
+Q16194746,Q6581097,1962-07-21T00:00:00Z,1,Andrés Pavón,Andrés Pavón,Honduran politician,Q783,Q867117
+Q16194784,Q6581097,1962-06-24T00:00:00Z,2,Dennis Antonio Sánchez,Dennis Antonio Sánchez,Honduran politician,Q783,
+Q16195049,Q6581097,1963-04-27T00:00:00Z,1,Teófilo Enamorado,Teófilo Enamorado,Honduran politician,Q783,
+Q16195070,Q6581097,1963-03-04T00:00:00Z,5,Danilo Galindo,Danilo Galindo,Honduran footballer,Q783,Q916536
+Q16195297,Q6581097,1963-01-17T00:00:00Z,3,Antonio Rivera Callejas,Antonio Rivera Callejas,Honduran politician and lawyer,Q783,
+Q16195305,Q6581097,1963-10-12T00:00:00Z,1,Víctor Rolando Sabillón,Víctor Rolando Sabillón,Honduran politician,Q783,
+Q16195332,Q6581072,1963-03-15T00:00:00Z,2,Perla Simons,Perla Simons,Honduran politician,Q783,
+Q16195539,Q6581097,1964-06-17T00:00:00Z,4,Erick Fú,Erick Fú Lanza,Honduran footballer,Q783,Q3238
+Q16195742,Q6581097,1964-03-20T00:00:00Z,1,Claudio Roberto Perdomo,Claudio Roberto Perdomo,Honduran politician,Q783,
+Q16195747,Q6581097,1964-11-26T00:00:00Z,5,Jorge Pineda,Jorge Pineda,Honduran footballer,Q783,Q2395542
+Q16195772,Q6581097,1964-10-01T00:00:00Z,4,Tomás Róchez,Tomás Róchez,Honduran footballer,Q783,Q2394028
+Q16195963,Q6581097,1965-12-18T00:00:00Z,7,Wilmer Cruz,Wilmer Cruz,Honduran footballer,Q783,Q2180652
+Q16196072,Q6581097,1965-12-04T00:00:00Z,1,Renan Inestroza,Renan Inestroza,Honduran politician,Q783,
+Q16196151,Q6581097,1965-08-12T00:00:00Z,2,Miguel Edgardo Martínez,Miguel Edgardo Martínez,Honduran politician,Q783,
+Q16196310,Q6581097,1965-08-06T00:00:00Z,1,Salvador Valeriano Pineda,Salvador Valeriano Pineda,Honduran politician,Q783,
+Q16196577,Q6581097,1966-04-05T00:00:00Z,2,Olman Danery Maldonado,Olman Danery Maldonado,Honduran politician,Q783,
+Q16196643,Q6581072,1966-06-15T00:00:00Z,4,Waldina Paz,Waldina Paz,Honduran journalist and politician,Q783,
+Q16196690,Q6581097,1966-10-07T00:00:00Z,2,Mario Edgardo Segura,Mario Edgardo Segura,Honduran politician,Q783,
+Q16196854,Q6581072,1967-04-04T00:00:00Z,3,Norma Haydee Calderón,Norma Haydee Calderón,Honduran politician,Q783,Q2277161
+Q16196955,Q6581097,1967-06-23T00:00:00Z,3,Nahamán González,Nahamán González,Honduran footballer,Q783,
+Q16197070,Q6581072,1967-06-23T00:00:00Z,2,Maria Aracely Leiva,Maria Aracely Leiva,politician,Q783,
+Q16197160,Q6581097,1967-10-13T00:00:00Z,1,Jesús Dagoberto Perdomo,Jesús Dagoberto Perdomo,Honduran politician,Q783,
+Q16197230,Q6581097,1969-10-21T00:00:00Z,3,Ángel Darío Banegas,Ángel Darío Banegas,Honduran politician,Q783,Q2283714
+Q16197548,Q6581072,1968-11-20T00:00:00Z,3,Yadira Bendaña,Yadira Bendaña,Honduran journalist and politician,Q783,Q3238
+Q16197977,Q6581097,1968-07-20T00:00:00Z,7,Presley Carson,Presley Carson,Honduran footballer,Q783,Q1419813
+Q16199123,Q6581072,1969-03-15T00:00:00Z,2,Brenda Mercedes Flores,Brenda Mercedes Flores,Honduran politician,Q783,
+Q16199634,Q6581097,1968-01-01T00:00:00Z,2,Ricardo Jaar,Ricardo Jaar,Honduran businessman and academic personality,Q783,Q274584
+Q16201022,Q6581097,1968-02-23T00:00:00Z,3,Erick Mauricio Rodríguez,Erick Mauricio Rodríguez,Honduran politician,Q783,
+Q16202011,Q6581097,1968-10-19T00:00:00Z,1,José Rodolfo Zelaya,José Rodolfo Zelaya,Honduran politician,Q783,Q3238
+Q16205375,Q6581072,1969-10-28T00:00:00Z,3,Lorena Enriqueta Herrera,Lorena Enriqueta Herrera,Honduran politician,Q783,
+Q16206715,Q6581097,1969-01-01T00:00:00Z,1,Milton Jesús Puerto,Milton Jesús Puerto,Honduran politician,Q783,
+Q16208260,Q6581097,1969-03-11T00:00:00Z,1,Eleazar Alexander Juárez,Eleazar Alexander Juárez,Honduran politician,Q783,
+Q16211589,Q6581072,1987-02-08T00:00:00Z,5,Ana Galindo (swimmer),Ana Galindo,Honduran swimmer,Q783,Q3238
+Q16212166,Q6581097,1970-01-01T00:00:00Z,1,Allan McDonald (cartoonist),Allan McDonald,Caricaturista e Ilustrador hondureño,Q783,
+Q16212871,Q6581097,1970-12-21T00:00:00Z,2,José Juan Rivera Ramos,José Juan Rivera Ramos,Honduran politician,Q783,
+Q16213318,Q6581097,1970-12-21T00:00:00Z,1,Juan Carlos Valenzuela (politician),Juan Carlos Valenzuela,Honduran politician,Q783,
+Q16213320,Q6581072,1970-09-17T00:00:00Z,2,Welsy Vásquez,Welsy Vásquez,Honduran politician,Q783,
+Q16213456,Q6581097,1971-09-30T00:00:00Z,5,Camilo Bonilla,Camilo Bonilla,Honduran footballer,Q783,Q274584
+Q16213461,Q6581097,1971-07-21T00:00:00Z,1,Yaudet Burbara,Yaudet Burbara,Honduran politician,Q783,
+Q16213472,Q6581097,1971-07-24T00:00:00Z,2,Walter Antonio Chávez,Walter Antonio Chávez,Honduran politician,Q783,
+Q16213723,Q6581097,1971-04-09T00:00:00Z,4,Enrique Reneau,Enrique Reneau,Honduran footballer (1971-2015),Q783,Q775897
+Q16213867,Q6581097,1971-06-09T00:00:00Z,3,Nigel Zúniga,Nigel Zúniga,Honduran footballer,Q783,Q1027018
+Q16214171,Q6581097,1972-02-27T00:00:00Z,2,Elman Joel Sandoval,Elman Joel Sandoval,Honduran politician,Q783,
+Q16214494,Q6581097,1973-01-31T00:00:00Z,2,Juan Fernando Lobo,Juan Fernando Lobo,Honduran politician,Q783,
+Q16215166,Q6581072,1974-11-24T00:00:00Z,2,Yessenia Coely Zelaya,Yessenia Coely Zelaya,Honduran politician,Q783,
+Q16215478,Q6581097,1975-07-13T00:00:00Z,3,Mario Alonso Pérez López,Mario Alonso Pérez López,Honduran politician,Q783,
+Q16215804,Q6581097,1976-08-25T00:00:00Z,5,Luis Guifarro,Luis Guifarro,Honduran footballer,Q783,Q3238
+Q16216694,Q6581097,1977-01-11T00:00:00Z,1,Fredy Renán Nájera,Fredy Renán Nájera,Honduran politician,Q783,
+Q16217200,Q6581097,1978-06-11T00:00:00Z,5,Óscar Bonilla,Óscar Bonilla,Honduran footballer,Q783,Q274584
+Q16217296,Q6581072,1978-10-31T00:00:00Z,2,Joselina García,Joselina García,Honduran beauty pageant contestant,Q783,Q3238
+Q16217547,Q6581097,1978-11-18T00:00:00Z,7,Hesler Phillips,Hesler Phillips,Honduran footballer,Q783,Q2113237
+Q16218405,Q6581097,1979-08-29T00:00:00Z,3,Alejandro Castellanos,Alejandro Castellanos,Honduran swimmer,Q783,Q783
+Q16221234,Q6581097,1980-01-01T00:00:00Z,4,Óscar Vargas (footballer),Óscar Vargas,Honduran footballer,Q783,Q783
+Q16221660,Q6581072,1981-03-10T00:00:00Z,3,Pamela Vásquez,Pamela Vásquez,Honduran swimmer,Q783,
+Q16221854,Q6581097,1982-09-20T00:00:00Z,4,Clifford Laing,Clifford Laing,Honduran footballer,Q783,Q783
+Q16221905,Q6581072,1982-07-20T00:00:00Z,2,Iizzwa Medina,Iizzwa Medina,Olympic Honduran table tennis player,Q783,Q3238
+Q16222267,Q6581097,1983-01-01T00:00:00Z,1,Selvin Laínez,Selvin Laínez,Honduran politician,Q783,
+Q1623781,Q6581097,1979-08-10T00:00:00Z,12,Maynor Suazo,Maynor Suazo,Honduran footballer,Q783,Q274584
+Q16239491,Q6581097,1996-05-08T00:00:00Z,5,Brayan Velásquez,Brayan Velasquez,Honduran footballer,Q783,Q3238
+Q1627342,Q6581097,2000-01-01T00:00:00Z,3,Nahúm Elí Palacios Arteaga,Nahúm Elí Palacios Arteaga,journalist,Q783,
+Q16295702,Q6581097,1992-12-28T00:00:00Z,13,Henry Figueroa,Henry Figueroa,Honduran association football player,Q783,Q1958069
+Q16297351,Q6581097,1992-01-30T00:00:00Z,10,Éver Alvarado,Ever Alvarado,Honduran association football player,Q783,Q2302837
+Q16297373,Q6581097,1996-08-03T00:00:00Z,18,"Kevin Álvarez (footballer, born 1996)",Kevin Álvarez,Honduran association football player,Q783,Q274584
+Q16297377,Q6581097,1992-06-29T00:00:00Z,2,"Pablo Álvarez (footballer, born 1992)",Pablo Álvarez García,Honduran association football player,Q783,Q1027018
+Q16297381,Q6581097,1989-09-22T00:00:00Z,5,Aly Arriola,Aly Arriola,Honduran association football player,Q783,Q2393072
+Q16297398,Q6581097,1962-02-26T00:00:00Z,6,Guillermo Anderson,Guillermo Anderson,Honduran singer composer,Q783,Q916536
+Q16297608,Q6581097,1983-01-31T00:00:00Z,5,Wilfredo Barahona,Wilfredo Barahona,Honduran footballer,Q783,Q2302837
+Q16297779,Q6581097,1992-12-28T00:00:00Z,6,Carlos Bernárdez,Carlos Bernárdez,Belizean association football player (born 1992),Q242,Q108223
+Q16297779,Q6581097,1992-12-28T00:00:00Z,6,Carlos Bernárdez,Carlos Bernárdez,Belizean association football player (born 1992),Q783,Q108223
+Q16298044,Q6581097,1969-09-19T00:00:00Z,3,Armando Calidonio,Armando Calidonio,Honduran politician,Q783,Q3238
+Q16298228,Q6581097,1992-12-28T00:00:00Z,6,Héctor Castellanos,Héctor Castellanos,Honduran association football player,Q783,Q1027018
+Q16298795,Q6581097,1987-01-14T00:00:00Z,6,Randy Diamond,Randy Diamond,Honduran footballer,Q783,Q2283714
+Q16299017,Q6581097,1995-05-29T00:00:00Z,6,José Escalante,José Escalante,Honduran footballer,Q783,Q2542686
+Q16300353,Q6581097,1995-01-01T00:00:00Z,10,Bryan Róchez,Bryan Róchez,Honduran footballer,Q783,Q3238
+Q16300434,Q6581097,1964-03-08T00:00:00Z,3,"Juan Flores (footballer, born 1964)",Juan Flores Madariaga,Honduran association football player,Q783,Q1643252
+Q16300476,Q6581097,1993-03-26T00:00:00Z,13,Brayan García,Brayan García,Honduran association football player,Q783,Q772672
+Q16300476,Q6581097,1993-05-26T00:00:00Z,13,Brayan García,Brayan García,Honduran association football player,Q783,Q772672
+Q16300525,Q6581072,1969-09-21T00:00:00Z,7,Ana García Carías,Ana Rosalinda García Carías,Honduran lawyer,Q783,Q3238
+Q16300724,Q6581097,1956-10-08T00:00:00Z,2,Hernán García Martínez,Hernán García,association football player (1956-2020),Q783,Q673089
+Q16301232,Q6581097,1993-09-13T00:00:00Z,24,"Luis López (footballer, born September 1993)",Luis López Fernández,Honduran footballer,Q783,Q274584
+Q16301325,Q6581097,1991-01-25T00:00:00Z,4,Roby Norales,Roby Norales,association football player,Q783,Q2358773
+Q16301345,Q6581097,1959-09-19T00:00:00Z,2,Marco Tulio Medina,Marco Tulio Medina,Honduran neurologist,Q783,Q3238
+Q16301458,Q6581097,1992-04-04T00:00:00Z,6,Júnior Padilla,Júnior Padilla,Honduran footballer,Q783,Q274584
+Q16301976,Q6581072,1954-01-01T00:00:00Z,5,María Cristina Pineda Suazo,María Cristina Pineda Suazo,"Honduran astronomer, physicist, civil engineer",Q783,
+Q16302009,Q6581097,1991-04-05T00:00:00Z,3,Jairo Róchez,Jairo Róchez Crisanto,Honduran association football player,Q783,Q1419813
+Q16302196,Q6581097,1988-12-28T00:00:00Z,5,Jairo Puerto,Jairo Puerto,association football player,Q783,Q1645164
+Q16302830,Q6581097,1989-10-04T00:00:00Z,2,Denovan Torres,Denovan Torres,Honduran association football player,Q783,Q4011279
+Q16326091,Q6581097,1921-10-30T00:00:00Z,2,Miguel Andonie Fernández,Miguel Andonie Fernández,1921-2013 Honduran pharmacologist,Q783,Q1971622
+Q16549580,Q6581097,1991-03-29T00:00:00Z,4,Clayvin Zúñiga,Clayvin Zúniga,association football player,Q783,Q673089
+Q16576315,Q6581097,1978-07-29T00:00:00Z,4,Mario Chirinos,Mario Chirinos,Honduran association football player,Q783,Q3238
+Q16576814,Q6581097,1960-08-31T00:00:00Z,3,Héctor Castellón,Héctor Castellón,association football player,Q783,Q520386
+Q16584961,Q6581097,1988-08-01T00:00:00Z,5,Juan Ramón Mejía,Juan Mejía,Honduran association football player,Q783,Q3238
+Q16646540,Q6581072,1901-01-01T00:00:00Z,3,Vilma Reyes Escalante,Vilma Reyes Escalante,Honduran politician,Q783,Q591139
+Q167275,Q6581097,1990-06-09T00:00:00Z,13,Roger Rojas,Roger Rojas,Honduran footballer,Q783,Q3238
+Q16728328,Q6581072,1941-01-01T00:00:00Z,4,Margarita Sikaffi,Margarita Dabdoub Sikaffi,Honduran politician,Q783,Q916536
+Q16729025,Q6581097,1949-08-14T00:00:00Z,5,Roberto Flores Bermúdez,Roberto Flores Bermúdez,Honduran politician (born 1949),Q783,Q3238
+Q16733876,Q6581097,1976-05-06T00:00:00Z,3,Luis Oseguera,Luis Oseguera,Honduran footballer,Q783,Q2720977
+Q16735256,Q6581097,1956-02-01T00:00:00Z,5,Belarmino Rivera,Belarmino Rivera,Honduran footballer,Q783,Q274584
+Q1687055,Q6581072,1960-04-21T00:00:00Z,6,Jenny Palacios-Stillo,Jenny Palacios,Honduran cross-country skier,Q783,
+Q1709658,Q6581097,1948-09-04T00:00:00Z,2,Tomás Arita Valle,Tomás Arita Valle,deputy chairman of the Supreme Court of Honduras,Q783,Q867084
+Q1712356,Q6581097,1944-02-28T00:00:00Z,5,Julio Escoto,Julio Escoto,Honduran writer,Q783,Q717
+Q1714608,Q6581097,1965-07-14T00:00:00Z,3,Yani Rosenthal,Yani Rosenthal,Honduran businessman and politician,Q783,Q274584
+Q17274338,Q6581072,1985-01-16T00:00:00Z,2,Ana Jurka,Ana Jurka,Honduran journalist,Q783,Q3238
+Q17274741,Q6581097,1995-06-18T00:00:00Z,10,Jonathan Paz,Jonathan Paz,Honduran association football player,Q783,Q2226585
+Q17364419,Q6581097,1991-03-26T00:00:00Z,6,"Walter Martínez (footballer, born 1991)",Walter Joel Martínez,Honduran association football player,Q783,Q3238
+Q17364475,Q6581097,1987-05-09T00:00:00Z,9,Sergio Peña (Honduran footballer),Sergio Peña,footballer,Q783,Q2226585
+Q17364527,Q6581097,1991-06-01T00:00:00Z,8,Ángel Tejeda,Ángel Tejeda,Honduran association football player,Q783,Q2180652
+Q17364545,Q6581097,1998-01-15T00:00:00Z,6,Darixon Vuelto,Darixon Vuelto,Honduran association football player,Q783,Q7409064
+Q17412700,Q6581097,1982-09-14T00:00:00Z,2,Herlyn Espinal,Herlyn Espinal,Honduran journalist and television reporter (1982-2014),Q783,Q2395689
+Q17478027,Q6581097,1996-06-16T00:00:00Z,12,Deiby Flores,Deybi Flores,Honduran association football player,Q783,Q274584
+Q17478086,Q6581097,1995-12-26T00:00:00Z,13,Jhow Benavídez,Jhow Benavídez,Honduran association football player,Q783,Q1643252
+Q17478303,Q6581097,1965-01-30T00:00:00Z,3,Carlos Tábora,Carlos Ramón Tábora,Honduran footballer and coach,Q783,Q1643274
+Q17612783,Q6581097,1989-10-03T00:00:00Z,3,Cristian Raudales,Cristian Raudales,Honduran footballer,Q783,Q3238
+Q17620504,Q6581097,1996-02-12T00:00:00Z,20,Alberth Elis,Alberth Elis,Honduran footballer,Q783,Q274584
+Q17629330,Q6581097,1981-03-19T00:00:00Z,3,Samir Arzú,Samir Arzú,Honduran association football player,Q783,Q775897
+Q17629330,Q6581097,1981-04-19T00:00:00Z,3,Samir Arzú,Samir Arzú,Honduran association football player,Q783,Q775897
+Q17635094,Q6581097,1990-10-05T00:00:00Z,4,"Iván López (footballer, born 1990)",Iván Edgardo López,Honduran footballer,Q783,Q274584
+Q17635709,Q6581097,1988-01-16T00:00:00Z,4,Juan Josué Rodríguez,Juan Josué Rodríguez,Honduran footballer,Q783,Q2356788
+Q17635950,Q6581097,1996-02-03T00:00:00Z,5,Kevin López (footballer),Kevin Josué López,Honduran association football player,Q783,Q998218
+Q17985854,Q6581072,1956-01-01T00:00:00Z,7,Bertha Oliva,Bertha Oliva,Honduran human rights activist,Q783,
+Q18205682,Q6581097,1924-02-27T00:00:00Z,3,Efraín Bu Girón,Efraín Bu Girón,Honduran lawyer and politician (1924-2004),Q783,Q591139
+Q18222953,Q6581097,1993-03-01T00:00:00Z,7,Edrick Menjívar,Edrick Menjívar,Honduran association football player,Q783,Q916536
+Q18558595,Q6581072,1995-07-19T00:00:00Z,15,María José Alvarado,María José Alvarado,Honduran beauty queen; Miss Honduras World,Q783,Q2283714
+Q1868208,Q6581097,1988-03-14T00:00:00Z,12,David Molina,David Molina,Honduran footballer,Q783,Q3238
+Q18702966,Q6581097,1948-01-01T00:00:00Z,4,Samuel Sentini,Samuel Sentini,Honduran association football player (1948-2014),Q783,Q916536
+Q18719858,Q6581097,1986-11-27T00:00:00Z,4,Osman Melgares,Osman Melgares,Honduran association football player,Q783,Q2226585
+Q18719928,Q6581097,1946-10-15T00:00:00Z,2,Rubén Guifarro,Rubén Guifarro,association football player,Q783,Q772672
+Q1898787,Q6581097,1966-12-07T00:00:00Z,5,Mario Fernando Hernández,Mario Fernando Hernández,Honduran politician (1966-2008),Q783,
+Q19013163,Q6581097,1962-05-02T00:00:00Z,2,Mario Verdial,Mario Verdial,Honduran businessman (1962-2015),Q783,Q274584
+Q191060,Q6581097,1952-09-20T00:00:00Z,57,Manuel Zelaya,Manuel Zelaya,Honduran politician and businessman (born 1952),Q783,Q772672
+Q19294821,Q6581097,1952-03-24T00:00:00Z,1,Matías Funes,Matías Funes,"Honduran politician, academic and writer (1952-2015)",Q783,
+Q1932612,Q6581097,1924-08-14T00:00:00Z,6,Miguel Facussé Barjum,Miguel Facussé Barjum,Honduran businessman (1924–2015),Q783,Q3238
+Q1935907,Q6581097,1961-11-08T00:00:00Z,6,Milton Jiménez,Milton Jiménez,Honduran politician,Q783,
+Q19364572,Q6581097,1971-08-04T00:00:00Z,4,Luis Alonso Morán,Luis Alonso Morán,Olympic judoka,Q783,Q274584
+Q19369172,Q6581097,1992-07-21T00:00:00Z,5,"Juan Delgado (footballer, born 1992)",Juan Ángel Delgado,Honduran association football player,Q783,Q1644884
+Q19663688,Q6581097,1943-11-22T00:00:00Z,2,Carlos Urbizo,Carlos Urbizo,Honduran economist and politician,Q783,Q916536
+Q19698483,Q6581097,1948-01-01T00:00:00Z,2,Rigoberto Paredes,Rigoberto Paredes,"Honduran poet, essayist and publisher",Q783,Q2283714
+Q19698483,Q6581097,1948-04-26T00:00:00Z,2,Rigoberto Paredes,Rigoberto Paredes,"Honduran poet, essayist and publisher",Q783,Q2283714
+Q19828956,Q6581097,1967-01-01T00:00:00Z,3,Eduardo Gauggel Medina,Eduardo Gauggel Medina,Honduran lawyer (1980-2015),Q783,
+Q19828957,Q6581097,1954-01-02T00:00:00Z,4,Eduardo Gauggel Rivas,Eduardo Gauggel Rivas,Honduran lawyer and judge (1954-2015),Q783,Q954300
+Q19867935,Q6581097,1995-01-16T00:00:00Z,5,Darwin Espinal,Darwin Espinal,Honduran association football player,Q783,Q3238
+Q19886744,Q6581097,1996-02-17T00:00:00Z,9,Devron García,Devron García,Honduran association football player,Q783,Q1419813
+Q19901470,Q6581097,1993-02-24T00:00:00Z,13,Marcelo Espinal,Marcelo Espinal,Honduran footballer,Q783,Q916536
+Q19960723,Q6581097,1995-04-14T00:00:00Z,12,Elder Torres,Elder Torres,Honduran association football player,Q783,Q916536
+Q19974629,Q6581097,1969-04-03T00:00:00Z,4,Marlon Tábora Muñoz,Marlon Tábora Muñoz,Honduran politician and diplomat,Q783,Q954300
+Q20029778,Q6581097,1995-05-05T00:00:00Z,10,Kevin Mejía,Kevin Mejía,Honduran amateur wrestler (born 1995),Q783,Q1027018
+Q20058741,Q6581097,1989-05-15T00:00:00Z,7,Carlos Lanza,Ovidio Lanza,Honduran association football player,Q783,Q2603720
+Q20058741,Q6581097,1990-05-15T00:00:00Z,7,Carlos Lanza,Ovidio Lanza,Honduran association football player,Q783,Q2603720
+Q20090492,Q6581097,1991-09-06T00:00:00Z,4,"Carlos Contreras (footballer, born 1991)",Carlos Contreras,Honduran association football player,Q783,Q679169
+Q20155704,Q6581097,1994-09-18T00:00:00Z,3,Klifox Bernárdez,Klifox Bernárdez,Honduran association football player,Q783,Q916536
+Q2016538,Q6581097,1949-06-12T00:00:00Z,16,Luis Cruz (Honduran footballer),José Luis Cruz,Honduran footballer (1949–2021),Q783,Q7414652
+Q2016538,Q6581097,1952-02-09T00:00:00Z,16,Luis Cruz (Honduran footballer),José Luis Cruz,Honduran footballer (1949–2021),Q783,Q7414652
+Q2016935,Q6581097,1940-11-21T00:00:00Z,15,Chelato Uclés,José de la Paz Herrera,Honduran footballer (1940–2021),Q783,Q2392467
+Q2018345,Q6581097,1954-12-13T00:00:00Z,15,Allan Anthony Costly,Allan Anthony Costly,Honduran footballer,Q783,Q1027018
+Q2029318,Q6581097,1993-05-10T00:00:00Z,7,Bayron Molina,Bayron Molina,Honduran boxer,Q783,Q3238
+Q20641344,Q6581097,1977-02-10T00:00:00Z,3,Polache,Polache,association football player,Q783,Q3238
+Q20645829,Q6581072,1986-10-20T00:00:00Z,9,Melissa Borjas,Melissa Borjas,Honduran association football referee,Q783,Q3238
+Q20726299,Q6581097,1988-11-02T00:00:00Z,5,Gerson Tinoco,Gerson Tinoco,Honduran association football player,Q783,Q2552676
+Q20761949,Q6581097,1991-09-27T00:00:00Z,3,Brayan Reyes,Brayan Reyes,Honduran association football player,Q783,Q2561180
+Q2076756,Q6581097,1991-02-27T00:00:00Z,14,Eddie Hernández,Eddie Hernández,footballer,Q783,Q992173
+Q2076756,Q6581097,1991-02-28T00:00:00Z,14,Eddie Hernández,Eddie Hernández,footballer,Q783,Q992173
+Q2077220,Q6581097,1990-02-07T00:00:00Z,14,Johnny Leverón,Johnny Leverón,Honduran association football player,Q783,Q2561180
+Q2077232,Q6581097,1990-04-03T00:00:00Z,17,Alfredo Mejía,Alfredo Mejía,Honduran footballer,Q783,Q2302837
+Q20823032,Q6581097,1994-04-17T00:00:00Z,3,Marlon Ramírez,Marlon Ramírez,Honduran association football player,Q783,Q2358773
+Q20831423,Q6581097,1993-10-19T00:00:00Z,9,Brayan Moya,Bryan Moya,Honduran association football player,Q783,Q3238
+Q20847052,Q6581097,1993-12-08T00:00:00Z,12,Óscar Salas,Óscar Salas,Honduran association football player,Q783,Q2720977
+Q20847052,Q6581097,1993-12-08T00:00:00Z,12,Óscar Salas,Óscar Salas,Honduran association football player,Q783,Q783
+Q20931550,Q6581097,1991-01-06T00:00:00Z,5,Marcelo Canales,Marcelo Canales,Honduran association football player,Q783,Q916536
+Q20970388,Q6581097,1995-05-27T00:00:00Z,15,Marcelo Pereira,Marcelo Pereira Gonzales,Honduran association football player,Q783,Q3238
+Q20984453,Q6581097,1922-07-05T00:00:00Z,1,Frederick Hahneman,Frederick Hahneman,American hijacker,Q783,Q2058947
+Q20994878,Q6581097,1949-02-25T00:00:00Z,4,Oswaldo Ramos Soto,Oswaldo Ramos Soto,"Honduran politician, lawyer and judge",Q783,Q916536
+Q21063518,Q6581097,1982-09-13T00:00:00Z,2,Héctor Francisco Rodríguez,Héctor Francisco Rodríguez,Honduran football referee,Q783,Q783
+Q2107417,Q6581097,1986-01-06T00:00:00Z,5,Kenny Godoy,Kenny Godoy,Honduran judoka,Q783,Q3238
+Q212756,Q6581097,1979-11-05T00:00:00Z,42,David Suazo,David Suazo,Honduran footballer and manager (born 1979),Q783,Q274584
+Q21411344,Q6581097,1995-06-17T00:00:00Z,9,Michaell Chirinos,Michaell Chirinos,Honduran association football player,Q783,Q3238
+Q21573334,Q6581072,1970-11-09T00:00:00Z,7,Dora Maldonado,Dora Maldonado,Honduran judoka,Q783,
+Q2159631,Q6581097,1930-04-18T00:00:00Z,4,Roberto Sosa (poet),Roberto Sosa,Honduran author and poet (1930-2011),Q783,Q2561180
+Q21621245,Q6581072,1991-05-15T00:00:00Z,4,Iroshka Elvir,Iroshka Elvir,Honduran model and politician,Q783,Q1773148
+Q21855569,Q6581097,1951-09-15T00:00:00Z,2,Carlos Ávila,Carlos Ávila,Honduran long-distance runner,Q783,
+Q21935583,Q6581097,1949-04-15T00:00:00Z,2,Emilio Barahona,Emilio Barahona,Honduran middle-distance runner,Q783,Q3238
+Q21935592,Q6581097,1947-04-23T00:00:00Z,3,Cristóbal Corrales,Cristóbal Corrales,Honduran sprinter,Q783,Q3238
+Q21935593,Q6581097,1949-05-19T00:00:00Z,2,Arturo Córdoba,Arturo Córdoba,Honduran middle-distance runner,Q783,Q3238
+Q21935598,Q6581097,1946-02-13T00:00:00Z,2,Rodolfo Erazo,Rodolfo Erazo,Honduran long-distance runner,Q783,Q3238
+Q21935622,Q6581097,1949-02-27T00:00:00Z,2,Clovis Morales,Clovis Morales,Honduran long-distance runner,Q783,Q3238
+Q21935642,Q6581097,1947-01-22T00:00:00Z,2,Juan Valladares,Juan Valladares,Honduran long-distance runner,Q783,Q3238
+Q22002988,Q6581097,1997-11-17T00:00:00Z,15,Danilo Acosta,Danilo Acosta,Honduran footballer,Q783,Q274584
+Q22003983,Q6581097,1928-10-26T00:00:00Z,2,Pompeyo del Valle,Pompeyo del Valle,Honduran poet and journalist (1928-2018),Q783,Q3238
+Q22060972,Q6581072,1933-02-08T00:00:00Z,2,Dionisia Amaya,Dionisia Amaya,Honduran activist,Q783,Q916536
+Q22074456,Q6581097,1975-09-06T00:00:00Z,2,Juan Diego Zelaya,,Honduran politician,Q783,
+Q22092189,Q6581097,1954-01-21T00:00:00Z,2,Misael Argeñal,Misael Argeñal,Honduran writer,Q783,Q2209633
+Q22814991,Q6581072,1947-08-21T00:00:00Z,8,Doris Gutiérrez,Doris Gutiérrez,Vice President of Honduras,Q783,Q2483679
+Q22999106,Q6581072,1971-03-04T00:00:00Z,42,Bertha Cáceres,Berta Cáceres,Honduran environmental activist,Q783,Q2561304
+Q2300015,Q6581072,1962-10-12T00:00:00Z,5,Amanda Castro,Amanda Castro,Honduran poet,Q783,Q3238
+Q23008610,Q6581097,1932-03-30T00:00:00Z,1,Agapito Robleda Castro,Agapito Robleda Castro,Honduran politician (1932-2016),Q783,
+Q2359715,Q6581072,1980-02-10T00:00:00Z,14,Dania Prince,Dania Prince,Honduran model,Q783,Q1773148
+Q23793172,Q6581072,1967-01-14T00:00:00Z,2,Yolani Batres,Yolani Batres,Honduran politician,Q783,Q2561339
+Q23887616,Q6581097,1966-07-02T00:00:00Z,4,Polin Belisle,Polin Belisle,Belize and Honduras marathon runner (* 1966),Q783,Q783
+Q23887616,Q6581097,1966-07-02T00:00:00Z,4,Polin Belisle,Polin Belisle,Belize and Honduras marathon runner (* 1966),Q242,Q783
+Q23902223,Q6581072,1946-10-28T00:00:00Z,3,Leda Díaz,Leda Díaz,Honduran long-distance runner,Q783,
+Q23902617,Q6581097,1953-12-30T00:00:00Z,4,Santiago Fonseca,Santiago Fonseca,Honduran racewalker,Q783,
+Q24051746,Q6581072,1900-01-01T00:00:00Z,11,Paca Navas,Paca Navas,"Honduran journalist, writer and feminist",Q783,Q773764
+Q24263632,Q6581097,1965-07-10T00:00:00Z,1,Jaime Zelaya,Jaime Zelaya,Honduran athletics competitor,Q783,
+Q24565276,Q6581097,1963-02-07T00:00:00Z,2,Roy Padilla (footballer),Roy Padilla Bardales,association football player,Q783,Q2279521
+Q2470863,Q6581097,1957-10-10T00:00:00Z,20,Porfirio Armando Betancourt,Porfirio Betancourt,Honduran footballer (1957–2021),Q783,Q2279521
+Q2471366,Q6581097,1959-12-15T00:00:00Z,18,José Figueroa (footballer),José Roberto Figueroa,Honduran footballer (1959-2020),Q783,Q2720977
+Q2491499,Q6581097,1990-02-12T00:00:00Z,12,Orlin Peralta,Orlin Peralta,Honduran footballer,Q783,Q1552720
+Q2527671,Q6581097,1957-08-12T00:00:00Z,17,Héctor Zelaya,Héctor Ramón Zelaya,Honduran footballer,Q783,Q2394837
+Q2527712,Q6581097,1937-09-29T00:00:00Z,6,Virgilio López Irias,Virgilio López Irías,"Honduran priest, bishop (1937-2004)",Q783,Q916536
+Q2531430,Q6581097,1956-03-15T00:00:00Z,16,Gilberto Yearwood,Gilberto Yearwood,Honduran footballer,Q783,Q2279521
+Q25343699,Q6581097,1998-05-26T00:00:00Z,13,Denil Maldonado,Denil Maldonado,Honduran association football player,Q783,Q3238
+Q25409966,Q6581097,1994-06-16T00:00:00Z,12,Brayan Ramírez (footballer),Brayan Ramírez,Honduran footballer,Q783,Q3238
+Q2548374,Q6581097,1977-11-30T00:00:00Z,12,Iván Guerrero,Mario Guerrero,Honduran footballer,Q783,Q679169
+Q2558337,Q6581097,1982-09-17T00:00:00Z,12,Emil Martínez,Emil Martínez,Honduran footballer,Q783,Q2277161
+Q2564300,Q6581097,1954-10-30T00:00:00Z,16,Ramón Maradiaga,Ramón Maradiaga,Honduran footballer,Q783,Q605984
+Q26243403,Q6581097,1933-11-26T00:00:00Z,4,Alfredo Bowman,Alfredo Bowman,Honduran herbalist,Q783,
+Q26250580,Q6581072,1999-03-12T00:00:00Z,7,Sara Pastrana,Sara Pastrana,Honduran swimmer,Q783,
+Q26250597,Q6581097,1997-07-30T00:00:00Z,15,Teofimo Lopez,Teófimo López,American boxer,Q783,Q18419
+Q26250597,Q6581097,1997-07-30T00:00:00Z,15,Teofimo Lopez,Teófimo López,American boxer,Q30,Q18419
+Q26266349,Q6581097,1993-10-08T00:00:00Z,13,Harold Fonseca,Harold Fonseca,Honduran footballer,Q783,Q3238
+Q26267199,Q6581097,1993-10-04T00:00:00Z,13,Allan Banegas,Allan Banegas,association football player,Q783,Q783
+Q26405527,Q6581097,1993-09-25T00:00:00Z,15,Allans Vargas,Allans Vargas,Honduran footballer,Q783,Q274584
+Q26706999,Q6581097,1998-07-31T00:00:00Z,13,Rigoberto Rivas,Rigoberto Rivas,Honduran association football player,Q783,Q2358773
+Q26790009,Q6581097,1977-03-20T00:00:00Z,7,Ramón Pileta,Ramón Pileta,Honduran judoka,Q783,Q244154
+Q2683806,Q6581097,1989-03-21T00:00:00Z,6,Darwin Oliva,Darwin Oliva,Honduran footballer,Q783,Q916536
+Q2693063,Q6581097,1935-03-21T00:00:00Z,5,Jorge Arturo Reina Idiáquez,Jorge Arturo Reina Idiáquez,Honduran politician,Q783,Q3238
+Q26991369,Q6581072,1966-10-05T00:00:00Z,4,Hilda Hernández,Hilda Hernández,Honduran agronomist and politician,Q783,Q2561339
+Q2699924,Q6581097,1981-01-05T00:00:00Z,9,Allan Lalín,Allan Lalín,Honduran footballer,Q783,Q3238
+Q2702056,Q6581097,1993-04-25T00:00:00Z,26,Anthony Lozano,Anthony Lozano,Honduran footballer,Q783,Q2561180
+Q27088109,Q6581097,1979-01-10T00:00:00Z,1,Jonnie Lowe,Jonnie Lowe,Honduran athletics competitor,Q783,
+Q27088109,Q6581097,1979-10-01T00:00:00Z,1,Jonnie Lowe,Jonnie Lowe,Honduran athletics competitor,Q783,
+Q2718634,Q6581097,1969-12-19T00:00:00Z,13,Álex Pineda Chacón,Alex Pineda Chacón,Honduran footballer,Q783,Q2180652
+Q27500296,Q6581097,1996-07-04T00:00:00Z,4,Maylor Núñez,Maylor Núñez,Honduran association football player,Q783,Q916536
+Q27500296,Q6581097,1996-07-05T00:00:00Z,4,Maylor Núñez,Maylor Núñez,Honduran association football player,Q783,Q916536
+Q27589327,Q6581097,1943-03-22T00:00:00Z,5,Pablo José Cámbar,Pablo Cámbar,Honduran academic,Q783,Q3238
+Q27640384,Q6581097,1997-11-25T00:00:00Z,10,Cristopher Meléndez,Cristopher Meléndez,Honduran footballer,Q783,Q916536
+Q27662383,Q6581097,1966-01-01T00:00:00Z,2,Jorge Elias Ponce,Jorge Elias Ponce,Honduran athletics competitor,Q783,
+Q28008015,Q6581097,1985-04-28T00:00:00Z,2,Jorge Cálix,Jorge Cálix,Honduran politician,Q783,Q3238
+Q28225713,Q6581097,1970-11-29T00:00:00Z,4,Chepo (footballer),José Alberto Fernández,footballer from Honduras,Q783,Q5172344
+Q287628,Q6581097,1974-12-05T00:00:00Z,9,Milton Flores,Milton Flores,Honduran footballer (1974-2003),Q783,Q2279521
+Q28833059,Q6581072,1951-05-18T00:00:00Z,3,Mirtha Colón,Mirtha Colón,Honduran activist,Q783,Q992173
+Q28833059,Q6581072,1951-05-18T00:00:00Z,3,Mirtha Colón,Mirtha Colón,Honduran activist,Q30,Q992173
+Q2885592,Q6581097,1982-12-01T00:00:00Z,4,Édgar Flores,Edgar Flores,Honduran actor,Q783,Q3238
+Q2886426,Q6581097,1974-01-07T00:00:00Z,4,Guayo Cedeño,Guayo Cedeño,Honduran musician,Q783,Q916536
+Q28868218,Q6581097,1901-01-01T00:00:00Z,2,Rodolfo Torres (swimmer),Rodolfo Torres,Honduran swimmer,Q783,
+Q2887381,Q6581097,1963-03-14T00:00:00Z,6,Raúl Martínez Sambulá,Raúl Martínez Sambulá,Honduran footballer,Q783,Q1027018
+Q29043230,Q6581072,1972-02-02T00:00:00Z,5,Ana Fortin,Ana Fortin,Honduran swimmer,Q783,
+Q29121885,Q6581072,1966-11-02T00:00:00Z,3,Beatriz Valle,Beatriz Valle,Honduran politician,Q783,Q3238
+Q293434,Q6581097,1942-12-29T00:00:00Z,34,Óscar Rodríguez Maradiaga,Óscar Andrés Rodríguez Maradiaga,papa Francisco,Q783,Q3238
+Q29578471,Q6581072,1982-10-14T00:00:00Z,11,María Dolores Agüero,María Dolores Agüero Lara,Honduran politician,Q783,
+Q29581179,Q6581097,1997-06-05T00:00:00Z,11,Douglas Martínez,Douglas Martinez,Honduran footballer,Q783,Q2720977
+Q29898638,Q6581097,1956-05-21T00:00:00Z,2,Luis Raudales,Luis Raudales,Honduran long-distance runner,Q783,
+Q29898697,Q6581097,1952-02-07T00:00:00Z,2,Hipólito López,Hipólito López,Honduran athlete,Q783,
+Q299442,Q6581097,1943-08-13T00:00:00Z,36,Roberto Micheletti,Roberto Micheletti,interim president of Honduras following the 2009 coup until 2010,Q783,Q2277161
+Q299442,Q6581097,1948-08-13T00:00:00Z,36,Roberto Micheletti,Roberto Micheletti,interim president of Honduras following the 2009 coup until 2010,Q783,Q2277161
+Q299503,Q6581097,1984-07-29T00:00:00Z,41,Wilson Palacios,Wilson Palacios,Honduran footballer,Q783,Q916536
+Q30081353,Q6581072,1960-01-25T00:00:00Z,2,Gladis Aurora López Calderón,Gladis Aurora López Calderón,Honduran politician,Q783,Q2331621
+Q30088352,Q6581072,1962-10-02T00:00:00Z,2,Gina Coello,Gina Coello,Honduran athlete,Q783,
+Q3021488,Q6581097,1989-01-03T00:00:00Z,4,Delbert Alvarado,Delbert Alvarado,Honduran player of Canadian football and American football player,Q783,Q916536
+Q3021488,Q6581097,1989-01-03T00:00:00Z,4,Delbert Alvarado,Delbert Alvarado,Honduran player of Canadian football and American football player,Q30,Q916536
+Q304507,Q6581097,1986-11-20T00:00:00Z,21,Edder Delgado,Edder Delgado,Honduran footballer,Q783,Q1644884
+Q3048837,Q6581097,1983-10-31T00:00:00Z,8,Edy Vásquez,Edy Vásquez,Honduran footballer (1983-2007),Q783,Q3238
+Q3056516,Q6581097,1985-02-11T00:00:00Z,11,Erick Norales,Erick Norales,Honduran footballer,Q783,Q916536
+Q312064,Q6581097,1983-05-02T00:00:00Z,43,Maynor Figueroa,Maynor Figueroa,Honduran footballer,Q783,Q775897
+Q31787178,Q6581097,1990-08-22T00:00:00Z,9,"Carlos Sánchez (footballer, born 1990)",Carlos Alfredo Sánchez,Honduran association football player,Q783,Q2277161
+Q318526,Q6581097,1980-01-18T00:00:00Z,29,Édgar Álvarez,Édgar Álvarez,Honduran footballer,Q783,Q673089
+Q3186317,Q6581097,1985-05-19T00:00:00Z,8,José Güity,José Güity,Honduran footballer,Q783,Q916536
+Q32432075,Q6581097,1992-08-02T00:00:00Z,5,Marcelo Santos (Honduran footballer),Marcelo Santos,Honduran association football player,Q783,Q916536
+Q3266594,Q6581097,1977-11-20T00:00:00Z,8,"Luis Ramírez (footballer, born 1977)",Luis Alfredo Ramírez,Honduran footballer,Q783,Q274584
+Q3266594,Q6581097,1977-11-21T00:00:00Z,8,"Luis Ramírez (footballer, born 1977)",Luis Alfredo Ramírez,Honduran footballer,Q783,Q274584
+Q3296088,Q6581097,1986-11-02T00:00:00Z,8,Marvin Sánchez,Marvin Sánchez,Honduran footballer,Q783,Q673089
+Q3375286,Q6581097,1990-09-25T00:00:00Z,7,Brandon Escobar,Brandon Escobar,Olympic wrestler,Q783,Q18438
+Q3436278,Q6581097,1954-02-02T00:00:00Z,3,Robert Seldon Lady,Robert Seldon Lady,CIA agent,Q783,Q3238
+Q3437955,Q6581097,1989-07-13T00:00:00Z,6,Reinieri Mayorquín,Reinieri Mayorquín,Honduran footballer,Q783,Q274584
+Q349142,Q6581097,1985-02-23T00:00:00Z,29,Hendry Thomas,Hendry Thomas,Honduran footballer,Q783,Q916536
+Q34984529,Q6581097,1967-11-30T00:00:00Z,2,Jorge Ponce,Jorge Fidel Ponce,Honduran sprinter,Q783,
+Q350398,Q6581097,1973-10-09T00:00:00Z,31,Carlos Pavón,Carlos Pavón,Honduran footballer,Q783,Q2277161
+Q350415,Q6581097,1986-05-10T00:00:00Z,36,Emilio Izaguirre,Emilio Izaguirre,Honduran footballer,Q783,Q3238
+Q3577002,Q6581097,1948-10-20T00:00:00Z,4,Edmundo Orellana,Edmundo Orellana,Honduran politician,Q783,
+Q3593645,Q6581097,1933-04-14T00:00:00Z,9,Óscar Acosta,Óscar Acosta,"Honduran writer, critic, politician and diplomat (1933–2014)",Q783,Q3238
+Q3607491,Q6581097,1985-10-26T00:00:00Z,20,Juan Pablo Montes,Juan Pablo Montes,Honduran footballer,Q783,Q727616
+Q361044,Q6581097,1976-05-02T00:00:00Z,31,Amado Guevara,Amado Guevara,Honduran footballer,Q783,Q3238
+Q3610782,Q6581097,1992-05-06T00:00:00Z,16,Alexander López,Alexander López,Honduran footballer,Q783,Q3238
+Q3634177,Q6581097,1982-04-15T00:00:00Z,6,Bani Lozano,Bani Lozano,Honduran footballer,Q783,Q1647488
+Q3656070,Q6581097,1986-08-29T00:00:00Z,11,"Luis López (footballer, born 1986)",Luis Alfredo López,Honduran footballer,Q783,Q679169
+Q3660044,Q6581097,1984-09-20T00:00:00Z,9,Carlos Discua,Carlos,Honduran footballer,Q783,Q3238
+Q3660072,Q6581097,1974-03-03T00:00:00Z,3,Carlos Güity,Carlos Güity,Honduran association football player,Q783,
+Q3660111,Q6581097,1958-12-05T00:00:00Z,15,Carlos Caballero (Honduran footballer),Carlos Orlando Caballero,Honduran footballer,Q783,Q2720977
+Q3664310,Q6581097,1955-08-07T00:00:00Z,16,Celso Güity,Celso Güity,Honduran footballer (1958-2021),Q783,Q916536
+Q368618,Q6581097,1985-11-14T00:00:00Z,26,Ramón Núñez,Ramón Núñez,Honduran footballer,Q783,Q3238
+Q3699218,Q6581097,1990-11-05T00:00:00Z,23,Luis Garrido,Luis Garrido,Honduran footballer,Q783,Q773764
+Q3699363,Q6581097,1988-03-08T00:00:00Z,23,Juan Carlos García (Honduran footballer),Juan Carlos García,Honduran footballer (1988-2018),Q783,Q1027018
+Q3700027,Q6581097,1954-05-07T00:00:00Z,16,Efraín Gutiérrez,Efraín Gutiérrez,Honduran footballer,Q783,Q916536
+Q3703119,Q6581097,1955-05-05T00:00:00Z,16,David Bueso,David Bueso,Honduran footballer,Q783,Q3238
+Q3703159,Q6581097,1970-08-02T00:00:00Z,3,David Cárcamo,David Cárcamo,Honduran association football player,Q783,
+Q371186,Q6581097,1921-06-30T00:00:00Z,31,Oswaldo López Arellano,Oswaldo López Arellano,President of Honduras from 1963–71 and 1972–75,Q783,Q1958679
+Q3713321,Q6581097,1957-04-14T00:00:00Z,18,Domingo Drummond,Domingo Drummond,Honduran footballer (1957-2002),Q783,Q673089
+Q3719765,Q6581097,1968-09-11T00:00:00Z,11,Eduardo Bennett,Eduardo Bennett,Honduran footballer,Q783,Q916536
+Q3719819,Q6581097,1958-12-27T00:00:00Z,17,Eduardo Laing,Eduardo Laing,Honduran footballer,Q783,Q673089
+Q3728604,Q6581097,1983-08-30T00:00:00Z,6,Miguel Castillo,Miguel Castillo,Honduran footballer,Q783,Q3238
+Q3728604,Q6581097,1983-09-30T00:00:00Z,6,Miguel Castillo,Miguel Castillo,Honduran footballer,Q783,Q3238
+Q3728743,Q6581097,1989-12-08T00:00:00Z,12,David Velásquez,José David Velásquez,Honduran footballer,Q783,Q916536
+Q3728997,Q6581097,1989-07-21T00:00:00Z,12,José Mendoza (Honduran footballer),José Alberto Mendoza Posas,footballer,Q783,Q2720977
+Q3729363,Q6581097,1985-12-21T00:00:00Z,13,"Kevin Hernández (footballer, born 1985)",Kevin Hernández,Honduran footballer born 1985,Q783,Q1552720
+Q3729481,Q6581097,1981-07-16T00:00:00Z,7,Mitchel Brown,Mitchel Brown,Honduran footballer,Q783,Q916536
+Q3751009,Q6581097,1990-02-07T00:00:00Z,10,"Francisco Reyes (footballer, born 1990)",Francisco Javier Reyes,Honduran association football player,Q783,Q916536
+Q3751010,Q6581097,1959-09-30T00:00:00Z,16,Francisco Javier Toledo,Francisco Javier Toledo,Honduran footballer (1959-2006),Q783,Q274584
+Q3778106,Q6581097,1941-07-12T00:00:00Z,16,Gualberto Fernández,Gualberto Fernández,Salvadoran footballer,Q792,Q3238
+Q3778106,Q6581097,1941-07-12T00:00:00Z,16,Gualberto Fernández,Gualberto Fernández,Salvadoran footballer,Q783,Q3238
+Q3784928,Q6581097,1977-08-05T00:00:00Z,5,Henry Enamorado,Henry Enamorado,Honduran association football player,Q783,Q2283714
+Q3785621,Q6581097,1989-04-06T00:00:00Z,10,Hilder Colón,Hilder Colón,Honduran association football player,Q783,Q673089
+Q3806192,Q6581097,1950-07-05T00:00:00Z,17,Jaime Villegas,Jaime Villegas,Honduran footballer,Q783,Q916536
+Q3810412,Q6581097,1939-02-27T00:00:00Z,14,José Cardona,José Cardona,Honduran footballer (1939-2013),Q783,Q1644959
+Q3810542,Q6581097,1952-08-07T00:00:00Z,17,Salomón Nazar,Salomón Nazar,Honduran footballer,Q783,Q3238
+Q3810542,Q6581097,1953-09-07T00:00:00Z,17,Salomón Nazar,Salomón Nazar,Honduran footballer,Q783,Q3238
+Q3810759,Q6581097,1959-02-27T00:00:00Z,15,Juan Cruz Murillo,Juan Cruz Murillo,Honduran footballer,Q783,Q3238
+Q3811816,Q6581097,1979-08-12T00:00:00Z,9,Júnior Izaguirre,Júnior Izaguirre,Honduran football defender,Q783,Q3238
+Q3830409,Q6581097,1975-10-08T00:00:00Z,5,"Leonardo Morales (footballer, born 1975)",Leonardo Morales,Honduran footballer (1975-),Q783,Q958080
+Q3832468,Q6581097,1976-07-26T00:00:00Z,6,Limber Pérez,Niche Pérez,Honduran association football player,Q783,Q2036829
+Q383613,Q6581097,1989-06-24T00:00:00Z,12,Wilmer Crisanto,Wilmer Crisanto,Honduran footballer,Q783,Q916536
+Q38429053,Q6581097,1999-08-11T00:00:00Z,10,Wesly Decas,Wesly Decas,Honduran association football player,Q783,Q767244
+Q38458447,Q6581097,1947-11-11T00:00:00Z,4,Schucry Kafie,Schucry Kafie,Honduran businessman and philanthropist,Q783,
+Q3848484,Q6581097,1975-07-31T00:00:00Z,8,Mario César Rodríguez,Mario César Rodríguez,Honduran footballer,Q783,Q1644959
+Q3850403,Q6581097,1974-05-11T00:00:00Z,5,Marvin Brown (Honduran footballer),Marvin Brown,Honduran association football player,Q783,Q783
+Q3858095,Q6581097,1974-05-02T00:00:00Z,9,Milton Reyes,Milton Reyes,Honduran footballer,Q783,Q1647488
+Q3858096,Q6581097,1972-10-30T00:00:00Z,9,Milton Núñez,Milton Núñez,Honduran footballer,Q783,Q7409064
+Q3874854,Q6581097,1981-08-05T00:00:00Z,7,Nery Medina,Nery Medina,Honduran footballer,Q783,Q958080
+Q3877240,Q6581097,1976-08-26T00:00:00Z,7,Ninrrol Medina,Ninrod Medina,former Honduran football player,Q783,Q925890
+Q3886039,Q6581097,1983-07-01T00:00:00Z,7,Orlin Vallecillo,Orlin Vallecillo,Honduran footballer,Q783,Q1020581
+Q3886039,Q6581097,1989-07-21T00:00:00Z,7,Orlin Vallecillo,Orlin Vallecillo,Honduran footballer,Q783,Q1020581
+Q3886425,Q6581097,1973-06-17T00:00:00Z,8,Óscar Lagos,Óscar Lagos,Honduran association football player,Q783,Q2393148
+Q3927830,Q6581097,1985-03-03T00:00:00Z,10,Quiarol Arzú,Quiarol Arzú,Honduran footballer,Q783,Q775897
+Q3932221,Q6581097,1978-08-06T00:00:00Z,7,Reynaldo Pineda,Reinaldo Pineda,Honduran association football player,Q783,Q274584
+Q3935044,Q6581097,1971-07-21T00:00:00Z,8,Ricky García (footballer),Ricky Denis García,Honduran footballer,Q783,Q673089
+Q3935757,Q6581097,1977-01-09T00:00:00Z,7,"Rigoberto Gómez (footballer, born 1977)",Rigoberto Gómez,Guatemalan footballer,Q783,Q3238
+Q3935757,Q6581097,1977-01-09T00:00:00Z,7,"Rigoberto Gómez (footballer, born 1977)",Rigoberto Gómez,Guatemalan footballer,Q774,Q3238
+Q3938191,Q6581097,1972-06-08T00:00:00Z,7,Robel Bernárdez,Robel Bernárdez,Honduran footballer,Q783,Q1958069
+Q3938588,Q6581097,1952-08-10T00:00:00Z,16,Roberto Bailey,Roberto Bailey,Honduran footballer (1952-2019),Q783,Q1027018
+Q3978381,Q6581072,1988-08-13T00:00:00Z,2,Keylin Suzette Gómez,Keylin Suzette Gómez,Miss Universo Honduras 2011,Q783,Q767244
+Q4016736,Q6581097,1974-07-29T00:00:00Z,7,Víctor Coello,Víctor Coello,Honduran footballer,Q783,Q2542686
+Q4115508,Q6581097,1984-07-14T00:00:00Z,7,Melvin Valladares,Melvin Valladares,Honduran footballer,Q783,Q3238
+Q4301783,Q6581097,1977-07-18T00:00:00Z,4,Luis Moncada,Luis Moncada,Honduran-American actor,Q783,Q783
+Q4301783,Q6581097,1977-07-18T00:00:00Z,4,Luis Moncada,Luis Moncada,Honduran-American actor,Q30,Q783
+Q4302710,Q6581097,1982-10-13T00:00:00Z,5,Donaldo Morales,Donaldo Morales,Honduran footballer,Q783,Q547593
+Q43953,Q6581097,1986-01-08T00:00:00Z,23,Jorge Claros,Jorge Claros,Honduran footballer,Q783,Q916536
+Q439899,Q6581097,1977-05-03T00:00:00Z,35,Noel Valladares,Noel Valladares,Honduran footballer,Q783,Q679169
+Q441393,Q6581097,1946-04-20T00:00:00Z,32,Ricardo Maduro,Ricardo Maduro,President of Honduras from 2002 to 2006,Q783,Q804
+Q44279771,Q6581097,1967-04-11T00:00:00Z,5,Javier Monthiel,Javier Monthiel,"Honduran singer, composer, producer, businessman and politician",Q783,Q2182554
+Q44294367,Q6581072,1985-02-14T00:00:00Z,4,Marlene Alvarenga,Marlene Alvarenga,Honduran politician,Q783,Q3238
+Q443514,Q6581097,1931-10-29T00:00:00Z,5,Enrique Ortez,Enrique Ortez,Honduran politician,Q783,Q773764
+Q44498056,Q6581097,1962-06-28T00:00:00Z,2,Rafael Valladares,Rafael Valladares,Honduran athlete,Q783,
+Q447026,Q6581097,1921-12-21T00:00:00Z,29,Augusto Monterroso,Augusto Monterroso,Guatemalan writer (1921–2003),Q783,Q3238
+Q447026,Q6581097,1921-12-21T00:00:00Z,29,Augusto Monterroso,Augusto Monterroso,Guatemalan writer (1921–2003),Q774,Q3238
+Q455954,Q6581097,1982-03-28T00:00:00Z,27,"Walter Martínez (footballer, born 1982)",Walter Martínez,Honduran footballer (1982-2019),Q783,Q3238
+Q462522,Q6581097,1982-05-24T00:00:00Z,28,Víctor Bernárdez,Víctor Bernárdez,Honduran footballer,Q783,Q916536
+Q466100,Q6581097,1978-11-11T00:00:00Z,21,Mauricio Sabillón,Mauricio Sabillón,Honduran footballer,Q783,Q2394900
+Q4668148,Q6581097,1988-08-01T00:00:00Z,4,Ábner Méndez,Abner Méndez,footballer,Q783,Q673089
+Q4668744,Q6581097,1974-07-07T00:00:00Z,3,Abraham Alvarenga Urbina,Abraham Alvarenga Urbina,Honduran politician,Q783,
+Q4678555,Q6581097,1979-09-14T00:00:00Z,4,Adalid Puerto,Adalid Puerto,Honduran footballer,Q783,Q2720977
+Q4694502,Q6581072,1963-04-23T00:00:00Z,3,Aguas Santas Ocaña Navarro,Aguas Santas Ocaña Navarro,First Lady of Honduras (2002-2006),Q783,Q579216
+Q4694502,Q6581072,1963-04-23T00:00:00Z,3,Aguas Santas Ocaña Navarro,Aguas Santas Ocaña Navarro,First Lady of Honduras (2002-2006),Q29,Q579216
+Q46995555,Q6581097,1950-07-09T00:00:00Z,4,Moisés Canelo,Moisés Canelo,Honduran singer and songwriter,Q783,Q1643266
+Q47156976,Q6581072,1998-05-26T00:00:00Z,8,Elexa Bahr,Elexa Bahr,American–Honduran–Colombian association football player,Q783,Q1002205
+Q47156976,Q6581072,1998-05-26T00:00:00Z,8,Elexa Bahr,Elexa Bahr,American–Honduran–Colombian association football player,Q30,Q1002205
+Q47156976,Q6581072,1998-05-26T00:00:00Z,8,Elexa Bahr,Elexa Bahr,American–Honduran–Colombian association football player,Q739,Q1002205
+Q4716616,Q6581097,1982-08-02T00:00:00Z,3,Alex Andino,Alex Andino,Honduran footballer,Q783,Q2720977
+Q4730652,Q6581097,1993-08-12T00:00:00Z,4,Allan Gutiérrez Castro,Allan Gutiérrez Castro,Honduran swimmer,Q783,Q274584
+Q473086,Q6581097,1977-02-20T00:00:00Z,7,Orvin Cabrera,Orvin Cabrera,Honduran footballer (1977-2010),Q783,Q274584
+Q4737,Q6581097,1947-12-22T00:00:00Z,45,Porfirio Lobo Sosa,Porfirio Lobo Sosa,37th President of Honduras (2010–2014),Q783,Q992173
+Q47436494,Q6581072,1990-06-16T00:00:00Z,4,Keyla Ávila,Keyla Ávila,Honduran taekwondo athlete,Q783,
+Q47485665,Q6581097,1996-05-18T00:00:00Z,6,Franklin Flores (footballer),Franklin Flores,association football player,Q783,Q775897
+Q47501980,Q6581097,1972-02-02T00:00:00Z,1,Jorge Maradiaga,Jorge Maradiaga,Honduran athletics competitor,Q783,
+Q47522606,Q6581097,1996-08-12T00:00:00Z,4,"Henry Romero (footballer, born 1996)",Henry Adonis Romero,association football player,Q783,Q3238
+Q4795005,Q6581097,1970-12-22T00:00:00Z,7,Arnold Cruz,Arnold Cruz,Honduran footballer,Q783,Q2277161
+Q4795346,Q6581097,1968-09-13T00:00:00Z,1,Arnoldo José Avilés García,Arnoldo José Avilés García,Honduran politician,Q783,
+Q4802795,Q6581097,1960-01-30T00:00:00Z,2,Arístides Mejía,Arístides Mejía,Honduran politician,Q783,
+Q4811060,Q6581097,1983-02-26T00:00:00Z,7,Astor Henríquez,Astor Henríquez,Honduran footballer,Q783,Q3238
+Q4893412,Q6581097,1962-01-19T00:00:00Z,2,Bernard Martínez Valerio,Bernard Martínez Valerio,Honduran politician,Q783,
+Q49232245,Q6581072,1990-07-10T00:00:00Z,2,Sirey Moran,Sirey Morán,Honduran model,Q783,Q274584
+Q4958539,Q6581097,1985-11-28T00:00:00Z,22,Brayan Beckeles,Brayan Beckeles,Honduran footballer,Q783,Q916536
+Q50330380,Q6581072,1990-04-03T00:00:00Z,4,Kendi Rosales,Kendi Rosales,Honduran athletics competitor,Q783,
+Q5042193,Q6581097,1941-07-10T00:00:00Z,4,Carlos Humberto Reyes,Carlos Humberto Reyes,Honduran politician,Q783,Q274584
+Q5042412,Q6581097,1984-07-19T00:00:00Z,5,Carlos Morán,Carlos Morán,Honduran footballer,Q783,Q916536
+Q5042446,Q6581097,1979-07-28T00:00:00Z,5,"Carlos Oliva (footballer, born 1979)",Carlos Oliva,Honduran footballer,Q783,Q274584
+Q5042460,Q6581097,1934-01-17T00:00:00Z,6,Carlos Padilla (footballer),Carlos Padilla Velásquez,Honduran footballer (1934-2014),Q783,Q2132360
+Q5042462,Q6581097,1978-05-29T00:00:00Z,6,Carlos Paes,Carlos Paes,Honduran footballer,Q783,Q3238
+Q5042465,Q6581097,1982-01-30T00:00:00Z,6,Carlos Palacios (Honduran footballer),Carlos Palacios,Honduran footballer,Q783,Q2358773
+Q5042532,Q6581097,1973-07-28T00:00:00Z,2,Carlos Ramón Aguilar Guifarro,Carlos Ramón Aguilar Guifarro,politician,Q783,
+Q5042613,Q6581097,1945-01-01T00:00:00Z,3,Carlos Salgado,Carlos Salgado,Honduran journalist,Q783,Q783
+Q5042790,Q6581097,1983-09-29T00:00:00Z,7,Carlos Will Mejía,Carlos Will Mejía,Honduran footballer,Q783,Q520386
+Q50844096,Q6581097,1994-07-19T00:00:00Z,4,Mauricio Dubón,Mauricio Dubón,Honduran baseball player (born 1994),Q783,Q274584
+Q50931181,Q6581072,1972-05-12T00:00:00Z,19,Julissa Villanueva,Julissa Villanueva,doctor of forensic medicine from Honduras,Q783,Q3238
+Q510862,Q6581097,1986-10-25T00:00:00Z,27,Roger Espinoza,Roger Espinoza,Honduran footballer,Q783,Q673089
+Q510909,Q6581097,1986-12-20T00:00:00Z,24,Johnny Palacios,Johnny Palacios,Honduran footballer,Q783,Q916536
+Q5109277,Q6581097,1989-11-26T00:00:00Z,7,Christian Altamirano,Christian Altamirano,Honduran footballer,Q783,Q274584
+Q5110093,Q6581097,1990-09-08T00:00:00Z,6,Christian Martínez (Honduran footballer),Christian Samir Martínez,Honduran footballer,Q783,Q916536
+Q5113036,Q6581097,1993-04-18T00:00:00Z,2,Cristopher Pavón,Cristopher Pavón,weightlifter,Q783,
+Q511565,Q6581097,1982-05-13T00:00:00Z,25,Jerry Palacios,Jerry Palacios,Honduran footballer,Q783,Q916536
+Q5129169,Q6581072,1985-09-26T00:00:00Z,5,Claudia Fajardo,Claudia Fajardo,Honduran sport shooter,Q783,
+Q513045,Q6581097,1924-10-28T00:00:00Z,6,James Carney (American priest),Father James Carney,American missionary,Q783,Q1297
+Q51692319,Q6581072,1990-09-24T00:00:00Z,11,Bertha Zúñiga,Berta Zúñiga,environmental activist from Honduras,Q783,Q262125
+Q5202525,Q6581097,1948-11-01T00:00:00Z,3,César Castellanos (politician),César Castellanos,Honduran politician,Q783,Q954300
+Q5202604,Q6581097,1969-10-26T00:00:00Z,6,César Obando,César Obando,Honduran footballer,Q783,Q3238
+Q5225929,Q6581097,1968-10-22T00:00:00Z,2,Darwin Angeles,Darwin Angeles,Honduran boxer,Q783,
+Q5226009,Q6581097,1976-07-24T00:00:00Z,4,Darwin Pacheco,Darwin Pacheco,Honduran footballer,Q783,Q2394150
+Q5232813,Q6581097,1985-12-05T00:00:00Z,8,"David Álvarez (footballer, born 1985)",David Daniel Álvarez,Honduran footballer,Q783,Q783
+Q5237540,Q6581097,1959-01-01T00:00:00Z,1,David Meza (journalist),David Meza,Honduran radio journalist,Q783,
+Q5239194,Q6581097,1901-01-01T00:00:00Z,3,David Romero Ellner,David Romero Ellner,Honduran journalist,Q783,
+Q5258407,Q6581097,1980-12-03T00:00:00Z,4,Dennis Ferrera,Dennis Ferrera,Honduran footballer,Q783,Q274584
+Q526854,Q6581097,1993-03-16T00:00:00Z,29,Andy Najar,Andy Najar,Honduran footballer,Q783,Q1773148
+Q529244,Q6581097,1979-09-13T00:00:00Z,19,Julio César de León,julio tronco de león,Honduran footballer,Q783,Q673089
+Q529244,Q6581097,1995-06-17T00:00:00Z,19,Julio César de León,julio tronco de león,Honduran footballer,Q783,Q673089
+Q5315288,Q6581072,1973-06-09T00:00:00Z,6,Dunia Elvir,Dunia Elvir,Honduran journalist,Q783,Q916536
+Q5336697,Q6581097,1980-08-13T00:00:00Z,5,Eddy Vega,Eddy Vega,Honduran footballer,Q783,Q1419813
+Q5337399,Q6581097,1979-08-23T00:00:00Z,5,Édgar Núñez (footballer),Edgar Nuñez,Honduran footballer,Q783,Q783
+Q5340519,Q6581097,1972-10-11T00:00:00Z,4,Eduardo Arriola,Eduardo Arriola,Honduran footballer,Q783,Q1027018
+Q5340547,Q6581097,1940-01-01T00:00:00Z,2,Eduardo Bähr,Eduardo Bähr,Honduran writer,Q783,Q1027018
+Q5346931,Q6581097,1976-10-26T00:00:00Z,3,Yobani Ávila,Edwin Yobani Avila,Honduran footballer,Q783,Q916536
+Q5361184,Q6581072,1955-07-13T00:00:00Z,7,María Antonieta de Bográn,María Antonieta de Bográn,Honduran politician,Q783,Q783
+Q5362358,Q6581072,1969-10-05T00:00:00Z,2,Elizabeth Azcona Bocock,Elizabeth Azcona Bocock,Honduran politician,Q783,
+Q5364303,Q6581097,1980-09-29T00:00:00Z,5,Elkin González,Elkin González,Honduran footballer,Q783,Q1986477
+Q5366621,Q6581097,1979-10-14T00:00:00Z,4,Elmer Marín,Elmer Marín,Honduran footballer,Q783,Q1020581
+Q5366623,Q6581097,1978-06-23T00:00:00Z,6,Elmer Mejía,Elmer Mejia,Honduran footballer,Q783,Q679169
+Q5366632,Q6581097,1977-12-08T00:00:00Z,7,Elmer Montoya,Elmer Montoya,Honduran footballer,Q783,Q783
+Q5368051,Q6581072,1956-06-12T00:00:00Z,4,Elvia Reyes,Elvia Reyes,fencer,Q783,
+Q5368241,Q6581097,1978-08-01T00:00:00Z,7,Elvis Scott,Elvis Scott,Honduran footballer,Q783,Q673089
+Q5371961,Q6581097,1973-10-19T00:00:00Z,5,Emilio Umanzor,Emilio Umanzor,Honduran football manager,Q783,Q2720977
+Q5371999,Q6581097,1987-10-24T00:00:00Z,4,Emilson Cruz,Emilson Cruz,Honduran footballer,Q783,Q3238
+Q53764984,Q6581072,1959-11-22T00:00:00Z,3,Hedme Castro,Hedme Castro,"woman human rights defender promoting human, civil and political rights in Honduras",Q783,Q1773148
+Q53830435,Q6581072,1963-01-01T00:00:00Z,11,Dina Meza,Dina Meza,Honduran journalist and human rights defender,Q783,Q3263949
+Q5388145,Q6581097,1989-07-21T00:00:00Z,6,Erick Andino,Erick Andino,Honduran footballer,Q783,Q274584
+Q5388171,Q6581097,1980-01-18T00:00:00Z,3,Erick Martínez Ávila,Erick Martínez Ávila,"Honduran journalist, public relations professional, GBLT activist, and politician (1980-2012)",Q783,
+Q5392028,Q6581072,1950-09-25T00:00:00Z,3,Mary Flake de Flores,Mary Flake de Flores,First Lady of Honduras (1998-2002),Q30,Q16563
+Q5392028,Q6581072,1950-09-25T00:00:00Z,3,Mary Flake de Flores,Mary Flake de Flores,First Lady of Honduras (1998-2002),Q783,Q16563
+Q5394218,Q6581097,1975-10-16T00:00:00Z,4,Ernesto Aquino,Ernesto Noel Aquino,Honduran footballer,Q783,Q916536
+Q5397546,Q6581097,1989-09-04T00:00:00Z,5,Esdras Padilla,Esdras Padilla,Honduran footballer,Q783,Q3238
+Q5400791,Q6581097,1965-01-07T00:00:00Z,2,Esteban Handal Perez,Esteban Handal Perez,Member of National Congress of Honduras,Q783,
+Q543196,Q6581097,1984-06-11T00:00:00Z,6,Hendry Córdova,Hendry Córdova,Honduran footballer,Q783,Q274584
+Q5477701,Q6581097,1995-08-19T00:00:00Z,6,Júnior Lacayo,Júnior Lacayo,Honduran footballer,Q783,Q916536
+Q5483119,Q6581097,1977-01-28T00:00:00Z,8,Francisco Pavón (Honduran footballer),Francisco Antonio Pavón,Honduran footballer,Q783,Q916536
+Q5484557,Q6581097,1987-12-05T00:00:00Z,4,Franco Güity,Franco Güity,Honduran association football player,Q783,Q958080
+Q54848042,Q6581097,1952-01-01T00:00:00Z,2,Arturo Corrales,Arturo Corrales,politician,Q783,Q3238
+Q54861055,Q6581097,1965-11-06T00:00:00Z,3,Leonardo Carcamo,Leonardo Cárcamo,Honduran judoka,Q783,
+Q5492098,Q6581097,1978-08-07T00:00:00Z,4,Franklin Webster (footballer),Franklin Webster,Honduran footballer,Q783,Q274584
+Q5499595,Q6581097,1956-06-04T00:00:00Z,4,Fredy Nasser,Fredy Nasser,Latinamerican businessman,Q783,Q3238
+Q55078933,Q6581097,1950-10-14T00:00:00Z,4,William Chong Wong,William Chong Wong,Honduran politician (died 2018),Q783,Q673089
+Q5511582,Q6581097,1990-09-09T00:00:00Z,9,Félix Crisanto,Félix Crisanto,Honduran footballer,Q783,Q2102693
+Q5515624,Q6581097,1966-01-01T00:00:00Z,3,Gabriel Fino Noriega,Gabriel Fino Noriega,Honduran journalist,Q783,Q783
+Q5515972,Q6581072,1962-10-25T00:00:00Z,4,Gabriela Núñez,Gabriela Nuñez,Honduran politician,Q783,
+Q552821,Q6581097,1984-07-29T00:00:00Z,27,Osman Chávez,Osman Chávez,Honduran footballer,Q783,Q1958069
+Q552837,Q6581097,1982-05-30T00:00:00Z,20,Ricardo Canales,Ricardo Canales,Honduran footballer,Q783,Q916536
+Q552847,Q6581097,1985-03-09T00:00:00Z,21,Georgie Welcome,Georgie Welcome,Honduran footballer,Q783,Q1419813
+Q55361071,Q6581097,1999-09-09T00:00:00Z,4,Cristian Cálix,Cristian Cálix,association football player,Q783,Q773764
+Q554567,Q6581097,1978-03-08T00:00:00Z,20,Danilo Turcios,Danilo Turcios,Honduran footballer,Q783,Q1020581
+Q554567,Q6581097,1978-05-08T00:00:00Z,20,Danilo Turcios,Danilo Turcios,Honduran footballer,Q783,Q1020581
+Q5548318,Q6581097,1960-02-13T00:00:00Z,2,Georgino Orellana,Georgino Orellana,Honduran journalist (1960–2010),Q783,
+Q5548638,Q6581097,1969-06-24T00:00:00Z,4,Geovanny Castro,Geovanny Castro,Honduran footballer,Q783,Q783
+Q5548641,Q6581097,1971-03-05T00:00:00Z,3,Geovany Baca,Geovany Baca,Honduran boxer,Q783,
+Q5550503,Q6581097,1964-08-14T00:00:00Z,5,Nahúm Espinoza,Nahúm Espinoza,Honduran footballer,Q783,Q1027018
+Q55515557,Q6581097,1999-12-20T00:00:00Z,6,Jack Jean-Baptiste,Jack Jean-Baptiste,association football player,Q783,Q274584
+Q5553147,Q6581097,1990-07-06T00:00:00Z,7,Gerson Rodas,Gerson Rodas,Honduran footballer,Q783,Q274584
+Q55590317,Q6581097,1998-01-05T00:00:00Z,13,Kervin Arriaga,Kervin Arriaga,Honduran association football player,Q783,Q673089
+Q5561375,Q6581097,1962-03-23T00:00:00Z,4,Gilberto Machado,Gilberto Machado,Honduran footballer,Q783,Q274584
+Q55765148,Q6581097,1999-01-19T00:00:00Z,4,"César Romero (footballer, born 1999)",César Miguel Romero,Honduran association football player,Q783,Q3238
+Q56192223,Q6581072,1963-08-09T00:00:00Z,7,Miriam Miranda,Miriam Miranda,Honduran human rights activist,Q783,Q1958069
+Q56434128,Q6581097,1949-05-12T00:00:00Z,4,"Carlos Alvarado (footballer, born 1949)",Carlos Alvarado Osorto,Catracho association football player (1949-2016),Q783,Q2395542
+Q56437450,Q6581072,1924-08-17T00:00:00Z,5,Alba Alonso de Quesada,Alba Alonso de Quesadilla,Honduran attorney and women's rights advocate (1924-2002),Q783,Q3238
+Q5684498,Q6581097,1918-07-17T00:00:00Z,4,Rafael Manzanares Aguilar,Rafael Manzanares Aguilar,"Honduran folklorist, author and a musical composer, and creator of the Cuadro Nacional de Danzas Folklóricas de Honduras.",Q783,Q2561304
+Q5703629,Q6581072,1909-12-05T00:00:00Z,17,Argentina Díaz Lozano,Argentina Díaz Lozano,Honduran journalist and novelist (1912–1999),Q783,Q954300
+Q5703629,Q6581072,1912-12-15T00:00:00Z,17,Argentina Díaz Lozano,Argentina Díaz Lozano,Honduran journalist and novelist (1912–1999),Q783,Q954300
+Q5770209,Q6581097,1938-02-28T00:00:00Z,3,Cirilo Nelson,Cirilo Nelson,Honduran botanist (1938–2020),Q783,Q916536
+Q57713621,Q6581072,1964-07-02T00:00:00Z,2,Rocío Tábora,Rocío Tábora Morales,"Honduran politician, Minister of Finance and Economic Regulations",Q783,Q954300
+Q5772495,Q6581072,1902-05-12T00:00:00Z,7,Clementina Suárez,Clementina Suárez,Honduran writer 67,Q783,Q773764
+Q5805391,Q6581072,1942-01-01T00:00:00Z,5,Nora Gúnera de Melgar,Nora Gúnera de Melgar,First Lady of Honduras,Q783,Q2358808
+Q5820082,Q6581097,1962-11-06T00:00:00Z,3,Edwin Pavón,Edwin Pavón,Honduran association football player (1962-2018),Q783,Q2279521
+Q5850472,Q6581097,1965-07-31T00:00:00Z,7,Eugenio Dolmo Flores,Eugenio Dolmo Flores,Honduran footballer,Q783,Q673089
+Q58845076,Q6581097,1991-07-06T00:00:00Z,2,Óscar Munguía,Óscar Munguía,Catracho association football player (1991-2018),Q783,Q916536
+Q58894944,Q6581097,1989-01-01T00:00:00Z,1,Edwin Rivera Paz,Edwin Rivera Paz,Honduran journalist,Q783,Q60130
+Q5895910,Q6581097,1936-10-01T00:00:00Z,3,Herman Allan Padgett,Herman Allan Padgett,Honduran journalist and actor (1936-2001),Q783,Q867108
+Q59194112,Q6581097,1978-06-13T00:00:00Z,5,Tony Hernández,Juan Antonio Hernández,Honduran drug dealer,Q783,Q2561339
+Q5933811,Q6581097,1974-11-14T00:00:00Z,5,"Hugo Caballero (footballer, born 1974)",Hugo Caballero,Honduran footballer,Q783,Q1027018
+Q5934025,Q6581097,1989-01-07T00:00:00Z,11,Jona (footballer),Jonathan Mejía,Spanish-born Honduran professional footballer,Q29,Q8851
+Q5934025,Q6581097,1989-01-07T00:00:00Z,11,Jona (footballer),Jonathan Mejía,Spanish-born Honduran professional footballer,Q783,Q8851
+Q5936182,Q6581097,1946-09-19T00:00:00Z,4,Jorge Urquía,Jorge Urquía,Honduran association football player,Q783,Q679169
+Q5938178,Q6581097,1906-02-08T00:00:00Z,2,José Antonio Velásquez,José Antonio Velásquez,Honduran painter (1906-1983),Q783,Q2394882
+Q5951723,Q6581097,1968-10-28T00:00:00Z,55,Juan Orlando Hernández,Juan Orlando Hernández,President of Honduras from 2014 to 2022,Q783,Q2561339
+Q5963842,Q6581097,1974-03-05T00:00:00Z,2,Héctor Francisco Medina Polanco,Héctor Francisco Medina Polanco,journalist (1974-2011),Q783,Q783
+Q5963959,Q6581097,1975-01-27T00:00:00Z,4,Héctor Medina (footballer),Héctor Medina,Honduran footballer,Q783,Q992173
+Q5983778,Q6581097,1987-12-26T00:00:00Z,4,Luis Lobo (footballer),Luis Lobo,Honduran association football player,Q783,Q2279521
+Q598877,Q6581097,1989-03-29T00:00:00Z,26,Arnold Peralta,Arnold Peralta,Honduran footballer (1989-2015),Q783,Q916536
+Q60025367,Q6581072,1942-01-01T00:00:00Z,4,Gladys Lanza,Gladys Lanza,Honduran feminist and human rights activist,Q783,Q3238
+Q60025657,Q6581072,1967-01-01T00:00:00Z,8,Lesbia Urquía,Lesbia Urquía,Honduran human rights activist,Q783,
+Q6003184,Q6581072,1973-12-06T00:00:00Z,10,Mary Elizabeth Flores,Mary Elizabeth Flores,Honduran politician,Q783,Q3238
+Q6004281,Q6581072,1951-08-30T00:00:00Z,5,María Martha Díaz Velásquez,María Martha Díaz Velásquez,politician,Q783,Q3238
+Q60171373,Q6581097,1994-05-24T00:00:00Z,4,Bryan Barrios,Bryan Bernárdez,Honduran association football player,Q783,Q274584
+Q60171906,Q6581097,1996-01-01T00:00:00Z,6,Edwin Solano,Edwin Solano,Honduran association football player,Q783,Q916536
+Q6020308,Q6581097,1921-03-15T00:00:00Z,4,Modesto Rodas Alvarado,Modesto Rodas Alvarado,Honduran politician,Q783,Q2573365
+Q60429380,Q6581072,1977-01-01T00:00:00Z,3,Lorena Vindel,Lorena Vindel,Honduran actress,Q783,Q3238
+Q60455812,Q6581072,1969-04-07T00:00:00Z,4,Indira Murillo,Indira Murillo,Honduran journalist and basketball player (1969–2019),Q783,Q3238
+Q60455812,Q6581072,1969-04-07T00:00:00Z,4,Indira Murillo,Indira Murillo,Honduran journalist and basketball player (1969–2019),Q30,Q3238
+Q60501616,Q6581072,1944-01-01T00:00:00Z,4,Marta Susana Prieto,Marta Susana Prieto,Honduran writer,Q783,Q673089
+Q60502653,Q6581072,1958-11-13T00:00:00Z,7,Margarita Murillo,Margarita Murillo,Honduran human rights activist,Q783,
+Q60567675,Q6581097,2000-06-28T00:00:00Z,4,Axel Gómez,Axel Gómez,Honduran association football player,Q783,Q3238
+Q60608315,Q6581097,1999-12-16T00:00:00Z,3,Josué Villafranca,Josué Villafranca,Honduran association football player,Q783,Q1958679
+Q6068369,Q6581097,1984-04-26T00:00:00Z,3,Irbin Guerrero,Irbin Guerrero,football player,Q783,Q1020581
+Q6074271,Q6581097,1987-06-07T00:00:00Z,6,Irvin Reyna,Irvin Reyna,Honduran footballer,Q783,Q1027018
+Q6108009,Q6581097,1994-02-22T00:00:00Z,3,Ricardo Barrios,Ricardo Barrios,Honduran association football player,Q783,Q916536
+Q6123897,Q6581097,1978-06-08T00:00:00Z,6,Jaime Rosales,Jaime Rosales,Honduran footballer,Q783,Q2720977
+Q61644861,Q6581097,1997-11-05T00:00:00Z,10,José Reyes (Honduran footballer),José Alejandro Reyes,Honduran association football player,Q783,Q3238
+Q6165418,Q6581097,1981-06-10T00:00:00Z,8,Javier Portillo (Honduran footballer),Javier Arnaldo Portillo,Honduran footballer,Q783,Q2358973
+Q6165559,Q6581097,1988-05-08T00:00:00Z,3,Javier Hernández Maradiaga,Javier Hernández Maradiaga,Honduran swimmer,Q783,Q673089
+Q6165656,Q6581097,1971-12-06T00:00:00Z,5,"Javier Martínez (footballer, born 1971)",Javier Omar Martínez,Honduran footballer,Q783,Q274584
+Q6173667,Q6581072,1927-01-07T00:00:00Z,6,Ángela Valle,Ángela Valle,"Honduran writer, journalist, essayist",Q783,Q2483679
+Q6175378,Q6581097,1987-03-27T00:00:00Z,8,Jefferson Bernárdez,Jefferson Bernárdez,Honduran footballer,Q783,Q916536
+Q6176531,Q6581072,1986-09-03T00:00:00Z,9,Jeimy Bernárdez,Jeimy Bernárdez,Honduran hurdler,Q783,Q1027018
+Q618646,Q6581097,1984-09-04T00:00:00Z,26,Boniek García,Boniek García,Honduran footballer,Q783,Q3238
+Q62071625,Q6581097,1998-01-28T00:00:00Z,10,Jorge Álvarez (Honduran footballer),Jorge Álvarez,Honduran association football player,Q783,Q3238
+Q6218859,Q6581097,1981-10-03T00:00:00Z,7,John Bodden (footballer),John Alston Bodden,Honduran footballer,Q783,Q916536
+Q62268160,Q6581097,2000-01-17T00:00:00Z,17,Luis Palma,Luis Palma,Honduran association football player,Q783,Q916536
+Q62592486,Q6581072,1986-01-01T00:00:00Z,4,Carmen Juares,Carmen Juares,Spanish-Honduran activist and social educator,Q29,Q2394955
+Q62592486,Q6581072,1986-01-01T00:00:00Z,4,Carmen Juares,Carmen Juares,Spanish-Honduran activist and social educator,Q783,Q2394955
+Q6266421,Q6581097,1983-07-26T00:00:00Z,4,Johnny Calderón,Johnny Calderón,Honduran footballer,Q783,Q916536
+Q62691459,Q6581097,2001-09-20T00:00:00Z,2,Kevin Bonilla,Kevin Bonilla,American soccer player,Q783,Q16557
+Q62691459,Q6581097,2001-09-20T00:00:00Z,2,Kevin Bonilla,Kevin Bonilla,American soccer player,Q30,Q16557
+Q6283970,Q6581097,1983-01-01T00:00:00Z,2,Joseph Hernández Ochoa,Joseph Hernández Ochoa,Honduran journalist,Q783,
+Q6291264,Q6581097,1945-05-15T00:00:00Z,1,José Adolfo Alvarado Lara,José Adolfo Alvarado Lara,Honduran politician,Q783,
+Q6291338,Q6581097,1964-12-04T00:00:00Z,4,José Alfredo Saavedra,José Alfredo Saavedra,Honduran politician,Q783,Q867097
+Q6291375,Q6581097,1958-01-01T00:00:00Z,4,José Andrés Tamayo Cortez,José Andrés Tamayo Cortez,Honduran environmentalist,Q783,
+Q6291468,Q6581097,1926-02-28T00:00:00Z,5,José Antonio Molina Rosito,José Antonio Molina Rositto,Honduran botanist (1926 – 2012),Q783,Q3238
+Q6291672,Q6581097,1958-01-01T00:00:00Z,2,José Bayardo Mairena Ramírez,José Bayardo Mairena Ramírez,Honduran journalist,Q783,Q371054
+Q6292255,Q6581097,1976-07-10T00:00:00Z,6,Francisco Ramírez (Honduran footballer),José Francisco Ramírez,Honduran footballer,Q783,Q605984
+Q6292781,Q6581097,1983-04-08T00:00:00Z,4,José Luis Grant,José Luis Grant,Honduran footballer,Q783,Q916536
+Q6299252,Q6581097,1962-03-23T00:00:00Z,6,Juan Carlos Espinoza (Honduran footballer),Juan Carlos Espinoza,Honduran footballer,Q783,Q1027018
+Q6300321,Q6581097,1976-05-21T00:00:00Z,3,Juan Manuel Coello,Juan Manuel Coello,Honduran footballer,Q783,Q3238
+Q6300328,Q6581097,1974-05-22T00:00:00Z,5,Juan Manuel Cárcamo,Juan Manuel Cárcamo,Honduran footballer,Q783,Q274584
+Q6300489,Q6581097,1945-01-12T00:00:00Z,5,Juan Matta-Ballesteros,Juan Matta-Ballesteros,Honduran drug lord,Q783,Q3238
+Q6300870,Q6581097,1961-01-01T00:00:00Z,1,Juan Ramón Salgado,Juan Ramón Salgado,Honduran politician,Q783,
+Q6300881,Q6581097,1979-07-15T00:00:00Z,3,Juan Raudales,Juan Raudales,Honduran footballer,Q783,Q3238
+Q6309253,Q6581097,1978-10-05T00:00:00Z,7,Julio César Suazo,Julio César Suazo,Honduran footballer,Q783,Q916536
+Q6313382,Q6581097,1978-03-04T00:00:00Z,6,Júnior Morales,Junior Morales,Honduran footballer,Q783,Q274584
+Q6313447,Q6581097,1990-10-13T00:00:00Z,5,Junior Sandoval,Junior Sandoval,Honduran footballer,Q783,Q2394900
+Q63146856,Q6581072,1938-01-01T00:00:00Z,6,Mimí Panayotti,Mimí Panayotti,Honduran writer,Q783,Q2279521
+Q63150674,Q6581072,1945-07-19T00:00:00Z,4,Juana Pavón,Diana  Pavón,Honduran poet and actress,Q783,Q2552667
+Q636065,Q6581097,1946-12-09T00:00:00Z,15,Jimmy Steward,Jimmy Steward,Honduran footballer,Q783,Q673089
+Q636570,Q6581097,1943-10-05T00:00:00Z,7,José María Reyes Mata,José María Reyes Mata,politician (1943-1983),Q783,Q1644762
+Q6370103,Q6581072,1993-05-27T00:00:00Z,4,Karen Vilorio,Karen Vilorio,Honduran swimmer,Q783,
+Q64167413,Q6581097,2000-11-06T00:00:00Z,8,Joseph Rosales,Joseph Rosales,Honduran footballer,Q783,Q3238
+Q64167414,Q6581097,1999-11-20T00:00:00Z,4,Elison Rivas,Elison Rivas,Honduran footballer,Q783,Q1027018
+Q64211023,Q6581097,1991-08-07T00:00:00Z,21,Saíd Martínez,Said Martínez,Honduran football referee,Q783,Q2226585
+Q64433154,Q6581097,2000-02-19T00:00:00Z,6,"Carlos Mejía (footballer, born 2000)",Carlos Mejía,Honduran footballer,Q783,Q916536
+Q64578323,Q6581097,2000-02-28T00:00:00Z,2,"José García (footballer, born 2000)",José García,Honduran footballer,Q783,Q1027018
+Q64578325,Q6581097,2001-11-26T00:00:00Z,10,Jonathan Núñez (Honduran footballer),Jonathan Núñez,Honduran footballer,Q783,Q916536
+Q64706081,Q6581097,1998-09-21T00:00:00Z,9,José García (Honduran footballer),José Antonio García Robledo,Honduran association football player,Q783,Q2720977
+Q64749667,Q6581097,1997-12-08T00:00:00Z,10,"Carlos Meléndez (footballer, born 1997)",Carlos Eduardo Meléndez,Honduran association football player,Q783,Q916536
+Q65191733,Q6581097,1995-01-01T00:00:00Z,4,Denis Meléndez,Denis Meléndez,Honduran association football player,Q783,Q916536
+Q6519661,Q6581097,1924-04-26T00:00:00Z,6,Leigh Richardson,Leigh Richardson,Belizean politician (1924-2008),Q783,Q2058947
+Q6526011,Q6581097,1977-02-08T00:00:00Z,4,Leonardo Isaula,Leonardo Isaula,Honduran footballer,Q783,Q2277161
+Q6533395,Q6581072,1935-08-20T00:00:00Z,5,Leticia de Oyuela,Leticia de Oyuela,Honduran historian,Q783,Q3238
+Q654177,Q6581097,1950-03-01T00:00:00Z,23,Carlos Roberto Flores,Carlos Roberto Flor,33rd President of Honduras (2998-3002),Q783,Q3238
+Q654177,Q6581097,1950-03-10T00:00:00Z,23,Carlos Roberto Flores,Carlos Roberto Flor,33rd President of Honduras (2998-3002),Q783,Q3238
+Q65560138,Q6581097,1992-02-17T00:00:00Z,7,"Carlos Fernández (footballer, born 1992)",Carlos Roberto Fernández,Honduran footballer born 1992,Q783,Q783
+Q65672418,Q6581097,1995-11-06T00:00:00Z,6,"Diego Rodríguez (footballer, born 1995)",Diego Fernando Rodríguez López,Honduran association football player,Q783,Q3238
+Q663127,Q6581097,1957-04-16T00:00:00Z,23,Reinaldo Rueda,Reinaldo Rueda,Colombian football coach,Q783,Q51103
+Q663127,Q6581097,1957-04-16T00:00:00Z,23,Reinaldo Rueda,Reinaldo Rueda,Colombian football coach,Q739,Q51103
+Q66314355,Q6581097,1996-01-01T00:00:00Z,4,Henry Ayala,Henry Ayala,Honduran association football player,Q783,Q1958679
+Q6660661,Q6581072,1951-12-18T00:00:00Z,3,Lizzette Kattan,Lizzette Kattan,Honduran journalist and fashion editor,Q783,Q274584
+Q66821591,Q6581097,1998-10-08T00:00:00Z,5,Julio Horrego,Julio Horrego,Honduran swimmer,Q783,Q49276
+Q6696888,Q6581097,1979-01-19T00:00:00Z,3,Luciano Valerio Harry,Luciano Valerio Harry,Honduran footballer,Q783,Q1027018
+Q6700339,Q6581097,1959-01-01T00:00:00Z,2,Luis Arturo Mondragón,Luis Arturo Mondragón,Honduran journalist,Q783,
+Q6700520,Q6581097,1972-01-01T00:00:00Z,1,Luis Ernesto Mendoza Cerrato,Luis Ernesto Mendoza Cerrato,Honduran journalist,Q783,
+Q6701046,Q6581097,1958-03-19T00:00:00Z,5,Luis Reyes (Honduran footballer),Luis Reyes,Honduran football player (born 1958),Q783,Q783
+Q6701058,Q6581097,1985-01-03T00:00:00Z,7,Luis Rodas,Luis Rodas,Honduran footballer,Q783,Q3238
+Q6701096,Q6581097,1975-11-22T00:00:00Z,5,Luis Santamaría,Luis Santamaría,Honduran footballer,Q783,Q2036829
+Q6701096,Q6581097,1975-12-22T00:00:00Z,5,Luis Santamaría,Luis Santamaría,Honduran footballer,Q783,Q2036829
+Q6752386,Q6581097,1958-11-27T00:00:00Z,1,Manuel Antonio Alberto Zelaya,Manuel Antonio Alberto Zelaya,Honduran politician,Q783,
+Q6752978,Q6581097,1955-01-01T00:00:00Z,2,Manuel de Jesús Juárez,Manuel de Jesús Juárez,Honduran journalist,Q783,
+Q6757632,Q6581097,1975-03-26T00:00:00Z,4,Marco Mejía,Marco Mejía,Honduran footballer,Q783,
+Q6757733,Q6581097,1987-04-14T00:00:00Z,6,Marco Tulio Vega,Marco Tulio Vega,footballer,Q783,Q1572113
+Q6757733,Q6581097,1988-08-07T00:00:00Z,6,Marco Tulio Vega,Marco Tulio Vega,footballer,Q783,Q1572113
+Q6762299,Q6581097,1983-01-09T00:00:00Z,7,Mariano Acevedo,Mariano Acevedo,Honduran footballer,Q783,Q2277161
+Q6764519,Q6581097,1976-10-03T00:00:00Z,1,Mario Alexander Barahona Martínez,Mario Alexander Barahona Martínez,Honduran politician,Q783,Q274584
+Q6764534,Q6581097,1981-08-12T00:00:00Z,4,"Mario Gómez (footballer, born August 1981)",Mario Arnaldo Gómez,Honduran footballer,Q783,Q1027018
+Q6764554,Q6581097,1974-10-17T00:00:00Z,5,Mario Beata,Mario Beata,Honduran footballer,Q783,Q673089
+Q6764918,Q6581097,1982-05-29T00:00:00Z,7,Mario Berríos (Honduran footballer),Mario René Berríos,Honduran footballer,Q783,Q1027018
+Q6771935,Q6581097,1966-04-30T00:00:00Z,2,Marlon Guillermo Lara Orellana,Marlon Guillermo Lara Orellana,Honduran politician,Q783,Q274584
+Q6771945,Q6581097,1991-02-09T00:00:00Z,4,Marlon Licona,Marlon Licona,Honduran association football player,Q783,Q772672
+Q6782108,Q6581072,1926-11-21T00:00:00Z,2,María Rosa Leggol,María Rosa Leggol,Franciscan Sister and social activist,Q783,Q673089
+Q679019,Q6581097,1946-10-21T00:00:00Z,16,Fernando Bulnes,Fernando Bulnes,Honduran footballer,Q783,Q3238
+Q6793605,Q6581097,1959-03-10T00:00:00Z,3,Mauricio Fúnez,Mauricio Fúnez,Honduran footballer,Q783,Q783
+Q6844548,Q6581097,1981-05-25T00:00:00Z,5,Miguel Ferrera,Miguel Ferrera,Olympic taekwondo practitioner,Q783,Q3238
+Q6861371,Q6581097,1980-12-02T00:00:00Z,7,"Milton Palacios (footballer, born 1980)",Milton Palacios Suazo,Honduran footballer,Q783,Q916536
+Q68719203,Q6581072,1992-01-01T00:00:00Z,7,Laura Zúñiga Cáceres,Laura Zúñiga Cáceres,human rights activist from Honduras,Q783,
+Q68930087,Q6581097,1992-06-18T00:00:00Z,3,Melique García,Melique García,Honduran-American sprinter,Q30,Q1380709
+Q68930087,Q6581097,1992-06-28T00:00:00Z,3,Melique García,Melique García,Honduran-American sprinter,Q30,Q1380709
+Q68930087,Q6581097,1992-06-18T00:00:00Z,3,Melique García,Melique García,Honduran-American sprinter,Q783,Q1380709
+Q68930087,Q6581097,1992-06-28T00:00:00Z,3,Melique García,Melique García,Honduran-American sprinter,Q783,Q1380709
+Q69301685,Q6581097,1997-10-29T00:00:00Z,11,Juan Carlos Obregón,Juan Carlos Obregón Jr.,Honduran-American soccer player,Q783,Q60
+Q69301685,Q6581097,1997-10-29T00:00:00Z,11,Juan Carlos Obregón,Juan Carlos Obregón Jr.,Honduran-American soccer player,Q30,Q60
+Q6959466,Q6581097,1983-11-29T00:00:00Z,3,Nahún Ávila,Nahún Avila,Honduran footballer,Q783,Q1773148
+Q7030433,Q6581097,1965-01-09T00:00:00Z,6,Nicolás Suazo,Nicolás Suazo,Honduran footballer,Q783,Q274584
+Q7071469,Q6581097,1940-10-13T00:00:00Z,2,Néstor Matamala,Néstor Matamala,Chilean football manager,Q783,Q3785
+Q7071469,Q6581097,1940-10-13T00:00:00Z,2,Néstor Matamala,Néstor Matamala,Chilean football manager,Q298,Q3785
+Q7089681,Q6581097,1989-09-28T00:00:00Z,8,Omar Elvir,Omar Elvir,Honduran footballer,Q783,Q2483679
+Q7103057,Q6581097,1974-05-13T00:00:00Z,4,Orlando Bueso,Orlando Bueso,Honduran footballer,Q783,Q622619
+Q7105865,Q6581097,1986-05-12T00:00:00Z,7,"Oscar Morales (footballer, born 1986)",Oscar Andrés Morales,Honduran footballer,Q783,Q568891
+Q7159459,Q6581097,1968-07-19T00:00:00Z,3,Pedro Atala,Pedro Atala,Honduran businessman,Q783,Q783
+Q716011,Q6581097,1981-02-03T00:00:00Z,24,Donis Escober,Donis Escober,Honduran footballer,Q783,Q925890
+Q721052,Q6581097,1972-04-28T00:00:00Z,11,Wilmer Velásquez,Wilmer Velásquez,Honduran footballer,Q783,Q274584
+Q7227488,Q6581097,1976-12-22T00:00:00Z,3,Pompilio Cacho,Pompilio Cacho Valerio,Honduran footballer,Q783,Q1027018
+Q7282258,Q6581097,1930-08-18T00:00:00Z,4,Rafael Pineda Ponce,Rafael Pineda Ponce,Honduran politician (1930–2014),Q783,Q1645784
+Q7289805,Q6581097,1985-06-10T00:00:00Z,4,Ramon Castillo (footballer),Ramon Alberto Castillo,Honduran footballer,Q783,Q1644884
+Q7290435,Q6581097,1916-04-29T00:00:00Z,9,Ramón Amaya Amador,Ramón Amaya Amador,Honduran author (1916–1966),Q783,Q2720977
+Q7319547,Q6581097,1972-01-28T00:00:00Z,6,Reynaldo Clavasquín,Reynaldo Clavasquín,Honduran footballer,Q783,Q673089
+Q7319559,Q6581097,1979-08-04T00:00:00Z,4,Reynaldo Tilguath,Reynaldo Tilguath,Honduran footballer,Q783,Q3238
+Q7322872,Q6581097,1963-02-04T00:00:00Z,8,Ricardo Álvarez Arias,Ricardo Álvarez,Vice President of Honduras (2014-2022),Q783,Q3306
+Q7328367,Q6581097,1985-10-01T00:00:00Z,4,Richard Perdomo,Richard Perdomo,Honduran footballer,Q783,Q8652
+Q7330347,Q6581097,1963-02-24T00:00:00Z,5,Richardson Smith,Richardson Smith,Honduran footballer,Q783,Q274584
+Q7333849,Q6581097,1985-12-01T00:00:00Z,9,Rigoberto Padilla,Rigoberto Padilla,Honduran footballer,Q783,Q3238
+Q73410797,Q6581097,2000-01-31T00:00:00Z,5,Gerson Chávez,Gerson Chávez,Honduran footballer,Q783,Q916536
+Q7356072,Q6581072,1983-11-17T00:00:00Z,5,Rocsi Diaz,Rocsi Diaz,Honduran-born television and radio personality and model,Q783,Q3238
+Q7357185,Q6581097,1960-02-11T00:00:00Z,3,Rodolfo Padilla Sunseri,Rodolfo Padilla Sunseri,Honduran politician,Q783,Q100
+Q7363124,Q6581097,1952-01-29T00:00:00Z,3,Romeo Vásquez Velásquez,Romeo Vásquez Velásquez,Honduran general,Q783,Q2552676
+Q7363412,Q6581097,1991-11-26T00:00:00Z,11,Rubilio Castillo,Rubilio Castillo,Honduran association football player,Q783,Q916536
+Q7364682,Q6581097,1984-10-11T00:00:00Z,4,Ronald Bennett (athlete),Ronald Bennett,Honduran hurdler,Q783,Q916536
+Q7364682,Q6581097,1986-10-11T00:00:00Z,4,Ronald Bennett (athlete),Ronald Bennett,Honduran hurdler,Q783,Q916536
+Q7366087,Q6581097,1978-06-08T00:00:00Z,5,Rony Morales,Rony Morales,Honduran footballer,Q783,Q2720977
+Q7366089,Q6581097,1983-01-01T00:00:00Z,3,Rony Padilla,Rony Padilla,Honduran musician,Q783,
+Q7373272,Q6581097,1984-03-14T00:00:00Z,4,Roy Posas,Roy Posas,Honduran footballer,Q783,Q1958679
+Q7376502,Q6581097,1982-08-19T00:00:00Z,4,Rubén Matamoros,Rubén Matamoros,Honduran footballer,Q783,Q3238
+Q7377569,Q6581097,1965-08-25T00:00:00Z,5,Rudy Williams (footballer),Rudy Alberto Williams,Honduran footballer,Q783,Q783
+Q7382965,Q6581072,1942-11-08T00:00:00Z,3,Ruth Eisemann-Schier,Ruth Eisemann-Schier,Honduran kidnapper,Q783,Q783
+Q7406384,Q6581097,1954-01-06T00:00:00Z,6,Salvador Bernárdez,Salvador Bernárdez,Honduran footballer (1954-2011),Q783,Q916536
+Q742281,Q6581097,1985-04-11T00:00:00Z,12,Luis Ramos (Honduran footballer),Luis Ramos,Honduran footballer,Q783,Q274584
+Q7425973,Q6581072,1980-04-05T00:00:00Z,4,Satcha Pretto,Satcha Pretto,Honduran television journalist,Q783,Q2283725
+Q7488981,Q6581097,1988-11-22T00:00:00Z,4,Shannon Welcome,Shannon Welcome,Honduran footballer,Q783,Q1419813
+Q7490050,Q6581072,1989-11-07T00:00:00Z,4,Sharon Fajardo,Sharon Fajardo,Honduran swimmer,Q783,Q673089
+Q7525339,Q6581072,1959-10-21T00:00:00Z,4,Siomara Girón,Siomara Girón,First Lady of Honduras (2009-2010),Q783,Q2277161
+Q76760763,Q6581072,1965-02-13T00:00:00Z,11,Rixi Moncada,Rixi Moncada,Honduran politician (born 1965),Q783,Q2603720
+Q76837167,Q6581097,1995-01-01T00:00:00Z,4,Marvin Bernárdez,Marvin Bernárdez,Honduran association football player,Q783,Q916536
+Q775629,Q6581097,1969-09-25T00:00:00Z,7,Aurelio Martínez,Aurelio Martínez,Honduran musician (1969–2025),Q783,Q28843939
+Q783111,Q6581097,1908-11-26T00:00:00Z,24,Ramón Villeda Morales,Ramón Villeda Morales,President of Honduras from 1957 to 1963,Q783,Q2182554
+Q783111,Q6581097,1909-11-26T00:00:00Z,24,Ramón Villeda Morales,Ramón Villeda Morales,President of Honduras from 1957 to 1963,Q783,Q2182554
+Q7934088,Q6581072,1943-01-01T00:00:00Z,2,Ginny Montes,"Virginia ""Ginny"" Montes",American feminist,Q783,Q1552720
+Q7944702,Q6581097,1990-05-21T00:00:00Z,5,Víctor Ortiz Arzú,Víctor Ortiz,Honduran footballer,Q783,Q775897
+Q7965131,Q6581097,1978-12-28T00:00:00Z,6,Walter Hernández (footballer),Walter Hernández,Honduran footballer,Q783,Q673089
+Q7965700,Q6581097,1977-09-01T00:00:00Z,11,"Walter López (footballer, born 1977)",Walter Nahún López,Honduran footballer (1977-2015),Q783,Q2393997
+Q7965700,Q6581097,1977-09-01T00:00:00Z,11,"Walter López (footballer, born 1977)",Walter Nahún López,Honduran footballer (1977-2015),Q774,Q2393997
+Q7965916,Q6581097,1982-11-07T00:00:00Z,6,Walter Ramírez,Walter Ramírez,Honduran footballer,Q783,Q916536
+Q7965916,Q6581097,1983-11-07T00:00:00Z,6,Walter Ramírez,Walter Ramírez,Honduran footballer,Q783,Q916536
+Q7966309,Q6581097,1982-01-01T00:00:00Z,1,Walter Tróchez,Walter Tróchez,Honduran LGBT activist,Q783,Q1773148
+Q8021088,Q6581097,1976-10-30T00:00:00Z,6,Williams Reyes,Williams Reyes,Honduran footballer,Q792,Q916536
+Q8021088,Q6581097,1976-10-30T00:00:00Z,6,Williams Reyes,Williams Reyes,Honduran footballer,Q783,Q916536
+Q8022707,Q6581097,1979-06-01T00:00:00Z,4,Wilmer Ramos,Wilmer Ramos,Honduran footballer,Q783,Q1643274
+Q8044708,Q6581072,1959-09-30T00:00:00Z,54,Xiomara Castro,Xiomara Castro,Honduran politician and businesswoman (born 1959),Q783,Q3238
+Q8052632,Q6581097,1980-12-02T00:00:00Z,3,Yermy Hernández,Yermy Hernández,Honduran footballer,Q783,Q916536
+Q8060889,Q6581097,1986-10-21T00:00:00Z,4,Yul Arzú,Yul Arzú,footballer,Q783,Q274584
+Q8076879,Q6581097,1950-10-28T00:00:00Z,6,Ángel Paz (Honduran footballer),Ángel Paz,Honduran footballer (1950-2008),Q783,Q1027018
+Q8078412,Q6581097,1980-01-29T00:00:00Z,5,Érick Vallecillo,Érick Vallecillo,Honduran footballer,Q783,Q1020581
+Q8078832,Q6581097,1982-10-09T00:00:00Z,7,Óscar Isaula,Óscar Isaula,Honduran footballer,Q783,Q3238
+Q863088,Q6581097,2000-01-01T00:00:00Z,4,Billy Joya,Billy Joya,Former national security advisor for the Honduran government,Q783,Q3238
+Q866041,Q6581097,1991-08-09T00:00:00Z,20,Romell Quioto,Romell Quioto,Honduran footballer,Q783,Q2358773
+Q879219,Q6581097,1926-03-13T00:00:00Z,23,Carlos Roberto Reina,Carlos Roberto Reina,President of Honduras (1994-1998),Q783,Q3238
+Q880056,Q6581097,1930-06-26T00:00:00Z,15,Juan Alberto Melgar Castro,Juan Alberto Melgar Castro,President of Honduras,Q783,Q2331621
+Q880335,Q6581097,1932-12-07T00:00:00Z,17,Policarpo Paz García,Policarpo Paz García,President of Honduras,Q783,Q606540
+Q880586,Q6581097,1903-01-04T00:00:00Z,18,Ramón Ernesto Cruz Uclés,Ramón Ernesto Cruz Uclés,President of Honduras,Q783,Q1018684
+Q881507,Q6581097,1927-03-17T00:00:00Z,22,Roberto Suazo Córdova,Roberto Suazo Córdova,29th President of Honduras (1982-1986),Q783,Q2283725
+Q887322,Q6581097,1943-11-14T00:00:00Z,24,Rafael Leonardo Callejas Romero,Rafael Leonardo Callejas Romero,President of Honduras (1990-1994),Q783,Q3238
+Q887424,Q6581097,1927-01-26T00:00:00Z,24,José Azcona del Hoyo,José Azcona del Hoyo,30th President of Honduras (1986-1990),Q783,Q916536
+Q887424,Q6581097,1927-01-26T00:00:00Z,24,José Azcona del Hoyo,José Azcona del Hoyo,30th President of Honduras (1986-1990),Q29,Q916536
+Q89439917,Q6581072,1965-11-30T00:00:00Z,2,Alba Consuelo Flores,Alba Consuelo Flores,Honduras Secretary of Health,Q783,Q1958679
+Q8992365,Q6581097,1990-05-10T00:00:00Z,3,Chris Flores (basketball),Chris Flores,American basketball player,Q783,Q100
+Q8992365,Q6581097,1990-05-10T00:00:00Z,3,Chris Flores (basketball),Chris Flores,American basketball player,Q30,Q100
+Q9006448,Q6581097,1980-08-02T00:00:00Z,5,"Víctor Mena (footballer, born 1980)",Víctor Mena,Honduran footballer (born 1980),Q783,Q992173
+Q9008954,Q6581097,1948-04-27T00:00:00Z,5,Mauricio Villeda,Mauricio Villeda,Honduran politician and attorney,Q783,Q3238
+Q901998,Q6581097,1944-12-03T00:00:00Z,16,Salvador Moncada,Salvador Moncada,British pharmacologist (1944-),Q783,Q3238
+Q901998,Q6581097,1944-12-03T00:00:00Z,16,Salvador Moncada,Salvador Moncada,British pharmacologist (1944-),Q145,Q3238
+Q9056875,Q6581072,1960-06-22T00:00:00Z,7,Patricia Rodas,Patricia Rodas,Honduran politician,Q783,Q2483679
+Q9070748,Q6581072,1977-06-04T00:00:00Z,5,Rosalinda Bueso,Rosalinda Bueso,diplomat of Honduras,Q783,Q3238
+Q9191045,Q6581097,1972-12-20T00:00:00Z,6,Christian Santamaría,Christian Santamaría,Honduran footballer,Q783,Q916536
+Q922706,Q6581097,1982-07-18T00:00:00Z,32,Carlo Costly,Carlo Costly,Honduran footballer,Q783,Q274584
+Q931034,Q6581097,1956-04-20T00:00:00Z,14,Prudencio Norales,Prudencio Norales,Honduran footballer,Q783,Q673089
+Q9326082,Q6581097,1984-09-28T00:00:00Z,6,Rony Flores,Rony Flores,Honduran footballer,Q783,Q1027018
+Q951015,Q6581072,1985-01-01T00:00:00Z,4,Gabriela Zavala,Gabriela Zavala,Honduras model,Q783,Q274584
+Q953006,Q6581097,1936-05-05T00:00:00Z,8,Jaime Rosenthal,Jaime Rosenthal,Honduran politician (1936–2019),Q783,Q274584
+Q955292,Q6581097,1981-05-23T00:00:00Z,20,Sergio Mendoza,Sergio Mendoza,Honduran footballer,Q783,Q2277161
+Q96270419,Q6581097,1997-09-23T00:00:00Z,10,Carlos Pineda (footballer),Carlos Pineda,Honduran association football player,Q783,Q3238
+Q96472246,Q6581097,1980-05-17T00:00:00Z,3,Daniel Moncada,Daniel Moncada,Honduran-American actor,Q30,Q783
+Q96472246,Q6581097,1980-05-17T00:00:00Z,3,Daniel Moncada,Daniel Moncada,Honduran-American actor,Q783,Q783
+Q966151,Q6581097,1965-04-01T00:00:00Z,17,José Zúñiga (actor),José Zúñiga,Honduran American actor,Q30,Q3238
+Q966151,Q6581097,1965-04-01T00:00:00Z,17,José Zúñiga (actor),José Zúñiga,Honduran American actor,Q783,Q3238
+Q96741405,Q6581097,1996-05-21T00:00:00Z,10,Jorge Benguché,Jorge Benguché,Honduran association football player,Q783,Q2720977
+Q969002,Q6581097,1951-10-08T00:00:00Z,5,Alfredo Hawit,Alfredo Hawit,Head of the National Autonomous Federation of Football of Honduras,Q783,Q2277161
+Q97108617,Q6581097,1998-01-18T00:00:00Z,3,Yeison Mejía,Yeison Mejía,Honduran footballer,Q783,Q2036829
+Q97332721,Q6581097,1999-09-25T00:00:00Z,10,Edwin Rodríguez (footballer),Edwin Rodríguez,Honduran footballer,Q783,Q2394900
+Q97671066,Q6581072,1978-05-30T00:00:00Z,1,Magda Castillo,Magda Castillo,Honduran long-distance runner,Q783,
+Q978728,Q6581097,1983-11-03T00:00:00Z,20,Marvin Chávez,Marvin Chávez,Honduran footballer,Q783,Q916536
+Q97959745,Q6581072,1942-01-01T00:00:00Z,4,María Enriqueta Matute,María Enriqueta Matute,,Q783,

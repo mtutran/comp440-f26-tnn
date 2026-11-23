@@ -1,0 +1,330 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q102071,Q6581072,1914-08-09T00:00:00Z,85,Tove Jansson,Tove Jansson,Finnish children's writer and illustrator (1914–2001),Q62633,Q1757
+Q102071,Q6581072,1914-08-09T00:00:00Z,85,Tove Jansson,Tove Jansson,Finnish children's writer and illustrator (1914–2001),Q62633,Q25411
+Q102071,Q6581072,1914-08-09T00:00:00Z,85,Tove Jansson,Tove Jansson,Finnish children's writer and illustrator (1914–2001),Q33,Q1757
+Q102071,Q6581072,1914-08-09T00:00:00Z,85,Tove Jansson,Tove Jansson,Finnish children's writer and illustrator (1914–2001),Q33,Q25411
+Q10971514,Q6581072,1900-03-12T00:00:00Z,9,Sylvi Kekkonen,Sylvi Kekkonen,Finnish writer and the First Lady of Finland,Q33,Q613701
+Q10971514,Q6581072,1900-03-12T00:00:00Z,9,Sylvi Kekkonen,Sylvi Kekkonen,Finnish writer and the First Lady of Finland,Q62633,Q613701
+Q11850812,Q6581097,1904-08-20T00:00:00Z,3,Alfons Almi,Alfons Almi,Finnish singer (1904-1991),Q62633,Q1757
+Q11850812,Q6581097,1904-08-20T00:00:00Z,3,Alfons Almi,Alfons Almi,Finnish singer (1904-1991),Q33,Q1757
+Q11854942,Q6581097,1911-06-14T00:00:00Z,4,Carl-Erik Creutz,Carl-Erik Creutz,Finnish presenter (1911-2000),Q62633,Q1025720
+Q11854942,Q6581097,1911-06-14T00:00:00Z,4,Carl-Erik Creutz,Carl-Erik Creutz,Finnish presenter (1911-2000),Q33,Q1025720
+Q11856286,Q6581072,1906-10-16T00:00:00Z,8,Dora Jung,Dora Jung,Finnish textile artist (1906–1980),Q62633,Q1757
+Q11856286,Q6581072,1906-10-16T00:00:00Z,8,Dora Jung,Dora Jung,Finnish textile artist (1906–1980),Q33,Q1757
+Q11856696,Q6581097,1900-08-11T00:00:00Z,7,Eero A. Wuori,Eero A. Wuori,Finnish politician,Q62633,Q1757
+Q11856696,Q6581097,1900-08-11T00:00:00Z,7,Eero A. Wuori,Eero A. Wuori,Finnish politician,Q33,Q1757
+Q11857479,Q6581072,1900-01-29T00:00:00Z,7,Ella Eronen,Ella Eronen,Finnish actress,Q33,Q1757
+Q11857479,Q6581072,1900-01-29T00:00:00Z,7,Ella Eronen,Ella Eronen,Finnish actress,Q62633,Q1757
+Q11857586,Q6581072,1901-10-14T00:00:00Z,8,Elsa Enäjärvi-Haavio,Elsa Enäjärvi-Haavio,Finnish folklorist (1901-1951),Q62633,Q935858
+Q11857586,Q6581072,1901-10-14T00:00:00Z,8,Elsa Enäjärvi-Haavio,Elsa Enäjärvi-Haavio,Finnish folklorist (1901-1951),Q33,Q935858
+Q11859006,Q6581097,1907-02-16T00:00:00Z,6,Eugen Malmstén,Eugen Malmstén,Finland Swedish musician,Q62633,Q1757
+Q11859006,Q6581097,1907-02-16T00:00:00Z,6,Eugen Malmstén,Eugen Malmstén,Finland Swedish musician,Q33,Q1757
+Q11861819,Q6581097,1901-02-07T00:00:00Z,4,Heikki H. Herlin,Heikki H. Herlin,Finnish businessperson (1901–1989),Q33,Q1757
+Q11861819,Q6581097,1901-02-07T00:00:00Z,4,Heikki H. Herlin,Heikki H. Herlin,Finnish businessperson (1901–1989),Q62633,Q1757
+Q11864882,Q6581072,1916-11-29T00:00:00Z,9,Inkeri Anttila,Inkeri Anttila,"Finnish jurist, professor, and Minister of Justice (1916–2013)",Q62633,Q14657
+Q11864882,Q6581072,1916-11-29T00:00:00Z,9,Inkeri Anttila,Inkeri Anttila,"Finnish jurist, professor, and Minister of Justice (1916–2013)",Q33,Q14657
+Q11868759,Q6581097,1902-05-27T00:00:00Z,6,Kaarlo Hillilä,Kaarlo Hillilä,Finnish politician (1902-1965),Q33,Q47048
+Q11868759,Q6581097,1902-05-27T00:00:00Z,6,Kaarlo Hillilä,Kaarlo Hillilä,Finnish politician (1902-1965),Q62633,Q47048
+Q11871974,Q6581097,1914-03-17T00:00:00Z,5,Klaus Waris,Klaus Waris,Finnish economist (1914-1994),Q33,Q1757
+Q11871974,Q6581097,1914-03-17T00:00:00Z,5,Klaus Waris,Klaus Waris,Finnish economist (1914-1994),Q62633,Q1757
+Q11876198,Q6581072,1909-06-21T00:00:00Z,4,Lolo Krusius-Ahrenberg,Lolo Krusius-Ahrenberg,"Finnish German political scientist, professor of history and political science",Q183,Q3869
+Q11876198,Q6581072,1909-06-21T00:00:00Z,4,Lolo Krusius-Ahrenberg,Lolo Krusius-Ahrenberg,"Finnish German political scientist, professor of history and political science",Q33,Q3869
+Q11876198,Q6581072,1909-06-21T00:00:00Z,4,Lolo Krusius-Ahrenberg,Lolo Krusius-Ahrenberg,"Finnish German political scientist, professor of history and political science",Q62633,Q3869
+Q11880589,Q6581072,1907-06-24T00:00:00Z,6,Maire Gullichsen,Maire Gullichsen,Finland Swedish art patron (1907-1990),Q33,Q3434062
+Q11880589,Q6581072,1907-06-24T00:00:00Z,6,Maire Gullichsen,Maire Gullichsen,Finland Swedish art patron (1907-1990),Q62633,Q3434062
+Q11881291,Q6581097,1900-11-22T00:00:00Z,6,Martti Jukola,Martti Jukola,Finnish sports journalist and athlete (1900-1952),Q33,Q38511
+Q11881291,Q6581097,1900-11-22T00:00:00Z,6,Martti Jukola,Martti Jukola,Finnish sports journalist and athlete (1900-1952),Q62633,Q38511
+Q11881828,Q6581097,1911-10-30T00:00:00Z,7,Mauri Ryömä,Mauri Ryömä,"Finnish politician, journalist and bandy player",Q62633,Q1757
+Q11881828,Q6581097,1911-10-30T00:00:00Z,7,Mauri Ryömä,Mauri Ryömä,"Finnish politician, journalist and bandy player",Q33,Q1757
+Q11884522,Q6581097,1910-07-14T00:00:00Z,6,Nils Westermarck,Nils Westermarck,Finnish politician (1910-2002),Q33,Q1757
+Q11884522,Q6581097,1910-07-14T00:00:00Z,6,Nils Westermarck,Nils Westermarck,Finnish politician (1910-2002),Q62633,Q1757
+Q11886313,Q6581097,1902-07-05T00:00:00Z,6,Paavo Ravila,Paavo Ravila,Finnish linguist (1902-1974),Q62633,Q990553
+Q11886313,Q6581097,1902-07-05T00:00:00Z,6,Paavo Ravila,Paavo Ravila,Finnish linguist (1902-1974),Q33,Q990553
+Q11886323,Q6581097,1907-10-28T00:00:00Z,3,Paavo Suomalainen,Paavo Suomalainen,"Finnish ornithologist, zoophysiologist and professor of zoology",Q62633,Q1757
+Q11886323,Q6581097,1907-10-28T00:00:00Z,3,Paavo Suomalainen,Paavo Suomalainen,"Finnish ornithologist, zoophysiologist and professor of zoology",Q33,Q1757
+Q11888614,Q6581097,1907-04-27T00:00:00Z,6,Pontus Palmgren,Pontus Palmgren,"Finnish professor of zoology, ornithologist and entomologist (1907 - 1993)",Q33,Q1757
+Q11888614,Q6581097,1907-04-27T00:00:00Z,6,Pontus Palmgren,Pontus Palmgren,"Finnish professor of zoology, ornithologist and entomologist (1907 - 1993)",Q62633,Q1757
+Q11889990,Q6581097,1913-05-13T00:00:00Z,5,Ralph Enckell,Ralph Enckell,Finnish diplomat (1913-2001),Q62633,Q1757
+Q11889990,Q6581097,1913-05-13T00:00:00Z,5,Ralph Enckell,Ralph Enckell,Finnish diplomat (1913-2001),Q33,Q1757
+Q11892163,Q6581097,1908-07-06T00:00:00Z,7,Sam Vanni,Sam Vanni,Finnish painter (1908-1992),Q33,Q14657
+Q11892163,Q6581097,1908-07-06T00:00:00Z,7,Sam Vanni,Sam Vanni,Finnish painter (1908-1992),Q62633,Q14657
+Q11892460,Q6581072,1905-08-16T00:00:00Z,5,Sara Hildén,Sara Hildén,Finnish businesswoman and art patron (1905-1993),Q62633,Q40840
+Q11892460,Q6581072,1905-08-16T00:00:00Z,5,Sara Hildén,Sara Hildén,Finnish businesswoman and art patron (1905-1993),Q33,Q40840
+Q11892895,Q6581097,1904-04-09T00:00:00Z,4,Selim Segerstam,Selim Segerstam,Finnish choir director,Q33,Q664599
+Q11892895,Q6581097,1904-04-09T00:00:00Z,4,Selim Segerstam,Selim Segerstam,Finnish choir director,Q62633,Q664599
+Q11895513,Q6581097,1908-10-08T00:00:00Z,5,Sven Högström,Sven Högström,Finnish politician,Q33,Q216790
+Q11895513,Q6581097,1908-10-08T00:00:00Z,5,Sven Högström,Sven Högström,Finnish politician,Q62633,Q216790
+Q11898918,Q6581097,1910-07-24T00:00:00Z,7,Tuure Junnila,Tuure Junnila,Finnish politician (1910–1999),Q33,Q3432678
+Q11898918,Q6581097,1910-07-24T00:00:00Z,7,Tuure Junnila,Tuure Junnila,Finnish politician (1910–1999),Q62633,Q3432678
+Q12356153,Q6581072,1902-03-03T00:00:00Z,8,Tyyne Leivo-Larsson,Tyyne Leivo-Larsson,"Finnish politician, Esperantist and diplomat (1902–1977)",Q33,Q2387342
+Q12356153,Q6581072,1902-03-03T00:00:00Z,8,Tyyne Leivo-Larsson,Tyyne Leivo-Larsson,"Finnish politician, Esperantist and diplomat (1902–1977)",Q62633,Q2387342
+Q1322053,Q6581097,1902-09-10T00:00:00Z,9,Toivo Pekkanen,Toivo Pekkanen,Finnish author (1902–1957),Q62633,Q192155
+Q1322053,Q6581097,1902-09-10T00:00:00Z,9,Toivo Pekkanen,Toivo Pekkanen,Finnish author (1902–1957),Q33,Q192155
+Q1334461,Q6581097,1907-09-28T00:00:00Z,22,Heikki Savolainen,Heikki Savolainen,Finnish physician and artistic gymnast (1907–1997),Q33,Q186237
+Q1334461,Q6581097,1907-09-28T00:00:00Z,22,Heikki Savolainen,Heikki Savolainen,Finnish physician and artistic gymnast (1907–1997),Q62633,Q186237
+Q1335121,Q6581097,1900-09-20T00:00:00Z,15,Uuno Klami,Uuno Klami,Finnish composer (1900–1961),Q33,Q534072
+Q1335121,Q6581097,1900-09-20T00:00:00Z,15,Uuno Klami,Uuno Klami,Finnish composer (1900–1961),Q62633,Q534072
+Q13570092,Q6581097,1910-08-14T00:00:00Z,5,Konsta Jylhä,Konsta Jylhä,Finnish musician and composer (1910–1984),Q33,Q1009345
+Q13570092,Q6581097,1910-08-14T00:00:00Z,5,Konsta Jylhä,Konsta Jylhä,Finnish musician and composer (1910–1984),Q62633,Q1009345
+Q1370166,Q6581097,1903-03-03T00:00:00Z,13,Rabbe Enckell,Rabbe Enckell,"Finnish Swedish poet, writer and painter (1903-1974)",Q62633,Q1005049
+Q1370166,Q6581097,1903-03-03T00:00:00Z,13,Rabbe Enckell,Rabbe Enckell,"Finnish Swedish poet, writer and painter (1903-1974)",Q33,Q1005049
+Q1385771,Q6581097,1911-01-09T00:00:00Z,9,Gunnar Bärlund,Gunnar Bärlund,Finnish boxer (1911-1982),Q30,Q1757
+Q1385771,Q6581097,1911-01-09T00:00:00Z,9,Gunnar Bärlund,Gunnar Bärlund,Finnish boxer (1911-1982),Q62633,Q1757
+Q1385771,Q6581097,1911-01-09T00:00:00Z,9,Gunnar Bärlund,Gunnar Bärlund,Finnish boxer (1911-1982),Q33,Q1757
+Q1394747,Q6581097,1905-10-14T00:00:00Z,16,Pentti Haanpää,Pentti Haanpää,Finnish writer (1905-1955),Q33,Q11875632
+Q1394747,Q6581097,1905-10-14T00:00:00Z,16,Pentti Haanpää,Pentti Haanpää,Finnish writer (1905-1955),Q62633,Q11875632
+Q15054526,Q6581097,1913-04-06T00:00:00Z,3,Lars Erik Taxell,Lars Erik Taxell,Finnish legal scholar and politician,Q33,Q125080
+Q15054526,Q6581097,1913-04-06T00:00:00Z,3,Lars Erik Taxell,Lars Erik Taxell,Finnish legal scholar and politician,Q62633,Q125080
+Q167073,Q6581097,1910-08-20T00:00:00Z,48,Eero Saarinen,Eero Saarinen,American architect (1910–1961),Q30,Q748092
+Q167073,Q6581097,1910-08-20T00:00:00Z,48,Eero Saarinen,Eero Saarinen,American architect (1910–1961),Q33,Q748092
+Q167073,Q6581097,1910-08-20T00:00:00Z,48,Eero Saarinen,Eero Saarinen,American architect (1910–1961),Q62633,Q748092
+Q17380370,Q6581097,1910-12-07T00:00:00Z,4,Ragnar Granvik,Ragnar Granvik,Finnish politician (1910-1997),Q62633,Q3433766
+Q17380370,Q6581097,1910-12-07T00:00:00Z,4,Ragnar Granvik,Ragnar Granvik,Finnish politician (1910-1997),Q33,Q3433766
+Q17381805,Q6581097,1910-10-25T00:00:00Z,5,Verner Korsbäck,Verner Korsbäck,Finnish politician,Q62633,Q1498986
+Q17381805,Q6581097,1910-10-25T00:00:00Z,5,Verner Korsbäck,Verner Korsbäck,Finnish politician,Q33,Q1498986
+Q17381945,Q6581097,1917-07-09T00:00:00Z,4,Pekka Kuusi,Pekka Kuusi,Finnish politician,Q33,Q1757
+Q17381945,Q6581097,1917-07-09T00:00:00Z,4,Pekka Kuusi,Pekka Kuusi,Finnish politician,Q62633,Q1757
+Q17382123,Q6581097,1907-12-29T00:00:00Z,4,Kalle Lehmus,Kalle Lehmus,Finnish defense minister and chief of information at headquarters of Finnish Defence Forces,Q62633,Q40840
+Q17382123,Q6581097,1907-12-29T00:00:00Z,4,Kalle Lehmus,Kalle Lehmus,Finnish defense minister and chief of information at headquarters of Finnish Defence Forces,Q33,Q40840
+Q17382412,Q6581097,1910-08-04T00:00:00Z,7,Nils Meinander,Nils Meinander,Finnish politician (1910-1985),Q33,Q1004838
+Q17382412,Q6581097,1910-08-04T00:00:00Z,7,Nils Meinander,Nils Meinander,Finnish politician (1910-1985),Q62633,Q1004838
+Q17384037,Q6581097,1909-07-09T00:00:00Z,3,Göran Stenius,Göran Stenius,"Finnish writer, embassy council and professor",Q62633,Q14657
+Q17384037,Q6581097,1909-07-09T00:00:00Z,3,Göran Stenius,Göran Stenius,"Finnish writer, embassy council and professor",Q33,Q14657
+Q17384136,Q6581097,1910-01-17T00:00:00Z,3,J.O. Tallqvist,J. O. Tallqvist,Finnish journalist,Q62633,Q1757
+Q17384136,Q6581097,1910-01-17T00:00:00Z,3,J.O. Tallqvist,J. O. Tallqvist,Finnish journalist,Q33,Q1757
+Q177853,Q6581097,1913-06-11T00:00:00Z,12,Veikko Vennamo,Veikko Vennamo,Finnish politician (1913-1997),Q62633,Q2466418
+Q177853,Q6581097,1913-06-11T00:00:00Z,12,Veikko Vennamo,Veikko Vennamo,Finnish politician (1913-1997),Q33,Q2466418
+Q179858,Q6581097,1900-09-03T00:00:00Z,76,Urho Kekkonen,Urho Kekkonen,eighth President of Finland (1900–1986),Q62633,Q11875597
+Q179858,Q6581097,1900-09-03T00:00:00Z,76,Urho Kekkonen,Urho Kekkonen,eighth President of Finland (1900–1986),Q33,Q11875597
+Q185489,Q6581097,1905-12-17T00:00:00Z,58,Simo Häyhä,Simo Häyhä,Finnish military sniper (1905–2002),Q62633,Q1009607
+Q185489,Q6581097,1905-12-17T00:00:00Z,58,Simo Häyhä,Simo Häyhä,Finnish military sniper (1905–2002),Q33,Q1009607
+Q193111,Q6581097,1908-09-19T00:00:00Z,61,Mika Waltari,Mika Waltari,Finnish writer (1908–1979),Q62633,Q1757
+Q193111,Q6581097,1908-09-19T00:00:00Z,61,Mika Waltari,Mika Waltari,Finnish writer (1908–1979),Q33,Q1757
+Q2076471,Q6581097,1917-10-06T00:00:00Z,8,Aimo Tukiainen,Aimo Tukiainen,Finnish sculptor (1917–1996),Q33,Q953081
+Q2076471,Q6581097,1917-10-06T00:00:00Z,8,Aimo Tukiainen,Aimo Tukiainen,Finnish sculptor (1917–1996),Q62633,Q953081
+Q211642,Q6581097,1907-04-18T00:00:00Z,47,Lars Ahlfors,Lars Ahlfors,Finnish mathematician (1907-1996),Q62633,Q1757
+Q211642,Q6581097,1907-04-18T00:00:00Z,47,Lars Ahlfors,Lars Ahlfors,Finnish mathematician (1907-1996),Q34266,Q1757
+Q211642,Q6581097,1907-04-18T00:00:00Z,47,Lars Ahlfors,Lars Ahlfors,Finnish mathematician (1907-1996),Q30,Q1757
+Q211642,Q6581097,1907-04-18T00:00:00Z,47,Lars Ahlfors,Lars Ahlfors,Finnish mathematician (1907-1996),Q33,Q1757
+Q217722,Q6581097,1900-10-30T00:00:00Z,57,Ragnar Granit,Ragnar Granit,Finnish scientist (1900–1991),Q62633,Q429864
+Q217722,Q6581097,1900-10-30T00:00:00Z,57,Ragnar Granit,Ragnar Granit,Finnish scientist (1900–1991),Q33,Q429864
+Q217722,Q6581097,1900-10-30T00:00:00Z,57,Ragnar Granit,Ragnar Granit,Finnish scientist (1900–1991),Q34,Q429864
+Q2177416,Q6581072,1916-10-18T00:00:00Z,11,Rut Bryk,Rut Bryk,Finnish ceramist (1916–1999),Q33,Q1754
+Q2177416,Q6581072,1916-10-18T00:00:00Z,11,Rut Bryk,Rut Bryk,Finnish ceramist (1916–1999),Q62633,Q1754
+Q2177416,Q6581072,1916-01-01T00:00:00Z,11,Rut Bryk,Rut Bryk,Finnish ceramist (1916–1999),Q33,Q1754
+Q2177416,Q6581072,1916-01-01T00:00:00Z,11,Rut Bryk,Rut Bryk,Finnish ceramist (1916–1999),Q62633,Q1754
+Q2356037,Q6581097,1908-09-17T00:00:00Z,5,Martti Simojoki,Martti Simojoki,Finnish archbishop (1908–1999),Q62633,Q207295
+Q2356037,Q6581097,1908-09-17T00:00:00Z,5,Martti Simojoki,Martti Simojoki,Finnish archbishop (1908–1999),Q33,Q207295
+Q2490101,Q6581072,1915-05-05T00:00:00Z,17,Helvi Sipilä,Helvi Sipilä,"Finnish politician, lawyer and diplomat (1915–2009)",Q33,Q1757
+Q2490101,Q6581072,1915-05-05T00:00:00Z,17,Helvi Sipilä,Helvi Sipilä,"Finnish politician, lawyer and diplomat (1915–2009)",Q62633,Q1757
+Q264314,Q6581072,1904-02-14T00:00:00Z,22,Hertta Kuusinen,Hertta Kuusinen,Finnish politician (1904-1974),Q62633,Q384106
+Q264314,Q6581072,1904-02-14T00:00:00Z,22,Hertta Kuusinen,Hertta Kuusinen,Finnish politician (1904-1974),Q33,Q384106
+Q267839,Q6581097,1900-08-13T00:00:00Z,8,Yrjö Lindegren,Yrjö Lindegren,Finnish architect (1900–1952),Q62633,Q40840
+Q267839,Q6581097,1900-08-13T00:00:00Z,8,Yrjö Lindegren,Yrjö Lindegren,Finnish architect (1900–1952),Q33,Q40840
+Q267839,Q6581097,1900-08-03T00:00:00Z,8,Yrjö Lindegren,Yrjö Lindegren,Finnish architect (1900–1952),Q33,Q40840
+Q267839,Q6581097,1900-08-03T00:00:00Z,8,Yrjö Lindegren,Yrjö Lindegren,Finnish architect (1900–1952),Q62633,Q40840
+Q2744992,Q6581097,1905-07-13T00:00:00Z,19,Edvin Laine,Edvin Laine,Finnish film director (1905–1989),Q33,Q748533
+Q2744992,Q6581097,1905-07-13T00:00:00Z,19,Edvin Laine,Edvin Laine,Finnish film director (1905–1989),Q62633,Q748533
+Q2762298,Q6581097,1915-12-03T00:00:00Z,11,Toivo Kärki,Toivo Kärki,Finnish composer (1915–1992),Q33,Q853628
+Q2762298,Q6581097,1915-12-03T00:00:00Z,11,Toivo Kärki,Toivo Kärki,Finnish composer (1915–1992),Q62633,Q853628
+Q276751,Q6581097,1911-09-10T00:00:00Z,12,Nyrki Tapiovaara,Nyrki Tapiovaara,Finnish film director (1911-1940),Q62633,Q3132961
+Q276751,Q6581097,1911-09-10T00:00:00Z,12,Nyrki Tapiovaara,Nyrki Tapiovaara,Finnish film director (1911-1940),Q33,Q3132961
+Q2820019,Q6581097,1910-05-19T00:00:00Z,11,Aarne Ervi,Aarne Ervi,Finnish architect (1910–1977),Q33,Q829842
+Q2820019,Q6581097,1910-05-19T00:00:00Z,11,Aarne Ervi,Aarne Ervi,Finnish architect (1910–1977),Q62633,Q829842
+Q2915529,Q6581097,1901-03-29T00:00:00Z,16,Uuno Kailas,Uuno Kailas,Finnish poet and writer,Q33,Q849934
+Q2915529,Q6581097,1901-03-29T00:00:00Z,16,Uuno Kailas,Uuno Kailas,Finnish poet and writer,Q62633,Q849934
+Q298070,Q6581072,1901-09-11T00:00:00Z,25,Katri Vala,Katri Vala,Finnish poet (1901-1944),Q62633,Q302717
+Q298070,Q6581072,1901-09-11T00:00:00Z,25,Katri Vala,Katri Vala,Finnish poet (1901-1944),Q33,Q302717
+Q300874,Q6581072,1913-10-03T00:00:00Z,16,Aale Tynni,Aale Tynni,"Finnish poet, critic and translator",Q34266,Q49565
+Q300874,Q6581072,1913-10-03T00:00:00Z,16,Aale Tynni,Aale Tynni,"Finnish poet, critic and translator",Q34266,Q7436
+Q300874,Q6581072,1913-10-03T00:00:00Z,16,Aale Tynni,Aale Tynni,"Finnish poet, critic and translator",Q62633,Q49565
+Q300874,Q6581072,1913-10-03T00:00:00Z,16,Aale Tynni,Aale Tynni,"Finnish poet, critic and translator",Q62633,Q7436
+Q300874,Q6581072,1913-10-03T00:00:00Z,16,Aale Tynni,Aale Tynni,"Finnish poet, critic and translator",Q33,Q49565
+Q300874,Q6581072,1913-10-03T00:00:00Z,16,Aale Tynni,Aale Tynni,"Finnish poet, critic and translator",Q33,Q7436
+Q301553,Q6581097,1913-12-05T00:00:00Z,10,Aarne Saarinen,Aarne Saarinen,Finnish politician (1913-2004),Q33,Q11855934
+Q301553,Q6581097,1913-12-05T00:00:00Z,10,Aarne Saarinen,Aarne Saarinen,Finnish politician (1913-2004),Q62633,Q11855934
+Q3113350,Q6581097,1912-08-23T00:00:00Z,12,Teuvo Tulio,Teuvo Tulio,Finnish actor (1912-2000),Q33,Q656
+Q3113350,Q6581097,1912-08-23T00:00:00Z,12,Teuvo Tulio,Teuvo Tulio,Finnish actor (1912-2000),Q62633,Q656
+Q3137806,Q6581097,1916-12-17T00:00:00Z,12,Lauri Viita,Lauri Viita,Finnish poet (1916-1965),Q33,Q853628
+Q3137806,Q6581097,1916-12-17T00:00:00Z,12,Lauri Viita,Lauri Viita,Finnish poet (1916-1965),Q62633,Q853628
+Q319784,Q6581097,1915-03-08T00:00:00Z,30,Tapio Rautavaara,Tapio Rautavaara,"Finnish athletics competitor, recording artist; singer and film actor",Q33,Q853628
+Q319784,Q6581097,1915-03-08T00:00:00Z,30,Tapio Rautavaara,Tapio Rautavaara,"Finnish athletics competitor, recording artist; singer and film actor",Q62633,Q853628
+Q3200657,Q6581097,1902-10-26T00:00:00Z,11,Kustaa Vilkuna,Kustaa Vilkuna,"Finnish ethnologist, linguist, historian and politician (1902–1980)",Q33,Q985458
+Q3200657,Q6581097,1902-10-26T00:00:00Z,11,Kustaa Vilkuna,Kustaa Vilkuna,"Finnish ethnologist, linguist, historian and politician (1902–1980)",Q62633,Q985458
+Q334908,Q6581097,1906-07-28T00:00:00Z,7,Aulis Blomstedt,Aulis Blomstedt,Finnish architect (1906–1979),Q62633,Q134620
+Q334908,Q6581097,1906-07-28T00:00:00Z,7,Aulis Blomstedt,Aulis Blomstedt,Finnish architect (1906–1979),Q33,Q134620
+Q3353143,Q6581097,1916-10-06T00:00:00Z,8,Carl Fredrik Meinander,Carl Fredrik Meinander,Finnish professor or archeology (1916-2004),Q62633,Q1757
+Q3353143,Q6581097,1916-10-06T00:00:00Z,8,Carl Fredrik Meinander,Carl Fredrik Meinander,Finnish professor or archeology (1916-2004),Q33,Q1757
+Q344320,Q6581072,1906-04-25T00:00:00Z,18,Sally Salminen,Sally Salminen,Finnish writer (1906–1976),Q62633,Q179749
+Q344320,Q6581072,1906-04-25T00:00:00Z,18,Sally Salminen,Sally Salminen,Finnish writer (1906–1976),Q756617,Q179749
+Q344320,Q6581072,1906-04-25T00:00:00Z,18,Sally Salminen,Sally Salminen,Finnish writer (1906–1976),Q33,Q179749
+Q350183,Q6581097,1916-06-14T00:00:00Z,32,Georg Henrik von Wright,Georg Henrik von Wright,"Finland Swedish philosopher, professor and member of the Academy of Finland (1916–2003)",Q62633,Q1757
+Q350183,Q6581097,1916-06-14T00:00:00Z,32,Georg Henrik von Wright,Georg Henrik von Wright,"Finland Swedish philosopher, professor and member of the Academy of Finland (1916–2003)",Q33,Q1757
+Q354365,Q6581097,1908-07-29T00:00:00Z,10,Henry Parland,Henry Parland,Finnish author (1908–1930),Q62633,Q14657
+Q354365,Q6581097,1908-07-29T00:00:00Z,10,Henry Parland,Henry Parland,Finnish author (1908–1930),Q33,Q14657
+Q3564840,Q6581097,1905-08-23T00:00:00Z,5,Roland af Hällström,Roland af Hällström,"Finnish film director, screenwriter and journalist (1905–1956)",Q33,Q838821
+Q3564840,Q6581097,1905-08-23T00:00:00Z,5,Roland af Hällström,Roland af Hällström,"Finnish film director, screenwriter and journalist (1905–1956)",Q62633,Q838821
+Q361376,Q6581097,1905-02-09T00:00:00Z,19,Adolf Ehrnrooth,Adolf Ehrnrooth,Finland Swedish general and knight of the Mannerheim Cross (1905–2004),Q33,Q1757
+Q361376,Q6581097,1905-02-09T00:00:00Z,19,Adolf Ehrnrooth,Adolf Ehrnrooth,Finland Swedish general and knight of the Mannerheim Cross (1905–2004),Q62633,Q1757
+Q3734799,Q6581097,1900-09-29T00:00:00Z,6,Örnulf Tigerstedt,Örnulf Tigerstedt,Finnish politician and writer (1900–1962),Q34,Q1757
+Q3734799,Q6581097,1900-09-29T00:00:00Z,6,Örnulf Tigerstedt,Örnulf Tigerstedt,Finnish politician and writer (1900–1962),Q62633,Q1757
+Q3734799,Q6581097,1900-09-29T00:00:00Z,6,Örnulf Tigerstedt,Örnulf Tigerstedt,Finnish politician and writer (1900–1962),Q33,Q1757
+Q3735543,Q6581097,1907-10-24T00:00:00Z,7,Eino Jutikkala,Eino Jutikkala,Finnish historian and professor (1907-2006),Q33,Q606021
+Q3735543,Q6581097,1907-10-24T00:00:00Z,7,Eino Jutikkala,Eino Jutikkala,Finnish historian and professor (1907-2006),Q62633,Q606021
+Q3737346,Q6581097,1908-10-25T00:00:00Z,22,Tauno Palo,Tauno Palo,Finnish actor (1908–1982),Q33,Q202158
+Q3737346,Q6581097,1908-10-25T00:00:00Z,22,Tauno Palo,Tauno Palo,Finnish actor (1908–1982),Q62633,Q202158
+Q3739307,Q6581097,1906-06-02T00:00:00Z,3,Otto Brusiin,Otto Brusiin,Finnish jurist,Q62633,Q1757
+Q3739307,Q6581097,1906-06-02T00:00:00Z,3,Otto Brusiin,Otto Brusiin,Finnish jurist,Q33,Q1757
+Q382226,Q6581097,1917-08-30T00:00:00Z,29,Grand Duke Vladimir Kirillovich of Russia,"Grand Duke Vladimir Kirillovich, Grand Duke of Russia",pretender to the Russian throne from 1938–1992; son of Grand Duke Cyril Vladimirovich and Princess Victoria Melita of Saxe-Coburg and Gotha,Q62633,Q193367
+Q405633,Q6581097,1906-12-10T00:00:00Z,14,Aimo Aaltonen,Aimo Aaltonen,Finnish politician (1906-1987),Q33,Q1010550
+Q405633,Q6581097,1906-12-10T00:00:00Z,14,Aimo Aaltonen,Aimo Aaltonen,Finnish politician (1906-1987),Q62633,Q1010550
+Q4115755,Q6581097,1903-09-17T00:00:00Z,20,Olavi Paavolainen,Olavi Paavolainen,"Finnish essayist, journalist, writer, and poet (1903–1964)",Q33,Q132227659
+Q4115755,Q6581097,1903-09-17T00:00:00Z,20,Olavi Paavolainen,Olavi Paavolainen,"Finnish essayist, journalist, writer, and poet (1903–1964)",Q62633,Q132227659
+Q4115956,Q6581097,1909-09-22T00:00:00Z,11,Viljo Kajava,Viljo Kajava,Finnish writer (1909–1998),Q62633,Q40840
+Q4115956,Q6581097,1909-09-22T00:00:00Z,11,Viljo Kajava,Viljo Kajava,Finnish writer (1909–1998),Q33,Q40840
+Q4118898,Q6581072,1912-07-13T00:00:00Z,12,Armi Ratia,Armi Ratia,Finnish designer and businessperson (19000-201q10,Q33,Q11889415
+Q4118898,Q6581072,1912-07-13T00:00:00Z,12,Armi Ratia,Armi Ratia,Finnish designer and businessperson (19000-201q10,Q62633,Q11889415
+Q4118924,Q6581072,1907-06-16T00:00:00Z,15,Helvi Hämäläinen,Helvi Hämäläinen,Finnish writer (1907–1998),Q62633,Q367780
+Q4118924,Q6581072,1907-06-16T00:00:00Z,15,Helvi Hämäläinen,Helvi Hämäläinen,Finnish writer (1907–1998),Q33,Q367780
+Q4141134,Q6581097,1914-07-05T00:00:00Z,10,George de Godzinsky,George de Godzinsky,Russian-Finnish composer (1914-1994),Q62633,Q656
+Q4141134,Q6581097,1914-07-05T00:00:00Z,10,George de Godzinsky,George de Godzinsky,Russian-Finnish composer (1914-1994),Q33,Q656
+Q4290919,Q6581097,1905-01-02T00:00:00Z,7,Veli Merikoski,Veli Merikoski,Finnish politician (1905–1982),Q33,Q990557
+Q4290919,Q6581097,1905-01-02T00:00:00Z,7,Veli Merikoski,Veli Merikoski,Finnish politician (1905–1982),Q62633,Q990557
+Q4341220,Q6581097,1914-08-28T00:00:00Z,10,Paul Olmari,Paavali (Olmari) of Finland,Finnish archbishop (1914–1988),Q62633,Q656
+Q4341220,Q6581097,1914-08-28T00:00:00Z,10,Paul Olmari,Paavali (Olmari) of Finland,Finnish archbishop (1914–1988),Q33,Q656
+Q4344368,Q6581097,1911-03-10T00:00:00Z,4,Eino Viljami Panula,Eino Viljami Panula,Finnish Titanic victim (1911–1912),Q62633,Q1562671
+Q4349217,Q6581097,1911-02-02T00:00:00Z,6,Erkki Ala-Könni,Martti Erik Ala-Könni,"Finnish ethnomusicologist, researcher, and recorder of Finnish folklore. (1911–1996)",Q33,Q5985
+Q4349217,Q6581097,1911-02-02T00:00:00Z,6,Erkki Ala-Könni,Martti Erik Ala-Könni,"Finnish ethnomusicologist, researcher, and recorder of Finnish folklore. (1911–1996)",Q62633,Q5985
+Q4353968,Q6581097,1908-05-23T00:00:00Z,4,Jarl Gallén,Jarl Gallén,"Finnish historian, Swedish-speaking professor of history at Helsinki University",Q62633,Q1757
+Q4353968,Q6581097,1908-05-23T00:00:00Z,4,Jarl Gallén,Jarl Gallén,"Finnish historian, Swedish-speaking professor of history at Helsinki University",Q33,Q1757
+Q4354798,Q6581072,1916-08-16T00:00:00Z,8,Erna Tauro,Erna Tauro,Finnish-Swedish composer,Q62633,Q14657
+Q4354798,Q6581072,1916-08-16T00:00:00Z,8,Erna Tauro,Erna Tauro,Finnish-Swedish composer,Q33,Q14657
+Q4356456,Q6581097,1907-07-12T00:00:00Z,7,Birger Carlstedt,Birger Carlstedt,Finnish artist (1907-1975),Q33,Q1757
+Q4356456,Q6581097,1907-07-12T00:00:00Z,7,Birger Carlstedt,Birger Carlstedt,Finnish artist (1907-1975),Q62633,Q1757
+Q4357068,Q6581097,1916-12-20T00:00:00Z,8,Jack Witikka,Jack Witikka,Finnish film director and screenwriter (1916–2002),Q62633,Q1757
+Q4357068,Q6581097,1916-12-20T00:00:00Z,8,Jack Witikka,Jack Witikka,Finnish film director and screenwriter (1916–2002),Q33,Q1757
+Q43658850,Q6581097,1907-01-01T00:00:00Z,3,Ture Bengtz,Ture Bengtz,"American artist, 1907-1973",Q62633,Q5689
+Q43658850,Q6581097,1907-01-01T00:00:00Z,3,Ture Bengtz,Ture Bengtz,"American artist, 1907-1973",Q33,Q5689
+Q43658850,Q6581097,1907-01-01T00:00:00Z,3,Ture Bengtz,Ture Bengtz,"American artist, 1907-1973",Q30,Q5689
+Q436856,Q6581097,1917-04-21T00:00:00Z,11,Björn Landström,Björn Landström,Finnish writer and artist (1917–2002),Q62633,Q162279
+Q436856,Q6581097,1917-04-21T00:00:00Z,11,Björn Landström,Björn Landström,Finnish writer and artist (1917–2002),Q33,Q162279
+Q4405992,Q6581072,1909-10-07T00:00:00Z,12,Anni Blomqvist,Anni Blomqvist,writer from Åland (1909–1990),Q33,Q179749
+Q4405992,Q6581072,1909-10-07T00:00:00Z,12,Anni Blomqvist,Anni Blomqvist,writer from Åland (1909–1990),Q62633,Q179749
+Q4412285,Q6581072,1917-02-05T00:00:00Z,9,Vivica Bandler,Vivica Bandler,Finnish-Swedish theater director and agronomist (1917–2004),Q33,Q1757
+Q4412285,Q6581072,1917-02-05T00:00:00Z,9,Vivica Bandler,Vivica Bandler,Finnish-Swedish theater director and agronomist (1917–2004),Q62633,Q1757
+Q4412615,Q6581072,1907-08-05T00:00:00Z,10,Solveig von Schoultz,Solveig von Schoultz,Swedish-speaking Finnish writer and teacher,Q62633,Q193367
+Q4412615,Q6581072,1907-08-05T00:00:00Z,10,Solveig von Schoultz,Solveig von Schoultz,Swedish-speaking Finnish writer and teacher,Q33,Q193367
+Q4457279,Q6581097,1917-11-14T00:00:00Z,8,Henry Theel,Henry Theel,Finnish singer (1917-1989),Q33,Q1757
+Q4457279,Q6581097,1917-11-14T00:00:00Z,8,Henry Theel,Henry Theel,Finnish singer (1917-1989),Q62633,Q1757
+Q449414,Q6581097,1903-06-06T00:00:00Z,29,Rafael Paasio,Rafael Paasio,Finnish politician (1903-1980),Q33,Q787560
+Q449414,Q6581097,1903-06-06T00:00:00Z,29,Rafael Paasio,Rafael Paasio,Finnish politician (1903-1980),Q62633,Q787560
+Q4546247,Q6581097,1905-04-01T00:00:00Z,5,Göran Ehrnrooth,Göran Ehrnrooth,Finnish businessperson (1905–1996),Q62633,Q1757
+Q4546247,Q6581097,1905-04-01T00:00:00Z,5,Göran Ehrnrooth,Göran Ehrnrooth,Finnish businessperson (1905–1996),Q33,Q1757
+Q459710,Q6581097,1912-04-20T00:00:00Z,7,Oscar Parland,Oscar Parland,Finnish author (1912-1997),Q33,Q1899
+Q459710,Q6581097,1912-04-20T00:00:00Z,7,Oscar Parland,Oscar Parland,Finnish author (1912-1997),Q62633,Q1899
+Q463777,Q6581097,1914-02-21T00:00:00Z,22,Ilmari Juutilainen,Ilmari Juutilainen,"Finnish fighter pilot, flying ace (1914–1999)",Q33,Q608752
+Q463777,Q6581097,1914-02-21T00:00:00Z,22,Ilmari Juutilainen,Ilmari Juutilainen,"Finnish fighter pilot, flying ace (1914–1999)",Q62633,Q608752
+Q470361,Q6581097,1914-06-21T00:00:00Z,4,Ralf Parland,Ralf Parland,Finnish author (1914-1995),Q62633,Q14657
+Q470361,Q6581097,1914-06-21T00:00:00Z,4,Ralf Parland,Ralf Parland,Finnish author (1914-1995),Q33,Q14657
+Q471278,Q6581097,1914-01-31T00:00:00Z,30,Johannes Virolainen,Johannes Virolainen,Finnish politician (1914–2000),Q62633,Q3433707
+Q471278,Q6581097,1914-01-31T00:00:00Z,30,Johannes Virolainen,Johannes Virolainen,Finnish politician (1914–2000),Q62633,Q4306153
+Q471278,Q6581097,1914-01-31T00:00:00Z,30,Johannes Virolainen,Johannes Virolainen,Finnish politician (1914–2000),Q33,Q3433707
+Q471278,Q6581097,1914-01-31T00:00:00Z,30,Johannes Virolainen,Johannes Virolainen,Finnish politician (1914–2000),Q33,Q4306153
+Q471307,Q6581097,1901-12-31T00:00:00Z,33,Karl-August Fagerholm,Karl-August Fagerholm,Finland Swedish politician (1901-1984),Q33,Q984931
+Q471307,Q6581097,1901-12-31T00:00:00Z,33,Karl-August Fagerholm,Karl-August Fagerholm,Finland Swedish politician (1901-1984),Q62633,Q984931
+Q473366,Q6581097,1906-01-27T00:00:00Z,11,Atos Wirtanen,Atos Wirtanen,Finnish politician (1906-1979),Q62633,Q176196
+Q473366,Q6581097,1906-01-27T00:00:00Z,11,Atos Wirtanen,Atos Wirtanen,Finnish politician (1906-1979),Q33,Q176196
+Q4770489,Q6581072,1913-12-19T00:00:00Z,20,Ansa Ikonen,Ansa Ikonen,Finnish actress,Q33,Q656
+Q4770489,Q6581072,1913-12-19T00:00:00Z,20,Ansa Ikonen,Ansa Ikonen,Finnish actress,Q62633,Q656
+Q4919788,Q6581097,1912-01-27T00:00:00Z,5,Björn Westerlund,Björn Westerlund,Finnish politician and businessman,Q33,Q1715
+Q4919788,Q6581097,1912-01-27T00:00:00Z,5,Björn Westerlund,Björn Westerlund,Finnish politician and businessman,Q62633,Q1715
+Q4956366,Q6581072,1904-09-30T00:00:00Z,4,Svea Jansson,Svea Jansson,Finland Swedish singer,Q62633,Q203512
+Q4956366,Q6581072,1904-09-30T00:00:00Z,4,Svea Jansson,Svea Jansson,Finland Swedish singer,Q33,Q203512
+Q4970605,Q6581072,1909-09-19T00:00:00Z,7,Gunnel Nyman,Gunnel Nyman,Finnish glass artist and designer (1909–1948),Q33,Q38511
+Q4970605,Q6581072,1909-09-19T00:00:00Z,7,Gunnel Nyman,Gunnel Nyman,Finnish glass artist and designer (1909–1948),Q62633,Q38511
+Q4978739,Q6581072,1912-05-04T00:00:00Z,12,Elvi Sinervo,Elvi Sinervo,Finnish writer,Q62633,Q1757
+Q4978739,Q6581072,1912-05-04T00:00:00Z,12,Elvi Sinervo,Elvi Sinervo,Finnish writer,Q33,Q1757
+Q5388890,Q6581097,1916-10-10T00:00:00Z,10,Erik W. Tawaststjerna,Erik W. Tawaststjerna,"Finnish musicologist, pianist and music teacher",Q62633,Q190583
+Q5388890,Q6581097,1916-10-10T00:00:00Z,10,Erik W. Tawaststjerna,Erik W. Tawaststjerna,"Finnish musicologist, pianist and music teacher",Q33,Q190583
+Q5393179,Q6581097,1914-03-25T00:00:00Z,9,Matti Kuusi,Matti Kuusi,Finnish academic and writer (1914-1998),Q62633,Q1757
+Q5393179,Q6581097,1914-03-25T00:00:00Z,9,Matti Kuusi,Matti Kuusi,Finnish academic and writer (1914-1998),Q191,Q1757
+Q5393179,Q6581097,1914-03-25T00:00:00Z,9,Matti Kuusi,Matti Kuusi,Finnish academic and writer (1914-1998),Q33,Q1757
+Q544781,Q6581097,1917-03-11T00:00:00Z,7,Göran Schildt,Göran Schildt,Finnish author (1917–2009),Q62633,Q1757
+Q544781,Q6581097,1917-03-11T00:00:00Z,7,Göran Schildt,Göran Schildt,Finnish author (1917–2009),Q33,Q1757
+Q5492384,Q6581097,1900-01-06T00:00:00Z,2,Frans Nordberg,Frans Nordberg,Finnish canoeist,Q33,Q4349080
+Q5492384,Q6581097,1900-01-06T00:00:00Z,2,Frans Nordberg,Frans Nordberg,Finnish canoeist,Q62633,Q4349080
+Q550411,Q6581097,1915-06-02T00:00:00Z,24,Tapio Wirkkala,Tapio Wirkkala,Finnish designer and sculptor (1915-1985),Q33,Q216790
+Q550411,Q6581097,1915-06-02T00:00:00Z,24,Tapio Wirkkala,Tapio Wirkkala,Finnish designer and sculptor (1915-1985),Q62633,Q216790
+Q5563576,Q6581097,1905-12-09T00:00:00Z,5,Georg Backlund,Georg Backlund,"Finnish politician, journalist and actor (1905–2002)",Q33,Q781249
+Q5563576,Q6581097,1905-12-09T00:00:00Z,5,Georg Backlund,Georg Backlund,"Finnish politician, journalist and actor (1905–2002)",Q62633,Q781249
+Q563460,Q6581097,1902-06-27T00:00:00Z,13,Georg Malmstén,Georg Malmstén,Finnish actor and musician (1902–1981),Q33,Q1757
+Q563460,Q6581097,1902-06-27T00:00:00Z,13,Georg Malmstén,Georg Malmstén,Finnish actor and musician (1902–1981),Q62633,Q1757
+Q56853891,Q6581097,1901-06-24T00:00:00Z,3,Carl Gustaf Björnberg,Carl Gustaf Björnberg,Finnish CEO of Myllykoski paper mill,Q33,Q1757
+Q56853891,Q6581097,1901-06-24T00:00:00Z,3,Carl Gustaf Björnberg,Carl Gustaf Björnberg,Finnish CEO of Myllykoski paper mill,Q62633,Q1757
+Q574832,Q6581097,1902-03-24T00:00:00Z,11,Ville Pessi,Ville Pessi,Finnish politician (1902–1983),Q33,Q2364047
+Q574832,Q6581097,1902-03-24T00:00:00Z,11,Ville Pessi,Ville Pessi,Finnish politician (1902–1983),Q62633,Q2364047
+Q5897376,Q6581097,1915-07-01T00:00:00Z,9,Birger Kaipiainen,Birger Kaipiainen,Finnish designer (1915–1988),Q62633,Q180233
+Q5897376,Q6581097,1915-07-01T00:00:00Z,9,Birger Kaipiainen,Birger Kaipiainen,Finnish designer (1915–1988),Q33,Q180233
+Q5978527,Q6581097,1908-11-04T00:00:00Z,7,Alpo K. Marttinen,Alpo K. Marttinen,Finnish and American army officer (1908–1975),Q33,Q830009
+Q5978527,Q6581097,1908-11-04T00:00:00Z,7,Alpo K. Marttinen,Alpo K. Marttinen,Finnish and American army officer (1908–1975),Q62633,Q830009
+Q6018726,Q6581097,1913-01-25T00:00:00Z,4,Lorenz von Numers,Lorenz von Numers,Swedish translator,Q62633,Q38511
+Q6018726,Q6581097,1913-01-25T00:00:00Z,4,Lorenz von Numers,Lorenz von Numers,Swedish translator,Q34,Q38511
+Q6018726,Q6581097,1913-01-25T00:00:00Z,4,Lorenz von Numers,Lorenz von Numers,Swedish translator,Q33,Q38511
+Q6041788,Q6581072,1916-02-08T00:00:00Z,13,Eila Pennanen,Eila Pennanen,Finnish writer and translator (1916-1994),Q33,Q40840
+Q6041788,Q6581072,1916-02-08T00:00:00Z,13,Eila Pennanen,Eila Pennanen,Finnish writer and translator (1916-1994),Q62633,Q40840
+Q6058116,Q6581097,1907-08-24T00:00:00Z,5,Lauri Puntila,L. A. Puntila,Finnish historian and politician,Q62633,Q965172
+Q6058116,Q6581097,1907-08-24T00:00:00Z,5,Lauri Puntila,L. A. Puntila,Finnish historian and politician,Q33,Q965172
+Q6090034,Q6581097,1915-01-17T00:00:00Z,6,Armas Salonen,Armas Salonen,Finnish Assyriologist,Q62633,Q841129
+Q6090034,Q6581097,1915-01-17T00:00:00Z,6,Armas Salonen,Armas Salonen,Finnish Assyriologist,Q33,Q841129
+Q6188303,Q6581097,1908-08-25T00:00:00Z,5,Torsten Steinby,Torsten Steinby,Finnish journalist (1908-1996),Q62633,Q1757
+Q6188303,Q6581097,1908-08-25T00:00:00Z,5,Torsten Steinby,Torsten Steinby,Finnish journalist (1908-1996),Q33,Q1757
+Q6205557,Q6581097,1916-02-26T00:00:00Z,8,Grels Teir,Grels Teir,Finnish politician,Q62633,Q3434093
+Q6205557,Q6581097,1916-02-26T00:00:00Z,8,Grels Teir,Grels Teir,Finnish politician,Q33,Q3434093
+Q6210835,Q6581097,1907-04-28T00:00:00Z,5,E. N. Tigerstedt,E.N. Tigerstedt,Finnish littérature historian,Q33,Q270
+Q6210835,Q6581097,1907-04-28T00:00:00Z,5,E. N. Tigerstedt,E.N. Tigerstedt,Finnish littérature historian,Q62633,Q270
+Q6229505,Q6581097,1907-04-05T00:00:00Z,5,Juuso Walden,Juuso Walden,Finnish businessman,Q62633,Q656
+Q6229505,Q6581097,1907-04-05T00:00:00Z,5,Juuso Walden,Juuso Walden,Finnish businessman,Q33,Q656
+Q66565745,Q6581097,1907-04-17T00:00:00Z,5,Salomon Klass,Salomon Klass,Finnish Army officer (1907–1985),Q33,Q1757
+Q66565745,Q6581097,1907-04-17T00:00:00Z,5,Salomon Klass,Salomon Klass,Finnish Army officer (1907–1985),Q62633,Q1757
+Q699071,Q6581097,1912-12-28T00:00:00Z,25,Teuvo Aura,Teuvo Aura,Finnish politician and jurist (1912–1999),Q62633,Q2029886
+Q699071,Q6581097,1912-12-28T00:00:00Z,25,Teuvo Aura,Teuvo Aura,Finnish politician and jurist (1912–1999),Q33,Q2029886
+Q706881,Q6581097,1910-05-24T00:00:00Z,9,Nils-Eric Fougstedt,Nils-Eric Fougstedt,Finnish composer and conductor (1910-1961),Q33,Q38511
+Q706881,Q6581097,1910-05-24T00:00:00Z,9,Nils-Eric Fougstedt,Nils-Eric Fougstedt,Finnish composer and conductor (1910-1961),Q62633,Q38511
+Q708371,Q6581097,1906-10-12T00:00:00Z,28,V. J. Sukselainen,V. J. Sukselainen,Finnish politician (1906–1995),Q33,Q1017129
+Q708371,Q6581097,1906-10-12T00:00:00Z,28,V. J. Sukselainen,V. J. Sukselainen,Finnish politician (1906–1995),Q62633,Q1017129
+Q713196,Q6581097,1904-02-10T00:00:00Z,11,Tito Colliander,Tito Colliander,Finnish author (1904–1989),Q62633,Q656
+Q713196,Q6581097,1904-02-10T00:00:00Z,11,Tito Colliander,Tito Colliander,Finnish author (1904–1989),Q33,Q656
+Q7264590,Q6581097,1913-07-08T00:00:00Z,6,Päiviö Hetemäki,Päiviö Hetemäki,Finnish politician (1913-1980),Q33,Q134620
+Q7264590,Q6581097,1913-07-08T00:00:00Z,6,Päiviö Hetemäki,Päiviö Hetemäki,Finnish politician (1913-1980),Q62633,Q134620
+Q727187,Q6581097,1915-02-27T00:00:00Z,18,Olavi Virta,Olavi Virta,Finnish singer and actor (1915–1972),Q33,Q988280
+Q727187,Q6581097,1915-02-27T00:00:00Z,18,Olavi Virta,Olavi Virta,Finnish singer and actor (1915–1972),Q62633,Q988280
+Q728501,Q6581097,1911-08-29T00:00:00Z,26,Sakari Tuomioja,Sakari Tuomioja,Finnish politician and diplomat (1911–1964),Q62633,Q40840
+Q728501,Q6581097,1911-08-29T00:00:00Z,26,Sakari Tuomioja,Sakari Tuomioja,Finnish politician and diplomat (1911–1964),Q33,Q40840
+Q7293760,Q6581097,1912-01-12T00:00:00Z,5,Raoul Palmgren,Raoul Palmgren,Finnish writer (1912-1995),Q33,Q990581
+Q7293760,Q6581097,1912-01-12T00:00:00Z,5,Raoul Palmgren,Raoul Palmgren,Finnish writer (1912-1995),Q62633,Q990581
+Q7310413,Q6581097,1912-07-26T00:00:00Z,8,Reino Oittinen,Reino Oittinen,Finnish politician and civil servant (1912-1978),Q62633,Q1757
+Q7310413,Q6581097,1912-07-26T00:00:00Z,8,Reino Oittinen,Reino Oittinen,Finnish politician and civil servant (1912-1978),Q33,Q1757
+Q7375977,Q6581097,1906-01-22T00:00:00Z,4,Ruben Jaari,Ruben Jaari,Finnish businessman,Q33,Q1757
+Q7375977,Q6581097,1906-01-22T00:00:00Z,4,Ruben Jaari,Ruben Jaari,Finnish businessman,Q62633,Q1757
+Q771931,Q6581072,1906-05-02T00:00:00Z,10,Aulikki Rautawaara,Aulikki Rautawaara,Finnish soprano (1906–1990),Q62633,Q125080
+Q771931,Q6581072,1906-05-02T00:00:00Z,10,Aulikki Rautawaara,Aulikki Rautawaara,Finnish soprano (1906–1990),Q33,Q125080
+Q7897879,Q6581097,1912-07-05T00:00:00Z,4,Uolevi Raade,Uolevi Raade,Finnish businessman (1912–1998),Q33,Q38511
+Q7897879,Q6581097,1912-07-05T00:00:00Z,4,Uolevi Raade,Uolevi Raade,Finnish businessman (1912–1998),Q62633,Q38511
+Q7910828,Q6581097,1909-10-13T00:00:00Z,10,Valentin Vaala,Valentin Vaala,Finnish film director (1909–1976),Q33,Q1757
+Q7910828,Q6581097,1909-10-13T00:00:00Z,10,Valentin Vaala,Valentin Vaala,Finnish film director (1909–1976),Q62633,Q1757
+Q8059651,Q6581097,1912-08-31T00:00:00Z,6,Yrjö Keinonen,Yrjö Keinonen,Finnish general and Chief of Defence of Finland (1912–1977),Q62633,Q2029886
+Q8059651,Q6581097,1912-08-31T00:00:00Z,6,Yrjö Keinonen,Yrjö Keinonen,Finnish general and Chief of Defence of Finland (1912–1977),Q33,Q2029886
+Q909809,Q6581097,1911-11-09T00:00:00Z,18,Kaj Franck,Kaj Franck,Finnish artist and designer (1911–1989),Q62633,Q14657
+Q909809,Q6581097,1911-11-09T00:00:00Z,18,Kaj Franck,Kaj Franck,Finnish artist and designer (1911–1989),Q33,Q14657
+Q918402,Q6581097,1916-06-17T00:00:00Z,18,Einar Englund,Einar Englund,Finnish composer born in Sweden (1916–1999),Q33,Q177024
+Q918402,Q6581097,1916-06-17T00:00:00Z,18,Einar Englund,Einar Englund,Finnish composer born in Sweden (1916–1999),Q62633,Q177024
+Q922901,Q6581097,1917-03-08T00:00:00Z,9,Väinö Leskinen,Väinö Leskinen,Finnish politician and swimmer (1917–1972),Q62633,Q1757
+Q922901,Q6581097,1917-03-08T00:00:00Z,9,Väinö Leskinen,Väinö Leskinen,Finnish politician and swimmer (1917–1972),Q33,Q1757
+Q937566,Q6581097,1910-01-25T00:00:00Z,13,Viljo Revell,Viljo Revell,Finnish functionalist architect (1910–1964),Q62633,Q125080
+Q937566,Q6581097,1910-01-25T00:00:00Z,13,Viljo Revell,Viljo Revell,Finnish functionalist architect (1910–1964),Q33,Q125080
+Q9384823,Q6581097,1913-11-18T00:00:00Z,8,Aarre Simonen,Aarre Simonen,Finnish lawyer and politician,Q62633,Q1757
+Q9384823,Q6581097,1913-11-18T00:00:00Z,8,Aarre Simonen,Aarre Simonen,Finnish lawyer and politician,Q33,Q1757
+Q939990,Q6581097,1911-11-24T00:00:00Z,13,Erik Bergman,Erik Bergman,Finnish composer (1911-2006),Q62633,Q664599
+Q939990,Q6581097,1911-11-24T00:00:00Z,13,Erik Bergman,Erik Bergman,Finnish composer (1911-2006),Q33,Q664599
+Q958494,Q6581097,1913-07-12T00:00:00Z,14,Reino Helismaa,Reino Helismaa,"Finnish singer-songwriter, film actor and screenwriter",Q33,Q1757
+Q958494,Q6581097,1913-07-12T00:00:00Z,14,Reino Helismaa,Reino Helismaa,"Finnish singer-songwriter, film actor and screenwriter",Q62633,Q1757

@@ -1,0 +1,538 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q100490194,Q6581097,1997-07-01T00:00:00Z,4,Pa Salieu,Pa Salieu,British rapper,Q1005,Q211907
+Q100714286,Q6581097,1998-02-21T00:00:00Z,11,Sheikh Sibi,Sheikh Sibi,Gambian footballer,Q1005,Q217568
+Q100933765,Q6581072,1983-12-01T00:00:00Z,10,Fatou Baldeh,Fatou Baldeh,Gambian human rights activist and women's rights activist,Q1005,Q2289644
+Q104552686,Q6581097,1998-08-17T00:00:00Z,12,Dembo Darboe,Dembo Darboe,Gambian association football player,Q1005,Q916988
+Q104851024,Q6581097,1994-08-14T00:00:00Z,4,Jizzle (artist),Jizzle,musician,Q1005,Q804275
+Q104872845,Q6581097,2000-06-06T00:00:00Z,6,Saikou Touray,Saikou Touray,Gambian association football player,Q1005,Q1005
+Q10521253,Q6581097,1991-06-02T00:00:00Z,7,Haruna Jammeh,Haruna Jammeh,association football player,Q1005,Q804275
+Q105290445,Q6581097,2000-01-14T00:00:00Z,2,Foday Manneh,Foday Manneh,Gambian footballer,Q1005,Q1005
+Q105337174,Q6581097,1998-12-26T00:00:00Z,6,Pa Omar Jobe,Pa Omar Jobe,Gambian association football player (1998-),Q1005,Q453889
+Q10557668,Q6581097,1989-10-10T00:00:00Z,3,Karamba Janneh,Karamba Janneh,footballer,Q1005,Q3726
+Q106376854,Q6581097,1917-12-16T00:00:00Z,3,E. F. B. Forster,E. F. B. Forster,Ghanaian academic and surgeon,Q1005,Q3726
+Q106519991,Q6581097,2001-06-06T00:00:00Z,19,Ebrima Darboe,Ebrima Darboe,Gambian association football player,Q1005,Q217568
+Q106729586,Q6581097,1993-07-05T00:00:00Z,7,Lamin Colley,Lamin Colley,Gambian-born English footballer,Q1005,Q1005
+Q106772110,Q6581097,2000-09-16T00:00:00Z,7,Ebrima Buaro,Ebrima Buaro,Gambian swimmer,Q1005,Q1188686
+Q1070279,Q6581097,1978-11-23T00:00:00Z,4,Cherno Sowe,Cherno Sowe,Gambian athletics competitor,Q1005,Q1005
+Q1070294,Q6581097,1985-01-10T00:00:00Z,11,Cherno Samba,Cherno Samba,Gambian footballer,Q1005,Q3726
+Q1070294,Q6581097,1985-11-10T00:00:00Z,11,Cherno Samba,Cherno Samba,Gambian footballer,Q1005,Q3726
+Q107197630,Q6581097,1998-09-18T00:00:00Z,8,Omar Gaye,Omar Gaye,Gambian footballer,Q1005,Q3726
+Q107759087,Q6581097,1996-09-11T00:00:00Z,2,Alagie Sanyang,Alagie Sanyang,Swedish association football player,Q34,Q1005
+Q107759087,Q6581097,1996-09-11T00:00:00Z,2,Alagie Sanyang,Alagie Sanyang,Swedish association football player,Q1005,Q1005
+Q108275241,Q6581097,2003-02-11T00:00:00Z,4,Mo Faal,Modou Faal,Gambian footballer,Q1005,Q1005
+Q109068931,Q6581072,2001-11-21T00:00:00Z,2,Catherine Jatta,Catherine Jatta,Gambian footballer,Q1005,
+Q110531197,Q6581097,1998-05-18T00:00:00Z,2,Solomon King Kanform,Solomon King Kanform,Gambian association football player,Q1005,Q3726
+Q111972258,Q6581097,1970-04-14T00:00:00Z,2,Serign Modou Njie,Serign Modou Njie,Gambian politician,Q1005,
+Q112845106,Q6581097,2000-10-17T00:00:00Z,2,Edrissa Marong,Edrissa Marong,Gambian runner (died 2023),Q1005,
+Q113156210,Q6581097,1971-08-15T00:00:00Z,1,Madi Jobarteh,Madi jobarteh,Gambian Human Rights Activist,Q1005,
+Q113577435,Q6581097,2001-06-19T00:00:00Z,5,Momodou Bojang,Momodou Bojang,Gambian footballer (born 2001),Q1005,Q916988
+Q113619151,Q6581097,1984-10-16T00:00:00Z,2,Seedy Njie (politician),Seedy S.K Njie,politician from Gambia,Q1005,Q824431
+Q113619323,Q6581097,1996-01-01T00:00:00Z,2,Abdoulie Njai,Abdoulie Njai,politician from Gambia,Q1005,Q3726
+Q113619543,Q6581097,1980-12-12T00:00:00Z,2,Yunusa N. Bah,Yunusa N. Bah,politician from Gambia,Q1005,
+Q113690899,Q6581097,1996-12-27T00:00:00Z,9,Jacob Mendy,Jacob Mendy,Gambian association football player,Q29,Q1393616
+Q113690899,Q6581097,1996-12-27T00:00:00Z,9,Jacob Mendy,Jacob Mendy,Gambian association football player,Q1005,Q1393616
+Q115399505,Q6581097,2004-07-22T00:00:00Z,27,Yankuba Minteh,Yankuba Minteh,Gambian association football player,Q1005,Q804275
+Q115621819,Q6581097,2000-01-11T00:00:00Z,7,Zakaria Sawo,Zakaria Sawo,Swedish association football player,Q1005,Q1995123
+Q115621819,Q6581097,2000-01-11T00:00:00Z,7,Zakaria Sawo,Zakaria Sawo,Swedish association football player,Q34,Q1995123
+Q115633288,Q6581097,2000-09-29T00:00:00Z,4,Alasan Ann,Alasan Ann,American-Gambian taekwondo athlete (born 2000),Q30,Q983741
+Q115633288,Q6581097,2000-09-29T00:00:00Z,4,Alasan Ann,Alasan Ann,American-Gambian taekwondo athlete (born 2000),Q1005,Q983741
+Q115933,Q6581097,1993-12-20T00:00:00Z,4,Lamin Sarjo Samateh,Lamin Sarjo Samateh,Gambian footballer,Q1005,Q1393605
+Q116935803,Q6581097,2003-02-06T00:00:00Z,6,Mamin Sanyang,Mamin Sanyang,Gambian footballer,Q1005,Q916988
+Q116965713,Q6581097,1998-03-16T00:00:00Z,2,Ebrima Jarju,Ebrima Jarju,Gambian association football player,Q1005,Q2557769
+Q117229673,Q6581097,2004-05-28T00:00:00Z,9,Adama Bojang,Adama Bojang,Gambian footballer,Q1005,Q804275
+Q117229710,Q6581097,2003-01-20T00:00:00Z,6,Alagie Saine,Alagie Saine,Gambian footballer,Q1005,Q1200999
+Q117247490,Q6581097,1959-01-01T00:00:00Z,2,Solo Sandeng,Ebrima Solo Sandeng,Gambian activist and politician,Q1005,
+Q117406393,Q6581097,2000-05-03T00:00:00Z,3,Kalifa Kujabi,Kalifa Kujabi,Gambian footballer,Q38,
+Q117406393,Q6581097,2000-05-03T00:00:00Z,3,Kalifa Kujabi,Kalifa Kujabi,Gambian footballer,Q1005,
+Q1178480,Q6581097,1969-12-22T00:00:00Z,3,Dawda Jallow,Dawda Jallow,Gambian athlete,Q1005,
+Q1178484,Q6581097,1983-11-12T00:00:00Z,11,Dawda Bah,Dawda Bah,Gambian footballer,Q1005,Q3726
+Q1178484,Q6581097,1983-11-18T00:00:00Z,11,Dawda Bah,Dawda Bah,Gambian footballer,Q1005,Q3726
+Q118523868,Q6581097,2003-09-10T00:00:00Z,6,Ebrima Singhateh,Ebrima Singhateh,Gambian association football player,Q1005,
+Q11885519,Q6581097,1992-10-24T00:00:00Z,24,Omar Colley,Omar Colley,Gambian footballer,Q1005,Q3726
+Q1207263,Q6581097,1946-06-09T00:00:00Z,7,Deyda Hydara,Deyda Hydara,Gambian editor (1946-2004),Q1005,Q450062
+Q120736769,Q6581097,2003-04-18T00:00:00Z,5,Sainey Sanyang,Sainey Sanyang,Gambian footballer (born 2003),Q1005,
+Q121157830,Q6581097,2004-01-20T00:00:00Z,1,Dembo Saidykhan,Dembo Saidykhan,Gambian footballer,Q1005,
+Q122732719,Q6581072,2000-11-29T00:00:00Z,5,Sira-Anna Faal,Sira-Anna Faal,Gambian actress,Q183,Q64
+Q122732719,Q6581072,2000-11-29T00:00:00Z,5,Sira-Anna Faal,Sira-Anna Faal,Gambian actress,Q1005,Q64
+Q122829935,Q6581097,1908-01-01T00:00:00Z,1,John Colley Faye,John Colley Faye,"Educationist, Politician, Independent Activist",Q1005,Q3726
+Q124258214,Q6581097,2005-05-28T00:00:00Z,3,Sima Suso,Sima Suso,Gambian association football player,Q1005,Q3117
+Q124329306,Q6581097,2004-08-15T00:00:00Z,9,Mahmudu Bajo,Mahmudu Bajo,Gambian footballer,Q1005,Q1738721
+Q124398184,Q6581097,2005-09-29T00:00:00Z,7,Abdoulie Manneh,Abdoulie Manneh,Gambian association football player,Q1005,
+Q124459952,Q6581097,2004-11-12T00:00:00Z,5,Alasana Yirajang,Alasana Yirajang,Gambian association football player,Q1005,Q1734655
+Q124771699,Q6581097,2003-10-05T00:00:00Z,3,Moses Jarju,Moses Jarju,Gambian professional footballer (born 2003),Q1005,Q1005
+Q1252842,Q6581097,1983-06-13T00:00:00Z,10,Matthew Mendy,Matthew Mendy,Gambian footballer,Q1005,Q217568
+Q1256600,Q6581097,1957-01-01T00:00:00Z,4,Matarr Jarju,Matarr Jarju,Gambian amateur wrestler,Q1005,Q1005
+Q125984332,Q6581097,2006-03-15T00:00:00Z,3,Nuha Jatta,Nuha Jatta,German-Gambian footballer (born 2006),Q183,Q2916
+Q125984332,Q6581097,2006-03-15T00:00:00Z,3,Nuha Jatta,Nuha Jatta,German-Gambian footballer (born 2006),Q1005,Q2916
+Q1262871,Q6581097,1909-07-17T00:00:00Z,7,Pierre Sarr N'Jie,Pierre Sarr N'Jie,Gambian politician (1909-1993),Q1005,Q3726
+Q1266544,Q6581097,1965-07-12T00:00:00Z,6,Mama Kandeh,Mamma Kandeh,Gambian politician,Q1005,
+Q126684712,Q6581097,1987-03-01T00:00:00Z,3,Aly Diouara,Aly Diouara,French politician,Q1005,Q244725
+Q126684712,Q6581097,1987-03-01T00:00:00Z,3,Aly Diouara,Aly Diouara,French politician,Q142,Q244725
+Q126726482,Q6581097,1995-12-11T00:00:00Z,1,Salifu Jatta,Salifu Jatta,Gambian footballer,Q1005,
+Q126897165,Q6581097,1998-06-25T00:00:00Z,3,Adama Sidibeh,Adama Sidibeh,Gambian Footballer,Q1005,
+Q1269369,Q6581097,1980-03-23T00:00:00Z,11,Edrissa Sonko,Edrissa Sonko,Gambian footballer,Q1005,Q1368528
+Q1269369,Q6581097,1980-03-31T00:00:00Z,11,Edrissa Sonko,Edrissa Sonko,Gambian footballer,Q1005,Q1368528
+Q127831219,Q6581097,2000-07-02T00:00:00Z,6,Abubakr Barry,Abubakr Barry,Gambian association football player,Q1005,Q3726
+Q127868957,Q6581097,2005-11-27T00:00:00Z,4,Ousman Jobe,Ousman Jobe,Gambian swimmer,Q1005,
+Q1280033,Q6581097,1943-08-10T00:00:00Z,2,Ebou Dibba,Ebou Dibba,Gambian writer (1943-2000),Q1005,Q3726
+Q1280085,Q6581097,1978-02-18T00:00:00Z,5,Ebrima Manneh,Ebrima Manneh,Gambian journalist,Q1005,Q455163
+Q1280093,Q6581097,1988-12-14T00:00:00Z,17,Ebrima Sohna,Ebrima Sohna,Gambian footballer,Q1005,Q804275
+Q1293644,Q6581097,1968-08-08T00:00:00Z,2,Edward Singateh,Edward Singhatey,politician,Q1005,Q145
+Q1302258,Q6581097,1944-08-12T00:00:00Z,5,Sulayman S. Nyang,Sulayman S. Nyang,Gambian writer (1944–2018),Q1005,Q1005
+Q130461373,Q6581072,2003-04-04T00:00:00Z,3,Sanu Jallow-Lockhart,Sanu Jallow,Gambian athletics competitor,Q30,
+Q130461373,Q6581072,2003-04-04T00:00:00Z,3,Sanu Jallow-Lockhart,Sanu Jallow,Gambian athletics competitor,Q1005,
+Q130487168,Q6581097,2004-01-05T00:00:00Z,7,Abdoulie Ceesay,Abdoulie Ceesay,Gambian footballer (born 2004),Q1005,Q3726
+Q130491975,Q6581097,2000-04-08T00:00:00Z,1,Saikou Ceesay,Saikou Ceesay,Gambian footballer,Q1005,
+Q1306496,Q6581097,1959-02-18T00:00:00Z,6,Paul Ceesay,Paul Ceesay,Gambian athletics competitor,Q1005,Q1005
+Q1307780,Q6581097,1968-02-18T00:00:00Z,3,Ousman Sallah,Ousman Sallah,Gambian athletics competitor,Q1005,Q1005
+Q1316270,Q6581097,1942-09-18T00:00:00Z,2,Fafa Edrissa M'Bai,Fafa Edrissa Mbye,Gambian politician,Q1005,Q2216932
+Q131833623,Q6581097,1934-04-21T00:00:00Z,2,Kalilou Singhateh,Kalilou Singhateh,Gambian politician,Q1005,Q2209357
+Q1325595,Q6581097,2000-01-01T00:00:00Z,2,Mustapha Danso,Mustapha Danso,Gambian soldier,Q1005,
+Q1333750,Q6581097,1988-10-21T00:00:00Z,17,Ousman Jallow,Ousman Jallow,Gambian footballer,Q1005,Q3726
+Q1333808,Q6581097,1989-01-31T00:00:00Z,11,Sanna Nyassi,Sanna Nyassi,Gambian footballer,Q1005,Q1018433
+Q133545694,Q6581097,2003-04-03T00:00:00Z,5,Baboucarr Faal,Baboucarr Faal,Gambian footballer,Q1005,Q3726
+Q1337598,Q6581097,1913-11-14T00:00:00Z,4,William Dixon Colley,William Dixon Colley,Gambian journalist (1913-2001),Q1005,Q3726
+Q1338278,Q6581097,1990-12-20T00:00:00Z,8,Emmanuel Gómez,Emmanuel Gómez,Gambian footballer,Q1005,Q3726
+Q134622972,Q6581097,2006-11-30T00:00:00Z,8,Abubacarr Sedi Kinteh,Abubacarr Sedi Kinteh,Gambian association football player,Q1005,
+Q135615944,Q6581097,2006-01-01T00:00:00Z,3,Fallou Cham,Fallou Cham,Gambian association football player,Q1005,Q1005
+Q136211496,Q6581097,2006-06-28T00:00:00Z,2,Francis Gomez (footballer),Francis Gomez,Gambian footballer,Q1005,Q217568
+Q136214092,Q6581097,2006-04-03T00:00:00Z,3,Alagie Wally,Alagie Wally,Gambian footballer,Q1005,
+Q137799253,Q6581097,2005-01-02T00:00:00Z,2,Karamba Gassama,Karamba Gassama,Gambian footballer,Q1005,Q3726
+Q138030890,Q6581097,2006-12-23T00:00:00Z,4,Elvin Mendy,Elvin Mendy,Gambian footballer,Q1005,
+Q1383161,Q6581097,1987-11-14T00:00:00Z,15,Kebba Ceesay,Kebba Ceesay,Gambian footballer (born 1987),Q1005,Q804275
+Q138480109,Q6581097,1962-02-04T00:00:00Z,2,Sheikh Musa Drammeh,Sheikh Musa Drammeh,"Gambian born Muslim cleric, educator, and community leader",Q30,Q1005
+Q138480109,Q6581097,1962-02-04T00:00:00Z,2,Sheikh Musa Drammeh,Sheikh Musa Drammeh,"Gambian born Muslim cleric, educator, and community leader",Q1005,Q1005
+Q1390067,Q6581097,1952-11-16T00:00:00Z,4,Fabakary Jatta,Fabakary Jatta,Gambian politician,Q1005,Q1013025
+Q1395088,Q6581097,1958-07-16T00:00:00Z,3,Famara Jatta,Famara Jatta,Gambian politician (1958-2012),Q1005,Q3557236
+Q1396088,Q6581097,1946-06-05T00:00:00Z,2,Raymond Sock,Raymond Sock,Gambian judge and politician,Q1005,Q3726
+Q1398231,Q6581072,1954-02-10T00:00:00Z,6,Fatou Lamin Faye,Fatou Lamin Faye,politician,Q1005,
+Q1398232,Q6581072,2000-01-01T00:00:00Z,6,Fatou Mass Jobe-Njie,Fatou Mass Jobe-Njie,Gambian politician,Q1005,Q217568
+Q1398236,Q6581072,1949-10-22T00:00:00Z,17,Fatoumata Tambajang,Fatoumata Tambajang,Gambian politician and activist,Q1005,Q916988
+Q140799756,Q6581097,2007-02-24T00:00:00Z,1,Muhammed Bah,Muhammed Bah,Gambian footballer,Q1005,
+Q1412076,Q6581097,1924-10-22T00:00:00Z,9,Alieu Ebrima Cham Joof,Alieu Ebrima Cham Joof,Gambian politician (1924-2011),Q1005,Q3726
+Q141605165,Q6581097,1928-01-01T00:00:00Z,1,Momodou Jallow,Momodou Jallow,Gambian trade union leader and politician,Q1005,Q1002786
+Q1435087,Q6581097,1950-02-18T00:00:00Z,8,Foday Musa Suso,Foday Musa Suso,Gambian musician,Q1005,Q2224804
+Q1435087,Q6581097,1950-02-18T00:00:00Z,8,Foday Musa Suso,Foday Musa Suso,Gambian musician,Q912,Q2224804
+Q1439231,Q6581072,1979-07-27T00:00:00Z,5,Ndey Tapha Sosseh,Ndey Tapha Sosseh,Gambian journalist and unionist,Q1005,Q3726
+Q1442290,Q6581072,1963-10-09T00:00:00Z,6,Teneng Mba Jaiteh,Teneng Mba Jaiteh,Gambian politician,Q1005,
+Q14774514,Q6581097,1994-06-14T00:00:00Z,13,Ali Sowe,Ali Sowe,Gambian footballer,Q1005,Q3726
+Q14941849,Q6581072,1953-06-07T00:00:00Z,4,Aminatta N'gum,Aminatta N'gum,Gambian lawyer,Q1005,
+Q14941849,Q6581072,1953-06-07T00:00:00Z,4,Aminatta N'gum,Aminatta N'gum,Gambian lawyer,Q954,
+Q15058935,Q6581097,1994-10-15T00:00:00Z,12,Hamza Barry,Hamza Barry,Gambian association football player,Q1005,Q3726
+Q1509330,Q6581072,1956-03-24T00:00:00Z,7,Georgiana Freeman,Georgiana Freeman,Gambian athlete,Q1005,
+Q1525179,Q6581097,1955-05-01T00:00:00Z,3,Kalifa Kambi,Kalifa Kambi,Gambian politician (1955-2011),Q1005,Q1728958
+Q1550525,Q6581072,2000-01-01T00:00:00Z,6,Tuti Faal,Tuti Faal,former first lady of the Gambia,Q1005,Q1738464
+Q1552930,Q6581097,1984-06-18T00:00:00Z,7,Pa Amadou Gai,Pa Amadou Gai,Gambian footballer,Q1005,Q804275
+Q1572664,Q6581097,1960-05-01T00:00:00Z,6,Hamat Bah,Hamat Bah,Gambian politician,Q1005,Q1554897
+Q15843831,Q6581097,1995-11-02T00:00:00Z,7,Saloum Faal,Saloum Faal,Gambian footballer,Q1005,Q217568
+Q15843831,Q6581097,1994-10-10T00:00:00Z,7,Saloum Faal,Saloum Faal,Gambian footballer,Q1005,Q217568
+Q1591578,Q6581072,2000-01-01T00:00:00Z,7,Hawa Sisay-Sabally,Hawa Sisay-Sabally,Gambian politician,Q1005,Q1005
+Q1599106,Q6581097,1952-12-01T00:00:00Z,7,Kukoi Sanyang,Kukoi Sanyang,Gambian revolutionary (1952-2013),Q1005,Q1724253
+Q16060906,Q6581097,1944-03-22T00:00:00Z,2,Alieu Badara Saja Taal,Alieu Badara Saja Taal,Gambian academic and politician,Q1005,Q1005
+Q1620941,Q6581072,1962-04-18T00:00:00Z,8,Jabou Jawo,Jabou Jawo,Athlete from Gambia,Q1005,Q3726
+Q1620941,Q6581072,1962-04-13T00:00:00Z,8,Jabou Jawo,Jabou Jawo,Athlete from Gambia,Q1005,Q3726
+Q16213470,Q6581097,1971-01-01T00:00:00Z,4,Hassoum Ceesay,Hassoum Ceesay,Gambian writer,Q1005,Q3726
+Q16233266,Q6581097,1990-06-18T00:00:00Z,3,Isaac Jones (sprinter),Isaac Jones,Gambian sprinter,Q1005,
+Q16240184,Q6581097,1997-06-23T00:00:00Z,2,Folarin Ogunsola,Folarin Ogunsola,Gambian swimmer,Q1005,Q84
+Q16240184,Q6581097,1997-06-23T00:00:00Z,2,Folarin Ogunsola,Folarin Ogunsola,Gambian swimmer,Q145,Q84
+Q1625402,Q6581097,1944-07-24T00:00:00Z,4,Momodou Lamin Sedat Jobe,Momodou Lamin Sedat Jobe,Gambian politician,Q1005,Q806951
+Q16300721,Q6581097,1994-03-17T00:00:00Z,7,Modou Jadama,Modou Jadama,Gambian footballer (1994–2024),Q1005,Q217568
+Q16300721,Q6581097,1994-03-17T00:00:00Z,7,Modou Jadama,Modou Jadama,Gambian footballer (1994–2024),Q30,Q217568
+Q164492,Q6581097,1958-07-20T00:00:00Z,6,Bala Garba Jahumpa,Bala Garba Jahumpa,Gambian politician,Q1005,Q3726
+Q16599556,Q6581097,1951-08-16T00:00:00Z,5,Saihou Sarr,Saihou Sarr,Gambian association football player,Q1005,Q1005
+Q16727796,Q6581097,1966-01-01T00:00:00Z,3,Juldeh Camara,Juldeh Camara,Gambian musician,Q1005,
+Q17037445,Q6581097,1996-01-15T00:00:00Z,15,Sulayman Marreh,Sulayman Marreh,Gambian association football player,Q1005,Q335811
+Q1707217,Q6581097,1960-10-25T00:00:00Z,3,Joseph Henry Joof,Joseph Henry Joof,Gambian publisher,Q1005,
+Q17123676,Q6581097,1993-05-23T00:00:00Z,8,Hugo Silveira,Hugo Silveira,Spain association football player,Q1005,Q985379
+Q1713504,Q6581097,1957-08-08T00:00:00Z,6,Sang Ndong,Sang Ndong,Gambian football manager,Q1005,Q3726
+Q17180964,Q6581097,1996-06-06T00:00:00Z,18,Noah Sonko Sundberg,Noah Sonko Sundberg,Swedish footballer,Q1005,Q1754
+Q17180964,Q6581097,1996-06-06T00:00:00Z,18,Noah Sonko Sundberg,Noah Sonko Sundberg,Swedish footballer,Q34,Q1754
+Q17306078,Q6581072,1953-01-01T00:00:00Z,4,Fatou Jaw-Manneh,Fatou Jaw-Manneh,Gambian journalist,Q1005,Q1005
+Q1736202,Q6581097,1964-01-01T00:00:00Z,3,Maba Jobe,Maba Jobe,Gambian diploomat,Q1005,Q1200999
+Q174328,Q6581097,1964-11-10T00:00:00Z,5,Lamin Kaba Bajo,Lamin Kaba Bajo,Gambian politician,Q1005,Q916988
+Q17464742,Q6581097,1953-11-11T00:00:00Z,3,Buba Baldeh,Buba Baldeh,Gambian politician and journalist (1953-2014),Q1005,Q1891066
+Q1749174,Q6581097,1904-10-17T00:00:00Z,3,Alieu Badara Njie,Alieu Badara N’Jie,Gambian politician (1904-1982),Q1005,Q3726
+Q17619317,Q6581097,1995-10-22T00:00:00Z,24,Saidy Janko,Saidy Janko,Swiss footballer,Q38,Q72
+Q17619317,Q6581097,1995-10-22T00:00:00Z,24,Saidy Janko,Saidy Janko,Swiss footballer,Q39,Q72
+Q17619317,Q6581097,1995-10-22T00:00:00Z,24,Saidy Janko,Saidy Janko,Swiss footballer,Q1005,Q72
+Q176385,Q6581097,1981-10-01T00:00:00Z,7,Lamin Conateh,Lamin Conateh,Gambian footballer,Q1005,Q804275
+Q176771,Q6581097,1951-08-14T00:00:00Z,14,Hassan Bubacar Jallow,Hassan Bubacar Jallow,Gambian politician and lawyer,Q1005,Q806951
+Q17711256,Q6581097,1922-07-09T00:00:00Z,2,Phillip Bridges,Phillip Bridges,Barrister and Judge,Q174193,Q208257
+Q17711256,Q6581097,1922-07-09T00:00:00Z,2,Phillip Bridges,Phillip Bridges,Barrister and Judge,Q1005,Q208257
+Q17711256,Q6581097,1922-07-09T00:00:00Z,2,Phillip Bridges,Phillip Bridges,Barrister and Judge,Q145,Q208257
+Q1776080,Q6581097,1989-10-22T00:00:00Z,6,Omar Koroma,Omar Koroma,Gambian footballer,Q1005,Q3726
+Q1799363,Q6581097,1943-03-12T00:00:00Z,5,Laba Sosseh,Laba Sosseh,Gambian musician (1943–2007),Q1005,Q3726
+Q1799363,Q6581097,1943-03-12T00:00:00Z,5,Laba Sosseh,Laba Sosseh,Gambian musician (1943–2007),Q1041,Q3726
+Q1801553,Q6581097,1978-12-29T00:00:00Z,2,Lamin Drammeh,Lamin Drammeh,Gambian sprinter,Q1005,
+Q1801553,Q6581097,1978-10-26T00:00:00Z,2,Lamin Drammeh,Lamin Drammeh,Gambian sprinter,Q1005,
+Q1801555,Q6581097,1970-03-14T00:00:00Z,3,Lamin Marikong,Lamin Marikong,Gambian athletics competitor,Q1005,
+Q18044346,Q6581097,1994-03-05T00:00:00Z,17,Hassane Kamara,Hassane Kamara,Ivoirian and French footballer,Q142,Q160506
+Q18044346,Q6581097,1994-03-05T00:00:00Z,17,Hassane Kamara,Hassane Kamara,Ivoirian and French footballer,Q1008,Q160506
+Q18044346,Q6581097,1994-03-05T00:00:00Z,17,Hassane Kamara,Hassane Kamara,Ivoirian and French footballer,Q1005,Q160506
+Q18044346,Q6581097,1994-03-05T00:00:00Z,17,Hassane Kamara,Hassane Kamara,Ivoirian and French footballer,Q912,Q160506
+Q18044483,Q6581097,1988-03-13T00:00:00Z,7,Ousman Krubally,Ousman Krubally,American basketball player,Q1005,Q23556
+Q18044483,Q6581097,1988-03-13T00:00:00Z,7,Ousman Krubally,Ousman Krubally,American basketball player,Q30,Q23556
+Q1811447,Q6581097,1986-06-27T00:00:00Z,8,Dawda Leigh,Dawda Leigh,Norwegian footballer,Q1005,Q585
+Q1811447,Q6581097,1986-06-27T00:00:00Z,8,Dawda Leigh,Dawda Leigh,Norwegian footballer,Q20,Q585
+Q18377881,Q6581097,1957-04-13T00:00:00Z,3,Jaliba Kuyateh,Jaliba Kuyateh,Gambian musician,Q1005,Q1572217
+Q18529119,Q6581097,1912-11-22T00:00:00Z,3,I. M. Garba-Jahumpa,Ibrahima Garba Jahumpa,Gambian politician (1912–1994),Q1005,Q3726
+Q1872177,Q6581072,1922-01-23T00:00:00Z,6,Louise N'Jie,Louise N’Jie,Gambian politician (1922-2014),Q1005,Q3726
+Q1873742,Q6581072,1913-01-01T00:00:00Z,5,Lucretia St. Clair Joof,Lucretia St. Clair Joof,Gambian politician (1913-1982),Q1005,Q3726
+Q1883334,Q6581097,1957-05-05T00:00:00Z,6,Madi Ceesay,Madi Ceesay,Gambian journalist,Q1005,Q1475266
+Q1888110,Q6581097,1965-06-04T00:00:00Z,7,Mamadou Tangara,Mamadou Tangara,Gambian diplomat and politician,Q1005,Q3726
+Q1894851,Q6581072,1960-01-01T00:00:00Z,4,Margaret Keita,Margaret Keita,Gambian politician,Q1005,
+Q1897476,Q6581072,1973-04-25T00:00:00Z,7,Marie Saine-Firdaus,Marie Saine-Firdaus,Gambian politician,Q1005,
+Q19308493,Q6581072,1998-04-25T00:00:00Z,13,Satou Sabally,Satou Sabally,German-American basketball player (born 1998),Q1005,Q60
+Q19308493,Q6581072,1998-04-25T00:00:00Z,13,Satou Sabally,Satou Sabally,German-American basketball player (born 1998),Q183,Q60
+Q19308493,Q6581072,1998-04-25T00:00:00Z,13,Satou Sabally,Satou Sabally,German-American basketball player (born 1998),Q30,Q60
+Q1942202,Q6581097,1983-02-14T00:00:00Z,6,Modou Jagne,Modou Jagne,Gambian footballer,Q1005,Q3726
+Q1943804,Q6581097,1975-08-26T00:00:00Z,4,Momar Njie,Momar Njie,Gambian footballer,Q1005,Q1572202
+Q1943877,Q6581097,1978-10-26T00:00:00Z,2,Momodou Drammeh,Momodou Drammeh,Gambian sprinter,Q1005,
+Q1953955,Q6581097,1946-08-13T00:00:00Z,5,Musa Gibril Bala Gaye,Musa Gibril Bala Gaye,Gambian politician,Q1005,
+Q1955595,Q6581097,1930-10-01T00:00:00Z,2,Mustapha B. Wadda,Mustapha B. Wadda,Gambian politician (1930-2010),Q1005,Q3726
+Q1955615,Q6581097,1986-07-18T00:00:00Z,10,Mustapha Jarju,Mustapha Jarju,Gambian footballer,Q1005,Q3726
+Q19668410,Q6581072,1951-01-01T00:00:00Z,7,Hannah Valantine,Hannah Valantine,Professor of Cardiovascular Medicine,Q30,Q1005
+Q19668410,Q6581072,1951-01-01T00:00:00Z,7,Hannah Valantine,Hannah Valantine,Professor of Cardiovascular Medicine,Q1005,Q1005
+Q1977312,Q6581072,1957-04-08T00:00:00Z,10,Neneh MacDouall-Gaye,Neneh MacDouall-Gaye,Gambian politician and diplomat,Q1005,Q3726
+Q20015377,Q6581072,1956-03-23T00:00:00Z,6,Elizabeth Ya Eli Harding,Elizabeth Ya Eli Harding,Gambian diplomat,Q1005,Q1005
+Q2005862,Q6581097,1925-01-01T00:00:00Z,4,Jali Nyama Suso,Jali Nyama Suso,Gambian musician (1925–1991),Q1005,Q804275
+Q2006110,Q6581072,1941-01-01T00:00:00Z,9,Nyimasata Sanneh-Bojang,Nyimasata Sanneh-Bojang,Gambian politician (1941–2015),Q1005,Q992037
+Q2020364,Q6581097,1991-02-21T00:00:00Z,5,Paul Jatta,Paul Jatta,Gambian footballer,Q1005,Q3726
+Q2023104,Q6581097,1992-11-01T00:00:00Z,4,Omar Jasseh,Omar Jasseh,Gambian footballer,Q1005,Q3726
+Q2023106,Q6581097,1989-01-01T00:00:00Z,4,Omar Jatta,Omar Jatta,Gambian footballer,Q1005,Q916988
+Q2023139,Q6581097,1941-02-02T00:00:00Z,3,Omar Sey,Omar Sey,Gambian politician (1941–2018),Q1005,Q153498
+Q2023146,Q6581097,1965-11-05T00:00:00Z,4,Omar Touray,Omar Touray,Gambian diplomat and politician,Q1005,Q1005
+Q20249419,Q6581097,1979-08-08T00:00:00Z,2,Pierre Jallow,Pierre Jallow,Gambian basketball player (born 1979),Q1005,
+Q2041811,Q6581097,1953-08-13T00:00:00Z,5,Ousman Jammeh,Ousman Jammeh,Gambian politician,Q1005,Q916988
+Q2041820,Q6581097,1988-10-18T00:00:00Z,9,Ousman Koli,Ousman Koli,Gambian footballer,Q1005,Q804275
+Q204389,Q6581072,1977-10-05T00:00:00Z,7,Zeinab Jammeh,Zeineb Jammeh,First Lady of The Gambia,Q1005,Q3551
+Q2044966,Q6581097,1980-03-31T00:00:00Z,10,Pa Dembo Touray,Pa Dembo Touray,Gambian footballer,Q1005,Q3726
+Q2044971,Q6581097,1984-12-26T00:00:00Z,6,Pa Ousman Sonko,Pa Ousman Sonko,Gambian association football player,Q1005,Q3726
+Q2050465,Q6581097,1942-06-01T00:00:00Z,3,Pap Cheyassin Secka,Pap Cheyassin Secka,"Gambian lawyer, civil servant",Q1005,Q3726
+Q2050499,Q6581097,1947-09-29T00:00:00Z,4,Papa Susso,Papa Susso,Gambian musician,Q1005,Q1681392
+Q20652756,Q6581072,1983-02-05T00:00:00Z,5,Kumba (Swedish rapper),Kumba,"Swedish-Gambian singer, rapper and model",Q1005,Q1005
+Q20652756,Q6581072,1983-02-05T00:00:00Z,5,Kumba (Swedish rapper),Kumba,"Swedish-Gambian singer, rapper and model",Q1005,Q217568
+Q20652756,Q6581072,1983-02-05T00:00:00Z,5,Kumba (Swedish rapper),Kumba,"Swedish-Gambian singer, rapper and model",Q34,Q1005
+Q20652756,Q6581072,1983-02-05T00:00:00Z,5,Kumba (Swedish rapper),Kumba,"Swedish-Gambian singer, rapper and model",Q34,Q217568
+Q2074037,Q6581097,1963-05-10T00:00:00Z,8,Peter Bonu Johnson,Peter Bonu Johnson,Gambian football player and manager (1963-2019),Q1005,Q3726
+Q2074312,Q6581097,1959-02-18T00:00:00Z,4,Peter Ceesay,Peter Ceesay,Gambian middle-distance runner,Q1005,Q1005
+Q20753092,Q6581097,1997-03-10T00:00:00Z,7,Ousman Manneh,Ousman Manneh,association football player,Q1005,Q31839593
+Q20888459,Q6581097,1993-06-10T00:00:00Z,9,Adama Jammeh (sprinter),Adama Jammeh,Gambian sprinter,Q1005,Q450062
+Q2091886,Q6581097,1989-01-31T00:00:00Z,11,Sainey Nyassi,Sainey Nyassi,Gambian footballer,Q1005,Q1018433
+Q21067112,Q6581097,1992-06-10T00:00:00Z,9,Omar Jagne,Omar Jagne,Gambian association football player,Q1005,Q1005
+Q21104180,Q6581097,1967-10-10T00:00:00Z,3,Gibril Faal,Gibril Faal,British-Gambian business executive,Q1005,
+Q21104180,Q6581097,1967-10-10T00:00:00Z,3,Gibril Faal,Gibril Faal,British-Gambian business executive,Q145,
+Q21477438,Q6581097,1994-11-10T00:00:00Z,16,Bubacarr Trawally,Bubacarr Trawally,Gambian association football player,Q1005,Q217568
+Q2156416,Q6581097,1984-02-20T00:00:00Z,4,Robert Badjie,Robert Badjie,Gambian football goalkeeper,Q1005,Q3726
+Q21587886,Q6581097,1994-11-14T00:00:00Z,17,Bubacarr Sanneh,Bubacarr Sanneh,association football player,Q1005,Q3726
+Q21621123,Q6581097,1992-08-03T00:00:00Z,3,Alieu Darbo,Alieu Darbo,Gambian association football player,Q1005,Q538008
+Q21872586,Q6581097,1980-06-21T00:00:00Z,4,Mattar M'Boge,Mattar M'Boge,Gambian association football manager,Q1005,Q3726
+Q21997825,Q6581097,1953-01-01T00:00:00Z,2,Ablie Jagne,Ablie Jagne,association football player,Q1005,
+Q22006596,Q6581097,1962-06-27T00:00:00Z,2,Mambury Njie,Mambury Njie,Gambian diplomat,Q1005,Q3726
+Q2211138,Q6581097,1964-04-01T00:00:00Z,2,Sadibou Hydara,Sadibou Hydara,politician,Q1005,Q217568
+Q2214702,Q6581072,1977-01-01T00:00:00Z,8,Sally Singhateh,Sally Singhateh,Gambian writer,Q1005,Q3726
+Q22280234,Q6581097,1997-02-08T00:00:00Z,3,Saint (rapper),Saint,Gambian musician,Q1005,Q217568
+Q2277755,Q6581097,1960-01-10T00:00:00Z,8,Sheikh Omar Faye,Sheikh Omar Faye,Gambian politician and athletics competitor,Q1005,Q3726
+Q2277758,Q6581097,1948-02-19T00:00:00Z,2,Sheikh Faye,Sheikh Tidiane Faye,Gambian athletics competitor,Q1005,
+Q2278295,Q6581097,1937-01-10T00:00:00Z,6,Sheriff Mustapha Dibba,Sheriff Mustapha Dibba,Gambian politician (1937–2008),Q1005,Q1200999
+Q2281867,Q6581097,1947-12-02T00:00:00Z,2,Sidi Moro Sanneh,Sidi Moro Sanneh,Gambian politician,Q1005,Q3726
+Q2281872,Q6581097,1945-01-01T00:00:00Z,7,Sidia Jatta,Sidia Jatta,Gambian academic and politician,Q1005,Q1149283
+Q2290164,Q6581072,2000-01-01T00:00:00Z,4,Sirra Wally Ndow-Njie,Sirra Wally Ndow-Njie,politician from the Gambia,Q1005,
+Q22959014,Q6581097,1997-02-02T00:00:00Z,4,Mousa Balla Sowe,Mousa Balla Sowe,Gambian footballer,Q1005,Q3726
+Q2299240,Q6581097,1954-02-27T00:00:00Z,4,Solomon Tilewa Johnson,Solomon Tilewa Johnson,Archbishop of West Africa (1954-2014),Q1005,Q3726
+Q23541005,Q6581097,1994-11-21T00:00:00Z,6,Bubacarr Jobe,Bubacarr Jobe,association football player,Q1005,Q217568
+Q2368962,Q6581072,1960-10-04T00:00:00Z,7,Susan Waffa-Ogoo,Susan Waffa-Ogoo,Gambian foreign minister,Q1005,Q217568
+Q23772063,Q6581072,1974-10-01T00:00:00Z,8,Mama Fatima Singhateh,Mama Fatima Singhateh,"Gambian lawyer, judge, and politician",Q1005,
+Q24018735,Q6581097,1969-01-09T00:00:00Z,5,Ousman Sonko,Ousman Sonko,Gambian politician,Q1005,Q217568
+Q240493,Q6581097,1951-09-26T00:00:00Z,6,Abu Bakarr Gaye,Abu Bakarr Gaye,Gambian physician and politician (1951-2010),Q1005,Q450062
+Q24572648,Q6581072,1989-01-01T00:00:00Z,18,Jaha Dukureh,Jaha Dukureh,Gambian women's rights activist,Q1005,Q1005
+Q24577799,Q6581097,1998-06-06T00:00:00Z,13,Bakery Jatta,Bakery Jatta,Gambian association football player,Q1005,Q687816
+Q24827260,Q6581097,1993-11-23T00:00:00Z,12,Faye Njie,Faye Njie,Finnish judoka (1993-),Q33,Q1757
+Q24827260,Q6581097,1993-11-23T00:00:00Z,12,Faye Njie,Faye Njie,Finnish judoka (1993-),Q1005,Q1757
+Q248938,Q6581097,1990-04-23T00:00:00Z,40,Mathias Jørgensen,Mathias Jørgensen,Danish association football player (born 1990),Q1005,Q1748
+Q248938,Q6581097,1990-04-23T00:00:00Z,40,Mathias Jørgensen,Mathias Jørgensen,Danish association football player (born 1990),Q756617,Q1748
+Q24942297,Q6581097,1995-12-18T00:00:00Z,11,Lamin Jallow,Lamin Jallow,Gambian association football player (born 1994),Q1005,Q3726
+Q24942297,Q6581097,1994-07-22T00:00:00Z,11,Lamin Jallow,Lamin Jallow,Gambian association football player (born 1994),Q1005,Q3726
+Q24951757,Q6581072,1995-05-03T00:00:00Z,16,Gina Mariam Bass Bittaye,Gina Bass,Gambian female sprinter,Q1005,Q3532781
+Q2522720,Q6581072,2000-01-01T00:00:00Z,6,Victoria Decka,Victoria Decka,Gambian sprinter,Q1005,
+Q25747407,Q6581097,1977-10-10T00:00:00Z,5,Pa Mamadou Gai,Pa Mamadou Gai,Gambian athletics competitor,Q1005,Q1005
+Q2577344,Q6581097,1986-07-21T00:00:00Z,12,Alagie Sosseh,Alagie Sosseh,Gambian Swedish association football player,Q1005,Q1754
+Q25915726,Q6581097,1990-09-02T00:00:00Z,8,Dawda Ngum,Dawda Ngum,association football player,Q1005,Q3726
+Q25999659,Q6581072,1952-03-31T00:00:00Z,5,Mary Sey,Mary Sey,Gambian judge,Q1005,Q3726
+Q25999659,Q6581072,1952-03-31T00:00:00Z,5,Mary Sey,Mary Sey,Gambian judge,Q1005,Q69280370
+Q26046183,Q6581097,1996-07-28T00:00:00Z,7,Yankuba Sima,Yankuba Sima,Spanish basketball player (born 1996),Q29,Q7038
+Q26046183,Q6581097,1996-07-28T00:00:00Z,7,Yankuba Sima,Yankuba Sima,Spanish basketball player (born 1996),Q1005,Q7038
+Q26130518,Q6581097,1996-07-19T00:00:00Z,12,Sheriff Sinyan,Sheriff Sinyan,Norwegian association football player,Q1005,Q585
+Q26130518,Q6581097,1996-07-19T00:00:00Z,12,Sheriff Sinyan,Sheriff Sinyan,Norwegian association football player,Q20,Q585
+Q26132197,Q6581097,1994-11-04T00:00:00Z,4,Ismaila Jome,Ismaila Jome,Gambia association football player,Q1005,Q3726
+Q26132240,Q6581097,1994-09-13T00:00:00Z,3,Jibril Bojang,Jibril Bojang,Norwegian-Gambian association football player,Q1005,Q585
+Q26405960,Q6581097,1994-03-17T00:00:00Z,18,Assan Ceesay,Assan Ceesay,Gambian association football player (born 1994),Q1005,Q3726
+Q2646605,Q6581097,1960-08-24T00:00:00Z,2,Abdoulie Cham,Alhaji Abdoulie Cham,Gambia politician,Q1005,
+Q26704908,Q6581097,1997-07-01T00:00:00Z,7,Pap Jonga,Pap Jonga,Gambian swimmer,Q1005,Q450062
+Q27541581,Q6581072,1955-03-17T00:00:00Z,16,Isatou Touray,Isatou Touray,"Gambian politician, activist, and social reformer",Q1005,Q3726
+Q27683833,Q6581072,1997-03-10T00:00:00Z,11,Fatim Jawara,Fatim Jawara,Gambian association footballer (1997-2016),Q1005,Q217568
+Q27826289,Q6581072,1966-08-01T00:00:00Z,11,Fatima Denton,Fatima Denton,Gambian Director of the United Nations University Institute for Natural Resources in Africa (UNU-INRA),Q1005,Q1005
+Q27917049,Q6581097,1965-02-15T00:00:00Z,62,Adama Barrow,Adama Barrow,3rd President of the Gambia,Q1005,Q1891066
+Q27922200,Q6581072,1910-10-03T00:00:00Z,3,Rosamond Fowlis,Rosamond Fowlis,"Gambian schoolteacher, domestic science organizer, Girl Guides commissioner and chair of the Gambia Women's Federation",Q1005,Q3726
+Q28039572,Q6581097,1979-01-01T00:00:00Z,8,Babou Ceesay,Babou Ceesay,British actor,Q1005,Q84
+Q28039572,Q6581097,1979-01-01T00:00:00Z,8,Babou Ceesay,Babou Ceesay,British actor,Q145,Q84
+Q28051497,Q6581097,1994-05-11T00:00:00Z,3,Emil Sambou,Emil Sambou,association football player,Q1005,Q2284636
+Q2824469,Q6581072,1992-03-05T00:00:00Z,4,Adja Konteh,Adja Konteh,French basketball player (born 1992),Q1005,Q12191
+Q2824469,Q6581072,1992-03-05T00:00:00Z,4,Adja Konteh,Adja Konteh,French basketball player (born 1992),Q142,Q12191
+Q28341380,Q6581097,1995-03-15T00:00:00Z,6,Lamin Jawo,Lamin Jawo,Gambian footballer (born 1995),Q1005,Q3726
+Q2836043,Q6581097,1933-12-15T00:00:00Z,4,Bai Modi Joof,Alhaji Bai Modi Joof,Gambian lawyer (1933-1993),Q1005,Q1188137
+Q28530077,Q6581097,1968-08-13T00:00:00Z,5,Masaneh Kinteh,Masaneh Kinteh,senior Gambian Army officer,Q1005,Q2222431
+Q28531806,Q6581097,1964-05-02T00:00:00Z,3,Yankuba Sonko,Yankuba Sonko,Inspector General of the Gambian Police,Q1005,
+Q28600165,Q6581097,1967-11-15T00:00:00Z,5,Ousman Badjie,Ousman Badjie,Gambian Chief of the Defence Staff,Q1005,Q2280805
+Q28654241,Q6581097,1952-01-01T00:00:00Z,5,Dembo M. Badjie,Dembo M. Badjie,politician,Q1005,Q806951
+Q28732952,Q6581097,1972-12-12T00:00:00Z,8,Abubacarr Tambadou,Ba Tambadou,Gambian lawyer and politician,Q1005,
+Q28777466,Q6581097,1996-06-22T00:00:00Z,8,Yusupha Bobb,Yusupha Bobb,association football player,Q1005,Q3726
+Q2880181,Q6581097,1979-02-10T00:00:00Z,25,Bakary Gassama,Bakary Gassama,Gambian football referee,Q1005,Q3726
+Q28803099,Q6581097,1950-01-01T00:00:00Z,3,Dawda Fadera,Dawda Fadera,Gambian politician,Q1005,
+Q28836800,Q6581072,1958-10-15T00:00:00Z,4,Claudiana Cole,Claudiana Cole,politician,Q1005,Q3726
+Q28839644,Q6581097,2000-01-01T00:00:00Z,3,Amadou Sanneh,Amadou Sanneh,politician,Q1005,
+Q28839661,Q6581097,1974-02-03T00:00:00Z,2,Samba Jallow,Samba Jallow,politician,Q1005,
+Q28839669,Q6581097,1942-01-01T00:00:00Z,3,Momodou L. K. Sanneh,Momodou L. K. Sanneh,Gambian politician,Q1005,Q810746
+Q28840046,Q6581072,1954-01-01T00:00:00Z,8,Binta Jammeh-Sidibe,Binta Jammeh-Sidibe,Gambian activist,Q1005,Q3726
+Q28842315,Q6581097,1950-01-01T00:00:00Z,2,Lamin N. Dibba,Lamin N. Dibba,Gambian politician,Q1005,Q2214344
+Q28843913,Q6581097,1950-01-01T00:00:00Z,7,Badara Joof,Badara Joof,Gambian politician,Q1005,
+Q28858891,Q6581072,1950-01-01T00:00:00Z,3,Rosamond S. King,Rosamond S. King,American poet and literary theorist,Q1005,Q30
+Q28861463,Q6581097,1950-01-01T00:00:00Z,2,Momodou Alieu Bah,Momodou Alieu Bah,Gambian politician,Q1005,
+Q28868881,Q6581072,1983-11-13T00:00:00Z,7,Fatim Badjie,Fatim Badjie,politician,Q1005,Q3726
+Q28868882,Q6581072,1950-01-01T00:00:00Z,3,Saffie Lowe Ceesay,Saffie Lowe Ceesay,politician,Q1005,
+Q28924985,Q6581097,1947-01-01T00:00:00Z,2,Lamin Saine,Lamin Saine,politician,Q1005,
+Q28925135,Q6581097,1950-01-01T00:00:00Z,3,Mai Fatty,Mai Fatty,politician,Q1005,Q1540192
+Q28925177,Q6581097,1950-01-01T00:00:00Z,2,Modou Bamba Gaye,Modou Bamba,Gambian politician,Q1005,
+Q28940801,Q6581097,1950-01-01T00:00:00Z,2,Ebrima Mballow,Ebrima Mballow,Gambian politician,Q1005,Q1891066
+Q28966413,Q6581072,1950-01-01T00:00:00Z,5,Fatou Camara (journalist),Fatou Camara,Gambian television presenter and journalist,Q1005,Q3726
+Q29034390,Q6581097,1998-02-24T00:00:00Z,13,Baboucarr Gaye,Baboucarr Gaye,Gambian association football player,Q1005,Q2112
+Q29437065,Q6581097,1950-01-01T00:00:00Z,3,Fafa Sanyang,Fafa Sanyang,Gambian politician,Q1005,
+Q29537096,Q6581097,1946-10-26T00:00:00Z,4,Omar A. Jallow,Omar A. Jallow,politician,Q1005,
+Q29573264,Q6581072,1970-08-30T00:00:00Z,4,Fatoumatta Njai,Fatoumatta Njai,Gambian politician,Q1005,Q3726
+Q29577935,Q6581097,1977-01-01T00:00:00Z,2,Muhammed Magassy,Muhammed Magassy,Gambian politician,Q1005,Q1753996
+Q29580200,Q6581072,1955-12-29T00:00:00Z,8,Mariam Jack-Denton,Mariam Jack-Denton,Gambian politician,Q1005,Q3726
+Q29980386,Q6581097,1994-01-03T00:00:00Z,10,Yusupha Njie,Yusupha Njie,association football player,Q1005,Q3726
+Q29980386,Q6581097,1994-03-01T00:00:00Z,10,Yusupha Njie,Yusupha Njie,association football player,Q1005,Q3726
+Q30501964,Q6581072,1992-07-30T00:00:00Z,11,Khadija Saye,Khadija Saye,Gambian-British photographer (1992–2017),Q145,Q84
+Q30501964,Q6581072,1992-07-30T00:00:00Z,11,Khadija Saye,Khadija Saye,Gambian-British photographer (1992–2017),Q1005,Q84
+Q308334,Q6581097,1990-12-22T00:00:00Z,6,Abdou Darboe,Abdou Darboe,Gambian footballer,Q1005,Q3726
+Q308343,Q6581097,1986-02-13T00:00:00Z,14,Abdou Jammeh,Abdou Jammeh,Gambian footballer,Q1005,Q804275
+Q308351,Q6581097,1970-01-01T00:00:00Z,5,Abdou Kolley,Abdou Kolley,Gambian politician,Q1005,Q1005
+Q308355,Q6581097,1991-12-27T00:00:00Z,11,Abdou Rahman Dampha,Abdou Rahman Dampha,Gambian footballer,Q1005,Q3726
+Q308425,Q6581097,1960-02-17T00:00:00Z,2,Abdoulie Bojang,Abdoulie Bojang,Gambian politician,Q1005,Q1782577
+Q308427,Q6581097,1982-06-09T00:00:00Z,8,Abdoulie Corr,Abdoulie Corr,Gambian footballer,Q1005,Q3726
+Q308438,Q6581097,1989-01-27T00:00:00Z,16,Abdoulie Mansally,Kenny Mansally,Gambian footballer,Q1005,Q3726
+Q30876567,Q6581097,1950-01-01T00:00:00Z,3,Landing Kinteh,Landing Kinteh,Gambian lawyer,Q1005,Q3726
+Q3125967,Q6581097,1953-01-01T00:00:00Z,5,Halifa Sallah,Halifa Sallah,Gambian politician,Q1005,Q217568
+Q312716,Q6581097,1924-05-16T00:00:00Z,43,Dawda Jawara,Dawda Kairaba Jawara,1st President of the Gambia (1924-2019),Q1005,Q2658815
+Q317897,Q6581097,1966-01-01T00:00:00Z,4,Abdurahman Jallow,Abdurahman Jallow,Gambian athletics competitor,Q1005,Q1005
+Q323064,Q6581097,2000-01-01T00:00:00Z,2,Abou Karamba Kassamba,Abou Karamba Kassamba,Gambian politician (died 2001),Q1005,Q2214344
+Q323388,Q6581097,1912-11-10T00:00:00Z,4,Farimang Singhateh,Farimang Mamadi Singateh,Gambian politician (1912-1977),Q1005,Q1002786
+Q325641,Q6581097,1986-12-10T00:00:00Z,9,Pa Saikou Kujabi,Pa Saikou Kujabi,Gambian footballer,Q1005,Q217568
+Q326936,Q6581097,1980-02-16T00:00:00Z,9,Seyfo Soley,Seyfo Soley,Gambian footballer,Q1005,Q455163
+Q327200,Q6581097,1974-11-16T00:00:00Z,8,Jatto Ceesay,Jatto Ceesay,Gambian footballer,Q1005,Q3726
+Q32979716,Q6581097,1996-01-15T00:00:00Z,17,Ebou Adams,Ebou Adams,Gambian association football player,Q1005,Q179385
+Q331152,Q6581097,1946-12-07T00:00:00Z,5,Crispin Grey-Johnson,Crispin Grey-Johnson,Gambian politician,Q1005,Q3726
+Q33183524,Q6581097,1998-11-14T00:00:00Z,17,Ablie Jallow,Ablie Jallow,Gambian association football player,Q1005,Q1009387
+Q3325480,Q6581097,1994-11-27T00:00:00Z,11,Mouhammadou Jaiteh,Mouhammadou Jaiteh,French basketball player (born 1994),Q1005,Q209086
+Q3325480,Q6581097,1994-11-27T00:00:00Z,11,Mouhammadou Jaiteh,Mouhammadou Jaiteh,French basketball player (born 1994),Q142,Q209086
+Q3328948,Q6581097,1981-10-15T00:00:00Z,7,Mustapha Ndaw,Mustapha Kamal N'Daw,Gambian footballer,Q1005,Q3726
+Q3328948,Q6581097,1981-11-15T00:00:00Z,7,Mustapha Ndaw,Mustapha Kamal N'Daw,Gambian footballer,Q1005,Q3726
+Q33416162,Q6581097,1991-09-10T00:00:00Z,14,Mohamadou Sumareh,Mohamadou Sumareh,association football player,Q833,Q1393605
+Q33416162,Q6581097,1991-09-10T00:00:00Z,14,Mohamadou Sumareh,Mohamadou Sumareh,association football player,Q1005,Q1393605
+Q33416162,Q6581097,1994-09-20T00:00:00Z,14,Mohamadou Sumareh,Mohamadou Sumareh,association football player,Q1005,Q1393605
+Q33416162,Q6581097,1994-09-20T00:00:00Z,14,Mohamadou Sumareh,Mohamadou Sumareh,association football player,Q833,Q1393605
+Q3461602,Q6581097,1993-12-11T00:00:00Z,9,Saihou Gassama,Saihou Gassama,Gambian footballer,Q1005,Q3726
+Q351428,Q6581097,1957-01-01T00:00:00Z,4,Adama Damballey,Adama Damballey,Gambian wrestler,Q1005,Q1005
+Q351440,Q6581072,1978-02-07T00:00:00Z,8,Adama Njie,Adama Njie,Gambian athletics competitor (born 1978),Q1005,Q1005
+Q369749,Q6581097,1984-06-26T00:00:00Z,7,Assan Jatta,Assan Jatta,Gambian footballer,Q1005,Q3726
+Q369749,Q6581097,1984-03-15T00:00:00Z,7,Assan Jatta,Assan Jatta,Gambian footballer,Q1005,Q3726
+Q373904,Q6581097,1948-03-30T00:00:00Z,16,Biri Biri,Biri Biri,Gambian footballer (1948–2020),Q1005,Q3726
+Q378457,Q6581097,1989-06-18T00:00:00Z,9,Mohammed Mbye,Mohammed Mbye,Gambian footballer,Q1005,Q3726
+Q3866923,Q6581097,1990-09-02T00:00:00Z,7,Muhamed Keita,Muhamed Keita,Norwegian footballer,Q1005,Q3726
+Q3866923,Q6581097,1990-09-02T00:00:00Z,7,Muhamed Keita,Muhamed Keita,Norwegian footballer,Q20,Q3726
+Q411841,Q6581072,1943-08-31T00:00:00Z,6,Satang Jow,Ajaaratou Satang Jow,politician,Q1005,Q3726
+Q42298373,Q6581097,1969-11-13T00:00:00Z,3,Momodou Bello N'Jie,Momodou Bello N'Jie,Gambian athlete,Q1005,Q1005
+Q436237,Q6581097,1992-01-15T00:00:00Z,36,"Joshua King (footballer, born 1992)",Joshua King,Norwegian association football player,Q1005,Q585
+Q436237,Q6581097,1992-01-15T00:00:00Z,36,"Joshua King (footballer, born 1992)",Joshua King,Norwegian association football player,Q20,Q585
+Q44167227,Q6581097,1967-04-09T00:00:00Z,9,Gabriel Mendy,Gabriel Mendy,Gambian Roman Catholic prelate,Q1005,Q455163
+Q44607411,Q6581097,2000-01-01T00:00:00Z,2,Gibril B. Semega-Janneh,Gibril B. Semega-Janneh,Gambian judge,Q1005,
+Q4502053,Q6581097,1992-10-10T00:00:00Z,6,Ali Ceesay,Ali Ceesay,Gambian footballer,Q1005,Q3726
+Q452248,Q6581097,1915-01-01T00:00:00Z,3,Amadu Bansang Jobarteh,Amadu Bansang Jobarteh,musician and kora virtuoso,Q1005,Q2391373
+Q452248,Q6581097,1914-01-01T00:00:00Z,3,Amadu Bansang Jobarteh,Amadu Bansang Jobarteh,musician and kora virtuoso,Q1005,Q2391373
+Q452306,Q6581097,1984-09-26T00:00:00Z,11,Amadou Jawo,Amadou Jawo,footballer,Q1005,Q3726
+Q452306,Q6581097,1984-09-26T00:00:00Z,11,Amadou Jawo,Amadou Jawo,footballer,Q34,Q3726
+Q452323,Q6581097,1991-08-01T00:00:00Z,5,Amadou Sanyang,Amadou Sanyang,Gambian footballer,Q1005,Q804275
+Q464033,Q6581097,1986-10-10T00:00:00Z,10,Saihou Jagne,Saihou Jagne,Gambian footballer,Q1005,Q3726
+Q467531,Q6581072,1952-03-05T00:00:00Z,16,Isatou Njie-Saidy,Isatou N’jie-Saidy,Gambian politician,Q1005,Q1792703
+Q47031538,Q6581097,1998-12-27T00:00:00Z,14,Muhammed Badamosi,Muhammed Badamosi,Gambian association football player,Q1005,Q217568
+Q470913,Q6581072,1958-03-12T00:00:00Z,7,Amie N'Dow,Amie Ndow,Gambian sprinter,Q1005,
+Q4739097,Q6581097,1962-09-17T00:00:00Z,1,Amadou Scattred Janneh,Amadou Scattred Janneh,"Gambian politician, dissident",Q1005,Q1572017
+Q4739097,Q6581097,1962-09-17T00:00:00Z,1,Amadou Scattred Janneh,Amadou Scattred Janneh,"Gambian politician, dissident",Q30,Q1572017
+Q47486516,Q6581097,1998-04-08T00:00:00Z,14,Alasana Manneh,Alasana Manneh,Gambian footballer,Q1005,Q3726
+Q48573556,Q6581097,1998-11-14T00:00:00Z,30,Musa Barrow,Musa Barrow,Gambian association football player,Q1005,Q3726
+Q48806335,Q6581097,1973-01-01T00:00:00Z,1,Yankuba Badjie,Yankuba Badjie,Gambian government official,Q1005,Q1569720
+Q50289172,Q6581097,1988-10-27T00:00:00Z,9,Modou Jobe,Modou Jobe,Gambian association football player,Q1005,Q1668386
+Q50289655,Q6581097,1991-11-15T00:00:00Z,2,Alagie Nyabally,Alagie Nyabally,association football player,Q1005,Q1013940
+Q50308573,Q6581097,1994-10-25T00:00:00Z,2,Gregory Sambou,Gregory Sambou,association football player,Q1005,Q3726
+Q50308608,Q6581097,1993-10-10T00:00:00Z,3,Nuha Barrow,Nuha Barrow,association football player,Q1005,Q2459378
+Q50308612,Q6581097,1997-01-01T00:00:00Z,3,Hamidou Bojang,Hamidou Bojang,association football player,Q1005,Q916988
+Q50308612,Q6581097,1997-01-06T00:00:00Z,3,Hamidou Bojang,Hamidou Bojang,association football player,Q1005,Q916988
+Q50308642,Q6581097,1994-07-15T00:00:00Z,3,Musa Yaffa,Musa Yaffa,association football player,Q1005,Q1149283
+Q50308644,Q6581097,1995-09-18T00:00:00Z,2,Alieu Jatta,Alieu Jatta,association football player,Q1005,Q1396223
+Q50308968,Q6581072,1956-06-22T00:00:00Z,3,Ann Therese Ndong-Jatta,Ann Therese Ndong Jatta,"Director for the Bureau of Education in Africa, UNESCO",Q1005,Q3726
+Q50309504,Q6581097,1996-04-08T00:00:00Z,2,Lamin Charty,Lamin Charty,Gambian association football player,Q1005,Q1017797
+Q50309681,Q6581097,1995-07-15T00:00:00Z,3,Bully Drammeh,Bully Drammeh,association football player,Q1005,Q916988
+Q50309689,Q6581097,1995-01-01T00:00:00Z,2,Mass Manga,Mass Manga,association football player,Q1005,Q217568
+Q508482,Q6581072,1961-01-31T00:00:00Z,36,Fatou Bensouda,Fatou Bensouda,"Gambian lawyer and judge, Chief prosecutor of the International Criminal Court (2012–2021)",Q1005,Q3726
+Q518462,Q6581097,1981-11-08T00:00:00Z,9,Omar Jawo,Omar Jawo,Gambian-Swedish footballer,Q1005,Q3726
+Q529040,Q6581097,1984-07-01T00:00:00Z,22,Jaysuma Saidy Ndure,Jaysuma Saidy Ndure,Gambian-Norwegian athlete,Q1005,Q1005
+Q529040,Q6581097,1984-07-01T00:00:00Z,22,Jaysuma Saidy Ndure,Jaysuma Saidy Ndure,Gambian-Norwegian athlete,Q1005,Q804275
+Q529040,Q6581097,1984-07-01T00:00:00Z,22,Jaysuma Saidy Ndure,Jaysuma Saidy Ndure,Gambian-Norwegian athlete,Q20,Q1005
+Q529040,Q6581097,1984-07-01T00:00:00Z,22,Jaysuma Saidy Ndure,Jaysuma Saidy Ndure,Gambian-Norwegian athlete,Q20,Q804275
+Q532463,Q6581072,1964-11-13T00:00:00Z,5,Angela Colley,Angela Colley,Gambian politician,Q1005,Q217568
+Q532702,Q6581072,1987-02-24T00:00:00Z,8,Fatou Tiyana,Fatou Tiyana,Gambian athletics competitor (born 1987),Q1005,Q3726
+Q5332058,Q6581097,1987-02-18T00:00:00Z,4,"Ebrima Jatta (footballer, born 1987)",Ebrima Jatta,Gambian footballer,Q1005,Q3726
+Q53372878,Q6581072,1972-12-19T00:00:00Z,11,Rohey Malick Lowe,Rohey Malick Lowe,Gambian politician,Q1005,Q3726
+Q541097,Q6581097,1988-12-31T00:00:00Z,14,Tijan Jaiteh,Tijan Jaiteh,Gambian footballer,Q1005,Q1018433
+Q54165761,Q6581097,1986-01-01T00:00:00Z,3,Talib Ahmed Bensouda,Talib Ahmed Bensouda,Gambian politician,Q1005,Q217568
+Q5460695,Q6581072,1929-01-06T00:00:00Z,3,Florence Mahoney,Florence Mahoney,Gambian academic,Q1005,Q1051779
+Q55069339,Q6581097,1948-06-24T00:00:00Z,2,Abdoulie Bah (politician),Abdoulie Bah,Gambian politician,Q1005,Q3726
+Q55426613,Q6581097,1988-09-05T00:00:00Z,2,Bilay G. Tunkara,Billay G. Tunkara,Gambian politician,Q1005,Q2363327
+Q5566331,Q6581097,1992-10-13T00:00:00Z,17,Modou Barrow,Modou Barrow,Gambian association football player,Q34,Q3726
+Q5566331,Q6581097,1992-10-13T00:00:00Z,17,Modou Barrow,Modou Barrow,Gambian association football player,Q1005,Q3726
+Q55810233,Q6581072,1950-01-01T00:00:00Z,7,Aji Secka,Aji Yam Secka,Gambian politician,Q1005,
+Q55810473,Q6581072,1950-01-01T00:00:00Z,4,Amie Bojang-Sissoho,Amie Bojang Sissoho,Gambian women's rights activist and politician,Q1005,Q687816
+Q55956114,Q6581097,1994-08-11T00:00:00Z,10,Aboubakary Kanté,Aboubakary Kanté,French and Gambian association football player,Q142,Q201352
+Q55956114,Q6581097,1994-08-11T00:00:00Z,10,Aboubakary Kanté,Aboubakary Kanté,French and Gambian association football player,Q1005,Q201352
+Q56064757,Q6581097,1998-06-30T00:00:00Z,17,Mahdi Camara,Mahdi Camara,French and Gambian footballer (born 1998),Q1005,Q237516
+Q56064757,Q6581097,1998-06-30T00:00:00Z,17,Mahdi Camara,Mahdi Camara,French and Gambian footballer (born 1998),Q142,Q237516
+Q56205565,Q6581097,1974-12-15T00:00:00Z,3,Alhagie S. Darboe,Alhagie S. Darboe,Gambian politician,Q1005,
+Q5621469,Q6581097,1987-10-15T00:00:00Z,12,Pa Dibba,Pa Dibba,Gambian footballer (born 1987),Q1005,Q1200999
+Q5621469,Q6581097,1987-10-15T00:00:00Z,12,Pa Dibba,Pa Dibba,Gambian footballer (born 1987),Q34,Q1200999
+Q56289458,Q6581072,1988-07-19T00:00:00Z,3,Kumba Jaiteh,Kumba Jaiteh,Gambian politician,Q1005,Q1227282
+Q56289458,Q6581072,1950-01-01T00:00:00Z,3,Kumba Jaiteh,Kumba Jaiteh,Gambian politician,Q1005,Q1227282
+Q56824380,Q6581072,1932-01-01T00:00:00Z,4,Sally Njie,Sally Njie,Gambian author and director of The Gambia National Library,Q1005,Q3726
+Q570422,Q6581097,1987-11-26T00:00:00Z,3,Ansumana Samateh,Ansumana Samateh,Gambian footballer,Q1005,Q1005
+Q571388,Q6581072,1965-11-07T00:00:00Z,6,Nancy Njie,Nancy Njie,Gambian politician (1965–2025),Q1005,Q1005
+Q57356,Q6581097,1965-05-25T00:00:00Z,69,Yahya Jammeh,Yahya Jammeh,2nd President of the Gambia,Q1005,Q992053
+Q576088,Q6581097,1932-09-01T00:00:00Z,11,Lenrie Peters,Lenrie Peters,Gambian writer (1932–2009),Q1005,Q3726
+Q58047440,Q6581072,1994-02-02T00:00:00Z,7,Salimatou Fatty,Salimatou Fatty,Gambian youth educator and gender equality activist,Q1005,Q1478583
+Q58176347,Q6581072,1977-07-01T00:00:00Z,10,Mariama Khan,Mariama Khan,"Gambian filmmaker, poet, cultural activist and scholar",Q1005,Q916988
+Q59306043,Q6581097,2000-01-01T00:00:00Z,4,Tumani Corrah,Tumani Corrah,Gambian clinician,Q1005,
+Q59914262,Q6581097,2001-12-26T00:00:00Z,16,Musa Juwara,Musa Juwara,football player,Q1005,Q2459378
+Q60063834,Q6581097,1936-01-01T00:00:00Z,3,Yaya Ceesay,Yaya Ceesay,Gambian politician,Q1005,Q2222431
+Q60172489,Q6581072,1967-03-24T00:00:00Z,3,Oley Dibba-Wadda,Oley Dibba-Wadda,Gambian activist,Q145,Q34217
+Q60172489,Q6581072,1967-03-24T00:00:00Z,3,Oley Dibba-Wadda,Oley Dibba-Wadda,Gambian activist,Q1005,Q34217
+Q60225182,Q6581072,1957-07-09T00:00:00Z,4,Amie Bensouda,Amie Bensouda,Gambian lawyer,Q1005,Q153498
+Q60463957,Q6581072,1950-01-01T00:00:00Z,3,Amie Joof,Amie Joof Conteh,Gambian lawyer,Q1005,
+Q60553418,Q6581072,1947-08-19T00:00:00Z,3,Kunda Kamara,Kunda Kamara,Gambian politician,Q1005,Q1227282
+Q60554004,Q6581072,1921-01-01T00:00:00Z,4,Cecilia Cole,Cecilia Cole,deputy speaker of the National Assembly,Q1005,
+Q60583038,Q6581072,1926-10-28T00:00:00Z,2,Harriet Ndow,Harriet Ndow,Gambian pedagogue,Q1005,
+Q60607237,Q6581072,1974-08-05T00:00:00Z,8,Fatoumatta Bah-Barrow,Fatoumatta Bah-Barrow,Gambian First Lady,Q1005,Q3726
+Q60812899,Q6581072,1950-01-01T00:00:00Z,14,Hannah Forster (activist),Hannah Forster,Gambian human rights activist (195x - ),Q1005,
+Q6084912,Q6581097,1984-10-01T00:00:00Z,4,Ismaila Jagne,Ismaila Jagne,Gambian footballer,Q1005,Q217568
+Q61512683,Q6581097,1927-01-01T00:00:00Z,3,Dennis Alaba Peters,Dennis Alaba Peters,actor (d. 1996),Q1005,Q1509814
+Q6153173,Q6581072,1937-12-15T00:00:00Z,6,Janet Badjan-Young,Janet Badjan-Young,Gambian playwright and administrator,Q1005,Q3726
+Q61781238,Q6581072,1998-08-17T00:00:00Z,9,Penda Bah,Penda Bah,Gambian association football player,Q1005,Q1005
+Q61889952,Q6581072,1929-07-13T00:00:00Z,4,Fanta Singhateh,Fanta Singhateh,First Lady of the Gambia,Q1005,
+Q61946976,Q6581072,1950-01-01T00:00:00Z,5,Fatou Sanyang Kinteh,Fatou Sanyang Kinteh,Gambian politician,Q1005,
+Q62027497,Q6581097,2000-02-10T00:00:00Z,2,Modou Ndow,Modou Ndow,Gambian footballer,Q1005,Q1005
+Q62089146,Q6581072,1958-08-07T00:00:00Z,2,Matilda Johnson,Matilda Alica Cynthia Johnson,Gambian poet,Q1005,
+Q62089227,Q6581072,1900-01-01T00:00:00Z,6,Marie Samuel Njie,Marie Samuel Njie,Gambian griotte singer,Q1005,
+Q62274353,Q6581097,2000-02-01T00:00:00Z,19,Ebrima Colley,Ebrima Colley,Gambian association football player,Q1005,Q217568
+Q62415333,Q6581097,1993-06-16T00:00:00Z,6,Nuha Marong,Nuha Marong,Gambian footballer,Q1005,Q13032
+Q62415333,Q6581097,1993-06-16T00:00:00Z,6,Nuha Marong,Nuha Marong,Gambian footballer,Q29,Q13032
+Q62577118,Q6581072,1970-01-01T00:00:00Z,3,Amie Fabureh,Amie Fabureh,Gambian agronomist and politician,Q1005,
+Q62630807,Q6581072,1950-01-01T00:00:00Z,7,Choro Mbenga,Choro Mbenga,Gambian football player and manager,Q1005,Q1005
+Q62911996,Q6581072,1998-08-29T00:00:00Z,4,Adama Tamba,Adama Tamba,Gambian association football player,Q1005,Q3726
+Q6306369,Q6581072,1956-11-11T00:00:00Z,5,Julia Dolly Joiner,Julia Dolly Joiner,Gambian politician,Q1005,Q3726
+Q63169363,Q6581072,1998-05-20T00:00:00Z,2,Mbassey Darboe,Mbassey Darboe,Gambian association football player,Q1005,
+Q6385396,Q6581097,1994-12-30T00:00:00Z,10,Kekuta Manneh,Kekuta Manneh,Gambian-American soccer player,Q30,Q804275
+Q6385396,Q6581097,1994-12-30T00:00:00Z,10,Kekuta Manneh,Kekuta Manneh,Gambian-American soccer player,Q1005,Q804275
+Q6387868,Q6581097,1987-11-18T00:00:00Z,3,Ken Jammeh,Ken Jammeh,footballer,Q1005,Q1005
+Q64081133,Q6581072,1984-07-03T00:00:00Z,4,Isatou Nyang,Isatou Nyang,Gambian paralympic athlete,Q1005,Q217568
+Q64548852,Q6581072,1950-01-01T00:00:00Z,5,Haddy Dandeh-Jabbie,Haddy Dandeh-Jabbie,Gambian lawyer,Q1005,
+Q647783,Q6581097,1988-12-24T00:00:00Z,20,Momodou Ceesay,Momodou Ceesay,Gambian footballer (born 1988),Q1005,Q3726
+Q6481879,Q6581097,1992-06-26T00:00:00Z,11,Lamin Samateh,Lamin Samateh,footballer,Q1005,Q1738721
+Q64827477,Q6581072,1950-01-01T00:00:00Z,6,Fatou Jagne Senghore,Fatou Jagne Senghor,"Gambian human rights activist, women's rights activist and lawyer",Q1005,Q3726
+Q64918383,Q6581072,1996-04-19T00:00:00Z,19,Fatou Jallow,Fatou Jallow,Gambian beauty pageant contestant,Q1005,Q1318028
+Q65010343,Q6581072,1950-01-01T00:00:00Z,3,Ramatoulie Othman,Ramatoulie Othman,Gambian writer,Q1005,
+Q65262790,Q6581097,1999-01-12T00:00:00Z,8,Alassana Jatta,Alassana Jatta,Gambian footballer (born 1999),Q1005,Q1013940
+Q65263371,Q6581097,2000-02-19T00:00:00Z,10,Muhammed Sanneh,Muhammed Sanneh,Gambian footballer (born 2000),Q1005,Q217568
+Q65706093,Q6581097,1996-09-18T00:00:00Z,7,Ebrahima Camara,Ebrahima Camara,Gambian sprinter,Q1005,Q1009387
+Q65741519,Q6581072,1950-01-01T00:00:00Z,3,Ramatoulie D. K. Sanneh,Ramatoulie DK Sanneh,Gambian brigardier-general,Q1005,
+Q65925211,Q6581072,1971-10-27T00:00:00Z,2,Naceesay Salla-Wadda,Naceesay Salla-Wadda,Gambian lawyer and judge,Q1005,
+Q66725077,Q6581097,1999-08-22T00:00:00Z,3,Kebba Badjie,Kebba Badjie,Gambian association football player,Q1005,Q217568
+Q66729719,Q6581097,1960-01-01T00:00:00Z,6,Muhammad B. S. Jallow,Muhammed B. S. Jallow,Gambian politician,Q1005,
+Q66763722,Q6581097,2000-10-28T00:00:00Z,4,Omar Sowe,Omar Sowe,Gambian-American soccer player,Q1005,Q217568
+Q6687754,Q6581097,1938-09-08T00:00:00Z,9,Louis Mahoney,Louis Mahoney,British actor,Q1005,Q1005
+Q67032065,Q6581072,1952-01-01T00:00:00Z,4,Chilel Jawara,Chilel Jawara,Gambian First Lady,Q1005,
+Q6741252,Q6581097,1946-02-07T00:00:00Z,4,Malando Gassama,Malando Gassama,Gambian percussionist,Q1005,Q1005
+Q6897396,Q6581097,1929-02-10T00:00:00Z,5,Momodou Baboucar Njie,Momodou Baboucar Njie,Gambian politician,Q1005,Q3726
+Q6897399,Q6581097,1945-01-01T00:00:00Z,2,Momodou Ceesay (artist),Momodou Ceesay,African visual artist,Q1005,Q3726
+Q6943428,Q6581097,1988-09-04T00:00:00Z,14,Mustapha Carayol,Mustapha Carayol,Gambian association football player,Q145,Q3726
+Q6943428,Q6581097,1988-09-04T00:00:00Z,14,Mustapha Carayol,Mustapha Carayol,Gambian association football player,Q1005,Q3726
+Q69540964,Q6581097,1946-01-01T00:00:00Z,3,Abdou Kareem Savage,Abdou Kareem Savage,Gambian Chief Justice,Q1005,
+Q70145651,Q6581072,1988-09-06T00:00:00Z,5,Mariama Colley,Mariama Colley,"Gambian Actress, Radio Personality",Q1005,Q916988
+Q70784113,Q6581097,1993-03-09T00:00:00Z,4,Sal Jobarteh,Sal Jobarteh,Gambian footballer,Q1005,Q492575
+Q70790117,Q6581097,1999-04-03T00:00:00Z,5,Moussa Kamara,Moussa Kamara,Gambian and French association football player,Q1005,Q90
+Q70790117,Q6581097,1999-04-03T00:00:00Z,5,Moussa Kamara,Moussa Kamara,Gambian and French association football player,Q142,Q90
+Q70801611,Q6581097,1998-09-02T00:00:00Z,4,Kalifa Manneh,Kalifa Manneh,Gambian association football player,Q1005,Q217568
+Q709631,Q6581097,1984-02-12T00:00:00Z,11,Arthur Gómez,Arthur Gómez,Gambian footballer,Q1005,Q3726
+Q710820,Q6581097,1948-08-08T00:00:00Z,13,Ousainou Darboe,Ousainou Darboe,Gambian politician,Q1005,Q1233322
+Q712659,Q6581097,1984-08-27T00:00:00Z,11,Aziz Corr Nyang,Aziz Corr Nyang,Gambian footballer,Q1005,Q3726
+Q7132310,Q6581097,1901-01-01T00:00:00Z,1,Pap Saine,Pap Saine,Gambian editor and publisher,Q1005,
+Q7147207,Q6581097,1990-09-26T00:00:00Z,6,Patrick Mendy,Patrick Mendy,British boxer,Q1005,Q1005
+Q72163710,Q6581097,1999-05-08T00:00:00Z,12,Abdoulie Sanyang,Abdoulie Sanyang,Gambian association football player,Q1005,Q217568
+Q730561,Q6581097,1963-11-25T00:00:00Z,6,Modou Sowe,Modou Sowe,Gambian football referee,Q1005,
+Q73130258,Q6581072,1972-12-01T00:00:00Z,17,Isatou Ceesay,Isatou Ceesay,Gambian activist and social entrepreneur (* 1972),Q1005,Q1246155
+Q739199,Q6581097,1978-01-18T00:00:00Z,2,Assan John,Assan John,Gambian athletics competitor,Q1005,
+Q739208,Q6581097,1923-04-21T00:00:00Z,3,Assan Musa Camara,Assan Musa Camara,Gambian politician (1923-2013),Q1005,Q1891066
+Q7400490,Q6581097,1990-02-08T00:00:00Z,2,Sainey Touray,Sainey Touray,Gambian footballer,Q1005,Q217568
+Q7411896,Q6581097,1974-04-13T00:00:00Z,5,Samuel Kargbo,Samuel Kargbo,Gambian footballer,Q1005,Q3726
+Q7424698,Q6581072,1989-02-05T00:00:00Z,10,Saruba Colley,Saruba Colley,Gambian sprinter,Q1005,Q2280805
+Q7424698,Q6581072,1989-05-02T00:00:00Z,10,Saruba Colley,Saruba Colley,Gambian sprinter,Q1005,Q2280805
+Q74264616,Q6581097,2000-08-26T00:00:00Z,4,Adama Jammeh (footballer),Adama Jammeh,Gambian professional footballer born 2000,Q1005,Q217568
+Q7445715,Q6581097,1992-07-06T00:00:00Z,3,Seedy Bah,Seedy Bah,Gambian footballer,Q1005,Q804275
+Q749003,Q6581097,1983-04-27T00:00:00Z,9,Mamadou Danso,Mamadou Danso,Gambian footballer,Q1005,Q217568
+Q7519654,Q6581097,1985-01-16T00:00:00Z,7,Simon Richter,Simon Richter,Danish footballer,Q1005,Q30096
+Q7519654,Q6581097,1985-01-16T00:00:00Z,7,Simon Richter,Simon Richter,Danish footballer,Q756617,Q30096
+Q765696,Q6581072,1924-05-01T00:00:00Z,11,Augusta Jawara,Augusta Jawara,women's rights activist and playwright (1924-1981),Q1005,Q3726
+Q773793,Q6581072,1983-10-17T00:00:00Z,24,Sona Jobarteh,Sona Jobarteh,Gambian musician,Q1005,Q84
+Q773793,Q6581072,1983-10-17T00:00:00Z,24,Sona Jobarteh,Sona Jobarteh,Gambian musician,Q145,Q84
+Q7801806,Q6581097,1958-03-06T00:00:00Z,6,Tijan Sallah,Tijan Sallah,Gambian poet and economist,Q1005,Q217568
+Q797751,Q6581097,1955-02-11T00:00:00Z,2,Baboucarr-Blaise Jagne,Baboucarr-Blaise Jagne,Gambian politician,Q1005,Q3726
+Q803691,Q6581097,1920-01-01T00:00:00Z,4,Bai Konte,Bai Konte,Gambian musician (1920–1983),Q1005,Q916988
+Q804243,Q6581097,1949-06-03T00:00:00Z,4,Bakary Jarjue,Bakary Jarjue,Gambian athletics competitor,Q1005,
+Q804249,Q6581097,1959-07-18T00:00:00Z,4,Bakary Sanneh,Bakary Sanneh,Gambian amateur wrestler,Q1005,Q1005
+Q813237,Q6581072,1950-08-08T00:00:00Z,6,Beatrice Allen,Beatrice Allen,Vice President of the Gambia National Olympic Committee,Q1005,
+Q815618,Q6581072,1936-04-22T00:00:00Z,6,Belinda Bidwell,Belinda Bidwell,Gambian politician (1936-2007),Q1005,
+Q85091814,Q6581097,1952-04-10T00:00:00Z,3,James Allen Yaw Odico,James Allen Yaw Odico,bishop of Gambia,Q1005,Q3726
+Q85787131,Q6581097,1953-01-01T00:00:00Z,4,Musa Ngum,Musa Ngum,Gambian musical artist (1953- 2015),Q1005,
+Q85951397,Q6581097,2001-11-14T00:00:00Z,17,James Gomez (footballer),James Gomez,Gambian footballer,Q1005,Q1005
+Q864065,Q6581072,1957-04-10T00:00:00Z,5,Bintanding Jarju,Bintanding Jarju,Gambian politician,Q1005,
+Q87649076,Q6581097,1995-10-31T00:00:00Z,3,Lamin Jawneh,Lamin Jawneh,Gambian footballer,Q1005,Q3726
+Q91964356,Q6581097,2001-11-03T00:00:00Z,16,Alieu Fadera,Alieu Fadera,Gambian footballer,Q1005,Q1393605
+Q921196,Q6581097,1980-07-30T00:00:00Z,12,Pa-Modou Kah,Pa-Modou Kah,Norwegian association football player (1980-),Q20,Q3726
+Q921196,Q6581097,1980-07-30T00:00:00Z,12,Pa-Modou Kah,Pa-Modou Kah,Norwegian association football player (1980-),Q1005,Q3726
+Q923374,Q6581097,1984-06-26T00:00:00Z,11,Yankuba Ceesay,Yankuba Ceesay,Gambian footballer (born 1984),Q1005,Q217568
+Q923374,Q6581097,1984-09-26T00:00:00Z,11,Yankuba Ceesay,Yankuba Ceesay,Gambian footballer (born 1984),Q1005,Q217568
+Q924533,Q6581097,1989-12-26T00:00:00Z,15,Pa Modou Jagne,Pa Modou Jagne,Gambian footballer,Q1005,Q3726
+Q925513,Q6581097,1990-10-30T00:00:00Z,10,Suwaibou Sanneh,Suwaibou Sanneh,Gambian sprinter,Q1005,Q916988
+Q925513,Q6581097,1990-03-10T00:00:00Z,10,Suwaibou Sanneh,Suwaibou Sanneh,Gambian sprinter,Q1005,Q916988
+Q940778,Q6581097,1979-06-26T00:00:00Z,14,Njogu Demba-Nyrén,Njogu Demba-Nyrén,Gambian football player,Q1005,Q804275
+Q94670595,Q6581072,1992-02-15T00:00:00Z,15,Rosaline Meurer,Rosaline Ufuoma Meurer,Gambian-born Nigerian actress and producer,Q1005,Q1005
+Q94996080,Q6581097,1992-02-02T00:00:00Z,2,Sainey Sambou,Sainey Sambou,Gambian footballer,Q1005,Q916988
+Q96932777,Q6581097,2001-08-30T00:00:00Z,7,Sainey Njie,Sainey Njie,Gambian footballer,Q1005,Q455163
+Q97656843,Q6581097,1995-06-05T00:00:00Z,2,Baboucarr Njie,Baboucarr Njie,"Gambia midfielder, born 6/5/1995 – #14 for Atlanta United 2 in 2020",Q1005,Q217568
+Q98068029,Q6581072,1997-07-02T00:00:00Z,4,Fatou Kanteh,Fatou Kanteh,Gambian association football player,Q1005,Q13614
+Q98068029,Q6581072,1997-07-02T00:00:00Z,4,Fatou Kanteh,Fatou Kanteh,Gambian association football player,Q1041,Q13614
+Q98068029,Q6581072,1997-07-02T00:00:00Z,4,Fatou Kanteh,Fatou Kanteh,Gambian association football player,Q29,Q13614
+Q981036,Q6581097,1988-06-17T00:00:00Z,16,Demba Savage,Demba Savage,Gambian footballer,Q1005,Q3726
+Q98198176,Q6581097,1999-05-15T00:00:00Z,7,Mouhamadou Drammeh,Mouhamadou Drammeh,French football player,Q1005,Q200126
+Q98198176,Q6581097,1999-05-15T00:00:00Z,7,Mouhamadou Drammeh,Mouhamadou Drammeh,French football player,Q142,Q200126
+Q98198176,Q6581097,1999-05-15T00:00:00Z,7,Mouhamadou Drammeh,Mouhamadou Drammeh,French football player,Q1041,Q200126
+Q98635754,Q6581097,1946-01-01T00:00:00Z,1,Bakary Bunja Darbo,Bakary Bunja Darbo,Gambian politician,Q1005,
+Q98669428,Q6581072,1996-09-30T00:00:00Z,16,Fatou Jeng,Fatou Jeng,"Gambian climate activist,focused on education, conservation and planting trees",Q1005,Q3726
+Q997370,Q6581097,2000-01-01T00:00:00Z,2,Buba Samura,Buba Samura,Gambian politician (2000-2001),Q1005,

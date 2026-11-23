@@ -1,0 +1,408 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q1027475,Q6581097,1947-03-26T00:00:00Z,23,Homayoun Ershadi,Homayoun Ershadi,Iranian actor (1947–2025),Q107258515,Q42053
+Q1027475,Q6581097,1947-03-26T00:00:00Z,23,Homayoun Ershadi,Homayoun Ershadi,Iranian actor (1947–2025),Q794,Q42053
+Q1076261,Q6581097,1931-01-01T00:00:00Z,13,Mohammad Fazel Lankarani,Mohammad Fazel Lankarani,Iranian grand ayatollah (1931–2007),Q107258515,Q170573
+Q1076261,Q6581097,1931-01-01T00:00:00Z,13,Mohammad Fazel Lankarani,Mohammad Fazel Lankarani,Iranian grand ayatollah (1931–2007),Q794,Q170573
+Q108120922,Q6581097,1961-01-01T00:00:00Z,24,Esmaeil Khatib,Esmaeil Khatib,Iranian cleric,Q107258515,Q720028
+Q108120922,Q6581097,1961-01-01T00:00:00Z,24,Esmaeil Khatib,Esmaeil Khatib,Iranian cleric,Q794,Q720028
+Q10858101,Q6581097,1931-02-03T00:00:00Z,8,Mohammed Emami-Kashani,Mohammad Emami-Kashani,Iranian cleric (1931–2024),Q794,Q240475
+Q10858101,Q6581097,1931-02-03T00:00:00Z,8,Mohammed Emami-Kashani,Mohammad Emami-Kashani,Iranian cleric (1931–2024),Q107258515,Q240475
+Q10859762,Q6581072,1936-09-02T00:00:00Z,8,Iran Darroudi,Iran Darroudi,Iranian female artist,Q107258515,Q121157
+Q10859762,Q6581072,1936-09-02T00:00:00Z,8,Iran Darroudi,Iran Darroudi,Iranian female artist,Q794,Q121157
+Q109547788,Q6581097,1902-10-11T00:00:00Z,4,ʻAbdu'l-Hamíd Ishráq-Khávari,‘Abdu’l-Hamíd Ishráq-Khávari,Iranian Bahá'í scholar,Q107258515,Q121157
+Q109547788,Q6581097,1902-10-11T00:00:00Z,4,ʻAbdu'l-Hamíd Ishráq-Khávari,‘Abdu’l-Hamíd Ishráq-Khávari,Iranian Bahá'í scholar,Q63158027,Q121157
+Q109548533,Q6581097,1917-01-01T00:00:00Z,7,Akbar Schandermani,Akbar Shandermani,Iranian politician,Q107258515,Q210885
+Q109548533,Q6581097,1917-01-01T00:00:00Z,7,Akbar Schandermani,Akbar Shandermani,Iranian politician,Q794,Q210885
+Q109548533,Q6581097,1917-01-01T00:00:00Z,7,Akbar Schandermani,Akbar Shandermani,Iranian politician,Q63158027,Q210885
+Q109550402,Q6581097,1930-01-01T00:00:00Z,3,Abdol Javad Alamolhoda,Abdol Javad Alamolhoda,Iranian cleric,Q107258515,Q121157
+Q109550402,Q6581097,1930-01-01T00:00:00Z,3,Abdol Javad Alamolhoda,Abdol Javad Alamolhoda,Iranian cleric,Q794,Q121157
+Q110311054,Q6581072,1947-09-27T00:00:00Z,4,Mehrnoosh Ebrahimi,Mehrnoosh Ebrahimi,Iranian partisan,Q107258515,Q3616
+Q1103962,Q6581097,1924-10-09T00:00:00Z,18,Navvab Safavi,Navvab Safavi,Iranian cleric (1924–1956),Q107258515,Q5555572
+Q113613433,Q6581097,1925-01-01T00:00:00Z,5,Ibrahim al-Musawi al-Zanjani,Ibrahim al-Musawi al-Zanjani,Iranian faqih and writer,Q794,Q861903
+Q113613433,Q6581097,1925-01-01T00:00:00Z,5,Ibrahim al-Musawi al-Zanjani,Ibrahim al-Musawi al-Zanjani,Iranian faqih and writer,Q107258515,Q861903
+Q115048320,Q6581072,1964-01-01T00:00:00Z,1,Soheila Sokhanvari,Soheila Sokhanvari,"Iranian-born British visual artist, painter (b. 1964)",Q145,Q6397066
+Q115048320,Q6581072,1964-01-01T00:00:00Z,1,Soheila Sokhanvari,Soheila Sokhanvari,"Iranian-born British visual artist, painter (b. 1964)",Q794,Q6397066
+Q115048320,Q6581072,1964-01-01T00:00:00Z,1,Soheila Sokhanvari,Soheila Sokhanvari,"Iranian-born British visual artist, painter (b. 1964)",Q107258515,Q6397066
+Q1166019,Q6581097,1939-12-08T00:00:00Z,33,Dariush Mehrjui,Dariush Mehrjui,Iranian filmmaker (1939–2023),Q794,Q3616
+Q1166019,Q6581097,1939-12-08T00:00:00Z,33,Dariush Mehrjui,Dariush Mehrjui,Iranian filmmaker (1939–2023),Q107258515,Q3616
+Q120216,Q6581097,1926-12-26T00:00:00Z,19,Ali Javan,Ali Javan,Iranian-American Physicist,Q107258515,Q3616
+Q120216,Q6581097,1926-12-26T00:00:00Z,19,Ali Javan,Ali Javan,Iranian-American Physicist,Q30,Q3616
+Q12222462,Q6581097,1911-12-10T00:00:00Z,8,Abd al-A'la al-Sabziwari,Abd al-A'la al-Sabziwari,Iranian-Iraqi Shia faqih (1910-1993),Q794,Q765553
+Q12222462,Q6581097,1911-12-10T00:00:00Z,8,Abd al-A'la al-Sabziwari,Abd al-A'la al-Sabziwari,Iranian-Iraqi Shia faqih (1910-1993),Q63158027,Q765553
+Q12222462,Q6581097,1911-12-10T00:00:00Z,8,Abd al-A'la al-Sabziwari,Abd al-A'la al-Sabziwari,Iranian-Iraqi Shia faqih (1910-1993),Q107258515,Q765553
+Q12240017,Q6581072,1946-01-01T00:00:00Z,14,Gohar Eshghi,Gohar Eshghi,Activist & Iranian mother of a victim,Q794,
+Q12240017,Q6581072,1946-01-01T00:00:00Z,14,Gohar Eshghi,Gohar Eshghi,Activist & Iranian mother of a victim,Q107258515,
+Q1238247,Q6581097,1940-09-23T00:00:00Z,28,Mohammad-Reza Shajarian,Mohammad-Reza Shajarian,Iranian singer and musician,Q794,Q121157
+Q1238247,Q6581097,1940-09-23T00:00:00Z,28,Mohammad-Reza Shajarian,Mohammad-Reza Shajarian,Iranian singer and musician,Q107258515,Q121157
+Q1277332,Q6581097,1935-01-24T00:00:00Z,19,Dariush Shayegan,Dariush Shayegan,"Iranian writer, Indologist, philosopher and poet (1935–2018)",Q794,Q80053
+Q1277332,Q6581097,1935-01-24T00:00:00Z,19,Dariush Shayegan,Dariush Shayegan,"Iranian writer, Indologist, philosopher and poet (1935–2018)",Q107258515,Q80053
+Q1277332,Q6581097,1935-01-24T00:00:00Z,19,Dariush Shayegan,Dariush Shayegan,"Iranian writer, Indologist, philosopher and poet (1935–2018)",Q142,Q80053
+Q128245,Q6581097,1919-10-26T00:00:00Z,113,Mohammad Reza Pahlavi,Mohammad Reza I of Iran,Shah of Iran from 1941 to 1979,Q107258515,Q3616
+Q1342153,Q6581097,1958-07-11T00:00:00Z,25,Fereydoon Abbasi,Fereydoon Abbasi,Iranian nuclear scientist and politician (1958–2025),Q107258515,Q63049
+Q1342153,Q6581097,1958-07-11T00:00:00Z,25,Fereydoon Abbasi,Fereydoon Abbasi,Iranian nuclear scientist and politician (1958–2025),Q794,Q63049
+Q134999463,Q6581097,1964-01-01T00:00:00Z,10,Saeed Izadi,Saeed Izadi,"Brigadier General in Iran's Islamic Revolutionary Guard Corps, headed the ""Palestine Branch"" of the Quds Force",Q794,Q3964916
+Q134999463,Q6581097,1964-01-01T00:00:00Z,10,Saeed Izadi,Saeed Izadi,"Brigadier General in Iran's Islamic Revolutionary Guard Corps, headed the ""Palestine Branch"" of the Quds Force",Q107258515,Q3964916
+Q135183195,Q6581097,1959-03-31T00:00:00Z,16,Ali Mohammad Naini,Ali Mohammad Naini,Iranian brigadier general (1957–2026),Q794,Q240475
+Q135183195,Q6581097,1959-03-31T00:00:00Z,16,Ali Mohammad Naini,Ali Mohammad Naini,Iranian brigadier general (1957–2026),Q107258515,Q240475
+Q1377926,Q6581097,1916-08-24T00:00:00Z,15,Mohammad-Taqi Bahjat Foumani,Mohammad-Taqi Bahjat Foumani,Iranian Grand Ayatollah,Q63158027,Q2151629
+Q1377926,Q6581097,1916-08-24T00:00:00Z,15,Mohammad-Taqi Bahjat Foumani,Mohammad-Taqi Bahjat Foumani,Iranian Grand Ayatollah,Q794,Q2151629
+Q1377926,Q6581097,1916-08-24T00:00:00Z,15,Mohammad-Taqi Bahjat Foumani,Mohammad-Taqi Bahjat Foumani,Iranian Grand Ayatollah,Q107258515,Q2151629
+Q137862899,Q6581072,1975-01-01T00:00:00Z,1,Raheleh Filsoofi,Raheleh Filsoofi,"Iranian and American artist, educator (born 1975)",Q30,Q3616
+Q137862899,Q6581072,1975-01-01T00:00:00Z,1,Raheleh Filsoofi,Raheleh Filsoofi,"Iranian and American artist, educator (born 1975)",Q107258515,Q3616
+Q137862899,Q6581072,1975-01-01T00:00:00Z,1,Raheleh Filsoofi,Raheleh Filsoofi,"Iranian and American artist, educator (born 1975)",Q794,Q3616
+Q138510010,Q6581097,1959-05-31T00:00:00Z,9,Reza Mozaffari Nia,Reza Mozaffari Nia,Iranian military official (1959–2026),Q794,Q42053
+Q138510010,Q6581097,1959-05-31T00:00:00Z,9,Reza Mozaffari Nia,Reza Mozaffari Nia,Iranian military official (1959–2026),Q107258515,Q42053
+Q138512136,Q6581097,1972-09-19T00:00:00Z,5,Mohammad Baseri,Mohammad Baseri,Iranian intelligence officer (1972–2026),Q794,Q203045
+Q138512136,Q6581097,1972-09-19T00:00:00Z,5,Mohammad Baseri,Mohammad Baseri,Iranian intelligence officer (1972–2026),Q107258515,Q203045
+Q138710869,Q6581072,1971-01-01T00:00:00Z,1,Shabnam K. Ghazi,Shabnam K. Ghazi,Iranian-born Canadian artist (born 1971),Q16,Q3616
+Q138710869,Q6581072,1971-01-01T00:00:00Z,1,Shabnam K. Ghazi,Shabnam K. Ghazi,Iranian-born Canadian artist (born 1971),Q794,Q3616
+Q138710869,Q6581072,1971-01-01T00:00:00Z,1,Shabnam K. Ghazi,Shabnam K. Ghazi,Iranian-born Canadian artist (born 1971),Q107258515,Q3616
+Q138710888,Q6581072,1964-01-01T00:00:00Z,2,Roya Farassat,Roya Farassat,Iranian-born American artist (born 1964),Q794,Q3616
+Q138710888,Q6581072,1964-01-01T00:00:00Z,2,Roya Farassat,Roya Farassat,Iranian-born American artist (born 1964),Q107258515,Q3616
+Q1391746,Q6581097,1955-09-29T00:00:00Z,35,Ali Shamkhani,Ali Shamkhani,Iranian naval officer and politician (1955–2026),Q107258515,Q170366
+Q1391746,Q6581097,1955-09-29T00:00:00Z,35,Ali Shamkhani,Ali Shamkhani,Iranian naval officer and politician (1955–2026),Q794,Q170366
+Q1397229,Q6581097,1920-02-03T00:00:00Z,30,Morteza Motahhari,Morteza Motahhari,Iranian politician (1919-1979),Q107258515,Q430494
+Q1397229,Q6581097,1920-02-03T00:00:00Z,30,Morteza Motahhari,Morteza Motahhari,Iranian politician (1919-1979),Q63158027,Q430494
+Q1397229,Q6581097,1919-01-31T00:00:00Z,30,Morteza Motahhari,Morteza Motahhari,Iranian politician (1919-1979),Q63158027,Q430494
+Q1397229,Q6581097,1919-01-31T00:00:00Z,30,Morteza Motahhari,Morteza Motahhari,Iranian politician (1919-1979),Q794,Q430494
+Q1397229,Q6581097,1919-01-31T00:00:00Z,30,Morteza Motahhari,Morteza Motahhari,Iranian politician (1919-1979),Q107258515,Q430494
+Q1397229,Q6581097,1920-02-03T00:00:00Z,30,Morteza Motahhari,Morteza Motahhari,Iranian politician (1919-1979),Q794,Q430494
+Q142387,Q6581097,1923-04-13T00:00:00Z,21,Hassan Ali Mansur,Hassan Ali Mansur,former Iranian Prime Minister (1923-1965),Q107258515,Q3616
+Q1533736,Q6581097,1909-04-01T00:00:00Z,11,Rahi Mo'ayyeri,Rahi Mo'ayyeri,Iranian poet and musician,Q63158027,Q3616
+Q1533736,Q6581097,1909-04-01T00:00:00Z,11,Rahi Mo'ayyeri,Rahi Mo'ayyeri,Iranian poet and musician,Q107258515,Q3616
+Q1580049,Q6581097,1928-01-01T00:00:00Z,21,Mehdi Akhavan-Sales,Mehdi Akhavan-Sales,Iranian poet (1928–1990),Q794,Q121157
+Q1580049,Q6581097,1928-01-01T00:00:00Z,21,Mehdi Akhavan-Sales,Mehdi Akhavan-Sales,Iranian poet (1928–1990),Q107258515,Q121157
+Q159622,Q6581097,1969-03-21T00:00:00Z,53,Ali Daei,Ali Daei,Iranian football player,Q107258515,Q180103
+Q16046078,Q6581097,1932-08-11T00:00:00Z,8,Hushang Harirchiyan,Hushang Harirchiyan,Iranian actor (1932-2024),Q794,Q42053
+Q16046078,Q6581097,1932-08-11T00:00:00Z,8,Hushang Harirchiyan,Hushang Harirchiyan,Iranian actor (1932-2024),Q107258515,Q42053
+Q16050995,Q6581097,1960-08-01T00:00:00Z,34,Hossein Salami,Hossein Salami,Iranian military officer (1960–2025),Q794,Q720421
+Q16050995,Q6581097,1960-08-01T00:00:00Z,34,Hossein Salami,Hossein Salami,Iranian military officer (1960–2025),Q107258515,Q720421
+Q16052349,Q6581097,1967-11-28T00:00:00Z,45,Hossein Shahabi,Hossein Shahabi,"Iranian screenwriter, producer and film director (1967–2023)",Q794,Q80053
+Q16052349,Q6581097,1967-11-28T00:00:00Z,45,Hossein Shahabi,Hossein Shahabi,"Iranian screenwriter, producer and film director (1967–2023)",Q107258515,Q80053
+Q16053240,Q6581097,1957-04-09T00:00:00Z,14,Abdolnaser Hemmati,Abdolnaser Hemmati,Iranian economist and politician,Q794,Q2639152
+Q16053240,Q6581097,1957-04-09T00:00:00Z,14,Abdolnaser Hemmati,Abdolnaser Hemmati,Iranian economist and politician,Q107258515,Q2639152
+Q16074458,Q6581072,1947-05-23T00:00:00Z,18,Mansoureh Khojasteh Bagherzadeh,Mansoureh Khojaste Bagherzadeh,wife of Ali Khamenei (1964-2026),Q107258515,Q121157
+Q16074458,Q6581072,1947-05-23T00:00:00Z,18,Mansoureh Khojasteh Bagherzadeh,Mansoureh Khojaste Bagherzadeh,wife of Ali Khamenei (1964-2026),Q794,Q121157
+Q1638933,Q6581097,1928-02-25T00:00:00Z,21,Hushang Ebtehaj,Hushang Ebtehaj,Iranian poet,Q107258515,Q178373
+Q1638933,Q6581097,1928-02-25T00:00:00Z,21,Hushang Ebtehaj,Hushang Ebtehaj,Iranian poet,Q794,Q178373
+Q1659678,Q6581097,1931-05-27T00:00:00Z,25,Emam-Ali Habibi,Emam-Ali Habibi,Iranian wrestler (1931–2025),Q794,Q605157
+Q1659678,Q6581097,1931-05-27T00:00:00Z,25,Emam-Ali Habibi,Emam-Ali Habibi,Iranian wrestler (1931–2025),Q107258515,Q605157
+Q17174943,Q6581097,1928-08-20T00:00:00Z,18,Amou Haji,Amou Haji,Iranian eccentric (1928–2022),Q794,Q5800136
+Q17174943,Q6581097,1928-08-20T00:00:00Z,18,Amou Haji,Amou Haji,Iranian eccentric (1928–2022),Q107258515,Q5800136
+Q17991320,Q6581097,1964-04-23T00:00:00Z,39,Hossein Amir-Abdollahian,Hossein Amir-Abdollahian,Iranian politician and diplomat,Q794,Q720053
+Q17991320,Q6581097,1964-04-23T00:00:00Z,39,Hossein Amir-Abdollahian,Hossein Amir-Abdollahian,Iranian politician and diplomat,Q107258515,Q720053
+Q183060,Q6581097,1939-07-24T00:00:00Z,6,Anoushiravan Rohani,Anoushiravan Rohani,"Iranian Accordion, pianist and songwriter",Q107258515,Q178373
+Q183060,Q6581097,1939-07-24T00:00:00Z,6,Anoushiravan Rohani,Anoushiravan Rohani,"Iranian Accordion, pianist and songwriter",Q794,Q178373
+Q18511806,Q6581097,1960-11-03T00:00:00Z,35,Mohammad Bagheri (general),Mohammad Bagheri,Iranian senior military leader,Q794,Q3616
+Q18511806,Q6581097,1960-11-03T00:00:00Z,35,Mohammad Bagheri (general),Mohammad Bagheri,Iranian senior military leader,Q107258515,Q3616
+Q18599029,Q6581072,1960-05-20T00:00:00Z,2,Nurieh Mozaffari,Nurieh Mozaffari,Iranian contemporary painter (born 1960),Q107258515,Q3616
+Q18599029,Q6581072,1960-05-20T00:00:00Z,2,Nurieh Mozaffari,Nurieh Mozaffari,Iranian contemporary painter (born 1960),Q794,Q3616
+Q18729433,Q6581097,1959-09-12T00:00:00Z,7,Hamid Taqavi,Hamid Taqavi,Iranian general (1959-2014),Q794,Q170366
+Q18729433,Q6581097,1959-09-12T00:00:00Z,7,Hamid Taqavi,Hamid Taqavi,Iranian general (1959-2014),Q107258515,Q170366
+Q19714266,Q6581097,1924-03-18T00:00:00Z,5,Hamid Mammadzadeh,Hamid Mammadzadeh,Azerbaijani writer,Q107258515,Q80053
+Q19714266,Q6581097,1924-03-18T00:00:00Z,5,Hamid Mammadzadeh,Hamid Mammadzadeh,Azerbaijani writer,Q63158027,Q80053
+Q19714266,Q6581097,1924-03-18T00:00:00Z,5,Hamid Mammadzadeh,Hamid Mammadzadeh,Azerbaijani writer,Q227,Q80053
+Q19714266,Q6581097,1924-03-18T00:00:00Z,5,Hamid Mammadzadeh,Hamid Mammadzadeh,Azerbaijani writer,Q15180,Q80053
+Q20021677,Q6581072,1965-01-01T00:00:00Z,7,Samira Abbassy,Samira Abbassy,Iranian-born British painter (born 1965),Q107258515,Q170366
+Q20021677,Q6581072,1965-01-01T00:00:00Z,7,Samira Abbassy,Samira Abbassy,Iranian-born British painter (born 1965),Q145,Q170366
+Q20085266,Q6581072,1962-01-01T00:00:00Z,3,Zohreh Etezad Saltaneh,Zohreh Etezad Saltaneh,Iranian artist (born 1962),Q107258515,Q3616
+Q20085266,Q6581072,1962-01-01T00:00:00Z,3,Zohreh Etezad Saltaneh,Zohreh Etezad Saltaneh,Iranian artist (born 1962),Q794,Q3616
+Q20111140,Q6581072,1944-01-01T00:00:00Z,5,Masoumeh Mozaffari,Masoumeh Mozafari,Iranian figure painter and professor,Q107258515,Q3616
+Q20111140,Q6581072,1944-01-01T00:00:00Z,5,Masoumeh Mozaffari,Masoumeh Mozafari,Iranian figure painter and professor,Q794,Q3616
+Q2036479,Q6581097,1952-01-01T00:00:00Z,16,Yahya Rahim Safavi,Yahya Safavi,Special military advisor to the Iranian Supreme Leader,Q794,Q5805996
+Q2036479,Q6581097,1952-01-01T00:00:00Z,16,Yahya Rahim Safavi,Yahya Safavi,Special military advisor to the Iranian Supreme Leader,Q107258515,Q5805996
+Q20423073,Q6581097,1911-11-30T00:00:00Z,4,Mohammad Taher Khaqani,Muhammad Tahir Al Shubayr al-Khaqani,Iranian Islamic jurist,Q63158027,Q458396
+Q20423073,Q6581097,1911-11-30T00:00:00Z,4,Mohammad Taher Khaqani,Muhammad Tahir Al Shubayr al-Khaqani,Iranian Islamic jurist,Q794,Q458396
+Q20423073,Q6581097,1911-11-30T00:00:00Z,4,Mohammad Taher Khaqani,Muhammad Tahir Al Shubayr al-Khaqani,Iranian Islamic jurist,Q107258515,Q458396
+Q2110613,Q6581097,1929-07-01T00:00:00Z,7,Parviz Koozehkanani,Parviz Koozehkanani,Iranian footballer (1929-2025),Q107258515,Q3616
+Q2110613,Q6581097,1929-07-01T00:00:00Z,7,Parviz Koozehkanani,Parviz Koozehkanani,Iranian footballer (1929-2025),Q794,Q3616
+Q2110825,Q6581097,1922-01-01T00:00:00Z,5,Mahmoud Shakibi,Mahmoud Shakibi,Iranian footballer,Q107258515,Q3616
+Q2110825,Q6581097,1922-01-01T00:00:00Z,5,Mahmoud Shakibi,Mahmoud Shakibi,Iranian footballer,Q794,Q3616
+Q23017879,Q6581097,1962-02-28T00:00:00Z,26,Amir Ali Hajizadeh,Amir Ali Hajizadeh,Iranian military officer,Q107258515,Q3616
+Q23017879,Q6581097,1962-02-28T00:00:00Z,26,Amir Ali Hajizadeh,Amir Ali Hajizadeh,Iranian military officer,Q794,Q3616
+Q2344792,Q6581097,1921-01-01T00:00:00Z,22,Hossein Wahid Khorasani,Hossein Vahid Khorasani,Iranian Grand Ayatollah,Q794,Q131350
+Q2344792,Q6581097,1921-01-01T00:00:00Z,22,Hossein Wahid Khorasani,Hossein Vahid Khorasani,Iranian Grand Ayatollah,Q107258515,Q131350
+Q2344792,Q6581097,1921-01-01T00:00:00Z,22,Hossein Wahid Khorasani,Hossein Vahid Khorasani,Iranian Grand Ayatollah,Q63158027,Q131350
+Q238539,Q6581072,1921-11-05T00:00:00Z,52,Fawzia of Egypt,Princess Fawzia Fuad of Egypt,queen consort of Iran from 1941 to 1948,Q107258515,Q1893940
+Q238539,Q6581072,1921-11-05T00:00:00Z,52,Fawzia of Egypt,Princess Fawzia Fuad of Egypt,queen consort of Iran from 1941 to 1948,Q3087763,Q1893940
+Q238539,Q6581072,1921-11-05T00:00:00Z,52,Fawzia of Egypt,Princess Fawzia Fuad of Egypt,queen consort of Iran from 1941 to 1948,Q79,Q1893940
+Q238539,Q6581072,1921-11-05T00:00:00Z,52,Fawzia of Egypt,Princess Fawzia Fuad of Egypt,queen consort of Iran from 1941 to 1948,Q170468,Q1893940
+Q238539,Q6581072,1921-11-05T00:00:00Z,52,Fawzia of Egypt,Princess Fawzia Fuad of Egypt,queen consort of Iran from 1941 to 1948,Q124943,Q1893940
+Q24897,Q6581097,1929-08-23T00:00:00Z,8,Najaf Daryabandari,Najaf Daryabandari,Iranian writer,Q107258515,Q63049
+Q24897,Q6581097,1929-08-23T00:00:00Z,8,Najaf Daryabandari,Najaf Daryabandari,Iranian writer,Q794,Q63049
+Q2506226,Q6581097,1957-01-22T00:00:00Z,10,Mohammad Hejazi,Mohammad Hejazi,Iranian military commander (1956–2021),Q794,Q42053
+Q2506226,Q6581097,1957-01-22T00:00:00Z,10,Mohammad Hejazi,Mohammad Hejazi,Iranian military commander (1956–2021),Q107258515,Q42053
+Q25423500,Q6581097,1965-03-21T00:00:00Z,19,Mohammad Mehdi Tehranchi,Mohammad Mehdi Tehranchi,sixth president of the Islamic Azad University,Q107258515,Q3616
+Q25423500,Q6581097,1965-03-21T00:00:00Z,19,Mohammad Mehdi Tehranchi,Mohammad Mehdi Tehranchi,sixth president of the Islamic Azad University,Q794,Q3616
+Q25999315,Q6581072,1945-03-02T00:00:00Z,13,Parvaneh Massoumi,Parvaneh Masumi,Iranian actress (1945–2023),Q107258515,Q3616
+Q25999315,Q6581072,1945-03-02T00:00:00Z,13,Parvaneh Massoumi,Parvaneh Masumi,Iranian actress (1945–2023),Q794,Q3616
+Q2614002,Q6581097,1919-02-20T00:00:00Z,17,Lotfollah Safi Golpaygani,Lotfollah Safi Golpaygani,Iranian Ayatollah (1919–2022),Q794,Q720421
+Q2614002,Q6581097,1919-02-20T00:00:00Z,17,Lotfollah Safi Golpaygani,Lotfollah Safi Golpaygani,Iranian Ayatollah (1919–2022),Q107258515,Q720421
+Q26210871,Q6581097,1974-01-01T00:00:00Z,2,Iman Afsarian,Iman Afsarian,Iranian painter (born 1974),Q107258515,Q794
+Q26210871,Q6581097,1974-01-01T00:00:00Z,2,Iman Afsarian,Iman Afsarian,Iranian painter (born 1974),Q794,Q794
+Q2633583,Q6581072,1959-01-04T00:00:00Z,22,Shohreh (singer),Shohreh Solati,Iranian pop singer,Q107258515,Q3616
+Q2638857,Q6581097,1930-01-24T00:00:00Z,19,Mahmoud Farshchian,Mahmoud Farshchian,Iranian artist,Q794,Q42053
+Q2638857,Q6581097,1930-01-24T00:00:00Z,19,Mahmoud Farshchian,Mahmoud Farshchian,Iranian artist,Q107258515,Q42053
+Q273866,Q6581097,1933-03-22T00:00:00Z,66,Abolhassan Banisadr,Abolhassan Banisadr,"Iranian politician and economist, and Iran's first President (1933–2021)",Q794,Q28587
+Q273866,Q6581097,1933-03-22T00:00:00Z,66,Abolhassan Banisadr,Abolhassan Banisadr,"Iranian politician and economist, and Iran's first President (1933–2021)",Q107258515,Q28587
+Q2826285,Q6581072,1961-01-02T00:00:00Z,12,Afsaneh Bayegan,Afsaneh Bayegan,Iranian actress,Q107258515,Q3616
+Q2826285,Q6581072,1961-01-02T00:00:00Z,12,Afsaneh Bayegan,Afsaneh Bayegan,Iranian actress,Q794,Q3616
+Q2828957,Q6581097,1960-08-26T00:00:00Z,15,Akbar Abdi,Akbar Abdi,Iranian actor and comedian,Q107258515,Q3616
+Q2828957,Q6581097,1960-08-26T00:00:00Z,15,Akbar Abdi,Akbar Abdi,Iranian actor and comedian,Q794,Q3616
+Q2869349,Q6581097,1957-04-30T00:00:00Z,12,Atila Pesyani,Atila Pesiani,Iranian actor,Q794,Q3616
+Q2869349,Q6581097,1957-04-30T00:00:00Z,12,Atila Pesyani,Atila Pesiani,Iranian actor,Q107258515,Q3616
+Q28714119,Q6581097,1961-07-11T00:00:00Z,16,Mohammad Kazemi,Mohammad Kazemi,Head of the Islamic Revolutionary Guard Corps Intelligence service (1961–2025),Q794,Q203045
+Q28714119,Q6581097,1961-07-11T00:00:00Z,16,Mohammad Kazemi,Mohammad Kazemi,Head of the Islamic Revolutionary Guard Corps Intelligence service (1961–2025),Q107258515,Q203045
+Q2895606,Q6581097,1961-03-21T00:00:00Z,41,Mohsen Fakhrizadeh,Mohsen Fakhrizadeh,Iranian general and physicist (1961–2020),Q107258515,Q170573
+Q2895606,Q6581097,1961-03-21T00:00:00Z,41,Mohsen Fakhrizadeh,Mohsen Fakhrizadeh,Iranian general and physicist (1961–2020),Q794,Q170573
+Q2895606,Q6581097,1958-01-01T00:00:00Z,41,Mohsen Fakhrizadeh,Mohsen Fakhrizadeh,Iranian general and physicist (1961–2020),Q794,Q170573
+Q2895606,Q6581097,1958-01-01T00:00:00Z,41,Mohsen Fakhrizadeh,Mohsen Fakhrizadeh,Iranian general and physicist (1961–2020),Q107258515,Q170573
+Q2904869,Q6581072,1958-03-21T00:00:00Z,11,Bita Farrahi,Bita Farahi,Iranian actress,Q794,Q3616
+Q2904869,Q6581072,1958-03-21T00:00:00Z,11,Bita Farrahi,Bita Farahi,Iranian actress,Q107258515,Q3616
+Q2984588,Q6581097,1937-10-13T00:00:00Z,13,Loris Tjeknavorian,Loris Tjeknavorian,Armenian-Iranian conductor and composer (b. 1937),Q399,Q605454
+Q2984588,Q6581097,1937-10-12T00:00:00Z,13,Loris Tjeknavorian,Loris Tjeknavorian,Armenian-Iranian conductor and composer (b. 1937),Q107258515,Q605454
+Q2984588,Q6581097,1937-10-12T00:00:00Z,13,Loris Tjeknavorian,Loris Tjeknavorian,Armenian-Iranian conductor and composer (b. 1937),Q40,Q605454
+Q2984588,Q6581097,1937-10-12T00:00:00Z,13,Loris Tjeknavorian,Loris Tjeknavorian,Armenian-Iranian conductor and composer (b. 1937),Q794,Q605454
+Q2984588,Q6581097,1937-10-13T00:00:00Z,13,Loris Tjeknavorian,Loris Tjeknavorian,Armenian-Iranian conductor and composer (b. 1937),Q40,Q605454
+Q2984588,Q6581097,1937-10-13T00:00:00Z,13,Loris Tjeknavorian,Loris Tjeknavorian,Armenian-Iranian conductor and composer (b. 1937),Q107258515,Q605454
+Q2984588,Q6581097,1937-10-12T00:00:00Z,13,Loris Tjeknavorian,Loris Tjeknavorian,Armenian-Iranian conductor and composer (b. 1937),Q399,Q605454
+Q2984588,Q6581097,1937-10-13T00:00:00Z,13,Loris Tjeknavorian,Loris Tjeknavorian,Armenian-Iranian conductor and composer (b. 1937),Q794,Q605454
+Q30123883,Q6581097,1951-07-07T00:00:00Z,7,Alireza Afshar,Alireza Afshar,Iranian military officer (1951-2025),Q107258515,Q121157
+Q30123883,Q6581097,1951-07-07T00:00:00Z,7,Alireza Afshar,Alireza Afshar,Iranian military officer (1951-2025),Q794,Q121157
+Q3091734,Q6581097,1903-02-23T00:00:00Z,19,Mahmoud Hessabi,Mahmoud Hessabi,Iranian scientist,Q107258515,Q3616
+Q30944693,Q6581097,1977-01-01T00:00:00Z,3,Mehrdad Afsari,Mehrdad Afsari,Iranian photographer (born 1977),Q794,Q605105
+Q30944693,Q6581097,1977-01-01T00:00:00Z,3,Mehrdad Afsari,Mehrdad Afsari,Iranian photographer (born 1977),Q107258515,Q605105
+Q3098537,Q6581097,1935-12-13T00:00:00Z,11,Reza Baraheni,Reza Baraheni,Iranian writer and academic (1935–2022),Q794,Q80053
+Q3098537,Q6581097,1935-12-13T00:00:00Z,11,Reza Baraheni,Reza Baraheni,Iranian writer and academic (1935–2022),Q107258515,Q80053
+Q31067274,Q6581097,1935-01-01T00:00:00Z,5,Seyed Abolfazl Mousavi Tabrizi,Abolfazl Mousavi Tabrizi,Iranian Twelver Shia cleric,Q794,Q80053
+Q31067274,Q6581097,1935-01-01T00:00:00Z,5,Seyed Abolfazl Mousavi Tabrizi,Abolfazl Mousavi Tabrizi,Iranian Twelver Shia cleric,Q107258515,Q80053
+Q31069614,Q6581097,1962-01-01T00:00:00Z,11,Mohammad Ali Ale-Hashem,Mohammad Ali Ale-Hashem,"representative of the Supreme Leader in East Azerbaijan, Iran (1962-2024)",Q794,Q80053
+Q31069614,Q6581097,1962-01-01T00:00:00Z,11,Mohammad Ali Ale-Hashem,Mohammad Ali Ale-Hashem,"representative of the Supreme Leader in East Azerbaijan, Iran (1962-2024)",Q107258515,Q80053
+Q3109977,Q6581072,1953-11-14T00:00:00Z,16,Golab Adineh,Golab Adineh,Iranian actress,Q794,Q272093
+Q3109977,Q6581072,1953-11-14T00:00:00Z,16,Golab Adineh,Golab Adineh,Iranian actress,Q794,Q3616
+Q3109977,Q6581072,1953-11-14T00:00:00Z,16,Golab Adineh,Golab Adineh,Iranian actress,Q107258515,Q272093
+Q3109977,Q6581072,1953-11-14T00:00:00Z,16,Golab Adineh,Golab Adineh,Iranian actress,Q107258515,Q3616
+Q3141004,Q6581097,1944-01-27T00:00:00Z,5,Hossein Omoumi,Hossein Omoumi,Iranian musician,Q107258515,Q42053
+Q3141004,Q6581097,1944-01-27T00:00:00Z,5,Hossein Omoumi,Hossein Omoumi,Iranian musician,Q794,Q42053
+Q3141242,Q6581097,1932-12-02T00:00:00Z,9,Houchang Nahavandi,Hushang Nahavandi,Iranian politician (1932-2025),Q794,Q178373
+Q3141242,Q6581097,1932-12-02T00:00:00Z,9,Houchang Nahavandi,Hushang Nahavandi,Iranian politician (1932-2025),Q107258515,Q178373
+Q3163111,Q6581097,1945-12-14T00:00:00Z,17,Javad Tabatabai,Javad Tabatabai,Iranian philosopher and political scientist (1945–2023),Q107258515,Q80053
+Q3163111,Q6581097,1945-12-14T00:00:00Z,17,Javad Tabatabai,Javad Tabatabai,Iranian philosopher and political scientist (1945–2023),Q794,Q80053
+Q322718,Q6581097,1903-01-01T00:00:00Z,10,Abolhassan E'tesami,Abolhassan Etessami,Iranian artist (1903–1978),Q63158027,Q643743
+Q322718,Q6581097,1903-01-01T00:00:00Z,10,Abolhassan E'tesami,Abolhassan Etessami,Iranian artist (1903–1978),Q107258515,Q643743
+Q3339641,Q6581097,1951-02-03T00:00:00Z,14,Hassan Firouzabadi,Hassan Firouzabadi,Chief of Staff of the Iranian Armed Forces (1951-2021),Q107258515,Q121157
+Q3339641,Q6581097,1951-02-03T00:00:00Z,14,Hassan Firouzabadi,Hassan Firouzabadi,Chief of Staff of the Iranian Armed Forces (1951-2021),Q794,Q121157
+Q334871,Q6581097,1960-10-31T00:00:00Z,67,Reza Pahlavi,Reza Pahlavi,last crown prince of Afghanistan (born 1960),Q107258515,Q3616
+Q336363,Q6581097,1958-06-03T00:00:00Z,58,Ali Larijani,Ali Larijani,Iranian politician and military officer (1958–2026),Q794,Q168193
+Q336363,Q6581097,1958-06-03T00:00:00Z,58,Ali Larijani,Ali Larijani,Iranian politician and military officer (1958–2026),Q107258515,Q168193
+Q339985,Q6581097,1956-01-01T00:00:00Z,13,Hamid Alidoosti,Hamid Alidousti,Iranian football player and manager (1956-2026),Q794,Q3616
+Q339985,Q6581097,1956-01-01T00:00:00Z,13,Hamid Alidoosti,Hamid Alidousti,Iranian football player and manager (1956-2026),Q107258515,Q3616
+Q35495614,Q6581097,1959-01-22T00:00:00Z,5,Nasser Biria,Nasser Saghaye-Biria,"Iranian politician, muslem imam & founder of Al-hadi school",Q107258515,Q180078
+Q35495614,Q6581097,1959-01-22T00:00:00Z,5,Nasser Biria,Nasser Saghaye-Biria,"Iranian politician, muslem imam & founder of Al-hadi school",Q794,Q180078
+Q3574863,Q6581072,1947-12-29T00:00:00Z,9,Zari Khoshkam,Zari Khoshkam,Iranian actress,Q794,Q42053
+Q3574863,Q6581072,1947-12-29T00:00:00Z,9,Zari Khoshkam,Zari Khoshkam,Iranian actress,Q107258515,Q42053
+Q357951,Q6581097,1945-01-01T00:00:00Z,37,Mehran Karimi Nasseri,Mehran Karimi Nasseri,Iranian refugee who spent 18 years in a French airport,Q223050,Q643172
+Q357951,Q6581097,1945-01-01T00:00:00Z,37,Mehran Karimi Nasseri,Mehran Karimi Nasseri,Iranian refugee who spent 18 years in a French airport,Q107258515,Q643172
+Q357951,Q6581097,1945-01-01T00:00:00Z,37,Mehran Karimi Nasseri,Mehran Karimi Nasseri,Iranian refugee who spent 18 years in a French airport,Q794,Q643172
+Q366521,Q6581097,1925-12-12T00:00:00Z,41,Ahmad Shamlou,Ahmad Shamloo,"Iranian Persian poet, writer, and journalist (1925-2000)",Q107258515,Q3616
+Q366521,Q6581097,1925-12-12T00:00:00Z,41,Ahmad Shamlou,Ahmad Shamloo,"Iranian Persian poet, writer, and journalist (1925-2000)",Q794,Q3616
+Q3667032,Q6581097,1945-01-01T00:00:00Z,9,Mustafa Hijri,Mustafa Hijri,General Secretary of the Democratic Party of Iranian Kurdistan,Q107258515,Q1820789
+Q3667032,Q6581097,1945-01-01T00:00:00Z,9,Mustafa Hijri,Mustafa Hijri,General Secretary of the Democratic Party of Iranian Kurdistan,Q794,Q1820789
+Q3739583,Q6581097,1938-01-01T00:00:00Z,12,Farhad Daftary,Farhad Daftary,Islamic scholar,Q107258515,Q240
+Q3739583,Q6581097,1938-01-01T00:00:00Z,12,Farhad Daftary,Farhad Daftary,Islamic scholar,Q145,Q240
+Q381254,Q6581097,1954-12-12T00:00:00Z,34,Kader Abdolah,Kader Abdolah,"Iranian-Dutch columnist, poet, writer",Q29999,Q212628
+Q381254,Q6581097,1954-12-12T00:00:00Z,34,Kader Abdolah,Kader Abdolah,"Iranian-Dutch columnist, poet, writer",Q794,Q212628
+Q381254,Q6581097,1954-12-12T00:00:00Z,34,Kader Abdolah,Kader Abdolah,"Iranian-Dutch columnist, poet, writer",Q107258515,Q212628
+Q402108,Q6581097,1902-01-01T00:00:00Z,9,Abdul Hosein Amini,Abdul-Hussein Amini,Iranian Muslim scholar,Q63158027,Q80053
+Q402108,Q6581097,1902-01-01T00:00:00Z,9,Abdul Hosein Amini,Abdul-Hussein Amini,Iranian Muslim scholar,Q107258515,Q80053
+Q4079184,Q6581097,1925-12-24T00:00:00Z,10,Mohammad Ebrahim Bastani Parizi,Mohammad Ebrahim Bastani Parizi,"Iranian Journalist, writer and historian",Q794,Q2420257
+Q4079184,Q6581097,1925-12-24T00:00:00Z,10,Mohammad Ebrahim Bastani Parizi,Mohammad Ebrahim Bastani Parizi,"Iranian Journalist, writer and historian",Q107258515,Q2420257
+Q4118104,Q6581097,1938-02-18T00:00:00Z,9,Azartash Azarnoosh,Azartash Azarnoush,Iranian academic (1938–2021),Q794,Q170573
+Q4118104,Q6581097,1938-02-18T00:00:00Z,9,Azartash Azarnoosh,Azartash Azarnoush,Iranian academic (1938–2021),Q107258515,Q170573
+Q4120523,Q6581097,1926-02-10T00:00:00Z,15,Hassan Hassanzadeh Amoli,Hassan Hassanzadeh Amoli,Iranian Islamic philosopher and theologian,Q107258515,Q610276
+Q4120523,Q6581097,1926-02-10T00:00:00Z,15,Hassan Hassanzadeh Amoli,Hassan Hassanzadeh Amoli,Iranian Islamic philosopher and theologian,Q794,Q610276
+Q4122123,Q6581097,1936-01-04T00:00:00Z,10,Gholam-Hossein Sa'edi,Gholam-Hossein Sa'edi,Iranan writer (1936-1985),Q107258515,Q80053
+Q41559640,Q6581097,1928-01-01T00:00:00Z,6,Morteza Shams,Morteza Shams,"Iranian physician, researcher, translator and poet",Q794,Q605105
+Q41559640,Q6581097,1928-01-01T00:00:00Z,6,Morteza Shams,Morteza Shams,"Iranian physician, researcher, translator and poet",Q107258515,Q605105
+Q4188894,Q6581097,1961-08-23T00:00:00Z,26,Mohammad Reza Zahedi,Mohammad-Reza Zahedi,Iranian brigadier general (1961-2024),Q794,Q42053
+Q4188894,Q6581097,1961-08-23T00:00:00Z,26,Mohammad Reza Zahedi,Mohammad-Reza Zahedi,Iranian brigadier general (1961-2024),Q107258515,Q42053
+Q4308292,Q6581097,1960-06-23T00:00:00Z,31,Abdolrahim Mousavi,Abdolrahim Mousavi,Iranian military officer and chief of staff of the Iranian Armed Forces (1960–2026),Q107258515,Q170573
+Q4308292,Q6581097,1960-06-23T00:00:00Z,31,Abdolrahim Mousavi,Abdolrahim Mousavi,Iranian military officer and chief of staff of the Iranian Armed Forces (1960–2026),Q794,Q170573
+Q4308768,Q6581097,1933-01-01T00:00:00Z,7,Mohammad Ebrahim Jannaati,Mohammad Ebrahim Jannaati,Iranian Grand Ayatollah,Q107258515,Q605002
+Q4308768,Q6581097,1933-01-01T00:00:00Z,7,Mohammad Ebrahim Jannaati,Mohammad Ebrahim Jannaati,Iranian Grand Ayatollah,Q794,Q605002
+Q4342368,Q6581097,1961-06-02T00:00:00Z,34,Mohammad Pakpour,Mohammad Pakpour,Iranian military officer and ex-commander of the IRGC (1961–2026),Q107258515,Q212628
+Q4342368,Q6581097,1961-06-02T00:00:00Z,34,Mohammad Pakpour,Mohammad Pakpour,Iranian military officer and ex-commander of the IRGC (1961–2026),Q794,Q212628
+Q435799,Q6581097,1944-12-01T00:00:00Z,22,Kamal Kharazi,Kamal Kharazi,Iranian academic and politician,Q107258515,Q3616
+Q435799,Q6581097,1944-12-01T00:00:00Z,22,Kamal Kharazi,Kamal Kharazi,Iranian academic and politician,Q794,Q3616
+Q4391340,Q6581097,1953-09-24T00:00:00Z,20,Gholam Ali Rashid,Gholam Ali Rasheed,Iranian military officer (1953–2025),Q107258515,Q605142
+Q4391340,Q6581097,1953-09-24T00:00:00Z,20,Gholam Ali Rashid,Gholam Ali Rasheed,Iranian military officer (1953–2025),Q794,Q605142
+Q446774,Q6581097,1946-10-29T00:00:00Z,18,Mohammad Reyshahri,Mohammad Reyshahri,Iranian cleric (1946–2022),Q794,Q636188
+Q446774,Q6581097,1946-10-29T00:00:00Z,18,Mohammad Reyshahri,Mohammad Reyshahri,Iranian cleric (1946–2022),Q107258515,Q636188
+Q449647,Q6581097,1914-03-20T00:00:00Z,13,Parviz Natel-Khanlari,Parviz Natel-Khanlari,Iranian scholar (1914-1990),Q794,Q3616
+Q449647,Q6581097,1914-03-20T00:00:00Z,13,Parviz Natel-Khanlari,Parviz Natel-Khanlari,Iranian scholar (1914-1990),Q63158027,Q3616
+Q449647,Q6581097,1914-03-20T00:00:00Z,13,Parviz Natel-Khanlari,Parviz Natel-Khanlari,Iranian scholar (1914-1990),Q107258515,Q3616
+Q4609817,Q6581072,1921-01-01T00:00:00Z,13,Jaleh Esfahani,Zhalah Isfahani,Iranian poet,Q107258515,Q2633350
+Q4609817,Q6581072,1921-01-01T00:00:00Z,13,Jaleh Esfahani,Zhalah Isfahani,Iranian poet,Q107258515,Q42053
+Q4609817,Q6581072,1921-01-01T00:00:00Z,13,Jaleh Esfahani,Zhalah Isfahani,Iranian poet,Q63158027,Q2633350
+Q4609817,Q6581072,1921-01-01T00:00:00Z,13,Jaleh Esfahani,Zhalah Isfahani,Iranian poet,Q63158027,Q42053
+Q4609817,Q6581072,1921-01-01T00:00:00Z,13,Jaleh Esfahani,Zhalah Isfahani,Iranian poet,Q794,Q2633350
+Q4609817,Q6581072,1921-01-01T00:00:00Z,13,Jaleh Esfahani,Zhalah Isfahani,Iranian poet,Q794,Q42053
+Q464394,Q6581072,1935-01-05T00:00:00Z,59,Forugh Farrokhzad,Forugh Farrokhzad,Iranian poet (1935-1967),Q107258515,Q3616
+Q465906,Q6581097,1940-08-10T00:00:00Z,13,Aref (singer),Aref Arefkia,Iranian singer and former actor,Q794,Q3616
+Q465906,Q6581097,1940-08-10T00:00:00Z,13,Aref (singer),Aref Arefkia,Iranian singer and former actor,Q107258515,Q3616
+Q4663730,Q6581097,1944-03-06T00:00:00Z,4,Abbas Anvari,Abbas Anvari,Iranian physicist,Q794,Q3616
+Q4663730,Q6581097,1944-03-06T00:00:00Z,4,Abbas Anvari,Abbas Anvari,Iranian physicist,Q107258515,Q3616
+Q466672,Q6581072,1927-07-20T00:00:00Z,36,Simin Behbahani,Simin Behbahani,Iranian poet (1927-2014),Q107258515,Q3616
+Q466672,Q6581072,1927-07-20T00:00:00Z,36,Simin Behbahani,Simin Behbahani,Iranian poet (1927-2014),Q794,Q3616
+Q4695236,Q6581097,1947-02-10T00:00:00Z,6,Ahmad Akbari,Ahmad Akbari,fencer (1947–2022),Q794,
+Q4695236,Q6581097,1947-02-10T00:00:00Z,6,Ahmad Akbari,Ahmad Akbari,fencer (1947–2022),Q107258515,
+Q4695247,Q6581097,1944-09-01T00:00:00Z,10,Ahmad Alamolhoda,Ahmad Alamolhoda,Iranian cleric leader,Q794,Q121157
+Q4695247,Q6581097,1944-09-01T00:00:00Z,10,Ahmad Alamolhoda,Ahmad Alamolhoda,Iranian cleric leader,Q107258515,Q121157
+Q4695666,Q6581097,1940-05-20T00:00:00Z,10,Ahmadreza Ahmadi,Ahmadreza Ahmadi,Iranian poet and screenwriter (1940–2023),Q107258515,Q171714
+Q4695666,Q6581097,1940-05-20T00:00:00Z,10,Ahmadreza Ahmadi,Ahmadreza Ahmadi,Iranian poet and screenwriter (1940–2023),Q794,Q171714
+Q4700424,Q6581097,1944-12-26T00:00:00Z,12,Akbar Kargarjam,Akbar Kargarjam,Iranian footballer (1944-2025),Q794,Q3616
+Q4700424,Q6581097,1944-12-26T00:00:00Z,12,Akbar Kargarjam,Akbar Kargarjam,Iranian footballer (1944-2025),Q107258515,Q3616
+Q471787,Q6581097,1914-06-26T00:00:00Z,33,Shapour Bakhtiar,Shapour Bakhtiar,Iranian politician,Q107258515,Q42053
+Q4724604,Q6581097,1930-09-04T00:00:00Z,6,Ali Akbar Tabatabaei,Ali Akbar Tabatabaei,Iranian diplomat (1930–1980),Q107258515,Q28587
+Q4726870,Q6581097,1950-01-12T00:00:00Z,13,Alireza Azizi,Alireza Azizi,Iranian footballer (1950-2021),Q794,Q63049
+Q4726870,Q6581097,1950-01-12T00:00:00Z,13,Alireza Azizi,Alireza Azizi,Iranian footballer (1950-2021),Q107258515,Q63049
+Q4746497,Q6581097,1925-02-27T00:00:00Z,6,Amir-Hossein Aryanpour,Amir-Hossein Aryanpour,Iranian academic,Q794,Q3616
+Q4746497,Q6581097,1925-02-27T00:00:00Z,6,Amir-Hossein Aryanpour,Amir-Hossein Aryanpour,Iranian academic,Q107258515,Q3616
+Q4803277,Q6581097,1934-03-06T00:00:00Z,8,Asadollah Asgaroladi,Asadollah Asgaroladi,Iranian businessman,Q794,Q3616
+Q4803277,Q6581097,1934-03-06T00:00:00Z,8,Asadollah Asgaroladi,Asadollah Asgaroladi,Iranian businessman,Q107258515,Q3616
+Q4967771,Q6581072,1972-04-21T00:00:00Z,92,Narges Mohammadi,Narges Mohammadi,Iranian human rights activist (born 1972),Q794,Q146699
+Q4967771,Q6581072,1972-04-21T00:00:00Z,92,Narges Mohammadi,Narges Mohammadi,Iranian human rights activist (born 1972),Q107258515,Q146699
+Q5222976,Q6581097,1944-09-08T00:00:00Z,11,Dariush Mostafavi,Dariush Mostafavi,Iranian footballer (1944-2025),Q794,Q3616
+Q5222976,Q6581097,1944-09-08T00:00:00Z,11,Dariush Mostafavi,Dariush Mostafavi,Iranian footballer (1944-2025),Q107258515,Q3616
+Q5228159,Q6581072,1964-01-01T00:00:00Z,5,Davar Ardalan,Davar Ardalan,"American and Iranian journalist, writer, strategist (born 1964)",Q794,Q30
+Q5228159,Q6581072,1964-01-01T00:00:00Z,5,Davar Ardalan,Davar Ardalan,"American and Iranian journalist, writer, strategist (born 1964)",Q107258515,Q30
+Q5228159,Q6581072,1964-01-01T00:00:00Z,5,Davar Ardalan,Davar Ardalan,"American and Iranian journalist, writer, strategist (born 1964)",Q30,Q30
+Q5331990,Q6581097,1933-12-26T00:00:00Z,3,Ebrahim Victory,Ebrahim Victory,Iranian scientist,Q794,Q3616
+Q5331990,Q6581097,1933-12-26T00:00:00Z,3,Ebrahim Victory,Ebrahim Victory,Iranian scientist,Q107258515,Q3616
+Q5436325,Q6581097,1929-11-22T00:00:00Z,5,Farrokh Saidi,Farrokh Saidi,Iranian academic,Q794,Q3616
+Q5436325,Q6581097,1929-11-22T00:00:00Z,5,Farrokh Saidi,Farrokh Saidi,Iranian academic,Q107258515,Q3616
+Q5545411,Q6581097,1929-07-22T00:00:00Z,7,George V. Chilingar,George V. Chilingar,American geologist,Q30,Q994
+Q5545411,Q6581097,1929-07-22T00:00:00Z,7,George V. Chilingar,George V. Chilingar,American geologist,Q107258515,Q994
+Q5545411,Q6581097,1929-07-22T00:00:00Z,7,George V. Chilingar,George V. Chilingar,American geologist,Q15180,Q994
+Q56253890,Q6581097,1962-01-01T00:00:00Z,23,Alireza Tangsiri,Alireza Tangsiri,Iranian military officer,Q794,Q1277789
+Q56253890,Q6581097,1963-08-27T00:00:00Z,23,Alireza Tangsiri,Alireza Tangsiri,Iranian military officer,Q794,Q1277789
+Q56253890,Q6581097,1963-08-27T00:00:00Z,23,Alireza Tangsiri,Alireza Tangsiri,Iranian military officer,Q107258515,Q1277789
+Q56253890,Q6581097,1962-01-01T00:00:00Z,23,Alireza Tangsiri,Alireza Tangsiri,Iranian military officer,Q107258515,Q1277789
+Q56367643,Q6581097,1964-01-01T00:00:00Z,37,Aziz Nasirzadeh,Aziz Nasirzadeh,Iranian military officer (1964–2026),Q107258515,Q863240
+Q56367643,Q6581097,1964-01-01T00:00:00Z,37,Aziz Nasirzadeh,Aziz Nasirzadeh,Iranian military officer (1964–2026),Q794,Q863240
+Q5679668,Q6581097,1939-02-07T00:00:00Z,11,Hassan Habibi (footballer),Hassan Habibi,Iranian association football player,Q794,Q171714
+Q5679668,Q6581097,1939-02-07T00:00:00Z,11,Hassan Habibi (footballer),Hassan Habibi,Iranian association football player,Q107258515,Q171714
+Q5679838,Q6581097,1947-05-26T00:00:00Z,8,Hassan Shariatmadari,Hassan Shariatmadari,Iranian opposition politician and a leading proponent of the Free Elections Movement,Q107258515,Q80053
+Q5679838,Q6581097,1947-05-26T00:00:00Z,8,Hassan Shariatmadari,Hassan Shariatmadari,Iranian opposition politician and a leading proponent of the Free Elections Movement,Q794,Q80053
+Q57336,Q6581097,1939-04-19T00:00:00Z,162,Ali Khamenei,Ali Khamenei,Supreme Leader of Iran from 1989 to 2026,Q107258515,Q121157
+Q57336,Q6581097,1939-04-19T00:00:00Z,162,Ali Khamenei,Ali Khamenei,Supreme Leader of Iran from 1989 to 2026,Q794,Q121157
+Q5937196,Q6581097,1930-02-03T00:00:00Z,6,Akbar Etemad,Akbar Etemad,former Iranian deputy prime minister,Q107258515,Q28587
+Q5937196,Q6581097,1930-02-03T00:00:00Z,6,Akbar Etemad,Akbar Etemad,former Iranian deputy prime minister,Q794,Q28587
+Q5940547,Q6581072,1949-01-09T00:00:00Z,10,Shirin Yazdanbakhsh,Shirin Yazdanbakhsh,Iranian actress (1949-2025),Q794,Q42053
+Q5940547,Q6581072,1949-01-09T00:00:00Z,10,Shirin Yazdanbakhsh,Shirin Yazdanbakhsh,Iranian actress (1949-2025),Q107258515,Q42053
+Q5943690,Q6581097,1941-09-11T00:00:00Z,15,Parviz Poorhosseini,Parviz PoorHosseini,Iranian actor (1941–2020),Q107258515,Q3616
+Q5943690,Q6581097,1941-09-11T00:00:00Z,15,Parviz Poorhosseini,Parviz PoorHosseini,Iranian actor (1941–2020),Q794,Q3616
+Q5945232,Q6581072,1919-12-13T00:00:00Z,19,Mehrangiz Dowlatshahi,Mehrangiz Dowlatshahi,"Iranian politician, writer and diplomat (1919–2008)",Q107258515,Q3616
+Q5946269,Q6581072,1964-01-01T00:00:00Z,35,Fatemeh Rahbar,Fatemeh Rahbar,Iranian politician (1964–2020),Q107258515,Q3616
+Q5946269,Q6581072,1964-01-01T00:00:00Z,35,Fatemeh Rahbar,Fatemeh Rahbar,Iranian politician (1964–2020),Q794,Q3616
+Q5947347,Q6581097,1960-12-14T00:00:00Z,99,Ebrahim Raisi,Ebrahim Raisi,President of Iran from 2021 to 2024,Q794,Q121157
+Q5947347,Q6581097,1960-12-14T00:00:00Z,99,Ebrahim Raisi,Ebrahim Raisi,President of Iran from 2021 to 2024,Q107258515,Q121157
+Q5947541,Q6581097,1916-10-12T00:00:00Z,3,Morteza Haeri Yazdi,Morteza Haeri Yazdi,Iranian Ayatollah (1916–1986),Q63158027,Q212628
+Q5947541,Q6581097,1916-10-12T00:00:00Z,3,Morteza Haeri Yazdi,Morteza Haeri Yazdi,Iranian Ayatollah (1916–1986),Q794,Q212628
+Q5947541,Q6581097,1916-10-12T00:00:00Z,3,Morteza Haeri Yazdi,Morteza Haeri Yazdi,Iranian Ayatollah (1916–1986),Q107258515,Q212628
+Q5948642,Q6581097,1934-04-10T00:00:00Z,4,Cyrus Amouzgar,Cyrus Amouzgar,"Iranian journalist, writer, politician, essayist and playwright (1934–2021)",Q794,Q605157
+Q5948642,Q6581097,1934-04-10T00:00:00Z,4,Cyrus Amouzgar,Cyrus Amouzgar,"Iranian journalist, writer, politician, essayist and playwright (1934–2021)",Q107258515,Q605157
+Q5951091,Q6581097,1950-12-27T00:00:00Z,9,Reza Rooygari,Reza Rooygari,Iranian actor singer (1950-2026),Q107258515,Q3616
+Q5951091,Q6581097,1950-12-27T00:00:00Z,9,Reza Rooygari,Reza Rooygari,Iranian actor singer (1950-2026),Q794,Q3616
+Q5952273,Q6581097,1945-03-27T00:00:00Z,7,Enayatollah Bakhshi,Enayatollah Bakhshi,Iranian actor (1945-2026),Q107258515,Q609422
+Q5952273,Q6581097,1945-03-27T00:00:00Z,7,Enayatollah Bakhshi,Enayatollah Bakhshi,Iranian actor (1945-2026),Q794,Q609422
+Q5953942,Q6581097,1937-01-01T00:00:00Z,7,Mohsen Mojtahed Shabestari,Mohsen Mojtahed Shabestari,Iranian politician (1937–2021),Q794,Q765501
+Q5953942,Q6581097,1937-01-01T00:00:00Z,7,Mohsen Mojtahed Shabestari,Mohsen Mojtahed Shabestari,Iranian politician (1937–2021),Q107258515,Q765501
+Q5954688,Q6581097,1934-08-15T00:00:00Z,13,Ebrahim Abadi,Ebrahim Abadi,Iranian actor (1934–2019),Q107258515,Q80053
+Q5954688,Q6581097,1934-08-15T00:00:00Z,13,Ebrahim Abadi,Ebrahim Abadi,Iranian actor (1934–2019),Q794,Q80053
+Q5954901,Q6581072,1900-01-01T00:00:00Z,8,Fakhr-Ozma Arghun,Fahr-Ozma Arghun,"Iranian teacher, journalist and poet",Q107258515,Q3616
+Q5956105,Q6581097,1926-05-05T00:00:00Z,7,Abdolmohammad Ayati,Abdolmohammad Ayati,Iranian writer and translator (1926–2013),Q107258515,Q605454
+Q5956105,Q6581097,1926-05-05T00:00:00Z,7,Abdolmohammad Ayati,Abdolmohammad Ayati,Iranian writer and translator (1926–2013),Q794,Q605454
+Q5956550,Q6581097,1945-11-15T00:00:00Z,5,Amir Mahmud Anvar,Amir Mahmud Anvar,Iranian academic and poet (1945-2012),Q794,Q3616
+Q5956550,Q6581097,1945-11-15T00:00:00Z,5,Amir Mahmud Anvar,Amir Mahmud Anvar,Iranian academic and poet (1945-2012),Q107258515,Q3616
+Q5958400,Q6581097,1902-01-01T00:00:00Z,5,Allameh Abul Hasan Sharani,Allameh Abul Hasan Sharani,Iranian translator,Q107258515,Q3616
+Q5958400,Q6581097,1902-01-01T00:00:00Z,5,Allameh Abul Hasan Sharani,Allameh Abul Hasan Sharani,Iranian translator,Q63158027,Q3616
+Q5960050,Q6581097,1933-01-08T00:00:00Z,6,Zaynolabideen Ghorbani,Zaynolabideen Ghorbani,Iranian Ayatollah (1933–2026),Q107258515,Q5857114
+Q5960050,Q6581097,1933-01-08T00:00:00Z,6,Zaynolabideen Ghorbani,Zaynolabideen Ghorbani,Iranian Ayatollah (1933–2026),Q794,Q5857114
+Q5960097,Q6581097,1940-10-23T00:00:00Z,7,Lotfollah Meisami,Lotfollah Meisami,Iranian journalist and publisher (born 1942),Q107258515,Q42053
+Q5960097,Q6581097,1940-10-23T00:00:00Z,7,Lotfollah Meisami,Lotfollah Meisami,Iranian journalist and publisher (born 1942),Q794,Q42053
+Q5960488,Q6581097,1942-06-01T00:00:00Z,9,Faramarz Zelli,Faramarz Zelli,Iranian footballer,Q107258515,Q3616
+Q5960488,Q6581097,1942-06-01T00:00:00Z,9,Faramarz Zelli,Faramarz Zelli,Iranian footballer,Q794,Q3616
+Q5962272,Q6581097,1956-06-27T00:00:00Z,7,Kourosh Safavi,Kourosh Safavi,"Iranian Linguist, Translator, University Professor (1956 - 2023)",Q794,Q3616
+Q5962272,Q6581097,1956-06-27T00:00:00Z,7,Kourosh Safavi,Kourosh Safavi,"Iranian Linguist, Translator, University Professor (1956 - 2023)",Q107258515,Q3616
+Q5964075,Q6581097,1915-01-14T00:00:00Z,8,Mahmoud Etemadzadeh,Mahmoud Etemadzadeh,Iranian writer (1915–2006),Q63158027,Q178373
+Q5964075,Q6581097,1915-01-14T00:00:00Z,8,Mahmoud Etemadzadeh,Mahmoud Etemadzadeh,Iranian writer (1915–2006),Q794,Q178373
+Q5964075,Q6581097,1915-01-14T00:00:00Z,8,Mahmoud Etemadzadeh,Mahmoud Etemadzadeh,Iranian writer (1915–2006),Q107258515,Q178373
+Q61122385,Q6581097,1925-03-05T00:00:00Z,8,Ismayil Jafarpour,Ismail Jafarpur,"Azerbaijani orientalist, poet, member of the “21 Azer” movement",Q107258515,Q5957741
+Q61122385,Q6581097,1925-03-05T00:00:00Z,8,Ismayil Jafarpour,Ismail Jafarpur,"Azerbaijani orientalist, poet, member of the “21 Azer” movement",Q131337,Q5957741
+Q61122385,Q6581097,1925-03-05T00:00:00Z,8,Ismayil Jafarpour,Ismail Jafarpur,"Azerbaijani orientalist, poet, member of the “21 Azer” movement",Q2305337,Q5957741
+Q618216,Q6581097,1941-01-01T00:00:00Z,9,Abdul Rahman Haji Ahmadi,Abdul Rahman Haji Ahmadi,Iranian Kurdish militant leader (1941–2025),Q107258515,Q335518
+Q618216,Q6581097,1941-01-01T00:00:00Z,9,Abdul Rahman Haji Ahmadi,Abdul Rahman Haji Ahmadi,Iranian Kurdish militant leader (1941–2025),Q794,Q335518
+Q619103,Q6581097,1957-08-01T00:00:00Z,5,Mehran Kardar,Mehran Kardar,Iranian physicist,Q30,Q794
+Q619103,Q6581097,1957-08-01T00:00:00Z,5,Mehran Kardar,Mehran Kardar,Iranian physicist,Q107258515,Q794
+Q6393595,Q6581072,1961-12-31T00:00:00Z,17,Katayoun Riahi,Katayoun Riahi,Iranian actress,Q107258515,Q3616
+Q6400784,Q6581097,1901-01-01T00:00:00Z,9,Mahdi Elahi Ghomshei,Mirza Mahdi Elahi Qomshehei,"Iranian poet, philosopher and translator",Q107258515,Q42053
+Q6400784,Q6581097,1901-01-01T00:00:00Z,9,Mahdi Elahi Ghomshei,Mirza Mahdi Elahi Qomshehei,"Iranian poet, philosopher and translator",Q63158027,Q42053
+Q648986,Q6581097,1930-08-27T00:00:00Z,29,Gholamreza Takhti,Gholamreza Takhti,Iranian wrestler (1930–1968),Q107258515,Q3616
+Q65055486,Q6581097,1964-12-24T00:00:00Z,20,Gholamreza Soleimani,Gholamreza Soleimani,Iranian military commander (1964-2026),Q107258515,Q2325495
+Q65055486,Q6581097,1964-12-24T00:00:00Z,20,Gholamreza Soleimani,Gholamreza Soleimani,Iranian military commander (1964-2026),Q794,Q2325495
+Q65195624,Q6581097,1957-08-08T00:00:00Z,34,Esmail Qaani,Esmail Ghaani,Iranian general in the Quds Force,Q794,Q121157
+Q65195624,Q6581097,1957-08-08T00:00:00Z,34,Esmail Qaani,Esmail Ghaani,Iranian general in the Quds Force,Q107258515,Q121157
+Q6583481,Q6581097,1939-04-22T00:00:00Z,7,Mahmoud Yavari,Mahmoud Yavari,Iranian football coach (1939-2020),Q794,Q42053
+Q6583481,Q6581097,1939-04-22T00:00:00Z,7,Mahmoud Yavari,Mahmoud Yavari,Iranian football coach (1939-2020),Q107258515,Q42053
+Q672145,Q6581097,1928-05-15T00:00:00Z,28,Musa al-Sadr,Al Sayed Musa al-Sadr,Lebanese Shiite jurist and political activist,Q822,Q170573
+Q672145,Q6581097,1928-04-15T00:00:00Z,28,Musa al-Sadr,Al Sayed Musa al-Sadr,Lebanese Shiite jurist and political activist,Q107258515,Q170573
+Q672145,Q6581097,1928-04-15T00:00:00Z,28,Musa al-Sadr,Al Sayed Musa al-Sadr,Lebanese Shiite jurist and political activist,Q822,Q170573
+Q672145,Q6581097,1928-05-15T00:00:00Z,28,Musa al-Sadr,Al Sayed Musa al-Sadr,Lebanese Shiite jurist and political activist,Q107258515,Q170573
+Q6734323,Q6581097,1928-03-22T00:00:00Z,10,Mahmoud Bayati,Mahmoud Bayati,Iranian footballer and manager,Q794,Q3616
+Q6734323,Q6581097,1928-03-22T00:00:00Z,10,Mahmoud Bayati,Mahmoud Bayati,Iranian footballer and manager,Q107258515,Q3616
+Q6891612,Q6581097,1924-08-25T00:00:00Z,8,Mohammad-Ali Eslami Nodooshan,Mohammad-Ali Eslami Nodooshan,"Iranian former jurisprudent and judge, academic, author and essayist",Q794,Q2450795
+Q6891612,Q6581097,1924-08-25T00:00:00Z,8,Mohammad-Ali Eslami Nodooshan,Mohammad-Ali Eslami Nodooshan,"Iranian former jurisprudent and judge, academic, author and essayist",Q107258515,Q2450795
+Q6891631,Q6581097,1934-01-04T00:00:00Z,4,Mohammad-Reza Bateni,Mohammad-Reza Bateni,"Iranian Linguist, Writer and Translator (1934 - 2021)",Q794,Q42053
+Q6891631,Q6581097,1934-01-04T00:00:00Z,4,Mohammad-Reza Bateni,Mohammad-Reza Bateni,"Iranian Linguist, Writer and Translator (1934 - 2021)",Q107258515,Q42053
+Q6892124,Q6581097,1935-09-07T00:00:00Z,7,Mohammad Khadem,Mohammad Khadem,Iranian wrestler,Q794,Q121157
+Q6892124,Q6581097,1935-09-07T00:00:00Z,7,Mohammad Khadem,Mohammad Khadem,Iranian wrestler,Q107258515,Q121157
+Q6895710,Q6581097,1947-09-01T00:00:00Z,11,Abdolhamid Ismaeelzahi,Abdol-Hamid Isam'eelzahi,Iranian Islamic scholar,Q794,Q5817901
+Q6895710,Q6581097,1947-09-01T00:00:00Z,11,Abdolhamid Ismaeelzahi,Abdol-Hamid Isam'eelzahi,Iranian Islamic scholar,Q107258515,Q5817901
+Q6925992,Q6581097,1928-03-02T00:00:00Z,12,Mousa Shubairi Zanjani,Mousa Shubairi Zanjani,Iranian grand ayatollah (1928–2026),Q107258515,Q170573
+Q6925992,Q6581097,1928-03-02T00:00:00Z,12,Mousa Shubairi Zanjani,Mousa Shubairi Zanjani,Iranian grand ayatollah (1928–2026),Q794,Q170573
+Q7136993,Q6581072,1932-03-21T00:00:00Z,6,Pari Saberi,Pari Saberi,Iranian theatre director (1932–2024),Q107258515,Q171714
+Q7136993,Q6581072,1932-03-21T00:00:00Z,6,Pari Saberi,Pari Saberi,Iranian theatre director (1932–2024),Q794,Q171714
+Q7141361,Q6581097,1945-12-04T00:00:00Z,15,Parviz Ghelichkhani,Parviz Ghelichkhani,Iranian footballer,Q142,Q3616
+Q7141361,Q6581097,1945-12-04T00:00:00Z,15,Parviz Ghelichkhani,Parviz Ghelichkhani,Iranian footballer,Q794,Q3616
+Q7141361,Q6581097,1945-12-04T00:00:00Z,15,Parviz Ghelichkhani,Parviz Ghelichkhani,Iranian footballer,Q107258515,Q3616
+Q7461818,Q6581072,1927-02-07T00:00:00Z,17,Shahla Riahi,Shahla Riahi,Iranian actress (1926–2019),Q794,Q3616
+Q7461818,Q6581072,1927-02-07T00:00:00Z,17,Shahla Riahi,Shahla Riahi,Iranian actress (1926–2019),Q107258515,Q3616
+Q7506733,Q6581097,1954-08-11T00:00:00Z,5,Siamak Shayeghi,Siamak Shayeghi,Iranian film director,Q107258515,Q63049
+Q7506733,Q6581097,1954-08-11T00:00:00Z,5,Siamak Shayeghi,Siamak Shayeghi,Iranian film director,Q794,Q63049
+Q771161,Q6581097,1926-07-15T00:00:00Z,10,Mohammad Sadeq Rouhani,Sayyid Sadeq Rohani,Iranian Grand Ayatollah (1926–2022),Q794,Q170573
+Q771161,Q6581097,1926-07-15T00:00:00Z,10,Mohammad Sadeq Rouhani,Sayyid Sadeq Rohani,Iranian Grand Ayatollah (1926–2022),Q107258515,Q170573
+Q775760,Q6581097,1906-01-06T00:00:00Z,23,Mohammad Kazem Shariatmadari,Mohammad Kazem Shariatmadari,Iranian Grand Ayatollah (1906-1986),Q107258515,Q80053
+Q775760,Q6581097,1906-01-06T00:00:00Z,23,Mohammad Kazem Shariatmadari,Mohammad Kazem Shariatmadari,Iranian Grand Ayatollah (1906-1986),Q63158027,Q80053
+Q775760,Q6581097,1906-01-06T00:00:00Z,23,Mohammad Kazem Shariatmadari,Mohammad Kazem Shariatmadari,Iranian Grand Ayatollah (1906-1986),Q794,Q80053
+Q803646,Q6581097,1938-12-26T00:00:00Z,29,Bahram Beyzai,Bahram Beyzai,Iranian film director (1938-2025),Q107258515,Q3616
+Q803646,Q6581097,1938-12-26T00:00:00Z,29,Bahram Beyzai,Bahram Beyzai,Iranian film director (1938-2025),Q794,Q3616
+Q8046591,Q6581097,1926-06-12T00:00:00Z,9,Yadollah Maftun Amini,Yadollah Maftun Amini,Iranian Azerbaijani poet,Q107258515,Q862551
+Q8046591,Q6581097,1926-06-12T00:00:00Z,9,Yadollah Maftun Amini,Yadollah Maftun Amini,Iranian Azerbaijani poet,Q794,Q862551
+Q8070098,Q6581072,1927-08-06T00:00:00Z,9,Zhaleh Olov,Zhaleh Olov,Iranian actress (1927–2024),Q794,Q6558741
+Q8070098,Q6581072,1927-08-06T00:00:00Z,9,Zhaleh Olov,Zhaleh Olov,Iranian actress (1927–2024),Q107258515,Q6558741
+Q85972824,Q6581097,1942-01-01T00:00:00Z,4,Abd al-Rahim Aqiqi Bakhshayishi,Abd al-Rahim Aqiqi Bakhshayishi,Iranian religious writer,Q107258515,Q4371604
+Q85972824,Q6581097,1942-01-01T00:00:00Z,4,Abd al-Rahim Aqiqi Bakhshayishi,Abd al-Rahim Aqiqi Bakhshayishi,Iranian religious writer,Q794,Q4371604
+Q892014,Q6581097,1957-03-11T00:00:00Z,92,Qasem Soleimani,Qasem Soleimani,Iranian military officer (1957–2020),Q794,Q5789227
+Q892014,Q6581097,1957-03-11T00:00:00Z,92,Qasem Soleimani,Qasem Soleimani,Iranian military officer (1957–2020),Q107258515,Q5789227
+Q92767,Q6581097,1921-02-04T00:00:00Z,47,Lotfi A. Zadeh,Lotfi A. Zadeh,American electrical engineer and computer scientist (1921–2017),Q107258515,Q2059406
+Q92767,Q6581097,1921-02-04T00:00:00Z,47,Lotfi A. Zadeh,Lotfi A. Zadeh,American electrical engineer and computer scientist (1921–2017),Q15180,Q2059406
+Q92767,Q6581097,1921-02-04T00:00:00Z,47,Lotfi A. Zadeh,Lotfi A. Zadeh,American electrical engineer and computer scientist (1921–2017),Q30,Q2059406
+Q951044,Q6581097,1910-09-09T00:00:00Z,26,Jafar Sharif-Emami,Jafar Sharif-Emami,Persian engineer and politician (1910-1998),Q107258515,Q3616
+Q951044,Q6581097,1910-09-08T00:00:00Z,26,Jafar Sharif-Emami,Jafar Sharif-Emami,Persian engineer and politician (1910-1998),Q107258515,Q3616
+Q959920,Q6581097,1937-10-16T00:00:00Z,15,Yousef Saanei,Yousef Saanei,Iranian grand ayatollah (1937-2020),Q107258515,Q4371518
+Q959920,Q6581097,1937-10-16T00:00:00Z,15,Yousef Saanei,Yousef Saanei,Iranian grand ayatollah (1937-2020),Q794,Q4371518
+Q97209591,Q6581072,1967-01-01T00:00:00Z,2,Shirin Rouhanirad,Shirin Rouhanirad,Iranian physician (1967–2020),Q107258515,
+Q97209591,Q6581072,1967-01-01T00:00:00Z,2,Shirin Rouhanirad,Shirin Rouhanirad,Iranian physician (1967–2020),Q794,
+Q981435,Q6581097,1952-02-05T00:00:00Z,20,Parviz Davoodi,Parviz Davoodi,Iranian politician (1952–2024),Q107258515,Q3616
+Q981435,Q6581097,1952-02-05T00:00:00Z,20,Parviz Davoodi,Parviz Davoodi,Iranian politician (1952–2024),Q794,Q3616

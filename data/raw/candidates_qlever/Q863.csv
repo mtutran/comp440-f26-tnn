@@ -1,0 +1,536 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q101265964,Q6581097,2002-01-12T00:00:00Z,5,Islom Zoirov,Islom Zoirov,tajikistani professional football player,Q863,Q132043
+Q101266180,Q6581097,2002-09-12T00:00:00Z,8,Rustam Soirov,Rustam Soirov,Tajikistani professional football player (born 2002),Q863,Q9365
+Q10553630,Q6581097,1992-09-29T00:00:00Z,13,Akhtam Nazarov,Akhtam Nazarov,Tajikistani footballer,Q863,Q9365
+Q10553630,Q6581097,1988-02-08T00:00:00Z,13,Akhtam Nazarov,Akhtam Nazarov,Tajikistani footballer,Q863,Q9365
+Q10553634,Q6581097,1981-08-04T00:00:00Z,6,Alisher Dodov,Alisher Dodov,footballer,Q863,Q648709
+Q10555679,Q6581097,1994-03-06T00:00:00Z,11,Jahongir Ergashev,Jahongir Ergashev,Tajikistani footballer,Q863,Q373808
+Q10555679,Q6581097,1994-03-06T00:00:00Z,11,Jahongir Ergashev,Jahongir Ergashev,Tajikistani footballer,Q863,Q9365
+Q105906391,Q6581097,1993-01-01T00:00:00Z,4,Khushqadam Khusravov,Khushqadam Khusravov,tajikistani male sambist,Q863,Q2669456
+Q106232043,Q6581097,2004-08-06T00:00:00Z,8,Alidzhoni Ayni,Aliçoni Ajni,tajikistani professional football player,Q863,Q132043
+Q106255184,Q6581097,1974-11-01T00:00:00Z,3,Dmitry Saltsman,Dmitry Saltsman,tajikistani footballer,Q863,
+Q106255184,Q6581097,1974-11-01T00:00:00Z,3,Dmitry Saltsman,Dmitry Saltsman,tajikistani footballer,Q15180,
+Q106255184,Q6581097,1974-11-01T00:00:00Z,3,Dmitry Saltsman,Dmitry Saltsman,tajikistani footballer,Q159,
+Q106329435,Q6581072,1998-02-15T00:00:00Z,7,Madina Aknazarova,Madina Aknazarova,Tajikistani singer,Q863,Q373808
+Q106355139,Q6581072,1972-09-19T00:00:00Z,3,Matlubakhon Sattoriyon,Matlubakhon Sattoriyon,Tajik statesman and politician,Q863,Q2592692
+Q106602185,Q6581097,1997-07-08T00:00:00Z,21,Temur Rakhimov,Temur Rakhimov,Tajikistani judoka,Q863,Q9365
+Q106808222,Q6581097,1967-01-01T00:00:00Z,3,Rajabali Rahmonali,Rajabali Rahmonali,,Q863,
+Q106808962,Q6581097,1996-01-14T00:00:00Z,3,Akmal Murodov,Akmal Murodov,Tajiki judoka,Q863,Q3815320
+Q106842788,Q6581097,1964-01-01T00:00:00Z,3,Faizali Saidov,Faizali Saidov,Tajikistani military leader,Q863,Q648567
+Q106842788,Q6581097,1964-01-01T00:00:00Z,3,Faizali Saidov,Faizali Saidov,Tajikistani military leader,Q15180,Q648567
+Q108824258,Q6581097,2002-01-21T00:00:00Z,2,Masrur Kiyomidinov,Masrur Kiyomidinov,Tajikistani footballer,Q863,Q9365
+Q108824258,Q6581097,2002-01-21T00:00:00Z,2,Masrur Kiyomidinov,Masrur Kiyomidinov,Tajikistani footballer,Q159,Q9365
+Q109489643,Q6581097,2000-10-16T00:00:00Z,6,Nurullo Aliev,Nurullo Aliev,Tajikistani mixed martial arts fighter,Q863,Q9365
+Q109750643,Q6581097,2003-09-03T00:00:00Z,8,Abdu Rozik,Abdu Rozik,Tajikistani singer,Q863,Q630805
+Q10986938,Q6581072,1942-11-24T00:00:00Z,10,Sairam Isaeva,Sajram Issojewa,Soviet-Tajik actress,Q863,Q9365
+Q10986938,Q6581072,1942-11-24T00:00:00Z,10,Sairam Isaeva,Sajram Issojewa,Soviet-Tajik actress,Q15180,Q9365
+Q111467077,Q6581072,1924-01-01T00:00:00Z,1,Sofya Khafizovna Khakimova,Sofya Khafizovna Khakimova,Tajikistani physician,Q863,
+Q112066499,Q6581097,2004-01-19T00:00:00Z,3,Mekhrubon Karimov,Mekhrubon Karimov,Tajik footballer,Q863,Q863
+Q112992752,Q6581097,1951-11-20T00:00:00Z,3,Safarali Nadzhmiddinov,Safarali Nadzhmiddinov,Tajik politician,Q15180,Q2565339
+Q112992752,Q6581097,1951-11-20T00:00:00Z,3,Safarali Nadzhmiddinov,Safarali Nadzhmiddinov,Tajik politician,Q863,Q2565339
+Q113414697,Q6581097,2003-01-16T00:00:00Z,5,Amadoni Kamolov,Amadoni Kamolov,Tajik footballer,Q863,Q132043
+Q113514654,Q6581097,2004-08-01T00:00:00Z,8,Khusrav Toirov,Khusrav Toirov,Tajik footballer,Q863,Q3815320
+Q113756301,Q6581097,2002-04-08T00:00:00Z,9,Nurali Emomali,Nurali Emomali,Tajik judoist,Q863,Q65298223
+Q116328827,Q6581072,1997-11-16T00:00:00Z,1,Laylo Khalimova,Laylo Khalimova,Tajik football player,Q863,
+Q116546868,Q6581072,2004-03-12T00:00:00Z,1,Karina Mirzoeva,Karina Mirzoeva,Tajikistani footballer,Q863,
+Q116973113,Q6581097,1994-08-07T00:00:00Z,5,Muhammad Naimov,Muhammad Naimov,Tajikistani mixed martial artist,Q863,Q132043
+Q11714193,Q6581097,1955-03-24T00:00:00Z,5,Ismoil Talbakov,Ismoil Talbakov,Tajik politician (1955-2016),Q863,Q7482815
+Q1188596,Q6581097,1932-04-16T00:00:00Z,28,Qahhor Mahkamov,Qahhor Mahkamov,"Soviet politician, then president of Tajikistan (1990–1991)",Q15180,Q373808
+Q1188596,Q6581097,1932-04-16T00:00:00Z,28,Qahhor Mahkamov,Qahhor Mahkamov,"Soviet politician, then president of Tajikistan (1990–1991)",Q863,Q373808
+Q119509864,Q6581097,2003-01-04T00:00:00Z,3,Muhammadali Azizboev,Muhammadali Azizboev,Tajikistani professional football player,Q863,
+Q12074235,Q6581097,1948-03-14T00:00:00Z,5,Mamadsho Ilolov,Mamadsho Ilolov,Tajik mathematician and politician,Q15180,Q2669442
+Q12074235,Q6581097,1948-03-14T00:00:00Z,5,Mamadsho Ilolov,Mamadsho Ilolov,Tajik mathematician and politician,Q863,Q2669442
+Q12095007,Q6581072,1945-02-23T00:00:00Z,41,Svetlana Gerasimenko,Svetlana Gerasimenko,Ukrainian soviet and Tajik astronomer,Q863,Q763787
+Q12095007,Q6581072,1945-02-23T00:00:00Z,41,Svetlana Gerasimenko,Svetlana Gerasimenko,Ukrainian soviet and Tajik astronomer,Q15180,Q763787
+Q122965165,Q6581097,1999-01-13T00:00:00Z,15,Davlat Boltaev,Davlat Boltaev,tajikistani boxer,Q863,Q9365
+Q123467737,Q6581097,2003-10-29T00:00:00Z,7,Ruslan Khayloyev,Ruslan Khayloev,Tajikistani footballer,Q863,Q2288
+Q123467737,Q6581097,2003-10-29T00:00:00Z,7,Ruslan Khayloyev,Ruslan Khayloev,Tajikistani footballer,Q159,Q2288
+Q123509763,Q6581072,1987-01-01T00:00:00Z,8,Natalia Idrisova,Natalia Idrisova,Tajikistani green energy consultant,Q863,Q9365
+Q12351463,Q6581072,1963-01-01T00:00:00Z,8,Lena Karpunina,Lena Karpunina,Russian writer (1963-2013),Q15180,Q2837
+Q12351463,Q6581072,1963-01-01T00:00:00Z,8,Lena Karpunina,Lena Karpunina,Russian writer (1963-2013),Q863,Q2837
+Q124149543,Q6581097,2002-03-30T00:00:00Z,6,Alisher Shukurov,Alisher Shukurov,tajikistani professional football player,Q863,Q2064329
+Q124425538,Q6581097,2005-08-03T00:00:00Z,2,Fatkhullo Olimzoda,Fatkhullo Olimzoda,footballer,Q863,Q9365
+Q124661723,Q6581072,1991-05-30T00:00:00Z,1,Fotima Kholova,Kholova Fotima,Tajik athlete (born 1991),Q863,
+Q124710002,Q6581072,1998-09-08T00:00:00Z,4,Mijgona Samadova,Mijgona Samadova,Tajik boxer,Q863,Q9365
+Q126688344,Q6581097,1971-01-01T00:00:00Z,3,Faiziddin Qahhorzoda,Faiziddin Qahhorzoda,tajikistani politician,Q863,
+Q1293356,Q6581097,1978-04-13T00:00:00Z,12,Farrukh Amonatov,Farrukh Amonatov,Tajikistani chess player,Q863,Q9365
+Q130083501,Q6581097,2000-01-14T00:00:00Z,3,Fakhriddin Madkamov,Fakhriddin Madkamov,Tajikistani swimmer,Q863,
+Q131783578,Q6581072,1938-09-07T00:00:00Z,3,Jamol Rahmatova,,Tajikistani ophthalmologist,Q15180,Q467501
+Q131783578,Q6581072,1938-09-07T00:00:00Z,3,Jamol Rahmatova,,Tajikistani ophthalmologist,Q863,Q467501
+Q13200878,Q6581097,1987-09-22T00:00:00Z,5,Akmal Saburov,Akmal Saburov,Tajikistani association football player,Q863,Q199711
+Q13200948,Q6581097,1971-03-05T00:00:00Z,7,Asliddin Khabibullaev,Asliddin Khabiboullaïev,Tajikistani association football player,Q863,Q199711
+Q13201333,Q6581072,1937-05-01T00:00:00Z,7,Mayram Isoeva,Mayram Isoeva,actor,Q15180,Q2564862
+Q13201333,Q6581072,1937-05-01T00:00:00Z,7,Mayram Isoeva,Mayram Isoeva,actor,Q863,Q2564862
+Q13201361,Q6581097,1965-07-20T00:00:00Z,6,Muhiddin Kabiri,Muhiddin Kabiri,politician,Q15180,Q25589942
+Q13201361,Q6581097,1965-07-20T00:00:00Z,6,Muhiddin Kabiri,Muhiddin Kabiri,politician,Q15180,Q2669448
+Q13201361,Q6581097,1965-07-20T00:00:00Z,6,Muhiddin Kabiri,Muhiddin Kabiri,politician,Q863,Q25589942
+Q13201361,Q6581097,1965-07-20T00:00:00Z,6,Muhiddin Kabiri,Muhiddin Kabiri,politician,Q863,Q2669448
+Q13201511,Q6581072,1932-10-07T00:00:00Z,4,Lutfi Kabirova,Lutfi Kabirova,Soviet opera singer (1932-2013),Q15180,Q5753
+Q13201511,Q6581072,1932-10-07T00:00:00Z,4,Lutfi Kabirova,Lutfi Kabirova,Soviet opera singer (1932-2013),Q863,Q5753
+Q13201825,Q6581072,1942-01-02T00:00:00Z,2,Nuqra Rahmatova,Nuqra Rahmatova,tajikistani singer,Q863,
+Q13202128,Q6581097,1991-10-04T00:00:00Z,6,Umedzhon Sharipov,Umedzhon Sharipov,Tajikistani footballer,Q863,Q863
+Q13202128,Q6581097,1992-09-04T00:00:00Z,6,Umedzhon Sharipov,Umedzhon Sharipov,Tajikistani footballer,Q863,Q863
+Q134126178,Q6581097,1998-03-30T00:00:00Z,4,Obid Dzhebov,Obid Dzhebov,Tajikistani judoka,Q863,
+Q137529,Q6581097,1938-11-20T00:00:00Z,9,Bozor Sobir,Bozor Sobir,Tajik poet (1938-2018),Q15180,Q2669448
+Q137529,Q6581097,1938-11-20T00:00:00Z,9,Bozor Sobir,Bozor Sobir,Tajik poet (1938-2018),Q30,Q2669448
+Q137529,Q6581097,1938-11-20T00:00:00Z,9,Bozor Sobir,Bozor Sobir,Tajik poet (1938-2018),Q863,Q2669448
+Q1396508,Q6581097,1989-11-22T00:00:00Z,5,Farkhod Negmatov,Farkhod Negmatov,Olympic taekwondo practitioner,Q863,Q1018025
+Q142139144,Q6581097,2007-09-15T00:00:00Z,1,Mehrubon Odilzoda,Mehrubon Odilzoda,Tajikistani footballer (born 2007),Q863,
+Q1504538,Q6581097,1944-03-13T00:00:00Z,7,Davlat Khudonazarov,Davlat Khudonazarov,Tajikistani politician and film director,Q159,Q467501
+Q1504538,Q6581097,1944-03-13T00:00:00Z,7,Davlat Khudonazarov,Davlat Khudonazarov,Tajikistani politician and film director,Q15180,Q467501
+Q1504538,Q6581097,1944-03-13T00:00:00Z,7,Davlat Khudonazarov,Davlat Khudonazarov,Tajikistani politician and film director,Q863,Q467501
+Q15064009,Q6581072,1948-10-03T00:00:00Z,6,Ziba Aminzade,Ziba Aminzade,"Soviet ballet dancer, ballet master and actor",Q15180,Q373808
+Q15064009,Q6581072,1948-10-03T00:00:00Z,6,Ziba Aminzade,Ziba Aminzade,"Soviet ballet dancer, ballet master and actor",Q863,Q373808
+Q15069174,Q6581097,1954-08-23T00:00:00Z,6,Valeriy Tursunov,Valery Tursunov,Soviet association football player,Q863,Q132043
+Q15069174,Q6581097,1954-08-23T00:00:00Z,6,Valeriy Tursunov,Valery Tursunov,Soviet association football player,Q15180,Q132043
+Q15072573,Q6581097,1945-11-10T00:00:00Z,3,Ulmas Mirsaidov,Ulmas Mirsaidov,Tajikistani chemist,Q15180,Q936510
+Q15072573,Q6581097,1945-11-10T00:00:00Z,3,Ulmas Mirsaidov,Ulmas Mirsaidov,Tajikistani chemist,Q863,Q936510
+Q15222839,Q6581097,1961-03-08T00:00:00Z,40,Qohir Rasulzoda,Kokhir Rasulzoda,Tajikistani politician,Q863,Q2034150
+Q1531082,Q6581097,1966-10-21T00:00:00Z,17,Mukhsin Mukhamadiev,Mukhsin Mukhamadiev,Russian football manager and former player (1966-2026),Q863,Q9365
+Q1531082,Q6581097,1966-10-21T00:00:00Z,17,Mukhsin Mukhamadiev,Mukhsin Mukhamadiev,Russian football manager and former player (1966-2026),Q159,Q9365
+Q1531082,Q6581097,1966-10-21T00:00:00Z,17,Mukhsin Mukhamadiev,Mukhsin Mukhamadiev,Russian football manager and former player (1966-2026),Q15180,Q9365
+Q16087368,Q6581072,1920-12-28T00:00:00Z,13,Fatima Kuinova,Fatima Kuinova,Tajik-American Shashmakom singer,Q15180,Q5753
+Q16087368,Q6581072,1920-12-28T00:00:00Z,13,Fatima Kuinova,Fatima Kuinova,Tajik-American Shashmakom singer,Q30,Q5753
+Q16087368,Q6581072,1920-12-28T00:00:00Z,13,Fatima Kuinova,Fatima Kuinova,Tajik-American Shashmakom singer,Q863,Q5753
+Q16115975,Q6581072,1947-03-19T00:00:00Z,5,Zarrina Mirshakar,Zarrina Mirshakar,composer,Q15180,Q9365
+Q16115975,Q6581072,1947-03-19T00:00:00Z,5,Zarrina Mirshakar,Zarrina Mirshakar,composer,Q863,Q9365
+Q16146340,Q6581097,1982-04-01T00:00:00Z,5,Nematullo Asranqulov,Nematullo Asranqulov,Olympic judoka,Q863,Q2669438
+Q16147491,Q6581097,1985-09-16T00:00:00Z,1,Ajmal Amirov,Ajmal Amirov,Tajikistani athlete,Q863,
+Q16159476,Q6581097,1979-09-09T00:00:00Z,5,Shamil Aliev,Shamil Aliev,Olympic wrestler,Q159,Q5168
+Q16159476,Q6581097,1979-09-09T00:00:00Z,5,Shamil Aliev,Shamil Aliev,Olympic wrestler,Q863,Q5168
+Q16209017,Q6581072,1976-07-04T00:00:00Z,3,Gulsara Dadabayeva,Gulsara Dadabayeva,Tajikistani long-distance runner,Q863,Q9365
+Q16210479,Q6581097,1993-10-18T00:00:00Z,2,Farkhod Kuralov,Farkhod Kuralov,middle-distance runner,Q863,
+Q16223334,Q6581097,1984-04-09T00:00:00Z,3,Farkhod Oripov,Farkhod Oripov,Tajikistani swimmer,Q863,Q15180
+Q16223830,Q6581072,1966-03-19T00:00:00Z,6,Nargis Nabieva,Nargis Nabieva,Tajikistani archer,Q863,
+Q1657025,Q6581072,1964-11-03T00:00:00Z,11,Farzaneh (Tajik poet),Farzaneh Khojandi,Tajikistani poet,Q863,Q373808
+Q16572051,Q6581072,1968-02-17T00:00:00Z,8,Lidiya Karamchakova,Lidiya Karamchakova,Olympic wrestler,Q863,Q4478541
+Q16581592,Q6581072,1969-05-11T00:00:00Z,9,Natalia Ivanova (wrestler),Natalia Ivanova,Olympic wrestler,Q15180,Q103565
+Q16581592,Q6581072,1969-05-11T00:00:00Z,9,Natalia Ivanova (wrestler),Natalia Ivanova,Olympic wrestler,Q863,Q103565
+Q16581592,Q6581072,1969-05-11T00:00:00Z,9,Natalia Ivanova (wrestler),Natalia Ivanova,Olympic wrestler,Q159,Q103565
+Q16595231,Q6581097,1965-01-09T00:00:00Z,4,Raoul Dgvareli,Raul Dgworeli,Tajikistani wrestler,Q863,
+Q16595231,Q6581097,1965-01-09T00:00:00Z,4,Raoul Dgvareli,Raul Dgworeli,Tajikistani wrestler,Q15180,
+Q16728935,Q6581097,1957-10-11T00:00:00Z,1,Latif Fayziyev,Latif Fayziyev,Tajikistani military officer (born 1957),Q15180,Q2997247
+Q16728935,Q6581097,1957-10-11T00:00:00Z,1,Latif Fayziyev,Latif Fayziyev,Tajikistani military officer (born 1957),Q863,Q2997247
+Q1674004,Q6581097,1954-10-12T00:00:00Z,15,Iskandar Khatloni,Iskandar Khatloni,Tajikistani politician (1954-2000),Q15180,Q132043
+Q1674004,Q6581097,1954-10-12T00:00:00Z,15,Iskandar Khatloni,Iskandar Khatloni,Tajikistani politician (1954-2000),Q863,Q132043
+Q16887229,Q6581097,1958-03-16T00:00:00Z,4,Rahmatullo Zoirov,Rahmatullo Zoirov,Tajikistani politician,Q863,Q4089491
+Q1705987,Q6581097,1994-11-01T00:00:00Z,19,Parvizdzhon Umarbayev,Parvizdzhon Umarbaev,Tajik footballer,Q863,Q373808
+Q1705987,Q6581097,1994-11-01T00:00:00Z,19,Parvizdzhon Umarbayev,Parvizdzhon Umarbaev,Tajik footballer,Q159,Q373808
+Q1710131,Q6581097,1903-05-02T00:00:00Z,13,Komil Yormatov,Kamil Yarmatov,Uzbekistani film director and actor (1903-1978),Q863,Q1015752
+Q1710131,Q6581097,1903-05-02T00:00:00Z,13,Komil Yormatov,Kamil Yarmatov,Uzbekistani film director and actor (1903-1978),Q15180,Q1015752
+Q17144113,Q6581072,1950-06-08T00:00:00Z,3,Latofat Kenjaeva,Latofat Kenjaeva,"Tajikistan writer, poet, journalist",Q863,Q2592619
+Q171817,Q6581072,1982-12-31T00:00:00Z,19,Manija Dawlat,Manija Dawlat,Tajikistani musician,Q863,Q132043
+Q17279132,Q6581097,1964-12-24T00:00:00Z,1,Alim Sherzamonov,Alim Sherzamonov,Tajikistani politician,Q863,
+Q17315701,Q6581072,1954-06-15T00:00:00Z,9,Zulfiya Atoulloeva,Zulfiya Atoulloeva,"Soviet poet, writer and journalist (* 1954)",Q15180,Q241582
+Q17315701,Q6581072,1954-06-15T00:00:00Z,9,Zulfiya Atoulloeva,Zulfiya Atoulloeva,"Soviet poet, writer and journalist (* 1954)",Q863,Q241582
+Q18001546,Q6581072,1948-06-10T00:00:00Z,19,Oinikhol Bobonazarova,Oinikhol Bobonazarova,activist,Q863,Q3375469
+Q18015352,Q6581097,1960-03-24T00:00:00Z,4,Vladimir Yezhurov,Vladimir Yezhurov,Russian association football player,Q159,
+Q18015352,Q6581097,1960-03-24T00:00:00Z,4,Vladimir Yezhurov,Vladimir Yezhurov,Russian association football player,Q15180,
+Q18015352,Q6581097,1960-03-24T00:00:00Z,4,Vladimir Yezhurov,Vladimir Yezhurov,Russian association football player,Q863,
+Q18015403,Q6581097,1996-04-13T00:00:00Z,10,Amirbek Juraboev,Amirbek Juraboev,Tajikistani association football player,Q863,Q9365
+Q18198123,Q6581097,1964-02-17T00:00:00Z,12,Sirojiddin Muhriddin,Sirodjidin Aslov,Tajik diplomat,Q863,Q7482815
+Q18233242,Q6581097,1936-06-22T00:00:00Z,13,Izatullo Khayoyev,Izatullo Khayoyev,First Vice President of Tajikistan,Q15180,Q132043
+Q18233242,Q6581097,1936-06-22T00:00:00Z,13,Izatullo Khayoyev,Izatullo Khayoyev,First Vice President of Tajikistan,Q863,Q132043
+Q18719285,Q6581097,1992-07-21T00:00:00Z,5,Siyovush Asrorov,Siёvush Asrori,Tajikistani footballer,Q863,Q863
+Q18719494,Q6581097,1995-11-21T00:00:00Z,4,Romish Jalilov,Romish Jalilov,Tajikistani footballer,Q863,Q863
+Q19463536,Q6581097,1968-11-21T00:00:00Z,13,Umarali Kuvvatov,Umarali Kuvvatov,Tajikistani businessman and politician,Q15180,Q9365
+Q19463536,Q6581097,1968-11-21T00:00:00Z,13,Umarali Kuvvatov,Umarali Kuvvatov,Tajikistani businessman and politician,Q863,Q9365
+Q19618459,Q6581097,1936-02-08T00:00:00Z,6,Georgy Koshlakov,Georgy Koshlakov,Tajikistani politician,Q863,Q887
+Q19618459,Q6581097,1936-02-08T00:00:00Z,6,Georgy Koshlakov,Georgy Koshlakov,Tajikistani politician,Q15180,Q887
+Q1968729,Q6581097,1948-01-01T00:00:00Z,4,Farroukh Qasim,Farroukh Qasim,Tajikistani artist (1948–2010),Q863,Q9365
+Q19890726,Q6581097,1937-08-26T00:00:00Z,5,Zafar Usmanov,Zafar Usmanov,Soviet and Tajik mathematician,Q863,Q9365
+Q1994390,Q6581097,1978-08-16T00:00:00Z,7,Rakhmatullo Fuzaylov,Rahmatullo Fuzailov,Tajikistani footballer,Q159,Q9365
+Q1994390,Q6581097,1978-09-16T00:00:00Z,7,Rakhmatullo Fuzaylov,Rahmatullo Fuzailov,Tajikistani footballer,Q863,Q9365
+Q1994390,Q6581097,1978-08-16T00:00:00Z,7,Rakhmatullo Fuzaylov,Rahmatullo Fuzailov,Tajikistani footballer,Q863,Q9365
+Q1994390,Q6581097,1978-09-16T00:00:00Z,7,Rakhmatullo Fuzaylov,Rahmatullo Fuzailov,Tajikistani footballer,Q159,Q9365
+Q2029220,Q6581097,1991-02-03T00:00:00Z,5,Sobirjon Nazarov,Sobirjon Nazarov,Tajikistani boxer,Q863,Q9365
+Q2047729,Q6581097,1961-08-19T00:00:00Z,9,Muboraksho Mirzoshoyev,Muboraksho Mirzoshoyev,Tajikistani musician (1961–2001),Q863,Q207319
+Q20604024,Q6581097,1929-02-20T00:00:00Z,3,Yakhiel Sabzanov,I︠A︡nkhelʹ Rafailovich Sabzanov,soviet Bukharian Composer,Q863,Q9365
+Q20605885,Q6581072,1937-11-03T00:00:00Z,2,Bozgul Isoeva,Bozgul Isoeva,Tajikistani ballet dancer,Q863,
+Q20606690,Q6581072,1928-01-01T00:00:00Z,6,Gulchēhra Sulaymānī,Gulchihra Sulaymonova,"Tajikistan poet, children's writer",Q863,Q5764
+Q20606690,Q6581072,1928-01-01T00:00:00Z,6,Gulchēhra Sulaymānī,Gulchihra Sulaymonova,"Tajikistan poet, children's writer",Q15180,Q5764
+Q20608069,Q6581097,1993-01-07T00:00:00Z,15,Komronshokh Ustopiriyon,Komronshoh Ustopiriyon,Tajiki judoka,Q863,Q2588397
+Q20608411,Q6581072,1932-05-05T00:00:00Z,2,Mavjuda Hakimova,Mavjuda Hakimova,Tajikistan poet,Q863,Q373808
+Q20609232,Q6581072,1933-01-16T00:00:00Z,4,Mukarrama Qosimova,Mukaramma Qosimova,Tajikistani linguist and academic (1933-2020),Q863,Q1015752
+Q20609253,Q6581072,1924-10-04T00:00:00Z,5,Munzifa Gafarova,Munzifa Gafarova,Soviet Tajik philosopher and,Q863,Q373808
+Q20609253,Q6581072,1924-10-04T00:00:00Z,5,Munzifa Gafarova,Munzifa Gafarova,Soviet Tajik philosopher and,Q15180,Q373808
+Q20609341,Q6581072,1936-06-05T00:00:00Z,8,Muqadamma Ashrafi,Muqadamma Ashrafi,Tajikistani medievalist and art historian (1936-2013),Q863,Q269
+Q20609487,Q6581072,1937-01-22T00:00:00Z,6,Muhiba Yakubova,Muhiba Yakubova,Tajikistani biologist,Q863,Q5764
+Q20610376,Q6581072,1936-11-06T00:00:00Z,4,Rohat Nabieva,Rohat Nabieva,Tajikistani historian active in the Soviet era and after,Q863,Q373808
+Q20610428,Q6581072,1919-01-21T00:00:00Z,2,Savsan Bandishoeva,Savsan Bandishoeva,Tajikistani actress,Q863,
+Q20610950,Q6581072,1940-08-24T00:00:00Z,4,Tamara Abdushukurova,Tamara Abdushukurova,Tajik actress (1940–2025),Q15180,Q97238494
+Q20610950,Q6581072,1940-08-24T00:00:00Z,4,Tamara Abdushukurova,Tamara Abdushukurova,Tajik actress (1940–2025),Q863,Q97238494
+Q20611199,Q6581072,1964-03-30T00:00:00Z,3,Khayrinisso Yusufi,Khayrinisso Yusufi,politician,Q863,Q630805
+Q20611263,Q6581072,1932-09-02T00:00:00Z,2,Khursheda Otakhonova,Khursheda Otakhonova,Tajikistan poet (1932-2016),Q863,Q936510
+Q20611394,Q6581097,1967-05-24T00:00:00Z,10,Sherali Mirzo,Sherali Mirzo,Former Minister of Defence of Tajikistan (2013 - 2025),Q15180,Q3564819
+Q20611394,Q6581097,1967-05-24T00:00:00Z,10,Sherali Mirzo,Sherali Mirzo,Former Minister of Defence of Tajikistan (2013 - 2025),Q863,Q3564819
+Q20611634,Q6581072,1940-02-17T00:00:00Z,3,Hadisa Qurbonova,Hadisa Qurbonova,Tajikistan poet,Q863,
+Q20684312,Q6581072,1988-02-07T00:00:00Z,11,Noziya Karomatullo,Noziya Karomatullo,Tajikistani singer,Q863,Q9365
+Q2071753,Q6581097,1988-02-12T00:00:00Z,11,Dilshod Vasiyev,Dilshod Vasiev,Tajikistani footballer,Q863,Q9365
+Q20899880,Q6581072,1988-12-10T00:00:00Z,10,Kristina Pronzhenko,Kristina Pronzhenko,Tajikistani female heptathlete,Q863,Q4148725
+Q2092107,Q6581097,1941-05-20T00:00:00Z,9,Layeq Sherali,Layeq Sherali,Tajikistani poet (1941–2000),Q15180,Q2592634
+Q2092107,Q6581097,1941-05-20T00:00:00Z,9,Layeq Sherali,Layeq Sherali,Tajikistani poet (1941–2000),Q863,Q2592634
+Q2092113,Q6581097,1927-03-22T00:00:00Z,4,Abdumalik Bahori,Abdumalik Bahori,Poet and writer (1927-2010),Q863,Q373808
+Q2092113,Q6581097,1927-03-22T00:00:00Z,4,Abdumalik Bahori,Abdumalik Bahori,Poet and writer (1927-2010),Q15180,Q373808
+Q2107597,Q6581072,1992-10-01T00:00:00Z,16,Mavzuna Chorieva,Mavzuna Chorieva,Tajikistani boxer,Q863,Q132043
+Q21088580,Q6581097,1992-10-28T00:00:00Z,5,Manouchehr Ahmadov,Manouchehr Ahmadov,association football player,Q863,Q4318073
+Q21141496,Q6581072,1924-12-20T00:00:00Z,6,Sa'diniso Hakimova,Sophia Khakimov,scientist,Q863,Q1015752
+Q2154800,Q6581097,1980-11-12T00:00:00Z,5,Parviz Sobirov,Parviz Sobirov,Tajikistani judoka,Q863,Q7482815
+Q21606982,Q6581072,1926-06-17T00:00:00Z,5,Muharram Rasulova,Mukharam Rasulova,Tajikistani botanist,Q863,Q373808
+Q21606982,Q6581072,1926-06-17T00:00:00Z,5,Muharram Rasulova,Mukharam Rasulova,Tajikistani botanist,Q15180,Q373808
+Q21642876,Q6581097,1984-06-21T00:00:00Z,2,Asatullo Nurulloev,Asatullo Nurulloev,Tajikistani association football player,Q863,Q863
+Q21642986,Q6581097,1987-11-30T00:00:00Z,3,Hasan Rustamov,Hasan Rustamov,Tajikistani footballer,Q863,Q863
+Q21664259,Q6581097,1973-10-06T00:00:00Z,8,Mubin Ergashev,Mubin Ergashev,association football player and manager from Tajikistan,Q863,Q9365
+Q21664259,Q6581097,1973-10-06T00:00:00Z,8,Mubin Ergashev,Mubin Ergashev,association football player and manager from Tajikistan,Q15180,Q9365
+Q21932306,Q6581097,1975-12-17T00:00:00Z,3,Alisher Tukhtaev,Alisher Tukhtaev,Tajikistan footballer (born 1975),Q863,
+Q22276879,Q6581097,1995-08-07T00:00:00Z,8,Nozim Babadjanov,Nozim Babadjanov,Tajik footballer,Q159,Q648709
+Q22276879,Q6581097,1995-08-07T00:00:00Z,8,Nozim Babadjanov,Nozim Babadjanov,Tajik footballer,Q863,Q648709
+Q22958655,Q6581097,1977-10-30T00:00:00Z,5,Pirmurod Burkhanov,Pirmurod Burkhanov,Tajikistani footballer,Q863,Q863
+Q23656588,Q6581072,1935-09-14T00:00:00Z,2,Zoya Tajikova,Zoya Tajikova,"Tajik musicologist, art critic",Q863,Q9365
+Q23656588,Q6581072,1935-09-14T00:00:00Z,2,Zoya Tajikova,Zoya Tajikova,"Tajik musicologist, art critic",Q30,Q9365
+Q23656588,Q6581072,1935-09-14T00:00:00Z,2,Zoya Tajikova,Zoya Tajikova,"Tajik musicologist, art critic",Q15180,Q9365
+Q23683291,Q6581072,1955-07-19T00:00:00Z,6,Azizmo Asadullayeva,Azizmo Asadullayeva,First Lady of Tajikistan,Q863,Q3563282
+Q23683291,Q6581072,1955-07-19T00:00:00Z,6,Azizmo Asadullayeva,Azizmo Asadullayeva,First Lady of Tajikistan,Q15180,Q3563282
+Q23799793,Q6581097,1996-07-14T00:00:00Z,7,Jahongir Aliev,Jahongir Aliev,Tajik association football player,Q863,Q863
+Q2386287,Q6581097,1959-09-08T00:00:00Z,13,Daler Nazarov,Daler Nazarov,Tajikistani musician,Q15180,Q9365
+Q2386287,Q6581097,1959-09-08T00:00:00Z,13,Daler Nazarov,Daler Nazarov,Tajikistani musician,Q863,Q9365
+Q23916478,Q6581072,1972-09-02T00:00:00Z,4,Farangis Nurulla-Khoja,Farangis Nurulla-Khoja,Tajik-Canadian composer,Q863,Q9365
+Q23916478,Q6581072,1972-09-02T00:00:00Z,4,Farangis Nurulla-Khoja,Farangis Nurulla-Khoja,Tajik-Canadian composer,Q16,Q9365
+Q24251088,Q6581097,1974-01-15T00:00:00Z,3,Sergey Zabavsky,Sergei Zabavskii,Tajikistani athletics competitor,Q863,Q9365
+Q24258837,Q6581097,1987-12-19T00:00:00Z,26,Rustam Emomali,Rustam Emomali,Tajik official,Q863,Q3815320
+Q24288561,Q6581072,1978-01-03T00:00:00Z,14,Ozoda Rahmon,Ozoda Rahmon,Tajik government official,Q863,Q2565377
+Q24351520,Q6581097,1964-01-01T00:00:00Z,5,Abduhalim Nazarzoda,Abduhalim Nazarzoda,Tajikistani military officer,Q863,Q2669438
+Q24351520,Q6581097,1964-01-01T00:00:00Z,5,Abduhalim Nazarzoda,Abduhalim Nazarzoda,Tajikistani military officer,Q15180,Q2669438
+Q24474620,Q6581097,1975-05-14T00:00:00Z,17,Gulmurod Khalimov,Gulmurod Khalimov,Tajikistani military personnel (1975–2017),Q863,Q2669430
+Q24572263,Q6581097,1971-07-09T00:00:00Z,4,Buzurgmehr Yorov,Buzurgmehr Yorov,Tajik human rights lawyer,Q863,
+Q2471745,Q6581097,1971-05-28T00:00:00Z,15,Arsen Avakov (footballer),Arsen Avakov,Tajik football player,Q159,Q9365
+Q2471745,Q6581097,1971-05-28T00:00:00Z,15,Arsen Avakov (footballer),Arsen Avakov,Tajik football player,Q15180,Q9365
+Q2471745,Q6581097,1971-05-28T00:00:00Z,15,Arsen Avakov (footballer),Arsen Avakov,Tajik football player,Q863,Q9365
+Q2507751,Q6581072,1986-01-30T00:00:00Z,13,Nigina Amonkulova,Nigina Amonqulova,Tajik singer,Q863,Q630805
+Q2507827,Q6581097,1947-03-15T00:00:00Z,6,Sayid Abdulloh Nuri,Sayid Abdulloh Nuri,Tajikistani politician (1947–2006),Q15180,Q16694356
+Q2507827,Q6581097,1947-03-15T00:00:00Z,6,Sayid Abdulloh Nuri,Sayid Abdulloh Nuri,Tajikistani politician (1947–2006),Q863,Q16694356
+Q25585830,Q6581072,1918-02-09T00:00:00Z,2,Taji Sultanova,Taji Sultanova,Tajikistani actress of the Soviet era,Q863,Q373808
+Q25586019,Q6581072,1923-10-13T00:00:00Z,9,Khairi Nazarova,Khairi Nazarova,Tajikistani actress,Q863,Q373808
+Q25586019,Q6581072,1923-10-13T00:00:00Z,9,Khairi Nazarova,Khairi Nazarova,Tajikistani actress,Q15180,Q373808
+Q25586027,Q6581072,1928-01-10T00:00:00Z,4,Oydina Usmonova,Oydina Usmonova,Tajikistani stage actress,Q863,
+Q25586102,Q6581072,1923-01-01T00:00:00Z,2,Sabzajon Shoismoilova,Sabzajon Shoismoilova,tajikistani singer and actress,Q863,Q3137279
+Q25586141,Q6581072,1930-01-03T00:00:00Z,5,Mu'tabar Ibrahimova,Mu'tabar Ibrahimova,tajikistani actress,Q863,Q1015752
+Q25586141,Q6581072,1930-01-03T00:00:00Z,5,Mu'tabar Ibrahimova,Mu'tabar Ibrahimova,tajikistani actress,Q15180,Q1015752
+Q25591362,Q6581072,1952-01-01T00:00:00Z,3,Guzel Maitdinova,Guzel Maitdinova,geopolitician based in Tajikistan,Q863,
+Q25591670,Q6581072,1937-03-10T00:00:00Z,3,Ulfatmo Mamadambarova,Ulfatmo Mamadambarova,Tajikistani singer,Q863,Q467501
+Q25591670,Q6581072,1937-03-10T00:00:00Z,3,Ulfatmo Mamadambarova,Ulfatmo Mamadambarova,Tajikistani singer,Q15180,Q467501
+Q25593151,Q6581072,1933-10-01T00:00:00Z,7,Ozod Aminova,Ozod Aminova,Soviet-Tajikistani poet (1933-2009),Q15180,Q373808
+Q25593151,Q6581072,1933-10-01T00:00:00Z,7,Ozod Aminova,Ozod Aminova,Soviet-Tajikistani poet (1933-2009),Q863,Q373808
+Q25593393,Q6581097,1942-04-25T00:00:00Z,4,Karomatullohi Mirzo,Karomatullohi Mirzo,Tajikistani writer and novelist,Q863,Q97236979
+Q25593393,Q6581097,1942-04-25T00:00:00Z,4,Karomatullohi Mirzo,Karomatullohi Mirzo,Tajikistani writer and novelist,Q15180,Q97236979
+Q2617392,Q6581072,1947-12-17T00:00:00Z,16,Gulrukhsor Safieva,Gulrukhsor Safieva,Tajikistani writer,Q159,Q9365
+Q2617392,Q6581072,1947-12-17T00:00:00Z,16,Gulrukhsor Safieva,Gulrukhsor Safieva,Tajikistani writer,Q863,Q9365
+Q2617392,Q6581072,1947-12-17T00:00:00Z,16,Gulrukhsor Safieva,Gulrukhsor Safieva,Tajikistani writer,Q15180,Q9365
+Q26253857,Q6581097,1998-06-06T00:00:00Z,7,Tabrez Islomov,Tabrez Islomov,Tajikistani association football player (born 1998),Q863,Q863
+Q26263158,Q6581072,2001-09-27T00:00:00Z,5,Anastasiya Tyurina,Anastasiya Tyurina,Tajikistani swimmer,Q863,Q9365
+Q2628404,Q6581097,1990-04-14T00:00:00Z,12,Farkhod Vasiyev,Farkhod Vasiev,Tajik footballer (born 1990),Q863,Q9365
+Q2628404,Q6581097,1990-04-14T00:00:00Z,12,Farkhod Vasiyev,Farkhod Vasiev,Tajik footballer (born 1990),Q159,Q9365
+Q2647186,Q6581097,1989-08-24T00:00:00Z,6,Alisher Gulov,Alisher Gulov,Tajikistani taekwondo practitioner,Q863,Q9365
+Q2669230,Q6581072,1981-10-27T00:00:00Z,10,Shabnam Surayyo,Shabnam Surayyo,Tajikistani singer,Q863,Q9365
+Q26696942,Q6581097,1998-06-21T00:00:00Z,11,Olimjon Ishanov,Olim Kurbanov,Tajikistani swimmer,Q863,Q9365
+Q26790010,Q6581097,1986-11-29T00:00:00Z,6,Mukhamadmurod Abdurakhmonov,Mukhamadmurod Abdurakhmonov,Tajikistani judoka,Q863,Q1376803
+Q27526537,Q6581097,1987-06-02T00:00:00Z,1,Muhammad Khusenkhojaev,Muhammad Khusenkhojaev,Tajikistani chess player,Q863,
+Q27983023,Q6581097,1962-07-24T00:00:00Z,4,Khayrullo Nazriev,Jairullo Nazriev,Tajikistani judoka (1972-),Q863,Q132043
+Q27983023,Q6581097,1972-07-24T00:00:00Z,4,Khayrullo Nazriev,Jairullo Nazriev,Tajikistani judoka (1972-),Q863,Q132043
+Q28099337,Q6581097,1987-07-15T00:00:00Z,5,Abduaziz Mahkamov,Abduaziz Mahkamov,association football player,Q863,Q863
+Q2828958,Q6581097,1951-08-01T00:00:00Z,13,Akbarsho Iskandarov,Akbarsho Iskandrov,1st President of Tajikistan,Q863,Q2605259
+Q28858599,Q6581097,1973-06-28T00:00:00Z,5,Saidakhtam Rakhimov,Saidakhtam Rakhimov,Tajikistani judoka (1973-),Q863,
+Q28969264,Q6581097,1999-05-12T00:00:00Z,9,Ehson Panjshanbe,Ehson Panjshanbe,Tajikistani association football player,Q863,Q2507868
+Q29052471,Q6581097,1995-03-31T00:00:00Z,1,Muhammadkhuja Yaqubov,Muhammadkhuja Yaqubov,Tajikistani boxer,Q863,
+Q3120836,Q6581097,1978-09-05T00:00:00Z,8,Numonjon Hakimov,Numonjon Hakimov,Tajikistani footballer (born 1978),Q863,Q199711
+Q3125115,Q6581097,1965-01-13T00:00:00Z,10,Jamshed Usmonov,Jamshed Usmonov,Tajikistani film director (born 1965),Q863,Q4115618
+Q31456105,Q6581097,1976-10-14T00:00:00Z,5,Orzu Iso,Orzu Isoev,"journalist, poet and songwriter",Q863,Q132043
+Q31457184,Q6581072,1929-09-13T00:00:00Z,3,Jonon Bobokalonova,Jonon Bobokalonova,"Tajikistani writer, literary critic, and academic",Q863,Q1015752
+Q31457257,Q6581072,1923-12-05T00:00:00Z,3,Khosiat Boboeva,Boboeva Khosiyat Qosimovna,Tajik historian,Q863,Q373808
+Q3280783,Q6581097,1965-05-08T00:00:00Z,7,Makhmadjon Khabibulloev,Makhmadjon Khabibulloev,Tajikistani footballer,Q15180,Q199711
+Q3280783,Q6581097,1965-05-08T00:00:00Z,7,Makhmadjon Khabibulloev,Makhmadjon Khabibulloev,Tajikistani footballer,Q863,Q199711
+Q3304640,Q6581097,1952-09-29T00:00:00Z,15,Yuri Lobanov,Yuri Lobanov,Soviet-born Tajikistani sprint canoeist,Q863,Q9365
+Q33841543,Q6581072,1999-12-12T00:00:00Z,2,Karina Klimyk,Karina Klimyk,Tajikistani swimmer,Q863,
+Q3554982,Q6581097,1962-03-24T00:00:00Z,6,Vasili Postnov,Vasili Postnov,footballer (1962-2009),Q863,Q269
+Q3554982,Q6581097,1962-03-24T00:00:00Z,6,Vasili Postnov,Vasili Postnov,footballer (1962-2009),Q159,Q269
+Q3554982,Q6581097,1962-03-24T00:00:00Z,6,Vasili Postnov,Vasili Postnov,footballer (1962-2009),Q15180,Q269
+Q373293,Q6581097,1986-02-12T00:00:00Z,13,Jahon Qurbonov,Jahon Qurbonov,Tajikistani boxer,Q863,Q373808
+Q3754856,Q6581097,1992-10-02T00:00:00Z,6,Furug Qodirov,Furug Qodirov,Tajikistani footballer,Q863,Q9365
+Q381905,Q6581097,1966-06-30T00:00:00Z,24,Andrey Abduvaliyev,Andrey Abduvaliyev,"Soviet, Tajikistani and Uzbekistani hammer thrower",Q265,Q656
+Q381905,Q6581097,1966-06-30T00:00:00Z,24,Andrey Abduvaliyev,Andrey Abduvaliyev,"Soviet, Tajikistani and Uzbekistani hammer thrower",Q15180,Q656
+Q381905,Q6581097,1966-06-30T00:00:00Z,24,Andrey Abduvaliyev,Andrey Abduvaliyev,"Soviet, Tajikistani and Uzbekistani hammer thrower",Q863,Q656
+Q3845146,Q6581097,1990-09-27T00:00:00Z,19,Manuchekhr Dzhalilov,Manuchekhr Dzhalilov,footballer,Q159,Q655771
+Q3845146,Q6581097,1990-09-27T00:00:00Z,19,Manuchekhr Dzhalilov,Manuchekhr Dzhalilov,footballer,Q863,Q655771
+Q3879904,Q6581097,1991-01-16T00:00:00Z,10,Nuriddin Davronov,Nuriddin Davronov,Tajikistani footballer,Q863,Q9365
+Q4058350,Q6581097,1947-12-04T00:00:00Z,12,Yahyo Azimov,Yahyo Azimov,Prime Minister of Tajikistan,Q863,Q373808
+Q4062266,Q6581097,1970-11-16T00:00:00Z,5,Umed Alidodov,Umed Alidodov,Soviet association football player,Q863,Q9365
+Q4062266,Q6581097,1970-11-16T00:00:00Z,5,Umed Alidodov,Umed Alidodov,Soviet association football player,Q15180,Q9365
+Q4062535,Q6581097,1971-02-20T00:00:00Z,4,Baimurat Allaberiyev,Baimurat Allaberiyev,Tajikistani singer,Q863,Q2564823
+Q4071245,Q6581097,1920-08-25T00:00:00Z,9,Muhammad Asimi,Muhammad Osimi,"Tajik philosopher, soldier, poet, and academic",Q15180,Q373808
+Q4071245,Q6581097,1920-09-01T00:00:00Z,9,Muhammad Asimi,Muhammad Osimi,"Tajik philosopher, soldier, poet, and academic",Q863,Q373808
+Q4071245,Q6581097,1920-09-01T00:00:00Z,9,Muhammad Asimi,Muhammad Osimi,"Tajik philosopher, soldier, poet, and academic",Q15180,Q373808
+Q4071245,Q6581097,1920-08-25T00:00:00Z,9,Muhammad Asimi,Muhammad Osimi,"Tajik philosopher, soldier, poet, and academic",Q863,Q373808
+Q4073588,Q6581097,1968-08-20T00:00:00Z,5,Aliyor Ashurmamadov,Alier Ashurmamadov,footballer,Q15180,Q648567
+Q4073588,Q6581097,1968-08-20T00:00:00Z,5,Aliyor Ashurmamadov,Alier Ashurmamadov,footballer,Q863,Q648567
+Q4079507,Q6581097,1964-12-29T00:00:00Z,9,Yuri Baturenko,Yuri Baturenko,footballer,Q15180,Q9365
+Q4079507,Q6581097,1964-12-29T00:00:00Z,9,Yuri Baturenko,Yuri Baturenko,footballer,Q159,Q9365
+Q4079507,Q6581097,1964-12-29T00:00:00Z,9,Yuri Baturenko,Yuri Baturenko,footballer,Q863,Q9365
+Q4123640,Q6581097,1963-07-21T00:00:00Z,4,Anatoli Volovodenko,Anatoli Volovodenko,footballer,Q15180,Q9365
+Q4123640,Q6581097,1963-07-21T00:00:00Z,4,Anatoli Volovodenko,Anatoli Volovodenko,footballer,Q863,Q9365
+Q4123640,Q6581097,1963-07-21T00:00:00Z,4,Anatoli Volovodenko,Anatoli Volovodenko,footballer,Q159,Q9365
+Q4131568,Q6581097,1937-05-10T00:00:00Z,7,Hashim Gadoev,Hoshim Gado,Soviet actor and artist,Q15180,Q132043
+Q4131568,Q6581097,1937-05-10T00:00:00Z,7,Hashim Gadoev,Hoshim Gado,Soviet actor and artist,Q863,Q132043
+Q4151983,Q6581097,1946-02-26T00:00:00Z,10,Vladimir Gulyamkhaydarov,Vladimir Gulyamhaydarov,Soviet association football player,Q15180,Q9365
+Q4151983,Q6581097,1946-02-26T00:00:00Z,10,Vladimir Gulyamkhaydarov,Vladimir Gulyamhaydarov,Soviet association football player,Q232,Q9365
+Q4151983,Q6581097,1946-02-26T00:00:00Z,10,Vladimir Gulyamkhaydarov,Vladimir Gulyamhaydarov,Soviet association football player,Q863,Q9365
+Q4159771,Q6581097,1993-08-29T00:00:00Z,11,Alisher Dzhalilov,Alisher Dzhalilov,footballer,Q863,Q13201482
+Q4159771,Q6581097,1993-08-29T00:00:00Z,11,Alisher Dzhalilov,Alisher Dzhalilov,footballer,Q159,Q13201482
+Q4160620,Q6581097,1932-03-10T00:00:00Z,3,Abduhamid Juraev,Abduhamid Juraev,Russian mathematician (1932-2005),Q15180,Q695330
+Q4160620,Q6581097,1932-03-10T00:00:00Z,3,Abduhamid Juraev,Abduhamid Juraev,Russian mathematician (1932-2005),Q863,Q695330
+Q4167224,Q6581097,1946-05-10T00:00:00Z,5,Abdulmajid Dostiev,Abdulmajid Dostiev,Tajikistani politician and diplomat,Q863,Q648567
+Q4167224,Q6581097,1946-05-10T00:00:00Z,5,Abdulmajid Dostiev,Abdulmajid Dostiev,Tajikistani politician and diplomat,Q15180,Q648567
+Q41798729,Q6581097,1999-04-21T00:00:00Z,8,Sheriddin Boboev,Sheriddin Boboev,Tajikistani association football player,Q863,Q9365
+Q4188909,Q6581072,1925-11-06T00:00:00Z,6,Lutfi Zohidova,Lutfi Zohidova,Soviet ballet dancer (1925-1995),Q15180,Q1015752
+Q4188909,Q6581072,1925-11-06T00:00:00Z,6,Lutfi Zohidova,Lutfi Zohidova,Soviet ballet dancer (1925-1995),Q863,Q1015752
+Q4205175,Q6581072,1927-05-27T00:00:00Z,6,Barno Itzhakova,Barno Itzhakova,musician (1927–2001),Q15180,Q269
+Q4205175,Q6581072,1927-05-27T00:00:00Z,6,Barno Itzhakova,Barno Itzhakova,musician (1927–2001),Q863,Q269
+Q4215052,Q6581097,1940-08-04T00:00:00Z,14,Jamshed Karimov,Jamshed Karimov,tajikistani politician,Q863,Q9365
+Q4219061,Q6581097,1945-09-20T00:00:00Z,17,Gulnazar Keldi,Gulnazar Keldi,Tajik poet (1945-2020),Q863,Q5222435
+Q4219061,Q6581097,1945-09-20T00:00:00Z,17,Gulnazar Keldi,Gulnazar Keldi,Tajik poet (1945-2020),Q15180,Q5222435
+Q4219368,Q6581097,1942-02-18T00:00:00Z,4,Safarali Kenjayev,Safarali Kenjayev,Tajikistani politician (1942–1999),Q863,Q2669438
+Q4274166,Q6581097,1966-05-20T00:00:00Z,5,Magaram Magomedov,Magaram Magomedov,Russian chess player,Q863,Q4502413
+Q4274166,Q6581097,1966-05-20T00:00:00Z,5,Magaram Magomedov,Magaram Magomedov,Russian chess player,Q159,Q4502413
+Q42792337,Q6581097,1992-04-12T00:00:00Z,7,David Mawutor,David Mawutor,Footballer (born 1992),Q117,Q3761
+Q42792337,Q6581097,1992-04-12T00:00:00Z,7,David Mawutor,David Mawutor,Footballer (born 1992),Q863,Q3761
+Q4279727,Q6581097,1970-03-16T00:00:00Z,7,Shuhrat Mamajonov,Shuhrat Mamajonov,footballer,Q15180,Q9365
+Q4279727,Q6581097,1970-03-16T00:00:00Z,7,Shuhrat Mamajonov,Shuhrat Mamajonov,footballer,Q863,Q9365
+Q4280149,Q6581097,1965-08-05T00:00:00Z,7,Andrei Manannikov,Andrei Manannikov,Russian footballer (born 1965),Q863,Q9365
+Q4280149,Q6581097,1965-08-05T00:00:00Z,7,Andrei Manannikov,Andrei Manannikov,Russian footballer (born 1965),Q15180,Q9365
+Q4280149,Q6581097,1965-08-05T00:00:00Z,7,Andrei Manannikov,Andrei Manannikov,Russian footballer (born 1965),Q159,Q9365
+Q4280182,Q6581097,1958-03-13T00:00:00Z,13,Vazgen Manasyan,Vazgen Manasyan,Tajikistani footballer (1958-2024),Q863,Q9365
+Q4280182,Q6581097,1958-03-13T00:00:00Z,13,Vazgen Manasyan,Vazgen Manasyan,Tajikistani footballer (1958-2024),Q212,Q9365
+Q4280182,Q6581097,1958-03-13T00:00:00Z,13,Vazgen Manasyan,Vazgen Manasyan,Tajikistani footballer (1958-2024),Q15180,Q9365
+Q42871803,Q6581072,1952-01-01T00:00:00Z,2,Nazarbegim Muborakshoeva,Nazarbegim Muborakshoeva,Tajikistani politician,Q863,Q2507868
+Q42877484,Q6581072,1951-01-01T00:00:00Z,3,Lola Dodkhudoeva,Lola Dodkhudoeva,Tajikistani historian,Q863,Q9365
+Q42894788,Q6581072,1947-01-01T00:00:00Z,4,Larisa Dodkhudoeva,Larisa Dodkhudoeva,Tajikistani art historian,Q863,Q9365
+Q42894788,Q6581072,1947-01-01T00:00:00Z,4,Larisa Dodkhudoeva,Larisa Dodkhudoeva,Tajikistani art historian,Q15180,Q9365
+Q4295613,Q6581097,1939-02-15T00:00:00Z,12,Akbar Mirzoyev,Akbar Mirzoyev,Tajikistani politician,Q863,Q1018201
+Q43008505,Q6581072,1932-07-01T00:00:00Z,2,Munira Yaqubova,Munira Yaqubova,Tajikistani pediatrician,Q863,
+Q4306920,Q6581072,1925-09-03T00:00:00Z,9,Shoista Mullojonova,Shoista Mullojonova,Tajikistani singer (1925-2010),Q863,Q9365
+Q4307048,Q6581097,1970-08-20T00:00:00Z,7,Tokhirjon Muminov,Tokhirjon Muminov,footballer,Q863,Q9365
+Q4307048,Q6581097,1970-08-20T00:00:00Z,7,Tokhirjon Muminov,Tokhirjon Muminov,footballer,Q15180,Q9365
+Q4308156,Q6581097,1942-12-24T00:00:00Z,10,Jurabek Murodov,Jurabek Murodov,singer,Q15180,Q241582
+Q4308156,Q6581097,1942-12-24T00:00:00Z,10,Jurabek Murodov,Jurabek Murodov,singer,Q863,Q241582
+Q4312185,Q6581097,1970-02-03T00:00:00Z,4,Oraz Nazarov,Oraz Nazarov,Tajikistani footballer (born 1970),Q15180,Q9365
+Q4312185,Q6581097,1970-02-03T00:00:00Z,4,Oraz Nazarov,Oraz Nazarov,Tajikistani footballer (born 1970),Q863,Q9365
+Q4312194,Q6581097,1946-02-23T00:00:00Z,11,Sharif Nazarov,Sharif Nazarov,Tajikistani football manager,Q863,Q199711
+Q4312194,Q6581097,1946-02-23T00:00:00Z,11,Sharif Nazarov,Sharif Nazarov,Tajikistani football manager,Q15180,Q199711
+Q4314087,Q6581072,1924-12-20T00:00:00Z,3,Ashura Nosirova,Ashura Nosirova,"Tajikistani dancer, active during the Soviet era. (1924–2011)",Q863,
+Q4314087,Q6581072,1924-12-20T00:00:00Z,3,Ashura Nosirova,Ashura Nosirova,"Tajikistani dancer, active during the Soviet era. (1924–2011)",Q15180,
+Q4314659,Q6581072,1924-04-06T00:00:00Z,6,Mamlakat Nakhangova,Mamlakat Nakhangova,Soviet Tajik teacher,Q15180,Q4521200
+Q4314659,Q6581072,1924-04-06T00:00:00Z,6,Mamlakat Nakhangova,Mamlakat Nakhangova,Soviet Tajik teacher,Q863,Q4521200
+Q43196991,Q6581072,1949-01-01T00:00:00Z,3,Mairam Yusupova,Mairam Yusupova,tajikistani film director (born 1949),Q863,
+Q43210860,Q6581072,1952-05-02T00:00:00Z,5,Farida Mansurova,Farida Mansurova,Tajikistani physician (1952-2021),Q863,Q5753
+Q43210860,Q6581072,1952-05-02T00:00:00Z,5,Farida Mansurova,Farida Mansurova,Tajikistani physician (1952-2021),Q15180,Q5753
+Q4321778,Q6581072,1989-02-14T00:00:00Z,14,Tahmina Niyazova,Tahmina Niyazova,Tajikistani singer,Q863,Q9365
+Q43301999,Q6581072,1925-11-15T00:00:00Z,1,Irina Mansurova,Irina Mansurova,Tajikistani biochemist,Q863,Q5764
+Q43303438,Q6581072,1942-07-07T00:00:00Z,2,Turdikhon Berdieva,Turdikhon Berdieva,tajikistani linguist and Orientalist,Q863,
+Q43304291,Q6581072,1933-11-07T00:00:00Z,2,Muslima Baqieva,Muslima Baqieva,Tajikistani singer,Q863,
+Q43403807,Q6581072,1934-01-09T00:00:00Z,1,Mu'azzama Miroqilova,Mu'azzama Miroqilova,Tajikistani pediatrician,Q863,
+Q43406104,Q6581072,1953-01-01T00:00:00Z,6,Rafiqa Musoeva,Rafiqa Musoeva,politician,Q863,
+Q43507043,Q6581072,1928-02-25T00:00:00Z,5,Mahkam Pulodova,Mahkam Pulodova,scientist,Q863,
+Q43515302,Q6581072,1929-10-04T00:00:00Z,3,Lolaniso Ismailova,Lola Ismailova,Tajik biologist,Q199711,Q9365
+Q43515302,Q6581072,1929-10-04T00:00:00Z,3,Lolaniso Ismailova,Lola Ismailova,Tajik biologist,Q863,Q9365
+Q4390938,Q6581072,1945-05-21T00:00:00Z,3,Nigina Raufova,Nigina Raufova,Tajikistani singer and composer (1945–2010),Q15180,Q2669448
+Q4390938,Q6581072,1945-05-21T00:00:00Z,3,Nigina Raufova,Nigina Raufova,Tajikistani singer and composer (1945–2010),Q863,Q2669448
+Q4391016,Q6581097,1962-04-30T00:00:00Z,10,Alimzhon Rafikov,Alimzhon Rafikov,footballer,Q15180,Q9365
+Q4391016,Q6581097,1962-04-30T00:00:00Z,10,Alimzhon Rafikov,Alimzhon Rafikov,footballer,Q863,Q9365
+Q4391016,Q6581097,1962-04-30T00:00:00Z,10,Alimzhon Rafikov,Alimzhon Rafikov,footballer,Q159,Q9365
+Q4392781,Q6581097,1976-03-08T00:00:00Z,8,Alisher Tuychiev,Alisher Tuychiev,Tajik footballer,Q863,Q863
+Q4403499,Q6581097,1929-12-21T00:00:00Z,6,Takhir Sabirov,Takhir Sabirov,"Soviet-Tajikistani film director, screenwriter",Q863,Q9365
+Q4403499,Q6581097,1929-12-21T00:00:00Z,6,Takhir Sabirov,Takhir Sabirov,"Soviet-Tajikistani film director, screenwriter",Q15180,Q9365
+Q4406268,Q6581097,1949-11-04T00:00:00Z,10,Abdujalil Samadov,Abdujalil Samadov,Tajik politician (1949–2004),Q863,Q373808
+Q4409205,Q6581097,1928-01-01T00:00:00Z,5,Sangak Safarov,Sangak Safarov,one of the leaders of the Popular Front of Tajikistan during the Tajikistani Civil War (1928–1993),Q863,Q65299484
+Q4409205,Q6581097,1928-01-01T00:00:00Z,5,Sangak Safarov,Sangak Safarov,one of the leaders of the Popular Front of Tajikistan during the Tajikistani Civil War (1928–1993),Q15180,Q65299484
+Q44247486,Q6581072,1941-01-01T00:00:00Z,2,Mo'ina Khojaeva,Mo'ina Khojaeva,Uzbekistani Tajik writer (born 1941),Q863,
+Q4430044,Q6581072,1913-01-30T00:00:00Z,9,Sofia Tuibayeva,Sofia Tuibayeva,Soviet actress (1913-1996),Q863,Q5764
+Q4430044,Q6581072,1913-01-30T00:00:00Z,9,Sofia Tuibayeva,Sofia Tuibayeva,Soviet actress (1913-1996),Q15180,Q5764
+Q4465691,Q6581097,1963-01-28T00:00:00Z,4,Uraz Turakulov,Uraz Turakulov,Tajikistani football manager,Q863,Q648567
+Q4465691,Q6581097,1963-01-28T00:00:00Z,4,Uraz Turakulov,Uraz Turakulov,Tajikistani football manager,Q15180,Q648567
+Q4493295,Q6581097,1964-08-12T00:00:00Z,13,Khakim Fuzaylov,Khakim Fuzailov,Tajikistani footballer,Q15180,Q648567
+Q4493295,Q6581097,1964-08-12T00:00:00Z,13,Khakim Fuzaylov,Khakim Fuzailov,Tajikistani footballer,Q159,Q648567
+Q4493295,Q6581097,1964-08-12T00:00:00Z,13,Khakim Fuzaylov,Khakim Fuzailov,Tajikistani footballer,Q863,Q648567
+Q4495267,Q6581097,1975-08-14T00:00:00Z,5,Sukhrob Khamidov,Sukhrob Khamidov,Tajikistani footballer,Q863,Q9365
+Q4497760,Q6581097,1951-07-06T00:00:00Z,5,Muhammad Sharif Himmatzoda,Muhammadsharif Himmatzoda,politician (1951–2010),Q863,Q4121877
+Q4497760,Q6581097,1951-07-06T00:00:00Z,5,Muhammad Sharif Himmatzoda,Muhammadsharif Himmatzoda,politician (1951–2010),Q15180,Q4121877
+Q4502170,Q6581097,1964-10-18T00:00:00Z,5,Mahmud Khudoiberdiyev,Mahmud Khudoiberdiyev,Tajikistani politician,Q863,Q648567
+Q4512643,Q6581097,1974-08-21T00:00:00Z,13,Igor Cherevchenko,Igor Cherevchenko,Tajik footballer (born 1974),Q159,Q9365
+Q4512643,Q6581097,1974-08-21T00:00:00Z,13,Igor Cherevchenko,Igor Cherevchenko,Tajik footballer (born 1974),Q863,Q9365
+Q4665221,Q6581097,1951-12-24T00:00:00Z,4,Abduhalim Ghafforov,Abduhalim Ghafforov,Tajikistani politician,Q863,
+Q4665537,Q6581097,1901-01-01T00:00:00Z,3,Abdul Malik Anwar,Abdul Malik Anwar,Afghan politician,Q863,Q863
+Q46996254,Q6581097,1995-01-11T00:00:00Z,10,Behruzi Khojazoda,Behruzi Khojazoda,Tajikistani judoka,Q863,Q2669430
+Q46996254,Q6581097,1995-01-11T00:00:00Z,10,Behruzi Khojazoda,Behruzi Khojazoda,Tajikistani judoka,Q863,Q9365
+Q4700799,Q6581097,1988-01-30T00:00:00Z,6,Akhtam Khamrakulov,Akhtam Khamroqulov,Tajikistani footballer,Q863,Q648567
+Q4701452,Q6581097,1976-04-04T00:00:00Z,7,Akmal Kholmatov,Akmal Kholmatov,footballer,Q15180,Q863
+Q4701452,Q6581097,1976-04-04T00:00:00Z,7,Akmal Kholmatov,Akmal Kholmatov,footballer,Q863,Q863
+Q4701452,Q6581097,1976-04-04T00:00:00Z,7,Akmal Kholmatov,Akmal Kholmatov,footballer,Q265,Q863
+Q4712404,Q6581072,1969-01-24T00:00:00Z,9,Albina Kamaletdinova,Albina Kamaletdinova,Tajikistani archer,Q863,Q2669438
+Q4718884,Q6581097,1982-09-23T00:00:00Z,7,Alexander Frank,Alexander Frank,Tajikistani footballer,Q863,Q9365
+Q4720549,Q6581097,1978-08-24T00:00:00Z,3,Alexandr Mukanin,Alexandr Mukanin,footballer,Q863,
+Q4721281,Q6581097,1986-01-04T00:00:00Z,7,Aleksey Negmatov,Alexei Negmatov,Tajikistani footballer,Q863,Q15180
+Q4726977,Q6581097,1986-06-23T00:00:00Z,5,Alisher Chingizov,Alisher Chingizov,Tajikistani swimmer,Q863,Q9365
+Q4726981,Q6581097,1986-01-11T00:00:00Z,9,Alisher Qudratov,Alisher Kudratov,Tajikistani alpine skier,Q863,
+Q47485846,Q6581072,1937-01-01T00:00:00Z,2,Mariam Nabieva,Mariam Nabieva,Tajikistani politician,Q863,
+Q4803286,Q6581097,1954-02-28T00:00:00Z,3,Asadullo Gulomov,Asadullo Gulomov,Tajikistani politician,Q863,Q2565377
+Q4808285,Q6581097,1995-10-20T00:00:00Z,4,Asror Vokhidov,Asror Vohidov,boxer,Q863,Q695330
+Q48189965,Q6581072,1982-06-29T00:00:00Z,12,Tahmina Rajabova,Tahmina Rajabova,Tajikistani actress (born 1982),Q863,Q9365
+Q496888,Q6581097,1969-05-04T00:00:00Z,43,Vitaliy Parakhnevych,Vitaliy Parakhnevych,Tajikistani footballer (born 1969),Q15180,Q43070
+Q496888,Q6581097,1969-05-04T00:00:00Z,43,Vitaliy Parakhnevych,Vitaliy Parakhnevych,Tajikistani footballer (born 1969),Q212,Q43070
+Q496888,Q6581097,1969-05-04T00:00:00Z,43,Vitaliy Parakhnevych,Vitaliy Parakhnevych,Tajikistani footballer (born 1969),Q863,Q43070
+Q501973,Q6581097,1977-06-12T00:00:00Z,13,Andrei Drygin,Andrei Drygin,Tajikistani alpine skier,Q863,Q919
+Q501973,Q6581097,1977-06-12T00:00:00Z,13,Andrei Drygin,Andrei Drygin,Tajikistani alpine skier,Q863,Q9365
+Q50312973,Q6581097,1993-07-06T00:00:00Z,1,Davron Atabaev,Davron Atabaev,tajikistani sprinter,Q863,
+Q5210782,Q6581097,1986-08-27T00:00:00Z,5,Daler Tukhtasunov,Daler Tukhtasunov,footballer,Q863,Q199711
+Q5210783,Q6581097,1993-01-15T00:00:00Z,43,Daler Kuzyayev,Daler Kuzyayev,Russian footballer,Q863,Q95041
+Q5210783,Q6581097,1993-01-15T00:00:00Z,43,Daler Kuzyayev,Daler Kuzyayev,Russian footballer,Q159,Q95041
+Q5242059,Q6581097,1950-10-26T00:00:00Z,9,Davlatmand Kholov,Davlatmand Kholov,Tajikistani musician,Q15180,Q97345832
+Q5242059,Q6581097,1950-10-26T00:00:00Z,9,Davlatmand Kholov,Davlatmand Kholov,Tajikistani musician,Q863,Q97345832
+Q5242133,Q6581097,1988-03-19T00:00:00Z,11,Davronjon Ergashev,Davron Ergashev,Tajikistani footballer,Q863,Q4115618
+Q5242140,Q6581097,1990-05-14T00:00:00Z,4,Davronjon Tukhtasunov,Davronjon Tukhtasunov,Tajikistani association footballer,Q863,
+Q5257322,Q6581097,1977-11-29T00:00:00Z,4,Denis Knitel,Denis Knitel,Tajikistani footballer,Q863,Q9365
+Q5257322,Q6581097,1977-11-29T00:00:00Z,4,Denis Knitel,Denis Knitel,Tajikistani footballer,Q159,Q9365
+Q5319694,Q6581097,1976-04-15T00:00:00Z,3,Dzhomikhon Mukhidinov,Dzhomikhon Mukhidinov,Tajikistani footballer (born 1976),Q863,
+Q5384825,Q6581097,1990-11-09T00:00:00Z,7,Eraj Rajabov,Eraj Rajabov,footballer,Q863,Q863
+Q5435197,Q6581097,1990-05-29T00:00:00Z,6,Farkhod Tokhirov,Farhod Tohirov,Tajikistani footballer,Q863,Q9365
+Q5436346,Q6581097,1959-01-01T00:00:00Z,4,Farruh Negmat-Zadeh,Farruh Negmat-Zadeh,Tajikistani artist,Q15180,Q9365
+Q5436346,Q6581097,1959-01-01T00:00:00Z,4,Farruh Negmat-Zadeh,Farruh Negmat-Zadeh,Tajikistani artist,Q863,Q9365
+Q5436350,Q6581097,1984-07-21T00:00:00Z,7,Farrukh Choriyev,Farrukh Choriev,Tajikistani footballer,Q863,Q15180
+Q5437902,Q6581097,1990-03-24T00:00:00Z,16,Fatkhullo Fatkhulloyev,Fatkhullo Fatkhuloev,Tajikistani footballer,Q863,Q863
+Q54861097,Q6581097,1978-01-21T00:00:00Z,4,Rustam Boqiev,Rustam Boqiev,Tajikistani judoka,Q863,Q4121964
+Q54932362,Q6581072,1907-06-30T00:00:00Z,2,Khalimakhon Suleymanova,Khalimakhon Suleymanova,Tajik collective farmer (1907–1993),Q863,Q746558
+Q54932362,Q6581072,1907-06-30T00:00:00Z,2,Khalimakhon Suleymanova,Khalimakhon Suleymanova,Tajik collective farmer (1907–1993),Q15180,Q746558
+Q5518671,Q6581072,1991-04-29T00:00:00Z,4,Galina Mityaeva,Galina Mityaeva,Tajikistani hammer thrower,Q863,Q2588405
+Q557544,Q6581097,1989-01-25T00:00:00Z,10,Kamil Saidov,Kamil Saidov,Tajikistani footballer,Q863,Q199711
+Q558495,Q6581097,1982-09-29T00:00:00Z,26,Rasul Boqiev,Rasul Boqiev,Tajikistani judoka,Q863,Q2669438
+Q558515,Q6581097,1930-10-05T00:00:00Z,36,Rahmon Nabiyev,Rahmon Nabiyev,Tajikistani politician (1930-1993),Q863,Q2592692
+Q558515,Q6581097,1930-10-05T00:00:00Z,36,Rahmon Nabiyev,Rahmon Nabiyev,Tajikistani politician (1930-1993),Q15180,Q2592692
+Q5617219,Q6581072,1947-09-11T00:00:00Z,3,Gulafzo Savriddinova,Gulafzo Savriddinova,Tajikistan politician,Q863,
+Q5620179,Q6581097,1929-05-01T00:00:00Z,6,Gurminj Zavqibekov,Gurminj Zavkibekov,Tajikistani musician (1929–2003),Q863,Q207319
+Q5620179,Q6581097,1929-05-01T00:00:00Z,6,Gurminj Zavqibekov,Gurminj Zavkibekov,Tajikistani musician (1929–2003),Q15180,Q207319
+Q56307185,Q6581072,1963-10-04T00:00:00Z,2,Sitora Alieva,Sitora Alieva,"Soviet and Tajik writer, actress",Q863,Q9365
+Q56307544,Q6581097,1937-11-07T00:00:00Z,6,Habibullah Abdurazzaq,Habibullah Abdurazzaq,Tajikistani actor,Q863,Q2564862
+Q56307544,Q6581097,1937-11-07T00:00:00Z,6,Habibullah Abdurazzaq,Habibullah Abdurazzaq,Tajikistani actor,Q15180,Q2564862
+Q57366,Q6581097,1952-10-05T00:00:00Z,90,Emomali Rahmon,Emomali Rahmon,President of Tajikistan (1992-present),Q15180,Q3815320
+Q57366,Q6581097,1952-10-05T00:00:00Z,90,Emomali Rahmon,Emomali Rahmon,President of Tajikistan (1992-present),Q863,Q3815320
+Q57754,Q6581097,1944-02-02T00:00:00Z,38,Oqil Oqilov,Oqil Oqilov,Tajikistani politician,Q863,Q373808
+Q58008403,Q6581097,1994-08-14T00:00:00Z,7,Shavkat Rakhimov,Shavkat Rakhimov,Tajikistani boxer,Q159,Q648567
+Q58008403,Q6581097,1994-08-14T00:00:00Z,7,Shavkat Rakhimov,Shavkat Rakhimov,Tajikistani boxer,Q863,Q648567
+Q58606778,Q6581072,1937-11-08T00:00:00Z,4,Guljahon Bobosodiqova,Guljahon Bobosodiqova,Tajik-Soviet politician and women's rights activist,Q199711,Q936510
+Q58606778,Q6581072,1937-11-08T00:00:00Z,4,Guljahon Bobosodiqova,Guljahon Bobosodiqova,Tajik-Soviet politician and women's rights activist,Q863,Q936510
+Q58978819,Q6581072,1923-11-06T00:00:00Z,6,Nizoramo Zaripova,Nizoramo Zaripova,Tajik-Soviet politician and women's rights activist,Q15180,Q30971560
+Q58978819,Q6581072,1923-11-06T00:00:00Z,6,Nizoramo Zaripova,Nizoramo Zaripova,Tajik-Soviet politician and women's rights activist,Q863,Q30971560
+Q591225,Q6581097,1982-05-06T00:00:00Z,30,Dilshod Nazarov,Dilshod Nazarov,Tajikistani track and field athlete,Q863,Q9365
+Q59299432,Q6581097,1997-01-01T00:00:00Z,3,Shahriyor Daminov,Shahriyor Daminov,Tajikistani canoeist,Q863,
+Q59782213,Q6581097,1998-05-01T00:00:00Z,1,Behrouz Hayriev,Behrouz Hayriev,Tajikstani footballer,Q863,Q1018201
+Q5984392,Q6581097,1937-11-04T00:00:00Z,4,Ibragim Khasanov,Ibragim Khasanov,Soviet canoeist (1937-2010),Q159,Q9365
+Q5984392,Q6581097,1937-11-04T00:00:00Z,4,Ibragim Khasanov,Ibragim Khasanov,Soviet canoeist (1937-2010),Q15180,Q9365
+Q5984392,Q6581097,1937-11-04T00:00:00Z,4,Ibragim Khasanov,Ibragim Khasanov,Soviet canoeist (1937-2010),Q863,Q9365
+Q5984701,Q6581097,1987-08-03T00:00:00Z,7,Ibrahim Rabimov,Ibrahim Rabimov,footballer,Q863,Q15180
+Q60048597,Q6581097,2000-07-25T00:00:00Z,12,Vahdat Hanonov,Vahdat Hanonov,Tajikistani footballer,Q863,Q655771
+Q60048599,Q6581097,2000-09-18T00:00:00Z,3,Hussein Nurmatov,Hussein Nurmatov,Tajikistani association football player,Q863,Q648567
+Q60048606,Q6581097,1998-04-14T00:00:00Z,4,Muhammadjon Loiqov,Muhammadjon Loiqov,tajikistani footballer,Q184,Q9365
+Q60048606,Q6581097,1998-04-14T00:00:00Z,4,Muhammadjon Loiqov,Muhammadjon Loiqov,tajikistani footballer,Q863,Q9365
+Q60463275,Q6581097,1953-06-23T00:00:00Z,7,Rashid Alimov,Rashid Alimov,Tajik politician,Q863,Q9365
+Q60694718,Q6581072,1922-11-12T00:00:00Z,4,Ibodat Rakhimova,Ibodat Rakhimova,Tajikistani politician,Q15180,Q373808
+Q60694718,Q6581072,1922-11-12T00:00:00Z,4,Ibodat Rakhimova,Ibodat Rakhimova,Tajikistani politician,Q863,Q373808
+Q60754,Q6581097,1949-01-01T00:00:00Z,11,Abdumalik Abdullajanov,Abdumalik Abdullajanov,politician,Q863,Q373808
+Q61136545,Q6581072,1993-09-09T00:00:00Z,6,Zulaykho,Zulaykho Mahmadshoeva,Tajikistani musician,Q863,Q2391254
+Q61136545,Q6581072,1993-09-09T00:00:00Z,6,Zulaykho,Zulaykho Mahmadshoeva,Tajikistani musician,Q863,Q9365
+Q61136545,Q6581072,1991-09-09T00:00:00Z,6,Zulaykho,Zulaykho Mahmadshoeva,Tajikistani musician,Q863,Q2391254
+Q61136545,Q6581072,1991-09-09T00:00:00Z,6,Zulaykho,Zulaykho Mahmadshoeva,Tajikistani musician,Q863,Q9365
+Q6118007,Q6581097,1990-02-08T00:00:00Z,4,Samad Shohzukhurov,Samad Shohzukhurov,Tajikistani footballer,Q863,Q9365
+Q6125158,Q6581097,1989-09-28T00:00:00Z,4,Jakhongir Jalilov,Jakhongir Jalilov,Tajikistani footballer,Q863,Q863
+Q6125158,Q6581097,1989-09-29T00:00:00Z,4,Jakhongir Jalilov,Jakhongir Jalilov,Tajikistani footballer,Q863,Q863
+Q612948,Q6581097,1987-02-01T00:00:00Z,10,Anvar Yunusov,Anvar Yunusov,Tajikistani boxer,Q863,Q9365
+Q6148202,Q6581097,1987-01-12T00:00:00Z,6,Jamshed Ismailov,Jamshed Ismailov,Tajikistani footballer,Q863,Q9365
+Q6375972,Q6581072,1977-06-10T00:00:00Z,6,Katerina Izmailova (swimmer),Katerina Izmailova,swimmer,Q863,Q9365
+Q6402174,Q6581097,1947-06-15T00:00:00Z,4,Homiddin Sharifov,Khomiddin Sharipov,Tajikistani politician,Q863,
+Q6403131,Q6581097,1982-08-08T00:00:00Z,8,Khurshed Makhmudov,Khurshed Makhmudov,Tajikistani footballer,Q863,Q9365
+Q64747251,Q6581097,2001-02-08T00:00:00Z,7,Shahrom Samiev,Shahrom Samiyev,Tajik footballer,Q863,Q9365
+Q6553136,Q6581097,1956-04-12T00:00:00Z,2,Qahar Asi,Qahar Asi,Poet form Afghanistan,Q889,Q974525
+Q6553136,Q6581097,1956-04-12T00:00:00Z,2,Qahar Asi,Qahar Asi,Poet form Afghanistan,Q863,Q974525
+Q66107454,Q6581097,1969-01-01T00:00:00Z,3,Rahmonali Safaralizoda,Safaralizoda Rahmonali Davlat,,Q863,Q2565339
+Q6734237,Q6581097,1984-03-20T00:00:00Z,6,Mahmadali Sodikov,Mahmadali Sodikov,footballer,Q863,Q199711
+Q6734241,Q6581097,1952-02-01T00:00:00Z,8,Mahmadsaid Ubaydulloyev,Mahmadsaid Ubaydulloyev,Tajikistani politician,Q863,Q9365
+Q6743650,Q6581072,1950-09-02T00:00:00Z,9,Malika Kalontarova,Malika Kalontarova,Tajik-American dancer (born 1950),Q863,Q9365
+Q6743650,Q6581072,1950-09-02T00:00:00Z,9,Malika Kalontarova,Malika Kalontarova,Tajik-American dancer (born 1950),Q15180,Q9365
+Q6753548,Q6581072,1952-01-01T00:00:00Z,2,Manzura Uldjabaeva,Manzura Uldjabaeva,Tajikistani artist,Q863,
+Q67761308,Q6581097,1990-02-08T00:00:00Z,12,Makhmud Muradov,Makhmud Muradov,"Tajik-born Uzbek-Czech professional mixed martial artist, kickboxer and combat sambist",Q863,Q9365
+Q67761308,Q6581097,1990-02-08T00:00:00Z,12,Makhmud Muradov,Makhmud Muradov,"Tajik-born Uzbek-Czech professional mixed martial artist, kickboxer and combat sambist",Q265,Q9365
+Q67761308,Q6581097,1990-02-08T00:00:00Z,12,Makhmud Muradov,Makhmud Muradov,"Tajik-born Uzbek-Czech professional mixed martial artist, kickboxer and combat sambist",Q213,Q9365
+Q67761308,Q6581097,1990-02-08T00:00:00Z,12,Makhmud Muradov,Makhmud Muradov,"Tajik-born Uzbek-Czech professional mixed martial artist, kickboxer and combat sambist",Q15180,Q9365
+Q68019854,Q6581097,2001-05-31T00:00:00Z,8,Manuchekhr Safarov,Manuchehr Safarov,Tajikistani footballer,Q863,Q863
+Q6810296,Q6581097,1927-08-25T00:00:00Z,2,Meirkhaim Gavrielov,Meirkhaim Gavrielov,Tajikistani journalist,Q863,Q5753
+Q6932924,Q6581097,1925-02-01T00:00:00Z,8,Muhammadjon Shakuri,Muhammadjon Shakuri,Tajikistani writer,Q863,Q5764
+Q6932924,Q6581097,1925-02-01T00:00:00Z,8,Muhammadjon Shakuri,Muhammadjon Shakuri,Tajikistani writer,Q15180,Q5764
+Q6933021,Q6581097,1980-10-06T00:00:00Z,1,Muhibullo Abdulkarim Umarov,Muhibullo Abdulkarim Umarov,Tajik Guantanamo detainee known to have been released,Q863,
+Q6933455,Q6581097,1992-12-22T00:00:00Z,9,Mukhammad Sultonov,Mukhammad Sultonov,Russian footballer,Q863,Q3375469
+Q6933455,Q6581097,1992-12-22T00:00:00Z,9,Mukhammad Sultonov,Mukhammad Sultonov,Russian footballer,Q159,Q3375469
+Q69353963,Q6581072,1997-12-02T00:00:00Z,4,Gulsumbi Sharifova,Gulsumbi Sharifova,tajikistani sprinter,Q863,
+Q6938747,Q6581097,1943-01-01T00:00:00Z,4,Murivat Bekhnazarov,Murivat Bekhnazarov,Tajikistani artist (born 1943),Q15180,Q2669456
+Q6938747,Q6581097,1943-01-01T00:00:00Z,4,Murivat Bekhnazarov,Murivat Bekhnazarov,Tajikistani artist (born 1943),Q863,Q2669456
+Q6951554,Q6581097,1959-03-18T00:00:00Z,1,Nurudin N. Mukhitdinov,N.N.Mukhitdinov,Tajikistani politician,Q863,
+Q6959651,Q6581097,1992-04-26T00:00:00Z,2,Naim Ulmasov,Naim Ulmasov,Tajikistani footballer,Q863,Q863
+Q6965889,Q6581072,1966-10-08T00:00:00Z,6,Nargis Bandishoeva,Nargis Bandishoeva,Tajikistani musician,Q863,Q9365
+Q698344,Q6581097,1965-03-18T00:00:00Z,19,Rashid Rakhimov,Rashid Rakhimov,Tajik footballer,Q863,Q9365
+Q698344,Q6581097,1965-03-18T00:00:00Z,19,Rashid Rakhimov,Rashid Rakhimov,Tajik footballer,Q159,Q9365
+Q698344,Q6581097,1965-03-18T00:00:00Z,19,Rashid Rakhimov,Rashid Rakhimov,Tajik footballer,Q15180,Q9365
+Q7036306,Q6581097,1988-02-24T00:00:00Z,6,Nikolay Noev,,Tajikistani wrestler,Q863,Q6605
+Q7042273,Q6581097,1983-06-26T00:00:00Z,5,Nizom Sangov,Nizom Sangov,Olympic weightlifter,Q863,Q7482815
+Q7077795,Q6581097,1977-02-10T00:00:00Z,6,Odil Irgashev,Odil Irgashev,Tajikistani footballer,Q863,Q199711
+Q7089615,Q6581097,1978-10-11T00:00:00Z,2,Omar Abdulayev,Omar Abdulayev,Guantanamo Bay detainee,Q863,Q863
+Q7089615,Q6581097,1978-10-11T00:00:00Z,2,Omar Abdulayev,Omar Abdulayev,Guantanamo Bay detainee,Q863,Q9365
+Q71316704,Q6581097,1997-01-01T00:00:00Z,4,Alisher Karimov,Alisher Karimov,Tajik chess player,Q863,
+Q718913,Q6581097,1977-11-08T00:00:00Z,21,Yusup Abdusalomov,Yusup Abdusalomov,wrestler,Q863,Q4066899
+Q7289157,Q6581097,1960-04-25T00:00:00Z,4,Ramazon Rahimzoda,Ramazon Rahimzoda,Tajik politician,Q863,Q6402653
+Q7296123,Q6581097,1978-03-02T00:00:00Z,2,Rauf Hukmatov,Rauf Hukmatov,Tajikistani judoka,Q863,
+Q7382433,Q6581097,1991-08-18T00:00:00Z,7,Rustam Iskandari,Rustam Iskandari,Olympic wrestler,Q863,Q132043
+Q7382437,Q6581097,1973-01-02T00:00:00Z,3,Rustam Khojayev,Rustam Khojaev,footballer,Q863,Q15180
+Q7404612,Q6581097,1960-08-18T00:00:00Z,5,Salimjon Aioubov,Salimjon Aioubov,Tajik journalist and writer,Q863,Q2588397
+Q7453943,Q6581097,1967-12-20T00:00:00Z,5,Sergey Babikov,Sergey Babikov,Tajikistani sport shooter,Q863,Q9365
+Q7494655,Q6581097,1981-10-23T00:00:00Z,5,Sherali Bozorov,Sherali Bozorov,Olympic judoka,Q863,Q132043
+Q7494657,Q6581097,1949-11-08T00:00:00Z,9,Sherali Khayrulloyev,Sherali Khayrulloyev,politician,Q863,Q3564819
+Q7504804,Q6581097,1981-09-26T00:00:00Z,4,Shujoat Nematov,Shujoat Nematov,footballer,Q863,
+Q7555098,Q6581097,1988-09-15T00:00:00Z,6,Sokhib Suvonkulov,Sokhib Suvonkulov,Tajikistani footballer (born 1988),Q863,Q9365
+Q76281359,Q6581097,1999-03-24T00:00:00Z,20,Somon Makhmadbekov,Somon Makhmadbekov,Tajikistani judoka,Q863,Q6576
+Q768262,Q6581097,1952-01-05T00:00:00Z,5,Olimzhon Boboyev,Olimzhon Boboyev,Tajikistani politician,Q863,Q25590482
+Q7881461,Q6581097,1978-11-12T00:00:00Z,5,Umed Khabibulloyev,Umed Khabibulloev,footballer,Q863,Q199711
+Q79100,Q6581097,1971-08-01T00:00:00Z,14,Sergei Mandreko,Sergei Mandreko,Russian footballer (1971–2022),Q15180,Q648567
+Q79100,Q6581097,1971-08-01T00:00:00Z,14,Sergei Mandreko,Sergei Mandreko,Russian footballer (1971–2022),Q159,Q648567
+Q79100,Q6581097,1971-08-01T00:00:00Z,14,Sergei Mandreko,Sergei Mandreko,Russian footballer (1971–2022),Q863,Q648567
+Q79100,Q6581097,1971-08-01T00:00:00Z,14,Sergei Mandreko,Sergei Mandreko,Russian footballer (1971–2022),Q40,Q648567
+Q7936895,Q6581097,1972-03-28T00:00:00Z,6,Vitaly Levchenko,Vitaliy Levchenko,footballer,Q212,Q373808
+Q7936895,Q6581097,1972-03-28T00:00:00Z,6,Vitaly Levchenko,Vitaliy Levchenko,footballer,Q863,Q373808
+Q7936895,Q6581097,1972-03-28T00:00:00Z,6,Vitaly Levchenko,Vitaliy Levchenko,footballer,Q15180,Q373808
+Q7936926,Q6581097,1983-12-02T00:00:00Z,4,Vitaly Koryakin,Vitaly Koryakin,Tajikistani wrestler,Q863,
+Q7938933,Q6581072,1986-12-18T00:00:00Z,4,Vladislava Ovcharenko,Vladislava Ovcharenko,Tajikistan sprinter,Q15180,Q9365
+Q7938933,Q6581072,1986-12-18T00:00:00Z,4,Vladislava Ovcharenko,Vladislava Ovcharenko,Tajikistan sprinter,Q863,Q9365
+Q8049150,Q6581097,1956-01-01T00:00:00Z,5,Yaqub Salimov,Yaqub Salimov,Tajikistani politician,Q15180,Q2565367
+Q8049150,Q6581097,1956-01-01T00:00:00Z,5,Yaqub Salimov,Yaqub Salimov,Tajikistani politician,Q863,Q2565367
+Q8065491,Q6581097,1984-02-19T00:00:00Z,9,Zalimkhan Yusupov (wrestler),Zalimkhan Yusupov,Tajikistani freestyle wrestler,Q159,Q5168
+Q8065491,Q6581097,1984-02-19T00:00:00Z,9,Zalimkhan Yusupov (wrestler),Zalimkhan Yusupov,Tajikistani freestyle wrestler,Q863,Q5168
+Q8075042,Q6581097,1932-01-04T00:00:00Z,4,Zuhur Habibullaev,Zuhur Habibullaev,Tajikistani artist,Q863,Q9365
+Q8075042,Q6581097,1932-01-01T00:00:00Z,4,Zuhur Habibullaev,Zuhur Habibullaev,Tajikistani artist,Q863,Q9365
+Q8075042,Q6581097,1932-01-04T00:00:00Z,4,Zuhur Habibullaev,Zuhur Habibullaev,Tajikistani artist,Q15180,Q9365
+Q8075042,Q6581097,1932-01-01T00:00:00Z,4,Zuhur Habibullaev,Zuhur Habibullaev,Tajikistani artist,Q15180,Q9365
+Q835704,Q6581097,1947-05-11T00:00:00Z,6,Latif Nazemi,Latif Nazemi,"Tajikistani poet, author and university teacher",Q863,Q45313
+Q86724375,Q6581097,1998-10-15T00:00:00Z,4,Muhamad Ikromov,Muhamad Ikromov,Tajikistani amateur wrestler,Q863,Q2083896
+Q86724375,Q6581097,1998-10-15T00:00:00Z,4,Muhamad Ikromov,Muhamad Ikromov,Tajikistani amateur wrestler,Q159,Q2083896
+Q936615,Q6581097,1979-12-24T00:00:00Z,12,Yusuf Rabiev,Yusuf Rabiev,Tajikistani footballer (born 1979),Q863,Q9365
+Q936615,Q6581097,1976-05-24T00:00:00Z,12,Yusuf Rabiev,Yusuf Rabiev,Tajikistani footballer (born 1979),Q863,Q9365
+Q95391327,Q6581072,1978-05-21T00:00:00Z,1,Natalia Shlemova,Nataliya Shlemova,Tajikistani diver,Q863,
+Q97231025,Q6581097,1948-08-15T00:00:00Z,4,Miroj Abdulloyev,Miroj Abdulloyev,chairman of the Communist Party of Tajikistan,Q863,Q2565327
+Q97233494,Q6581097,1956-07-05T00:00:00Z,6,Mahmadtohir Zokirzoda,Mahmadtohir Zokirzoda,Tajik politician,Q863,Q2657690
+Q98120334,Q6581097,1993-08-16T00:00:00Z,5,Kova Tilavpur,Kova Tilavpur,musical artist,Q863,Q2396963
+Q981446,Q6581097,1985-01-12T00:00:00Z,10,Sherali Dostiev,Sherali Dostiev,Tajikistani boxer,Q863,Q9365
+Q99372898,Q6581072,1996-05-01T00:00:00Z,2,Madina Fozilova,Madina Fozilova,Tajikistani footballer,Q863,

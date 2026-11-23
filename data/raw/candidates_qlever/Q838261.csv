@@ -1,0 +1,555 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q101077360,Q6581097,1963-11-28T00:00:00Z,5,Dragan Momić,Dragan Momić,Serbian handball player,Q403,Q511216
+Q101077360,Q6581097,1963-11-28T00:00:00Z,5,Dragan Momić,Dragan Momić,Serbian handball player,Q838261,Q511216
+Q105924118,Q6581072,1995-04-16T00:00:00Z,3,Ivana Nikolić (singer),Ivana Nikolić,"Serbian singer, dancer",Q838261,Q129259
+Q107395726,Q6581097,1967-01-01T00:00:00Z,4,Max Vincent,Max Vincent,Serbian musician,Q838261,Q3711
+Q107395726,Q6581097,1967-01-01T00:00:00Z,4,Max Vincent,Max Vincent,Serbian musician,Q36704,Q3711
+Q107395726,Q6581097,1967-01-01T00:00:00Z,4,Max Vincent,Max Vincent,Serbian musician,Q403,Q3711
+Q110046419,Q6581097,1966-09-30T00:00:00Z,4,Aleksandar Jovanović Ćuta,Aleksandar Jovanović Ćuta,Serbian activist,Q83286,Q3711
+Q110046419,Q6581097,1966-09-30T00:00:00Z,4,Aleksandar Jovanović Ćuta,Aleksandar Jovanović Ćuta,Serbian activist,Q1290149,Q3711
+Q110046419,Q6581097,1966-09-30T00:00:00Z,4,Aleksandar Jovanović Ćuta,Aleksandar Jovanović Ćuta,Serbian activist,Q838261,Q3711
+Q110046419,Q6581097,1966-09-30T00:00:00Z,4,Aleksandar Jovanović Ćuta,Aleksandar Jovanović Ćuta,Serbian activist,Q403,Q3711
+Q110046419,Q6581097,1966-09-30T00:00:00Z,4,Aleksandar Jovanović Ćuta,Aleksandar Jovanović Ćuta,Serbian activist,Q37024,Q3711
+Q11038562,Q6581097,1929-11-20T00:00:00Z,5,Aleksandar Popović (writer),Aleksandar Popović,writer (1929-1996),Q83286,Q1273297
+Q11038562,Q6581097,1929-11-20T00:00:00Z,5,Aleksandar Popović (writer),Aleksandar Popović,writer (1929-1996),Q838261,Q1273297
+Q11038562,Q6581097,1929-11-20T00:00:00Z,5,Aleksandar Popović (writer),Aleksandar Popović,writer (1929-1996),Q191077,Q1273297
+Q11215801,Q6581072,1936-04-21T00:00:00Z,3,Vasilija Radojčić,Vasilija Radojčić,Serbian singer,Q83286,Q167394
+Q11215801,Q6581072,1936-04-21T00:00:00Z,3,Vasilija Radojčić,Vasilija Radojčić,Serbian singer,Q191077,Q167394
+Q11215801,Q6581072,1936-04-21T00:00:00Z,3,Vasilija Radojčić,Vasilija Radojčić,Serbian singer,Q838261,Q167394
+Q11215801,Q6581072,1936-04-21T00:00:00Z,3,Vasilija Radojčić,Vasilija Radojčić,Serbian singer,Q37024,Q167394
+Q11215801,Q6581072,1936-04-21T00:00:00Z,3,Vasilija Radojčić,Vasilija Radojčić,Serbian singer,Q403,Q167394
+Q113502376,Q6581097,1980-09-05T00:00:00Z,5,Radomir Lazović,Radomir Lazović,Serbian politician and activist,Q37024,Q3711
+Q113502376,Q6581097,1980-09-05T00:00:00Z,5,Radomir Lazović,Radomir Lazović,Serbian politician and activist,Q83286,Q3711
+Q113502376,Q6581097,1980-09-05T00:00:00Z,5,Radomir Lazović,Radomir Lazović,Serbian politician and activist,Q403,Q3711
+Q113502376,Q6581097,1980-09-05T00:00:00Z,5,Radomir Lazović,Radomir Lazović,Serbian politician and activist,Q838261,Q3711
+Q114998905,Q6581072,1974-06-30T00:00:00Z,1,Ljudmila Pavlov,Ljudmila Pavlov,Serbian tennis player,Q838261,
+Q114998905,Q6581072,1974-06-30T00:00:00Z,1,Ljudmila Pavlov,Ljudmila Pavlov,Serbian tennis player,Q83286,
+Q118489769,Q6581097,1965-01-01T00:00:00Z,6,Srđan Milivojević,Srđan Milivojević,Serbian politician,Q838261,Q201442
+Q118489769,Q6581097,1965-01-01T00:00:00Z,6,Srđan Milivojević,Srđan Milivojević,Serbian politician,Q37024,Q201442
+Q118489769,Q6581097,1965-01-01T00:00:00Z,6,Srđan Milivojević,Srđan Milivojević,Serbian politician,Q403,Q201442
+Q118489769,Q6581097,1965-01-01T00:00:00Z,6,Srđan Milivojević,Srđan Milivojević,Serbian politician,Q83286,Q201442
+Q12037415,Q6581072,1996-01-09T00:00:00Z,9,Milica Rakić,Milica Rakić,civilian casualty of NATO bombing,Q838261,Q3711
+Q1252413,Q6581097,1914-08-31T00:00:00Z,6,Radomir Lukić,Radomir Lukić,Yugoslavian law scholar (1914-1999),Q191077,Q2737924
+Q1252413,Q6581097,1914-08-31T00:00:00Z,6,Radomir Lukić,Radomir Lukić,Yugoslavian law scholar (1914-1999),Q838261,Q2737924
+Q1252413,Q6581097,1914-08-31T00:00:00Z,6,Radomir Lukić,Radomir Lukić,Yugoslavian law scholar (1914-1999),Q241748,Q2737924
+Q1252413,Q6581097,1914-08-31T00:00:00Z,6,Radomir Lukić,Radomir Lukić,Yugoslavian law scholar (1914-1999),Q83286,Q2737924
+Q1252413,Q6581097,1914-08-31T00:00:00Z,6,Radomir Lukić,Radomir Lukić,Yugoslavian law scholar (1914-1999),Q15102440,Q2737924
+Q1253475,Q6581097,1931-08-30T00:00:00Z,11,Jovan Ćirilov,Jovan Ćirilov,Serbian writer and academic (1931–2014),Q403,Q309355
+Q1253475,Q6581097,1931-08-30T00:00:00Z,11,Jovan Ćirilov,Jovan Ćirilov,Serbian writer and academic (1931–2014),Q838261,Q309355
+Q1253475,Q6581097,1931-08-30T00:00:00Z,11,Jovan Ćirilov,Jovan Ćirilov,Serbian writer and academic (1931–2014),Q83286,Q309355
+Q1253475,Q6581097,1931-08-30T00:00:00Z,11,Jovan Ćirilov,Jovan Ćirilov,Serbian writer and academic (1931–2014),Q191077,Q309355
+Q1254555,Q6581097,1980-04-07T00:00:00Z,10,Dragan Bogavac,Dragan Bogavac,Montenegrin footballer,Q236,Q207470
+Q1254555,Q6581097,1980-04-07T00:00:00Z,10,Dragan Bogavac,Dragan Bogavac,Montenegrin footballer,Q37024,Q207470
+Q1254555,Q6581097,1980-04-07T00:00:00Z,10,Dragan Bogavac,Dragan Bogavac,Montenegrin footballer,Q838261,Q207470
+Q1254664,Q6581097,1968-07-24T00:00:00Z,13,Dragan Šutanovac,Dragan Šutanovac,Serbian politician,Q83286,Q3711
+Q1254664,Q6581097,1968-07-24T00:00:00Z,13,Dragan Šutanovac,Dragan Šutanovac,Serbian politician,Q838261,Q3711
+Q1254664,Q6581097,1968-07-24T00:00:00Z,13,Dragan Šutanovac,Dragan Šutanovac,Serbian politician,Q37024,Q3711
+Q1254664,Q6581097,1968-07-24T00:00:00Z,13,Dragan Šutanovac,Dragan Šutanovac,Serbian politician,Q403,Q3711
+Q1263313,Q6581097,1961-11-22T00:00:00Z,14,Miodrag Kojadinović,Miodrag Kojadinović,Canadian poet and academic,Q37024,Q649168
+Q1263313,Q6581097,1961-11-22T00:00:00Z,14,Miodrag Kojadinović,Miodrag Kojadinović,Canadian poet and academic,Q403,Q649168
+Q1263313,Q6581097,1961-11-22T00:00:00Z,14,Miodrag Kojadinović,Miodrag Kojadinović,Canadian poet and academic,Q16,Q649168
+Q1263313,Q6581097,1961-11-22T00:00:00Z,14,Miodrag Kojadinović,Miodrag Kojadinović,Canadian poet and academic,Q1290149,Q649168
+Q1263313,Q6581097,1961-11-22T00:00:00Z,14,Miodrag Kojadinović,Miodrag Kojadinović,Canadian poet and academic,Q83286,Q649168
+Q1263313,Q6581097,1961-11-22T00:00:00Z,14,Miodrag Kojadinović,Miodrag Kojadinović,Canadian poet and academic,Q838261,Q649168
+Q1264297,Q6581097,1942-09-08T00:00:00Z,21,Želimir Žilnik,Želimir Žilnik,Serbian film director (born 1942),Q37024,Q698250
+Q1264297,Q6581097,1942-09-08T00:00:00Z,21,Želimir Žilnik,Želimir Žilnik,Serbian film director (born 1942),Q403,Q698250
+Q1264297,Q6581097,1942-09-08T00:00:00Z,21,Želimir Žilnik,Želimir Žilnik,Serbian film director (born 1942),Q83286,Q698250
+Q1264297,Q6581097,1942-09-08T00:00:00Z,21,Želimir Žilnik,Želimir Žilnik,Serbian film director (born 1942),Q838261,Q698250
+Q1272627,Q6581097,1933-06-13T00:00:00Z,10,Dragomir Bojanić,Dragomir Bojanić,Serbian actor and humorist (1933–1993),Q83286,Q167394
+Q1272627,Q6581097,1933-06-13T00:00:00Z,10,Dragomir Bojanić,Dragomir Bojanić,Serbian actor and humorist (1933–1993),Q191077,Q167394
+Q1272627,Q6581097,1933-06-13T00:00:00Z,10,Dragomir Bojanić,Dragomir Bojanić,Serbian actor and humorist (1933–1993),Q838261,Q167394
+Q12749205,Q6581097,1922-10-17T00:00:00Z,5,Borislav Mihajlović Mihiz,Borislav Mihajlović Mihiz,Serbian writer,Q191077,Q856450
+Q12749205,Q6581097,1922-10-17T00:00:00Z,5,Borislav Mihajlović Mihiz,Borislav Mihajlović Mihiz,Serbian writer,Q838261,Q856450
+Q12749205,Q6581097,1922-10-17T00:00:00Z,5,Borislav Mihajlović Mihiz,Borislav Mihajlović Mihiz,Serbian writer,Q15102440,Q856450
+Q12749205,Q6581097,1922-10-17T00:00:00Z,5,Borislav Mihajlović Mihiz,Borislav Mihajlović Mihiz,Serbian writer,Q83286,Q856450
+Q12752076,Q6581097,1965-02-26T00:00:00Z,4,Zoran Radosavljević (pilot),Zoran Radosavljević,Yugoslav military personnel and fighter pilot (1965-1999),Q83286,Q25270
+Q12752076,Q6581097,1965-02-26T00:00:00Z,4,Zoran Radosavljević (pilot),Zoran Radosavljević,Yugoslav military personnel and fighter pilot (1965-1999),Q838261,Q25270
+Q12752113,Q6581097,1947-10-30T00:00:00Z,7,Ivan Đurić,Ivan Ðurić,Serbian historian (1947-1997),Q83286,Q3711
+Q12752113,Q6581097,1947-10-30T00:00:00Z,7,Ivan Đurić,Ivan Ðurić,Serbian historian (1947-1997),Q838261,Q3711
+Q1275629,Q6581097,1977-01-17T00:00:00Z,17,Mladen Bojinović,Mladen Bojinović,Serbian handball player,Q83286,Q131127
+Q1275629,Q6581097,1977-01-17T00:00:00Z,17,Mladen Bojinović,Mladen Bojinović,Serbian handball player,Q403,Q131127
+Q1275629,Q6581097,1977-01-17T00:00:00Z,17,Mladen Bojinović,Mladen Bojinović,Serbian handball player,Q838261,Q131127
+Q1277998,Q6581097,1949-07-27T00:00:00Z,12,Vladan Batić,Vladan Batić,"Serbian politician, Minister of Justice (1949-2010)",Q37024,Q714650
+Q1277998,Q6581097,1949-07-27T00:00:00Z,12,Vladan Batić,Vladan Batić,"Serbian politician, Minister of Justice (1949-2010)",Q403,Q714650
+Q1277998,Q6581097,1949-07-27T00:00:00Z,12,Vladan Batić,Vladan Batić,"Serbian politician, Minister of Justice (1949-2010)",Q838261,Q714650
+Q1277998,Q6581097,1949-07-27T00:00:00Z,12,Vladan Batić,Vladan Batić,"Serbian politician, Minister of Justice (1949-2010)",Q83286,Q714650
+Q12796696,Q6581072,1923-12-11T00:00:00Z,9,Milka Ivić,Milka Ivić,Serbian linguist (1923–2011),Q37024,Q3711
+Q12796696,Q6581072,1923-12-11T00:00:00Z,9,Milka Ivić,Milka Ivić,Serbian linguist (1923–2011),Q403,Q3711
+Q12796696,Q6581072,1923-12-11T00:00:00Z,9,Milka Ivić,Milka Ivić,Serbian linguist (1923–2011),Q83286,Q3711
+Q12796696,Q6581072,1923-12-11T00:00:00Z,9,Milka Ivić,Milka Ivić,Serbian linguist (1923–2011),Q191077,Q3711
+Q12796696,Q6581072,1923-12-11T00:00:00Z,9,Milka Ivić,Milka Ivić,Serbian linguist (1923–2011),Q15102440,Q3711
+Q12796696,Q6581072,1923-12-11T00:00:00Z,9,Milka Ivić,Milka Ivić,Serbian linguist (1923–2011),Q838261,Q3711
+Q1280227,Q6581097,1924-12-01T00:00:00Z,12,Pavle Ivić,Pavle Ivić,Serbian linguist (1924–1999),Q838261,Q3711
+Q1282300,Q6581097,1933-04-15T00:00:00Z,17,Živojin Pavlović,Živojin Pavlović,Serbian writer and filmmaker (1933-1998),Q191077,Q204472
+Q1282300,Q6581097,1933-04-15T00:00:00Z,17,Živojin Pavlović,Živojin Pavlović,Serbian writer and filmmaker (1933-1998),Q83286,Q204472
+Q1282300,Q6581097,1933-04-15T00:00:00Z,17,Živojin Pavlović,Živojin Pavlović,Serbian writer and filmmaker (1933-1998),Q838261,Q204472
+Q1288394,Q6581097,1907-08-16T00:00:00Z,23,Đuro Kurepa,Đuro Kurepa,Serbian mathematician (1907–1993),Q191077,Q1929436
+Q1288394,Q6581097,1907-08-16T00:00:00Z,23,Đuro Kurepa,Đuro Kurepa,Serbian mathematician (1907–1993),Q28513,Q1929436
+Q1288394,Q6581097,1907-08-16T00:00:00Z,23,Đuro Kurepa,Đuro Kurepa,Serbian mathematician (1907–1993),Q83286,Q1929436
+Q1288394,Q6581097,1907-08-16T00:00:00Z,23,Đuro Kurepa,Đuro Kurepa,Serbian mathematician (1907–1993),Q838261,Q1929436
+Q1288802,Q6581097,1914-08-28T00:00:00Z,11,Miloš Minić,Miloš Minić,Yugoslav politician (1914–2003),Q83286,Q257148
+Q1288802,Q6581097,1914-08-28T00:00:00Z,11,Miloš Minić,Miloš Minić,Yugoslav politician (1914–2003),Q15102440,Q257148
+Q1288802,Q6581097,1914-08-28T00:00:00Z,11,Miloš Minić,Miloš Minić,Yugoslav politician (1914–2003),Q241748,Q257148
+Q1288802,Q6581097,1914-08-28T00:00:00Z,11,Miloš Minić,Miloš Minić,Yugoslav politician (1914–2003),Q191077,Q257148
+Q1288802,Q6581097,1914-08-28T00:00:00Z,11,Miloš Minić,Miloš Minić,Yugoslav politician (1914–2003),Q37024,Q257148
+Q1288802,Q6581097,1914-08-28T00:00:00Z,11,Miloš Minić,Miloš Minić,Yugoslav politician (1914–2003),Q838261,Q257148
+Q1289357,Q6581097,1961-07-01T00:00:00Z,13,Goran Petrović,Goran Petrović,Serbian writer (1961–2024),Q83286,Q206317
+Q1289357,Q6581097,1961-07-01T00:00:00Z,13,Goran Petrović,Goran Petrović,Serbian writer (1961–2024),Q838261,Q206317
+Q1289357,Q6581097,1961-07-01T00:00:00Z,13,Goran Petrović,Goran Petrović,Serbian writer (1961–2024),Q37024,Q206317
+Q1289357,Q6581097,1961-07-01T00:00:00Z,13,Goran Petrović,Goran Petrović,Serbian writer (1961–2024),Q403,Q206317
+Q130211469,Q6581072,1995-08-31T00:00:00Z,2,Tam (singer),Tam,Serbian singer-songwriter,Q403,Q25270
+Q130211469,Q6581072,1995-08-31T00:00:00Z,2,Tam (singer),Tam,Serbian singer-songwriter,Q838261,Q25270
+Q130438364,Q6581072,1998-03-17T00:00:00Z,2,Kejt,Katarina Bogićević,"Katarina Bogicevic. Actress: Lust. Katarina Bogicevic is known for Lust, Folk (2012) and Tvoje lice zvuci poznato (2013)",Q236,Q23564
+Q130438364,Q6581072,1998-03-17T00:00:00Z,2,Kejt,Katarina Bogićević,"Katarina Bogicevic. Actress: Lust. Katarina Bogicevic is known for Lust, Folk (2012) and Tvoje lice zvuci poznato (2013)",Q838261,Q23564
+Q135298198,Q6581097,1995-04-06T00:00:00Z,2,Miloš Ristić,Miloš Ristić,Serbian footballer,Q838261,
+Q135298198,Q6581097,1995-04-06T00:00:00Z,2,Miloš Ristić,Miloš Ristić,Serbian footballer,Q403,
+Q135298783,Q6581097,1999-01-14T00:00:00Z,3,Marko Milošević (Serbian politician),Marko M. Milošević,Serbian politician (born 1999),Q403,Q199942
+Q135298783,Q6581097,1999-01-14T00:00:00Z,3,Marko Milošević (Serbian politician),Marko M. Milošević,Serbian politician (born 1999),Q838261,Q199942
+Q1366379,Q6581072,1959-03-23T00:00:00Z,4,Erzsebet Palatinus,Eržebet Palatinuš,,Q838261,Q876180
+Q1366379,Q6581072,1959-03-23T00:00:00Z,4,Erzsebet Palatinus,Eržebet Palatinuš,,Q403,Q876180
+Q1375936,Q6581097,1980-03-12T00:00:00Z,14,Ivan Stević,Ivan Stević,Serbian racing cyclist,Q83286,Q3711
+Q1375936,Q6581097,1980-03-12T00:00:00Z,14,Ivan Stević,Ivan Stević,Serbian racing cyclist,Q37024,Q3711
+Q1375936,Q6581097,1980-03-12T00:00:00Z,14,Ivan Stević,Ivan Stević,Serbian racing cyclist,Q838261,Q3711
+Q1375936,Q6581097,1980-03-12T00:00:00Z,14,Ivan Stević,Ivan Stević,Serbian racing cyclist,Q403,Q3711
+Q1378495,Q6581097,1977-07-29T00:00:00Z,11,Predrag Ocokoljić,Predrag Ocokoljić,Serbian footballer,Q37024,Q3711
+Q1378495,Q6581097,1977-07-29T00:00:00Z,11,Predrag Ocokoljić,Predrag Ocokoljić,Serbian footballer,Q403,Q3711
+Q1378495,Q6581097,1977-07-29T00:00:00Z,11,Predrag Ocokoljić,Predrag Ocokoljić,Serbian footballer,Q838261,Q3711
+Q146119,Q6581097,1969-08-30T00:00:00Z,32,Vladimir Jugović,Vladimir Jugović,Serbian footballer,Q838261,Q1013189
+Q146119,Q6581097,1969-08-30T00:00:00Z,32,Vladimir Jugović,Vladimir Jugović,Serbian footballer,Q83286,Q1013189
+Q146119,Q6581097,1969-08-30T00:00:00Z,32,Vladimir Jugović,Vladimir Jugović,Serbian footballer,Q403,Q1013189
+Q14918665,Q6581072,1956-01-08T00:00:00Z,8,Sanda Rašković Ivić,Sanda Rašković Ivić,Serbian politician,Q838261,Q1435
+Q14918665,Q6581072,1956-01-08T00:00:00Z,8,Sanda Rašković Ivić,Sanda Rašković Ivić,Serbian politician,Q403,Q1435
+Q14918665,Q6581072,1956-01-08T00:00:00Z,8,Sanda Rašković Ivić,Sanda Rašković Ivić,Serbian politician,Q83286,Q1435
+Q14918665,Q6581072,1956-01-08T00:00:00Z,8,Sanda Rašković Ivić,Sanda Rašković Ivić,Serbian politician,Q37024,Q1435
+Q1537832,Q6581097,1963-07-27T00:00:00Z,14,Goran Maksimović,Goran Maksimović,Serbian sport shooter,Q36704,Q390358
+Q1537832,Q6581097,1963-07-27T00:00:00Z,14,Goran Maksimović,Goran Maksimović,Serbian sport shooter,Q37024,Q390358
+Q1537832,Q6581097,1963-07-27T00:00:00Z,14,Goran Maksimović,Goran Maksimović,Serbian sport shooter,Q403,Q390358
+Q1537832,Q6581097,1963-07-27T00:00:00Z,14,Goran Maksimović,Goran Maksimović,Serbian sport shooter,Q838261,Q390358
+Q1563022,Q6581097,1934-01-01T00:00:00Z,5,Nikola Šećeroski,Nikola Šećeroski,Serbian politician (1934-2008),Q838261,Q1027704
+Q1563022,Q6581097,1934-01-01T00:00:00Z,5,Nikola Šećeroski,Nikola Šećeroski,Serbian politician (1934-2008),Q403,Q1027704
+Q1563022,Q6581097,1934-01-01T00:00:00Z,5,Nikola Šećeroski,Nikola Šećeroski,Serbian politician (1934-2008),Q37024,Q1027704
+Q1563022,Q6581097,1934-01-01T00:00:00Z,5,Nikola Šećeroski,Nikola Šećeroski,Serbian politician (1934-2008),Q191077,Q1027704
+Q1563022,Q6581097,1934-01-01T00:00:00Z,5,Nikola Šećeroski,Nikola Šećeroski,Serbian politician (1934-2008),Q83286,Q1027704
+Q1563428,Q6581097,1939-07-03T00:00:00Z,9,Ljubivoje Ršumović,Ljubivoje Ršumović,Serbian poet,Q403,Q2672052
+Q1563428,Q6581097,1939-07-03T00:00:00Z,9,Ljubivoje Ršumović,Ljubivoje Ršumović,Serbian poet,Q83286,Q2672052
+Q1563428,Q6581097,1939-07-03T00:00:00Z,9,Ljubivoje Ršumović,Ljubivoje Ršumović,Serbian poet,Q838261,Q2672052
+Q1563428,Q6581097,1939-07-03T00:00:00Z,9,Ljubivoje Ršumović,Ljubivoje Ršumović,Serbian poet,Q191077,Q2672052
+Q1563428,Q6581097,1939-07-03T00:00:00Z,9,Ljubivoje Ršumović,Ljubivoje Ršumović,Serbian poet,Q37024,Q2672052
+Q1563469,Q6581072,1953-06-27T00:00:00Z,15,Tanja Bošković,Tanja Bošković,Yugoslavian and Serbian actress,Q403,Q3711
+Q1563469,Q6581072,1953-06-27T00:00:00Z,15,Tanja Bošković,Tanja Bošković,Yugoslavian and Serbian actress,Q838261,Q3711
+Q1563469,Q6581072,1953-06-27T00:00:00Z,15,Tanja Bošković,Tanja Bošković,Yugoslavian and Serbian actress,Q83286,Q3711
+Q1564017,Q6581097,1969-08-30T00:00:00Z,19,Nebojša Glogovac,Nebojša Glogovac,Serbian actor (1969–2018),Q403,Q690052
+Q1564017,Q6581097,1969-08-30T00:00:00Z,19,Nebojša Glogovac,Nebojša Glogovac,Serbian actor (1969–2018),Q83286,Q690052
+Q1564017,Q6581097,1969-08-30T00:00:00Z,19,Nebojša Glogovac,Nebojša Glogovac,Serbian actor (1969–2018),Q37024,Q690052
+Q1564017,Q6581097,1969-08-30T00:00:00Z,19,Nebojša Glogovac,Nebojša Glogovac,Serbian actor (1969–2018),Q838261,Q690052
+Q1564318,Q6581097,1943-10-05T00:00:00Z,4,Dragiša Pavlović,Dragiša Pavlović,politician (1943–1996),Q83286,Q167394
+Q1564318,Q6581097,1943-10-05T00:00:00Z,4,Dragiša Pavlović,Dragiša Pavlović,politician (1943–1996),Q838261,Q167394
+Q1567681,Q6581072,1964-02-10T00:00:00Z,8,Dada Vujasinović,Dada Vujasinović,Serbian journalist (1964-1994),Q838261,Q337683
+Q1567681,Q6581072,1964-02-10T00:00:00Z,8,Dada Vujasinović,Dada Vujasinović,Serbian journalist (1964-1994),Q83286,Q337683
+Q16083758,Q6581097,1928-09-06T00:00:00Z,3,Milan Bulajić,Milan Bulajić,Serbian historian,Q403,Q596983
+Q16083758,Q6581097,1928-09-06T00:00:00Z,3,Milan Bulajić,Milan Bulajić,Serbian historian,Q37024,Q596983
+Q16083758,Q6581097,1928-09-06T00:00:00Z,3,Milan Bulajić,Milan Bulajić,Serbian historian,Q191077,Q596983
+Q16083758,Q6581097,1928-09-06T00:00:00Z,3,Milan Bulajić,Milan Bulajić,Serbian historian,Q83286,Q596983
+Q16083758,Q6581097,1928-09-06T00:00:00Z,3,Milan Bulajić,Milan Bulajić,Serbian historian,Q838261,Q596983
+Q16089105,Q6581097,1959-10-05T00:00:00Z,4,Milenko Pavlović,Milenko Pavlović,Yugoslav-Serbian fighter pilot,Q838261,Q2255790
+Q16089105,Q6581097,1959-10-05T00:00:00Z,4,Milenko Pavlović,Milenko Pavlović,Yugoslav-Serbian fighter pilot,Q83286,Q2255790
+Q16147481,Q6581097,1994-02-24T00:00:00Z,31,Amir Rrahmani,Amir Rrahmani,Kosovar footballer (born 1994),Q222,Q25270
+Q16147481,Q6581097,1994-02-24T00:00:00Z,31,Amir Rrahmani,Amir Rrahmani,Kosovar footballer (born 1994),Q838261,Q25270
+Q16147481,Q6581097,1994-02-24T00:00:00Z,31,Amir Rrahmani,Amir Rrahmani,Kosovar footballer (born 1994),Q1246,Q25270
+Q16185240,Q6581097,1953-08-16T00:00:00Z,11,Miša Aleksić,Miša Aleksić,Serbian musician (1953-2020),Q838261,Q3711
+Q16185240,Q6581097,1953-08-16T00:00:00Z,11,Miša Aleksić,Miša Aleksić,Serbian musician (1953-2020),Q83286,Q3711
+Q16185240,Q6581097,1953-08-16T00:00:00Z,11,Miša Aleksić,Miša Aleksić,Serbian musician (1953-2020),Q403,Q3711
+Q169163,Q6581097,1930-12-05T00:00:00Z,20,Zdravko Rajkov,Zdravko Rajkov,Serbian footballer (1927-2006),Q191077,Q238981
+Q169163,Q6581097,1930-12-05T00:00:00Z,20,Zdravko Rajkov,Zdravko Rajkov,Serbian footballer (1927-2006),Q37024,Q238981
+Q169163,Q6581097,1927-12-05T00:00:00Z,20,Zdravko Rajkov,Zdravko Rajkov,Serbian footballer (1927-2006),Q37024,Q238981
+Q169163,Q6581097,1930-12-05T00:00:00Z,20,Zdravko Rajkov,Zdravko Rajkov,Serbian footballer (1927-2006),Q403,Q238981
+Q169163,Q6581097,1927-12-05T00:00:00Z,20,Zdravko Rajkov,Zdravko Rajkov,Serbian footballer (1927-2006),Q403,Q238981
+Q169163,Q6581097,1927-12-05T00:00:00Z,20,Zdravko Rajkov,Zdravko Rajkov,Serbian footballer (1927-2006),Q838261,Q238981
+Q169163,Q6581097,1927-12-05T00:00:00Z,20,Zdravko Rajkov,Zdravko Rajkov,Serbian footballer (1927-2006),Q83286,Q238981
+Q169163,Q6581097,1930-12-05T00:00:00Z,20,Zdravko Rajkov,Zdravko Rajkov,Serbian footballer (1927-2006),Q838261,Q238981
+Q169163,Q6581097,1930-12-05T00:00:00Z,20,Zdravko Rajkov,Zdravko Rajkov,Serbian footballer (1927-2006),Q83286,Q238981
+Q169163,Q6581097,1927-12-05T00:00:00Z,20,Zdravko Rajkov,Zdravko Rajkov,Serbian footballer (1927-2006),Q191077,Q238981
+Q173633,Q6581072,1973-12-02T00:00:00Z,67,Monica Seles,Monica Seles,Yugoslav and American tennis player,Q28,Q55630
+Q173633,Q6581072,1973-12-02T00:00:00Z,67,Monica Seles,Monica Seles,Yugoslav and American tennis player,Q838261,Q55630
+Q173633,Q6581072,1973-12-02T00:00:00Z,67,Monica Seles,Monica Seles,Yugoslav and American tennis player,Q30,Q55630
+Q173633,Q6581072,1973-12-02T00:00:00Z,67,Monica Seles,Monica Seles,Yugoslav and American tennis player,Q83286,Q55630
+Q1820096,Q6581072,1991-05-09T00:00:00Z,56,Majlinda Kelmendi,Majlinda Kelmendi,Kosovo-Albanian judoka,Q838261,Q112657
+Q1820096,Q6581072,1991-05-09T00:00:00Z,56,Majlinda Kelmendi,Majlinda Kelmendi,Kosovo-Albanian judoka,Q1246,Q112657
+Q1852864,Q6581097,1981-06-13T00:00:00Z,10,Nikola Nikezić,,Montenegrin Footballer,Q37024,Q23564
+Q1852864,Q6581097,1981-06-13T00:00:00Z,10,Nikola Nikezić,,Montenegrin Footballer,Q236,Q23564
+Q1852864,Q6581097,1981-06-13T00:00:00Z,10,Nikola Nikezić,,Montenegrin Footballer,Q838261,Q23564
+Q192640,Q6581097,1978-09-11T00:00:00Z,56,Dejan Stanković,Dejan Stanković,Serbian association football manager and former player,Q37024,Q3711
+Q192640,Q6581097,1978-09-11T00:00:00Z,56,Dejan Stanković,Dejan Stanković,Serbian association football manager and former player,Q403,Q3711
+Q192640,Q6581097,1978-09-11T00:00:00Z,56,Dejan Stanković,Dejan Stanković,Serbian association football manager and former player,Q838261,Q3711
+Q192640,Q6581097,1978-09-11T00:00:00Z,56,Dejan Stanković,Dejan Stanković,Serbian association football manager and former player,Q83286,Q3711
+Q1934319,Q6581097,1929-12-20T00:00:00Z,19,Milan Panić,,Yugoslav politician (1929–2026),Q191077,Q3711
+Q1934319,Q6581097,1929-12-20T00:00:00Z,19,Milan Panić,,Yugoslav politician (1929–2026),Q83286,Q3711
+Q1934319,Q6581097,1929-12-20T00:00:00Z,19,Milan Panić,,Yugoslav politician (1929–2026),Q838261,Q3711
+Q1934319,Q6581097,1929-12-20T00:00:00Z,19,Milan Panić,,Yugoslav politician (1929–2026),Q30,Q3711
+Q1934319,Q6581097,1929-12-20T00:00:00Z,19,Milan Panić,,Yugoslav politician (1929–2026),Q403,Q3711
+Q19883128,Q6581097,1996-06-06T00:00:00Z,15,Valmir Berisha,Valmir Berisha,Swedish footballer,Q34,Q939112
+Q19883128,Q6581097,1996-06-06T00:00:00Z,15,Valmir Berisha,Valmir Berisha,Swedish footballer,Q838261,Q939112
+Q201910,Q6581097,1984-11-01T00:00:00Z,50,Miloš Krasić,Miloš Krasić,Serbian football player (born 1984),Q838261,Q178168
+Q201910,Q6581097,1984-11-01T00:00:00Z,50,Miloš Krasić,Miloš Krasić,Serbian football player (born 1984),Q403,Q178168
+Q201910,Q6581097,1984-11-01T00:00:00Z,50,Miloš Krasić,Miloš Krasić,Serbian football player (born 1984),Q37024,Q178168
+Q201910,Q6581097,1984-11-01T00:00:00Z,50,Miloš Krasić,Miloš Krasić,Serbian football player (born 1984),Q83286,Q178168
+Q21042319,Q6581072,1952-12-16T00:00:00Z,7,Jovanka Nikolić,Jovanka Nikolić,"Serbian writer, poet",Q37024,Q55630
+Q21042319,Q6581072,1952-12-16T00:00:00Z,7,Jovanka Nikolić,Jovanka Nikolić,"Serbian writer, poet",Q403,Q55630
+Q21042319,Q6581072,1952-12-16T00:00:00Z,7,Jovanka Nikolić,Jovanka Nikolić,"Serbian writer, poet",Q83286,Q55630
+Q21042319,Q6581072,1952-12-16T00:00:00Z,7,Jovanka Nikolić,Jovanka Nikolić,"Serbian writer, poet",Q838261,Q55630
+Q226701,Q6581072,1984-11-14T00:00:00Z,60,Marija Šerifović,Marija Šerifović,Serbian singer,Q403,Q167394
+Q226701,Q6581072,1984-11-14T00:00:00Z,60,Marija Šerifović,Marija Šerifović,Serbian singer,Q37024,Q167394
+Q226701,Q6581072,1984-11-14T00:00:00Z,60,Marija Šerifović,Marija Šerifović,Serbian singer,Q838261,Q167394
+Q226701,Q6581072,1984-11-14T00:00:00Z,60,Marija Šerifović,Marija Šerifović,Serbian singer,Q83286,Q167394
+Q2292016,Q6581097,1966-11-18T00:00:00Z,22,Zoran Savić,Zoran Savić,Serbian basketball player (born 1966),Q403,Q184046
+Q2292016,Q6581097,1966-11-18T00:00:00Z,22,Zoran Savić,Zoran Savić,Serbian basketball player (born 1966),Q83286,Q184046
+Q2292016,Q6581097,1966-11-18T00:00:00Z,22,Zoran Savić,Zoran Savić,Serbian basketball player (born 1966),Q838261,Q184046
+Q2335631,Q6581097,1963-12-15T00:00:00Z,9,Boban Janković,Boban Janković,Serbian basketball player (1963-2006),Q838261,Q2089397
+Q2335631,Q6581097,1963-12-15T00:00:00Z,9,Boban Janković,Boban Janković,Serbian basketball player (1963-2006),Q83286,Q2089397
+Q2335631,Q6581097,1963-12-15T00:00:00Z,9,Boban Janković,Boban Janković,Serbian basketball player (1963-2006),Q403,Q2089397
+Q2335631,Q6581097,1963-12-15T00:00:00Z,9,Boban Janković,Boban Janković,Serbian basketball player (1963-2006),Q36704,Q2089397
+Q2335631,Q6581097,1963-12-15T00:00:00Z,9,Boban Janković,Boban Janković,Serbian basketball player (1963-2006),Q41,Q2089397
+Q23436531,Q6581097,1941-05-04T00:00:00Z,3,Jovan Ćurčić,Jovan Ćurčić,association football player,Q838261,Q208038
+Q239802,Q6581072,1933-08-22T00:00:00Z,38,Sylva Koscina,Sylva Koscina,Yugoslav actress (1933-1994),Q838261,Q1435
+Q239802,Q6581072,1933-08-22T00:00:00Z,38,Sylva Koscina,Sylva Koscina,Yugoslav actress (1933-1994),Q38,Q1435
+Q2440990,Q6581097,1978-08-09T00:00:00Z,10,Darko Božović,Darko Božović,Montenegrin footballer,Q236,Q23564
+Q2440990,Q6581097,1978-08-09T00:00:00Z,10,Darko Božović,Darko Božović,Montenegrin footballer,Q37024,Q23564
+Q2440990,Q6581097,1978-08-09T00:00:00Z,10,Darko Božović,Darko Božović,Montenegrin footballer,Q838261,Q23564
+Q2451481,Q6581097,1941-03-27T00:00:00Z,12,Miki Jevremović,Miki Jevremović,Serbian singer (1941-2017),Q83286,Q3711
+Q2451481,Q6581097,1941-03-27T00:00:00Z,12,Miki Jevremović,Miki Jevremović,Serbian singer (1941-2017),Q838261,Q3711
+Q2451481,Q6581097,1941-03-27T00:00:00Z,12,Miki Jevremović,Miki Jevremović,Serbian singer (1941-2017),Q191077,Q3711
+Q2451481,Q6581097,1941-03-27T00:00:00Z,12,Miki Jevremović,Miki Jevremović,Serbian singer (1941-2017),Q403,Q3711
+Q2451481,Q6581097,1941-03-27T00:00:00Z,12,Miki Jevremović,Miki Jevremović,Serbian singer (1941-2017),Q37024,Q3711
+Q245198,Q6581097,1952-04-17T00:00:00Z,43,Arkan,Željko Ražnatović,Serbian military commandant and criminal,Q83286,Q15858
+Q245198,Q6581097,1952-04-17T00:00:00Z,43,Arkan,Željko Ražnatović,Serbian military commandant and criminal,Q838261,Q15858
+Q2469281,Q6581072,1970-04-07T00:00:00Z,18,Divna Ljubojević,Divna Ljubojević,Serbian singer,Q403,Q3711
+Q2469281,Q6581072,1970-04-07T00:00:00Z,18,Divna Ljubojević,Divna Ljubojević,Serbian singer,Q838261,Q3711
+Q2469281,Q6581072,1970-04-07T00:00:00Z,18,Divna Ljubojević,Divna Ljubojević,Serbian singer,Q83286,Q3711
+Q2469281,Q6581072,1970-04-07T00:00:00Z,18,Divna Ljubojević,Divna Ljubojević,Serbian singer,Q37024,Q3711
+Q2484636,Q6581072,1924-12-07T00:00:00Z,31,Jovanka Broz,Jovanka Broz,First Lady of Yugoslavia (1924–2013),Q191077,Q684598
+Q2484636,Q6581072,1924-12-07T00:00:00Z,31,Jovanka Broz,Jovanka Broz,First Lady of Yugoslavia (1924–2013),Q838261,Q684598
+Q2484636,Q6581072,1924-12-07T00:00:00Z,31,Jovanka Broz,Jovanka Broz,First Lady of Yugoslavia (1924–2013),Q403,Q684598
+Q2484636,Q6581072,1924-12-07T00:00:00Z,31,Jovanka Broz,Jovanka Broz,First Lady of Yugoslavia (1924–2013),Q37024,Q684598
+Q2484636,Q6581072,1924-12-07T00:00:00Z,31,Jovanka Broz,Jovanka Broz,First Lady of Yugoslavia (1924–2013),Q83286,Q684598
+Q2484636,Q6581072,1924-12-07T00:00:00Z,31,Jovanka Broz,Jovanka Broz,First Lady of Yugoslavia (1924–2013),Q15102440,Q684598
+Q251125,Q6581097,1921-05-30T00:00:00Z,18,Branko Mamula,Branko Mamula,Yugoslav officer and politician,Q37024,Q3511422
+Q251125,Q6581097,1921-05-30T00:00:00Z,18,Branko Mamula,Branko Mamula,Yugoslav officer and politician,Q15102440,Q3511422
+Q251125,Q6581097,1921-05-30T00:00:00Z,18,Branko Mamula,Branko Mamula,Yugoslav officer and politician,Q83286,Q3511422
+Q251125,Q6581097,1921-05-30T00:00:00Z,18,Branko Mamula,Branko Mamula,Yugoslav officer and politician,Q838261,Q3511422
+Q251125,Q6581097,1921-05-30T00:00:00Z,18,Branko Mamula,Branko Mamula,Yugoslav officer and politician,Q191077,Q3511422
+Q257211,Q6581072,1942-07-10T00:00:00Z,31,Mirjana Marković,Mira Marković,"Serbian academic, journalist and politician",Q838261,Q199942
+Q257211,Q6581072,1942-07-10T00:00:00Z,31,Mirjana Marković,Mira Marković,"Serbian academic, journalist and politician",Q83286,Q199942
+Q257211,Q6581072,1942-07-10T00:00:00Z,31,Mirjana Marković,Mira Marković,"Serbian academic, journalist and politician",Q159,Q199942
+Q2599358,Q6581097,1980-01-13T00:00:00Z,8,Veseljko Trivunović,Veseljko Trivunović,Serbian footballer,Q838261,Q131127
+Q2599358,Q6581097,1980-01-13T00:00:00Z,8,Veseljko Trivunović,Veseljko Trivunović,Serbian footballer,Q37024,Q131127
+Q2599358,Q6581097,1980-01-13T00:00:00Z,8,Veseljko Trivunović,Veseljko Trivunović,Serbian footballer,Q403,Q131127
+Q2626156,Q6581097,1978-01-20T00:00:00Z,9,Jovan Tanasijević,Jovan Tanasijević,Montenegrin footballer,Q236,Q25270
+Q2626156,Q6581097,1978-01-20T00:00:00Z,9,Jovan Tanasijević,Jovan Tanasijević,Montenegrin footballer,Q403,Q25270
+Q2626156,Q6581097,1978-01-20T00:00:00Z,9,Jovan Tanasijević,Jovan Tanasijević,Montenegrin footballer,Q838261,Q25270
+Q2720694,Q6581097,1982-06-15T00:00:00Z,13,Dušan Anđelković,Dušan Anđelković,Serbian football player,Q403,Q206317
+Q2720694,Q6581097,1982-06-15T00:00:00Z,13,Dušan Anđelković,Dušan Anđelković,Serbian football player,Q838261,Q206317
+Q2720694,Q6581097,1982-06-15T00:00:00Z,13,Dušan Anđelković,Dušan Anđelković,Serbian football player,Q37024,Q206317
+Q2747406,Q6581097,1925-05-14T00:00:00Z,9,Ljubomir Tadić,Ljubomir Tadić,Serbian academic and politician,Q191077,Q3487068
+Q2747406,Q6581097,1925-05-14T00:00:00Z,9,Ljubomir Tadić,Ljubomir Tadić,Serbian academic and politician,Q403,Q3487068
+Q2747406,Q6581097,1925-05-14T00:00:00Z,9,Ljubomir Tadić,Ljubomir Tadić,Serbian academic and politician,Q83286,Q3487068
+Q2747406,Q6581097,1925-05-14T00:00:00Z,9,Ljubomir Tadić,Ljubomir Tadić,Serbian academic and politician,Q838261,Q3487068
+Q287176,Q6581097,1987-02-27T00:00:00Z,18,Milenko Tepić,Milenko Tepić,Serbian basketball player (born 1987),Q83286,Q55630
+Q287176,Q6581097,1987-02-27T00:00:00Z,18,Milenko Tepić,Milenko Tepić,Serbian basketball player (born 1987),Q403,Q55630
+Q287176,Q6581097,1987-02-27T00:00:00Z,18,Milenko Tepić,Milenko Tepić,Serbian basketball player (born 1987),Q37024,Q55630
+Q287176,Q6581097,1987-02-27T00:00:00Z,18,Milenko Tepić,Milenko Tepić,Serbian basketball player (born 1987),Q838261,Q55630
+Q292018,Q6581072,1909-03-18T00:00:00Z,19,Ljubica Marić,Ljubica Marić,Yugoslav composer,Q37024,Q167394
+Q292018,Q6581072,1909-03-18T00:00:00Z,19,Ljubica Marić,Ljubica Marić,Yugoslav composer,Q15102440,Q167394
+Q292018,Q6581072,1909-03-18T00:00:00Z,19,Ljubica Marić,Ljubica Marić,Yugoslav composer,Q191077,Q167394
+Q292018,Q6581072,1909-03-18T00:00:00Z,19,Ljubica Marić,Ljubica Marić,Yugoslav composer,Q83286,Q167394
+Q292018,Q6581072,1909-03-18T00:00:00Z,19,Ljubica Marić,Ljubica Marić,Yugoslav composer,Q241748,Q167394
+Q292018,Q6581072,1909-03-18T00:00:00Z,19,Ljubica Marić,Ljubica Marić,Yugoslav composer,Q838261,Q167394
+Q299695,Q6581072,1943-04-28T00:00:00Z,21,Beba Lončar,Beba Lončar,Yugoslav actress from Serbia,Q403,Q3711
+Q299695,Q6581072,1943-04-28T00:00:00Z,21,Beba Lončar,Beba Lončar,Yugoslav actress from Serbia,Q838261,Q3711
+Q299695,Q6581072,1943-04-28T00:00:00Z,21,Beba Lončar,Beba Lončar,Yugoslav actress from Serbia,Q83286,Q3711
+Q299979,Q6581072,1925-05-03T00:00:00Z,20,Olivera Marković,Olivera Marković,actress (1925–2011),Q838261,Q3711
+Q299979,Q6581072,1925-05-03T00:00:00Z,20,Olivera Marković,Olivera Marković,actress (1925–2011),Q15102440,Q3711
+Q299979,Q6581072,1925-05-03T00:00:00Z,20,Olivera Marković,Olivera Marković,actress (1925–2011),Q191077,Q3711
+Q299979,Q6581072,1925-05-03T00:00:00Z,20,Olivera Marković,Olivera Marković,actress (1925–2011),Q83286,Q3711
+Q299979,Q6581072,1925-05-03T00:00:00Z,20,Olivera Marković,Olivera Marković,actress (1925–2011),Q37024,Q3711
+Q3012383,Q6581097,1977-11-04T00:00:00Z,9,Dalibor Mitrović,Dalibor Mitrović,Serbian footballer,Q838261,Q729524
+Q3012383,Q6581097,1977-11-04T00:00:00Z,9,Dalibor Mitrović,Dalibor Mitrović,Serbian footballer,Q403,Q729524
+Q3012383,Q6581097,1977-11-04T00:00:00Z,9,Dalibor Mitrović,Dalibor Mitrović,Serbian footballer,Q37024,Q729524
+Q314229,Q6581097,1983-10-27T00:00:00Z,33,Marko Dević,Marko Dević,Ukrainian footballer,Q83286,Q3711
+Q314229,Q6581097,1983-10-27T00:00:00Z,33,Marko Dević,Marko Dević,Ukrainian footballer,Q212,Q3711
+Q314229,Q6581097,1983-10-27T00:00:00Z,33,Marko Dević,Marko Dević,Ukrainian footballer,Q403,Q3711
+Q314229,Q6581097,1983-10-27T00:00:00Z,33,Marko Dević,Marko Dević,Ukrainian footballer,Q838261,Q3711
+Q314229,Q6581097,1983-10-27T00:00:00Z,33,Marko Dević,Marko Dević,Ukrainian footballer,Q37024,Q3711
+Q316751,Q6581097,1974-06-08T00:00:00Z,30,Dragoslav Jevrić,Dragoslav Jevrić,Serbian footballer,Q37024,Q208200
+Q316751,Q6581097,1974-06-08T00:00:00Z,30,Dragoslav Jevrić,Dragoslav Jevrić,Serbian footballer,Q403,Q208200
+Q316751,Q6581097,1974-06-08T00:00:00Z,30,Dragoslav Jevrić,Dragoslav Jevrić,Serbian footballer,Q838261,Q208200
+Q316751,Q6581097,1974-07-08T00:00:00Z,30,Dragoslav Jevrić,Dragoslav Jevrić,Serbian footballer,Q37024,Q208200
+Q316751,Q6581097,1974-07-08T00:00:00Z,30,Dragoslav Jevrić,Dragoslav Jevrić,Serbian footballer,Q403,Q208200
+Q316751,Q6581097,1974-07-08T00:00:00Z,30,Dragoslav Jevrić,Dragoslav Jevrić,Serbian footballer,Q838261,Q208200
+Q3401383,Q6581072,1954-04-21T00:00:00Z,8,Maja Odžaklievska,Maja Odžaklievska,Serbian singer,Q838261,Q384
+Q3401383,Q6581072,1954-04-21T00:00:00Z,8,Maja Odžaklievska,Maja Odžaklievska,Serbian singer,Q83286,Q384
+Q3401383,Q6581072,1954-04-21T00:00:00Z,8,Maja Odžaklievska,Maja Odžaklievska,Serbian singer,Q403,Q384
+Q3401383,Q6581072,1954-04-21T00:00:00Z,8,Maja Odžaklievska,Maja Odžaklievska,Serbian singer,Q37024,Q384
+Q342045,Q6581097,1953-05-11T00:00:00Z,35,Đorđe Balašević,Đorđe Balašević,"Serbian singer-songwriter, author and screenwriter (1953-2021)",Q83286,Q55630
+Q342045,Q6581097,1953-05-11T00:00:00Z,35,Đorđe Balašević,Đorđe Balašević,"Serbian singer-songwriter, author and screenwriter (1953-2021)",Q838261,Q55630
+Q342045,Q6581097,1953-05-11T00:00:00Z,35,Đorđe Balašević,Đorđe Balašević,"Serbian singer-songwriter, author and screenwriter (1953-2021)",Q403,Q55630
+Q342067,Q6581097,1931-10-30T00:00:00Z,16,Đorđe Marjanović,Đorđe Marjanović,Yugoslav singer,Q403,Q1011263
+Q342067,Q6581097,1931-10-30T00:00:00Z,16,Đorđe Marjanović,Đorđe Marjanović,Yugoslav singer,Q37024,Q1011263
+Q342067,Q6581097,1931-10-30T00:00:00Z,16,Đorđe Marjanović,Đorđe Marjanović,Yugoslav singer,Q83286,Q1011263
+Q342067,Q6581097,1931-10-30T00:00:00Z,16,Đorđe Marjanović,Đorđe Marjanović,Yugoslav singer,Q191077,Q1011263
+Q342067,Q6581097,1931-10-30T00:00:00Z,16,Đorđe Marjanović,Đorđe Marjanović,Yugoslav singer,Q838261,Q1011263
+Q342067,Q6581097,1931-10-30T00:00:00Z,16,Đorđe Marjanović,Đorđe Marjanović,Yugoslav singer,Q1277557,Q1011263
+Q351852,Q6581097,1925-11-21T00:00:00Z,28,Veljko Kadijević,Veljko Kadijević,Yugoslav general (1925-2014),Q191077,Q12750224
+Q351852,Q6581097,1925-11-21T00:00:00Z,28,Veljko Kadijević,Veljko Kadijević,Yugoslav general (1925-2014),Q1277557,Q12750224
+Q351852,Q6581097,1925-11-21T00:00:00Z,28,Veljko Kadijević,Veljko Kadijević,Yugoslav general (1925-2014),Q83286,Q12750224
+Q351852,Q6581097,1925-11-21T00:00:00Z,28,Veljko Kadijević,Veljko Kadijević,Yugoslav general (1925-2014),Q15102440,Q12750224
+Q351852,Q6581097,1925-11-21T00:00:00Z,28,Veljko Kadijević,Veljko Kadijević,Yugoslav general (1925-2014),Q838261,Q12750224
+Q351852,Q6581097,1925-11-21T00:00:00Z,28,Veljko Kadijević,Veljko Kadijević,Yugoslav general (1925-2014),Q159,Q12750224
+Q351852,Q6581097,1925-11-21T00:00:00Z,28,Veljko Kadijević,Veljko Kadijević,Yugoslav general (1925-2014),Q1290149,Q12750224
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q37024,Q994245
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q838261,Q994245
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q1448131,Q994245
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q1290149,Q994245
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q403,Q994245
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q191077,Q994245
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q1277557,Q994245
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q777147,Q994245
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q1246,Q994245
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q83286,Q994245
+Q369612,Q6581097,1921-12-29T00:00:00Z,43,Dobrica Ćosić,Dobrica Ćosić,Serbian politician and writer (1921-2014),Q83286,Q3555317
+Q369612,Q6581097,1921-12-29T00:00:00Z,43,Dobrica Ćosić,Dobrica Ćosić,Serbian politician and writer (1921-2014),Q1277557,Q3555317
+Q369612,Q6581097,1921-12-29T00:00:00Z,43,Dobrica Ćosić,Dobrica Ćosić,Serbian politician and writer (1921-2014),Q838261,Q3555317
+Q369612,Q6581097,1921-12-29T00:00:00Z,43,Dobrica Ćosić,Dobrica Ćosić,Serbian politician and writer (1921-2014),Q1290149,Q3555317
+Q369612,Q6581097,1921-12-29T00:00:00Z,43,Dobrica Ćosić,Dobrica Ćosić,Serbian politician and writer (1921-2014),Q37024,Q3555317
+Q369612,Q6581097,1921-12-29T00:00:00Z,43,Dobrica Ćosić,Dobrica Ćosić,Serbian politician and writer (1921-2014),Q403,Q3555317
+Q369612,Q6581097,1921-12-29T00:00:00Z,43,Dobrica Ćosić,Dobrica Ćosić,Serbian politician and writer (1921-2014),Q191077,Q3555317
+Q369612,Q6581097,1921-12-29T00:00:00Z,43,Dobrica Ćosić,Dobrica Ćosić,Serbian politician and writer (1921-2014),Q15102440,Q3555317
+Q3716759,Q6581097,1939-06-20T00:00:00Z,10,Dušan Drašković,Dušan Drašković,Montenergrin football manager,Q403,Q131127
+Q3716759,Q6581097,1939-06-20T00:00:00Z,10,Dušan Drašković,Dušan Drašković,Montenergrin football manager,Q83286,Q131127
+Q3716759,Q6581097,1939-06-20T00:00:00Z,10,Dušan Drašković,Dušan Drašković,Montenergrin football manager,Q838261,Q131127
+Q3716759,Q6581097,1939-06-20T00:00:00Z,10,Dušan Drašković,Dušan Drašković,Montenergrin football manager,Q37024,Q131127
+Q3773475,Q6581097,1969-07-30T00:00:00Z,12,Gordan Petrić,Gordan Petrić,Serbian footballer (born 1969),Q83286,Q3711
+Q3773475,Q6581097,1969-07-30T00:00:00Z,12,Gordan Petrić,Gordan Petrić,Serbian footballer (born 1969),Q838261,Q3711
+Q3773475,Q6581097,1969-07-30T00:00:00Z,12,Gordan Petrić,Gordan Petrić,Serbian footballer (born 1969),Q37024,Q3711
+Q3773475,Q6581097,1969-07-30T00:00:00Z,12,Gordan Petrić,Gordan Petrić,Serbian footballer (born 1969),Q403,Q3711
+Q3810646,Q6581097,1924-04-17T00:00:00Z,5,Jovan Kratohvil,Jovan Kratohvil,Yugoslav sculptor and sports shooter (1924–1998),Q83286,Q3711
+Q3810646,Q6581097,1924-04-17T00:00:00Z,5,Jovan Kratohvil,Jovan Kratohvil,Yugoslav sculptor and sports shooter (1924–1998),Q191077,Q3711
+Q3810646,Q6581097,1924-04-17T00:00:00Z,5,Jovan Kratohvil,Jovan Kratohvil,Yugoslav sculptor and sports shooter (1924–1998),Q838261,Q3711
+Q3810646,Q6581097,1924-04-17T00:00:00Z,5,Jovan Kratohvil,Jovan Kratohvil,Yugoslav sculptor and sports shooter (1924–1998),Q15102440,Q3711
+Q3874630,Q6581097,1971-06-15T00:00:00Z,9,Nenad Sakić,Nenad Sakić,Serbian footballer,Q83286,Q201442
+Q3874630,Q6581097,1971-06-15T00:00:00Z,9,Nenad Sakić,Nenad Sakić,Serbian footballer,Q838261,Q201442
+Q3874630,Q6581097,1971-06-15T00:00:00Z,9,Nenad Sakić,Nenad Sakić,Serbian footballer,Q403,Q201442
+Q3874630,Q6581097,1971-06-15T00:00:00Z,9,Nenad Sakić,Nenad Sakić,Serbian footballer,Q37024,Q201442
+Q4090208,Q6581072,1912-08-04T00:00:00Z,6,Saša Božović,Saša Božović,"Serbian physician and medical officer, Yugoslav partisan (1912–1995)",Q83286,Q3711
+Q4090208,Q6581072,1912-08-04T00:00:00Z,6,Saša Božović,Saša Božović,"Serbian physician and medical officer, Yugoslav partisan (1912–1995)",Q191077,Q3711
+Q4090208,Q6581072,1912-08-04T00:00:00Z,6,Saša Božović,Saša Božović,"Serbian physician and medical officer, Yugoslav partisan (1912–1995)",Q15102440,Q3711
+Q4090208,Q6581072,1912-08-04T00:00:00Z,6,Saša Božović,Saša Božović,"Serbian physician and medical officer, Yugoslav partisan (1912–1995)",Q838261,Q3711
+Q4246335,Q6581097,1975-08-19T00:00:00Z,5,Zoran Kulić,Zoran Kulić,Serbian footballer,Q37024,Q189419
+Q4246335,Q6581097,1975-08-19T00:00:00Z,5,Zoran Kulić,Zoran Kulić,Serbian footballer,Q838261,Q189419
+Q4246335,Q6581097,1975-08-19T00:00:00Z,5,Zoran Kulić,Zoran Kulić,Serbian footballer,Q403,Q189419
+Q432404,Q6581097,1964-04-20T00:00:00Z,7,Mikoš Rnjaković,Mikoš Rnjaković,cyclist,Q403,Q3711
+Q432404,Q6581097,1964-04-20T00:00:00Z,7,Mikoš Rnjaković,Mikoš Rnjaković,cyclist,Q838261,Q3711
+Q4391355,Q6581097,1977-02-13T00:00:00Z,5,Branko Rašić,Branko Rasić,Serbian footballer,Q403,Q729524
+Q4391355,Q6581097,1977-02-13T00:00:00Z,5,Branko Rašić,Branko Rasić,Serbian footballer,Q838261,Q729524
+Q4391355,Q6581097,1977-02-13T00:00:00Z,5,Branko Rašić,Branko Rasić,Serbian footballer,Q37024,Q729524
+Q444378,Q6581097,1979-04-05T00:00:00Z,46,Vlada Avramov,Vlada Avramov,Serbian association football player,Q37024,Q55630
+Q444378,Q6581097,1979-04-05T00:00:00Z,46,Vlada Avramov,Vlada Avramov,Serbian association football player,Q838261,Q55630
+Q444378,Q6581097,1979-04-05T00:00:00Z,46,Vlada Avramov,Vlada Avramov,Serbian association football player,Q403,Q55630
+Q4526674,Q6581072,1936-09-29T00:00:00Z,7,Tereza Štadler,Tereza Štadler,Yugoslav chess player (1936–2001),Q838261,Q170287
+Q4526674,Q6581072,1936-09-29T00:00:00Z,7,Tereza Štadler,Tereza Štadler,Yugoslav chess player (1936–2001),Q36704,Q170287
+Q452785,Q6581072,1927-01-09T00:00:00Z,9,Nada Mamula,Nada Mamula,Serbian singer (1927–2001),Q838261,Q3711
+Q452785,Q6581072,1927-01-09T00:00:00Z,9,Nada Mamula,Nada Mamula,Serbian singer (1927–2001),Q191077,Q3711
+Q452785,Q6581072,1927-01-09T00:00:00Z,9,Nada Mamula,Nada Mamula,Serbian singer (1927–2001),Q83286,Q3711
+Q452792,Q6581072,1935-04-25T00:00:00Z,30,Lola Novaković,Lola Novaković,Serbian singer (1935-2016),Q83286,Q3711
+Q452792,Q6581072,1935-04-25T00:00:00Z,30,Lola Novaković,Lola Novaković,Serbian singer (1935-2016),Q37024,Q3711
+Q452792,Q6581072,1935-04-25T00:00:00Z,30,Lola Novaković,Lola Novaković,Serbian singer (1935-2016),Q403,Q3711
+Q452792,Q6581072,1935-04-25T00:00:00Z,30,Lola Novaković,Lola Novaković,Serbian singer (1935-2016),Q838261,Q3711
+Q452792,Q6581072,1935-04-25T00:00:00Z,30,Lola Novaković,Lola Novaković,Serbian singer (1935-2016),Q191077,Q3711
+Q462415,Q6581072,1979-10-02T00:00:00Z,29,Arta Dobroshi,Arta Dobroshi,Kosovar-Albanian actress,Q838261,Q25270
+Q462415,Q6581072,1979-10-02T00:00:00Z,29,Arta Dobroshi,Arta Dobroshi,Kosovar-Albanian actress,Q83286,Q25270
+Q462415,Q6581072,1979-10-02T00:00:00Z,29,Arta Dobroshi,Arta Dobroshi,Kosovar-Albanian actress,Q1246,Q25270
+Q462415,Q6581072,1979-10-02T00:00:00Z,29,Arta Dobroshi,Arta Dobroshi,Kosovar-Albanian actress,Q403,Q25270
+Q462415,Q6581072,1979-10-02T00:00:00Z,29,Arta Dobroshi,Arta Dobroshi,Kosovar-Albanian actress,Q37024,Q25270
+Q47139,Q6581097,1941-08-20T00:00:00Z,105,Slobodan Milošević,Slobodan Milošević,Yugoslav–Serbian politician (1941–2006),Q838261,Q199942
+Q47139,Q6581097,1941-08-20T00:00:00Z,105,Slobodan Milošević,Slobodan Milošević,Yugoslav–Serbian politician (1941–2006),Q37024,Q199942
+Q47139,Q6581097,1941-08-20T00:00:00Z,105,Slobodan Milošević,Slobodan Milošević,Yugoslav–Serbian politician (1941–2006),Q83286,Q199942
+Q47496,Q6581072,1946-11-30T00:00:00Z,71,Marina Abramović,Marina Abramović,Serbian performance artist (born 1946),Q83286,Q3711
+Q47496,Q6581072,1946-11-30T00:00:00Z,71,Marina Abramović,Marina Abramović,Serbian performance artist (born 1946),Q36704,Q3711
+Q47496,Q6581072,1946-11-30T00:00:00Z,71,Marina Abramović,Marina Abramović,Serbian performance artist (born 1946),Q1290149,Q3711
+Q47496,Q6581072,1946-11-30T00:00:00Z,71,Marina Abramović,Marina Abramović,Serbian performance artist (born 1946),Q838261,Q3711
+Q47496,Q6581072,1946-11-30T00:00:00Z,71,Marina Abramović,Marina Abramović,Serbian performance artist (born 1946),Q37024,Q3711
+Q47496,Q6581072,1946-11-30T00:00:00Z,71,Marina Abramović,Marina Abramović,Serbian performance artist (born 1946),Q403,Q3711
+Q4756039,Q6581097,1976-01-01T00:00:00Z,8,Andrej Grubačić,Andrej Grubačić,"US-based Yugoslav world historian, Balkan federalist, and professor of anthropology",Q83286,
+Q4756039,Q6581097,1976-01-01T00:00:00Z,8,Andrej Grubačić,Andrej Grubačić,"US-based Yugoslav world historian, Balkan federalist, and professor of anthropology",Q403,
+Q4756039,Q6581097,1976-01-01T00:00:00Z,8,Andrej Grubačić,Andrej Grubačić,"US-based Yugoslav world historian, Balkan federalist, and professor of anthropology",Q838261,
+Q4756039,Q6581097,1976-01-01T00:00:00Z,8,Andrej Grubačić,Andrej Grubačić,"US-based Yugoslav world historian, Balkan federalist, and professor of anthropology",Q30,
+Q4756039,Q6581097,1976-01-01T00:00:00Z,8,Andrej Grubačić,Andrej Grubačić,"US-based Yugoslav world historian, Balkan federalist, and professor of anthropology",Q37024,
+Q5376613,Q6581097,1956-06-21T00:00:00Z,7,Endre Süli,Endre Süli,British mathematician,Q145,Q544109
+Q5376613,Q6581097,1956-06-21T00:00:00Z,7,Endre Süli,Endre Süli,British mathematician,Q838261,Q544109
+Q5376613,Q6581097,1956-06-21T00:00:00Z,7,Endre Süli,Endre Süli,British mathematician,Q403,Q544109
+Q5376613,Q6581097,1956-06-21T00:00:00Z,7,Endre Süli,Endre Süli,British mathematician,Q37024,Q544109
+Q5376613,Q6581097,1956-06-21T00:00:00Z,7,Endre Süli,Endre Süli,British mathematician,Q83286,Q544109
+Q552395,Q6581097,1962-07-08T00:00:00Z,18,Ivan Jovanović (football manager),Ivan Jovanović,Serbian manager and former football player,Q838261,Q648489
+Q552395,Q6581097,1962-07-08T00:00:00Z,18,Ivan Jovanović (football manager),Ivan Jovanović,Serbian manager and former football player,Q37024,Q648489
+Q552395,Q6581097,1962-07-08T00:00:00Z,18,Ivan Jovanović (football manager),Ivan Jovanović,Serbian manager and former football player,Q403,Q648489
+Q552395,Q6581097,1962-07-08T00:00:00Z,18,Ivan Jovanović (football manager),Ivan Jovanović,Serbian manager and former football player,Q83286,Q648489
+Q57431,Q6581097,1952-02-15T00:00:00Z,76,Tomislav Nikolić,Tomislav Nikolić,4th President of the Republic of Serbia,Q37024,Q167394
+Q57431,Q6581097,1952-02-15T00:00:00Z,76,Tomislav Nikolić,Tomislav Nikolić,4th President of the Republic of Serbia,Q838261,Q167394
+Q57431,Q6581097,1952-02-15T00:00:00Z,76,Tomislav Nikolić,Tomislav Nikolić,4th President of the Republic of Serbia,Q403,Q167394
+Q57431,Q6581097,1952-02-15T00:00:00Z,76,Tomislav Nikolić,Tomislav Nikolić,4th President of the Republic of Serbia,Q83286,Q167394
+Q5812,Q6581097,1987-05-22T00:00:00Z,155,Novak Djokovic,,Serbian tennis player (born 1987),Q838261,Q3711
+Q5812,Q6581097,1987-05-22T00:00:00Z,155,Novak Djokovic,,Serbian tennis player (born 1987),Q83286,Q3711
+Q5812,Q6581097,1987-05-22T00:00:00Z,155,Novak Djokovic,,Serbian tennis player (born 1987),Q37024,Q3711
+Q5812,Q6581097,1987-05-22T00:00:00Z,155,Novak Djokovic,,Serbian tennis player (born 1987),Q403,Q3711
+Q598844,Q6581097,1923-11-06T00:00:00Z,11,Antonije Isaković,Antonije Isaković,Serbian writer and member of Serbian Academy of Science and Arts (1923-2002),Q838261,Q3711
+Q598844,Q6581097,1923-11-06T00:00:00Z,11,Antonije Isaković,Antonije Isaković,Serbian writer and member of Serbian Academy of Science and Arts (1923-2002),Q15102440,Q3711
+Q598844,Q6581097,1923-11-06T00:00:00Z,11,Antonije Isaković,Antonije Isaković,Serbian writer and member of Serbian Academy of Science and Arts (1923-2002),Q83286,Q3711
+Q598844,Q6581097,1923-11-06T00:00:00Z,11,Antonije Isaković,Antonije Isaković,Serbian writer and member of Serbian Academy of Science and Arts (1923-2002),Q191077,Q3711
+Q600138,Q6581097,1947-07-20T00:00:00Z,19,Mile Mrkšić,Mile Mrkšić,Croatian Serb war criminal,Q37024,Q4550
+Q600138,Q6581097,1947-07-20T00:00:00Z,19,Mile Mrkšić,Mile Mrkšić,Croatian Serb war criminal,Q403,Q4550
+Q600138,Q6581097,1947-07-20T00:00:00Z,19,Mile Mrkšić,Mile Mrkšić,Croatian Serb war criminal,Q83286,Q4550
+Q600138,Q6581097,1947-07-20T00:00:00Z,19,Mile Mrkšić,Mile Mrkšić,Croatian Serb war criminal,Q838261,Q4550
+Q600138,Q6581097,1947-07-20T00:00:00Z,19,Mile Mrkšić,Mile Mrkšić,Croatian Serb war criminal,Q211853,Q4550
+Q605239,Q6581097,1962-05-19T00:00:00Z,13,Veran Matić,Veran Matić,Serbian journalist (born 1962),Q838261,Q2893969
+Q605239,Q6581097,1962-05-19T00:00:00Z,13,Veran Matić,Veran Matić,Serbian journalist (born 1962),Q37024,Q2893969
+Q605239,Q6581097,1962-05-19T00:00:00Z,13,Veran Matić,Veran Matić,Serbian journalist (born 1962),Q83286,Q2893969
+Q605239,Q6581097,1962-05-19T00:00:00Z,13,Veran Matić,Veran Matić,Serbian journalist (born 1962),Q403,Q2893969
+Q609138,Q6581097,1913-06-25T00:00:00Z,16,Peko Dapčević,Peko Dapčević,Yugoslav partisan and politician (1913-1999),Q386496,Q12747940
+Q609138,Q6581097,1913-06-25T00:00:00Z,16,Peko Dapčević,Peko Dapčević,Yugoslav partisan and politician (1913-1999),Q15102440,Q12747940
+Q609138,Q6581097,1913-06-25T00:00:00Z,16,Peko Dapčević,Peko Dapčević,Yugoslav partisan and politician (1913-1999),Q1290149,Q12747940
+Q609138,Q6581097,1913-06-25T00:00:00Z,16,Peko Dapčević,Peko Dapčević,Yugoslav partisan and politician (1913-1999),Q838261,Q12747940
+Q609138,Q6581097,1913-06-25T00:00:00Z,16,Peko Dapčević,Peko Dapčević,Yugoslav partisan and politician (1913-1999),Q191077,Q12747940
+Q609138,Q6581097,1913-06-25T00:00:00Z,16,Peko Dapčević,Peko Dapčević,Yugoslav partisan and politician (1913-1999),Q83286,Q12747940
+Q609138,Q6581097,1913-06-25T00:00:00Z,16,Peko Dapčević,Peko Dapčević,Yugoslav partisan and politician (1913-1999),Q1277557,Q12747940
+Q6098030,Q6581072,1979-10-25T00:00:00Z,12,Ivana Sert,Ivana Sert,Serbian-Turkish television personality (born 1979),Q838261,Q144495
+Q6098030,Q6581072,1979-10-25T00:00:00Z,12,Ivana Sert,Ivana Sert,Serbian-Turkish television personality (born 1979),Q43,Q144495
+Q611560,Q6581097,1991-02-11T00:00:00Z,34,Nikola Mirotić,Nikola Mirotić,Spanish/Montenegrin basketball player,Q29,Q23564
+Q611560,Q6581097,1991-02-11T00:00:00Z,34,Nikola Mirotić,Nikola Mirotić,Spanish/Montenegrin basketball player,Q236,Q23564
+Q611560,Q6581097,1991-02-11T00:00:00Z,34,Nikola Mirotić,Nikola Mirotić,Spanish/Montenegrin basketball player,Q37024,Q23564
+Q611560,Q6581097,1991-02-11T00:00:00Z,34,Nikola Mirotić,Nikola Mirotić,Spanish/Montenegrin basketball player,Q838261,Q23564
+Q611560,Q6581097,1991-02-11T00:00:00Z,34,Nikola Mirotić,Nikola Mirotić,Spanish/Montenegrin basketball player,Q83286,Q23564
+Q61746836,Q6581097,1972-04-09T00:00:00Z,3,Andrej Vučić,Andrej Vučić,Serbian businessman,Q83286,Q3711
+Q61746836,Q6581097,1972-04-09T00:00:00Z,3,Andrej Vučić,Andrej Vučić,Serbian businessman,Q403,Q3711
+Q61746836,Q6581097,1972-04-09T00:00:00Z,3,Andrej Vučić,Andrej Vučić,Serbian businessman,Q37024,Q3711
+Q61746836,Q6581097,1972-04-09T00:00:00Z,3,Andrej Vučić,Andrej Vučić,Serbian businessman,Q838261,Q3711
+Q631632,Q6581097,1982-08-30T00:00:00Z,15,Vukašin Poleksić,Vukašin Poleksić,Montenegrin association football player,Q83286,Q200733
+Q631632,Q6581097,1982-08-30T00:00:00Z,15,Vukašin Poleksić,Vukašin Poleksić,Montenegrin association football player,Q838261,Q200733
+Q631632,Q6581097,1982-08-30T00:00:00Z,15,Vukašin Poleksić,Vukašin Poleksić,Montenegrin association football player,Q236,Q200733
+Q64039235,Q6581097,1961-10-31T00:00:00Z,6,Radomir Saičić,Radomir Saičić,"Serbian university professor, chemist, and politician",Q37024,Q3711
+Q64039235,Q6581097,1961-10-31T00:00:00Z,6,Radomir Saičić,Radomir Saičić,"Serbian university professor, chemist, and politician",Q838261,Q3711
+Q64039235,Q6581097,1961-10-31T00:00:00Z,6,Radomir Saičić,Radomir Saičić,"Serbian university professor, chemist, and politician",Q83286,Q3711
+Q64039235,Q6581097,1961-10-31T00:00:00Z,6,Radomir Saičić,Radomir Saičić,"Serbian university professor, chemist, and politician",Q403,Q3711
+Q641582,Q6581097,1920-12-19T00:00:00Z,28,Lazar Mojsov,Lazar Mojsov,Yugoslav Macedonian politician (1920– 2011),Q403,Q164954
+Q641582,Q6581097,1920-12-19T00:00:00Z,28,Lazar Mojsov,Lazar Mojsov,Yugoslav Macedonian politician (1920– 2011),Q37024,Q164954
+Q641582,Q6581097,1920-12-19T00:00:00Z,28,Lazar Mojsov,Lazar Mojsov,Yugoslav Macedonian politician (1920– 2011),Q15102440,Q164954
+Q641582,Q6581097,1920-12-19T00:00:00Z,28,Lazar Mojsov,Lazar Mojsov,Yugoslav Macedonian politician (1920– 2011),Q83286,Q164954
+Q641582,Q6581097,1920-12-19T00:00:00Z,28,Lazar Mojsov,Lazar Mojsov,Yugoslav Macedonian politician (1920– 2011),Q191077,Q164954
+Q641582,Q6581097,1920-12-19T00:00:00Z,28,Lazar Mojsov,Lazar Mojsov,Yugoslav Macedonian politician (1920– 2011),Q838261,Q164954
+Q6593374,Q6581097,1931-12-26T00:00:00Z,4,Miomir Vukobratović,Miomir Vukobratović,Serbian scientist,Q403,Q31925230
+Q6593374,Q6581097,1931-12-26T00:00:00Z,4,Miomir Vukobratović,Miomir Vukobratović,Serbian scientist,Q838261,Q31925230
+Q6593374,Q6581097,1931-12-26T00:00:00Z,4,Miomir Vukobratović,Miomir Vukobratović,Serbian scientist,Q37024,Q31925230
+Q6593374,Q6581097,1931-12-26T00:00:00Z,4,Miomir Vukobratović,Miomir Vukobratović,Serbian scientist,Q191077,Q31925230
+Q6593374,Q6581097,1931-12-26T00:00:00Z,4,Miomir Vukobratović,Miomir Vukobratović,Serbian scientist,Q83286,Q31925230
+Q6660911,Q6581097,1931-04-11T00:00:00Z,3,Ljubisav Rakić,Ljubisav Rakić,Serbian biochemist,Q37024,Q11194
+Q6660911,Q6581097,1931-04-11T00:00:00Z,3,Ljubisav Rakić,Ljubisav Rakić,Serbian biochemist,Q83286,Q11194
+Q6660911,Q6581097,1931-04-11T00:00:00Z,3,Ljubisav Rakić,Ljubisav Rakić,Serbian biochemist,Q191077,Q11194
+Q6660911,Q6581097,1931-04-11T00:00:00Z,3,Ljubisav Rakić,Ljubisav Rakić,Serbian biochemist,Q838261,Q11194
+Q6660911,Q6581097,1931-04-11T00:00:00Z,3,Ljubisav Rakić,Ljubisav Rakić,Serbian biochemist,Q403,Q11194
+Q6743126,Q6581097,1970-07-17T00:00:00Z,4,Vojvoda Malesija,Malesija Vojvoda,Montenegrin association football player,Q236,Q500080
+Q6743126,Q6581097,1970-07-17T00:00:00Z,4,Vojvoda Malesija,Malesija Vojvoda,Montenegrin association football player,Q37024,Q500080
+Q6743126,Q6581097,1970-07-17T00:00:00Z,4,Vojvoda Malesija,Malesija Vojvoda,Montenegrin association football player,Q838261,Q500080
+Q6861885,Q6581097,1959-08-25T00:00:00Z,10,Miodrag Kostić,Miodrag Kostić,Serbian entrepreneur,Q838261,Q511216
+Q6861885,Q6581097,1959-08-25T00:00:00Z,10,Miodrag Kostić,Miodrag Kostić,Serbian entrepreneur,Q83286,Q511216
+Q6861885,Q6581097,1959-08-25T00:00:00Z,10,Miodrag Kostić,Miodrag Kostić,Serbian entrepreneur,Q403,Q511216
+Q7035598,Q6581097,1929-04-17T00:00:00Z,6,Nikola Milošević (politician),Nikola Milošević,"Serbian writer, political philosopher, literary critic, and politician",Q403,Q11194
+Q7035598,Q6581097,1929-04-17T00:00:00Z,6,Nikola Milošević (politician),Nikola Milošević,"Serbian writer, political philosopher, literary critic, and politician",Q37024,Q11194
+Q7035598,Q6581097,1929-04-17T00:00:00Z,6,Nikola Milošević (politician),Nikola Milošević,"Serbian writer, political philosopher, literary critic, and politician",Q191077,Q11194
+Q7035598,Q6581097,1929-04-17T00:00:00Z,6,Nikola Milošević (politician),Nikola Milošević,"Serbian writer, political philosopher, literary critic, and politician",Q83286,Q11194
+Q7035598,Q6581097,1929-04-17T00:00:00Z,6,Nikola Milošević (politician),Nikola Milošević,"Serbian writer, political philosopher, literary critic, and politician",Q838261,Q11194
+Q7075322,Q6581097,1934-03-28T00:00:00Z,1,Obrad Stanojević,Obrad Stanojević,Serbian legal historian (1934-2011),Q37024,
+Q7075322,Q6581097,1934-03-28T00:00:00Z,1,Obrad Stanojević,Obrad Stanojević,Serbian legal historian (1934-2011),Q838261,
+Q7075322,Q6581097,1934-03-28T00:00:00Z,1,Obrad Stanojević,Obrad Stanojević,Serbian legal historian (1934-2011),Q403,
+Q7075322,Q6581097,1934-03-28T00:00:00Z,1,Obrad Stanojević,Obrad Stanojević,Serbian legal historian (1934-2011),Q191077,
+Q7075322,Q6581097,1934-03-28T00:00:00Z,1,Obrad Stanojević,Obrad Stanojević,Serbian legal historian (1934-2011),Q83286,
+Q712841,Q6581097,1921-11-11T00:00:00Z,20,Milorad Pavić (footballer),Milorad Pavić,Serbian footballer (1921-2005),Q37024,Q208015
+Q712841,Q6581097,1921-11-11T00:00:00Z,20,Milorad Pavić (footballer),Milorad Pavić,Serbian footballer (1921-2005),Q191077,Q208015
+Q712841,Q6581097,1921-11-11T00:00:00Z,20,Milorad Pavić (footballer),Milorad Pavić,Serbian footballer (1921-2005),Q1277557,Q208015
+Q712841,Q6581097,1921-11-11T00:00:00Z,20,Milorad Pavić (footballer),Milorad Pavić,Serbian footballer (1921-2005),Q838261,Q208015
+Q712841,Q6581097,1921-11-11T00:00:00Z,20,Milorad Pavić (footballer),Milorad Pavić,Serbian footballer (1921-2005),Q83286,Q208015
+Q712841,Q6581097,1921-11-11T00:00:00Z,20,Milorad Pavić (footballer),Milorad Pavić,Serbian footballer (1921-2005),Q15102440,Q208015
+Q713533,Q6581097,1914-10-07T00:00:00Z,23,Mihailo Lalić,Mihailo Lalić,Montenegrin writer (1914-1992),Q83286,Q3122638
+Q713533,Q6581097,1914-10-07T00:00:00Z,23,Mihailo Lalić,Mihailo Lalić,Montenegrin writer (1914-1992),Q191077,Q3122638
+Q713533,Q6581097,1914-10-07T00:00:00Z,23,Mihailo Lalić,Mihailo Lalić,Montenegrin writer (1914-1992),Q838261,Q3122638
+Q713533,Q6581097,1914-10-07T00:00:00Z,23,Mihailo Lalić,Mihailo Lalić,Montenegrin writer (1914-1992),Q386496,Q3122638
+Q7148066,Q6581097,1912-12-19T00:00:00Z,5,Veljko Kovačević,Veljko Kovačević,"Montenegrin general, writer (1912–1994)",Q191077,Q247339
+Q7148066,Q6581097,1912-12-19T00:00:00Z,5,Veljko Kovačević,Veljko Kovačević,"Montenegrin general, writer (1912–1994)",Q15102440,Q247339
+Q7148066,Q6581097,1912-12-19T00:00:00Z,5,Veljko Kovačević,Veljko Kovačević,"Montenegrin general, writer (1912–1994)",Q838261,Q247339
+Q7148066,Q6581097,1912-12-19T00:00:00Z,5,Veljko Kovačević,Veljko Kovačević,"Montenegrin general, writer (1912–1994)",Q83286,Q247339
+Q7148066,Q6581097,1912-12-19T00:00:00Z,5,Veljko Kovačević,Veljko Kovačević,"Montenegrin general, writer (1912–1994)",Q241748,Q247339
+Q719133,Q6581097,1912-08-03T00:00:00Z,16,Svetozar Vukmanović,Svetozar Vukmanović,Serbian partisan (1912-2000),Q838261,Q16896993
+Q727314,Q6581097,1978-12-12T00:00:00Z,11,Sanibal Orahovac,Sanibal Orahovac,Montenegrin footballer,Q236,Q23564
+Q727314,Q6581097,1978-12-12T00:00:00Z,11,Sanibal Orahovac,Sanibal Orahovac,Montenegrin footballer,Q37024,Q23564
+Q727314,Q6581097,1978-12-12T00:00:00Z,11,Sanibal Orahovac,Sanibal Orahovac,Montenegrin footballer,Q838261,Q23564
+Q7281580,Q6581097,1977-01-02T00:00:00Z,4,Radosav Bulić,Radosav Bulić,footballer,Q838261,Q211343
+Q7281580,Q6581097,1977-01-02T00:00:00Z,4,Radosav Bulić,Radosav Bulić,footballer,Q37024,Q211343
+Q7281580,Q6581097,1977-01-02T00:00:00Z,4,Radosav Bulić,Radosav Bulić,footballer,Q236,Q211343
+Q741215,Q6581097,1966-09-08T00:00:00Z,10,Dušan Petrović,Dušan Petrović,Serbian politician,Q83286,Q204472
+Q741215,Q6581097,1966-09-08T00:00:00Z,10,Dušan Petrović,Dušan Petrović,Serbian politician,Q403,Q204472
+Q741215,Q6581097,1966-09-08T00:00:00Z,10,Dušan Petrović,Dušan Petrović,Serbian politician,Q37024,Q204472
+Q741215,Q6581097,1966-09-08T00:00:00Z,10,Dušan Petrović,Dušan Petrović,Serbian politician,Q838261,Q204472
+Q768911,Q6581097,1916-04-04T00:00:00Z,12,Nikola Ljubičić,Nikola Ljubičić,Yugoslav general (1916-2005),Q1290149,Q1208128
+Q768911,Q6581097,1916-04-04T00:00:00Z,12,Nikola Ljubičić,Nikola Ljubičić,Yugoslav general (1916-2005),Q83286,Q1208128
+Q768911,Q6581097,1916-04-04T00:00:00Z,12,Nikola Ljubičić,Nikola Ljubičić,Yugoslav general (1916-2005),Q37024,Q1208128
+Q768911,Q6581097,1916-04-04T00:00:00Z,12,Nikola Ljubičić,Nikola Ljubičić,Yugoslav general (1916-2005),Q838261,Q1208128
+Q768911,Q6581097,1916-04-04T00:00:00Z,12,Nikola Ljubičić,Nikola Ljubičić,Yugoslav general (1916-2005),Q1277557,Q1208128
+Q768911,Q6581097,1916-04-04T00:00:00Z,12,Nikola Ljubičić,Nikola Ljubičić,Yugoslav general (1916-2005),Q15102440,Q1208128
+Q768911,Q6581097,1916-04-04T00:00:00Z,12,Nikola Ljubičić,Nikola Ljubičić,Yugoslav general (1916-2005),Q241748,Q1208128
+Q768911,Q6581097,1916-04-04T00:00:00Z,12,Nikola Ljubičić,Nikola Ljubičić,Yugoslav general (1916-2005),Q36704,Q1208128
+Q7818253,Q6581072,1914-02-16T00:00:00Z,7,Tomanija Đuričko,Tomanija Đuričko,Serbian actress (1914-1994),Q191077,Q204472
+Q7818253,Q6581072,1914-02-16T00:00:00Z,7,Tomanija Đuričko,Tomanija Đuričko,Serbian actress (1914-1994),Q241748,Q204472
+Q7818253,Q6581072,1914-02-16T00:00:00Z,7,Tomanija Đuričko,Tomanija Đuričko,Serbian actress (1914-1994),Q838261,Q204472
+Q7818253,Q6581072,1914-02-16T00:00:00Z,7,Tomanija Đuričko,Tomanija Đuričko,Serbian actress (1914-1994),Q83286,Q204472
+Q7818253,Q6581072,1914-02-16T00:00:00Z,7,Tomanija Đuričko,Tomanija Đuričko,Serbian actress (1914-1994),Q403,Q204472
+Q7915044,Q6581097,1971-01-11T00:00:00Z,3,Vanja Grubač,Vanja Grubač,footballer,Q236,Q200733
+Q7915044,Q6581097,1971-01-11T00:00:00Z,3,Vanja Grubač,Vanja Grubač,footballer,Q838261,Q200733
+Q8079695,Q6581097,1974-10-09T00:00:00Z,6,Čedomir Antić,Čedomir Antić,Serbian historian,Q838261,Q3711
+Q8079695,Q6581097,1974-10-09T00:00:00Z,6,Čedomir Antić,Čedomir Antić,Serbian historian,Q403,Q3711
+Q8079695,Q6581097,1974-10-09T00:00:00Z,6,Čedomir Antić,Čedomir Antić,Serbian historian,Q83286,Q3711
+Q8079695,Q6581097,1974-10-09T00:00:00Z,6,Čedomir Antić,Čedomir Antić,Serbian historian,Q37024,Q3711
+Q834689,Q6581097,1952-11-01T00:00:00Z,25,Bora Đorđević,Bora Đorđević,Serbian singer (1952–2024),Q838261,Q208038
+Q834689,Q6581097,1952-11-01T00:00:00Z,25,Bora Đorđević,Bora Đorđević,Serbian singer (1952–2024),Q83286,Q208038
+Q834689,Q6581097,1952-11-01T00:00:00Z,25,Bora Đorđević,Bora Đorđević,Serbian singer (1952–2024),Q403,Q208038
+Q866323,Q6581072,1934-08-30T00:00:00Z,19,Grozdana Olujić,Grozdana Olujić-Lešić,"Serbian writer, translator and literary critic (1934-2019)",Q1277557,Q990194
+Q866323,Q6581072,1934-08-30T00:00:00Z,19,Grozdana Olujić,Grozdana Olujić-Lešić,"Serbian writer, translator and literary critic (1934-2019)",Q191077,Q990194
+Q866323,Q6581072,1934-08-30T00:00:00Z,19,Grozdana Olujić,Grozdana Olujić-Lešić,"Serbian writer, translator and literary critic (1934-2019)",Q701914,Q990194
+Q866323,Q6581072,1934-08-30T00:00:00Z,19,Grozdana Olujić,Grozdana Olujić-Lešić,"Serbian writer, translator and literary critic (1934-2019)",Q838261,Q990194
+Q866323,Q6581072,1934-08-30T00:00:00Z,19,Grozdana Olujić,Grozdana Olujić-Lešić,"Serbian writer, translator and literary critic (1934-2019)",Q83286,Q990194
+Q866323,Q6581072,1934-08-30T00:00:00Z,19,Grozdana Olujić,Grozdana Olujić-Lešić,"Serbian writer, translator and literary critic (1934-2019)",Q403,Q990194
+Q866323,Q6581072,1934-08-30T00:00:00Z,19,Grozdana Olujić,Grozdana Olujić-Lešić,"Serbian writer, translator and literary critic (1934-2019)",Q37024,Q990194
+Q866323,Q6581072,1934-08-30T00:00:00Z,19,Grozdana Olujić,Grozdana Olujić-Lešić,"Serbian writer, translator and literary critic (1934-2019)",Q1290149,Q990194
+Q893044,Q6581097,1928-10-04T00:00:00Z,12,Milorad Ekmečić,Milorad Ekmečić,Serbian historian and member of the Serbian Academy of Science and Arts (1928–2015),Q403,Q3181982
+Q893044,Q6581097,1928-10-04T00:00:00Z,12,Milorad Ekmečić,Milorad Ekmečić,Serbian historian and member of the Serbian Academy of Science and Arts (1928–2015),Q191077,Q3181982
+Q893044,Q6581097,1928-10-04T00:00:00Z,12,Milorad Ekmečić,Milorad Ekmečić,Serbian historian and member of the Serbian Academy of Science and Arts (1928–2015),Q37024,Q3181982
+Q893044,Q6581097,1928-10-04T00:00:00Z,12,Milorad Ekmečić,Milorad Ekmečić,Serbian historian and member of the Serbian Academy of Science and Arts (1928–2015),Q838261,Q3181982
+Q893044,Q6581097,1928-10-04T00:00:00Z,12,Milorad Ekmečić,Milorad Ekmečić,Serbian historian and member of the Serbian Academy of Science and Arts (1928–2015),Q83286,Q3181982
+Q94770324,Q6581097,1971-02-14T00:00:00Z,2,"Ivan Ilić (footballer, born 1971)",Ivan Ilić,Serbian association football player (b. 1971),Q403,Q129259
+Q94770324,Q6581097,1971-02-14T00:00:00Z,2,"Ivan Ilić (footballer, born 1971)",Ivan Ilić,Serbian association football player (b. 1971),Q37024,Q129259
+Q94770324,Q6581097,1971-02-14T00:00:00Z,2,"Ivan Ilić (footballer, born 1971)",Ivan Ilić,Serbian association football player (b. 1971),Q838261,Q129259
+Q94770324,Q6581097,1971-02-14T00:00:00Z,2,"Ivan Ilić (footballer, born 1971)",Ivan Ilić,Serbian association football player (b. 1971),Q83286,Q129259
+Q94770325,Q6581097,1968-12-14T00:00:00Z,2,Žarko Lučić,Žarko Lučić,Montenegrin association football player,Q838261,Q211343
+Q94770325,Q6581097,1968-12-14T00:00:00Z,2,Žarko Lučić,Žarko Lučić,Montenegrin association football player,Q83286,Q211343
+Q94770325,Q6581097,1968-12-14T00:00:00Z,2,Žarko Lučić,Žarko Lučić,Montenegrin association football player,Q37024,Q211343
+Q94770325,Q6581097,1968-12-14T00:00:00Z,2,Žarko Lučić,Žarko Lučić,Montenegrin association football player,Q236,Q211343
+Q965622,Q6581097,1929-01-29T00:00:00Z,13,Sima Ćirković,Sima Ćirković,Yugoslav and Serbian historian (1929–2009),Q37024,Q1640
+Q965622,Q6581097,1929-01-29T00:00:00Z,13,Sima Ćirković,Sima Ćirković,Yugoslav and Serbian historian (1929–2009),Q838261,Q1640
+Q965622,Q6581097,1929-01-29T00:00:00Z,13,Sima Ćirković,Sima Ćirković,Yugoslav and Serbian historian (1929–2009),Q191077,Q1640
+Q965622,Q6581097,1929-01-29T00:00:00Z,13,Sima Ćirković,Sima Ćirković,Yugoslav and Serbian historian (1929–2009),Q83286,Q1640
+Q965622,Q6581097,1929-01-29T00:00:00Z,13,Sima Ćirković,Sima Ćirković,Yugoslav and Serbian historian (1929–2009),Q403,Q1640
+Q974224,Q6581097,1979-10-10T00:00:00Z,6,Ajazdin Nuhi,Ajazdin Nuhi,Serbian footballer,Q838261,Q200061
+Q974224,Q6581097,1979-10-10T00:00:00Z,6,Ajazdin Nuhi,Ajazdin Nuhi,Serbian footballer,Q37024,Q200061
+Q974224,Q6581097,1979-10-10T00:00:00Z,6,Ajazdin Nuhi,Ajazdin Nuhi,Serbian footballer,Q403,Q200061
+Q978944,Q6581097,1972-02-14T00:00:00Z,8,Saša Ćurčić,Saša Ćurčić,Serbian footballer,Q403,Q3711
+Q978944,Q6581097,1972-02-14T00:00:00Z,8,Saša Ćurčić,Saša Ćurčić,Serbian footballer,Q83286,Q3711
+Q978944,Q6581097,1972-02-14T00:00:00Z,8,Saša Ćurčić,Saša Ćurčić,Serbian footballer,Q838261,Q3711
+Q981717,Q6581097,1979-09-06T00:00:00Z,16,Miodrag Džudović,Miodrag Džudović,Montenegrin footballer,Q838261,Q211195
+Q981717,Q6581097,1979-09-06T00:00:00Z,16,Miodrag Džudović,Miodrag Džudović,Montenegrin footballer,Q236,Q211195
+Q981717,Q6581097,1979-09-06T00:00:00Z,16,Miodrag Džudović,Miodrag Džudović,Montenegrin footballer,Q37024,Q211195

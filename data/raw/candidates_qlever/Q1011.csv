@@ -1,0 +1,502 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q100166635,Q6581097,1997-09-04T00:00:00Z,11,Willis Furtado,Willis Furtado,Cape Verdean footballer,Q1011,Q193877
+Q100185348,Q6581097,1996-08-30T00:00:00Z,11,Dylan Tavares,Dylan Tavares,Cape Verdean footballer,Q1011,Q71
+Q100919855,Q6581097,1997-06-07T00:00:00Z,4,Marcus Santos-Silva,Marcus Santos-Silva,American basketball player (born 1997),Q1011,Q100
+Q100919855,Q6581097,1997-06-07T00:00:00Z,4,Marcus Santos-Silva,Marcus Santos-Silva,American basketball player (born 1997),Q30,Q100
+Q100966395,Q6581072,1990-01-01T00:00:00Z,4,Denise Fernandes,Denise Fernandes,film director (born 1990),Q1011,Q597
+Q100966395,Q6581072,1990-01-01T00:00:00Z,4,Denise Fernandes,Denise Fernandes,film director (born 1990),Q39,Q597
+Q100966395,Q6581072,1990-01-01T00:00:00Z,4,Denise Fernandes,Denise Fernandes,film director (born 1990),Q45,Q597
+Q1025702,Q6581097,1977-11-17T00:00:00Z,9,"Cafú (footballer, born 1977)",Cafú,Cape Verdean association football player,Q1011,Q597
+Q1025702,Q6581097,1977-11-17T00:00:00Z,9,"Cafú (footballer, born 1977)",Cafú,Cape Verdean association football player,Q45,Q597
+Q10264132,Q6581097,1947-01-01T00:00:00Z,4,Dany Silva,Dany Silva,"Cape Verdean singer, musician and composer",Q1011,Q3751
+Q10289653,Q6581097,1976-01-01T00:00:00Z,3,Gilyto,Gilyto,Cape Verdean singer,Q1011,Q490573
+Q10295168,Q6581072,1941-09-17T00:00:00Z,7,Hermínia da Cruz Fortes,Hermínia da Cruz Fortes,Cape Verdean singer,Q1011,Q112031
+Q10325735,Q6581072,1928-11-15T00:00:00Z,2,Maria Baptista Soares,Maria Baptista Soares,,Q1011,Q1011
+Q10335452,Q6581072,1975-01-01T00:00:00Z,8,Nancy Vieira,Nancy Vieira,Cape Verdean singer,Q1011,Q1007
+Q10341548,Q6581097,1967-11-01T00:00:00Z,5,Orlando Pantera,Orlando Pantera,musical artist,Q1011,Q494726
+Q103759,Q6581072,1941-08-27T00:00:00Z,75,Cesária Évora,Cesária Évora,Cape Verdean singer-songwriter (1941–2011),Q1011,Q495547
+Q10395861,Q6581097,1986-04-02T00:00:00Z,2,Tuga,Álvaro Semedo Vaz,Cape Verdean association football player,Q1011,Q108448
+Q104128393,Q6581072,1941-01-01T00:00:00Z,7,Dina Salústio,Dina Salústio,Cape Verdean novelist,Q1011,Q112232
+Q104152182,Q6581097,2002-05-01T00:00:00Z,5,Marco Da Graca,Marco Da Graca,Italian footballer,Q1011,Q2656
+Q104152182,Q6581097,2002-05-01T00:00:00Z,5,Marco Da Graca,Marco Da Graca,Italian footballer,Q38,Q2656
+Q104243593,Q6581072,1990-02-16T00:00:00Z,8,Sandrine Billiet,Sandrine Billiet,Cape Verdean judoka (* 1990),Q1011,Q12994
+Q104243593,Q6581072,1990-02-16T00:00:00Z,8,Sandrine Billiet,Sandrine Billiet,Cape Verdean judoka (* 1990),Q31,Q12994
+Q10433749,Q6581097,1981-02-17T00:00:00Z,4,Hugo Évora,Hugo Évora,Cape Verdean footballer (born 1981),Q1011,Q1003060
+Q104346677,Q6581097,1995-10-29T00:00:00Z,2,Keven Gomes,Keven Gomes,Cabo Verdean basketball player,Q1011,Q3751
+Q104346677,Q6581097,1995-10-29T00:00:00Z,2,Keven Gomes,Keven Gomes,Cabo Verdean basketball player,Q45,Q3751
+Q104839626,Q6581097,2000-02-16T00:00:00Z,9,Duk (footballer),Luís Lopes,Portuguese footballer,Q1011,Q597
+Q104839626,Q6581097,2000-02-16T00:00:00Z,9,Duk (footballer),Luís Lopes,Portuguese footballer,Q45,Q597
+Q10515955,Q6581097,1987-08-05T00:00:00Z,5,Nilson Antonio,Nilson Antonio,Cape Verdean footballer (born 1987),Q1011,Q497472
+Q105177458,Q6581097,1994-12-24T00:00:00Z,6,Leandro Semedo,Leandro Semedo,Cape Verdean handball player,Q1011,Q3751
+Q10555185,Q6581097,1988-01-05T00:00:00Z,9,Kay (footballer),Carlos Silveira da Graça,Cape Verdean association football player,Q1011,Q648842
+Q105622433,Q6581097,2001-03-14T00:00:00Z,3,Stéphane Cueni,Stéphane Cueni,Cape Verdean association football player (born 2001),Q1011,Q807
+Q105622433,Q6581097,2001-03-14T00:00:00Z,3,Stéphane Cueni,Stéphane Cueni,Cape Verdean association football player (born 2001),Q39,Q807
+Q105939150,Q6581097,2001-12-29T00:00:00Z,21,Gilson Benchimol,Gilson Benchimol,Cape Verdean association football player,Q1011,Q3751
+Q105965319,Q6581072,1942-01-01T00:00:00Z,7,Josefina Chantre,Josefina Chantre,Cape Verdean anti-colonialist and independence fighter,Q1011,Q112232
+Q106920136,Q6581072,1996-08-13T00:00:00Z,7,Djamila Silva,Djamila Silva,Cape Verdean judoka (* 1996),Q1011,
+Q106920136,Q6581072,1996-08-13T00:00:00Z,7,Djamila Silva,Djamila Silva,Cape Verdean judoka (* 1996),Q45,
+Q107334828,Q6581097,1998-05-26T00:00:00Z,19,João Paulo Fernandes (footballer),João Paulo Fernandes,Cape Verdean footballer,Q1011,Q3122689
+Q107342285,Q6581072,2001-12-06T00:00:00Z,5,Márcia Lopes,Márcia Lopes,Cape Verdean rhythmic gymnast (* 2001),Q1011,Q112031
+Q107431,Q6581097,1934-04-29T00:00:00Z,44,Pedro Pires,Pedro Pires,Cape Verdean politician and former president of Cape Verde,Q1011,Q13957085
+Q107642670,Q6581072,2004-07-23T00:00:00Z,7,Jayla Pina,Jayla Pina,American-Cape Verdean swimmer (born 2004),Q1011,Q30
+Q107642670,Q6581072,2004-07-23T00:00:00Z,7,Jayla Pina,Jayla Pina,American-Cape Verdean swimmer (born 2004),Q30,Q30
+Q107806484,Q6581097,2000-06-05T00:00:00Z,16,Kelvin Pires,Kelvin Pires,Cape Verdean footballer,Q1011,Q1011
+Q107948136,Q6581097,2000-07-01T00:00:00Z,2,Kelvin Patrick,Kelvin Patrick,Cabo Verdean association football player,Q1011,Q112031
+Q108172326,Q6581097,1959-07-27T00:00:00Z,6,Tchiss Lopes,Tchiss Lopes,Cabo Verdean musician,Q1011,Q112031
+Q108395046,Q6581097,1997-01-27T00:00:00Z,27,Kevin Pina (footballer),Kevin Pina,Cape Verdean footballer,Q1011,Q3751
+Q108404893,Q6581097,1997-10-31T00:00:00Z,1,Anderson Correia (basketball),Anderson Correia,Cape Verdean basketball player (born 1997),Q1011,
+Q1085129,Q6581097,1980-08-19T00:00:00Z,7,"Ricardo (footballer, born 1980)",Ricardo Jorge Ferreira Pinto da Silva,Cape Verdean association football player,Q1011,Q170903
+Q108746603,Q6581072,1974-01-01T00:00:00Z,7,Janine Lélis,Janine Lélis,Cape Verdean politician,Q1011,
+Q108771056,Q6581097,1980-01-01T00:00:00Z,3,Abraão Vicente,Abraão Vicente,Cape Verdean politician,Q1011,
+Q108782778,Q6581097,1961-12-09T00:00:00Z,1,Arlindo do Rosário,Arlindo Nascimento do Rosário,Cape Verdean politicians,Q1011,
+Q109300702,Q6581097,1984-07-07T00:00:00Z,1,Fidel Mendonça,Fidel Mendonça,Cape Verdean basketball player (born 1984),Q1011,Q3751
+Q110184199,Q6581097,2001-04-01T00:00:00Z,29,Logan Costa,Logan Costa,Cape Verdean association football player (born 2001),Q1011,Q160506
+Q110184199,Q6581097,2001-04-01T00:00:00Z,29,Logan Costa,Logan Costa,Cape Verdean association football player (born 2001),Q142,Q160506
+Q110409384,Q6581072,1999-11-13T00:00:00Z,7,Ronisia (singer),Ronisia,Cape Verdean singer,Q1011,Q2311253
+Q110943455,Q6581097,2001-05-04T00:00:00Z,20,Dailon Livramento,Dailon Livramento,Cape Verdean footballer,Q1011,Q34370
+Q110943455,Q6581097,2001-05-04T00:00:00Z,20,Dailon Livramento,Dailon Livramento,Cape Verdean footballer,Q29999,Q34370
+Q111365608,Q6581097,2001-03-08T00:00:00Z,5,Iuri Tavares,Iuri Tavares,Cape Verdean footballer,Q1011,Q597
+Q111365608,Q6581097,2001-03-08T00:00:00Z,5,Iuri Tavares,Iuri Tavares,Cape Verdean footballer,Q45,Q597
+Q111736823,Q6581072,1981-01-01T00:00:00Z,4,Solange Cesarovna,Solange Cesarovna,"Cape Verdean singer and songwriter, founder of the Cape Verdean Society of Authors",Q1011,Q5627
+Q112166559,Q6581072,1994-10-28T00:00:00Z,1,Indira Evora,Indira Evora,american-Cape Verdean basketball player,Q1011,
+Q112166559,Q6581072,1994-10-28T00:00:00Z,1,Indira Evora,Indira Evora,american-Cape Verdean basketball player,Q30,
+Q112180485,Q6581072,1999-12-12T00:00:00Z,3,Analeesia Fernandes,Analeesia Fernandes,american-Cape Verdean basketball player,Q1011,
+Q112180485,Q6581072,1999-12-12T00:00:00Z,3,Analeesia Fernandes,Analeesia Fernandes,american-Cape Verdean basketball player,Q30,
+Q112195055,Q6581097,1991-06-24T00:00:00Z,2,Elber Binha,Elber Binha,Cape Verdean footballer,Q1011,Q1011
+Q112195055,Q6581097,1991-06-24T00:00:00Z,2,Elber Binha,Elber Binha,Cape Verdean footballer,Q916,Q1011
+Q1138128,Q6581097,1978-02-04T00:00:00Z,8,Elvis Évora,Elvis Évora,Portuguese basketball player (born 1978),Q1011,Q111989
+Q1138128,Q6581097,1978-02-04T00:00:00Z,8,Elvis Évora,Elvis Évora,Portuguese basketball player (born 1978),Q45,Q111989
+Q114350084,Q6581097,2001-01-29T00:00:00Z,8,"Serginho (footballer, born 2001)",Serginho,Cape Verdean footballer (born 2001),Q1011,Q597
+Q115104549,Q6581097,1999-02-10T00:00:00Z,2,Dylan Silva,Dylan Silva,Cape Verdean footballer,Q1011,Q23482
+Q115104549,Q6581097,1999-02-10T00:00:00Z,2,Dylan Silva,Dylan Silva,Cape Verdean footballer,Q45,Q23482
+Q11691650,Q6581072,1975-11-05T00:00:00Z,5,Crispina Correia,Crispina Correia,Cape Verdean basketball player (born 1975),Q1011,Q3751
+Q11715832,Q6581072,1983-07-13T00:00:00Z,6,Jade Leitão,Jade Leitão,Cape Verdean basketball player (born 1983),Q1011,Q621549
+Q11715832,Q6581072,1983-07-13T00:00:00Z,6,Jade Leitão,Jade Leitão,Cape Verdean basketball player (born 1983),Q30,Q621549
+Q11755234,Q6581072,1976-11-21T00:00:00Z,4,Letícia Oliveira,Letícia Oliveira,Cape Verdean basketball player (born 1976),Q1011,Q490
+Q11755234,Q6581072,1976-11-21T00:00:00Z,4,Letícia Oliveira,Letícia Oliveira,Cape Verdean basketball player (born 1976),Q38,Q490
+Q11755234,Q6581072,1976-11-21T00:00:00Z,4,Letícia Oliveira,Letícia Oliveira,Cape Verdean basketball player (born 1976),Q45,Q490
+Q11762848,Q6581072,1974-12-07T00:00:00Z,4,Louisa da Conceição,Louisa da Conceição,Cape Verdean basketball player (born 1974),Q1011,Q3751
+Q117705977,Q6581097,1999-12-01T00:00:00Z,2,Paulo Soares (footballer),Paulo Soares,Footballer (born 1999),Q1011,
+Q117705977,Q6581097,1999-12-01T00:00:00Z,2,Paulo Soares (footballer),Paulo Soares,Footballer (born 1999),Q30,
+Q117744487,Q6581072,1966-04-10T00:00:00Z,4,Filomena Fortes,Filomena Fortes,Cape Verdean sports administrator and handball player,Q1011,Q3897
+Q118179936,Q6581097,1999-07-18T00:00:00Z,2,Jorginho Soares,Jorginho Soares,Dutch footballer,Q1011,
+Q118179936,Q6581097,1999-07-18T00:00:00Z,2,Jorginho Soares,Jorginho Soares,Dutch footballer,Q29999,
+Q11865163,Q6581072,1971-06-15T00:00:00Z,12,Isménia do Frederico,Isménia do Frederico,Cape Verdean athlete,Q1011,Q3751
+Q11957344,Q6581097,1977-12-31T00:00:00Z,8,Nelson Cruz (athlete),Nelson Cruz,Cape Verdean long-distance runner,Q1011,Q597
+Q11958438,Q6581097,1939-12-15T00:00:00Z,4,Antonio Delgado (footballer),António Delgado,Cape Verdean association football player,Q1011,Q1011
+Q119883227,Q6581097,1977-01-22T00:00:00Z,1,Lixa (footballer),Lixa,association football player (born 1977),Q1011,
+Q121437938,Q6581097,2003-01-15T00:00:00Z,6,Jordan Semedo,Jordan Semedo,French footballer (born 2003),Q1011,
+Q121437938,Q6581097,2003-01-15T00:00:00Z,6,Jordan Semedo,Jordan Semedo,French footballer (born 2003),Q142,
+Q12155704,Q6581097,1984-10-27T00:00:00Z,2,Alison Brito,Alison Brito,Cape Verdean association football player,Q1011,Q3751
+Q121907216,Q6581097,2002-05-03T00:00:00Z,21,Hélio Varela,Hélio Varela,Cape Verdean footballer,Q1011,Q328015
+Q121907216,Q6581097,2002-05-03T00:00:00Z,21,Hélio Varela,Hélio Varela,Cape Verdean footballer,Q45,Q328015
+Q121908120,Q6581097,1990-08-28T00:00:00Z,3,Samuel Freire,Samuel Freire,Cape Verdean middle- and long-distance runner,Q1011,Q494726
+Q123018628,Q6581097,1998-05-26T00:00:00Z,2,João Paulino Moreira Fernandes,João Paulino,Cape Verdean footballer,Q1011,Q3122689
+Q123246875,Q6581072,1988-11-11T00:00:00Z,5,Ivanusa Moreira,Nancy Moreira,Cape Verdean boxer (* 1988),Q1011,Q30624712
+Q123286887,Q6581072,1993-05-13T00:00:00Z,5,Ivânia Moreira,Ivânia Moreira,Cape Verden footballer (born 1993),Q1011,Q48783199
+Q123566300,Q6581072,1992-09-14T00:00:00Z,5,Soraia Ramos,Soraia Ramos,singer of Cape Verdean origin,Q1011,Q45
+Q123566300,Q6581072,1992-09-14T00:00:00Z,5,Soraia Ramos,Soraia Ramos,singer of Cape Verdean origin,Q45,Q45
+Q124288111,Q6581097,1997-12-12T00:00:00Z,3,Clé (footballer),Clé,Cape Verdean footballer (born 1997),Q1011,Q2311253
+Q124382289,Q6581097,2002-09-18T00:00:00Z,29,Sidny Lopes Cabral,Sidny Lopes Cabral,Cape Verdean footballer (born 2002),Q1011,Q34370
+Q125265093,Q6581097,1999-04-11T00:00:00Z,1,Hugo Cardoso,Hugo Cardoso,Cape Verdean footballer,Q1011,
+Q1258044,Q6581097,1963-05-30T00:00:00Z,11,Tito Paris,Tito Paris,Cape Verdean musician,Q1011,Q495547
+Q126369438,Q6581097,2002-11-03T00:00:00Z,19,Wagner Pina,Wagner Pina,Cape Verdean footballer (born 2002),Q1011,Q597
+Q126369438,Q6581097,2002-11-03T00:00:00Z,19,Wagner Pina,Wagner Pina,Cape Verdean footballer (born 2002),Q45,Q597
+Q127515090,Q6581097,1996-08-25T00:00:00Z,5,Victor Alvares de Oliveira,Victor Alvares de Oliveira,Cape Verdean foil fencer,Q1011,Q41876
+Q127515090,Q6581097,1996-08-25T00:00:00Z,5,Victor Alvares de Oliveira,Victor Alvares de Oliveira,Cape Verdean foil fencer,Q142,Q41876
+Q130465245,Q6581097,1995-12-29T00:00:00Z,14,Yannick Semedo,Yannick Semedo,Cape Verdean association football player,Q1011,Q3751
+Q131394043,Q6581097,1990-08-17T00:00:00Z,1,Kenneti Mendes,Kenneti Mendes,Cape Verdean basketball player (born 1990),Q1011,
+Q131544979,Q6581072,1969-01-01T00:00:00Z,2,Patti Anahory,Patti Anahory,Cape Verdean architect,Q1011,Q3932
+Q131544979,Q6581072,1969-01-01T00:00:00Z,2,Patti Anahory,Patti Anahory,Cape Verdean architect,Q30,Q3932
+Q133689341,Q6581097,1936-08-25T00:00:00Z,1,Osvaldo Lopes da Silva,,Cape Verdean politician (born 1936),Q1011,
+Q134580058,Q6581097,2004-04-18T00:00:00Z,4,David Moreira,David Moreira,Cape Verdean footballer,Q1011,Q597
+Q134722733,Q6581097,2009-01-28T00:00:00Z,9,Enzo dos Santos,Enzo Duarte,Luxembourgish footballer (born 2009),Q1011,Q32
+Q134722733,Q6581097,2009-01-28T00:00:00Z,9,Enzo dos Santos,Enzo Duarte,Luxembourgish footballer (born 2009),Q32,Q32
+Q134757228,Q6581097,1998-07-20T00:00:00Z,3,Aílson Tavares,Aílson Tavares,Cape Verdean footballer,Q1011,Q3751
+Q134757228,Q6581097,1998-07-20T00:00:00Z,3,Aílson Tavares,Aílson Tavares,Cape Verdean footballer,Q45,Q3751
+Q13581391,Q6581097,1920-01-01T00:00:00Z,5,Armando Zeferino Soares,Armando Zeferino Soares,Cape Verdean musical composer,Q1011,Q7237753
+Q135976305,Q6581097,2000-01-20T00:00:00Z,1,Rúben Pina,Rúben Pina,Cape Verdean footballer,Q1011,
+Q135976570,Q6581097,2005-09-18T00:00:00Z,2,Elson Mendes,Elson Mendes,Cape Verdean footballer,Q1011,
+Q136211119,Q6581097,2004-01-12T00:00:00Z,1,"David Costa (footballer, born 2004)",David Costa,Cape Verdean footballer,Q1011,
+Q138034968,Q6581097,1925-01-01T00:00:00Z,1,Arnaldo Carlos de Vasconcelos França,Arnaldo Carlos de Vasconcelos França,Cape Verdian politician,Q1011,
+Q138657155,Q6581097,1967-02-10T00:00:00Z,2,Olavo Correia,Olavo Correia,Cape Verdean Economist and Politician,Q1011,Q3751
+Q1388327,Q6581097,1978-05-02T00:00:00Z,9,"Pelé (footballer, born 1978)",Pelé,Cape Verdean association football player,Q1011,Q1439211
+Q1388327,Q6581097,1978-05-02T00:00:00Z,9,"Pelé (footballer, born 1978)",Pelé,Cape Verdean association football player,Q45,Q1439211
+Q138971271,Q6581097,1992-11-30T00:00:00Z,2,Líver Gomes,Líver Gomes,Cape Verdean Politician,Q1011,Q497472
+Q1392925,Q6581097,1990-01-08T00:00:00Z,35,Ryan Mendes,Ryan Mendes,Cape Verdean footballer,Q1011,Q495547
+Q1392925,Q6581097,1990-01-08T00:00:00Z,35,Ryan Mendes,Ryan Mendes,Cape Verdean footballer,Q142,Q495547
+Q139592951,Q6581097,1958-01-10T00:00:00Z,2,Pedro Alexandre Rocha,Pedro Alexandre Rocha,Cape Verdean politician and former mayor of Santa Cruz,Q1011,Q497472
+Q139594211,Q6581097,1970-12-04T00:00:00Z,21,Francisco Carvalho,Francisco Carvalho,Cape Verdean politician,Q1011,Q3751
+Q139931785,Q6581097,1966-09-25T00:00:00Z,2,João Carlos Tavares Fidalgo,João Carlos Tavares Fidalgo,"Cape Verdean economist, financial manager and public administrator",Q1011,Q3751
+Q140065866,Q6581072,1994-01-14T00:00:00Z,2,Jónica Brito,,Cape Verdean politician,Q1011,Q3751
+Q141048625,Q6581072,1983-01-11T00:00:00Z,3,Ana Correia da Veiga,Ana Correia da Veiga,Cape Verdean-Luxembourgish politician (born 1983),Q1011,Q1842
+Q141048625,Q6581072,1983-01-11T00:00:00Z,3,Ana Correia da Veiga,Ana Correia da Veiga,Cape Verdean-Luxembourgish politician (born 1983),Q32,Q1842
+Q14371131,Q6581097,1994-08-13T00:00:00Z,23,Steven Moreira,Steven Moreira,Cape Verdean and French footballer,Q1011,Q207605
+Q14371131,Q6581097,1994-08-13T00:00:00Z,23,Steven Moreira,Steven Moreira,Cape Verdean and French footballer,Q142,Q207605
+Q1443944,Q6581097,1931-06-22T00:00:00Z,10,Paulino do Livramento Évora,Paulino do Livramento Évora,Cape Verdean clergyman (1931–2019),Q1011,Q3751
+Q15179479,Q6581097,1978-04-07T00:00:00Z,2,Hernani Almeida,Hernani Almeida,Cape Verdean guitarist,Q1011,Q495547
+Q15517968,Q6581097,1989-09-17T00:00:00Z,4,Steevan Dos Santos,Steevan dos Santos,Cape Verdean association football player,Q1011,Q495547
+Q15987794,Q6581097,1978-03-15T00:00:00Z,4,Flávio Furtado,Flávio Furtado,Cape Verdean boxer,Q1011,
+Q15991762,Q6581097,1987-11-25T00:00:00Z,8,Ericson Silva,Ericson Silva,Cape Verdean association football player,Q1011,Q112031
+Q16164967,Q6581097,1989-05-10T00:00:00Z,7,Ivan Almeida,Ivan Almeida,Cape Verdean basketball player (born 1989),Q1011,Q3751
+Q16164967,Q6581097,1989-05-10T00:00:00Z,7,Ivan Almeida,Ivan Almeida,Cape Verdean basketball player (born 1989),Q45,Q3751
+Q16209263,Q6581097,1977-03-20T00:00:00Z,5,Alfayaya Embalo,Alfayaya Embalo,Cape Verdean athlete (* 1977),Q1011,
+Q16210158,Q6581097,1987-03-13T00:00:00Z,1,Denielsan Martins,Denielsan Martins,Cape Verdean sprinter,Q1011,
+Q16210158,Q6581097,1987-03-16T00:00:00Z,1,Denielsan Martins,Denielsan Martins,Cape Verdean sprinter,Q1011,
+Q16210158,Q6581097,1992-12-30T00:00:00Z,1,Denielsan Martins,Denielsan Martins,Cape Verdean sprinter,Q1011,
+Q16210681,Q6581072,1975-04-06T00:00:00Z,3,Sónia Lopes,Sonia Lopes,Cape Verdean athlete,Q1011,
+Q16211930,Q6581072,1989-03-22T00:00:00Z,3,Eva Pereira,Eva Pereira,Cape Verdean athlete,Q1011,
+Q16212571,Q6581072,1987-04-21T00:00:00Z,4,Lenira Santos,Lenira Santos,Cape Verdean athlete,Q1011,
+Q16222113,Q6581097,1982-04-06T00:00:00Z,1,Euclides Varela,Euclides Varela,Cape Verdean athlete,Q1011,
+Q16231672,Q6581097,1987-11-16T00:00:00Z,8,"Brito (footballer, born 1987)",Armindo Rodrigues Mendes Furtado,Cape Verdean association football player,Q1011,Q933912
+Q16233817,Q6581097,1991-12-18T00:00:00Z,12,Ricardo Gomes (Cape Verdean footballer),Ricardo Jorge Pires Gomes,Cape Verdean association football player,Q1011,Q3751
+Q16234775,Q6581097,1992-01-10T00:00:00Z,3,Mailó,Mailó,Cape Verdean association football player,Q1011,Q112031
+Q16234962,Q6581097,1992-03-25T00:00:00Z,10,Nuno Rocha (Cape Verdean footballer),Nuno Rocha,Cape Verdean association football player,Q1011,Q3751
+Q16235304,Q6581097,1993-01-22T00:00:00Z,8,Kukula (footballer),Erson Stiven Dias Costa,Cape Verdean association football player,Q1011,Q112232
+Q16266834,Q6581072,1919-01-06T00:00:00Z,6,Dona Tututa,Dona Tututa,Cape Verdean pianist,Q1011,Q495547
+Q16269557,Q6581072,1958-01-01T00:00:00Z,8,Cristina Fontes Lima,Cristina Fontes Lima,Cape Verdean politician,Q1011,Q3751
+Q1633751,Q6581097,1976-10-02T00:00:00Z,10,Freddy dos Santos,Freddy dos Santos,Norwegian association football player,Q1011,Q585
+Q1633751,Q6581097,1976-10-02T00:00:00Z,10,Freddy dos Santos,Freddy dos Santos,Norwegian association football player,Q20,Q585
+Q1658375,Q6581097,1964-12-13T00:00:00Z,10,Ildo Augusto Dos Santos Lopes Fortes,Ildo Fortes,Cape Verdean bishop,Q1011,Q111989
+Q16622999,Q6581097,1992-03-22T00:00:00Z,24,Edy Tavares,Edy Tavares,Cape Verdean basketball player (born 1992),Q1011,Q492551
+Q16728820,Q6581097,1990-11-04T00:00:00Z,6,Ely Fernandes,Ely Fernandes,Cape Verdean association football player,Q1011,Q1011
+Q16736703,Q6581097,1991-01-01T00:00:00Z,5,Edivândio,Edivândio,Cape Verdean footballer,Q1011,Q495547
+Q16738976,Q6581097,1994-07-15T00:00:00Z,3,Jimmy Ines,Jimmy Ines,Cape Verdean footballer (born 1994),Q1011,Q3751
+Q17024697,Q6581072,1959-05-29T00:00:00Z,11,Maria Helena Semedo,Maria Helena Semedo,Cape Verdean economist,Q1011,Q1011
+Q1709761,Q6581097,1912-10-01T00:00:00Z,4,Jotamont,Jotamont,Cape Verdean composer (1912-1998),Q1011,
+Q17098221,Q6581097,1991-04-10T00:00:00Z,5,Jorge Kadú,Jorge Kadú,Cape Verdean association football player,Q1011,Q495547
+Q17190299,Q6581097,1979-12-01T00:00:00Z,3,Elizio,Elizio,"singer-songwriter born in Angola in 1979, of Cape Verdean origin",Q1011,Q3897
+Q17190299,Q6581097,1979-12-01T00:00:00Z,3,Elizio,Elizio,"singer-songwriter born in Angola in 1979, of Cape Verdean origin",Q916,Q3897
+Q17285552,Q6581097,1986-12-04T00:00:00Z,2,Aires Marques,Aires Marques,Cape Verdean association football player,Q1011,
+Q17350585,Q6581097,1992-04-17T00:00:00Z,12,Steven Fortès,Steven Fortes,French association football player,Q1011,Q23482
+Q17350585,Q6581097,1992-04-17T00:00:00Z,12,Steven Fortès,Steven Fortes,French association football player,Q142,Q23482
+Q17466350,Q6581097,1989-08-02T00:00:00Z,9,Kuca (footballer),Kuca Miranda,Cape Verdean association football player,Q1011,Q3751
+Q17484196,Q6581097,1997-06-20T00:00:00Z,28,Jordan Larsson,Jordan Larsson,Swedish association football player,Q1011,Q34370
+Q17484196,Q6581097,1997-06-20T00:00:00Z,28,Jordan Larsson,Jordan Larsson,Swedish association football player,Q29999,Q34370
+Q17484196,Q6581097,1997-06-20T00:00:00Z,28,Jordan Larsson,Jordan Larsson,Swedish association football player,Q34,Q34370
+Q17489564,Q6581097,1988-10-29T00:00:00Z,4,Adilson Vaz,Adilson Vaz,Cape Verdean footballer (born 1988),Q1011,Q1011
+Q17490130,Q6581097,1960-05-22T00:00:00Z,4,Mirri Lobo,Mirri Lobo,"Cape Verdean singer, composer and producer",Q1011,Q486580
+Q17544304,Q6581097,1966-01-17T00:00:00Z,8,António Zeferino,António Zeferino,Cape Verdean athlete,Q1011,
+Q17556339,Q6581097,1938-12-13T00:00:00Z,5,Claude Constantino,Claude Constantino,Senegalese basketball player (born 1938),Q1011,Q3718
+Q17556339,Q6581097,1938-12-13T00:00:00Z,5,Claude Constantino,Claude Constantino,Senegalese basketball player (born 1938),Q1041,Q3718
+Q17560793,Q6581097,1995-05-11T00:00:00Z,40,Gelson Martins,Gelson Martins,Portuguese and Cape-Verdean association football player,Q1011,Q3751
+Q17560793,Q6581097,1995-05-11T00:00:00Z,40,Gelson Martins,Gelson Martins,Portuguese and Cape-Verdean association football player,Q45,Q3751
+Q17579869,Q6581097,1987-06-09T00:00:00Z,3,"Ballack (footballer, born 1987)",Ballack,Cape Verdean association football player,Q1011,Q497019
+Q1763902,Q6581097,1985-09-07T00:00:00Z,9,Jeff Xavier,Jeff Xavier,Cape Verdean basketball player (born 1985),Q1011,Q49200
+Q1763902,Q6581097,1985-09-07T00:00:00Z,9,Jeff Xavier,Jeff Xavier,Cape Verdean basketball player (born 1985),Q30,Q49200
+Q17708723,Q6581097,1990-11-22T00:00:00Z,2,Kisley,Kisley,Cape Verdean association football player,Q1011,Q1011
+Q17859786,Q6581097,1995-01-27T00:00:00Z,6,Thierry Graça,Thierry Graça,Cape Verdean association football player,Q1011,Q495547
+Q18011163,Q6581097,1997-02-19T00:00:00Z,17,Christopher Martins,Christopher Martins,Luxembourgish association football player,Q1011,Q1842
+Q18011163,Q6581097,1997-02-19T00:00:00Z,17,Christopher Martins,Christopher Martins,Luxembourgish association football player,Q32,Q1842
+Q18243135,Q6581072,1940-09-10T00:00:00Z,7,Celina Pereira,Celina Pereira,"Cape Verdean singer, educator and storyteller",Q1011,Q110440
+Q18276701,Q6581097,1948-01-01T00:00:00Z,8,Leão Lopes,Leão Lopes,"Cape Verdean film director, writer, plastic artist and professor",Q1011,Q3122689
+Q1858323,Q6581097,1987-03-31T00:00:00Z,13,Odaïr Fortes,Odaïr Fortes,Cape Verdean association football player,Q1011,Q3751
+Q18637916,Q6581097,1995-01-13T00:00:00Z,11,Carlos Ponck,Carlos Ponck,Cape Verdean footballer (born 1995),Q1011,Q495547
+Q18713196,Q6581097,1994-06-06T00:00:00Z,10,Kevin Sousa (footballer),Kevin Sousa,Cape Verdean association football player,Q1011,Q3751
+Q18814713,Q6581097,1983-09-20T00:00:00Z,11,Carlos Lima,Carlos Lima,Cape Verdean footballer,Q1011,Q3751
+Q18857087,Q6581072,1980-05-09T00:00:00Z,4,Rosângela Lagos,Rosângela Lagos,Cape Verdean basketball player (born 1980),Q1011,Q3751
+Q1891504,Q6581097,1938-11-01T00:00:00Z,4,Manuel Figueira,Manuel Figueira,Cape Verdean painter,Q1011,Q112031
+Q19365008,Q6581097,1996-01-05T00:00:00Z,4,Ailton (Cape Verdean footballer),Ailton César Duarte Silva,Cape Verdean association football player,Q1011,Q495547
+Q1957070,Q6581097,1964-10-21T00:00:00Z,5,Mário Lúcio,Mário Lúcio Sousa,"Cape Verdean musician, writer and painter",Q1011,Q2311253
+Q1963953,Q6581072,1987-05-09T00:00:00Z,10,Adysângela Moniz,Adysângela Moniz,Cape Verdean Olympic judoka,Q1011,Q108448
+Q1984801,Q6581097,1922-09-20T00:00:00Z,5,Aguinaldo Fonseca,Aguinaldo Fonseca,Cape Verdean poet (1922-2014),Q1011,Q495547
+Q1984801,Q6581097,1992-09-12T00:00:00Z,5,Aguinaldo Fonseca,Aguinaldo Fonseca,Cape Verdean poet (1922-2014),Q1011,Q495547
+Q19903435,Q6581072,1982-02-23T00:00:00Z,8,Eileen Barbosa,Eileen Barbosa,Cape Verdean writer,Q1011,Q648842
+Q20065314,Q6581097,1993-02-09T00:00:00Z,13,Patrick Andrade,Patrick Andrade,Cape Verdean association football player,Q1011,Q3751
+Q2006892,Q6581097,1985-04-05T00:00:00Z,7,"Fábio Silva (footballer, born 1985)",Fábio Emanuel Moreira Silva,Cape Verdean and Portuguese association football player,Q1011,Q597
+Q2006892,Q6581097,1985-04-05T00:00:00Z,7,"Fábio Silva (footballer, born 1985)",Fábio Emanuel Moreira Silva,Cape Verdean and Portuguese association football player,Q45,Q597
+Q2060958,Q6581097,1968-12-03T00:00:00Z,7,John DeBrito,John DeBrito,American soccer player (1968-2020),Q1011,Q492509
+Q2060958,Q6581097,1968-12-03T00:00:00Z,7,John DeBrito,John DeBrito,American soccer player (1968-2020),Q30,Q492509
+Q2067333,Q6581097,1988-11-14T00:00:00Z,18,Héldon Ramos,Héldon Ramos,Cape Verdean association football player,Q1011,Q111989
+Q20676495,Q6581097,1997-02-28T00:00:00Z,25,Laros Duarte,Laros Duarte,Cape Verdean association football player,Q1011,Q34370
+Q20676495,Q6581097,1997-02-28T00:00:00Z,25,Laros Duarte,Laros Duarte,Cape Verdean association football player,Q29999,Q34370
+Q2068357,Q6581097,1985-07-27T00:00:00Z,16,Babanco,Babanco,Cape Verdean association football player,Q1011,Q3751
+Q2071467,Q6581097,1988-05-01T00:00:00Z,8,Helton Dos Reis,Helton dos Reis,Cape Verdean French association football player,Q1011,Q456
+Q2071467,Q6581097,1988-05-01T00:00:00Z,8,Helton Dos Reis,Helton dos Reis,Cape Verdean French association football player,Q142,Q456
+Q20750237,Q6581072,1971-01-01T00:00:00Z,7,Ana Rocha Fernandes,Ana R. Fernandes,"Cape Verdean director, screenwriter and film editor",Q1011,Q108448
+Q21075950,Q6581072,1962-09-02T00:00:00Z,9,Cristina Duarte,Cristina Duarte,Cape Verdean politician,Q1011,Q597
+Q21075950,Q6581072,1962-09-02T00:00:00Z,9,Cristina Duarte,Cristina Duarte,Cape Verdean politician,Q45,Q597
+Q21531045,Q6581097,1995-12-16T00:00:00Z,4,Flavio Dos Santos Dias,Flávio dos Santos Dias,Cape Verdean association football player,Q1011,Q1011
+Q21622379,Q6581097,1997-07-15T00:00:00Z,7,Erin Pinheiro,Erin Pinheiro,Cape Verdean association football player,Q1011,Q112031
+Q21642426,Q6581097,1986-01-11T00:00:00Z,2,Djô,Djô,Cape Verdean Portuguese futsal player,Q1011,Q3751
+Q2180988,Q6581097,1966-03-16T00:00:00Z,6,David Nascimento,David Nascimento,Cape Verdean - Portuguese association footballer and football manager,Q1011,Q648842
+Q2180988,Q6581097,1966-03-16T00:00:00Z,6,David Nascimento,David Nascimento,Cape Verdean - Portuguese association footballer and football manager,Q45,Q648842
+Q21932030,Q6581097,1967-01-30T00:00:00Z,3,António Duarte,António Duarte,Cape Verdean association football player,Q1011,Q3751
+Q22931985,Q6581097,1985-10-11T00:00:00Z,5,Joel Almeida (basketball),Joel Almeida,Cape Verdean basketball player (born 1985),Q1011,Q648842
+Q22931985,Q6581097,1985-10-11T00:00:00Z,5,Joel Almeida (basketball),Joel Almeida,Cape Verdean basketball player (born 1985),Q45,Q648842
+Q23007684,Q6581097,1991-02-10T00:00:00Z,23,Nuno da Costa,Nuno da Costa,Cape Verdean association football player,Q1011,Q3751
+Q2347323,Q6581097,1978-07-10T00:00:00Z,4,Silvino Soares,Silvino Gomes Soares,Cape Verdean association football player,Q1011,Q990433
+Q2347323,Q6581097,1978-07-10T00:00:00Z,4,Silvino Soares,Silvino Gomes Soares,Cape Verdean association football player,Q45,Q990433
+Q23540939,Q6581097,2000-01-01T00:00:00Z,2,Felisberto Cardoso,Felisberto Cardoso,Cape Verdean association football manager,Q1011,Q1011
+Q23541080,Q6581097,1993-11-23T00:00:00Z,26,Jamiro Monteiro,Jamiro Monteiro,Cape Verdean footballer,Q1011,Q34370
+Q23541080,Q6581097,1993-11-23T00:00:00Z,26,Jamiro Monteiro,Jamiro Monteiro,Cape Verdean footballer,Q29999,Q34370
+Q2362902,Q6581097,1989-03-22T00:00:00Z,13,Jeffry Fortes,Jeffrey Fortes,Dutch footballer,Q1011,Q34370
+Q2362902,Q6581097,1989-03-22T00:00:00Z,13,Jeffry Fortes,Jeffrey Fortes,Dutch footballer,Q29999,Q34370
+Q23771910,Q6581097,1996-01-02T00:00:00Z,3,Platiny Alves,Platiny Alves,Cape Verdean association football player,Q1011,Q1011
+Q23771913,Q6581097,1996-01-10T00:00:00Z,10,Vagner Gonçalves (Cape Verdean footballer),Vagner Gonçalves,Cape Verdean footballer,Q1011,Q495547
+Q23771913,Q6581097,1999-01-01T00:00:00Z,10,Vagner Gonçalves (Cape Verdean footballer),Vagner Gonçalves,Cape Verdean footballer,Q1011,Q495547
+Q23771915,Q6581097,1995-01-01T00:00:00Z,2,Rony Cruz,Ronivaldo Cruz,Cape Verdean association football player,Q1011,Q1011
+Q23799874,Q6581097,1994-05-08T00:00:00Z,8,Ludovic Soares,Ludovic Soares,Cape Verdean and French association football player,Q1011,Q206165
+Q23799874,Q6581097,1994-05-08T00:00:00Z,8,Ludovic Soares,Ludovic Soares,Cape Verdean and French association football player,Q142,Q206165
+Q23899522,Q6581097,1962-06-04T00:00:00Z,43,Ulisses Correia e Silva,Ulisses Correia e Silva,Cape Verdean politician,Q1011,Q3751
+Q2391518,Q6581097,1939-01-01T00:00:00Z,2,Silvino Manuel da Luz,Silvino Manuel da Luz,Cape Verdean politician,Q1011,
+Q2398085,Q6581097,1953-01-01T00:00:00Z,2,Tchalé Figueira,Carlos Figueira,Cape Verdean Swiss painter,Q1011,Q112031
+Q2398085,Q6581097,1953-01-01T00:00:00Z,2,Tchalé Figueira,Carlos Figueira,Cape Verdean Swiss painter,Q39,Q112031
+Q2404000,Q6581097,1964-01-07T00:00:00Z,11,Teodoro Mendes Tavares,Teodoro Mendes Tavares,Brazilian Roman-Catholic bishop,Q1011,Q494874
+Q24061140,Q6581097,1995-01-15T00:00:00Z,4,Félix Mathaus,Félix Mathaus,Cape Verdean association football player,Q1011,Q110440
+Q24260171,Q6581097,1992-05-05T00:00:00Z,12,Jordin Andrade,Jordin Andrade,American-Cape Verdean male hurdler,Q1011,Q5083
+Q24260171,Q6581097,1992-05-05T00:00:00Z,12,Jordin Andrade,Jordin Andrade,American-Cape Verdean male hurdler,Q30,Q5083
+Q24565805,Q6581072,1944-02-22T00:00:00Z,14,Isaura Gomes,Isaura Gomes,Cape Verdean politician and pharmacist,Q1011,Q108448
+Q2466155,Q6581097,1956-05-14T00:00:00Z,6,Vasco Martins,Vasco Martins,Cape Verdean musician,Q1011,Q1003060
+Q2481755,Q6581072,1961-02-03T00:00:00Z,7,Maria de Barros,Maria de Barros,Cape Verdean singer,Q1011,Q3718
+Q2482176,Q6581097,1985-05-28T00:00:00Z,12,Rui da Gracia,Rui da Gracia Gomes,association football player,Q1011,Q1157834
+Q2482176,Q6581097,1985-05-28T00:00:00Z,12,Rui da Gracia,Rui da Gracia Gomes,association football player,Q29,Q1157834
+Q24835133,Q6581072,1993-03-19T00:00:00Z,10,Maria Andrade,Maria Andrade,Cape Verdean taekwondo athlete (* 1993),Q1011,Q112031
+Q2510644,Q6581097,1977-08-21T00:00:00Z,4,Vargas Fernandes,Vargas Fernandes,Cape Verdean association football player,Q1011,Q3751
+Q2513023,Q6581097,1986-10-11T00:00:00Z,11,"David Silva (footballer, born October 1986)",David Silva,Cape Verdean association football player,Q1011,Q45412
+Q2524478,Q6581097,1977-02-04T00:00:00Z,11,Sandro Mendes,Sandro Mendes,footballer,Q1011,Q173699
+Q2524478,Q6581097,1977-02-04T00:00:00Z,11,Sandro Mendes,Sandro Mendes,footballer,Q45,Q173699
+Q2604164,Q6581097,1941-01-29T00:00:00Z,13,Arménio Vieira,Arménio Vieira,Cape Verdean journalist,Q1011,Q3751
+Q2604164,Q6581097,1941-01-24T00:00:00Z,13,Arménio Vieira,Arménio Vieira,Cape Verdean journalist,Q1011,Q3751
+Q2611473,Q6581097,1938-12-24T00:00:00Z,5,Manuel de Novas,Manuel de Novas,Cape Verdean musician and poet (1938-2009),Q1011,Q112232
+Q2636281,Q6581097,1907-12-23T00:00:00Z,10,Manuel Lopes (writer),Manuel Lopes,"Cape Verdean novelist, poet and essayist (1907-2005)",Q1011,Q495547
+Q2654702,Q6581097,1949-11-15T00:00:00Z,25,Arlindo Gomes Furtado,Arlindo Gomes Furtado,Cape Verdean Catholic cardinal (born 1949),Q1011,Q494882
+Q26704562,Q6581097,1998-06-14T00:00:00Z,24,Jovane Cabral,Jovane Cabral,Cape Verdean association football player,Q1011,Q490573
+Q2679968,Q6581097,1988-02-24T00:00:00Z,9,Gegé,Gégé,Cape Verdean association football player,Q1011,Q108448
+Q26964640,Q6581072,1953-12-01T00:00:00Z,8,Georgina Mello,Georgina Mello,Cape Verdean economist and general director of the CPLP,Q1011,Q495547
+Q2699502,Q6581097,1987-11-26T00:00:00Z,20,Fernando Varela (Cape Verdean footballer),Fernando Varela,Cape Verdean footballer,Q1011,Q273059
+Q2702284,Q6581097,1975-02-03T00:00:00Z,10,Lito (Cape Verdean footballer),Lito,Cape Verdean association football player,Q1011,Q3751
+Q2702284,Q6581097,1975-02-03T00:00:00Z,10,Lito (Cape Verdean footballer),Lito,Cape Verdean association football player,Q45,Q3751
+Q27061801,Q6581072,1944-06-13T00:00:00Z,7,Tuna Mascarenhas,Tuna Mascarenhas,"Cape Verdean chemist and researcher, and former first lady of Cape Verde (1944-2009)",Q1011,
+Q27063024,Q6581072,1993-02-15T00:00:00Z,7,Elida Almeida,Élida Almeida,Cape Verdean singer,Q1011,Q490579
+Q27077739,Q6581072,1933-08-24T00:00:00Z,7,Dulce Almada Duarte,Dulce Almada Duarte,Cape Verdean linguist and former resistance fighter,Q1011,Q495547
+Q273343,Q6581072,1940-01-01T00:00:00Z,8,Bela Duarte,Bela Duarte,Cape Verdean visual artist,Q1011,Q112031
+Q2742945,Q6581097,1979-11-30T00:00:00Z,7,Janício Martins,Janício Martins,Cape Verdean association football player,Q1011,Q499598
+Q27517445,Q6581097,1962-03-15T00:00:00Z,3,Jorge Santos,Jorge Santos,Cape Verdean politician,Q1011,Q3023340
+Q2753734,Q6581097,1991-03-21T00:00:00Z,20,Djaniny,Djaniny Tavares,Cape Verdean association football player,Q1011,Q497472
+Q2761434,Q6581097,1984-06-16T00:00:00Z,10,Marco Soares (footballer),Marco Soares,Footballer (born 1984),Q1011,Q173699
+Q2761434,Q6581097,1984-06-16T00:00:00Z,10,Marco Soares (footballer),Marco Soares,Footballer (born 1984),Q45,Q173699
+Q27676349,Q6581072,1978-09-27T00:00:00Z,11,Janira Hopffer Almada,Janira Hopffer Almada,Cape Verdean politician,Q1011,Q3751
+Q2822163,Q6581097,1931-02-16T00:00:00Z,6,Abílio Duarte,Abílio Duarte,Cape Verdean politician (1931-1996),Q1011,Q3751
+Q2843337,Q6581097,1948-09-08T00:00:00Z,3,Amílcar Spencer Lopes,Amílcar Spencer Lopes,"Cape Verdean politician, lawyer and diplomat",Q1011,Q747221
+Q2857319,Q6581097,1948-01-05T00:00:00Z,2,Antonio Pedro Monteiro Lima,Antonio Pedro Monteiro Lima,Senegalese poet,Q1011,Q3718
+Q2857319,Q6581097,1948-01-05T00:00:00Z,2,Antonio Pedro Monteiro Lima,Antonio Pedro Monteiro Lima,Senegalese poet,Q1041,Q3718
+Q2857768,Q6581097,1951-04-26T00:00:00Z,2,António do Espírito Santo Fonseca,António do Espírito Santo Fonseca,Cape Verdean politician,Q1011,Q1355642
+Q2861382,Q6581097,1955-08-31T00:00:00Z,5,Aristides Lima,Aristides Lima,Cape Verdean politician,Q1011,Q110440
+Q28717734,Q6581072,1999-05-23T00:00:00Z,7,Arianne Duarte Morais,Arianne Duarte Morais,Norwegian athletics competitor,Q1011,Q585
+Q28717734,Q6581072,1999-05-23T00:00:00Z,7,Arianne Duarte Morais,Arianne Duarte Morais,Norwegian athletics competitor,Q20,Q585
+Q2885546,Q6581097,1948-03-27T00:00:00Z,7,Manuel Veiga (writer),Manuel Veiga,Cape Verdean writer and linguist,Q1011,Q494882
+Q2887747,Q6581097,1952-01-17T00:00:00Z,5,Basílio Ramos,Basílio Ramos,Cape Verdean politician,Q1011,Q111989
+Q28970917,Q6581097,2000-01-03T00:00:00Z,12,Kenny Rocha,Kenny Rocha Santos,Cape Verdean association football player,Q1011,Q112031
+Q29054778,Q6581097,1988-08-29T00:00:00Z,10,Delmiro,Delmiro,Cape Verde association football player,Q1011,Q495547
+Q29054778,Q6581097,1988-08-29T00:00:00Z,10,Delmiro,Delmiro,Cape Verde association football player,Q29,Q495547
+Q2908904,Q6581097,1982-07-25T00:00:00Z,7,Fock (footballer),Fredson Tavares,Cape Verdean association football player,Q1011,Q112031
+Q2908923,Q6581097,1986-04-16T00:00:00Z,13,Platini (Cape Verdean footballer),Luís Carlos Almada Soares,Cape Verdean association football player,Q1011,Q3751
+Q29343408,Q6581097,1990-03-23T00:00:00Z,4,Wuilito Fernandes,Wuilito Fernandes,Cape Verdean footballer,Q1011,Q3751
+Q2939374,Q6581097,1970-12-07T00:00:00Z,3,Piguita,Piguita,Cape Verdean association football player,Q1011,Q3751
+Q29461343,Q6581097,1990-05-12T00:00:00Z,6,Gilson Varela,Gilson Varela,association football player,Q1011,Q3751
+Q298609,Q6581097,1923-11-17T00:00:00Z,45,Aristides Pereira,Aristides Pereira,"Cape Verdean politician, and first president of Cape Verde (1923-2011)",Q1011,Q110440
+Q2998046,Q6581097,1933-02-14T00:00:00Z,6,Corsino Fortes,Corsino Fortes,Cape Verdean diplomat,Q1011,Q495547
+Q30053088,Q6581097,1998-01-24T00:00:00Z,4,Diogo Mendes,Diogo Mendes,Portuguese association football player (b. 1998),Q1011,Q159457
+Q30053088,Q6581097,1998-01-24T00:00:00Z,4,Diogo Mendes,Diogo Mendes,Portuguese association football player (b. 1998),Q45,Q159457
+Q3015796,Q6581097,1983-03-17T00:00:00Z,3,Dany Mendes Ribeiro,Dany,Cape Verdean footballer (born 1988),Q1011,Q111989
+Q3018091,Q6581097,1986-06-03T00:00:00Z,53,Vozinha,Vozinha,Cape Verdean association football player (born 1986),Q1011,Q495547
+Q3019134,Q6581097,1986-04-14T00:00:00Z,3,Bijou (footballer),Bijou,Cape Verdean association football player,Q1011,Q3751
+Q3066633,Q6581072,1965-10-14T00:00:00Z,7,Fantcha,Fantcha,Cape Verdean singer,Q1011,Q495547
+Q3066633,Q6581072,1965-10-15T00:00:00Z,7,Fantcha,Fantcha,Cape Verdean singer,Q1011,Q495547
+Q3073182,Q6581072,1924-10-08T00:00:00Z,13,Orlanda Amarílis,Orlanda Amarílis,Cape Verdean writer (1924–2014),Q1011,Q490573
+Q3078307,Q6581097,1966-10-09T00:00:00Z,8,Lúcio Antunes,Lúcio Antunes,Cape Verdean association football manager,Q1011,Q3751
+Q3078790,Q6581097,1985-04-23T00:00:00Z,9,"Carlitos (footballer, born April 1985)",Carlitos,Cape Verdean association football player,Q1011,Q328015
+Q3087242,Q6581097,1988-01-31T00:00:00Z,3,Fredson Rodrigues,Fredson Rodrigues,Cape Verdean association football player,Q1011,Q648842
+Q30937895,Q6581072,1990-09-11T00:00:00Z,9,Samira Vera-Cruz,Samira Vera-Cruz,Cape Verdean filmmaker,Q1011,Q495547
+Q3105937,Q6581097,1986-04-18T00:00:00Z,5,Gilberto Reis,Gilberto Reis,Cape Verdean association football player,Q1011,Q45412
+Q3132546,Q6581097,1919-09-09T00:00:00Z,8,Henrique Teixeira de Sousa,Henrique Teixeira de Sousa,Cape Verdean writer (1919–2006),Q1011,Q7665600
+Q3157448,Q6581097,1975-08-17T00:00:00Z,2,Jacky Brown,Jacky Brown,French rapper and singer,Q1011,Q90
+Q3157448,Q6581097,1975-08-17T00:00:00Z,2,Jacky Brown,Jacky Brown,French rapper and singer,Q142,Q90
+Q3177450,Q6581097,1983-11-01T00:00:00Z,4,Jerry Adriano,Jerry Adriano,Cape Verdean association football player,Q1011,Q3751
+Q3186585,Q6581097,1976-12-18T00:00:00Z,6,José Veiga,José Veiga,Cape Verdean association football player,Q1011,Q597
+Q3186585,Q6581097,1976-12-18T00:00:00Z,6,José Veiga,José Veiga,Cape Verdean association football player,Q45,Q597
+Q3186585,Q6581097,1976-12-10T00:00:00Z,6,José Veiga,José Veiga,Cape Verdean association football player,Q1011,Q597
+Q3186585,Q6581097,1976-12-10T00:00:00Z,6,José Veiga,José Veiga,Cape Verdean association football player,Q45,Q597
+Q3187331,Q6581097,1937-06-07T00:00:00Z,5,João Vário,João Vário,Cape Verdean writer (1937-2007),Q1011,Q495547
+Q3195582,Q6581072,1957-06-22T00:00:00Z,14,Fátima Veiga,Fátima Veiga,Cape Verdean politician and diplomat (* 1957),Q1011,Q112031
+Q3229759,Q6581097,1952-05-17T00:00:00Z,3,Leonel Almeida,Leonel Almeida,Cape Verdean singer (born 1952),Q1011,Q112031
+Q3268211,Q6581097,1944-05-17T00:00:00Z,6,Luís de Matos Monteiro da Fonseca,Luís de Matos Monteiro da Fonseca,Cape Verdean politician,Q1011,Q768314
+Q327163,Q6581097,1974-10-25T00:00:00Z,6,Gil Semedo,Gil Semedo,Cape Verdean musician,Q1011,Q3751
+Q327180,Q6581097,1928-09-17T00:00:00Z,6,Ovídio Martins,Ovídio Martins,Cape Verdean poet (1928-1999),Q1011,Q495547
+Q32844230,Q6581072,1945-01-26T00:00:00Z,9,Paula Fortes,Paula Fortes,Cape Verdean politician and activist (1945-2011),Q1011,Q495547
+Q3286832,Q6581097,1987-03-18T00:00:00Z,5,Gilson Silva,Gilson Manuel Silva Alves,Cape Verdean association football player,Q1011,Q426555
+Q336265,Q6581097,1944-02-16T00:00:00Z,34,António Mascarenhas Monteiro,Antonio Mascarenhas Monteiro,Cape Verdean politician and former president of Cape Verde (1944-2016),Q1011,Q7322293
+Q3369909,Q6581097,1986-12-13T00:00:00Z,9,Ruben Sança,Ruben Sança,Cape Verdean long-distance runner,Q1011,Q497445
+Q3378897,Q6581072,1986-08-09T00:00:00Z,13,Wania Monteiro,Wania Monteiro,Cape Verdean rhythmic gymnast,Q1011,Q494882
+Q3438255,Q6581097,1980-05-05T00:00:00Z,6,Rodolfo Lima,Rodolfo Lima,Cape Verdean association football player,Q1011,Q273059
+Q3438255,Q6581097,1980-05-05T00:00:00Z,6,Rodolfo Lima,Rodolfo Lima,Cape Verdean association football player,Q45,Q273059
+Q3441821,Q6581097,1978-12-07T00:00:00Z,6,Ronny Souto,Ronny Souto,Cape Verdean footballer (born 1978),Q1011,Q173699
+Q349126,Q6581097,1990-08-11T00:00:00Z,16,Lerin Duarte,Lerin Duarte,Cape Verdean Dutch association football player,Q1011,Q34370
+Q349126,Q6581097,1990-08-11T00:00:00Z,16,Lerin Duarte,Lerin Duarte,Cape Verdean Dutch association football player,Q29999,Q34370
+Q349513,Q6581097,1982-07-11T00:00:00Z,7,Emerson da Luz,Emerson da Luz,Cape Verdean association football player,Q1011,Q495547
+Q3499698,Q6581097,1972-05-21T00:00:00Z,9,Stomy Bugsy,Stomy Bugsy,French-Capeverdean rapper,Q1011,Q275118
+Q3499698,Q6581097,1972-05-21T00:00:00Z,9,Stomy Bugsy,Stomy Bugsy,French-Capeverdean rapper,Q142,Q275118
+Q3531484,Q6581097,1950-01-01T00:00:00Z,4,Tomé Varela da Silva,Tomé Varela da Silva,Cape Verdean anthropologist,Q1011,Q3509828
+Q3553168,Q6581097,1977-01-31T00:00:00Z,6,Vadú,Vadú,musical artist (1977–2010),Q1011,Q3751
+Q3557131,Q6581097,1989-10-04T00:00:00Z,7,Rambé,Rambé,Cape Verdean association football player,Q1011,Q112031
+Q3564444,Q6581097,1955-05-24T00:00:00Z,2,Víctor Borges,Víctor Borges,Cape Verdean politician,Q1011,Q490573
+Q3564478,Q6581097,1977-06-15T00:00:00Z,4,"Toy (footballer, born 1977)",Toy,Cape Verdean association football player,Q1011,Q597
+Q357286,Q6581097,1988-10-22T00:00:00Z,13,Cabral (footballer),Adilson Tavares Varela,Cape Verdean Swiss association football player,Q1011,Q3751
+Q357286,Q6581097,1988-10-22T00:00:00Z,13,Cabral (footballer),Adilson Tavares Varela,Cape Verdean Swiss association football player,Q39,Q3751
+Q3618344,Q6581097,1974-12-17T00:00:00Z,3,Jair (Cape Verdean footballer),Anselmo Ribeiro,Cape Verdean footballer (born 1974),Q1011,Q1011
+Q3702720,Q6581097,1988-07-10T00:00:00Z,12,"Nivaldo (footballer, born July 1988)",Nivaldo Alves Freitas Santos,Cape Verdean association football player,Q1011,Q492509
+Q3743498,Q6581097,1951-06-22T00:00:00Z,3,Manuel Inocêncio Sousa,Manuel Inocêncio Sousa,Cape Verdean politician,Q1011,Q495547
+Q38066604,Q6581097,1994-05-29T00:00:00Z,11,Mailson Lima,Mailson Lima Duarte Lopes,Cape Verdean Dutch association football player,Q1011,Q36600
+Q38066604,Q6581097,1994-05-29T00:00:00Z,11,Mailson Lima,Mailson Lima Duarte Lopes,Cape Verdean Dutch association football player,Q29999,Q36600
+Q3810574,Q6581097,1964-11-06T00:00:00Z,7,José Rui,José Rui,Cape Verdean footballer (born 1964),Q1011,Q3751
+Q3812999,Q6581072,1965-03-08T00:00:00Z,9,Karin Mensah,Karin Mensah,Cape Verdean singer,Q1011,Q3718
+Q38195734,Q6581097,1994-11-22T00:00:00Z,13,Steve Furtado,Steve Furtado,French association football player,Q1011,Q331087
+Q38195734,Q6581097,1994-11-22T00:00:00Z,13,Steve Furtado,Steve Furtado,French association football player,Q142,Q331087
+Q387172,Q6581097,1991-01-24T00:00:00Z,24,Zé Luís,Zé Luís,Cape Verdean association football player,Q1011,Q426555
+Q387722,Q6581097,1989-08-02T00:00:00Z,11,Josimar Lima,Josimar Lima,Cape Verdean association football player,Q1011,Q112031
+Q39082970,Q6581097,1999-07-04T00:00:00Z,29,Deroy Duarte,Deroy Duarte,Cape Verdean footballer,Q1011,Q34370
+Q39082970,Q6581097,1999-07-04T00:00:00Z,29,Deroy Duarte,Deroy Duarte,Cape Verdean footballer,Q29999,Q34370
+Q3926123,Q6581097,1993-04-10T00:00:00Z,8,Péricles Pereira,Péricles Pereira,Cape Verdean association football player,Q1011,Q495547
+Q3939893,Q6581097,1991-08-18T00:00:00Z,2,Rodi Duarte,Rodirlei José Ascensão Duarte,Cape Verdean footballer (born 1991),Q1011,Q497445
+Q3960166,Q6581097,1986-04-21T00:00:00Z,5,Sidnei (Cape Verdean footballer),Sidnei,Cape Verdean association football player,Q1011,Q3751
+Q3960166,Q6581097,1986-02-23T00:00:00Z,5,Sidnei (Cape Verdean footballer),Sidnei,Cape Verdean association football player,Q1011,Q3751
+Q3993005,Q6581097,1987-06-12T00:00:00Z,4,Tom Tavares,Tom Tavares,Cape Verdean footballer (born 1987),Q1011,Q2311253
+Q4008355,Q6581097,1988-11-09T00:00:00Z,4,Valter Borges,Valter Borges,Cape Verdean association football player,Q1011,Q112031
+Q42682915,Q6581072,1984-06-13T00:00:00Z,3,Jenifer Solidade,Jenifer Solidade,Cape Verdean singer,Q1011,
+Q43023451,Q6581072,1926-01-01T00:00:00Z,6,Carlina Pereira,Carlina Pereira,Cape Verdean activist and politician,Q1011,Q3023340
+Q431170,Q6581097,1981-08-27T00:00:00Z,8,Hernâni Borges,Hernâni Borges,Cape Verdean association football player,Q1011,Q990403
+Q43354820,Q6581072,1963-08-24T00:00:00Z,14,Lígia Fonseca,Lígia Fonseca,"Cape Verdean lawyer, activist, and politician",Q1011,Q211563
+Q445463,Q6581072,1985-02-13T00:00:00Z,22,Mayra Andrade,Mayra Andrade,Cape Verdean singer,Q1011,Q1563
+Q44821118,Q6581097,1994-04-27T00:00:00Z,21,Willy Semedo,Willy Semedo,French and Cape Verdean association football player,Q1011,Q237367
+Q44821118,Q6581097,1994-04-27T00:00:00Z,21,Willy Semedo,Willy Semedo,French and Cape Verdean association football player,Q142,Q237367
+Q45965970,Q6581072,1956-08-01T00:00:00Z,4,Eunice Silva,Eunice Silva,Cape Verdean civil engineer and politician,Q1011,
+Q4621784,Q6581097,1990-11-27T00:00:00Z,33,Garry Rodrigues,Garry Mendes Rodrigues,Dutch-born Cape Verdean footballer,Q1011,Q34370
+Q4621784,Q6581097,1990-11-27T00:00:00Z,33,Garry Rodrigues,Garry Mendes Rodrigues,Dutch-born Cape Verdean footballer,Q29999,Q34370
+Q4661421,Q6581097,1978-03-23T00:00:00Z,3,Alviar Lima,Alviar Lima,Cape Verdean-Dutch kickboxer,Q1011,Q1011
+Q4661421,Q6581097,1978-03-23T00:00:00Z,3,Alviar Lima,Alviar Lima,Cape Verdean-Dutch kickboxer,Q29999,Q1011
+Q4750358,Q6581072,1953-01-01T00:00:00Z,7,Ana Firmino,Ana Firmino,Cape Verdean singer,Q1011,Q1011
+Q4792768,Q6581097,1992-07-24T00:00:00Z,2,Armando Freitas,Armando Freitas,Cape Verdean association football player,Q1011,Q3751
+Q4853750,Q6581097,1932-03-05T00:00:00Z,8,Bana (singer),Bana,Cape Verdean singer (1932–2013),Q1011,Q495547
+Q486879,Q6581097,1953-11-25T00:00:00Z,8,Ildo Lobo,Ildo Lobo,Cape Verdean singer (1953–2004),Q1011,Q111989
+Q4979425,Q6581097,1994-11-04T00:00:00Z,20,Bruno Varela,Bruno Varela,Cape Verdean and Portuguese association football player,Q1011,Q597
+Q4979425,Q6581097,1994-11-04T00:00:00Z,20,Bruno Varela,Bruno Varela,Cape Verdean and Portuguese association football player,Q45,Q597
+Q500378,Q6581097,1949-10-21T00:00:00Z,29,Carlos Veiga,Carlos Veiga,Cape Verdean politician,Q1011,Q495547
+Q500385,Q6581097,1950-10-12T00:00:00Z,23,Gualberto do Rosário,Gualberto do Rosário,Cape Verdean politician and former prime minister of Cape Verde,Q1011,Q495547
+Q50112331,Q6581072,1958-01-01T00:00:00Z,5,Maria Andrade (scientist),Maria Andrade,Cape Verde scientist,Q1011,Q6430079
+Q5042482,Q6581097,1976-03-21T00:00:00Z,5,Caló (footballer),Carlos Pedro Silva Morais,Cape Verdean association football player,Q1011,Q3751
+Q5219498,Q6581097,1984-02-06T00:00:00Z,2,"Dani (footballer, born 1984)",Danielson Gomes Monteiro,Cape Verdean association football player,Q1011,Q490573
+Q5320102,Q6581097,1979-01-14T00:00:00Z,3,Dário Furtado,Dário Furtado,Cape Verdean association football player,Q1011,Q3751
+Q5336650,Q6581097,1950-06-04T00:00:00Z,3,Eddy Fort Moda Grog,Eddy Fort Moda Grog,Cape Verdean Dutch rapper,Q1011,Q495547
+Q5336650,Q6581097,1950-06-04T00:00:00Z,3,Eddy Fort Moda Grog,Eddy Fort Moda Grog,Cape Verdean Dutch rapper,Q29999,Q495547
+Q5340302,Q6581097,1988-02-04T00:00:00Z,2,Edson Cruz,Edson Cruz,Cape Verdean footballer (born 1988),Q1011,Q1011
+Q548846,Q6581097,1907-04-23T00:00:00Z,12,Baltasar Lopes da Silva,Baltasar Lopes da Silva,Cape Verdean writer (1907–1989),Q1011,Q492509
+Q55098157,Q6581097,1965-08-25T00:00:00Z,3,Luís Filipe Tavares,Luís Filipe Tavares,Cape Verdean politician,Q1011,Q3751
+Q5515740,Q6581097,1928-05-18T00:00:00Z,4,Gabriel Mariano,Gabriel Mariano,Cape Verdean writer (1928-2002),Q1011,Q3122689
+Q55433904,Q6581097,1997-02-23T00:00:00Z,18,Márcio Rosa,Márcio Rosa,Cape Verdean association football player,Q1011,Q3751
+Q55442808,Q6581072,1999-08-26T00:00:00Z,4,Jolina Amani,Jolina Amani,Cape Verdean association football player (born 1999),Q1011,Q34370
+Q55442808,Q6581072,1999-08-26T00:00:00Z,4,Jolina Amani,Jolina Amani,Cape Verdean association football player (born 1999),Q29999,Q34370
+Q554836,Q6581097,1964-01-01T00:00:00Z,9,Teófilo Chantre,Teófilo Chantre,Cape Verdean singer,Q1011,Q492509
+Q55583857,Q6581097,1994-01-03T00:00:00Z,2,Kelvin Medina,Kelvin Medina,Cape Verdean footballer,Q1011,Q495547
+Q55629225,Q6581097,1993-12-13T00:00:00Z,7,Patrick Fernandes,Patrick,Cape Verdean footballer,Q1011,Q3751
+Q55629294,Q6581097,1973-04-01T00:00:00Z,3,Paulo Rocha (Cape Verde politician),Paulo Rocha,Cabo Verdean politician,Q1011,
+Q5591501,Q6581097,1985-06-02T00:00:00Z,2,Graciano Brito,Graciano Brito,Cape Verdean association football player,Q1011,Q492509
+Q56678368,Q6581097,2000-01-12T00:00:00Z,5,Eynel Soares,Eynel Soares,Cape Verdean association football player (2000-),Q1011,Q112031
+Q56822900,Q6581072,1925-07-18T00:00:00Z,4,Nácia Gomes,Nácia Gomes,Cape Verdian traditional singer of finaçon (1925-2011),Q1011,Q7245046
+Q57517,Q6581097,1950-10-20T00:00:00Z,55,Jorge Carlos Fonseca,Jorge Carlos Fonseca,Cape Verdean politician and former president of Cape Verde,Q1011,Q495547
+Q57649,Q6581097,1960-03-28T00:00:00Z,51,José Maria Neves,José Maria Neves,Cape Verdean politician and former prime minister of Cape Verde,Q1011,Q494882
+Q580332,Q6581097,1945-07-31T00:00:00Z,15,Germano Almeida,Germano Almeida,Cape Verdean writer and lawyer,Q1011,Q110440
+Q581248,Q6581072,1983-07-02T00:00:00Z,19,Nely Carla Alberto,Nely Carla Alberto,Cape Verdean Spanish handball player,Q1011,Q10313
+Q581248,Q6581072,1983-07-02T00:00:00Z,19,Nely Carla Alberto,Nely Carla Alberto,Cape Verdean Spanish handball player,Q29,Q10313
+Q58252,Q6581097,1944-03-19T00:00:00Z,7,José Brito (Cape Verdean politician),José Brito,Cape Verdean politician,Q1011,Q3718
+Q6099288,Q6581072,1926-09-07T00:00:00Z,6,Ivone Ramos,Ivone Ramos,Cape Verdean writer,Q1011,Q494882
+Q610645,Q6581097,1901-09-25T00:00:00Z,8,António Aurélio Gonçalves,António Aurélio Gonçalves,Cape Verdean writer (1901–1984),Q1011,Q495547
+Q62445814,Q6581097,2000-08-24T00:00:00Z,18,CJ dos Santos,CJ dos Santos,Cape Verdean-American soccer player,Q1011,Q1345
+Q62445814,Q6581097,2000-08-24T00:00:00Z,18,CJ dos Santos,CJ dos Santos,Cape Verdean-American soccer player,Q30,Q1345
+Q6248524,Q6581097,1987-03-21T00:00:00Z,3,Roberto Xalino,Robert Xalino,Cape Verdean singer and rapper,Q1011,Q495547
+Q6248528,Q6581097,1953-08-19T00:00:00Z,3,Val Xalino,Val Xalino,Cape Verdean singer and music producer,Q1011,Q495547
+Q6305532,Q6581072,1961-10-23T00:00:00Z,6,Maria Alice,Maria Alice,Cape Verdean singer,Q1011,Q111989
+Q64010688,Q6581097,1996-02-12T00:00:00Z,1,Klisman Sousa,Klisman Sousa,Cape Verdean footballer,Q1011,Q111989
+Q64373817,Q6581072,1970-09-20T00:00:00Z,14,Élisabeth Moreno,Elisabeth Moreno,French / Cape Verdean business executive and politician,Q1011,Q2311253
+Q64373817,Q6581072,1970-09-20T00:00:00Z,14,Élisabeth Moreno,Elisabeth Moreno,French / Cape Verdean business executive and politician,Q142,Q2311253
+Q6543680,Q6581072,1994-09-01T00:00:00Z,13,Lidiane Lopes,Lidiane Lopes,Cape Verdean sprinter,Q1011,Q498968
+Q65532105,Q6581072,1996-03-03T00:00:00Z,9,Evelise Veiga,Evelise da Veiga,Portuguese long jumper,Q1011,Q3751
+Q65532105,Q6581072,1996-03-03T00:00:00Z,9,Evelise Veiga,Evelise da Veiga,Portuguese long jumper,Q45,Q3751
+Q66491102,Q6581072,1994-10-27T00:00:00Z,3,Alexia Barros,Alexia Barros,Cape Verdean basketball player (born 1994),Q1011,
+Q66491102,Q6581072,1994-10-27T00:00:00Z,3,Alexia Barros,Alexia Barros,Cape Verdean basketball player (born 1994),Q30,
+Q66498799,Q6581072,1966-01-01T00:00:00Z,10,Vitalina Varela (actress),Vitalina Varela,Cape Verdean actress,Q1011,Q3023340
+Q6764618,Q6581097,1978-03-17T00:00:00Z,4,Mário Correia,Mario Correia,Cape Verdean basketball player (born 1978),Q1011,Q3751
+Q6772511,Q6581097,1979-08-18T00:00:00Z,2,Marques Houtman,Marques Houtman,American basketball player,Q1011,
+Q6772511,Q6581097,1979-08-18T00:00:00Z,2,Marques Houtman,Marques Houtman,American basketball player,Q30,
+Q67841562,Q6581097,1999-12-02T00:00:00Z,6,Elber Evora,Elber Evora,Cape Verdean footballer,Q1011,Q34370
+Q67841562,Q6581097,1999-12-02T00:00:00Z,6,Elber Evora,Elber Evora,Cape Verdean footballer,Q29999,Q34370
+Q6786670,Q6581097,1975-12-07T00:00:00Z,3,Mateus Lopes,Mateus Lopes,Cape Verdean footballer (born 1975),Q1011,Q112031
+Q68117383,Q6581097,1997-04-04T00:00:00Z,4,Alexis Gonçalves,Alexis Gonçalves,French footballer,Q1011,Q193937
+Q68117383,Q6581097,1997-04-04T00:00:00Z,4,Alexis Gonçalves,Alexis Gonçalves,French footballer,Q142,Q193937
+Q70277065,Q6581072,1994-11-09T00:00:00Z,3,Carla Mendes,Carla Mendes,Cape Verdean runner,Q1011,
+Q706594,Q6581097,1922-10-06T00:00:00Z,8,Luís Romano de Madeira Melo,Luís Romano de Madeira Melo,Cape Verdean writer,Q1011,Q112232
+Q7077234,Q6581097,1982-05-25T00:00:00Z,1,Odair Sanches,Odair Sanches,Cape Verdean basketball player (born 1982),Q1011,
+Q707926,Q6581097,1922-04-30T00:00:00Z,7,Fernando Quejas,Fernando Quejas,Cape Verdean composer and singer,Q1011,Q3751
+Q7095224,Q6581097,1935-01-01T00:00:00Z,5,Onésimo Silveira,Onésimo Silveira,Cape Verdean writer and politician (1935–2021),Q1011,Q495547
+Q7155204,Q6581097,1973-11-13T00:00:00Z,4,Paulo Dos Santos (Cape Verdean footballer),Paulo dos Santos,Cape Verdean association football player,Q1011,Q112031
+Q7159546,Q6581097,1959-05-25T00:00:00Z,7,Pedro DeBrito,Pedro DeBrito,Cape Verdean-American soccer player (1959-2014),Q1011,Q3751
+Q7159546,Q6581097,1959-05-25T00:00:00Z,7,Pedro DeBrito,Pedro DeBrito,Cape Verdean-American soccer player (1959-2014),Q30,Q3751
+Q7159779,Q6581097,1990-08-06T00:00:00Z,31,Pedro Miguel (footballer),Pedro Miguel,Qatari association football player,Q1011,Q180972
+Q7159779,Q6581097,1990-08-06T00:00:00Z,31,Pedro Miguel (footballer),Pedro Miguel,Qatari association football player,Q45,Q180972
+Q7159779,Q6581097,1990-08-06T00:00:00Z,31,Pedro Miguel (footballer),Pedro Miguel,Qatari association football player,Q846,Q180972
+Q7173283,Q6581097,1983-02-07T00:00:00Z,3,Peter Cipriano,Peter Cipriano,American basketball player,Q1011,Q26339
+Q7173283,Q6581097,1983-02-07T00:00:00Z,3,Peter Cipriano,Peter Cipriano,American basketball player,Q30,Q26339
+Q726765,Q6581097,1978-06-09T00:00:00Z,12,Nando Maria Neves,Nando Maria Neves,Cape Verdean association football player,Q1011,Q3751
+Q72851264,Q6581097,1934-06-04T00:00:00Z,2,Amaro Alexandre da Luz,Amaro da Luz,Cabo Verdean politician,Q1011,Q112232
+Q7357367,Q6581097,1980-03-24T00:00:00Z,2,Rodrigo Mascarenhas,Rodrigo Mascarenhas,Cape Verdean basketball player (born 1980),Q1011,Q34370
+Q7357367,Q6581097,1980-03-24T00:00:00Z,2,Rodrigo Mascarenhas,Rodrigo Mascarenhas,Cape Verdean basketball player (born 1980),Q45,Q34370
+Q7357367,Q6581097,1982-01-28T00:00:00Z,2,Rodrigo Mascarenhas,Rodrigo Mascarenhas,Cape Verdean basketball player (born 1980),Q1011,Q34370
+Q7357367,Q6581097,1982-01-28T00:00:00Z,2,Rodrigo Mascarenhas,Rodrigo Mascarenhas,Cape Verdean basketball player (born 1980),Q45,Q34370
+Q7378692,Q6581097,1956-01-01T00:00:00Z,7,Rui Alberto de Figueiredo Soares,Rui Alberto de Figueiredo Soares,Cape Verdean politician,Q1011,
+Q740548,Q6581097,1950-09-20T00:00:00Z,6,José Luís Jesus,José Luís Jesus,Cape Verdean jurist and judge,Q1011,Q112232
+Q74604,Q6581097,1988-11-19T00:00:00Z,19,Júlio Tavares,Julio Tavares,Cape Verdean association football player,Q1011,Q2718860
+Q74604,Q6581097,1988-11-19T00:00:00Z,19,Júlio Tavares,Julio Tavares,Cape Verdean association football player,Q142,Q2718860
+Q7629950,Q6581097,1988-05-06T00:00:00Z,8,Sténio,Sténio,Cape Verdean association football player,Q1011,Q495547
+Q7666085,Q6581097,1988-02-23T00:00:00Z,8,Sérgio Semedo,Sérgio Manuel Monteiro Semedo,Cape Verdean Portuguese soccer player,Q1011,Q597
+Q7666085,Q6581097,1988-02-23T00:00:00Z,8,Sérgio Semedo,Sérgio Manuel Monteiro Semedo,Cape Verdean Portuguese soccer player,Q45,Q597
+Q768531,Q6581097,1985-05-02T00:00:00Z,8,Betinho (basketball),João Gomes,Cape Verdean basketball player,Q1011,Q426555
+Q768531,Q6581097,1985-05-02T00:00:00Z,8,Betinho (basketball),João Gomes,Cape Verdean basketball player,Q45,Q426555
+Q768531,Q6581097,1985-02-05T00:00:00Z,8,Betinho (basketball),João Gomes,Cape Verdean basketball player,Q1011,Q426555
+Q768531,Q6581097,1985-02-05T00:00:00Z,8,Betinho (basketball),João Gomes,Cape Verdean basketball player,Q45,Q426555
+Q76858856,Q6581097,1999-02-04T00:00:00Z,7,Troy Pina,Troy Pina,Cape Verdean swimmer,Q1011,Q2536927
+Q76858856,Q6581097,1999-02-04T00:00:00Z,7,Troy Pina,Troy Pina,Cape Verdean swimmer,Q30,Q2536927
+Q7690647,Q6581097,1973-07-20T00:00:00Z,7,Tcheka,Tcheka,"Cape Verdean singer, songwriter and guitarist",Q1011,Q7322293
+Q772779,Q6581097,1952-06-06T00:00:00Z,4,Boy Gé Mendes,Boy Gé Mendes,Cape Verdean singer,Q1011,Q3718
+Q7821842,Q6581097,1984-05-03T00:00:00Z,2,Tony Barros,Tony Barros,Cape Verdean-American basketball player,Q1011,
+Q7821842,Q6581097,1984-05-03T00:00:00Z,2,Tony Barros,Tony Barros,Cape Verdean-American basketball player,Q30,
+Q7915140,Q6581072,1985-10-13T00:00:00Z,3,Vanny Reis,Vanny Reis,Cape Verdean model and beauty pageant contestant,Q1011,Q495547
+Q7920765,Q6581072,1952-10-02T00:00:00Z,14,Vera Duarte,Vera Duarte,"Cape Verdean poet, human rights activist, government minister and politician",Q1011,Q495547
+Q7932545,Q6581097,1966-11-06T00:00:00Z,2,Vinha,Vinha,Cape Verdean footballer (born 1966),Q1011,Q3751
+Q8054740,Q6581072,1927-12-16T00:00:00Z,9,Yolanda Morazzo,Yolanda Morazzo,Cape Verdean writer (1927-2009),Q1011,Q112031
+Q80632180,Q6581097,2000-09-01T00:00:00Z,14,Bryan Teixeira,Bryan Teixeira,French football player,Q1011,Q328010
+Q80632180,Q6581097,2000-09-01T00:00:00Z,14,Bryan Teixeira,Bryan Teixeira,French football player,Q142,Q328010
+Q8076032,Q6581097,1973-12-26T00:00:00Z,3,Zé Piguita,Zé Piguita,Cape Verdean association football player,Q1011,Q3751
+Q81878954,Q6581097,1999-01-06T00:00:00Z,6,Edi Semedo,Edi Semedo,Portuguese footballer,Q1011,Q597
+Q81878954,Q6581097,1999-01-06T00:00:00Z,6,Edi Semedo,Edi Semedo,Portuguese footballer,Q45,Q597
+Q85797565,Q6581097,1992-06-17T00:00:00Z,25,Pico Lopes,Roberto Lopes,Irish-Cape Verdean footballer,Q1011,Q4237564
+Q85797565,Q6581097,1992-06-17T00:00:00Z,25,Pico Lopes,Roberto Lopes,Irish-Cape Verdean footballer,Q27,Q4237564
+Q918049,Q6581097,1988-05-20T00:00:00Z,23,Stopira,Stopira,Cape Verdean association football player,Q1011,Q3751
+Q918049,Q6581097,1988-05-20T00:00:00Z,23,Stopira,Stopira,Cape Verdean association football player,Q45,Q3751
+Q9184599,Q6581072,1976-10-22T00:00:00Z,4,Carla Sousa,Carla Sousa,Cape Verdean basketball player (born 1976),Q1011,Q111989
+Q9184599,Q6581072,1976-10-26T00:00:00Z,4,Carla Sousa,Carla Sousa,Cape Verdean basketball player (born 1976),Q1011,Q111989
+Q92429680,Q6581072,1934-01-01T00:00:00Z,11,Lilica Boal,Lilica Boal,"Cape Verdean historian, philosopher, teacher and anti-fascist activist",Q1011,Q499598
+Q924857,Q6581097,1982-09-01T00:00:00Z,16,Ryan Gomes,Ryan Gomes,American basketball player,Q1011,Q49178
+Q924857,Q6581097,1982-09-01T00:00:00Z,16,Ryan Gomes,Ryan Gomes,American basketball player,Q30,Q49178
+Q9249092,Q6581072,1985-02-19T00:00:00Z,5,Débora Gonçalves,Débora Gonçalves,Cape Verdean basketball player (born 1985),Q1011,Q189166
+Q9249092,Q6581072,1985-02-19T00:00:00Z,5,Débora Gonçalves,Débora Gonçalves,Cape Verdean basketball player (born 1985),Q1011,Q597
+Q9249092,Q6581072,1985-02-19T00:00:00Z,5,Débora Gonçalves,Débora Gonçalves,Cape Verdean basketball player (born 1985),Q45,Q189166
+Q9249092,Q6581072,1985-02-19T00:00:00Z,5,Débora Gonçalves,Débora Gonçalves,Cape Verdean basketball player (born 1985),Q45,Q597
+Q92611642,Q6581097,1986-12-19T00:00:00Z,4,Yorgan De Castro,Yorgan De Castro,Cape Verdean mixed martial arts (MMA) fighter,Q1011,Q495547
+Q9355844,Q6581072,1979-01-09T00:00:00Z,3,Tatianne Cabral,Tatianne Cabral,Cape Verdean basketball player (born 1979),Q1011,Q1007
+Q950564,Q6581097,1979-12-26T00:00:00Z,6,"José Semedo (footballer, born 1979)",José Filipe Correia Semedo,Footballer (born 1979),Q1011,Q597
+Q950564,Q6581097,1979-12-26T00:00:00Z,6,"José Semedo (footballer, born 1979)",José Filipe Correia Semedo,Footballer (born 1979),Q45,Q597
+Q97022365,Q6581097,2001-06-15T00:00:00Z,2,Alexis Martial,Alexis Martial,French association football player,Q1011,Q90
+Q97022365,Q6581097,2001-06-15T00:00:00Z,2,Alexis Martial,Alexis Martial,French association football player,Q142,Q90
+Q97580948,Q6581097,2001-06-21T00:00:00Z,17,Telmo Arcanjo,Telmo Arcanjo,Cape Verdean footballer,Q1011,Q597
+Q97580948,Q6581097,2001-06-21T00:00:00Z,17,Telmo Arcanjo,Telmo Arcanjo,Cape Verdean footballer,Q45,Q597
+Q98066629,Q6581072,1994-03-28T00:00:00Z,2,Evy Pereira,Evy Pereira,Cape Verdean association football player,Q1011,Q189166

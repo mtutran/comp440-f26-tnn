@@ -1,0 +1,700 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q100868825,Q6581097,2000-03-22T00:00:00Z,2,Dardan Kapiti,Dardan Kapiti,Kosovan basketball player (born 2000),Q37024,
+Q100868825,Q6581097,2000-03-22T00:00:00Z,2,Dardan Kapiti,Dardan Kapiti,Kosovan basketball player (born 2000),Q1246,
+Q100979669,Q6581072,2000-09-30T00:00:00Z,1,Fatlinda Ramaj,Fatlinda Ramaj,Kosovan footballer,Q1246,
+Q1026928,Q6581097,1926-01-01T00:00:00Z,3,Engjëll Berisha,Engjëll Berisha,Albanian artist (1926-2010),Q1246,
+Q1026928,Q6581097,1926-01-01T00:00:00Z,3,Engjëll Berisha,Engjëll Berisha,Albanian artist (1926-2010),Q222,
+Q1027022,Q6581097,1938-03-10T00:00:00Z,8,Tahir Emra,Tahir Emra,painter from Kosovo (1938–2024),Q222,Q474651
+Q1027022,Q6581097,1938-03-10T00:00:00Z,8,Tahir Emra,Tahir Emra,painter from Kosovo (1938–2024),Q1246,Q474651
+Q104160677,Q6581097,2003-05-09T00:00:00Z,1,Dion Berisha,Dion Berisha,Kosovan association football player,Q183,
+Q104160677,Q6581097,2003-05-09T00:00:00Z,1,Dion Berisha,Dion Berisha,Kosovan association football player,Q1246,
+Q104177308,Q6581097,2001-09-19T00:00:00Z,17,Diant Ramaj,Diant Ramaj,German association football player,Q1246,Q1022
+Q104177308,Q6581097,2001-09-19T00:00:00Z,17,Diant Ramaj,Diant Ramaj,German association football player,Q183,Q1022
+Q105371355,Q6581072,1983-01-01T00:00:00Z,14,Blerta Basholli,Blerta Basholli,Kosovar film director,Q1246,Q25270
+Q105509905,Q6581072,1975-01-01T00:00:00Z,9,Adrijana Hodžić,Adrijana Hodžić,Kosovar politician,Q1246,Q178168
+Q105755226,Q6581097,2000-04-08T00:00:00Z,6,Don Xhoni,Don Xhoni,Kosovan-born Albanian rapper,Q1246,Q3304768
+Q105927023,Q6581097,1967-06-09T00:00:00Z,3,Anton Quni,Anton Quni,Kosovan politician,Q1246,
+Q105953198,Q6581097,2002-01-18T00:00:00Z,4,Hajdin Salihu,Hajdin Salihu,Kosovan footballer,Q1246,Q994245
+Q106119866,Q6581072,1971-10-16T00:00:00Z,14,Donika Gërvalla-Schwarz,Donika Gërvalla-Schwarz,Kosovan politician,Q1246,Q384
+Q106407260,Q6581072,1970-03-29T00:00:00Z,4,Arbërie Nagavci,Arbërie Nagavci,Albanian politician,Q1246,Q474651
+Q106812445,Q6581097,1998-05-02T00:00:00Z,11,Blendi Idrizi,Blendi Idrizi,Kosovar association football player,Q1246,Q586
+Q106812445,Q6581097,1998-05-02T00:00:00Z,11,Blendi Idrizi,Blendi Idrizi,Kosovar association football player,Q183,Q586
+Q107139676,Q6581097,1998-03-07T00:00:00Z,3,Lavdrim Hajrulahu,Lavdrim Hajrulahu,Kosovar association football player,Q1246,Q807
+Q107139676,Q6581097,1998-03-07T00:00:00Z,3,Lavdrim Hajrulahu,Lavdrim Hajrulahu,Kosovar association football player,Q39,Q807
+Q107139697,Q6581097,1998-02-21T00:00:00Z,6,Muharrem Jashari,Muharrem Jashari,Kosovar association football player,Q1246,Q178168
+Q107139908,Q6581097,1999-08-15T00:00:00Z,3,Liridon Balaj,Liridon Balaj,Kosovar association football player,Q39,Q68124
+Q107139908,Q6581097,1999-08-15T00:00:00Z,3,Liridon Balaj,Liridon Balaj,Kosovar association football player,Q1246,Q68124
+Q107139948,Q6581097,1999-01-01T00:00:00Z,6,Lumbardh Dellova,Lumbardh Dellova,Kosovar association football player,Q1246,Q12749630
+Q107289639,Q6581097,1993-01-06T00:00:00Z,1,Mikaile Tmušić,Mikaile Tmušić,Kosovan basketball player (born 1993),Q1246,Q112657
+Q107289639,Q6581097,1993-01-06T00:00:00Z,1,Mikaile Tmušić,Mikaile Tmušić,Kosovan basketball player (born 1993),Q403,Q112657
+Q107289639,Q6581097,1993-01-06T00:00:00Z,1,Mikaile Tmušić,Mikaile Tmušić,Kosovan basketball player (born 1993),Q37024,Q112657
+Q107365849,Q6581097,1973-01-27T00:00:00Z,5,Nenad Rašić,Nenad Rašić,Kosovo Serb politician,Q1246,Q994730
+Q107365849,Q6581097,1973-01-27T00:00:00Z,5,Nenad Rašić,Nenad Rašić,Kosovo Serb politician,Q403,Q994730
+Q107378357,Q6581097,2003-01-04T00:00:00Z,1,Batin Tuna,Batın Tuna,Turkish basketball player (born 2003),Q1246,
+Q107378357,Q6581097,2003-01-04T00:00:00Z,1,Batin Tuna,Batın Tuna,Turkish basketball player (born 2003),Q43,
+Q107457323,Q6581097,1998-11-29T00:00:00Z,12,Arbnor Muja,Arbnor Muja,Kosovan footballer (born 1998),Q1246,Q178168
+Q10754,Q6581097,1986-10-21T00:00:00Z,25,Almen Abdi,Almen Abdi,Swiss association football midfielder,Q1246,Q200061
+Q10754,Q6581097,1986-10-21T00:00:00Z,25,Almen Abdi,Almen Abdi,Swiss association football midfielder,Q39,Q200061
+Q107601124,Q6581072,1974-06-10T00:00:00Z,7,Rozeta Hajdari,Rozeta Hajdari,Politician in Kosovo,Q1246,Q12758172
+Q107601172,Q6581072,1984-05-07T00:00:00Z,7,Artane Rizvanolli,Artane Rizvanolli,Politician in Kosovo,Q1246,
+Q108516066,Q6581097,1997-01-01T00:00:00Z,3,Engjëll Hoti,Engjëll Hoti,Kosovan footballer,Q1246,Q1022
+Q108612938,Q6581097,1998-06-10T00:00:00Z,1,Valon Hamdiu,Valon Hamdiu,Kosovan association football player,Q1246,Q66601
+Q109602182,Q6581072,1990-12-14T00:00:00Z,1,Fjolla Kelmendi,Fjolla Kelmendi,Kosovar judoka,Q1246,
+Q110608909,Q6581097,1963-01-01T00:00:00Z,4,Bedri Hamza,Bedri Hamza,politician from Kosovo,Q1246,
+Q110736369,Q6581097,2001-02-06T00:00:00Z,8,Muhamet Hyseni,Muhamet Hyseni,Kosovan footballer (born 2001),Q1246,Q994245
+Q111047840,Q6581072,2004-11-11T00:00:00Z,6,Kiana Kryeziu,Kiana Kryeziu,Kosovan alpine skier,Q1246,Q25270
+Q111782516,Q6581072,2000-09-28T00:00:00Z,20,Laura Fazliu,Laura Fazliu,Kosovan judoka,Q1246,Q178168
+Q111985376,Q6581097,2000-05-05T00:00:00Z,10,Patriot Sejdiu,Patriot Sejdiu,Kosovar association football player,Q34,Q25270
+Q111985376,Q6581097,2000-05-05T00:00:00Z,10,Patriot Sejdiu,Patriot Sejdiu,Kosovar association football player,Q1246,Q25270
+Q112692489,Q6581097,1998-07-12T00:00:00Z,3,Gezim Pepsi,Gezim Pepsi,Swiss-born Kosovan association football player,Q1246,Q78
+Q112692489,Q6581097,1998-07-12T00:00:00Z,3,Gezim Pepsi,Gezim Pepsi,Swiss-born Kosovan association football player,Q39,Q78
+Q112972267,Q6581097,1904-01-01T00:00:00Z,2,Ukshin Kovaçica,Ukshin Kovaçica,,Q1246,
+Q113290734,Q6581072,1972-01-01T00:00:00Z,2,Vjosa Berisha,Vjosa Berisha,Kosovan film director,Q1246,
+Q113334410,Q6581097,2002-10-15T00:00:00Z,13,Veldin Hodža,Veldin Hodža,Croatian association football player (born 2002),Q224,Q1647
+Q113334410,Q6581097,2002-10-15T00:00:00Z,13,Veldin Hodža,Veldin Hodža,Croatian association football player (born 2002),Q1246,Q1647
+Q113626508,Q6581097,1998-09-07T00:00:00Z,11,Ermal Krasniqi,Ermal Krasniqi,Kosovan association football player,Q1246,Q59089
+Q113708847,Q6581097,1999-10-31T00:00:00Z,6,Ismajl Beka,Ismajl Beka,Kosovan footballer,Q1246,Q68120
+Q113708847,Q6581097,1999-10-31T00:00:00Z,6,Ismajl Beka,Ismajl Beka,Kosovan footballer,Q39,Q68120
+Q113952820,Q6581097,2002-11-21T00:00:00Z,24,Besfort Zeneli,Besfort Zeneli,Kosovan footballer,Q1246,Q992613
+Q113952820,Q6581097,2002-11-21T00:00:00Z,24,Besfort Zeneli,Besfort Zeneli,Kosovan footballer,Q34,Q992613
+Q114247103,Q6581097,2002-12-07T00:00:00Z,6,Lindon Emërllahu,Lindon Emërllahu,Kosovar footballer,Q1246,Q59086
+Q114260866,Q6581097,2000-04-02T00:00:00Z,6,Ilir Krasniqi,Ilir Krasniqi,Kosovan association football player,Q183,Q3917
+Q114260866,Q6581097,2000-04-02T00:00:00Z,6,Ilir Krasniqi,Ilir Krasniqi,Kosovan association football player,Q1246,Q3917
+Q114796185,Q6581072,1981-01-01T00:00:00Z,7,Kaltrina Krasniqi,Kaltrina Krasniqi,Kosovan director,Q1246,Q25270
+Q115194635,Q6581097,2002-11-24T00:00:00Z,7,Valon Zumberi,Valon Zumberi,Kosovan footballer,Q183,Q1055
+Q115194635,Q6581097,2002-11-24T00:00:00Z,7,Valon Zumberi,Valon Zumberi,Kosovan footballer,Q1246,Q1055
+Q115802685,Q6581072,1998-01-27T00:00:00Z,29,Albina Kelmendi,Albina Kelmendi,Kosovo-Albanian singer,Q1246,Q112657
+Q115802685,Q6581072,1988-01-01T00:00:00Z,29,Albina Kelmendi,Albina Kelmendi,Kosovo-Albanian singer,Q1246,Q112657
+Q115802685,Q6581072,1998-01-01T00:00:00Z,29,Albina Kelmendi,Albina Kelmendi,Kosovo-Albanian singer,Q1246,Q112657
+Q116604758,Q6581097,2002-04-26T00:00:00Z,4,Amar Gërxhaliu,Amar Gërxhaliu,Kosovan footballer (born 2002),Q1246,Q911241
+Q116925792,Q6581097,2001-11-29T00:00:00Z,1,Kevin Halabaku,Kevin Halabaku,Kosovan footballer,Q1246,
+Q116959835,Q6581097,2001-10-13T00:00:00Z,2,Arlind Dakaj,Arlind Dakaj,Swiss footballer,Q1246,Q69011
+Q116959835,Q6581097,2001-10-13T00:00:00Z,2,Arlind Dakaj,Arlind Dakaj,Swiss footballer,Q39,Q69011
+Q117728156,Q6581097,1992-08-19T00:00:00Z,2,Arbnor Bajra,Arbnor Bajra,Belgian-Kosovar taekwondo athlete,Q31,Q739808
+Q117728156,Q6581097,1992-08-19T00:00:00Z,2,Arbnor Bajra,Arbnor Bajra,Belgian-Kosovar taekwondo athlete,Q1246,Q739808
+Q117818637,Q6581097,1960-01-01T00:00:00Z,2,Baki Jashari,Baki Jashari,conductor,Q1246,
+Q121271905,Q6581097,2000-08-31T00:00:00Z,10,Albion Rrahmani,Albion Rrahmani,Kosovan association football player (born 2000),Q1246,Q994245
+Q121300236,Q6581097,1977-05-09T00:00:00Z,7,Ejup Maqedonci,Ejup Maqedonci,Kosovan Minister of Defense,Q1246,Q25270
+Q122765632,Q6581097,2002-04-06T00:00:00Z,6,Florian Haxha,Florian Haxha,Kosovan footballer,Q183,Q64
+Q122765632,Q6581097,2002-04-06T00:00:00Z,6,Florian Haxha,Florian Haxha,Kosovan footballer,Q1246,Q64
+Q122828666,Q6581097,1973-04-15T00:00:00Z,4,Afrim Bunjaku,Afrim Bunjaku,,Q1246,Q911241
+Q122967693,Q6581097,2000-09-21T00:00:00Z,4,Shkelqim Vladi,Shkelqim Vladi,Footballer (born 2000),Q1246,Q68978
+Q122967693,Q6581097,2000-09-21T00:00:00Z,4,Shkelqim Vladi,Shkelqim Vladi,Footballer (born 2000),Q39,Q68978
+Q123004,Q6581097,1951-08-30T00:00:00Z,39,Behgjet Pacolli,Behgjet Pacolli,President of Kosovo in 2011,Q1246,Q25270
+Q123004,Q6581097,1951-08-30T00:00:00Z,39,Behgjet Pacolli,Behgjet Pacolli,President of Kosovo in 2011,Q39,Q25270
+Q123027411,Q6581097,2001-02-03T00:00:00Z,6,Qëndrim Zyba,Qëndrim Zyba,Kosovan footballer,Q1246,Q59086
+Q123159605,Q6581097,1986-06-18T00:00:00Z,7,Islam Alijaj,Islam Alijaj,Swiss activist and politician,Q1246,
+Q123159605,Q6581097,1986-06-18T00:00:00Z,7,Islam Alijaj,Islam Alijaj,Swiss activist and politician,Q39,
+Q1234520,Q6581097,1963-01-16T00:00:00Z,16,Dodë Gjergji,Dodë Gjergji,Catholic bishop,Q1246,Q1021775
+Q123575103,Q6581097,2004-02-23T00:00:00Z,9,Leon Avdullahu,Leon Avdullahu,Swiss association football player (born 2004),Q1246,Q68965
+Q123575103,Q6581097,2004-02-23T00:00:00Z,9,Leon Avdullahu,Leon Avdullahu,Swiss association football player (born 2004),Q39,Q68965
+Q124290745,Q6581097,2001-10-23T00:00:00Z,1,Redon Ismaili,Redon Ismaili,Kosovan association football player,Q1246,
+Q124428908,Q6581097,2001-01-14T00:00:00Z,6,Albin Berisha,Albin Berisha,Kosovan footballer,Q1246,
+Q124608726,Q6581072,1953-12-20T00:00:00Z,23,Justina Shiroka Pula,Justina Shiroka Pula,"Kosovan economist, academic, stateswoman and president of Kosovo",Q1246,Q25270
+Q124633002,Q6581097,2003-10-21T00:00:00Z,13,Medon Berisha,Medon Berisha,Albanian-Swiss association football player (born 2003),Q222,Q69783
+Q124633002,Q6581097,2003-10-21T00:00:00Z,13,Medon Berisha,Medon Berisha,Albanian-Swiss association football player (born 2003),Q1246,Q69783
+Q125055301,Q6581097,2003-10-14T00:00:00Z,6,Fatjon Bunjaku,Fatjon Bunjaku,Kosovan footballer (2003-2026),Q1246,Q13567261
+Q125117319,Q6581097,1992-03-27T00:00:00Z,1,Amin Hot,Amin Hot,Kosovan basketball player,Q236,
+Q125117319,Q6581097,1992-03-27T00:00:00Z,1,Amin Hot,Amin Hot,Kosovan basketball player,Q1246,
+Q125794,Q6581097,1947-05-13T00:00:00Z,23,Bujar Bukoshi,Bujar Bukoshi,Kosovar politician,Q83286,Q59086
+Q125794,Q6581097,1947-05-13T00:00:00Z,23,Bujar Bukoshi,Bujar Bukoshi,Kosovar politician,Q1246,Q59086
+Q125794,Q6581097,1947-05-13T00:00:00Z,23,Bujar Bukoshi,Bujar Bukoshi,Kosovar politician,Q37024,Q59086
+Q125794,Q6581097,1947-05-13T00:00:00Z,23,Bujar Bukoshi,Bujar Bukoshi,Kosovar politician,Q403,Q59086
+Q126123183,Q6581097,2004-02-19T00:00:00Z,4,Drilon Hazrollaj,Drilon Hazrollaj,Kosovan footballer (born 2004),Q1246,Q8275994
+Q126133634,Q6581097,1996-11-17T00:00:00Z,2,Musab Malaj,Musab Mala,Kosovan basketball player (born 1996),Q37024,
+Q126133634,Q6581097,1996-11-17T00:00:00Z,2,Musab Malaj,Musab Mala,Kosovan basketball player (born 1996),Q1246,
+Q126383683,Q6581097,1995-01-23T00:00:00Z,1,Samir Zekiqi,Samir Zekiqi,Kosovan basketball player (born 1995),Q1246,
+Q126383683,Q6581097,1995-01-23T00:00:00Z,1,Samir Zekiqi,Samir Zekiqi,Kosovan basketball player (born 1995),Q37024,
+Q12752095,Q6581097,1959-10-01T00:00:00Z,10,Zufer Avdija,Zufer Avdija,Kosovo-born Serbian-Israeli basketball player and coach,Q403,Q25270
+Q12752095,Q6581097,1959-10-01T00:00:00Z,10,Zufer Avdija,Zufer Avdija,Kosovo-born Serbian-Israeli basketball player and coach,Q30,Q25270
+Q12752095,Q6581097,1959-10-01T00:00:00Z,10,Zufer Avdija,Zufer Avdija,Kosovo-born Serbian-Israeli basketball player and coach,Q801,Q25270
+Q12752095,Q6581097,1959-10-01T00:00:00Z,10,Zufer Avdija,Zufer Avdija,Kosovo-born Serbian-Israeli basketball player and coach,Q83286,Q25270
+Q12752095,Q6581097,1959-10-01T00:00:00Z,10,Zufer Avdija,Zufer Avdija,Kosovo-born Serbian-Israeli basketball player and coach,Q1246,Q25270
+Q1289469,Q6581097,1971-02-04T00:00:00Z,10,Fatmir Limaj,Fatmir Limaj,Kosovar politician,Q1246,Q83286
+Q1289469,Q6581097,1971-02-04T00:00:00Z,10,Fatmir Limaj,Fatmir Limaj,Kosovar politician,Q36704,Q83286
+Q129011879,Q6581097,2005-11-11T00:00:00Z,2,Altin Gjokaj,Altin Gjokaj,Kosovan footballer,Q1246,
+Q12906002,Q6581097,1978-04-06T00:00:00Z,3,Daut Haradinaj,Daut Haradinaj,politician,Q1246,Q12750262
+Q1291178,Q6581097,1992-02-21T00:00:00Z,13,Ilir Azemi,Ilir Azemi,Kosovar association football player,Q1246,Q25270
+Q129502976,Q6581097,1991-06-17T00:00:00Z,2,Urim Zenelaj,Urim Zenelaj,Kosovan basketball player (born 1991),Q1246,
+Q130283201,Q6581097,1992-08-24T00:00:00Z,6,Aleksandar Arsenijević,Aleksandar Arsenijević,Kosovo Serb politician,Q403,Q25270
+Q130283201,Q6581097,1992-08-24T00:00:00Z,6,Aleksandar Arsenijević,Aleksandar Arsenijević,Kosovo Serb politician,Q1246,Q25270
+Q13036879,Q6581097,1980-07-25T00:00:00Z,9,Alban Ukaj,Alban Ukaj,Bosnian actor,Q222,Q25270
+Q13036879,Q6581097,1980-07-25T00:00:00Z,9,Alban Ukaj,Alban Ukaj,Bosnian actor,Q1246,Q25270
+Q13036879,Q6581097,1980-07-25T00:00:00Z,9,Alban Ukaj,Alban Ukaj,Bosnian actor,Q225,Q25270
+Q13036897,Q6581072,1987-05-11T00:00:00Z,25,Albulena Haxhiu,Albulena Haxhiu,Speaker of the Assembly of the Republic of Kosovo,Q222,Q25270
+Q13036897,Q6581072,1987-05-11T00:00:00Z,25,Albulena Haxhiu,Albulena Haxhiu,Speaker of the Assembly of the Republic of Kosovo,Q1246,Q25270
+Q130382564,Q6581097,1985-05-31T00:00:00Z,1,Yll Kaçaniku,Ulug Kacaniku,Kosovan basketball player,Q1246,
+Q130382564,Q6581097,1985-05-31T00:00:00Z,1,Yll Kaçaniku,Ulug Kacaniku,Kosovan basketball player,Q43,
+Q130382564,Q6581097,1985-05-31T00:00:00Z,1,Yll Kaçaniku,Ulug Kacaniku,Kosovan basketball player,Q403,
+Q13040091,Q6581097,1960-04-06T00:00:00Z,4,Ibrahim Gashi,Ibrahim Gashi,Albanian philosopher,Q222,Q12754464
+Q13040091,Q6581097,1960-04-06T00:00:00Z,4,Ibrahim Gashi,Ibrahim Gashi,Albanian philosopher,Q1246,Q12754464
+Q13040485,Q6581097,1967-05-31T00:00:00Z,17,Kadri Veseli,Kadri Veseli,Kosovan politician,Q83286,Q178168
+Q13040485,Q6581097,1967-05-31T00:00:00Z,17,Kadri Veseli,Kadri Veseli,Kosovan politician,Q1246,Q178168
+Q13041363,Q6581097,2000-02-28T00:00:00Z,2,Labinot Kabashi,Labinot Kabashi,association football player,Q1246,Q127623
+Q13041571,Q6581097,1975-04-10T00:00:00Z,3,Liburn Aliu,Liburn Aliu,Kosovo politician,Q1246,Q25270
+Q13042759,Q6581097,1988-06-10T00:00:00Z,6,Mentor Zhdrella,Mentor Zhdrella,Kosovan footballer (born 1988),Q1246,Q25270
+Q13042759,Q6581097,1990-10-06T00:00:00Z,6,Mentor Zhdrella,Mentor Zhdrella,Kosovan footballer (born 1988),Q1246,Q25270
+Q13043170,Q6581097,1944-01-01T00:00:00Z,4,Musa Ramadani,Musa Ramadani,Albanian novelist,Q1246,Q739808
+Q13043295,Q6581097,1969-11-02T00:00:00Z,3,Naim Jerliu,Naim Jerliu,Kosovan physician and politician,Q1246,
+Q13046605,Q6581097,1956-12-28T00:00:00Z,4,Tahir Zemaj,Tahir Zemaj,Kosovar army commander,Q1246,Q7623280
+Q13047644,Q6581072,1982-05-17T00:00:00Z,64,Vjosa Osmani,Vjosa Osmani,"Former president of Kosovo (2020–2021, 2021–2026)",Q1246,Q178168
+Q130482036,Q6581097,1993-12-03T00:00:00Z,1,Arian Tahiri,Arian Tahiri,Kosovan politician and former basketball player,Q1246,Q20310462
+Q130947423,Q6581097,2002-07-28T00:00:00Z,6,Milot Avdyli,Milot Avdyli,Kosovan footballer,Q1246,Q911241
+Q131057299,Q6581097,1974-04-29T00:00:00Z,2,Arben Krasniqi,Arben Krasniqi,Kosovan basketball coach,Q1246,
+Q131553904,Q6581097,1996-05-14T00:00:00Z,2,Regont Murati,Regont Murati,Kosovan footballer (born 1996),Q1246,Q112657
+Q131553904,Q6581097,1996-05-14T00:00:00Z,2,Regont Murati,Regont Murati,Kosovan footballer (born 1996),Q664,Q112657
+Q132147422,Q6581097,1977-07-27T00:00:00Z,2,Gazmend Hoxha,Gazmend Hoxha,Kosovar policeman,Q1246,Q3300517
+Q132326,Q6581097,1982-08-10T00:00:00Z,12,Shpëtim Hasani,Shpëtim Hasani,footballer,Q1246,Q739808
+Q133294579,Q6581097,2001-10-29T00:00:00Z,5,Bujar Pllana,Bujar Pllana,Albanian association football player (born 2001),Q222,Q178168
+Q133294579,Q6581097,2001-10-29T00:00:00Z,5,Bujar Pllana,Bujar Pllana,Albanian association football player (born 2001),Q1246,Q178168
+Q133308057,Q6581097,2004-03-04T00:00:00Z,3,Etnik Brruti,Etnik Brruti,Albanian footballer (born 2004),Q222,Q248378
+Q133308057,Q6581097,2004-03-04T00:00:00Z,3,Etnik Brruti,Etnik Brruti,Albanian footballer (born 2004),Q1246,Q248378
+Q133434800,Q6581097,2001-09-17T00:00:00Z,1,Lejson Zeqiri,Lejson Zeqiri,Macedonian basketball player (born 2001),Q221,
+Q133434800,Q6581097,2001-09-17T00:00:00Z,1,Lejson Zeqiri,Lejson Zeqiri,Macedonian basketball player (born 2001),Q1246,
+Q134314516,Q6581097,1993-05-12T00:00:00Z,1,Arti Hajdari,Arti Hajdari,Kosovan basketball player (born 1993),Q1246,
+Q134472231,Q6581097,1979-09-06T00:00:00Z,2,Valentin Spaqi,Valentin Spaqi,Kosovan basketball player and coach,Q1246,
+Q134475865,Q6581097,1970-04-01T00:00:00Z,1,Habib Ademi,Habib Ademi,Kosovan basketball player,Q215,
+Q134475865,Q6581097,1970-04-01T00:00:00Z,1,Habib Ademi,Habib Ademi,Kosovan basketball player,Q1246,
+Q134702099,Q6581097,2003-07-10T00:00:00Z,1,Erlis Xhemajli,Erlis Xhemajli,Kosovan footballer,Q1246,
+Q134778102,Q6581097,2002-09-18T00:00:00Z,4,Ron Raçi,Ron Raçi,Kosovan footballer,Q1246,
+Q134914516,Q6581097,2007-03-11T00:00:00Z,1,Albert Rrahmani,Albert Rrahmani,Kosovan-Danish footballer,Q1246,
+Q134914516,Q6581097,2007-03-11T00:00:00Z,1,Albert Rrahmani,Albert Rrahmani,Kosovan-Danish footballer,Q756617,
+Q134985832,Q6581097,1992-08-13T00:00:00Z,1,Alban Shillova,Alban Shillova,Kosovan footballer,Q1246,
+Q135036489,Q6581097,2000-07-18T00:00:00Z,1,Drilon Islami,Drilon Islami,Kosovan association football player,Q1246,
+Q135186076,Q6581097,1969-06-05T00:00:00Z,1,Bujar Loci,Bujar Loci,Kosovan basketball player and coach,Q1246,
+Q135236110,Q6581097,1998-10-23T00:00:00Z,4,Adenis Shala,Adenis Shala,Kosovan footballer,Q222,
+Q135236110,Q6581097,1998-10-23T00:00:00Z,4,Adenis Shala,Adenis Shala,Kosovan footballer,Q1246,
+Q135355711,Q6581072,2006-01-01T00:00:00Z,3,Eslem Güler,Eslem Güler,Turkish basketball player (born 2006),Q43,
+Q135355711,Q6581072,2006-01-01T00:00:00Z,3,Eslem Güler,Eslem Güler,Turkish basketball player (born 2006),Q1246,
+Q135841065,Q6581097,2005-04-23T00:00:00Z,1,Leon Frokaj,Leon Frokaj,Kosovan association football player (born 2005),Q39,Q7125
+Q135841065,Q6581097,2005-04-23T00:00:00Z,1,Leon Frokaj,Leon Frokaj,Kosovan association football player (born 2005),Q1246,Q7125
+Q135925958,Q6581097,1981-11-24T00:00:00Z,2,Alaudin Hamiti,Alaudin Hamiti,Kosovan television presenter,Q1246,Q25270
+Q135974688,Q6581097,1979-10-12T00:00:00Z,6,Dimal Basha,Dimal Basha,Kosovan politician,Q1246,Q25270
+Q13653436,Q6581097,1964-02-14T00:00:00Z,9,Nijazi Ramadani,Nijazi Ramadani,"Albanian poet, novelist, critic, political analyst, and intellectual",Q1246,Q739808
+Q136774186,Q6581097,2006-02-14T00:00:00Z,2,Blerton Isufi,Blerton Isufi,Kosovan footballer,Q20,Q20
+Q136774186,Q6581097,2006-02-14T00:00:00Z,2,Blerton Isufi,Blerton Isufi,Kosovan footballer,Q1246,Q20
+Q137608782,Q6581097,1960-03-15T00:00:00Z,2,Agim Bahtiri,Agim Bahtiri,Kosovar Politician (born 1960),Q1246,Q12750594
+Q138328476,Q6581097,2003-07-04T00:00:00Z,5,Valmir Matoshi,Valmir Matoshi,Kosovan association football player (born 2003),Q1246,Q68978
+Q138328476,Q6581097,2003-07-04T00:00:00Z,5,Valmir Matoshi,Valmir Matoshi,Kosovan association football player (born 2003),Q39,Q68978
+Q138556409,Q6581097,1980-02-28T00:00:00Z,1,Prindon Sadriu,Prindon Sadriu,Kosovar diplomat and First Gentleman of Kosovo,Q1246,Q739808
+Q138752701,Q6581097,2009-05-19T00:00:00Z,6,Erblin Osmani,Erblin Osmani,German-Kosovar footballer,Q183,Q1726
+Q138752701,Q6581097,2009-05-19T00:00:00Z,6,Erblin Osmani,Erblin Osmani,German-Kosovar footballer,Q1246,Q1726
+Q1387830,Q6581097,1991-06-25T00:00:00Z,9,Ilir Berisha,Ilir Berisha,Kosovan footballer (born 1991),Q1246,Q25270
+Q1393229,Q6581097,1936-06-25T00:00:00Z,11,Rexhep Qosja,Rexhep Qosja,Albanian writer from Kosovo,Q1246,Q3124641
+Q139545,Q6581097,1992-02-01T00:00:00Z,22,Herolind Shala,Herolind Shala,Footballer (born 1992),Q20,Q2290
+Q139545,Q6581097,1992-02-01T00:00:00Z,22,Herolind Shala,Herolind Shala,Footballer (born 1992),Q222,Q2290
+Q139545,Q6581097,1992-02-01T00:00:00Z,22,Herolind Shala,Herolind Shala,Footballer (born 1992),Q1246,Q2290
+Q139769601,Q6581097,2006-02-01T00:00:00Z,2,Medin Gashi,Medin Gashi,Kosovan footballer,Q1246,
+Q139800,Q6581097,1993-05-09T00:00:00Z,19,Elbasan Rashani,Elbasan Rashani,association football player,Q20,Q1016846
+Q139800,Q6581097,1993-05-09T00:00:00Z,19,Elbasan Rashani,Elbasan Rashani,association football player,Q1246,Q1016846
+Q139888954,Q6581097,2005-10-03T00:00:00Z,1,Hekuran Berisha,Hekuran Berisha,Kosovan footballer,Q1246,
+Q140148106,Q6581072,1961-08-22T00:00:00Z,1,Hatixhe Hoxha,Hatixhe Hoxha,"kosovan philologist, academic and politician",Q1246,Q384
+Q141162914,Q6581097,2006-12-10T00:00:00Z,2,Leon Parduzi,Leon Parduzi,Kosovan footballer (born 2006),Q1246,Q373824
+Q141755640,Q6581097,2006-08-05T00:00:00Z,1,Elvir Gashijan,Elvir Gashijan,Kosovan footballer,Q1246,
+Q14405741,Q6581097,1992-01-01T00:00:00Z,12,Liridon Krasniqi,Liridon Krasniqi,Albanian footballer,Q1246,Q1021775
+Q146059,Q6581072,1988-09-13T00:00:00Z,9,Zana Krasniqi,Zana Krasniqi,Kosovar beauty pageant contestant,Q1246,Q25270
+Q15119362,Q6581097,1937-10-10T00:00:00Z,7,Rexhep Ferri,Rexhep Ferri,Kosovo Albanian artist and writer (1937–2024),Q1246,Q210197
+Q15150262,Q6581097,1956-03-08T00:00:00Z,8,Xhavit Haliti,Xhavit Haliti,Albanian politician,Q1246,Q112657
+Q15620192,Q6581097,1994-04-24T00:00:00Z,32,Vedat Muriqi,Vedat Muriqi,Kosovan association football player,Q43,Q200061
+Q15620192,Q6581097,1994-04-24T00:00:00Z,32,Vedat Muriqi,Vedat Muriqi,Kosovan association football player,Q1246,Q200061
+Q15620192,Q6581097,1994-04-24T00:00:00Z,32,Vedat Muriqi,Vedat Muriqi,Kosovan association football player,Q222,Q200061
+Q1568727,Q6581097,1969-01-01T00:00:00Z,16,Enver Hoxhaj,Enver Hoxhaj,Kosovar politician,Q1246,Q59086
+Q15701309,Q6581097,1995-03-21T00:00:00Z,14,Enis Gavazaj,Enis Gavazaj,Kosovan-Albanian footballer,Q222,Q200061
+Q15701309,Q6581097,1995-03-21T00:00:00Z,14,Enis Gavazaj,Enis Gavazaj,Kosovan-Albanian footballer,Q1246,Q200061
+Q16105686,Q6581097,1941-12-07T00:00:00Z,2,Nimon Lokaj,Nimon Lokaj,Kosva Albanian artist (born 1941),Q1246,Q939112
+Q16145807,Q6581097,1993-07-05T00:00:00Z,15,Leonit Abazi,Leonit Abazi,Albanian footballer,Q1246,Q739808
+Q16145807,Q6581097,1993-07-05T00:00:00Z,15,Leonit Abazi,Leonit Abazi,Albanian footballer,Q222,Q739808
+Q16147481,Q6581097,1994-02-24T00:00:00Z,31,Amir Rrahmani,Amir Rrahmani,Kosovar footballer (born 1994),Q222,Q25270
+Q16147481,Q6581097,1994-02-24T00:00:00Z,31,Amir Rrahmani,Amir Rrahmani,Kosovar footballer (born 1994),Q838261,Q25270
+Q16147481,Q6581097,1994-02-24T00:00:00Z,31,Amir Rrahmani,Amir Rrahmani,Kosovar footballer (born 1994),Q1246,Q25270
+Q16197180,Q6581072,1967-12-09T00:00:00Z,5,Mirlinda Kusari-Purrini,Mirlinda Kusari Purrini,Albanian economist,Q1246,Q474651
+Q16197180,Q6581072,1967-12-09T00:00:00Z,5,Mirlinda Kusari-Purrini,Mirlinda Kusari Purrini,Albanian economist,Q83286,Q474651
+Q16212864,Q6581097,1991-10-24T00:00:00Z,19,Bernard Berisha,Bernard Berisha,Albanian footballer,Q222,Q112657
+Q16212864,Q6581097,1991-10-24T00:00:00Z,19,Bernard Berisha,Bernard Berisha,Albanian footballer,Q1246,Q112657
+Q16215361,Q6581072,1975-10-16T00:00:00Z,20,Mimoza Kusari-Lila,Mimoza Kusari-Lila,Kosovo politician,Q1246,Q474651
+Q16226189,Q6581097,1989-10-12T00:00:00Z,2,Arlind Sadiku,Arlind Sadiku,Albanian journalist,Q1246,Q25270
+Q16227676,Q6581097,1992-03-25T00:00:00Z,10,Shawn Jones (basketball),Shawn Jones,American basketball player,Q1246,Q8652
+Q16227676,Q6581097,1992-03-25T00:00:00Z,10,Shawn Jones (basketball),Shawn Jones,American basketball player,Q30,Q8652
+Q16231543,Q6581097,1986-05-06T00:00:00Z,4,Gerti Shima,Gerti Shima,Albanian basketball player (born 1986),Q222,Q19689
+Q16231543,Q6581097,1986-05-09T00:00:00Z,4,Gerti Shima,Gerti Shima,Albanian basketball player (born 1986),Q1246,Q19689
+Q16231543,Q6581097,1986-05-06T00:00:00Z,4,Gerti Shima,Gerti Shima,Albanian basketball player (born 1986),Q1246,Q19689
+Q16231543,Q6581097,1986-05-09T00:00:00Z,4,Gerti Shima,Gerti Shima,Albanian basketball player (born 1986),Q222,Q19689
+Q16232014,Q6581097,1987-06-04T00:00:00Z,2,Visar Arifaj,Visar Arifaj,Kosovar leader,Q1246,Q25270
+Q16233317,Q6581097,1990-02-01T00:00:00Z,5,Besnik Krasniqi,Besnik Krasniqi,Kosovar footballer,Q83286,Q25270
+Q16233317,Q6581097,1990-02-01T00:00:00Z,5,Besnik Krasniqi,Besnik Krasniqi,Kosovar footballer,Q1246,Q25270
+Q16236529,Q6581072,1994-02-12T00:00:00Z,4,Mirjeta Shala,Mirjeta Shala,Kosovar beauty queen,Q1246,Q911241
+Q16269431,Q6581097,1956-01-01T00:00:00Z,5,Gani Jakupi,Gani Jakupi,comic book author from Kosovo,Q1246,Q15714123
+Q16347726,Q6581097,1978-02-20T00:00:00Z,2,Adriatik Kelmendi,Adriatik Kelmendi,Kosovan journalist and author,Q1246,Q25270
+Q16348929,Q6581097,1973-12-24T00:00:00Z,3,Arben Vitia,Arben Vitia,Albanian physician,Q222,Q25270
+Q16348929,Q6581097,1973-12-24T00:00:00Z,3,Arben Vitia,Arben Vitia,Albanian physician,Q1246,Q25270
+Q16349103,Q6581097,1950-01-01T00:00:00Z,4,Muhammad Mufaku,Muhamed Mufaku,Syrian historian,Q858,Q3766
+Q16349103,Q6581097,1950-01-01T00:00:00Z,4,Muhammad Mufaku,Muhamed Mufaku,Syrian historian,Q1246,Q3766
+Q16352971,Q6581072,1979-03-20T00:00:00Z,4,Donika Kadaj Bujupi,Donika Kadaj Bujupi,Albanian-Kosovan politician,Q1246,Q11194
+Q16352971,Q6581072,1979-03-20T00:00:00Z,4,Donika Kadaj Bujupi,Donika Kadaj Bujupi,Albanian-Kosovan politician,Q222,Q11194
+Q16358411,Q6581097,1969-02-04T00:00:00Z,3,Ilir Bajri,Ilir Bajri,composer,Q1246,Q25270
+Q16358435,Q6581097,1960-12-12T00:00:00Z,5,Ilir Shaqiri (singer),Ilir Shaqiri,Albanian singer,Q222,Q1016862
+Q16358435,Q6581097,1960-12-12T00:00:00Z,5,Ilir Shaqiri (singer),Ilir Shaqiri,Albanian singer,Q1246,Q1016862
+Q16361783,Q6581097,1975-02-24T00:00:00Z,2,Vullnet Sefaja,Vullnet Sefaja,Kosovar singer,Q1246,Q178168
+Q16467589,Q6581097,1995-02-25T00:00:00Z,25,Arbër Zeneli,Arbër Zeneli,Swedish-Kosovan association football player,Q34,Q26509
+Q16467589,Q6581097,1995-02-25T00:00:00Z,25,Arbër Zeneli,Arbër Zeneli,Swedish-Kosovan association football player,Q1246,Q26509
+Q167256,Q6581097,1988-05-05T00:00:00Z,22,Fatos Bećiraj,Fatos Bećiraj,Montenegrin footballer,Q1246,Q112657
+Q167256,Q6581097,1988-05-05T00:00:00Z,22,Fatos Bećiraj,Fatos Bećiraj,Montenegrin footballer,Q236,Q112657
+Q16911049,Q6581072,1994-07-04T00:00:00Z,43,Era Istrefi,Era Istrefi,Kosovo-Albanian singer,Q1246,Q25270
+Q16911049,Q6581072,1994-07-04T00:00:00Z,43,Era Istrefi,Era Istrefi,Kosovo-Albanian singer,Q222,Q25270
+Q16934893,Q6581097,1993-10-03T00:00:00Z,19,Fidan Aliti,Fidan Aliti,Albanian footballer,Q222,Q145871
+Q16934893,Q6581097,1993-10-03T00:00:00Z,19,Fidan Aliti,Fidan Aliti,Albanian footballer,Q1246,Q145871
+Q16977460,Q6581097,1994-05-20T00:00:00Z,10,Alban Bunjaku,Alban Bunjaku,Kosovan footballer,Q1246,Q1339305
+Q17154508,Q6581097,1983-05-01T00:00:00Z,11,Kushtrim Mushica,Kushtrim Mushica,Kosovar Albanian footballer,Q1246,Q25270
+Q17154508,Q6581097,1985-05-01T00:00:00Z,11,Kushtrim Mushica,Kushtrim Mushica,Kosovar Albanian footballer,Q1246,Q25270
+Q17159609,Q6581072,1992-08-17T00:00:00Z,36,Nora Gjakova,Nora Gjakova,Kosovo judoka,Q1246,Q112657
+Q17227429,Q6581097,1986-01-01T00:00:00Z,5,Petrit Halilaj,Petrit Halilaj,Kosovar visual artist (born 1986),Q1246,Q15729412
+Q17318924,Q6581097,1979-08-13T00:00:00Z,4,Dardan Sejdiu,Dardan Sejdiu,politician,Q1246,Q25270
+Q17351976,Q6581097,1994-12-30T00:00:00Z,5,Erjon Kastrati,Erjon Kastrati,Slovenian basketball player,Q1246,Q25270
+Q17351976,Q6581097,1994-12-30T00:00:00Z,5,Erjon Kastrati,Erjon Kastrati,Slovenian basketball player,Q215,Q25270
+Q17351976,Q6581097,1994-12-30T00:00:00Z,5,Erjon Kastrati,Erjon Kastrati,Slovenian basketball player,Q37024,Q25270
+Q175496,Q6581097,1930-11-12T00:00:00Z,14,Besim Bokshi,Besim Bokshi,Albanian poet (1930-2014),Q1246,Q474651
+Q17580614,Q6581072,1973-10-29T00:00:00Z,25,Valdete Idrizi,Valdete Idrizi,Activist from Kosovo,Q1246,Q178168
+Q17612369,Q6581097,1994-07-31T00:00:00Z,19,Florent Hadergjonaj,Florent Hadergjonaj,Swiss-Kosovan association football player,Q39,Q66300
+Q17612369,Q6581097,1994-07-31T00:00:00Z,19,Florent Hadergjonaj,Florent Hadergjonaj,Swiss-Kosovan association football player,Q1246,Q66300
+Q177851,Q6581097,1951-05-15T00:00:00Z,36,Isa Mustafa,Isa Mustafa,Kosovo Albanian politician (born 1951),Q1246,Q25270
+Q179695,Q6581097,1936-01-28T00:00:00Z,87,Ismail Kadare,Ismail Kadare,Albanian writer (1936–2024),Q1246,Q173690
+Q179695,Q6581097,1936-01-28T00:00:00Z,87,Ismail Kadare,Ismail Kadare,Albanian writer (1936–2024),Q222,Q173690
+Q179695,Q6581097,1936-01-28T00:00:00Z,87,Ismail Kadare,Ismail Kadare,Albanian writer (1936–2024),Q142,Q173690
+Q18062395,Q6581097,1994-11-08T00:00:00Z,20,Leart Paqarada,Leart Paqarada,German-born Kosovan footballer,Q183,Q24879
+Q18062395,Q6581097,1994-10-08T00:00:00Z,20,Leart Paqarada,Leart Paqarada,German-born Kosovan footballer,Q1246,Q24879
+Q18062395,Q6581097,1994-11-08T00:00:00Z,20,Leart Paqarada,Leart Paqarada,German-born Kosovan footballer,Q1246,Q24879
+Q18062395,Q6581097,1994-10-08T00:00:00Z,20,Leart Paqarada,Leart Paqarada,German-born Kosovan footballer,Q183,Q24879
+Q18127927,Q6581097,1986-10-10T00:00:00Z,5,Xhevdet Shabani,Xhevdet Shabani,Kosovar footballer,Q1246,Q248378
+Q1820096,Q6581072,1991-05-09T00:00:00Z,56,Majlinda Kelmendi,Majlinda Kelmendi,Kosovo-Albanian judoka,Q838261,Q112657
+Q1820096,Q6581072,1991-05-09T00:00:00Z,56,Majlinda Kelmendi,Majlinda Kelmendi,Kosovo-Albanian judoka,Q1246,Q112657
+Q18249311,Q6581097,1989-08-01T00:00:00Z,11,Malcolm Armstead,Malcolm Armstead,American basketball player,Q1246,Q79743
+Q18249311,Q6581097,1989-08-01T00:00:00Z,11,Malcolm Armstead,Malcolm Armstead,American basketball player,Q30,Q79743
+Q18589243,Q6581097,1995-02-01T00:00:00Z,23,Mërgim Vojvoda,Mërgim Vojvoda,Kosovan association football player,Q31,Q6938
+Q18589243,Q6581097,1995-02-01T00:00:00Z,23,Mërgim Vojvoda,Mërgim Vojvoda,Kosovan association football player,Q222,Q6938
+Q18589243,Q6581097,1995-02-01T00:00:00Z,23,Mërgim Vojvoda,Mërgim Vojvoda,Kosovan association football player,Q1246,Q6938
+Q18639642,Q6581097,2000-01-01T00:00:00Z,4,Bekim Çollaku,Bekim Çollaku,Kosovar politician,Q1246,
+Q18712899,Q6581097,1996-08-25T00:00:00Z,23,Donis Avdijaj,Donis Avdijaj,Albanian footballer,Q183,Q2916
+Q18712899,Q6581097,1996-08-25T00:00:00Z,23,Donis Avdijaj,Donis Avdijaj,Albanian footballer,Q1246,Q2916
+Q1871316,Q6581097,1919-09-12T00:00:00Z,12,Ali Šukrija,Ali Shukri,Albanian politician (1919-2005),Q1246,Q178168
+Q1877807,Q6581097,1969-11-08T00:00:00Z,6,Lutfi Haziri,Lutfi Haziri,Kosovar politician (born 1969),Q1246,Q739808
+Q1913838,Q6581097,1945-12-04T00:00:00Z,9,Rauf Dhomi,Rauf Dhomi,Albanian composer and conductor,Q1246,Q474651
+Q1920001,Q6581097,1980-01-25T00:00:00Z,10,Memli Krasniqi,Memli Krasniqi,Kosovan politician,Q1246,Q25270
+Q19309090,Q6581097,1989-04-26T00:00:00Z,5,Shqiprim Binakaj,Shqiprim Binakaj,Kosovar association football player,Q1246,Q474651
+Q193148,Q6581097,1951-10-23T00:00:00Z,51,Fatmir Sejdiu,Fatmir Sejdiu,President of Kosovo,Q2631403,Q3338471
+Q193148,Q6581097,1951-10-23T00:00:00Z,51,Fatmir Sejdiu,Fatmir Sejdiu,President of Kosovo,Q1246,Q3338471
+Q193148,Q6581097,1951-10-23T00:00:00Z,51,Fatmir Sejdiu,Fatmir Sejdiu,President of Kosovo,Q83286,Q3338471
+Q1939274,Q6581097,1942-08-01T00:00:00Z,16,Ali Podrimja,Ali Podrimja,Albanian poet (1942–2012),Q1246,Q474651
+Q1951811,Q6581097,1964-02-12T00:00:00Z,6,Muhamet Hamiti,Muhamet Hamiti,Kosovar diplomat,Q1246,Q994245
+Q19544756,Q6581072,1956-06-02T00:00:00Z,6,Hiljmnijeta Apuk,Hiljmnijeta Apuk,Kosovan activist,Q1246,Q178168
+Q1986243,Q6581097,1985-02-03T00:00:00Z,16,Justin Doellman,Justin Doellman,Kosovan basketball player (born 1985),Q30,Q43196
+Q1986243,Q6581097,1985-02-03T00:00:00Z,16,Justin Doellman,Justin Doellman,Kosovan basketball player (born 1985),Q1246,Q43196
+Q19931570,Q6581072,1996-10-19T00:00:00Z,3,Fortesa Orana,Fortesa Orana,Kosovar kyokushin,Q1246,
+Q1994623,Q6581072,1990-09-23T00:00:00Z,7,Marigona Dragusha,Marigona Dragusha,Kosovar beauty queen,Q1246,Q25270
+Q1994623,Q6581072,1990-09-23T00:00:00Z,7,Marigona Dragusha,Marigona Dragusha,Kosovar beauty queen,Q222,Q25270
+Q19958238,Q6581072,1988-10-09T00:00:00Z,5,Suada Jashari,Suada Jashari,Albanian association football player,Q222,Q222
+Q19958238,Q6581072,1988-10-09T00:00:00Z,5,Suada Jashari,Suada Jashari,Albanian association football player,Q1246,Q222
+Q19959133,Q6581097,1991-03-01T00:00:00Z,8,Capital T,Capital T,"Kosovo-born Albanian rapper, singer and songwriter",Q1246,Q25270
+Q20020222,Q6581097,1995-01-01T00:00:00Z,8,Jetmir Krasniqi,Jetmir Krasniqi,Swiss association football player,Q39,Q963121
+Q20020222,Q6581097,1995-01-01T00:00:00Z,8,Jetmir Krasniqi,Jetmir Krasniqi,Swiss association football player,Q1246,Q963121
+Q20039804,Q6581072,1995-12-10T00:00:00Z,33,Distria Krasniqi,Distria Krasniqi,Kosovo judoka (born 1995),Q1246,Q112657
+Q206622,Q6581097,1936-01-19T00:00:00Z,10,Mahmut Bakalli,Mahmut Bakalli,Kosovar Albanian politician (1936-2006),Q83286,Q474651
+Q206622,Q6581097,1936-01-19T00:00:00Z,10,Mahmut Bakalli,Mahmut Bakalli,Kosovar Albanian politician (1936-2006),Q1246,Q474651
+Q2067981,Q6581097,1981-12-11T00:00:00Z,8,Alban Dragusha,Alban Dragusha,Kosovar footballer (born 1981),Q1246,Q25270
+Q20744140,Q6581097,1996-06-28T00:00:00Z,33,Milot Rashica,Milot Rashica,Kosovan association football player (born 1996),Q222,Q911241
+Q20744140,Q6581097,1996-06-28T00:00:00Z,33,Milot Rashica,Milot Rashica,Kosovan association football player (born 1996),Q1246,Q911241
+Q20859417,Q6581097,1989-03-12T00:00:00Z,6,Lavdrim Muhaxheri,Lavdrim Muhaxheri,Kosovar Albanian jihadist,Q1246,Q248378
+Q20872101,Q6581097,1987-10-11T00:00:00Z,9,Musa Hajdari,Musa Hajdari,Kosovan middle-distance runner,Q1246,Q763770
+Q20872101,Q6581097,1987-11-10T00:00:00Z,9,Musa Hajdari,Musa Hajdari,Kosovan middle-distance runner,Q1246,Q763770
+Q21012921,Q6581097,1989-08-12T00:00:00Z,11,Scott Bamforth,Scott Bamforth,American basketball player,Q30,Q34804
+Q21012921,Q6581097,1989-08-12T00:00:00Z,11,Scott Bamforth,Scott Bamforth,American basketball player,Q1246,Q34804
+Q21285322,Q6581097,1988-12-03T00:00:00Z,2,Dragan Kruscić,Dragan Kruscić,Kosovan basketball player (1988-),Q1246,Q112657
+Q21832694,Q6581097,1995-02-06T00:00:00Z,7,Suad Sahiti,Suad Sahiti,association football player,Q1246,Q3711
+Q21872640,Q6581097,1983-07-01T00:00:00Z,4,Fisnik Papuçi,Fisnik Papuçi,association football player,Q1246,Q112657
+Q21914464,Q6581072,1995-08-22T00:00:00Z,114,Dua Lipa,,British singer-songwriter,Q145,Q7270242
+Q21914464,Q6581072,1995-08-22T00:00:00Z,114,Dua Lipa,,British singer-songwriter,Q222,Q7270242
+Q21914464,Q6581072,1995-08-22T00:00:00Z,114,Dua Lipa,,British singer-songwriter,Q1246,Q7270242
+Q21932219,Q6581097,1995-10-10T00:00:00Z,4,Marko Kostić,Marko Kostić,Serbian footballer,Q1246,Q178168
+Q22003243,Q6581097,1980-09-19T00:00:00Z,6,Edmond Azemi,Edmond Azemi,basketball player,Q224,Q169247
+Q22003243,Q6581097,1980-09-19T00:00:00Z,6,Edmond Azemi,Edmond Azemi,basketball player,Q1246,Q169247
+Q22003243,Q6581097,1980-09-10T00:00:00Z,6,Edmond Azemi,Edmond Azemi,basketball player,Q222,Q169247
+Q22003243,Q6581097,1980-09-10T00:00:00Z,6,Edmond Azemi,Edmond Azemi,basketball player,Q224,Q169247
+Q22003243,Q6581097,1980-09-10T00:00:00Z,6,Edmond Azemi,Edmond Azemi,basketball player,Q1246,Q169247
+Q22003243,Q6581097,1980-09-19T00:00:00Z,6,Edmond Azemi,Edmond Azemi,basketball player,Q222,Q169247
+Q22279296,Q6581097,1992-12-12T00:00:00Z,5,Gëzim Morina,Gëzim Morina,Slovene basketball player (1992-),Q1246,Q59086
+Q22279296,Q6581097,1992-12-12T00:00:00Z,5,Gëzim Morina,Gëzim Morina,Slovene basketball player (1992-),Q37024,Q59086
+Q22279296,Q6581097,1992-12-12T00:00:00Z,5,Gëzim Morina,Gëzim Morina,Slovene basketball player (1992-),Q215,Q59086
+Q2230651,Q6581097,1958-11-18T00:00:00Z,7,Dragan Velić,Dragan Velić,Kosovar politician,Q1246,Q12759831
+Q2256749,Q6581097,1925-03-15T00:00:00Z,8,Riza Sapunxhiu,Riza Sapunxhiu,Kosovar politician and economist,Q1246,Q112657
+Q22958530,Q6581097,1997-04-25T00:00:00Z,13,Visar Bekaj,Visar Bekaj,association football player,Q222,Q25270
+Q22958530,Q6581097,1997-05-24T00:00:00Z,13,Visar Bekaj,Visar Bekaj,association football player,Q222,Q25270
+Q22958530,Q6581097,1997-04-25T00:00:00Z,13,Visar Bekaj,Visar Bekaj,association football player,Q1246,Q25270
+Q22958530,Q6581097,1997-05-24T00:00:00Z,13,Visar Bekaj,Visar Bekaj,association football player,Q1246,Q25270
+Q22978030,Q6581097,1964-09-09T00:00:00Z,2,Valdet Shoshi,Valdet Shoshi,association football player,Q1246,Q112657
+Q23060842,Q6581097,1990-04-20T00:00:00Z,4,Senad Gashi,Senad Gashi,Kosovar boxer,Q1246,Q112657
+Q235260,Q6581072,1986-08-25T00:00:00Z,37,Rona Nishliu,Rona Nishliu,Kosovo-Albanian singer,Q1246,Q178168
+Q235260,Q6581072,1986-08-25T00:00:00Z,37,Rona Nishliu,Rona Nishliu,Kosovo-Albanian singer,Q222,Q178168
+Q23918172,Q6581072,1992-12-24T00:00:00Z,20,Dhurata Dora,Dhurata Dora,Kosovo-Albanian singer and songwriter,Q183,Q2090
+Q23918172,Q6581072,1992-12-24T00:00:00Z,20,Dhurata Dora,Dhurata Dora,Kosovo-Albanian singer and songwriter,Q1246,Q2090
+Q24450537,Q6581097,1994-03-12T00:00:00Z,5,Jaren Sina,Jaren Sina,Kosovan basketball player (born 1994),Q1246,Q428459
+Q24450537,Q6581097,1994-03-12T00:00:00Z,5,Jaren Sina,Jaren Sina,Kosovan basketball player (born 1994),Q30,Q428459
+Q24453549,Q6581097,1996-01-11T00:00:00Z,3,Kamer Krasniqi,Kamer Krasniqi,German-Kosovan association football player,Q183,Q2916
+Q24453549,Q6581097,1996-01-11T00:00:00Z,3,Kamer Krasniqi,Kamer Krasniqi,German-Kosovan association football player,Q1246,Q2916
+Q24730726,Q6581097,1993-11-27T00:00:00Z,10,Qëndrim Guri,Qëndrim Guri,Kosovan cyclist,Q1246,Q738901
+Q24953743,Q6581097,1996-01-04T00:00:00Z,17,Akil Gjakova,Akil Gjakova,Kosovo judoka (born 1996),Q1246,Q112657
+Q25568102,Q6581097,1990-09-19T00:00:00Z,3,Andin Rashica,Andin Rashica,Kosovan basketball coach,Q1246,Q25270
+Q25570375,Q6581097,1982-06-13T00:00:00Z,13,Ag Apolloni,Ag Apolloni,"Albanian writer, poet, playwright, scholar, and essayist",Q1246,Q248378
+Q25936031,Q6581097,1989-04-30T00:00:00Z,5,Donjet Shkodra,Donjet Shkodra,association football player,Q1246,Q25270
+Q26207321,Q6581072,1997-10-08T00:00:00Z,7,Vijona Kryeziu,Vijona Kryeziu,Kosovar athletics competitor,Q1246,Q1246
+Q26207354,Q6581097,1990-03-05T00:00:00Z,10,Lum Zhaveli,Lum Zhaveli,Kosovan Olympic swimmer,Q1246,Q25270
+Q26207380,Q6581072,1995-12-08T00:00:00Z,14,Rita Zeqiri,Rita Zeqiri,Kosovan swimmer,Q1246,Q25270
+Q26207424,Q6581072,1986-12-20T00:00:00Z,7,Urata Rama,Urata Rama,Kosovan sports shooter,Q1246,Q1021775
+Q26251753,Q6581097,1996-09-30T00:00:00Z,23,Ardian Ismajli,Ardian Ismajli,Albanian-Kosovan association football player,Q1246,Q11190261
+Q2680121,Q6581072,1987-04-10T00:00:00Z,2,Taida Pasić,Taida Pasić,Kosovan refugee,Q1246,Q25270
+Q26838527,Q6581097,1995-02-27T00:00:00Z,1,Leonard Mekaj,Leonard Mekaj,Kosovan basketball player (born 1995),Q37024,Q112657
+Q26838527,Q6581097,1995-02-27T00:00:00Z,1,Leonard Mekaj,Leonard Mekaj,Kosovan basketball player (born 1995),Q1246,Q112657
+Q26924545,Q6581097,1989-08-26T00:00:00Z,2,Fisnik Rugova,Fisnik Rugova,Kosovar basketball player,Q37024,Q25270
+Q26924545,Q6581097,1989-08-26T00:00:00Z,2,Fisnik Rugova,Fisnik Rugova,Kosovar basketball player,Q1246,Q25270
+Q26994738,Q6581097,1997-01-24T00:00:00Z,19,Ibrahim Drešević,Ibrahim Drešević,Swedish association football player,Q34,Q10500565
+Q26994738,Q6581097,1997-01-24T00:00:00Z,19,Ibrahim Drešević,Ibrahim Drešević,Swedish association football player,Q1246,Q10500565
+Q2702045,Q6581097,1988-07-08T00:00:00Z,14,Ahmed Januzi,Ahmed Januzi,Albanian footballer,Q222,Q911241
+Q2702045,Q6581097,1988-07-08T00:00:00Z,14,Ahmed Januzi,Ahmed Januzi,Albanian footballer,Q1246,Q911241
+Q27304948,Q6581097,1995-06-19T00:00:00Z,9,Bledar Hajdini,Bledar Hajdini,association football player,Q1246,Q16003
+Q27531198,Q6581097,1996-09-16T00:00:00Z,1,Nderim Saraçi,Nderim Saraci,chess player,Q1246,
+Q2757703,Q6581097,1996-09-11T00:00:00Z,16,Zymer Bytyqi,Zymer Bytyqi,Kosovan association football player,Q1246,Q37792
+Q2757703,Q6581097,1996-09-11T00:00:00Z,16,Zymer Bytyqi,Zymer Bytyqi,Kosovan association football player,Q20,Q37792
+Q275986,Q6581097,1993-02-07T00:00:00Z,30,Valon Berisha,Valon Berisha,Kosovan footballer,Q20,Q2211
+Q275986,Q6581097,1993-02-07T00:00:00Z,30,Valon Berisha,Valon Berisha,Kosovan footballer,Q1246,Q2211
+Q2764162,Q6581097,1988-02-05T00:00:00Z,6,Shkodran Metaj,Shkodran Metaj,Dutch footballer,Q1246,Q112657
+Q2764162,Q6581097,1988-02-05T00:00:00Z,6,Shkodran Metaj,Shkodran Metaj,Dutch footballer,Q29999,Q112657
+Q27649605,Q6581097,1996-08-13T00:00:00Z,10,Florian Loshaj,Florian Loshaj,association football player,Q1246,Q991291
+Q27649605,Q6581097,1996-08-13T00:00:00Z,10,Florian Loshaj,Florian Loshaj,association football player,Q31,Q991291
+Q27663454,Q6581097,1985-11-13T00:00:00Z,4,Granit Rugova,Granit Rugova,Kosovan basketball player (born 1985),Q1246,Q25270
+Q27663454,Q6581097,1985-11-13T00:00:00Z,4,Granit Rugova,Granit Rugova,Kosovan basketball player (born 1985),Q37024,Q25270
+Q27681545,Q6581097,1992-03-02T00:00:00Z,3,Herolind Nishevci,Herolind Nishevci,karateka from Kosovo,Q222,Q25270
+Q27681545,Q6581097,1992-03-02T00:00:00Z,3,Herolind Nishevci,Herolind Nishevci,karateka from Kosovo,Q1246,Q25270
+Q27986499,Q6581097,1994-11-01T00:00:00Z,11,Ardin Dallku,Ardin Dallku,Kosovan association football player,Q1246,Q911241
+Q28058586,Q6581097,1997-05-22T00:00:00Z,16,Enes Mahmutović,Enes Mahmutovic,Luxembourger footballer,Q32,Q112657
+Q28058586,Q6581097,1997-05-22T00:00:00Z,16,Enes Mahmutović,Enes Mahmutovic,Luxembourger footballer,Q1246,Q112657
+Q28740081,Q6581097,1989-02-15T00:00:00Z,18,Albin Tahiri,Albin Tahiri,Kosovo Albanian alpine ski racer,Q1246,Q15918
+Q287844,Q6581072,1979-12-14T00:00:00Z,16,Adelina Ismaili,Adelina Ismaili,"Kosovo-Albanian singer, actress, beauty pageant winner (born 1979)",Q1246,Q25270
+Q287844,Q6581072,1979-12-14T00:00:00Z,16,Adelina Ismaili,Adelina Ismaili,"Kosovo-Albanian singer, actress, beauty pageant winner (born 1979)",Q83286,Q25270
+Q29480697,Q6581097,1992-08-23T00:00:00Z,4,Mergim Krasniqi,Mergim Krasniqi,Swedish footballer,Q1246,Q26040
+Q29480697,Q6581097,1992-08-23T00:00:00Z,4,Mergim Krasniqi,Mergim Krasniqi,Swedish footballer,Q34,Q26040
+Q29603867,Q6581097,1995-09-29T00:00:00Z,7,Mozzik,Mozzik,Kosovo-Albanian rapper and singer (born 1995),Q1246,Q738901
+Q29603891,Q6581097,1990-06-13T00:00:00Z,4,Getinjo,Getinjo,kosovo-Albanian rapper (born 1991),Q1246,Q738901
+Q29628271,Q6581072,1997-12-21T00:00:00Z,6,Kida (singer),Kida,singer,Q1246,Q733155
+Q30006877,Q6581097,1998-07-06T00:00:00Z,13,Florent Muslija,Florent Muslija,association football player,Q1246,Q373824
+Q30006877,Q6581097,1998-07-06T00:00:00Z,13,Florent Muslija,Florent Muslija,association football player,Q222,Q373824
+Q3026133,Q6581072,1993-06-11T00:00:00Z,3,Diana Avdiu,Diana Avdiu,Kosovar beauty pageant contestant,Q1246,Q178168
+Q3026133,Q6581072,1993-06-11T00:00:00Z,3,Diana Avdiu,Diana Avdiu,Kosovar beauty pageant contestant,Q222,Q178168
+Q30323682,Q6581097,1976-02-04T00:00:00Z,32,Avdullah Hoti,Avdullah Hoti,Kosovan politician,Q1246,Q733155
+Q31184110,Q6581097,1968-01-01T00:00:00Z,9,Adem Hodža,Adem Hodža,Kosovar politician,Q1246,Q3338808
+Q313573,Q6581097,1960-10-29T00:00:00Z,30,Agim Çeku,Agim Çeku,Kosovar military commander and politician,Q1246,Q2123750
+Q316553,Q6581097,1968-07-03T00:00:00Z,43,Ramush Haradinaj,Ramush Haradinaj,Prime Minister of Kosovo (2004–2005; 2017–2020),Q1246,Q860148
+Q31665271,Q6581072,1950-01-01T00:00:00Z,3,Afërdita Deva-Zuna,Afërdita Deva-Zuna,,Q1246,
+Q31666172,Q6581072,1999-07-08T00:00:00Z,5,Donjeta Sadiku,Donjeta Sadiku,Kosovar boxer,Q1246,Q25270
+Q3299649,Q6581097,1930-01-01T00:00:00Z,5,Muharrem Qena,Muharrem Qena,"Kosovo Albanian actor, director, writer and singer (1930–2006)",Q191077,Q178168
+Q3299649,Q6581097,1930-01-01T00:00:00Z,5,Muharrem Qena,Muharrem Qena,"Kosovo Albanian actor, director, writer and singer (1930–2006)",Q1246,Q178168
+Q3299649,Q6581097,1930-01-01T00:00:00Z,5,Muharrem Qena,Muharrem Qena,"Kosovo Albanian actor, director, writer and singer (1930–2006)",Q83286,Q178168
+Q3300562,Q6581072,1988-01-18T00:00:00Z,9,Yllka Berisha,Yllka Berisha,Swedish-Albanian model and singer,Q1246,Q25270
+Q3300595,Q6581072,1924-11-29T00:00:00Z,7,Liza Vorfi,Liza Vorfi,Kosovar-Albanian artist,Q222,Q474651
+Q3300595,Q6581072,1924-11-29T00:00:00Z,7,Liza Vorfi,Liza Vorfi,Kosovar-Albanian artist,Q1246,Q474651
+Q3301363,Q6581097,1929-05-07T00:00:00Z,6,Din Mehmeti,Din Mehmeti,Albanian poet and writer from Kosovo (1929-2010),Q1246,Q12747507
+Q3301363,Q6581097,1932-01-01T00:00:00Z,6,Din Mehmeti,Din Mehmeti,Albanian poet and writer from Kosovo (1929-2010),Q1246,Q12747507
+Q3302348,Q6581097,1984-09-05T00:00:00Z,8,MC Kresha,MC Kresha,Kosovo-Albanian rapper and songwriter,Q1246,Q178168
+Q3303166,Q6581097,1950-05-10T00:00:00Z,6,Sabri Hamiti,Sabri Hamiti,Albanian writer,Q1246,
+Q3304342,Q6581097,1966-06-15T00:00:00Z,7,Bekim Berisha,Bekim Berisha,"Croatian army officer, Kosovo Liberation Army officer, (1966–1998)",Q1246,Q112657
+Q333868,Q6581097,1948-12-23T00:00:00Z,16,Azem Vllasi,Azem Vllasi,Kosovar politician,Q1246,Q763770
+Q3350657,Q6581097,1953-04-01T00:00:00Z,25,Oliver Ivanović,Oliver Ivanović,Serbian politician and economist,Q403,Q11098531
+Q3350657,Q6581097,1953-04-01T00:00:00Z,25,Oliver Ivanović,Oliver Ivanović,Serbian politician and economist,Q1246,Q11098531
+Q335590,Q6581097,1939-01-02T00:00:00Z,5,Mirko Gashi,Mirko Gashi,Kosovar Albanian journalist and poet,Q1246,Q206317
+Q337614,Q6581097,1978-11-27T00:00:00Z,50,Jeton Kelmendi,Jeton Kelmendi,Kosovar writer,Q1246,Q112657
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q777147,Q994245
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q37024,Q994245
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q83286,Q994245
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q1290149,Q994245
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q191077,Q994245
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q838261,Q994245
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q403,Q994245
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q1448131,Q994245
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q1277557,Q994245
+Q355648,Q6581097,1936-02-26T00:00:00Z,36,Adem Demaçi,Adem Demaçi,Albanian politician (1936-2018),Q1246,Q994245
+Q355659,Q6581097,1955-11-28T00:00:00Z,28,Adem Jashari,Adem Jashari,Commander of the Kosovo Liberation Army (1955–1998),Q1246,Q646035
+Q3606266,Q6581097,1967-01-17T00:00:00Z,6,Afrim Tovërlani,Afrim Tovërlani,football player and manager,Q1246,Q25270
+Q3702492,Q6581097,1988-11-15T00:00:00Z,10,Dardan Berisha,Dardan Berisha,Kosovar basketball player,Q224,Q112657
+Q3702492,Q6581097,1988-11-15T00:00:00Z,10,Dardan Berisha,Dardan Berisha,Kosovar basketball player,Q36,Q112657
+Q3702492,Q6581097,1988-11-15T00:00:00Z,10,Dardan Berisha,Dardan Berisha,Kosovar basketball player,Q1246,Q112657
+Q373742,Q6581097,1989-11-10T00:00:00Z,14,Adrian Nikçi,Adrian Nikçi,Swiss footballer,Q1246,Q11194
+Q373742,Q6581097,1989-11-10T00:00:00Z,14,Adrian Nikçi,Adrian Nikçi,Swiss footballer,Q39,Q11194
+Q37763370,Q6581097,1986-01-01T00:00:00Z,4,Shpëtim Selmani,Shpëtim Selmani,Albanian politician,Q1246,Q25270
+Q37763370,Q6581097,1986-05-16T00:00:00Z,4,Shpëtim Selmani,Shpëtim Selmani,Albanian politician,Q1246,Q25270
+Q3796434,Q6581097,1982-07-11T00:00:00Z,6,Ilir Nallbani,Ilir Nallbani,footballer,Q1246,Q112657
+Q381205,Q6581097,1983-11-29T00:00:00Z,27,Albert Bunjaku,Albert Bunjaku,Swiss footballer,Q1246,Q739808
+Q381205,Q6581097,1983-11-29T00:00:00Z,27,Albert Bunjaku,Albert Bunjaku,Swiss footballer,Q39,Q739808
+Q41187252,Q6581097,1994-06-29T00:00:00Z,6,Lis Shoshi,Lis Shoshi,Kosovan basketball player (born 1994),Q1246,Q112657
+Q4128499,Q6581097,1992-08-03T00:00:00Z,15,Lum Rexhepi,Lum Rexhepi,footballer,Q1246,Q38511
+Q4128499,Q6581097,1992-08-03T00:00:00Z,15,Lum Rexhepi,Lum Rexhepi,footballer,Q33,Q38511
+Q41711291,Q6581072,1983-11-27T00:00:00Z,16,Uta Ibrahimi,Uta Ibrahimi,Albanian alpinist from Kosovo,Q222,Q739808
+Q41711291,Q6581072,1983-11-27T00:00:00Z,16,Uta Ibrahimi,Uta Ibrahimi,Albanian alpinist from Kosovo,Q1246,Q739808
+Q42303600,Q6581097,1999-03-31T00:00:00Z,26,Edon Zhegrova,Edon Zhegrova,Kosovar association football player,Q1246,Q3971
+Q427431,Q6581097,1989-08-19T00:00:00Z,16,Anel Rashkaj,Anel Raskaj,Yugoslavian football player,Q1246,Q200061
+Q431561,Q6581097,1981-03-18T00:00:00Z,10,Unikkatil,Unikkatil,Kosovo-Albanian rapper,Q1246,Q25270
+Q43188945,Q6581097,1992-10-10T00:00:00Z,8,Armend Thaqi,Armend Thaqi,Kosovan footballer (born 1992),Q1246,Q25270
+Q43188945,Q6581097,1992-09-10T00:00:00Z,8,Armend Thaqi,Armend Thaqi,Kosovan footballer (born 1992),Q1246,Q25270
+Q43302519,Q6581097,1975-01-25T00:00:00Z,6,Bekim Jashari,Bekim Jashari,Kosovo Albanian politician,Q1246,Q12751081
+Q43388670,Q6581072,1973-07-15T00:00:00Z,11,Emilija Redžepi,Emilija Redžepi,Kosovar politician (* 1973),Q1246,Q200061
+Q441633,Q6581097,1975-03-24T00:00:00Z,55,Albin Kurti,Albin Kurti,Prime Minister of Kosovo (2020; since 2021),Q1246,Q25270
+Q45740424,Q6581072,1981-01-01T00:00:00Z,7,Antoneta Kastrati,Antoneta Kastrati,Kosovan director and screenwriter,Q1246,Q112657
+Q45848348,Q6581097,1998-03-27T00:00:00Z,5,Iljasa Zulfiu,Iljasa Zulfiu,association football player,Q403,Q386397
+Q45848348,Q6581097,1998-03-27T00:00:00Z,5,Iljasa Zulfiu,Iljasa Zulfiu,association football player,Q1246,Q386397
+Q462415,Q6581072,1979-10-02T00:00:00Z,29,Arta Dobroshi,Arta Dobroshi,Kosovar-Albanian actress,Q838261,Q25270
+Q462415,Q6581072,1979-10-02T00:00:00Z,29,Arta Dobroshi,Arta Dobroshi,Kosovar-Albanian actress,Q37024,Q25270
+Q462415,Q6581072,1979-10-02T00:00:00Z,29,Arta Dobroshi,Arta Dobroshi,Kosovar-Albanian actress,Q83286,Q25270
+Q462415,Q6581072,1979-10-02T00:00:00Z,29,Arta Dobroshi,Arta Dobroshi,Kosovar-Albanian actress,Q1246,Q25270
+Q462415,Q6581072,1979-10-02T00:00:00Z,29,Arta Dobroshi,Arta Dobroshi,Kosovar-Albanian actress,Q403,Q25270
+Q462452,Q6581072,1980-06-09T00:00:00Z,9,Arta Bajrami,Arta Bajrami,Albanian singer,Q1246,Q25270
+Q462452,Q6581072,1980-06-09T00:00:00Z,9,Arta Bajrami,Arta Bajrami,Albanian singer,Q222,Q25270
+Q462470,Q6581072,1946-08-16T00:00:00Z,14,Kaqusha Jashari,Kaqusha Jashari,Prime Minister of Kosovo,Q1246,Q991291
+Q462696,Q6581072,1993-04-24T00:00:00Z,14,Dafina Zeqiri,Dafina Zeqiri,Kosovo-Albanian singer,Q1246,Q21168
+Q462696,Q6581072,1993-04-24T00:00:00Z,14,Dafina Zeqiri,Dafina Zeqiri,Kosovo-Albanian singer,Q34,Q21168
+Q462711,Q6581072,1984-12-04T00:00:00Z,14,Genta Ismajli,Genta Ismajli,Kosovo-Albanian singer,Q30,Q739808
+Q462711,Q6581072,1984-12-04T00:00:00Z,14,Genta Ismajli,Genta Ismajli,Kosovo-Albanian singer,Q1246,Q739808
+Q462715,Q6581072,1986-05-12T00:00:00Z,9,Vesa Luma,Vesa Luma,Kosovo-Albanian singer,Q1246,Q25270
+Q462738,Q6581072,1986-03-25T00:00:00Z,15,Nora Istrefi,Nora Istrefi,Kosovo-Albanian singer,Q1246,Q25270
+Q462738,Q6581072,1986-03-25T00:00:00Z,15,Nora Istrefi,Nora Istrefi,Kosovo-Albanian singer,Q222,Q25270
+Q4682123,Q6581097,1937-12-21T00:00:00Z,7,Adem Mikullovci,Adem Mikullovci,Kosovan actor and politician (1937–2020),Q1246,Q911241
+Q47002659,Q6581072,1991-01-01T00:00:00Z,2,Elbenita Kajtazi,Elbenita Kajtazi,Kosovar soprano,Q1246,Q178168
+Q47469649,Q6581097,1993-07-07T00:00:00Z,8,Dominic Artis,Dominic Artis,Kosovan basketball player (born 1993),Q30,Q62
+Q47469649,Q6581097,1993-07-07T00:00:00Z,8,Dominic Artis,Dominic Artis,Kosovan basketball player (born 1993),Q1246,Q62
+Q4775724,Q6581097,1980-04-14T00:00:00Z,4,Anton Dedaj,Anton Dedaj,footballer,Q1246,Q200061
+Q4784680,Q6581097,1982-02-02T00:00:00Z,5,Arben Zharku,Arben Zharku,Kosovar producer,Q1246,Q248378
+Q4796548,Q6581097,1972-11-28T00:00:00Z,5,Arsim Abazi,Arsim Abazi,Kosovar footballer,Q1246,Q738901
+Q4801632,Q6581097,1989-11-19T00:00:00Z,2,Artur Krasniqi,Artur Krasniqi,religious leader,Q1246,Q25270
+Q4829082,Q6581097,1953-03-12T00:00:00Z,4,Avni Spahiu,Avni Spahiu,Kosovar diplomat,Q1246,Q178168
+Q4832327,Q6581097,1988-02-15T00:00:00Z,10,Azdren Llullaku,Azdren Llullaku,Albanian footballer,Q38,Q991332
+Q4832327,Q6581097,1988-02-15T00:00:00Z,10,Azdren Llullaku,Azdren Llullaku,Albanian footballer,Q222,Q991332
+Q4832327,Q6581097,1988-02-15T00:00:00Z,10,Azdren Llullaku,Azdren Llullaku,Albanian footballer,Q1246,Q991332
+Q4844733,Q6581097,1944-01-01T00:00:00Z,3,Esat Valla,Esat Valla,Kosovar painter (born 1944),Q1246,Q474651
+Q4869463,Q6581097,1967-04-11T00:00:00Z,7,Baton Haxhiu,Baton Haxhiu,Albanian journalist,Q222,Q1008042
+Q4869463,Q6581097,1967-04-11T00:00:00Z,7,Baton Haxhiu,Baton Haxhiu,Albanian journalist,Q1246,Q1008042
+Q4887522,Q6581097,1978-08-04T00:00:00Z,3,Benet Kaci,Benet Kaci,Kosovan journalist,Q1246,Q474651
+Q4891005,Q6581097,1975-11-22T00:00:00Z,4,Berat Buzhala,Berat Buzhala,Kosovar journalist,Q1246,Q3303998
+Q4891005,Q6581097,1975-11-22T00:00:00Z,4,Berat Buzhala,Berat Buzhala,Kosovar journalist,Q222,Q3303998
+Q4891006,Q6581097,1986-10-26T00:00:00Z,3,Berat Hyseni,Berat Hyseni,Kosovar football player,Q1246,Q83286
+Q49164629,Q6581097,1991-01-17T00:00:00Z,4,Drilon Hajrizi,Drilon Hajrizi,Kosovan basketball player (born 1991),Q37024,Q178168
+Q49164629,Q6581097,1991-01-17T00:00:00Z,4,Drilon Hajrizi,Drilon Hajrizi,Kosovan basketball player (born 1991),Q1246,Q178168
+Q4926173,Q6581097,1981-10-24T00:00:00Z,3,Blerim Mazreku,Blerim Mazregu,Albanian basketball player,Q403,Q59086
+Q4926173,Q6581097,1981-10-24T00:00:00Z,3,Blerim Mazreku,Blerim Mazregu,Albanian basketball player,Q37024,Q59086
+Q4926173,Q6581097,1981-10-24T00:00:00Z,3,Blerim Mazreku,Blerim Mazregu,Albanian basketball player,Q1246,Q59086
+Q4952077,Q6581072,1994-03-24T00:00:00Z,32,Lindita (singer),Lindita Halimi,Kosovo-Albanian singer,Q1246,Q1021775
+Q4952077,Q6581072,1994-03-24T00:00:00Z,32,Lindita (singer),Lindita Halimi,Kosovo-Albanian singer,Q222,Q1021775
+Q49687861,Q6581097,1997-03-30T00:00:00Z,14,Florent Hasani,Florent Hasani,association football player,Q1246,Q911241
+Q50380070,Q6581097,1962-06-29T00:00:00Z,3,Pal Lekaj,Pal Lekaj,Kosovan politician,Q1246,Q474651
+Q50386428,Q6581097,2000-02-05T00:00:00Z,11,Vesel Demaku,Vesel Demaku,Kosovan association football player (born 2000),Q1246,Q437393
+Q50386428,Q6581097,2000-02-05T00:00:00Z,11,Vesel Demaku,Vesel Demaku,Kosovan association football player (born 2000),Q40,Q437393
+Q50528919,Q6581097,1999-01-16T00:00:00Z,15,"Lirim Kastrati (footballer, born January 1999)",Lirim Kastrati,Kosovan association football player,Q1246,Q16508802
+Q50528919,Q6581097,1999-01-16T00:00:00Z,15,"Lirim Kastrati (footballer, born January 1999)",Lirim Kastrati,Kosovan association football player,Q403,Q16508802
+Q50874889,Q6581097,1998-04-23T00:00:00Z,10,Arbenit Xhemajli,Arbenit Xhemajli,Kosovan footballer,Q1246,Q72
+Q51200281,Q6581072,1970-09-12T00:00:00Z,15,Feride Rushiti,Feride Rushiti,"doctor, founder and executive director of the Kosovo Center for the Rehabilitation of Torture Victims",Q1246,
+Q5208347,Q6581072,1984-04-01T00:00:00Z,14,Dafina Zeqiri (composer),Dafina Zeqiri,Kosovar composer/artist,Q1246,Q25270
+Q52152390,Q6581097,2001-04-22T00:00:00Z,8,Leard Sadriu,Leard Sadriu,Kosovan association football player,Q1246,Q738901
+Q5222412,Q6581097,1969-07-03T00:00:00Z,4,Dardan Gashi,Dardan Gashi,Kosovar politician,Q83286,Q646035
+Q5222412,Q6581097,1969-07-03T00:00:00Z,4,Dardan Gashi,Dardan Gashi,Kosovar politician,Q1246,Q646035
+Q52419347,Q6581097,1998-11-29T00:00:00Z,11,Emir Sahiti,Emir Sahiti,Kosovan association football player,Q1246,Q189419
+Q53106238,Q6581097,1983-11-03T00:00:00Z,2,Rame Lahaj,Rame Lahaj,operatic tenor,Q1246,Q991332
+Q531433,Q6581097,1988-07-05T00:00:00Z,30,Samir Ujkani,Samir Ujkani,Albanian-Kosovan footballer,Q31,Q911241
+Q531433,Q6581097,1988-07-05T00:00:00Z,30,Samir Ujkani,Samir Ujkani,Albanian-Kosovan footballer,Q1246,Q911241
+Q531433,Q6581097,1988-07-05T00:00:00Z,30,Samir Ujkani,Samir Ujkani,Albanian-Kosovan footballer,Q222,Q911241
+Q531433,Q6581097,1988-07-05T00:00:00Z,30,Samir Ujkani,Samir Ujkani,Albanian-Kosovan footballer,Q83286,Q911241
+Q531514,Q6581097,1971-01-02T00:00:00Z,6,Hajredin Kuçi,Hajredin Kuçi,Kosovar politician,Q1246,Q112657
+Q536115,Q6581097,1954-06-03T00:00:00Z,21,Bajram Rexhepi,Bajram Rexhepi,Prime Minister of Kosovo (1954-2017),Q222,Q178168
+Q536115,Q6581097,1954-06-03T00:00:00Z,21,Bajram Rexhepi,Bajram Rexhepi,Prime Minister of Kosovo (1954-2017),Q1246,Q178168
+Q536773,Q6581097,1985-07-29T00:00:00Z,41,Besart Berisha,Besart Berisha,association football player,Q1246,Q25270
+Q536773,Q6581097,1985-07-29T00:00:00Z,41,Besart Berisha,Besart Berisha,association football player,Q222,Q25270
+Q539350,Q6581072,1956-07-29T00:00:00Z,8,Edita Tahiri,Edita Tahiri,Kosovan politician,Q1246,Q200061
+Q5396748,Q6581097,1953-01-01T00:00:00Z,2,Esat Bicurri,Esat Bicurri,Kosovar singer,Q1246,
+Q539971,Q6581072,1933-05-07T00:00:00Z,28,Nexhmije Pagarusha,Nexhmije Pagarusha,Albanian singer and actress (1933-2020),Q83286,Q16510039
+Q539971,Q6581072,1933-05-07T00:00:00Z,28,Nexhmije Pagarusha,Nexhmije Pagarusha,Albanian singer and actress (1933-2020),Q1246,Q16510039
+Q5429248,Q6581097,1959-11-17T00:00:00Z,5,Fadil Muriqi,Fadil Muriqi,Kosovar footballer,Q1246,Q112657
+Q5455445,Q6581097,1983-05-19T00:00:00Z,4,Fetim Kasapi,Fitim Kasapi,Kosovar footballer,Q1246,Q112657
+Q5460279,Q6581072,1949-09-30T00:00:00Z,40,Flora Brovina,Flora Brovina,Albanian women's rights activist,Q1246,Q991291
+Q54669636,Q6581072,1977-10-16T00:00:00Z,7,Duda Balje,Duda Balje,Kosovan politician,Q1246,Q200061
+Q55166618,Q6581097,1991-07-05T00:00:00Z,6,Gazmend Sinani,Gazmend Sinani,Kosovan basketball player (born 1991),Q37024,Q994245
+Q55166618,Q6581097,1991-06-22T00:00:00Z,6,Gazmend Sinani,Gazmend Sinani,Kosovan basketball player (born 1991),Q1246,Q994245
+Q55166618,Q6581097,1991-07-05T00:00:00Z,6,Gazmend Sinani,Gazmend Sinani,Kosovan basketball player (born 1991),Q1246,Q994245
+Q55166618,Q6581097,1991-06-22T00:00:00Z,6,Gazmend Sinani,Gazmend Sinani,Kosovan basketball player (born 1991),Q37024,Q994245
+Q55166618,Q6581097,1991-06-22T00:00:00Z,6,Gazmend Sinani,Gazmend Sinani,Kosovan basketball player (born 1991),Q43,Q994245
+Q55166618,Q6581097,1991-07-05T00:00:00Z,6,Gazmend Sinani,Gazmend Sinani,Kosovan basketball player (born 1991),Q43,Q994245
+Q55166618,Q6581097,1991-06-22T00:00:00Z,6,Gazmend Sinani,Gazmend Sinani,Kosovan basketball player (born 1991),Q34,Q994245
+Q55166618,Q6581097,1991-07-05T00:00:00Z,6,Gazmend Sinani,Gazmend Sinani,Kosovan basketball player (born 1991),Q34,Q994245
+Q55281922,Q6581072,1997-04-05T00:00:00Z,15,Loriana Kuka,Loriana Kuka,Kosovo judoka,Q1246,Q1246
+Q55318390,Q6581072,1995-09-11T00:00:00Z,4,Gresa Bakraçi,Gresa Bakraçi,Kosovan athlete,Q1246,
+Q55433921,Q6581072,1995-01-01T00:00:00Z,3,Zana Berisha,Zana Berisha,Kosovar model,Q1246,Q738901
+Q5544796,Q6581097,1917-06-26T00:00:00Z,11,Idriz Ajeti,Idriz Ajeti,Albanian linguist,Q1246,Q3177798
+Q5567306,Q6581097,1981-07-25T00:00:00Z,22,Glauk Konjufca,Glauk Konjufca,Kosovan politician,Q1246,Q25270
+Q55759676,Q6581097,1965-03-02T00:00:00Z,4,Rrustem Berisha,Rrustem Berisha,Kosovar politician and military officer,Q1246,
+Q55759676,Q6581097,1965-03-02T00:00:00Z,4,Rrustem Berisha,Rrustem Berisha,Kosovar politician and military officer,Q36704,
+Q55759760,Q6581097,1998-01-01T00:00:00Z,16,Mirlind Daku,Mirlind Daku,Albanian-Kosovan association football player (1998-),Q222,Q739808
+Q55759760,Q6581097,1998-01-01T00:00:00Z,16,Mirlind Daku,Mirlind Daku,Albanian-Kosovan association football player (1998-),Q1246,Q739808
+Q55956044,Q6581097,1998-11-07T00:00:00Z,34,Arijanet Muric,Arijanet Muric,Kosovan-Swiss association football player (born 1998),Q39,Q69148
+Q55956044,Q6581097,1998-11-07T00:00:00Z,34,Arijanet Muric,Arijanet Muric,Kosovan-Swiss association football player (born 1998),Q1246,Q69148
+Q55956044,Q6581097,1998-11-07T00:00:00Z,34,Arijanet Muric,Arijanet Muric,Kosovan-Swiss association football player (born 1998),Q236,Q69148
+Q56044735,Q6581097,1996-12-15T00:00:00Z,8,Meriton Korenica,Meriton Korenica,Kosovan footballer (born 1996),Q1246,Q733155
+Q560661,Q6581097,1975-08-25T00:00:00Z,16,Arjan Beqaj,Arjan Beqaj,Albanian footballer,Q222,Q200061
+Q560661,Q6581097,1976-08-20T00:00:00Z,16,Arjan Beqaj,Arjan Beqaj,Albanian footballer,Q1246,Q200061
+Q560661,Q6581097,1976-08-20T00:00:00Z,16,Arjan Beqaj,Arjan Beqaj,Albanian footballer,Q222,Q200061
+Q560661,Q6581097,1975-08-25T00:00:00Z,16,Arjan Beqaj,Arjan Beqaj,Albanian footballer,Q1246,Q200061
+Q56072718,Q6581097,1996-09-14T00:00:00Z,7,Jetmir Haliti,Jetmir Haliti,Kosovar-Swedish association football player,Q34,Q2211
+Q56072718,Q6581097,1996-09-14T00:00:00Z,7,Jetmir Haliti,Jetmir Haliti,Kosovar-Swedish association football player,Q1246,Q2211
+Q562918,Q6581097,1951-01-01T00:00:00Z,23,Jakup Krasniqi,Jakup Krasniqi,Chairman of the Assembly of Kosovo,Q1246,Q12756093
+Q5678085,Q6581097,1947-01-01T00:00:00Z,1,Hasan Abazi,Hasan Abazi,Kosovo trade unionist,Q1246,
+Q57368002,Q6581072,1996-12-14T00:00:00Z,8,Tayna,Tayna,Kosovo-Albanian rapper and singer,Q1246,Q200061
+Q57509,Q6581072,1975-04-20T00:00:00Z,64,Atifete Jahjaga,Atifete Jahjaga,President of Kosovo from 2011 to 2016,Q1246,Q474651
+Q57634,Q6581097,1968-04-24T00:00:00Z,75,Hashim Thaçi,Hashim Thaçi,Kosovar politician (born 1968),Q1246,Q991291
+Q57634,Q6581097,1968-04-24T00:00:00Z,75,Hashim Thaçi,Hashim Thaçi,Kosovar politician (born 1968),Q222,Q991291
+Q57634,Q6581097,1968-04-24T00:00:00Z,75,Hashim Thaçi,Hashim Thaçi,Kosovar politician (born 1968),Q36704,Q991291
+Q5829486,Q6581097,1991-04-18T00:00:00Z,4,Elio Sadiku,Elio Sadiku,French basketball player (born 1991),Q142,Q1246
+Q5829486,Q6581097,1991-04-18T00:00:00Z,4,Elio Sadiku,Elio Sadiku,French basketball player (born 1991),Q1246,Q1246
+Q5922267,Q6581097,1972-04-12T00:00:00Z,4,Adi Krasta,Adi Krasta,Albanian TV personality,Q1246,Q19689
+Q5922267,Q6581097,1972-04-12T00:00:00Z,4,Adi Krasta,Adi Krasta,Albanian TV personality,Q222,Q19689
+Q5998380,Q6581097,1978-01-09T00:00:00Z,2,Ilir Selmani,Ilir Selmani,Kosovar basketball player,Q1246,Q178168
+Q60038181,Q6581097,1999-01-16T00:00:00Z,2,Edison Kqiku,Edison Kqiku,Kosovar footballer,Q1246,
+Q60038200,Q6581097,1997-06-22T00:00:00Z,1,Armend Halili,Armend Halili,Kosovar footballer,Q1246,Q25270
+Q60038248,Q6581097,1988-09-27T00:00:00Z,2,Kastriot Rexha,Kastriot Rexha,Kosovar association football player,Q1246,Q25270
+Q60038248,Q6581097,1988-09-27T00:00:00Z,2,Kastriot Rexha,Kastriot Rexha,Kosovar association football player,Q83286,Q25270
+Q60038248,Q6581097,1988-09-27T00:00:00Z,2,Kastriot Rexha,Kastriot Rexha,Kosovar association football player,Q37024,Q25270
+Q60215495,Q6581097,1990-07-06T00:00:00Z,7,Gent Cakaj,Gent Cakaj,Albanian politician,Q222,Q25270
+Q60215495,Q6581097,1990-07-06T00:00:00Z,7,Gent Cakaj,Gent Cakaj,Albanian politician,Q1246,Q25270
+Q6039227,Q6581097,1995-05-26T00:00:00Z,11,Kenan Sipahi,Kenan Sipahi,Turkish basketball player (born 1995),Q37024,Q25270
+Q6039227,Q6581097,1995-05-26T00:00:00Z,11,Kenan Sipahi,Kenan Sipahi,Turkish basketball player (born 1995),Q43,Q25270
+Q6039227,Q6581097,1995-05-26T00:00:00Z,11,Kenan Sipahi,Kenan Sipahi,Turkish basketball player (born 1995),Q1246,Q25270
+Q6075731,Q6581097,1974-01-01T00:00:00Z,9,Isa Qosja,Isa Qosja,"Albanian film director, screenwriter and actor",Q1246,Q3124641
+Q6075731,Q6581097,1947-01-01T00:00:00Z,9,Isa Qosja,Isa Qosja,"Albanian film director, screenwriter and actor",Q1246,Q3124641
+Q6087902,Q6581097,1991-07-28T00:00:00Z,13,Loret Sadiku,Loret Sadiku,Kosovan association football player,Q1246,Q25270
+Q61079603,Q6581097,1994-09-24T00:00:00Z,4,Yll Limani,Yll Limani,Kosovo-Albanian singer,Q222,Q25270
+Q61079603,Q6581097,1994-09-24T00:00:00Z,4,Yll Limani,Yll Limani,Kosovo-Albanian singer,Q1246,Q25270
+Q61079927,Q6581072,1975-01-20T00:00:00Z,4,Hykmete Bajrami,Hykmete Bajrami,politician,Q222,
+Q61079927,Q6581072,1975-01-20T00:00:00Z,4,Hykmete Bajrami,Hykmete Bajrami,politician,Q1246,
+Q61079928,Q6581072,1985-06-12T00:00:00Z,5,Saranda Bogujevci,Saranda Bogujevci,Kosovar-British politician,Q1246,Q994245
+Q61079928,Q6581072,1985-06-12T00:00:00Z,5,Saranda Bogujevci,Saranda Bogujevci,Kosovar-British politician,Q145,Q994245
+Q61079939,Q6581072,1999-01-27T00:00:00Z,7,Rina Balaj,Rina,Kosovo-Albanian rapper and singer,Q1246,Q112657
+Q61079967,Q6581097,1965-08-14T00:00:00Z,2,Gani Dreshaj,Gani Dreshaj,Kosovar politician,Q1246,
+Q61079970,Q6581097,1986-05-25T00:00:00Z,4,Igor Simić,Igor Simić,Kosovar politician,Q1246,Q178168
+Q61303863,Q6581072,1998-11-14T00:00:00Z,11,Sophie Sorschag,Sophie Sorschag,Austrian ski jumper competing for Kosovo,Q40,Q483522
+Q61303863,Q6581072,1998-11-14T00:00:00Z,11,Sophie Sorschag,Sophie Sorschag,Austrian ski jumper competing for Kosovo,Q1246,Q483522
+Q6189111,Q6581097,1977-01-01T00:00:00Z,6,Jeton Neziraj,Jeton Neziraj,"Kosovar playwright and screen writer, theatre manager and non-fiction writer",Q1246,Q248378
+Q62606982,Q6581097,1995-12-24T00:00:00Z,10,Ylldren Ibrahimaj,Ylldren Ibrahimaj,Norwegian footballer born 1995,Q20,Q57919
+Q62606982,Q6581097,1995-12-24T00:00:00Z,10,Ylldren Ibrahimaj,Ylldren Ibrahimaj,Norwegian footballer born 1995,Q1246,Q57919
+Q629529,Q6581097,1973-11-28T00:00:00Z,16,Arben Bajraktaraj,Arben Bajraktaraj,Albanian actor,Q1246,Q13040262
+Q6318653,Q6581097,1946-08-04T00:00:00Z,5,Jusuf Buxhovi,Jusuf Buxhovi,"Poet, journalist and historian",Q1246,Q112657
+Q63191983,Q6581072,1995-04-12T00:00:00Z,3,Donika Bashota,Donika Bashota,Swedish–Kosovar tennis player,Q1246,
+Q63191983,Q6581072,1995-04-12T00:00:00Z,3,Donika Bashota,Donika Bashota,Swedish–Kosovar tennis player,Q34,
+Q639363,Q6581097,1981-06-20T00:00:00Z,16,Ardian Gashi,Ardian Gashi,Kosovar footballer (born 1981),Q20,Q474651
+Q639363,Q6581097,1981-06-20T00:00:00Z,16,Ardian Gashi,Ardian Gashi,Kosovar footballer (born 1981),Q1246,Q474651
+Q6448100,Q6581097,1973-03-17T00:00:00Z,5,Kushtrim Munishi,Kushtrim Munishi,footballer,Q1246,Q25270
+Q64853095,Q6581097,1980-01-01T00:00:00Z,2,Alban Muja,Alban Muja,Kosovan filmmaker (born 1980),Q1246,Q178168
+Q64853095,Q6581097,1980-01-01T00:00:00Z,2,Alban Muja,Alban Muja,Kosovan filmmaker (born 1980),Q222,Q178168
+Q6520545,Q6581097,1983-01-28T00:00:00Z,5,Lek Kćira,Lek Kcira,Croatian footballer,Q1246,Q200061
+Q6522343,Q6581072,1972-01-01T00:00:00Z,2,Lendita Zeqiraj,Lendita Zeqiraj,Kosovar painter and film director,Q1246,Q25270
+Q65275317,Q6581072,1995-11-19T00:00:00Z,5,Melinda Ademi,Melinda Ademi,Kosovo-Albanian and American singer,Q1246,Q178168
+Q65275317,Q6581072,1995-11-19T00:00:00Z,5,Melinda Ademi,Melinda Ademi,Kosovo-Albanian and American singer,Q30,Q178168
+Q65314730,Q6581097,1971-04-04T00:00:00Z,3,Mentor Miftari,Mentor Miftari,association football player,Q1246,Q178168
+Q66809906,Q6581097,2000-11-05T00:00:00Z,3,Jan Palokaj,Jan Palokaj,Croatian basketball player (born 2000),Q224,Q1435
+Q66809906,Q6581097,2000-11-05T00:00:00Z,3,Jan Palokaj,Jan Palokaj,Croatian basketball player (born 2000),Q1246,Q1435
+Q66840893,Q6581072,1994-10-04T00:00:00Z,1,Agnesa Rexha,Agnesa Rexha,Kosovar association football player,Q1246,
+Q66840987,Q6581072,1987-06-24T00:00:00Z,1,Besmira Morina,Besmira Morina,Kosovar footballer,Q1246,
+Q66840995,Q6581072,1994-10-24T00:00:00Z,1,Blerina Musa,Blerina Musa,Kosovar association football player,Q1246,
+Q66840998,Q6581072,1992-02-24T00:00:00Z,1,Blerta Kaqiu,Blerta Kaqiu,Kosovar association football player,Q1246,
+Q66841000,Q6581072,1998-12-03T00:00:00Z,5,Blerta Shala,Blerta Shala,Kosovar footballer,Q1246,Q1246
+Q66841057,Q6581072,1995-10-03T00:00:00Z,4,Edona Kryeziu,Edona Kryeziu,Kosovar association football player,Q1246,Q1246
+Q66841086,Q6581072,2000-10-30T00:00:00Z,4,Florentina Kolgeci,Florentina Kolgeci,Kosovar association football player,Q1246,Q59086
+Q66841097,Q6581072,1998-10-18T00:00:00Z,1,Ilfete Kryeziu,Ilfete Kryeziu,Kosovar footballer,Q1246,
+Q66841149,Q6581072,2000-08-05T00:00:00Z,4,Kaltrina Biqkaj,Kaltrina Biqkaj,Kosovan footballer,Q1246,
+Q66841236,Q6581072,1986-02-05T00:00:00Z,6,Liridona Syla,Liridona Syla,Kosovar association football player,Q1246,Q991291
+Q66842923,Q6581072,1999-05-23T00:00:00Z,7,Modesta Uka,Modesta Uka,Kosovan association football player,Q1246,
+Q66938670,Q6581072,1999-02-25T00:00:00Z,2,Marigonë Tahiri,Marigone Tahiri,Kosovar association football player,Q1246,Q1246
+Q66938686,Q6581072,2001-05-14T00:00:00Z,1,Flaka Asllanaj,Flaka Aslanaj,Kosovar association football player,Q1246,
+Q66938698,Q6581072,1996-04-13T00:00:00Z,2,Besjana Reçica,Besjana Reçica,Kosovar association football player,Q1246,Q183
+Q66938718,Q6581072,2000-03-12T00:00:00Z,3,Donjeta Halilaj,Donjeta Halilaj,Kosovar association football player,Q1246,Q474651
+Q66939122,Q6581072,2000-02-07T00:00:00Z,1,Leonora Ejupi,Leonora Ejupi,Kosovan footballer,Q1246,
+Q66939287,Q6581072,1993-03-20T00:00:00Z,6,Fjolla Shala,Fjolla Shala,Kosovar association football player,Q189,Q189
+Q66939287,Q6581072,1993-03-20T00:00:00Z,6,Fjolla Shala,Fjolla Shala,Kosovar association football player,Q1246,Q189
+Q66939459,Q6581072,1993-10-14T00:00:00Z,5,Besarta Leci,Besarta Leci,Kosovar association football player,Q1246,Q61843
+Q66939475,Q6581072,1998-10-21T00:00:00Z,4,Besarta Hisenaj,Besarta Hisenay,German-Kosovan footballer,Q1246,
+Q6734099,Q6581097,1961-05-06T00:00:00Z,3,Mahir Yağcılar,Mahir Yağcılar,Kosovar politician,Q1246,Q200061
+Q67641821,Q6581097,2000-02-13T00:00:00Z,4,Jozef Pukaj,Jozef Pukaj,football player,Q39,Q5262
+Q67641821,Q6581097,2000-02-13T00:00:00Z,4,Jozef Pukaj,Jozef Pukaj,football player,Q1246,Q5262
+Q67925308,Q6581097,2001-08-11T00:00:00Z,2,Arlind Sejdiu,Arlind Sejdiu,Kosovan footballer,Q1246,Q47048
+Q67925308,Q6581097,2001-08-11T00:00:00Z,2,Arlind Sejdiu,Arlind Sejdiu,Kosovan footballer,Q33,Q47048
+Q69416807,Q6581097,2000-01-26T00:00:00Z,4,Rilind Nivokazi,Rilind Nivokazi,Italian footballer,Q1246,Q3437
+Q69416807,Q6581097,2000-01-26T00:00:00Z,4,Rilind Nivokazi,Rilind Nivokazi,Italian footballer,Q38,Q3437
+Q699429,Q6581097,1989-07-29T00:00:00Z,18,Atdhe Nuhiu,Atdhe Nuhiu,football player,Q1246,Q25270
+Q70912825,Q6581097,1993-07-23T00:00:00Z,12,Regard (DJ),Regard,Kosovo-Albanian DJ and record producer (born 1993),Q1246,Q738901
+Q71600065,Q6581097,1999-04-25T00:00:00Z,9,Betim Fazliji,Betim Fazliji,Swiss association football player,Q1246,Q211645
+Q71600065,Q6581097,1999-04-25T00:00:00Z,9,Betim Fazliji,Betim Fazliji,Swiss association football player,Q39,Q211645
+Q717072,Q6581097,1960-03-20T00:00:00Z,17,Bajram Kosumi,Bajram Kosumi,Kosovar politician,Q1246,Q763770
+Q7178835,Q6581097,1979-01-05T00:00:00Z,5,Petrit Selimi,Petrit Selimi,Deputy Minister of Foreign Affairs of Republic of Kosovo,Q1246,Q25270
+Q7382475,Q6581097,1984-04-29T00:00:00Z,3,Rustemi Kreshnik,Rustemi Kreshnik,kickboxer,Q1246,Q112657
+Q738453,Q6581097,1988-08-22T00:00:00Z,7,Ermal Fejzullahu,Ermal Fejzullahu,Albanian singer (born 1988),Q1246,Q25270
+Q7503354,Q6581097,1978-04-18T00:00:00Z,9,Shpend Ahmeti,Shpend Ahmeti,politician,Q1246,Q25270
+Q751101,Q6581097,1990-04-17T00:00:00Z,22,Astrit Ajdarević,Astrit Ajdarević,Albanian-Swedish association football player,Q1246,Q25270
+Q751101,Q6581097,1990-04-17T00:00:00Z,22,Astrit Ajdarević,Astrit Ajdarević,Albanian-Swedish association football player,Q34,Q25270
+Q7541181,Q6581097,1969-12-21T00:00:00Z,5,Slobodan Petrović,Slobodan Petrović,Kosovar politician,Q1246,Q25270
+Q76848505,Q6581097,2000-03-05T00:00:00Z,10,Edvin Kurtulus,Edvin Kurtulus,Kosovan footballer,Q34,Q26521
+Q76848505,Q6581097,2000-03-05T00:00:00Z,10,Edvin Kurtulus,Edvin Kurtulus,Kosovan footballer,Q1246,Q26521
+Q7842363,Q6581072,1995-01-08T00:00:00Z,5,Tringa Hysa,Tringa Hysa,Albanian ballet dancer,Q1246,Q25270
+Q793656,Q6581097,1924-07-15T00:00:00Z,4,Azem Hajdini,Azem Hajdini,author and writer,Q1246,Q597510
+Q7939087,Q6581072,1980-10-10T00:00:00Z,17,Vlora Çitaku,Vlora Çitaku,Kosovar politician,Q1246,Q994245
+Q8043997,Q6581097,1955-01-11T00:00:00Z,2,Xhevat Kelmendi,Xhevat Kelmendi,Albanian singer,Q1246,
+Q8043998,Q6581097,1963-03-04T00:00:00Z,5,Xhevdet Muriqi,Xhevdet Muriqi,footballer,Q1246,Q112657
+Q8054010,Q6581097,1987-12-26T00:00:00Z,7,Yll Hoxha,Yll Hoxha,Albanian footballer,Q222,Q25270
+Q8054010,Q6581097,1987-12-26T00:00:00Z,7,Yll Hoxha,Yll Hoxha,Albanian footballer,Q1246,Q25270
+Q8069256,Q6581097,1966-09-12T00:00:00Z,4,Zenun Pajaziti,Zenun Pajaziti,Kosovar politician,Q1246,Q739808
+Q82849417,Q6581097,1998-02-17T00:00:00Z,5,Blendi Baftiu,Blendi Baftiu,Kosovan footballer,Q1246,Q25270
+Q83538960,Q6581097,1999-05-02T00:00:00Z,7,Donat Rrudhani,Donat Rrudhani,Kosovar association football player,Q1246,Q763770
+Q83892411,Q6581097,2000-06-04T00:00:00Z,5,Valmir Veliu,Valmir Veliu,Kosovan footballer,Q1246,Q994245
+Q84957884,Q6581097,1986-07-10T00:00:00Z,6,Ledri Vula,Ledri Vula,Kosovo-Albanian rapper and singer,Q1246,Q25270
+Q85966477,Q6581097,1960-01-01T00:00:00Z,4,Ismet Azizi,Ismet Azizi,Kosovan professor and journalist (born 1960),Q1246,Q739808
+Q85972622,Q6581097,1994-05-28T00:00:00Z,3,Mevlan Zeka,Mevlan Zeka,Kosovar footballer,Q37024,
+Q85972622,Q6581097,1994-05-28T00:00:00Z,3,Mevlan Zeka,Mevlan Zeka,Kosovar footballer,Q1246,
+Q88555126,Q6581097,1998-02-07T00:00:00Z,5,Jetmir Topalli,Jetmir Topalli,Kosovar association football player,Q1246,Q248378
+Q88555337,Q6581097,1998-10-06T00:00:00Z,16,Arbër Hoxha,Arbër Hoxha,"Albanian,Kosovar and German association football player",Q183,Q2966
+Q88555337,Q6581097,1998-10-06T00:00:00Z,16,Arbër Hoxha,Arbër Hoxha,"Albanian,Kosovar and German association football player",Q1246,Q2966
+Q88555337,Q6581097,1998-10-06T00:00:00Z,16,Arbër Hoxha,Arbër Hoxha,"Albanian,Kosovar and German association football player",Q222,Q2966
+Q88555472,Q6581097,1998-07-23T00:00:00Z,5,Arb Manaj,Arb Manaj,Kosovar association football player,Q1246,Q963121
+Q88555574,Q6581097,1997-10-05T00:00:00Z,1,Festim Alidema,Festim Alidema,Kosovar association football player,Q1246,Q739808
+Q887923,Q6581097,1944-07-26T00:00:00Z,23,Nexhat Daci,Nexhat Daci,Kosovan politician,Q83286,Q3027396
+Q887923,Q6581097,1944-07-26T00:00:00Z,23,Nexhat Daci,Nexhat Daci,Kosovan politician,Q1246,Q3027396
+Q887923,Q6581097,1944-07-26T00:00:00Z,23,Nexhat Daci,Nexhat Daci,Kosovan politician,Q37024,Q3027396
+Q9049276,Q6581097,1970-08-30T00:00:00Z,6,Nenad Vanić,Nenad Vanić,Serbian footballer,Q1246,Q25270
+Q91113728,Q6581097,2000-02-16T00:00:00Z,3,Simon Loshi,Simon Loshi,Kosovan association football player,Q1246,Q9871
+Q91113728,Q6581097,2000-02-16T00:00:00Z,3,Simon Loshi,Simon Loshi,Kosovan association football player,Q29999,Q9871
+Q926424,Q6581097,1971-06-18T00:00:00Z,9,Albert Bunjaki,Albert Bunjaki,Kosovar footballer,Q1246,Q25270
+Q932050,Q6581097,1974-10-03T00:00:00Z,10,Ismet Munishi,Ismet Munishi,Albanian footballer,Q1246,Q739808
+Q932050,Q6581097,1974-10-03T00:00:00Z,10,Ismet Munishi,Ismet Munishi,Albanian footballer,Q222,Q739808
+Q93297569,Q6581072,1997-09-04T00:00:00Z,5,Alberina Syla,Alberina Syla,German-born Kosovan footballer,Q1246,Q183
+Q93630570,Q6581097,2000-07-08T00:00:00Z,10,Amir Saipi,Amir Saipi,Swiss association football player,Q39,Q9009
+Q93630570,Q6581097,2000-07-08T00:00:00Z,10,Amir Saipi,Amir Saipi,Swiss association football player,Q1246,Q9009
+Q93635680,Q6581097,1999-09-25T00:00:00Z,10,Uran Bislimi,Uran Bislimi,Swiss association football player,Q39,Q78
+Q93635680,Q6581097,1999-09-25T00:00:00Z,10,Uran Bislimi,Uran Bislimi,Swiss association football player,Q1246,Q78
+Q936826,Q6581097,1955-02-17T00:00:00Z,12,Skënder Hyseni,Skënder Hyseni,Kosovar politician,Q1246,Q994245
+Q945680,Q6581097,1960-06-23T00:00:00Z,23,Fadil Vokrri,Fadil Vokrri,Albanian footballer from Kosovo (1960–2018),Q1246,Q994245
+Q95981055,Q6581097,1971-01-01T00:00:00Z,5,Goran Rakić,Goran Rakić,Kosovo Serb politician,Q403,Q178168
+Q95981055,Q6581097,1971-01-01T00:00:00Z,5,Goran Rakić,Goran Rakić,Kosovo Serb politician,Q1246,Q178168
+Q96289173,Q6581072,2001-11-14T00:00:00Z,6,Donika Grajqevci,Donika Grajqevci,Kosovan footballer,Q1246,Q183
+Q96289173,Q6581072,2001-11-14T00:00:00Z,6,Donika Grajqevci,Donika Grajqevci,Kosovan footballer,Q183,Q183
+Q96942515,Q6581097,2002-01-18T00:00:00Z,3,David Nreca-Bisinger,David Nreca-Bisinger,Kosovan footballer,Q1246,Q474651
+Q96943090,Q6581097,1942-01-01T00:00:00Z,2,Islam Krasniqi,Islam Krasniqi,Kosovan educational theorist and pedagogue,Q1246,Q1008042
+Q97737854,Q6581072,1996-05-14T00:00:00Z,2,Donjeta Haxha,Donjeta Haxha,Kosovar association football player,Q1246,Q178168
+Q97748313,Q6581072,2000-11-23T00:00:00Z,2,Argnesa Rexhepi,Argnesa Rexhepi,Kosovan footballer,Q1246,Q64627
+Q98068997,Q6581072,2001-11-05T00:00:00Z,4,Fatjesa Gegollaj,Fatjesa Gegollaj,Croatian association football player,Q1246,Q200061
+Q98068997,Q6581072,2001-11-05T00:00:00Z,4,Fatjesa Gegollaj,Fatjesa Gegollaj,Croatian association football player,Q224,Q200061
+Q98070821,Q6581072,2001-07-20T00:00:00Z,2,Erjona Emërllahu,Erjona Emërllahu,Kosovar association football player,Q1246,Q1246
+Q98070827,Q6581072,2001-08-07T00:00:00Z,1,Anjeza Rexhepi,Anjeza Rexhepi,Kosovar association football player,Q1246,
+Q98070835,Q6581072,2003-04-02T00:00:00Z,1,Lumbardha Misini,Lumbardha Misini,Kosovar footballer,Q1246,
+Q98070839,Q6581072,2001-05-28T00:00:00Z,1,Jehona Shala,Jehona Shala,Kosovar association football player,Q1246,
+Q98908633,Q6581097,2002-01-03T00:00:00Z,7,Altin Kryeziu,,slovenian-Kosovan footballer,Q1246,Q1021
+Q98908633,Q6581097,2002-01-03T00:00:00Z,7,Altin Kryeziu,,slovenian-Kosovan footballer,Q215,Q1021
+Q98931761,Q6581072,1984-01-01T00:00:00Z,11,Meliza Haradinaj-Stublla,Meliza Haradinaj-Stublla,Kosovan politician,Q1246,Q25270
+Q99694316,Q6581097,2003-05-18T00:00:00Z,10,Albian Hajdari,Albian Hajdari,association football player (born 2003),Q39,Q69621
+Q99694316,Q6581097,2003-05-18T00:00:00Z,10,Albian Hajdari,Albian Hajdari,association football player (born 2003),Q1246,Q69621

@@ -1,0 +1,785 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q100408297,Q6581097,1968-09-08T00:00:00Z,4,Hamad Bin Khalifa Bin Ahmed Al-Thani,Hamad Bin Khalifa Bin Ahmed Al-Thani,Qatari football referee,Q846,Q3861
+Q104438357,Q6581097,2003-01-02T00:00:00Z,2,Jassem Al-Sharshani,Jassem Al-Sharshani,Qatari footballer,Q846,Q846
+Q10496951,Q6581097,1988-06-09T00:00:00Z,6,Johar Al Kaabi,Johar Al Kaabi,Qatari footballer,Q846,Q846
+Q10498393,Q6581097,1955-11-22T00:00:00Z,12,Mansour Muftah,Mansour Muftah,Qatari football player,Q846,Q846
+Q10514881,Q6581097,1978-08-18T00:00:00Z,6,Mirghani Al Zain,Mirghani Al Zain,Qatari footballer,Q846,Q846
+Q10518713,Q6581097,1987-04-08T00:00:00Z,12,Tresor Abdullah,Tresor Kangambu,Congolese footballer,Q974,Q974
+Q10518713,Q6581097,1987-04-08T00:00:00Z,12,Tresor Abdullah,Tresor Kangambu,Congolese footballer,Q846,Q974
+Q10523923,Q6581097,1966-01-08T00:00:00Z,5,Mubarak Al-Khater,Mubarak Al-Kaater,footballer,Q846,Q846
+Q10523926,Q6581097,1965-10-08T00:00:00Z,5,Saleh Al-Mehaizaa,Saleh Al-Mehaizaa,footballer,Q846,Q846
+Q10523941,Q6581097,1972-10-10T00:00:00Z,5,Mohammed Al-Mohanadi,Mohammed Al-Mohanadi,footballer,Q846,Q846
+Q10531351,Q6581097,1983-12-27T00:00:00Z,6,Ali Rahma Al-Marri,Ali Rahma Al Marri,Qatari footballer,Q846,Q846
+Q10553453,Q6581097,1990-11-10T00:00:00Z,8,Adel Ahmed,Adel Ahmed,Qatari footballer,Q846,Q846
+Q10555217,Q6581097,1992-03-02T00:00:00Z,14,Al-Mahdi Ali Mukhtar,Almahdi Ali Mukhtar,Qatari footballer,Q846,Q3861
+Q10558880,Q6581097,1992-01-28T00:00:00Z,7,Moayad Hassan,Moayad Hassan,Qatari footballer,Q846,Q846
+Q10558896,Q6581097,1978-08-04T00:00:00Z,6,Jawad Ahannach,Jawad Akeel,Qatari footballer,Q846,Q846
+Q10558969,Q6581097,1985-05-01T00:00:00Z,3,Khalid Jaberti,Khalid Jaberti,Ethiopian footballer,Q846,Q115
+Q10558969,Q6581097,1984-01-01T00:00:00Z,3,Khalid Jaberti,Khalid Jaberti,Ethiopian footballer,Q846,Q115
+Q10558969,Q6581097,1985-05-01T00:00:00Z,3,Khalid Jaberti,Khalid Jaberti,Ethiopian footballer,Q115,Q115
+Q10558969,Q6581097,1984-01-01T00:00:00Z,3,Khalid Jaberti,Khalid Jaberti,Ethiopian footballer,Q115,Q115
+Q10558977,Q6581097,1981-01-18T00:00:00Z,5,Mostafa Mido,Mostafa Mido,Qatari footballer,Q846,Q846
+Q106469052,Q6581097,2000-01-23T00:00:00Z,3,Khaled Karib,Khaled Karib,Qatari footballer,Q846,Q846
+Q106486593,Q6581072,1987-01-01T00:00:00Z,2,Bouthayna Al Muftah,Bouthayna Al Muftah,Qatari visual artist,Q846,
+Q107296506,Q6581072,1953-01-01T00:00:00Z,2,Umm Aktham,Umm Aktham,Qatari writer,Q846,
+Q107626011,Q6581072,1992-07-22T00:00:00Z,11,Tala Abujbara,Tala Abujbara,Qatari rower,Q846,
+Q107669900,Q6581097,2001-09-28T00:00:00Z,4,Abdul Aziz Al-Obaidly,Abdul Aziz Al-Obaidly,Qatari swimmer,Q846,Q3861
+Q107697011,Q6581097,1989-03-03T00:00:00Z,6,Mohammed Al-Rumaihi,Mohammed Al-Rumaihi,Qatari sports shooter,Q846,Q3861
+Q107714237,Q6581072,1997-03-13T00:00:00Z,4,Bashair Obaid Al-Manwari,Bashair Obaid Al-Manwari,Qatari sprinter,Q846,
+Q110423431,Q6581072,1956-01-01T00:00:00Z,2,Hessa Al-Awadi,Hissa al-'Awadi,Qatari poet and short story writer,Q846,
+Q110993496,Q6581097,2004-04-04T00:00:00Z,6,Mahdi Salem,Mahdi Salem,Qatari footballer,Q846,Q3861
+Q111154333,Q6581072,2000-01-01T00:00:00Z,9,Lina Al-Tarawneh,Lina Al-Tarawneh,Jordanian-Qatari climate activist,Q846,Q846
+Q111154333,Q6581072,2000-01-01T00:00:00Z,9,Lina Al-Tarawneh,Lina Al-Tarawneh,Jordanian-Qatari climate activist,Q810,Q846
+Q115127708,Q6581072,1913-01-01T00:00:00Z,3,Amna Mahmoud Al-Jaidah,Amina Mahmoud Al-Jaidah,Qatar's first female teacher,Q846,
+Q115802847,Q6581097,2003-05-20T00:00:00Z,2,Mostafa Essam,Mostafa Essam,Qatari footballer,Q846,Q79
+Q115802847,Q6581097,2003-05-20T00:00:00Z,2,Mostafa Essam,Mostafa Essam,Qatari footballer,Q79,Q79
+Q116962419,Q6581097,2005-03-28T00:00:00Z,5,Seif Heneida,Seifeldin Heneida Abdesalam,Qatari athlete,Q846,
+Q11786457,Q6581097,1994-01-03T00:00:00Z,7,Muamer Barsham,Muamer Aissa Barshim,Qatari male high jumper,Q846,Q3861
+Q118132172,Q6581097,1994-11-29T00:00:00Z,2,Jabor bin Khalid Al-Thani,Jabor Bin Khalid Al-Thani,president of the Qatar Racing Club,Q846,
+Q1191105,Q6581097,1983-11-08T00:00:00Z,24,Sebastián Soria,Sebastián Soria,Qatari footballer,Q846,Q309442
+Q1191105,Q6581097,1983-11-08T00:00:00Z,24,Sebastián Soria,Sebastián Soria,Qatari footballer,Q77,Q309442
+Q12181761,Q6581097,1961-11-25T00:00:00Z,4,Ibrahim Khalfan,Ibrahim Khalfan,association football player,Q846,Q846
+Q12181761,Q6581097,1955-01-01T00:00:00Z,4,Ibrahim Khalfan,Ibrahim Khalfan,association football player,Q846,Q846
+Q12182466,Q6581072,1959-09-19T00:00:00Z,7,Ilham Al-Qaradawi,Ilham Al-Qaradawi,Egyptian nuclear physics professor,Q846,Q1243772
+Q12182466,Q6581072,1959-09-19T00:00:00Z,7,Ilham Al-Qaradawi,Ilham Al-Qaradawi,Egyptian nuclear physics professor,Q79,Q1243772
+Q12197689,Q6581097,1962-11-04T00:00:00Z,6,Badr Bilal,Badr Bilal,Qatari footballer,Q846,Q846
+Q12208756,Q6581097,1948-01-01T00:00:00Z,4,Hamad Bin Abdulaziz Al-Kawari,Hamad Bin Abdulaziz Al-Kawari,Qatari diplomat,Q846,Q4703871
+Q12210073,Q6581097,1976-08-27T00:00:00Z,3,Khalid Jassem,Khalid Jassem,TV host,Q846,Q3861
+Q12214196,Q6581097,1973-08-23T00:00:00Z,4,Zamel Essa Al-Kuwari,Zamel Essa Al-Kuwari,Qatari footballer,Q846,
+Q12216482,Q6581097,1962-05-14T00:00:00Z,3,Sultan Waleed Jamaan,Sultan Waleed Jamaan,association football player,Q846,
+Q12218750,Q6581097,1959-05-14T00:00:00Z,6,Sherif Mounir,Sherif Mounir,Egyptian actor,Q846,Q223587
+Q12222722,Q6581097,1948-01-01T00:00:00Z,2,Abd al-Rahman Mannai,ʻAbd al-Raḥmān Mannāʻī,Qatari writer,Q846,
+Q12222870,Q6581097,1964-01-01T00:00:00Z,5,Abdul Rachid Soufi,Abdul Rachid Soufi,Qāriʾ,Q1045,Q2449
+Q12222870,Q6581097,1964-01-01T00:00:00Z,5,Abdul Rachid Soufi,Abdul Rachid Soufi,Qāriʾ,Q846,Q2449
+Q12222954,Q6581097,1960-02-01T00:00:00Z,5,Abdulaziz Jassim,Abdul Aziz Al-Jassim,Qatar actor,Q846,Q3861
+Q12223058,Q6581097,1973-02-27T00:00:00Z,6,Abdulaziz Hassan Bujaloof,Abdulaziz Hassan Bujaloof,Qatari association football player,Q846,
+Q12223363,Q6581097,1980-01-01T00:00:00Z,2,Abdulla Al-Salem,Abdullah Al-Salem_Qatari,"Main Page of Abdullah Al-Salem; Qatari Poet, Journalist and blogger",Q846,
+Q12228094,Q6581097,1962-04-21T00:00:00Z,6,Ali Zaid,Ali Zaid,footballer,Q846,Q846
+Q12230148,Q6581072,1977-05-20T00:00:00Z,2,Fatima Al Shorouki,Fatima Al-Shorouqi,actor,Q846,
+Q12238405,Q6581097,1988-01-08T00:00:00Z,6,Mahir Yousef,Mahir Yousef,Qatari footballer,Q846,Q311272
+Q12240000,Q6581097,1988-10-30T00:00:00Z,5,Mohammed Al Yazeedi,Mohammed Al Yazeedi,association football player,Q846,
+Q12240296,Q6581097,1948-01-01T00:00:00Z,3,Mohammed Boujassoum,"Mohammed Boujassoum,",Qatari actor,Q846,
+Q12242945,Q6581097,1961-02-15T00:00:00Z,2,Masoud bin Mohammed al-Ameri,Masoud bin Mohammed Al Ameri,Qatari politician,Q846,
+Q12246240,Q6581097,1986-06-30T00:00:00Z,5,Mousa Al Allaq,Mousa Majid Al Allaq,footballer,Q846,Q846
+Q12250825,Q6581072,1963-02-17T00:00:00Z,2,Wedad Al Kuwari,Wedad Al Kuwari,Qatari writer,Q846,Q18576873
+Q126258395,Q6581097,2006-06-16T00:00:00Z,20,Tahsin Jamshid,Tahsin Jamshid,Qatari footballer,Q846,Q3861
+Q130215643,Q6581097,1965-01-01T00:00:00Z,2,Mohammed bin Khalifa Al Thani,Mohammed bin Khalifa Al Thani,member of the royal family of Qatar (born 1965),Q846,Q3861
+Q1316094,Q6581097,1984-06-12T00:00:00Z,14,James Kwalia,James Kwalia,Qatari-Kenyan long-distance runner,Q114,Q1278653
+Q1316094,Q6581097,1984-06-12T00:00:00Z,14,James Kwalia,James Kwalia,Qatari-Kenyan long-distance runner,Q846,Q1278653
+Q131709404,Q6581072,1998-01-01T00:00:00Z,3,Noof Al Maadeed,Noof Al Maadeed,Qatari womens rights activist (1995–unknown),Q846,
+Q132403068,Q6581072,1996-10-09T00:00:00Z,3,Kholoud Hussain,Kholoud Hussain,Qatari table tennis player,Q846,
+Q132529088,Q6581097,1983-07-08T00:00:00Z,1,Ahmed bin Hamad Al-Thani,Ahmed bin Hamad Al-Thani,Qatari athlete,Q846,Q3861
+Q133259170,Q6581072,1965-01-01T00:00:00Z,1,Suad Al-Kuwari,Suad Al-Kuwari,Qatari poet,Q846,Q3861
+Q133505943,Q6581097,2003-08-15T00:00:00Z,17,Al-Hashmi Al-Hussain,Al-Hashmi Al-Hussain,Qatari footballer,Q846,Q846
+Q134008837,Q6581097,1973-08-07T00:00:00Z,1,Abdulla Ghanim Almuhannadi,Abdulla Ghanim Almuhannadi,editor-in-chief,Q846,Q1156471
+Q135358586,Q6581097,2006-03-28T00:00:00Z,2,Hamad Mousa,Hamad Mousa,Qatari basketball player (born 2006),Q846,
+Q13560046,Q6581097,1967-03-09T00:00:00Z,8,Khalid bin Mohammad al-Attiyah,Khalid bin Mohammad Al Attiyah,Qatari politician,Q846,Q3861
+Q135796686,Q6581097,1946-01-01T00:00:00Z,2,Khaled Ballan,Khaled Ballan,Qatari footballer (1946–1983),Q846,
+Q136005511,Q6581097,1967-02-01T00:00:00Z,2,Faleh bin Ghanem Al-Thani,Faleh bin Ghanem Al-Thani,Qatari Media & Sport Personality,Q846,Q22811096
+Q1362223,Q6581097,1957-09-12T00:00:00Z,24,Kadim Al Sahir,Kadim Al Sahir,Iraqi singer and composer,Q796,Q83317
+Q1362223,Q6581097,1957-09-12T00:00:00Z,24,Kadim Al Sahir,Kadim Al Sahir,Iraqi singer and composer,Q846,Q83317
+Q136431767,Q6581097,1950-01-01T00:00:00Z,2,Sulaiman Almas,Sulaiman Almas,Qatari footballer (birthdate unknown),Q846,
+Q137392794,Q6581097,1997-12-22T00:00:00Z,19,Issa Laye,Issa Laye,Qatari footballer (born 1997),Q1041,Q1041
+Q137392794,Q6581097,1997-12-22T00:00:00Z,19,Issa Laye,Issa Laye,Qatari footballer (born 1997),Q846,Q1041
+Q137394484,Q6581097,2002-10-25T00:00:00Z,23,Mohamed Manai,Mohamed Manai,Qatari association football player (born 2003),Q846,Q948
+Q137439995,Q6581097,2000-01-01T00:00:00Z,2,Hassan Jawhar (footballer),Hassan Jawhar,Qatari footballer and referee,Q846,
+Q1396166,Q6581097,1961-01-01T00:00:00Z,4,Faraj Saad Marzouk,Faraj Saad Marzouk,Qatari athletics competitor,Q846,
+Q139770039,Q6581097,2005-03-11T00:00:00Z,16,Ayoub Al-Oui,Ayoub Al-Oui,Qatari footballer,Q846,Q846
+Q141539437,Q6581097,1971-07-13T00:00:00Z,1,Fareed Mahboub,Fareed Mahboub,Qatari footballer (born 1971),Q846,
+Q14912896,Q6581097,1987-05-13T00:00:00Z,8,Bassem Hassan Mohammed,Bassem Hassan Mohammed,Qatari equestrian,Q846,
+Q14946741,Q6581097,1994-01-01T00:00:00Z,4,Thani bin Hamad Al Thani,Thani bin Hamad Al Thani,Qatari royal,Q846,Q3861
+Q15127699,Q6581097,1969-01-01T00:00:00Z,6,Ali Sharif al-Emadi,Ali Sharif Al Emadi,Qatari economist and businessman,Q846,
+Q1527849,Q6581097,1963-01-01T00:00:00Z,3,Jamal Al-Abdullah,Jamal Al-Abdulla,Qatari sprinter,Q846,
+Q1537848,Q6581097,1977-02-24T00:00:00Z,13,Goran Stojanović,Goran Stojanović,Montenegrin handball player,Q236,Q115276
+Q1537848,Q6581097,1977-02-24T00:00:00Z,13,Goran Stojanović,Goran Stojanović,Montenegrin handball player,Q846,Q115276
+Q1537848,Q6581097,1977-02-24T00:00:00Z,13,Goran Stojanović,Goran Stojanović,Montenegrin handball player,Q37024,Q115276
+Q1537848,Q6581097,1977-02-24T00:00:00Z,13,Goran Stojanović,Goran Stojanović,Montenegrin handball player,Q36704,Q115276
+Q15615816,Q6581097,1993-01-19T00:00:00Z,23,Ali Assadalla,Ali Assad,Bahraini-Qatari footballer,Q846,Q3882
+Q15615816,Q6581097,1993-01-19T00:00:00Z,23,Ali Assadalla,Ali Assad,Bahraini-Qatari footballer,Q398,Q3882
+Q1571906,Q6581097,1988-10-14T00:00:00Z,13,"Yousef Ahmed (footballer, born 1988)",Yusef Ahmed,Qatari footballer,Q846,Q35484
+Q1573385,Q6581097,1987-09-12T00:00:00Z,15,Hamid Ismail,Hamid Ismail,Qatari footballer,Q846,Q3861
+Q15781882,Q6581097,1983-01-01T00:00:00Z,5,Ahmed Saif,Ahmed Saif,snooker player,Q846,Q843
+Q15782408,Q6581097,1981-08-26T00:00:00Z,6,Ali Al-Rumaihi,Ali Al Rumaihi,Qatari equestrian,Q846,Q846
+Q15813118,Q6581097,1994-03-02T00:00:00Z,9,Tosin Ogunode,Tosin Ogunode,Nigerian-Qatari sprinter,Q1033,Q1033
+Q15813118,Q6581097,1994-03-02T00:00:00Z,9,Tosin Ogunode,Tosin Ogunode,Nigerian-Qatari sprinter,Q846,Q1033
+Q15814442,Q6581097,1978-01-01T00:00:00Z,4,Hassan Al-Thawadi,Hassan Al-Thawadi,Secretary-General - Supreme Committee for Delivery and Legacy,Q846,
+Q15973191,Q6581097,1958-05-20T00:00:00Z,4,Mohammed Jaham Al Kuwari,Mohammed Jaham Al Kuwari,Qatari diplomat,Q846,
+Q16125330,Q6581097,1990-04-05T00:00:00Z,23,Ismaeel Mohammad,Ismaeel Mohammad,footballer,Q846,Q3861
+Q16145963,Q6581097,1984-05-07T00:00:00Z,2,Al-Waleed Abdulla,Ibrahim Abdullah Al-Waleed,Qatari sprinter,Q846,
+Q16145963,Q6581097,1984-07-05T00:00:00Z,2,Al-Waleed Abdulla,Ibrahim Abdullah Al-Waleed,Qatari sprinter,Q846,
+Q16145978,Q6581097,1983-11-14T00:00:00Z,5,Bilal Abdulrahman,Bilal Abdulrahman Abu Hamda,Qatari footballer,Q846,Q846
+Q16146042,Q6581097,1985-12-12T00:00:00Z,4,Salem Amer Al-Badri,Salem Amer Al-Badri,Qatari middle-distance runner,Q846,Q114
+Q16146135,Q6581097,1989-11-16T00:00:00Z,3,Anas Abu Yousuf,Anas Abu-Yousuf,Qatari swimmer,Q846,Q3861
+Q16150621,Q6581097,1990-07-20T00:00:00Z,4,Ibrahim Awal,Ibrahim Awal,Qatari footballer,Q846,
+Q16187196,Q6581097,1956-01-01T00:00:00Z,5,Hassan Mattar,Hassan Mattar,Qatari footballer,Q846,Q3861
+Q16196047,Q6581097,1965-01-01T00:00:00Z,2,Mohammed Hanzab,Mohammed Hanzab,Qatari military officer,Q846,Q3861
+Q16200410,Q6581097,1968-01-01T00:00:00Z,5,Khalid Al Merreikhi,Khalid Al Merreikhi,Qatar footballer,Q846,Q846
+Q16222087,Q6581097,1982-06-16T00:00:00Z,2,Mohammed bin Abdullah Al Thani,Mohammed bin Abdulla Al Thani,Qatari mountain climber,Q878,Q289693
+Q16222087,Q6581097,1982-06-16T00:00:00Z,2,Mohammed bin Abdullah Al Thani,Mohammed bin Abdulla Al Thani,Qatari mountain climber,Q846,Q289693
+Q16228709,Q6581097,1995-08-03T00:00:00Z,20,Kendrick Nunn,,American basketball player (born 1995),Q30,Q1297
+Q16228709,Q6581097,1995-08-03T00:00:00Z,20,Kendrick Nunn,,American basketball player (born 1995),Q846,Q1297
+Q16236363,Q6581097,1994-05-17T00:00:00Z,31,"Ahmed Yasser (footballer, born 1994)",Ahmed Yasser,Qatari association football player,Q846,Q3861
+Q16236584,Q6581097,1994-12-15T00:00:00Z,4,Abdulla Al-Tamimi,Abdulla Al-Tamimi,Qatari squash player,Q846,Q3861
+Q1638747,Q6581097,1984-08-30T00:00:00Z,9,Trey Johnson,Trey Johnson,American basketball player,Q846,Q28198
+Q1638747,Q6581097,1984-08-30T00:00:00Z,9,Trey Johnson,Trey Johnson,American basketball player,Q30,Q28198
+Q1644747,Q6581097,1986-05-15T00:00:00Z,9,Dame Traoré,Dame Traoré,French professional footballer,Q846,Q22690
+Q1644747,Q6581097,1986-05-19T00:00:00Z,9,Dame Traoré,Dame Traoré,French professional footballer,Q142,Q22690
+Q1644747,Q6581097,1986-05-19T00:00:00Z,9,Dame Traoré,Dame Traoré,French professional footballer,Q846,Q22690
+Q1644747,Q6581097,1986-05-15T00:00:00Z,9,Dame Traoré,Dame Traoré,French professional footballer,Q142,Q22690
+Q16864014,Q6581097,1990-11-14T00:00:00Z,10,Khalid Abdulraouf,Khalid Abdulraouf,Qatari footballer,Q846,Q3861
+Q16887174,Q6581097,1972-09-12T00:00:00Z,8,Yousuf Adam,Yousef Adam,football manager,Q846,Q846
+Q16970590,Q6581097,1993-02-10T00:00:00Z,5,Sultan Al-Kuwari,Sultan Al Kuwari,footballer,Q846,Q3861
+Q17198943,Q6581097,1994-03-09T00:00:00Z,5,Mousa Shanan Zayed,Mousa Shanan Zayed,tennis player,Q846,Q3861
+Q1739,Q6581097,1991-06-24T00:00:00Z,41,Mutaz Barsham,Mutaz Essa Barshim,Qatari track and field athlete (1991-),Q846,Q3861
+Q18062340,Q6581097,1986-03-23T00:00:00Z,15,Mohammed Musa,Mohammed Musa,Sudanese and Qatari association football player,Q846,Q3296219
+Q18062340,Q6581097,1986-03-23T00:00:00Z,15,Mohammed Musa,Mohammed Musa,Sudanese and Qatari association football player,Q1049,Q3296219
+Q18214868,Q6581097,1993-05-26T00:00:00Z,8,Jamal Hairane,Jamal Hairane,Qatari middle-distance runner,Q846,Q1028
+Q1834734,Q6581097,1954-03-19T00:00:00Z,3,Ahmed K. Elmagarmid,Ahmed K. Elmagarmid,Computer Scientist,Q1016,Q1016
+Q1834734,Q6581097,1954-03-19T00:00:00Z,3,Ahmed K. Elmagarmid,Ahmed K. Elmagarmid,Computer Scientist,Q846,Q1016
+Q1851786,Q6581097,1969-11-23T00:00:00Z,18,Mohamed Suleiman,Mohamed Suleiman,Qatari athletics competitor,Q846,Q1002700
+Q1855372,Q6581097,1980-03-25T00:00:00Z,77,Tamim bin Hamad Al Thani,Tamim bin Hamad Al Thani,Emir of Qatar since 2013,Q846,Q3861
+Q1858158,Q6581097,1979-05-31T00:00:00Z,12,Said Saif Asaad,Said Saif Asaad,Qatari weightlifter,Q846,Q219
+Q18637066,Q6581097,1990-08-03T00:00:00Z,10,Abdurahman Abubakar,Abdurahman Abubakar,footballer,Q846,Q3861
+Q18637610,Q6581097,1990-03-23T00:00:00Z,8,Ahmed Abdul Maqsoud,Ahmed Abdul Maqsoud,footballer,Q846,Q87
+Q18637975,Q6581097,1995-02-28T00:00:00Z,7,Serigne Abdou Thiam,Serigne Abdou Thiam,Qatari footballer (1995-2016),Q846,Q3861
+Q18683796,Q6581097,1965-11-11T00:00:00Z,9,Adel Khamis,Adel Khamis,Qatari footballer,Q846,Q846
+Q18687977,Q6581097,1983-02-02T00:00:00Z,5,Mustafa Jalal,Mustafa Jalal,Qatari footballer,Q846,Q846
+Q18705783,Q6581097,1993-12-20T00:00:00Z,39,Mohammed Muntari,Mohammed Muntari,Qatari footballer,Q117,Q182059
+Q18705783,Q6581097,1993-12-20T00:00:00Z,39,Mohammed Muntari,Mohammed Muntari,Qatari footballer,Q846,Q182059
+Q18758568,Q6581072,1984-12-01T00:00:00Z,17,Jawaher bint Hamad Al Thani,Jawaher bint Hamad Al Thani,Qatari sheikha and royal consort,Q846,Q3861
+Q1882499,Q6581072,1992-06-21T00:00:00Z,8,Bahiya al-Hamad,Bahiya Al-Hamad,Qatari sport shooter,Q846,Q846
+Q18915163,Q6581097,1987-10-05T00:00:00Z,17,Rafael Capote,Rafael Capote,Cuban handball player,Q241,Q1563
+Q18915163,Q6581097,1987-10-05T00:00:00Z,17,Rafael Capote,Rafael Capote,Cuban handball player,Q846,Q1563
+Q18915426,Q6581097,1992-06-21T00:00:00Z,8,Eldar Memišević,Eldar Memišević,Bosnian handball player,Q225,Q225
+Q18915426,Q6581097,1992-06-21T00:00:00Z,8,Eldar Memišević,Eldar Memišević,Bosnian handball player,Q846,Q225
+Q18918686,Q6581097,1990-06-10T00:00:00Z,4,Abdulla Al-Karbi,Abdulla Al-Karbi,Qatari handball player,Q846,
+Q18918690,Q6581097,1990-06-29T00:00:00Z,7,Abdulrazzaq Murad,Abdulrazzaq Murad,Qatari handball player,Q846,
+Q18918691,Q6581097,1988-07-07T00:00:00Z,5,Hamad Madadi,Hamad Madadi,Qatari handball player,Q846,
+Q18918691,Q6581097,1988-07-07T00:00:00Z,5,Hamad Madadi,Hamad Madadi,Qatari handball player,Q794,
+Q18918692,Q6581097,1992-01-01T00:00:00Z,9,Kamalaldin Mallash,Kamalaldin Mallash,Qatari handball player,Q858,
+Q18918692,Q6581097,1992-01-01T00:00:00Z,9,Kamalaldin Mallash,Kamalaldin Mallash,Qatari handball player,Q846,
+Q18918693,Q6581097,1992-02-05T00:00:00Z,4,Hadi Hamdoon,Hadi Hamdoon,Qatari handball player,Q846,
+Q18918694,Q6581097,1986-11-22T00:00:00Z,6,Mahmoud Hassaballa,Mahmoud Hassab Alla,Qatari handball player,Q79,
+Q18918694,Q6581097,1986-11-22T00:00:00Z,6,Mahmoud Hassaballa,Mahmoud Hassab Alla,Qatari handball player,Q846,
+Q18918839,Q6581097,1994-06-15T00:00:00Z,7,Ameen Zakkar,Ameen Zakkar,Qatari handball player,Q846,Q173545
+Q18918839,Q6581097,1994-06-15T00:00:00Z,7,Ameen Zakkar,Ameen Zakkar,Qatari handball player,Q858,Q173545
+Q18918845,Q6581097,1982-07-29T00:00:00Z,8,Hassan Mabrouk,Hassan Mabrouk,Egyptian handball player,Q79,Q79
+Q18918845,Q6581097,1982-07-29T00:00:00Z,8,Hassan Mabrouk,Hassan Mabrouk,Egyptian handball player,Q846,Q79
+Q18918849,Q6581097,1996-12-24T00:00:00Z,7,Jovo Damjanović,Jovo Damjanović,Montenegrin handball player,Q236,Q200733
+Q18918849,Q6581097,1996-12-24T00:00:00Z,7,Jovo Damjanović,Jovo Damjanović,Montenegrin handball player,Q846,Q200733
+Q18918854,Q6581097,1987-05-28T00:00:00Z,14,Youssef Benali (handballer),Youssef Benali,Tunisian handball player,Q948,Q948
+Q18918854,Q6581097,1987-05-28T00:00:00Z,14,Youssef Benali (handballer),Youssef Benali,Tunisian handball player,Q846,Q948
+Q1942561,Q6581097,1981-11-02T00:00:00Z,8,Mohammed Al-Sayed,Mohamad Naser Al Sayed,Qatari chess player,Q846,Q846
+Q1942593,Q6581097,1967-08-10T00:00:00Z,5,Ismail Mohamed Youssef,Mohamed Ismail Youssef,Qatari athletics competitor,Q846,
+Q19559922,Q6581097,1979-10-17T00:00:00Z,3,Abdulrahman Al-Nubi,Abdul Rahman Al-Nubi,Qatari long jumper,Q846,Q3861
+Q1957458,Q6581097,1994-08-19T00:00:00Z,22,Edmilson Junior,Edmilson Junior,Qatari footballer,Q31,Q3992
+Q1957458,Q6581097,1994-08-19T00:00:00Z,22,Edmilson Junior,Edmilson Junior,Qatari footballer,Q155,Q3992
+Q1957458,Q6581097,1994-08-19T00:00:00Z,22,Edmilson Junior,Edmilson Junior,Qatari footballer,Q846,Q3992
+Q19661549,Q6581097,1959-11-20T00:00:00Z,5,Abdulla bin Mohammed Al Thani,Abdulla bin Mohammed bin Saud Al Thani,Qatari businessman and politician,Q846,
+Q19661893,Q6581097,1994-05-27T00:00:00Z,4,Jabor Al-Mutawa,Jabor Mohammed Ali Mutawa,Qatari tennis player,Q846,Q846
+Q19662881,Q6581097,1967-01-01T00:00:00Z,6,Saad Sherida al-Kaabi,Saad Sherida al-Kaabi,Minister of Energy in Qatar,Q846,Q3861
+Q19664610,Q6581072,1974-01-01T00:00:00Z,12,Alya Ahmed Saif Al-Thani,Alya Ahmed Saif Al-Thani,Qatari diplomat,Q846,Q3861
+Q19665019,Q6581097,1988-02-09T00:00:00Z,16,Abdullah bin Hamad Al Thani,Abdullah bin Hamad bin Khalifa Al Thani,Qatari royal and politician (born 1988),Q846,Q3861
+Q19787968,Q6581097,1997-01-01T00:00:00Z,23,Abdalelah Haroun,Abdalelah Haroun,Qatari athletics competitor,Q846,Q1049
+Q1984913,Q6581097,1983-11-25T00:00:00Z,9,Nicholas Kemboi (born 1983),Nicholas Kemboi,Qatari long-distance runner,Q114,Q996730
+Q1984913,Q6581097,1983-11-25T00:00:00Z,9,Nicholas Kemboi (born 1983),Nicholas Kemboi,Qatari long-distance runner,Q846,Q996730
+Q19874854,Q6581097,1941-01-01T00:00:00Z,5,Ali Khalifa Al-Kuwari,Ali Khalifa Al-Kuwari,"Qatari democracy activist, author and professor",Q398,Q3861
+Q19874854,Q6581097,1941-01-01T00:00:00Z,5,Ali Khalifa Al-Kuwari,Ali Khalifa Al-Kuwari,"Qatari democracy activist, author and professor",Q846,Q3861
+Q20011566,Q6581097,1986-01-01T00:00:00Z,6,Fahad Al-Marri,Fahad Al-Marri,Qatari professional football referee (born 1986),Q846,Q846
+Q20090970,Q6581097,1965-01-01T00:00:00Z,2,Ibrahim bin Yousuf Al-Fakhro,Ibrahim bin Yousuf Al-Fakhro,"Qatari writer, businessman and art collector",Q846,Q3861
+Q20409013,Q6581097,1969-04-04T00:00:00Z,2,Jaber Al Harmi,Jaber Al Harmi,Editor-in-Chief,Q846,Q3861
+Q20409359,Q6581097,1943-01-01T00:00:00Z,2,Jassim Zaini,Jassim Zaini,Qatari artist (1943–2012),Q846,Q3861
+Q2072385,Q6581097,1932-09-17T00:00:00Z,35,Khalifa bin Hamad Al Thani,Khalifa bin Hamad Al Thani,former Emir of Qatar (1932–2016),Q846,Q18576873
+Q2081294,Q6581097,1981-02-05T00:00:00Z,12,Wesam Rizik,Wesam Rizik,Qatari footballer,Q810,Q35178
+Q2081294,Q6581097,1981-02-05T00:00:00Z,12,Wesam Rizik,Wesam Rizik,Qatari footballer,Q846,Q35178
+Q2081294,Q6581097,1981-02-05T00:00:00Z,12,Wesam Rizik,Wesam Rizik,Qatari footballer,Q817,Q35178
+Q2081793,Q6581097,1986-05-22T00:00:00Z,13,Talal Al-Bloushi,Talal Al-Bloushi,Qatari footballer,Q817,Q1077024
+Q2081793,Q6581097,1986-05-22T00:00:00Z,13,Talal Al-Bloushi,Talal Al-Bloushi,Qatari footballer,Q846,Q1077024
+Q2086919,Q6581097,1987-01-27T00:00:00Z,9,Mohamed El-Sayed (Qatari footballer),Mohamed El-Sayed,Qatari footballer,Q846,Q3296633
+Q20966281,Q6581097,1994-04-15T00:00:00Z,4,Hashim Salah Mohamed,Hashim Salah Mohamed,Qatari long-distance runner,Q846,
+Q21000530,Q6581097,1996-10-22T00:00:00Z,29,Assim Madibo,Assim Madibo,Qatari association football player,Q846,Q846
+Q21004777,Q6581097,1990-04-04T00:00:00Z,3,Ahmed Al-Bardiny,Ahmed Al-Bardiny,Qatari cyclist,Q846,
+Q21011188,Q6581097,1996-08-19T00:00:00Z,41,Almoez Ali,Almoez Ali,Qatari footballer,Q846,Q1963
+Q21063585,Q6581072,1952-01-01T00:00:00Z,4,Wafika Sultan Al-Essa,Wafika Sultan Al-Essa,Qatari artist,Q846,Q846
+Q21621573,Q6581097,1991-04-19T00:00:00Z,6,Ali Jasimi,Ali Jasimi,Qatari association football player,Q846,Q846
+Q2196264,Q6581097,1994-11-16T00:00:00Z,10,Hamza Driouch,Hamza Driouch,Qatari distance runner,Q846,Q1028
+Q2196264,Q6581097,1994-11-16T00:00:00Z,10,Hamza Driouch,Hamza Driouch,Qatari distance runner,Q846,Q842806
+Q2212122,Q6581097,1988-04-04T00:00:00Z,3,Moosa Khalfan Said,Moses Khalfan Saeed,Qatari cyclist,Q846,Q846
+Q2228511,Q6581097,1964-03-28T00:00:00Z,3,Saad Muftah Al-Kuwari,Sayed Mubarak Al-Kuwari,Qatari athletics competitor,Q846,
+Q23020336,Q6581097,1980-11-01T00:00:00Z,30,Mohammed bin Abdulrahman bin Jassim Al Thani,Mohammed bin Abdulrahman Al Thani,Prime Minister and the Minister of Foreign Affairs of Qatar,Q846,Q3861
+Q23043312,Q6581097,1993-05-16T00:00:00Z,2,Milan Šajin,Milan Šajin,Serbian / Qatari handball player,Q846,Q511216
+Q2376923,Q6581097,1990-04-26T00:00:00Z,13,Amine Lecomte,Amine Lecomte,Qatari footballer,Q846,Q41876
+Q238774,Q6581072,1959-08-08T00:00:00Z,28,Moza bint Nasser,Moza bint Nasser Al Missned,widow of Sheikh Hamad bin Khalifa Al Thani (born 1959),Q846,Q311717
+Q23902263,Q6581097,1957-01-01T00:00:00Z,3,Monassar Mohamed Saleh,Mohamed Mansour Salah,Qatari athlete,Q846,
+Q23939935,Q6581097,1977-03-02T00:00:00Z,5,Amer Al Dossari,Amer Al Dossari,association football player,Q846,Q3861
+Q24005976,Q6581097,1989-01-04T00:00:00Z,4,Khaled Al-Ansari,Khaled Al-Ansari,association football player,Q846,
+Q24005977,Q6581097,1988-06-16T00:00:00Z,5,Abdulla Al-Kowari,Abdulla Al-Kowari,association football player,Q846,Q846
+Q24005977,Q6581097,1988-04-16T00:00:00Z,5,Abdulla Al-Kowari,Abdulla Al-Kowari,association football player,Q846,Q846
+Q24005978,Q6581097,1983-08-05T00:00:00Z,5,Saoud Al-Khalaqi,Saoud Al-Khalaqi,association football player,Q846,Q846
+Q24005978,Q6581097,1993-08-05T00:00:00Z,5,Saoud Al-Khalaqi,Saoud Al-Khalaqi,association football player,Q846,Q846
+Q24005979,Q6581097,1987-02-25T00:00:00Z,5,Mohsen Al-Yazidi,Mohsen Al-Yazidi,association football player,Q846,Q846
+Q24005980,Q6581097,1984-11-05T00:00:00Z,5,Khalil Sharif,Khalil Sharif,association football player,Q846,Q846
+Q24005981,Q6581097,1994-02-02T00:00:00Z,3,Ali Qadry,Ali Qadri,association football player,Q846,Q846
+Q24005983,Q6581097,1991-04-02T00:00:00Z,5,Ahmad Khalfan,Ahmad Khalfan,association football player,Q846,Q846
+Q24005984,Q6581097,1987-07-14T00:00:00Z,5,Mohammed Salem Al-Mal,Mohammed Salem Al-Mal,Qatari association football player,Q846,Q846
+Q24005984,Q6581097,1985-07-14T00:00:00Z,5,Mohammed Salem Al-Mal,Mohammed Salem Al-Mal,Qatari association football player,Q846,Q846
+Q24005986,Q6581097,1993-01-25T00:00:00Z,20,Ahmed Fathy (Qatari footballer),Ahmed Fathi,Qatari association football player,Q846,Q3861
+Q24005987,Q6581097,1995-04-05T00:00:00Z,6,Omar Al-Amadi,Omar Al-Amadi,association football player,Q846,Q846
+Q24006136,Q6581097,1989-03-27T00:00:00Z,5,Khaled Nawaf,Khaled Nawaf,association football player,Q846,Q846
+Q24006138,Q6581097,1991-05-11T00:00:00Z,5,Ahmed Al-Nahwi,Ahmed Al-Nahwi,association football player,Q846,Q846
+Q24006141,Q6581097,1994-02-07T00:00:00Z,5,Huthaifa Al Salemi,Huthaifa Al Salemi,association football player,Q846,Q846
+Q24006142,Q6581097,1992-09-13T00:00:00Z,5,Abdulghani Muneer,Abdulghani Muneer,association football player,Q846,Q846
+Q24006230,Q6581097,1988-01-03T00:00:00Z,5,Abdullah Al-Battat,Abdullah Al-Battat,association football player,Q846,Q846
+Q24006234,Q6581097,1987-05-08T00:00:00Z,3,Mahdi El Khammasi,Mahdi El Khammasi,Qatari association football player,Q846,Q846
+Q24006235,Q6581097,1984-10-27T00:00:00Z,5,Sulaiman Al Nassr,Sulaiman Al Nassr,association football player,Q846,Q846
+Q24006487,Q6581097,1984-05-04T00:00:00Z,5,Reza Shanbih,Reza Shanbih,association football player,Q846,Q846
+Q24006492,Q6581097,1988-11-02T00:00:00Z,5,Ghaith Jumaa,Ghaith Jumaa,association football player,Q846,Q846
+Q24006497,Q6581097,1984-03-08T00:00:00Z,5,Shami Hassan,Shami Hassan,association football player,Q846,Q846
+Q24006518,Q6581097,1980-08-06T00:00:00Z,5,Naif Mubarak,Naif Mubarak,association football player,Q846,Q846
+Q24006518,Q6581097,1990-08-06T00:00:00Z,5,Naif Mubarak,Naif Mubarak,association football player,Q846,Q846
+Q24006521,Q6581097,1988-03-06T00:00:00Z,5,Abdullah Mostafa,Abdullah Mostafa,association football player,Q846,Q846
+Q24006530,Q6581097,1982-01-01T00:00:00Z,3,Ali Jumaa,Ali Jumaa,association football player,Q846,Q846
+Q24006539,Q6581097,1988-02-28T00:00:00Z,3,Mubarak Al-Saadi,Mubarak Al-Saadi,association football player,Q846,Q842
+Q24006543,Q6581097,1993-05-23T00:00:00Z,5,Helal Mohammed,Helal Mohammed,association football player,Q846,Q846
+Q24006543,Q6581097,1993-03-25T00:00:00Z,5,Helal Mohammed,Helal Mohammed,association football player,Q846,Q846
+Q24006567,Q6581097,1994-08-18T00:00:00Z,5,Abdurahman Al-Korbi,Abdurahman Al-Korbi,association football player,Q846,Q846
+Q24006568,Q6581097,1994-01-07T00:00:00Z,5,Abdulmajid Anad,Abdulmajeed Enad,association football player,Q846,Q846
+Q24006577,Q6581097,1991-04-20T00:00:00Z,6,Mohamed Salah Elneel,Mohammed Salah Al-Neel,association football player,Q846,Q846
+Q24006582,Q6581097,1986-03-14T00:00:00Z,5,Younes Yaqoub,Younes Yaqoub,association football player,Q846,Q846
+Q24006657,Q6581097,1994-11-11T00:00:00Z,5,Nasser Sherian,Nasser Sherian,association football player,Q846,Q846
+Q24006658,Q6581097,1996-04-10T00:00:00Z,24,Salem Al-Hajri,Salem Al-Hajri,association football player,Q846,Q846
+Q24006662,Q6581097,1994-08-13T00:00:00Z,5,Hamad Mansour,Hamad Mansor,association football player,Q846,Q846
+Q24006664,Q6581097,1992-12-19T00:00:00Z,5,Jasser Yahya,Jasser Yahya,association football player,Q846,Q846
+Q24006665,Q6581097,1995-01-19T00:00:00Z,6,Meshaal Al-Shammeri,Meshaal Al-Shammeri,association football player,Q846,Q846
+Q24006934,Q6581097,1989-01-01T00:00:00Z,5,Mousa Al-Barakah,Mousa Al-Barakah,association football player,Q846,Q846
+Q24006935,Q6581097,1991-01-01T00:00:00Z,5,Othman Al-Aqib,Othman Al-Aqib,association football player,Q846,Q846
+Q24006935,Q6581097,1991-01-17T00:00:00Z,5,Othman Al-Aqib,Othman Al-Aqib,association football player,Q846,Q846
+Q24006936,Q6581097,1991-09-27T00:00:00Z,6,Ghanem Haddaf,Ghanem Haddaf,association football player,Q846,Q846
+Q24006938,Q6581097,1994-01-01T00:00:00Z,5,Abdurahman Al-Harazi,Abdurahman Al-Harazi,association football player,Q846,Q846
+Q24007136,Q6581097,1995-10-20T00:00:00Z,15,Ahmed Moein,Ahmed Moein,Qatari footballer,Q846,Q3861
+Q24007274,Q6581097,1996-02-21T00:00:00Z,5,Jassem Al-Jalabi,Jassem Al-Jalabi,association football player,Q846,Q846
+Q24007278,Q6581097,1996-03-14T00:00:00Z,5,Mohammed Arafah,Mohammed Arafah,Egyptian-Qatari association football player,Q79,Q846
+Q24007278,Q6581097,1996-03-14T00:00:00Z,5,Mohammed Arafah,Mohammed Arafah,Egyptian-Qatari association football player,Q846,Q846
+Q24007279,Q6581097,1993-04-07T00:00:00Z,8,Ahmed Fadhel,Ahmed Fadhel,association football player,Q846,Q846
+Q24007281,Q6581097,1980-11-26T00:00:00Z,4,Saleh Allahyar,Saleh Allahyar,association football player,Q846,Q846
+Q24007283,Q6581097,1986-07-22T00:00:00Z,5,Ahmed Rahmatullah,Ahmed Rahmatullah,association football player,Q846,Q846
+Q24007284,Q6581097,1988-03-16T00:00:00Z,6,"Abdulrahman Mohammed (footballer, born 1988)",Abdurahman Mohammed,association football player,Q846,Q846
+Q24007286,Q6581097,1983-11-08T00:00:00Z,5,Hassan Al Qadhi,Hassan Al Qadhi,association football player,Q846,Q846
+Q24007288,Q6581097,1984-03-21T00:00:00Z,5,Mohammad Malallah,Mohammad Malallah,association football player,Q846,Q846
+Q24007302,Q6581097,1993-06-24T00:00:00Z,5,Othman Al-Yahri,Othman Al-Yahri,association football player,Q846,Q846
+Q24007304,Q6581097,1995-08-23T00:00:00Z,5,Salah Al-Yahri,Salah Al-Yahri,association football player,Q846,Q846
+Q24007304,Q6581097,1995-08-25T00:00:00Z,5,Salah Al-Yahri,Salah Al-Yahri,association football player,Q846,Q846
+Q24007308,Q6581097,1988-05-16T00:00:00Z,6,Yousef Muftah,Yousef Muftah,association football player,Q846,Q846
+Q24007309,Q6581097,1991-04-09T00:00:00Z,7,Saoud Al Khater,Saoud Al Khater,association football player,Q846,Q846
+Q24007328,Q6581097,1992-01-10T00:00:00Z,6,Yasser Abubakar,Yasser Abubakar,association football player,Q846,Q846
+Q24007329,Q6581097,1991-03-30T00:00:00Z,5,Mohammed Al Jabri,Mohammed Al Jabri,association football player,Q846,Q846
+Q24007332,Q6581097,1990-10-02T00:00:00Z,5,Khaled Radhwan,Khaled Radhwan,association football player,Q846,Q846
+Q24007433,Q6581097,1990-04-26T00:00:00Z,6,Mohammed Al-Rabiei,Mohammed Al-Robeai,association football player,Q846,Q846
+Q24007435,Q6581097,1995-04-27T00:00:00Z,6,Ali Bujaloof,Ali Awadh Boujalouf,association football player,Q846,Q846
+Q24007437,Q6581097,1993-03-22T00:00:00Z,5,Khaled Mahmoudi,Khaled Mahmoudi,association football player,Q846,Q846
+Q24007438,Q6581097,1993-09-11T00:00:00Z,5,Ali Al-Muhannadi,Ali Al-Muhannadi,association football player,Q846,Q846
+Q24007441,Q6581097,1986-05-26T00:00:00Z,5,Abdullah Al-Deyani,Abdullah Al-Deyani,Qatari association football player,Q846,Q846
+Q24007442,Q6581097,1991-08-05T00:00:00Z,5,Abdullah Alawi,Abdullah Alawi,association football player,Q846,Q846
+Q24007536,Q6581097,1991-07-09T00:00:00Z,5,Ismail Dahqani,Ismail Mousa,association football player,Q846,Q846
+Q24007537,Q6581097,1995-08-25T00:00:00Z,5,Adel Al-Sulaimane,Adel Alawi,association football player,Q846,Q846
+Q24007538,Q6581097,1992-06-20T00:00:00Z,5,Omar Yahya,Omar Yahya,association football player,Q846,Q846
+Q24007541,Q6581097,1990-06-20T00:00:00Z,5,Dheyab Al-Annabi,Dheyab Al-Annabi,Qatari footballer,Q846,Q846
+Q24007544,Q6581097,1990-12-06T00:00:00Z,5,Mohammad Al-Malki,Mohammad Al-Malki,association football player,Q846,Q846
+Q24007546,Q6581097,1990-06-26T00:00:00Z,5,Abdulaziz Al-Yahri,Abdulaziz Al-Yahri,association football player,Q846,Q846
+Q24007548,Q6581097,1994-03-25T00:00:00Z,5,Abdurahman Waleed,Abdurahman Waleed,association football player,Q846,Q846
+Q24007549,Q6581097,1993-10-17T00:00:00Z,5,Nasser Khalfan,Nasser Khalfan,association football player,Q846,Q846
+Q24007551,Q6581097,1986-09-23T00:00:00Z,6,Rami Fayez,Rami Fayez,association football player,Q846,Q810
+Q24007558,Q6581097,1997-06-05T00:00:00Z,5,Yazan Naim,Yazan Naim,association football player,Q846,Q846
+Q24007561,Q6581097,1993-09-11T00:00:00Z,5,Satea Abdelnasser,Satea Abdelnasser,association football player,Q846,Q858
+Q24007566,Q6581097,1994-09-06T00:00:00Z,5,Majed Aman,Majed Aman,association football player,Q846,Q846
+Q24007568,Q6581097,1996-08-15T00:00:00Z,5,Muaaz Al-Salemi,Muaaz Al-Salemi,association football player,Q846,Q846
+Q24007569,Q6581097,1996-05-24T00:00:00Z,20,Yousef Hassan,Yousef Hassan,association football player,Q846,Q3861
+Q24007616,Q6581097,1993-02-09T00:00:00Z,5,Musaab Abdulmajeed,Musaab Abdulmajeed,association football player,Q846,Q1049
+Q24007728,Q6581097,1995-07-11T00:00:00Z,5,Nasser Al-Nasr,Nasser Ibrahim Al-Nassr,association football player,Q846,Q846
+Q24007729,Q6581097,1996-01-25T00:00:00Z,5,Husam Kamal,Hossam Kamal,association football player,Q846,Q846
+Q24007732,Q6581097,1994-06-01T00:00:00Z,5,Ahmed Al-Asker,Ahmed Al-Asker,association football player,Q846,Q846
+Q24007736,Q6581097,1994-01-06T00:00:00Z,6,"Abdulrahman Mohammed (footballer, born 1994)",Abdurahman Mohammed Abdulaziz,association football player,Q846,Q846
+Q24007741,Q6581097,1996-01-27T00:00:00Z,5,Jassem Al-Hashemi,Jassem Al-Hashemi,association football player,Q846,Q846
+Q24258645,Q6581097,1986-06-24T00:00:00Z,5,Mohammad Jumaa,Mohammed Al-Alawi,association football player,Q846,Q846
+Q24258691,Q6581097,1984-01-01T00:00:00Z,5,Muaaz Yousef,Muaaz Yousef,Qatari footballer,Q846,Q851
+Q24258691,Q6581097,1984-02-18T00:00:00Z,5,Muaaz Yousef,Muaaz Yousef,Qatari footballer,Q846,Q851
+Q24258853,Q6581097,1982-09-09T00:00:00Z,1,Mohammed Yousuf (basketball),Mohd Mohamed,Qatari basketball player (born 1982),Q846,Q3861
+Q2452465,Q6581097,1981-08-09T00:00:00Z,12,Jarvis Hayes,Jarvis Hayes,American basketball player,Q30,Q23556
+Q2452465,Q6581097,1981-08-09T00:00:00Z,12,Jarvis Hayes,Jarvis Hayes,American basketball player,Q846,Q23556
+Q245852,Q6581097,1980-11-19T00:00:00Z,20,Rodrigo Tabata,Rodrigo Tabata,Qatari association football player,Q846,Q626835
+Q245852,Q6581097,1980-11-19T00:00:00Z,20,Rodrigo Tabata,Rodrigo Tabata,Qatari association football player,Q155,Q626835
+Q2459031,Q6581097,1978-04-05T00:00:00Z,8,"Marcone (footballer, born 1978)",Marcone Amaral Costa,Brazilian and Qatari footballer,Q155,Q1793430
+Q2459031,Q6581097,1978-04-05T00:00:00Z,8,"Marcone (footballer, born 1978)",Marcone Amaral Costa,Brazilian and Qatari footballer,Q846,Q1793430
+Q24688858,Q6581072,1997-08-20T00:00:00Z,4,Nadeen Wehdan,Nadeen Wehdan,Qatari trampoline gymnast,Q846,Q846
+Q2469397,Q6581097,1967-02-19T00:00:00Z,10,Abdullah bin Nasser Al Thani (businessman),Abdullah bin Nasser bin Abdullah Al Ahmed Al Thani,Qatari businessman,Q846,Q3861
+Q24703089,Q6581097,1978-03-26T00:00:00Z,3,Boney Watson,Boney Watson,Qatari basketball player (born 1978),Q846,
+Q24703089,Q6581097,1978-03-26T00:00:00Z,3,Boney Watson,Boney Watson,Qatari basketball player (born 1978),Q30,
+Q2480851,Q6581097,1979-07-19T00:00:00Z,10,Abdulla Koni,Abdulla Koni,Senegalese and Qatari footballer,Q846,Q3718
+Q2480851,Q6581097,1979-07-19T00:00:00Z,10,Abdulla Koni,Abdulla Koni,Senegalese and Qatari footballer,Q1041,Q3718
+Q24851512,Q6581097,1972-11-30T00:00:00Z,4,Ali bin Samikh al-Marri,Ali bin Saeed bin Smaikh Al Marri,minister of Labor in Qatar,Q846,
+Q2522192,Q6581097,1985-12-15T00:00:00Z,15,Qasem Burhan,Qasem Burhan,Qatari footballer,Q1041,Q3718
+Q2522192,Q6581097,1985-12-15T00:00:00Z,15,Qasem Burhan,Qasem Burhan,Qatari footballer,Q846,Q3718
+Q25350703,Q6581097,1990-01-01T00:00:00Z,5,Saoud Nasser,Saoud Nasser,association football player,Q846,Q846
+Q2539281,Q6581097,1960-01-01T00:00:00Z,4,Waheed Khamis Al-Salem,Waheed Khamis Al-Salem,Qatari athletics competitor,Q846,
+Q25930479,Q6581097,1975-01-01T00:00:00Z,3,Abd al-Latif Bin Abdullah Salih Muhammad al-Kawari,Abd al-Latif Bin Abdullah Salih Muhammad al-Kawari,al Qaeda financier,Q846,
+Q25999490,Q6581097,1965-01-01T00:00:00Z,2,Khalifa Muhammad Turki al-Subaiy,Khalifa Muhammad Turki al-Subaiy,Qatari al-Qaeda facilitator and financier (born 1965),Q846,
+Q26012380,Q6581097,1999-02-08T00:00:00Z,3,Moaaz Mohamed Ibrahim,Mohamed Ibrahim Moaaz,Qatari discus thrower,Q846,Q85
+Q26209575,Q6581097,1995-04-06T00:00:00Z,9,Fahad Al-Abdulrahman,Fahad Al-Abdulrahman,association football player,Q846,Q846
+Q26213206,Q6581097,1995-05-22T00:00:00Z,13,Cherif Younousse,Cherif Younousse,Qatar beach volleyball player,Q846,Q3718
+Q26260149,Q6581097,1991-08-29T00:00:00Z,4,Nasreddine Megdich,Nasreddine Megdich,Qatari handball player,Q846,
+Q26260156,Q6581097,1992-10-24T00:00:00Z,7,Thulasi Tharumalingam,Thulasi Tharumalingam,boxer,Q183,Q686830
+Q26260156,Q6581097,1992-10-24T00:00:00Z,7,Thulasi Tharumalingam,Thulasi Tharumalingam,boxer,Q846,Q686830
+Q2646746,Q6581097,1982-09-01T00:00:00Z,9,Ali Al-Thani,Ali bin Chalid Al Thani,Qatari equestrian,Q846,Q3861
+Q26789966,Q6581097,1996-08-28T00:00:00Z,11,Abubaker Haydar Abdalla,Abubaker Haydar Abdalla,Qatari middle-distance runner,Q846,Q1963
+Q26789981,Q6581097,1993-03-03T00:00:00Z,6,Morad Zemouri,Morad Zemouri,judoka,Q846,
+Q26790031,Q6581072,1999-11-28T00:00:00Z,5,Dalal Mesfer Al-Harith,Dalal Mesfer Al-Harith,Qatari sprinter,Q846,
+Q2682060,Q6581097,1981-08-08T00:00:00Z,5,Banjar Al-Dosari,Banjar Al-Dosari,Football referee,Q846,Q846
+Q26924367,Q6581097,1996-03-03T00:00:00Z,9,Ahmed Bader Magour,Ahmed Bader Magour,Qatari athletics competitor,Q846,Q79
+Q26924669,Q6581097,1994-07-05T00:00:00Z,6,Hakan Erşeker,Hakan Erşeker,Qatari boxer,Q846,Q376139
+Q2701498,Q6581097,1986-06-02T00:00:00Z,15,Bilal Mohammed,Bilal Mohammed,Qatari footballer,Q846,Q846
+Q2701502,Q6581097,1983-06-27T00:00:00Z,10,Ibrahim Al-Ghanim,Ibrahim Al-Ghanim,Qatari footballer,Q846,Q846
+Q2701879,Q6581097,1986-08-13T00:00:00Z,15,Mohammed Kasola,Mohammed Kasola,Qatari footballer,Q846,Q3761
+Q27049319,Q6581097,1999-05-10T00:00:00Z,5,Noah Al-Khulaifi,Noah Al-Khulaifi,Qatari swimmer,Q846,
+Q27064038,Q6581097,1998-06-04T00:00:00Z,22,Fares El-Bakh,Faris Ibrahim,Qatari weightlifter,Q846,Q312723
+Q27244495,Q6581097,1989-06-08T00:00:00Z,6,Jefferson Pereira,Jefferson Pereira,Qatar beach volleyball player born in Brazil,Q846,Q8678
+Q27244495,Q6581097,1989-06-08T00:00:00Z,6,Jefferson Pereira,Jefferson Pereira,Qatar beach volleyball player born in Brazil,Q155,Q8678
+Q27244548,Q6581097,1983-01-01T00:00:00Z,5,Shaheen Ali,Shaheen Ali,association football player,Q846,Q846
+Q27244548,Q6581097,1983-06-15T00:00:00Z,5,Shaheen Ali,Shaheen Ali,association football player,Q846,Q846
+Q27244597,Q6581097,1982-01-01T00:00:00Z,5,Ahmed Shahdad,Ahmed Shahdad,association football player,Q846,Q846
+Q27443390,Q6581097,1995-04-18T00:00:00Z,6,Jassem Mohammed Omar,Jassem Mohammed Omar,Qatari footballer,Q846,Q846
+Q27469928,Q6581097,1996-08-21T00:00:00Z,5,Abdulhadi Nuaman,Abdulhadi Nuaman,Qatari association football player,Q846,Q846
+Q27469928,Q6581097,1996-08-29T00:00:00Z,5,Abdulhadi Nuaman,Abdulhadi Nuaman,Qatari association football player,Q846,Q846
+Q27469929,Q6581097,1997-01-17T00:00:00Z,6,Adel Bader,Adel Bader,association football player,Q846,Q846
+Q27469938,Q6581097,1996-09-06T00:00:00Z,5,Abdulrahman Anad,Abdurahman Enad,association football player,Q846,Q846
+Q27469940,Q6581097,1996-12-09T00:00:00Z,5,Yousef Hani Ballan,Yousef Hani Ballan,association football player,Q846,Q846
+Q27473641,Q6581097,1990-10-26T00:00:00Z,5,Salem Khalifah,Salem Khalifah,association football player,Q846,Q846
+Q27473644,Q6581097,1990-02-02T00:00:00Z,5,Saeed El-Hadj,Saeed El-Hadj,association football player,Q846,Q846
+Q27473644,Q6581097,1992-02-02T00:00:00Z,5,Saeed El-Hadj,Saeed El-Hadj,association football player,Q846,Q846
+Q2761427,Q6581097,1980-08-06T00:00:00Z,11,Saad Al-Shammari,Saad Al-Shammari,Qatari-Saudi football player,Q846,Q27219
+Q27662720,Q6581097,1996-07-21T00:00:00Z,13,Tameem Al-Muhaza,Tameem Al-Muhaza,Qatari association football player,Q846,Q3861
+Q27662735,Q6581097,1997-04-14T00:00:00Z,5,Saif Al-Mohannadi,Saif Al-Mohannadi,Qatari association football player,Q846,Q846
+Q27662776,Q6581097,1991-02-16T00:00:00Z,5,Mohammed Sayyar,Mohammed Sayyar,association football player,Q846,Q398
+Q27671280,Q6581097,1996-04-07T00:00:00Z,18,Sultan Al-Brake,Sultan Al-Brake,Qatari association football player,Q846,Q3861
+Q27735007,Q6581097,1983-01-13T00:00:00Z,5,Mohammed Al Aqib,Mohammed Al Aqib,association football player,Q846,Q846
+Q27830940,Q6581097,1989-05-05T00:00:00Z,4,"Mohammed Attiyah (footballer, born 1989)",Mohammed Attiyah,association football player,Q846,
+Q2784574,Q6581097,1970-02-14T00:00:00Z,6,Abdullah Balideh,Abdullah Balideh,football referee,Q846,Q846
+Q27916819,Q6581097,1994-10-23T00:00:00Z,5,Ayoub El-Idrissi,Ayoub El-Idrissi,Moroccan judoka (1994-),Q846,
+Q27916819,Q6581097,1994-10-23T00:00:00Z,5,Ayoub El-Idrissi,Ayoub El-Idrissi,Moroccan judoka (1994-),Q1028,
+Q27922201,Q6581097,1983-01-05T00:00:00Z,5,Amer Al-Omari,Amer Al-Omari,association football player,Q846,Q805
+Q28051466,Q6581097,1997-04-05T00:00:00Z,12,Abdelrahman Moustafa,Abdelrahman Moustafa,Qatari association football player,Q846,Q79
+Q28051552,Q6581097,1999-12-25T00:00:00Z,6,Khaled Waleed,Khaled Waleed,association football player,Q846,Q846
+Q28051615,Q6581097,1999-03-21T00:00:00Z,10,Yousef Aymen,Yousef Aymen,Qatari-Egyptian association football player,Q79,Q79
+Q28051615,Q6581097,1999-03-21T00:00:00Z,10,Yousef Aymen,Yousef Aymen,Qatari-Egyptian association football player,Q846,Q79
+Q28154991,Q6581097,1992-01-29T00:00:00Z,7,Jasem Al-Hail,Jassem Adel,association football player,Q846,Q846
+Q28155010,Q6581097,1993-03-07T00:00:00Z,6,Saad Hussain,Saad Hussain,association football player,Q846,Q846
+Q28174073,Q6581097,1996-07-02T00:00:00Z,2,Abdulrahman Saad,Abdulrahman Mohamed Saad,Qatari basketball player (born 1996),Q846,Q3861
+Q2820939,Q6581097,1952-12-05T00:00:00Z,9,Abdullah bin Hamad al-Attiyah,Abdullah bin Hamad Al Attiyah,prime minister,Q846,Q3861
+Q2822102,Q6581097,1983-11-08T00:00:00Z,8,Abubaker Ali Kamal,Abubaker Ali Kamal,Qatari steeplechase runner,Q846,
+Q2827460,Q6581097,1920-01-01T00:00:00Z,24,Ahmad bin Ali Al Thani,Ahmad bin Ali Al Thani,Emir of Qatar,Q846,Q3861
+Q28528630,Q6581097,1994-08-31T00:00:00Z,9,Ahmad Madadi,Ahmad Madadi,Qatari handball player,Q846,Q846
+Q2866574,Q6581097,1995-02-20T00:00:00Z,13,Ashraf Amgad El-Seify,Ashraf Amgad Elseify,Qatari hammer thrower,Q846,Q79
+Q28673279,Q6581097,1999-06-29T00:00:00Z,9,Andri Syahputra,Andri Syahputra,association football player,Q846,Q5784
+Q28674143,Q6581097,1999-09-18T00:00:00Z,22,Mohammed Waad,Mohammed Waad,Iraqi-born Qatari footballer,Q846,Q1530
+Q28674143,Q6581097,1999-09-18T00:00:00Z,22,Mohammed Waad,Mohammed Waad,Iraqi-born Qatari footballer,Q796,Q1530
+Q28674504,Q6581097,1997-09-14T00:00:00Z,5,Sayed Issa,Sayed Hussain Eisa,association football player,Q846,Q79
+Q28777516,Q6581072,2001-04-13T00:00:00Z,4,Mubaraka Al-Naimi,Mubaraka Al-Naimi,Qatari tennis player,Q846,Q846
+Q28805384,Q6581097,1993-10-06T00:00:00Z,7,Ahmed Sayyar,Ahmed Sayyar,association football player,Q846,Q398
+Q28811978,Q6581097,1997-11-25T00:00:00Z,5,Ibrahim Masoud,Ibrahim Abdelhalim Masoud,association football player,Q846,Q846
+Q2891977,Q6581072,1983-01-01T00:00:00Z,15,Al-Mayassa bint Hamad Al Thani,Princess Al Mayassa bint Hamad of Qatar,"Qatari Royal, museum director and art curator",Q846,Q3861
+Q28923555,Q6581097,1993-01-01T00:00:00Z,18,Musab Kheder,Musab Kheder,association football player,Q846,Q1963
+Q28962770,Q6581097,1977-12-24T00:00:00Z,2,Hamad Mubarak Al-Dosari,Hamad Mubarak Al-Dosari,Qatari hurdler,Q846,
+Q28962783,Q6581097,1977-11-13T00:00:00Z,2,Mubarak Khasif,Mubarak Khasif,Qatari hurdler,Q846,
+Q2911086,Q6581097,1981-12-25T00:00:00Z,13,Borja Vidal,Borja Vidal Fernández Fernández,Spanish handball player,Q846,Q695499
+Q2911086,Q6581097,1981-12-25T00:00:00Z,13,Borja Vidal,Borja Vidal Fernández Fernández,Spanish handball player,Q29,Q695499
+Q29166474,Q6581097,1985-03-21T00:00:00Z,3,Saeed Al Sulaiti,Saeed Al Sulaiti,Qatari motorcycle racer,Q846,Q3861
+Q29168545,Q6581097,1988-03-25T00:00:00Z,3,Zakrya Ali Kamil,Zakrya Ali Kamil,Qatari long-distance runner,Q846,
+Q29468711,Q6581097,1991-03-08T00:00:00Z,1,Abdullah Matalkeh,Abduallah Matalkeh,Qatari basketball player (born 1991),Q846,Q3861
+Q29470077,Q6581097,1993-02-27T00:00:00Z,1,Khalid Abdalla Adam,Khalid Abdalla Adam,Qatari basketball player (born 1993),Q846,Q3861
+Q29477926,Q6581097,1996-06-26T00:00:00Z,2,Abdelrahman Abdelhaleem,Abdelrahman Abdelhaleem,Qatari basketball player (born 1996),Q79,Q3861
+Q29477926,Q6581097,1996-06-26T00:00:00Z,2,Abdelrahman Abdelhaleem,Abdelrahman Abdelhaleem,Qatari basketball player (born 1996),Q846,Q3861
+Q29479839,Q6581097,1985-05-13T00:00:00Z,4,Malek Saleem,Malek Saleem,Qatari basketball player (born 1985),Q846,Q3861
+Q29831361,Q6581097,1995-09-05T00:00:00Z,20,Abderrahman Samba,Abderrahman Samba,Qatari hurdler,Q846,Q851
+Q30043901,Q6581097,1987-10-14T00:00:00Z,26,Abdulrahman Al-Jassim,Abdulrahman Al-Jassim,Qatari football referee,Q846,Q846
+Q30122360,Q6581097,1995-11-23T00:00:00Z,2,Mohamed Abdelaziz (basketball),Mohamed Abdelaziz,Qatari basketball player (born 1995),Q846,Q3861
+Q30122360,Q6581097,1995-11-23T00:00:00Z,2,Mohamed Abdelaziz (basketball),Mohamed Abdelaziz,Qatari basketball player (born 1995),Q79,Q3861
+Q30122378,Q6581097,1991-08-03T00:00:00Z,3,Mizo Amin,Mizo Amin,Qatari basketball player (born 1991),Q79,Q85
+Q30122378,Q6581097,1991-08-03T00:00:00Z,3,Mizo Amin,Mizo Amin,Qatari basketball player (born 1991),Q846,Q85
+Q30127411,Q6581097,2000-02-02T00:00:00Z,5,Nasser Al Yazidi,Nasser Al Yazidi,Qatari association football player,Q846,Q3861
+Q3068219,Q6581097,1991-05-15T00:00:00Z,19,Femi Ogunode,Femi Ogunode,Qatari sprinter of Nigerian descent,Q1033,Q1853310
+Q3068219,Q6581097,1991-05-15T00:00:00Z,19,Femi Ogunode,Femi Ogunode,Qatari sprinter of Nigerian descent,Q846,Q1853310
+Q307466,Q6581097,1950-04-15T00:00:00Z,8,Abdul Rahman bin Hamad Al Attiyah,AbdulRahman bin Hamad al-Attiyah,Qatari diplomat and former secretary-general of the Gulf Cooperation Council,Q846,Q3861
+Q3147541,Q6581097,1985-03-11T00:00:00Z,7,Ibrahima Nadiya,Ibrahima Nadiya,Qatari association football player,Q846,Q3718
+Q316739,Q6581097,1970-12-21T00:00:00Z,28,Nasser al-Attiyah,Nasser Al-Attiyah,Qatari rally driver and sport shooter (born 1970),Q846,Q3861
+Q317771,Q6581097,1958-02-11T00:00:00Z,20,Abdullah bin Khalifa Al Thani,Abdullah bin Khalifa Al Thani,Prime Minister of Qatar,Q846,Q3861
+Q317875,Q6581097,1972-10-01T00:00:00Z,9,Abdulrahman Abdou,Abdulrahman Abdou,Qatari soccer referee,Q846,Q3861
+Q3196656,Q6581097,1980-03-01T00:00:00Z,8,Omar bin Laden,Omar bin Laden,son of Osama bin Laden (born 1981),Q851,Q8051076
+Q3196656,Q6581097,1980-03-01T00:00:00Z,8,Omar bin Laden,Omar bin Laden,son of Osama bin Laden (born 1981),Q846,Q8051076
+Q3214247,Q6581097,1982-02-25T00:00:00Z,10,Meshal Mubarak,Meshal Mubarak,Qatari footballer,Q846,Q3861
+Q3296584,Q6581097,1972-05-10T00:00:00Z,8,Ibrahim Ismail Muftah,Ibrahim Ismail Muftah,Qatari sprinter,Q846,Q3861
+Q3298680,Q6581097,1955-12-12T00:00:00Z,7,Ali Hassan al-Jaber,Ali Hassan al-Jaber,Qatari journalist (1955–2011),Q846,Q3861
+Q3298680,Q6581097,1955-12-12T00:00:00Z,7,Ali Hassan al-Jaber,Ali Hassan al-Jaber,Qatari journalist (1955–2011),Q1016,Q3861
+Q3299063,Q6581097,1977-12-30T00:00:00Z,10,Mubarak Al-Nubi,Mubarak Al-Nubi,Qatari hurdling athlete,Q846,Q846
+Q33106268,Q6581097,1989-04-15T00:00:00Z,3,Jassem Al-Jaber,Jassem Al-Jaber,association football player,Q846,Q846
+Q33113372,Q6581097,1998-01-01T00:00:00Z,8,Yaser Bagharab,Yaser Salem Bagharab,Qatari athletics competitor,Q846,Q805
+Q33218103,Q6581072,1958-01-01T00:00:00Z,5,Kaltham Jaber,Kaltham Jaber,Qatari writer,Q846,Q3861
+Q3370281,Q6581097,1992-07-02T00:00:00Z,10,Mohamad Al-Garni,Mohamad Al-Garni,Qatari middle distance runner,Q846,Q3551
+Q3370281,Q6581097,1992-07-01T00:00:00Z,10,Mohamad Al-Garni,Mohamad Al-Garni,Qatari middle distance runner,Q846,Q3551
+Q3461216,Q6581097,1950-11-11T00:00:00Z,3,Saeed Al-Hajri (rally driver),Saeed Al-Hajri,Qatari racing driver,Q846,Q3861
+Q3515146,Q6581097,1989-07-18T00:00:00Z,6,Tanguy Ngombo,Tanguy Ngombo,Qatari basketball player (born 1989),Q971,Q3844
+Q3515146,Q6581097,1989-07-18T00:00:00Z,6,Tanguy Ngombo,Tanguy Ngombo,Qatari basketball player (born 1989),Q846,Q3844
+Q354321,Q6581097,1982-10-15T00:00:00Z,29,Saif Saaeed Shaheen,Saif Saaeed Shaheen,Qatari-Kenyan long-distance runner,Q114,Q1684196
+Q354321,Q6581097,1982-10-15T00:00:00Z,29,Saif Saaeed Shaheen,Saif Saaeed Shaheen,Qatari-Kenyan long-distance runner,Q846,Q1684196
+Q35545944,Q6581097,1980-04-01T00:00:00Z,2,Salaheddine Al-Safi,Salaheddine Bakar Al-Safi,Qatari athlete,Q846,
+Q356925,Q6581097,1977-07-27T00:00:00Z,22,Danijel Šarić,Danijel Šarić,Bosnian handball player,Q36704,Q169247
+Q356925,Q6581097,1977-07-27T00:00:00Z,22,Danijel Šarić,Danijel Šarić,Bosnian handball player,Q403,Q169247
+Q356925,Q6581097,1977-07-27T00:00:00Z,22,Danijel Šarić,Danijel Šarić,Bosnian handball player,Q37024,Q169247
+Q356925,Q6581097,1977-07-27T00:00:00Z,22,Danijel Šarić,Danijel Šarić,Bosnian handball player,Q846,Q169247
+Q356925,Q6581097,1977-07-27T00:00:00Z,22,Danijel Šarić,Danijel Šarić,Bosnian handball player,Q225,Q169247
+Q3603354,Q6581097,1993-08-28T00:00:00Z,30,Abdelkarim Hassan,Abdelkarim Hassan,Qatari footballer,Q846,Q3861
+Q3603396,Q6581097,1988-06-11T00:00:00Z,10,Abdulaziz Al-Sulaiti,Abdulaziz Al Sulaiti,Qatari football player,Q846,Q846
+Q3603419,Q6581097,1984-01-07T00:00:00Z,7,Abdulrahman Mesbeh,Abdulrahman Mesbeh,Qatari footballer,Q846,Q846
+Q3632355,Q6581097,1983-09-03T00:00:00Z,6,Baba Malick,Baba Malick,Senegalese and Qatari footballer,Q846,
+Q3632355,Q6581097,1983-09-03T00:00:00Z,6,Baba Malick,Baba Malick,Senegalese and Qatari footballer,Q1041,
+Q3635589,Q6581097,1981-06-17T00:00:00Z,6,Basel Samih,Basel Samih,Qatari footballer,Q846,Q3861
+Q3643114,Q6581097,1990-07-09T00:00:00Z,31,Boualem Khoukhi,Boualem Khoukhi,Qatari association football player,Q846,Q1438489
+Q3643114,Q6581097,1990-07-09T00:00:00Z,31,Boualem Khoukhi,Boualem Khoukhi,Qatari association football player,Q262,Q1438489
+Q3738372,Q6581097,1992-03-23T00:00:00Z,7,Fahad Khalfan (Qatari footballer),Fahad Khalfan,Qatari footballer,Q846,Q846
+Q3740508,Q6581097,1981-09-27T00:00:00Z,6,Fawaz Al-Khater,Fawaz Al Khater,footballer,Q846,Q3861
+Q37501442,Q6581097,1967-01-30T00:00:00Z,1,Rashid Sheban Marzouk,Rashid Sheban Marzouk,Qatari sprinter,Q846,
+Q3787717,Q6581097,1974-09-12T00:00:00Z,8,Hussain Al-Romaihi,Hussain Al-Romaihi,Qatari footballer,Q846,Q846
+Q3787719,Q6581097,1985-06-23T00:00:00Z,8,Hussain Shehab,Hussain Ali Shehab,Qatari footballer,Q796,Q48195
+Q3787719,Q6581097,1985-06-23T00:00:00Z,8,Hussain Shehab,Hussain Ali Shehab,Qatari footballer,Q846,Q48195
+Q379097,Q6581097,1980-12-01T00:00:00Z,17,Mubarak Hassan Shami,Mubarak Hassan Shami,Qatari-Kenyan long-distance runner,Q846,Q114
+Q379097,Q6581097,1980-12-02T00:00:00Z,17,Mubarak Hassan Shami,Mubarak Hassan Shami,Qatari-Kenyan long-distance runner,Q846,Q114
+Q3806094,Q6581097,1972-09-27T00:00:00Z,8,Jafal Rashed Al-Kuwari,Jafal Rashed Al-Kuwari,Qatari footballer,Q846,Q846
+Q3812986,Q6581097,1990-09-16T00:00:00Z,29,Karim Boudiaf,Karim Boudiaf,Qatari footballer,Q846,Q193920
+Q3812986,Q6581097,1990-09-16T00:00:00Z,29,Karim Boudiaf,Karim Boudiaf,Qatari footballer,Q142,Q193920
+Q3814929,Q6581097,1992-07-02T00:00:00Z,16,Khalid Muftah,Khalid Muftah,Qatari footballer,Q846,Q310893
+Q38200141,Q6581097,1981-09-13T00:00:00Z,5,Adel Jadoua Ali,Ali Adel Jadoua,association football player,Q846,Q846
+Q3840504,Q6581097,1989-01-13T00:00:00Z,9,"Luiz Júnior (footballer, born 1989)",Luiz Martin Carlos Júnior,Brazilian and Qatari footballer,Q155,Q2013987
+Q3840504,Q6581097,1989-01-13T00:00:00Z,9,"Luiz Júnior (footballer, born 1989)",Luiz Martin Carlos Júnior,Brazilian and Qatari footballer,Q846,Q2013987
+Q3850786,Q6581097,1983-09-08T00:00:00Z,5,Mashel Al Naimi,Mashel Al Naimi,Qatari motorcycle racer,Q846,Q3861
+Q38586258,Q6581097,1991-09-16T00:00:00Z,5,Dharmang Patel,Dharmang Patel,Qatari cricketer,Q846,Q1070
+Q3860141,Q6581097,1976-11-22T00:00:00Z,14,Mohammed Salem Al-Enazi,Mohammed Salem Al-Enazi,Qatari footballer,Q846,Q3861
+Q3860141,Q6581097,1976-11-22T00:00:00Z,14,Mohammed Salem Al-Enazi,Mohammed Salem Al-Enazi,Qatari footballer,Q878,Q3861
+Q3867466,Q6581097,1983-04-12T00:00:00Z,7,Mosaab Mahmoud,Mosaab Mahmoud Al Hassan,Sudanese and Qatari footballer,Q1049,Q311204
+Q3867466,Q6581097,1983-04-12T00:00:00Z,7,Mosaab Mahmoud,Mosaab Mahmoud Al Hassan,Sudanese and Qatari footballer,Q846,Q311204
+Q38822696,Q6581097,1967-01-08T00:00:00Z,3,Sami Al-Abdullah,Sami Al-Abdullah,Qatari sprinter,Q846,
+Q38822713,Q6581097,1974-09-11T00:00:00Z,2,Masoud Khamis Rahman,Masoud Abdul Khamis,Qatari sprinter,Q846,
+Q38823390,Q6581097,1974-08-22T00:00:00Z,1,Fareh Ibrahim Ali,Fareh Ibrahim Ali,Qatari athlete,Q846,
+Q39048131,Q6581097,1973-05-11T00:00:00Z,1,Ali Ismail Doka,Ali Ismail Doka,Qatari sprinter,Q846,
+Q39157188,Q6581097,1982-01-01T00:00:00Z,2,Ahmed Al-Imam,Ahmed Al-Imam,Qatari sprinter,Q846,
+Q3930395,Q6581097,1981-05-08T00:00:00Z,9,Rashid Shafi Al-Dosari,Rashid Shafi Al-Dosari,Qatari discus thrower,Q846,Q3861
+Q393396,Q6581097,1986-06-01T00:00:00Z,15,Žarko Marković (handballer),Žarko Marković,Montenegrin handball player,Q236,Q173338
+Q393396,Q6581097,1986-06-01T00:00:00Z,15,Žarko Marković (handballer),Žarko Marković,Montenegrin handball player,Q846,Q173338
+Q3944165,Q6581097,1990-02-19T00:00:00Z,30,Saad Al-Sheeb,Saad Al Sheeb,football player,Q846,Q3861
+Q3950174,Q6581097,1980-08-16T00:00:00Z,8,Saoud Fath,Saoud Fath,Qatari footballer,Q846,Q846
+Q3950870,Q6581097,1985-07-19T00:00:00Z,7,Saud Al Hajiri,Saud Al Hajiri,football player,Q846,Q3861
+Q39525384,Q6581097,1997-05-10T00:00:00Z,11,Abdullah Al-Ahrak,Abdullah Al-Ahrak,association football player,Q846,Q3861
+Q39525432,Q6581097,1997-03-28T00:00:00Z,11,Mohammed Al-Bakri,Mohammed Al-Bakari,Qatari footballer,Q846,Q3861
+Q39525455,Q6581097,1997-12-16T00:00:00Z,23,Bassam Al-Rawi,Bassam Al-Rawi,Qatteri football player,Q846,Q1530
+Q39525477,Q6581097,1997-12-05T00:00:00Z,23,Tarek Salman,Tarek Salman,association football player,Q846,Q310893
+Q400658,Q6581097,1981-07-29T00:00:00Z,10,Ahmad Hassan Abdullah,Ahmad Hassan Abdullah,Qatari-Kenyan long-distance runner,Q114,Q114
+Q400658,Q6581097,1981-07-29T00:00:00Z,10,Ahmad Hassan Abdullah,Ahmad Hassan Abdullah,Qatari-Kenyan long-distance runner,Q846,Q114
+Q400658,Q6581097,1981-04-04T00:00:00Z,10,Ahmad Hassan Abdullah,Ahmad Hassan Abdullah,Qatari-Kenyan long-distance runner,Q114,Q114
+Q400658,Q6581097,1981-04-04T00:00:00Z,10,Ahmad Hassan Abdullah,Ahmad Hassan Abdullah,Qatari-Kenyan long-distance runner,Q846,Q114
+Q401328,Q6581097,1966-02-04T00:00:00Z,5,Ahmed Ibrahim Warsama,Ahmed Ibrahim Hashim,Qatari long-distance runner,Q846,
+Q40700951,Q6581097,1996-01-01T00:00:00Z,7,Mohamed Nasir Abbas,Mohamed Nasir Abbas,Qatari athlete,Q846,
+Q4115506,Q6581097,1990-05-12T00:00:00Z,17,Ibrahim Majid,Ibrahim Majid,Qatari footballer,Q846,Q35178
+Q4115950,Q6581097,1983-01-03T00:00:00Z,8,Younes Ali,Younes Ali,Qatari footballer,Q846,Q3861
+Q4118136,Q6581097,1988-04-03T00:00:00Z,11,Jaralla Al-Marri (footballer),Jaralla Al-Marri,Qatari footballer,Q846,Q311272
+Q4119963,Q6581097,1985-11-13T00:00:00Z,10,Adel Lami,Adel Lami,Qatari footballer,Q846,Q35178
+Q4119984,Q6581097,1985-09-03T00:00:00Z,9,Majdi Siddiq,Majdi Siddiq,Qatari footballer,Q846,Q3692
+Q4120300,Q6581097,1986-02-11T00:00:00Z,10,Mesaad Al-Hamad,Mesaad Al-Hamad,footballer,Q846,Q2471
+Q41240176,Q6581072,1995-01-01T00:00:00Z,7,Nawaal Akram,Nawaal Akram,"Qatari comedian, model, athlete and disability rights campaigner",Q846,Q3861
+Q4164463,Q6581097,1986-05-16T00:00:00Z,8,Ali Nasser,Ali Nasser,Qatari footballer,Q846,Q3861
+Q4165685,Q6581097,1985-10-01T00:00:00Z,12,Magid Mohamed,Magid Mohamed,Sudanese and Qatari footballer,Q1049,Q1963
+Q4165685,Q6581097,1985-10-01T00:00:00Z,12,Magid Mohamed,Magid Mohamed,Sudanese and Qatari footballer,Q846,Q1963
+Q42303315,Q6581097,1977-09-14T00:00:00Z,2,Abdulrahman Hassan Abdullah,Abdul Rahman Al-Abdullah,Qatari athlete,Q846,
+Q42304391,Q6581097,1981-12-27T00:00:00Z,3,Abdou Ibrahim Youssef,Abdou Ibrahim Youssef,Qatari athlete,Q846,
+Q42645126,Q6581072,1950-01-01T00:00:00Z,5,Sheikha Ahmed al-Mahmoud,Sheikha Ahmed al-Mahmoud,Qatari politician,Q846,
+Q429448,Q6581097,1974-06-01T00:00:00Z,22,Mohammed Al-Modiahki,Mohammed Al-Modiahki,Chess Grandmaster,Q846,Q846
+Q429482,Q6581097,1986-08-02T00:00:00Z,9,Waleed Jassem,Waleed Jassem,Qatari footballer,Q846,Q3861
+Q43033284,Q6581097,1997-03-28T00:00:00Z,3,Noor Rahman,Nour Rahman,association football player,Q846,Q843
+Q442071,Q6581072,1994-10-21T00:00:00Z,9,Noor Al-Malki,Noor Hussain Al-Malki,Qatari sprinter,Q846,Q3861
+Q45108574,Q6581097,1990-05-10T00:00:00Z,3,Mehdi Reza,Mahdi Reza,association football player,Q846,Q846
+Q45108600,Q6581097,1999-02-08T00:00:00Z,10,Ahmed Suhail,Ahmed Al-Hamawende,association football player,Q846,Q846
+Q46133098,Q6581097,1965-06-29T00:00:00Z,2,Abdullah Al-Sheib,Abdullah Mohamed Al-Sheib,Qatari athletics competitor,Q846,
+Q465785,Q6581097,1985-04-18T00:00:00Z,7,Musa Amer Obaid,Musa Amer Obaid,Qatari athletics competitor (born 1985),Q114,Q114
+Q465785,Q6581097,1985-04-18T00:00:00Z,7,Musa Amer Obaid,Musa Amer Obaid,Qatari athletics competitor (born 1985),Q846,Q114
+Q4664794,Q6581097,1946-01-01T00:00:00Z,4,Abdelaziz bin Ahmed Al Thani,Abdelaziz bin Ahmed Al Thani,Prince of Qatar and Minister for Health,Q846,Q3861
+Q4664796,Q6581097,1948-12-12T00:00:00Z,3,Abdelaziz bin Khalifa Al Thani,Abdelaziz bin Khalifa Al Thani,Sheikh of Qatar,Q846,Q3861
+Q4665333,Q6581097,1989-03-12T00:00:00Z,5,Abdul Ghafoor Murad,Abdul Ghafoor Murad,Qatari footballer,Q846,Q846
+Q4665657,Q6581097,1970-09-18T00:00:00Z,4,Abdul Rahman Yusuf,Abdul Rahman Yusuf,Egyptian poet,Q79,Q846
+Q4665657,Q6581097,1970-09-18T00:00:00Z,4,Abdul Rahman Yusuf,Abdul Rahman Yusuf,Egyptian poet,Q846,Q846
+Q4665795,Q6581097,1979-11-13T00:00:00Z,8,Abdulaziz Al-Kuwari,Abdulaziz Al-Kuwari,World Rally Championship driver,Q846,Q3861
+Q4665798,Q6581097,1980-06-05T00:00:00Z,8,Abdulaziz Ali,Abdulaziz Ali,Qatari footballer,Q846,Q846
+Q4665805,Q6581097,1990-10-28T00:00:00Z,28,Abdulaziz Hatem,Abdulaziz Hatem,Qatari association football player,Q846,Q3861
+Q4665807,Q6581097,1979-02-19T00:00:00Z,7,Abdulaziz Al-Ansari,Abdulaziz Rashid Al Ansari,Qatari footballer,Q846,Q846
+Q4665811,Q6581097,1979-11-10T00:00:00Z,7,Abdulaziz Karim,Abdulaziz Karim,Qatari footballer,Q846,Q1069900
+Q4665833,Q6581097,1990-08-17T00:00:00Z,6,Abdulgadir Ilyas Bakur,Abdulgadir Ilyas Bakur,Nigerian and Qatari footballer,Q846,Q3861
+Q4665833,Q6581097,1989-08-17T00:00:00Z,6,Abdulgadir Ilyas Bakur,Abdulgadir Ilyas Bakur,Nigerian and Qatari footballer,Q1033,Q3861
+Q4665833,Q6581097,1989-08-17T00:00:00Z,6,Abdulgadir Ilyas Bakur,Abdulgadir Ilyas Bakur,Nigerian and Qatari footballer,Q846,Q3861
+Q4665833,Q6581097,1990-08-17T00:00:00Z,6,Abdulgadir Ilyas Bakur,Abdulgadir Ilyas Bakur,Nigerian and Qatari footballer,Q1033,Q3861
+Q4665869,Q6581097,1991-03-25T00:00:00Z,10,Abdulkarim Al-Ali,Abdulkarim Al-Ali,footballer,Q846,Q846
+Q4665872,Q6581097,1984-02-14T00:00:00Z,6,Abdulla Al-Berik,Abdulla Al-Berik,Qatari footballer,Q846,Q3861
+Q4665872,Q6581097,1982-02-14T00:00:00Z,6,Abdulla Al-Berik,Abdulla Al-Berik,Qatari footballer,Q846,Q3861
+Q4665875,Q6581097,1991-05-04T00:00:00Z,6,Abdulla Afifa,Abdulla Afifa,footballer,Q846,Q311272
+Q4665887,Q6581097,1990-12-05T00:00:00Z,4,Abdulla Al-Haji,Abdulla Haji,Qatari tennis player,Q846,
+Q4666033,Q6581097,1962-08-05T00:00:00Z,6,Abdullah Mubarak,Abdullah Mubarak,football manager,Q846,Q846
+Q4666104,Q6581097,1956-01-01T00:00:00Z,4,Abdullah bin Khalid Al Thani,Abdullah bin Khalid Al Thani,former Minister of the Interior of Qatar,Q846,
+Q4666105,Q6581097,1960-01-01T00:00:00Z,26,Abdullah bin Nasser Al Thani (prime minister),Abdullah bin Nasser bin Khalifa Al Thani,Prime Minister of Qatar (2013–2020),Q846,Q3861
+Q4666169,Q6581097,1972-10-02T00:00:00Z,10,Abdulnasser Al-Obaidly,Abdulnasser Al-Obaidly,Qatar football player,Q846,Q846
+Q4666172,Q6581097,1987-08-19T00:00:00Z,6,Abdulqader Hikmat,Abdulqader Hikmat,Qatari taekwondo practitioner,Q846,
+Q4666195,Q6581097,1984-01-10T00:00:00Z,3,Abdulrahman Suleiman,Abdulrahman Suleiman,Qatari athletics competitor,Q846,
+Q4666277,Q6581097,1988-10-30T00:00:00Z,1,Abdurabb Al Yazeedi,Abdurabb Al Yazeedi,Qatari footballer,Q846,
+Q4681543,Q6581097,1970-12-07T00:00:00Z,10,Adel Al Mulla,Adel Al Mulla,Qatar football player (1970–2022),Q846,Q846
+Q4695323,Q6581097,1981-06-17T00:00:00Z,3,Ahmad Hassan Moussa,Ahmad Hassan Moussa,Qatari decathlete,Q846,
+Q4695427,Q6581097,2000-01-01T00:00:00Z,6,Ahmed Mohamed Musa,Ahmad Musa,footballer,Q846,
+Q4695740,Q6581097,1993-01-31T00:00:00Z,27,Ahmed Alaaeldin,Ahmed Alaaeldin,Qatari footballer,Q846,Q217156
+Q4695757,Q6581097,1994-05-02T00:00:00Z,5,Ahmed Atari,Ahmed Atari,Qatari swimmer,Q846,Q846
+Q4695817,Q6581097,1975-08-27T00:00:00Z,6,Ahmed Faris Al-Binali,Ahmed Faris Al-Binali,football player,Q846,Q284281
+Q4695873,Q6581097,1983-12-29T00:00:00Z,1,Ahmed Jumah Jaber,Ahmed Jumah Jaber,Qatari long-distance runner,Q846,
+Q4695938,Q6581097,1974-10-21T00:00:00Z,4,Ahmed Mubarak Al-Shafi,Ahmed Mubarak Al Shafi,football player,Q846,
+Q4696033,Q6581097,1990-08-09T00:00:00Z,7,Ahmed Soufiane,Ahmed Soufiane,Qatari footballer,Q846,Q3861
+Q4725186,Q6581097,1966-01-01T00:00:00Z,3,Ali Saleh Kahlah al-Marri,Ali Saleh Kahlah al-Marri,Al-Qaeda member convicted on terrorism charges in the United States,Q846,Q846
+Q4725189,Q6581097,1986-10-31T00:00:00Z,6,Ali Sanad,Ali Sanad,Qatari footballer,Q846,Q846
+Q4725189,Q6581097,1985-10-31T00:00:00Z,6,Ali Sanad,Ali Sanad,Qatari footballer,Q846,Q846
+Q4742436,Q6581097,1971-05-20T00:00:00Z,7,Amer Al-Kaabi,Amer Al Kaabi,Qatari footballer,Q846,Q846
+Q47490548,Q6581097,1966-08-03T00:00:00Z,2,Salah bin Ghanim Al Ali,Salah bin Ghanim Al Ali,politician,Q846,Q3861
+Q48038670,Q6581097,1987-09-07T00:00:00Z,13,Frankis Carol,Frankis Marzo,Qatari handball player,Q846,Q185156
+Q48038670,Q6581097,1987-09-07T00:00:00Z,13,Frankis Carol,Frankis Marzo,Qatari handball player,Q241,Q185156
+Q4830773,Q6581072,1994-08-01T00:00:00Z,6,Aya Majdi,Aya Majdi,Qatari table tennis player,Q846,Q87
+Q4830773,Q6581072,1994-08-01T00:00:00Z,6,Aya Majdi,Aya Majdi,Qatari table tennis player,Q79,Q87
+Q4841099,Q6581097,1972-10-29T00:00:00Z,6,Badr Salem Nayef,Badr Salem Nayef,weightlifter,Q846,
+Q4841099,Q6581097,1972-10-29T00:00:00Z,6,Badr Salem Nayef,Badr Salem Nayef,weightlifter,Q219,
+Q50280932,Q6581097,1988-08-16T00:00:00Z,3,"Ibrahim Jamal (footballer, born 1988)",Ibrahim Jamal,association football player,Q846,Q79
+Q50280984,Q6581097,1997-01-26T00:00:00Z,3,Ibrahim Kala,Ibrahim Nasser,association football player,Q846,Q846
+Q504869,Q6581097,1972-12-18T00:00:00Z,9,Bilal Saad Mubarak,Bilal Saad Mubarak,Qatari shot putter (1972–2018),Q846,
+Q512607,Q6581097,1949-05-08T00:00:00Z,18,Mohammed bin Hammam,Mohammed bin Hammam,Qatari football administrator,Q846,Q3861
+Q5157571,Q6581097,1987-12-25T00:00:00Z,7,Mohammed Abduh Bakhet,Mohammed Abduh Bakhet,Qatari long-distance runner,Q846,Q3861
+Q5208797,Q6581097,1978-09-05T00:00:00Z,8,Dahi Al Naemi,Dahi Al Naemi,football player,Q846,Q846
+Q5221539,Q6581097,1982-02-02T00:00:00Z,6,Daoud Musa,Daoud Musa,Qatari basketball player (born 1982),Q846,Q3861
+Q52771605,Q6581097,1997-03-07T00:00:00Z,2,Ghassan Waheed,Ghassan Waheed,association football player,Q846,
+Q52771703,Q6581097,1998-02-01T00:00:00Z,3,Saud Al-Nasr,Saoud Ibrahim Al-Nassr,association football player,Q846,Q846
+Q52771823,Q6581097,1998-02-14T00:00:00Z,25,Meshaal Barsham,Meshal Barsham,Qatari association football player,Q846,Q3861
+Q52771948,Q6581097,1999-04-18T00:00:00Z,3,Bahaa Ellethy,Bahaa Al-Lithi,association football player,Q846,Q3861
+Q52884545,Q6581097,1999-04-17T00:00:00Z,2,Marwan Badreldin,Marwan Badreldin,association football player,Q846,
+Q52884545,Q6581097,2000-04-17T00:00:00Z,2,Marwan Badreldin,Marwan Badreldin,association football player,Q846,
+Q52885552,Q6581097,1999-06-08T00:00:00Z,3,Khaldoun Moussa,Khaldon Ismaeel,association football player,Q846,
+Q52886784,Q6581097,1996-06-29T00:00:00Z,4,Yasin Yaqoob,Yassin Yaqoub,Qatari association football player,Q846,Q846
+Q52887026,Q6581097,1995-11-16T00:00:00Z,3,Tariq Hamed,Tareq Hamed,association football player,Q846,Q79
+Q529388,Q6581097,1952-09-15T00:00:00Z,10,Nassir Abdulaziz Al-Nasser,Nassir Abdulaziz Al-Nasser,President of the United Nations General Assembly,Q846,Q3861
+Q5304364,Q6581097,1965-04-30T00:00:00Z,4,Saleh Mohammad Al Nabit,Dr. Saleh Mohammad Al Nabit,economist,Q846,Q846
+Q53164923,Q6581097,1997-12-12T00:00:00Z,2,Elias Ahmed,Eliyas Ahmed,Qatari association football player,Q846,
+Q53215421,Q6581097,1997-01-22T00:00:00Z,3,Monkez Adi,Monkez Adi,association football player,Q846,Q846
+Q53216347,Q6581097,1998-08-25T00:00:00Z,3,Mohammad Abu Shanab,Mohammed Abo Shanab,association football player,Q846,
+Q53217282,Q6581097,1997-03-20T00:00:00Z,3,Ahmad Abdelhay,Ahmed Abdulhey,Qatari-Egyptian association football player,Q846,Q846
+Q53217282,Q6581097,1997-03-20T00:00:00Z,3,Ahmad Abdelhay,Ahmed Abdulhey,Qatari-Egyptian association football player,Q79,Q846
+Q53217691,Q6581097,1995-01-09T00:00:00Z,3,Abdallah Al Anzi,Abdullah Al-Enezi,Qatari association football player,Q846,Q846
+Q53320410,Q6581097,1997-05-11T00:00:00Z,2,Mouafak Awad,Mowafak Awadh,association football player,Q846,
+Q53320969,Q6581097,1996-03-20T00:00:00Z,3,Abdelaziz Mitwali,Abdulaziz Motouali,association football player,Q846,Q79
+Q53334492,Q6581097,1995-02-01T00:00:00Z,3,Abdulaziz Adel,Abdulaziz Adel,association football player,Q846,Q846
+Q53335519,Q6581097,1993-03-16T00:00:00Z,4,Yousef Al-Kubaisi,Yousef Al Kubaisi,association football player,Q846,Q846
+Q53398029,Q6581097,1995-05-30T00:00:00Z,3,Saleh Al-Yahri,Saleh Al-Yahri,association football player,Q846,Q846
+Q53398833,Q6581097,1991-12-02T00:00:00Z,3,Talal Al-Shila,Talal Al Shila,association football player,Q846,Q1049
+Q53399339,Q6581097,1992-06-01T00:00:00Z,3,Alhadj Moustafa,Elhaj Mostafa,association football player,Q846,Q1049
+Q53399759,Q6581097,1989-08-08T00:00:00Z,3,Mohammad Muntasser,Mohammed Muntasser,association football player,Q846,Q846
+Q5385754,Q6581097,1983-12-20T00:00:00Z,5,Erfan Ali Saeed,Erfan Ali Saeed,Qatari basketball player (born 1983),Q846,Q3861
+Q5399326,Q6581097,1982-11-11T00:00:00Z,4,Essa Al-Kuwari,Essa Al-Kuwari,Qatari football player,Q846,Q846
+Q54232975,Q6581097,2000-04-18T00:00:00Z,5,Shehab Ellethy,Shehab Ellethy,association football player,Q846,Q846
+Q5423457,Q6581097,1983-01-16T00:00:00Z,6,Ezzat Jadoua,Ezzat Jadoua,Qatari footballer,Q846,Q3861
+Q5429229,Q6581097,1989-11-18T00:00:00Z,4,Fadhl Omar,Fadhl Omar,Qatari footballer,Q846,
+Q5429485,Q6581097,1973-12-19T00:00:00Z,9,Fahad Al Kuwari,Fahad Al Kuwari,Qatari footballer,Q846,Q846
+Q5429487,Q6581097,1982-07-23T00:00:00Z,7,Fuhaid Al-Shammari,Fahad Al Shammari,Qatari footballer,Q846,Q846
+Q5429500,Q6581097,1973-12-01T00:00:00Z,6,Fahad Thani,Fahad Thani,football manager,Q846,Q3861
+Q54861621,Q6581097,1997-05-24T00:00:00Z,3,Zed Saad,Zed Saad,association football player,Q846,Q846
+Q54861649,Q6581097,1998-04-08T00:00:00Z,5,Amro Surag,Amro Surag,Qatari association football player,Q846,
+Q55081149,Q6581097,1965-02-08T00:00:00Z,5,Ali bin Fetais Al-Marri,Ali Bin Fetais Al-Marri,Qatari lawyer,Q846,Q3861
+Q5516336,Q6581097,1982-09-10T00:00:00Z,4,Gader Mousa,Gader Mousa,Qatari footballer,Q846,Q846
+Q55262493,Q6581097,1968-01-01T00:00:00Z,2,Rashid Al-Owjan,,Qatari taekwondo practitioner,Q846,
+Q5555577,Q6581097,1964-08-23T00:00:00Z,5,Ghanim Bin Saad Al Saad,Ghanim Saad Al Saad,businessperson,Q846,Q3861
+Q55591179,Q6581097,1977-07-22T00:00:00Z,2,Lajos Belleli,Lajos Belleli,Hungarian male curler and coach,Q28,
+Q55591179,Q6581097,1977-07-22T00:00:00Z,2,Lajos Belleli,Lajos Belleli,Hungarian male curler and coach,Q846,
+Q55805838,Q6581097,1995-04-28T00:00:00Z,12,Ahmed Tijan,Ahmed Tijan,Qatar beach volleyball player,Q846,Q3726
+Q558522,Q6581097,1915-09-17T00:00:00Z,45,M. F. Husain,M. F. Husain,Indian artist (1915–2011),Q846,Q1779418
+Q558522,Q6581097,1915-09-17T00:00:00Z,45,M. F. Husain,M. F. Husain,Indian artist (1915–2011),Q668,Q1779418
+Q56062122,Q6581097,1995-04-17T00:00:00Z,5,Musab Adam Ali,Adam Ali Mousab,Qatari athletics competitor,Q846,
+Q56065125,Q6581097,1995-11-14T00:00:00Z,3,Dejan Janjić,Dejan Janjić,Serbian basketball player (born 1995),Q403,Q55630
+Q56065125,Q6581097,1995-11-14T00:00:00Z,3,Dejan Janjić,Dejan Janjić,Serbian basketball player (born 1995),Q846,Q55630
+Q56248629,Q6581097,1997-04-15T00:00:00Z,5,Hamdi Ali,Hamdi Ali,Qatari high jumper,Q846,Q3861
+Q5643933,Q6581097,1991-04-21T00:00:00Z,6,Hamad Al-Obeidi,Hamad Al Abedy,Qatari association football player,Q846,Q3861
+Q5643951,Q6581097,1949-01-01T00:00:00Z,2,Hamad bin Jassim bin Hamad Al Thani,Hamad bin Jassim bin Hamad Al Thani,Chief of police of Qatar and Minister for Economy and Trade,Q846,
+Q5643956,Q6581097,1952-01-01T00:00:00Z,2,Hamad bin Khalid Al Thani,Hamad bin Khalid Al Thani,Chief of Qatari police force (1952–2012),Q846,Q3861
+Q5643959,Q6581097,1958-01-01T00:00:00Z,5,Hamad bin Suhaim Al Thani,Hamad bin Suhaim Al Thani,Qatari politician,Q846,Q3861
+Q5644449,Q6581097,1984-11-13T00:00:00Z,6,Hamed Shami,Hamed Shami Zaher,footballer,Q846,Q3861
+Q5679017,Q6581097,1980-08-13T00:00:00Z,5,Hashim Zaidan,Hashim Zaidan,Qatari basketball player (born 1980),Q846,Q3861
+Q5679556,Q6581097,1990-12-11T00:00:00Z,39,Hassan Al-Haydos,Hassan Al Haidos,Qatari footballer,Q846,Q3861
+Q57360,Q6581097,1952-01-01T00:00:00Z,61,Hamad bin Khalifa Al Thani,Hamad bin Khalifa Al Thani,Emir of Qatar from 1995 to 2013 (1952–2026),Q846,Q3861
+Q5746141,Q6581072,1959-07-15T00:00:00Z,9,Hessa al-Jaber,Hessa Al Jaber,Qatari engineer and politician,Q846,Q3861
+Q575075,Q6581097,1981-02-17T00:00:00Z,12,Bertrand Roiné,Bertrand Roiné,French handball player,Q846,Q829946
+Q575075,Q6581097,1981-02-17T00:00:00Z,12,Bertrand Roiné,Bertrand Roiné,French handball player,Q142,Q829946
+Q57734,Q6581097,1959-08-30T00:00:00Z,31,Hamad bin Jassim bin Jaber Al Thani,Hamad bin Jassim bin Jaber Al Thani,Qatari politician; prime minister and foreign minister,Q846,Q3861
+Q58176159,Q6581097,1971-09-17T00:00:00Z,3,Abdullah Basheer Al-Abdullah,Abdullah Basheer Al-Abdullah,association football player,Q846,
+Q58176206,Q6581097,1972-09-27T00:00:00Z,2,Fahad Rashid Al-Kuwari,Fahad Rashid Al-Kuwari,Qatari association football player,Q846,
+Q58176279,Q6581097,1971-10-20T00:00:00Z,13,Mahmoud Soufi,Mahmoud Yassen Souf,association football player (1971-2019),Q846,Q948448
+Q59149114,Q6581072,1998-01-02T00:00:00Z,3,Mariam Mamdouh Farid,Mariam Mamdouh Farid,Qatari athletics competitor,Q846,
+Q59149114,Q6581072,1998-02-01T00:00:00Z,3,Mariam Mamdouh Farid,Mariam Mamdouh Farid,Qatari athletics competitor,Q846,
+Q5984587,Q6581097,1939-01-01T00:00:00Z,2,Ibrahim Ibrahim (economist),Ibrahim Ibrahim,Qatari economist,Q846,Q387870
+Q5984667,Q6581097,1982-12-10T00:00:00Z,1,Ibrahim Mohamedin,Ibrahim Mohamedin,Qatari athletics competitor,Q846,
+Q59855575,Q6581097,1984-07-06T00:00:00Z,13,Khamis Al-Marri,Khamis Al-Marri,Qatari football referee,Q846,Q846
+Q59870,Q6581097,1978-12-06T00:00:00Z,47,Emerson Sheik,Emerson Sheik,Qatari association football player,Q846,Q188897
+Q59870,Q6581097,1978-12-06T00:00:00Z,47,Emerson Sheik,Emerson Sheik,Qatari association football player,Q155,Q188897
+Q602311,Q6581097,1990-07-03T00:00:00Z,30,"Lucas Mendes (footballer, born 1990)",Lucas Mendes,Brazilian and Qatari association football player,Q155,Q4361
+Q602311,Q6581097,1990-07-03T00:00:00Z,30,"Lucas Mendes (footballer, born 1990)",Lucas Mendes,Brazilian and Qatari association football player,Q846,Q4361
+Q60286895,Q6581097,1995-03-19T00:00:00Z,11,Donte Grantham,Donte Grantham,American basketball player (born 1995),Q30,Q1010194
+Q60286895,Q6581097,1995-03-19T00:00:00Z,11,Donte Grantham,Donte Grantham,American basketball player (born 1995),Q846,Q1010194
+Q60573395,Q6581097,2002-05-05T00:00:00Z,12,Ghanim Al-Muftah,Ghanim Al-Muftah,Qatari YouTuber and philanthropist,Q846,
+Q60676538,Q6581097,1999-05-05T00:00:00Z,7,Ahmed Al-Minhali,Ahmed Al-Minhali,association football player,Q846,Q846
+Q60777682,Q6581097,1946-01-01T00:00:00Z,2,Mohamed Bin Mubarak al-Khulaifi,Mohamed Bin Mubarak Al-Khulaifi,Qatari politician (born 1946),Q846,Q3861
+Q6087931,Q6581097,1955-09-20T00:00:00Z,6,Issa Abu Issa,Issa Abu Issa,Qatari businessman,Q846,Q3861
+Q6087936,Q6581097,1963-12-19T00:00:00Z,5,Issa Al-Mohammadi,Issa Al-Mohammadi,Qatari footballer,Q846,Q846
+Q61081022,Q6581097,2001-10-20T00:00:00Z,4,Abdelaziz Mohamed,Abdelaziz Mohamed,Qatari sprinter,Q846,
+Q6127566,Q6581097,1987-07-26T00:00:00Z,7,Jamal Jouhar,Jamal Jouhar,Qatari footballer,Q846,Q846
+Q6159491,Q6581097,1973-08-12T00:00:00Z,2,Jaralla al-Marri,Jaralla al-Marri,Guantanamo detainee known to have been released,Q846,Q3861
+Q6161563,Q6581097,1978-08-25T00:00:00Z,9,Jassim bin Hamad Al Thani (born 1978),Prince Jassim bin Hamad of Qatar,Qatari Royal,Q846,Q3861
+Q6164176,Q6581097,1971-02-14T00:00:00Z,7,Jassim Al-Tamimi,Jassim Al Tamini,Qatari footballer,Q846,Q846
+Q61771367,Q6581097,1956-12-20T00:00:00Z,4,Hassan Afif,Hassan Afif,Somali footballer and manager,Q846,Q271733
+Q61771367,Q6581097,1956-12-20T00:00:00Z,4,Hassan Afif,Hassan Afif,Somali footballer and manager,Q1045,Q271733
+Q618671,Q6581097,1975-12-24T00:00:00Z,9,Mohammed al-Ajami,Mohammed al-Ajami,Qatari poet,Q846,Q846
+Q61911369,Q6581097,2000-02-05T00:00:00Z,22,Mahmud Abunada,Mahmud Abunada,Qatari association football player,Q219060,Q3861
+Q61911369,Q6581097,2000-02-05T00:00:00Z,22,Mahmud Abunada,Mahmud Abunada,Qatari association football player,Q846,Q3861
+Q61983513,Q6581097,2000-09-22T00:00:00Z,19,Ahmed Al-Ganehi,Ahmed Al-Ganehi,Qatari footballer,Q846,Q3861
+Q62020949,Q6581097,1996-05-16T00:00:00Z,3,Moataz Bostami,Moataz Bostami,Jordanian -born Qatari footballer,Q846,Q810
+Q62020950,Q6581097,1999-06-06T00:00:00Z,4,Motasem Al Bustami,Moatasem Bostami,Qatari association football player,Q846,Q810
+Q6204478,Q6581097,1986-08-25T00:00:00Z,5,Joaan bin Hamad Al Thani,Prince Joaan bin Hamad of Qatar,Qatari Royal,Q846,
+Q63283345,Q6581097,2000-03-28T00:00:00Z,8,Bassem Hemeida,Bassem Hemeida,Qatari hurdler,Q846,Q87
+Q63283345,Q6581097,2000-09-28T00:00:00Z,8,Bassem Hemeida,Bassem Hemeida,Qatari hurdler,Q846,Q87
+Q63341708,Q6581097,1997-04-13T00:00:00Z,4,Abdirahman Saeed Hassan,Abdirahman Saeed Hassan,Qatari athlete (born 1997),Q846,
+Q6399315,Q6581097,1986-11-22T00:00:00Z,5,Khaled Al Zakiba,Khaled Al Zakiba,footballer,Q846,Q846
+Q6399315,Q6581097,1986-06-19T00:00:00Z,5,Khaled Al Zakiba,Khaled Al Zakiba,footballer,Q846,Q846
+Q6399504,Q6581097,1984-10-10T00:00:00Z,7,Khalid Habash Al-Suwaidi,Khalid Habash Al-Suwaidi,Qatari shot putter and discus thrower,Q846,
+Q6399572,Q6581097,1962-04-05T00:00:00Z,8,Khalid Salman,Khalid Salman,Qatari footballer,Q846,Q846
+Q6399580,Q6581097,1987-02-07T00:00:00Z,5,Khalid Suliman,Khalid Suliman,Qatari basketball player (born 1987),Q846,Q3861
+Q6399600,Q6581097,1935-01-01T00:00:00Z,2,Khalid bin Hamad Al Thani (born 1935),Khalid bin Hamad Al Thani,Qatari politician,Q846,Q3861
+Q6399956,Q6581097,1976-12-01T00:00:00Z,4,Khamis Abdullah Saifeldin,Khamis Abdullah Saifeldin,Qatari long-distance runner,Q846,
+Q6399956,Q6581097,1976-02-01T00:00:00Z,4,Khamis Abdullah Saifeldin,Khamis Abdullah Saifeldin,Qatari long-distance runner,Q846,
+Q64129,Q6581097,1926-09-09T00:00:00Z,58,Yusuf al-Qaradawi,Yusuf al-Qaradawi,"Egyptian Islamic theologian based in Doha, Qatar (1926-2022)",Q170468,Q15148963
+Q64129,Q6581097,1926-09-09T00:00:00Z,58,Yusuf al-Qaradawi,Yusuf al-Qaradawi,"Egyptian Islamic theologian based in Doha, Qatar (1926-2022)",Q846,Q15148963
+Q64129,Q6581097,1926-09-09T00:00:00Z,58,Yusuf al-Qaradawi,Yusuf al-Qaradawi,"Egyptian Islamic theologian based in Doha, Qatar (1926-2022)",Q79,Q15148963
+Q64129,Q6581097,1926-09-09T00:00:00Z,58,Yusuf al-Qaradawi,Yusuf al-Qaradawi,"Egyptian Islamic theologian based in Doha, Qatar (1926-2022)",Q3087763,Q15148963
+Q64129,Q6581097,1926-09-09T00:00:00Z,58,Yusuf al-Qaradawi,Yusuf al-Qaradawi,"Egyptian Islamic theologian based in Doha, Qatar (1926-2022)",Q124943,Q15148963
+Q64211871,Q6581097,1999-08-06T00:00:00Z,21,Yusuf Abdurisag,Yusuf Abdurisag,Qatari footballer,Q846,Q846
+Q64364374,Q6581097,1999-08-24T00:00:00Z,4,Abdullah Murisi,Abdullah Murisi,Qatari association football player,Q846,Q846
+Q64364375,Q6581097,1999-08-25T00:00:00Z,23,Homam Ahmed,Homam Ahmed,Qatari association football player,Q846,Q3861
+Q64498150,Q6581097,1998-02-24T00:00:00Z,19,Khalid Muneer,Khaled Mazeed,association football player,Q846,Q3861
+Q64743942,Q6581097,1998-02-02T00:00:00Z,7,Hazem Shehata,Hazem Shehata,association football player,Q846,Q85
+Q66586381,Q6581072,1975-01-01T00:00:00Z,2,Shamma Al-Kuwari,Shamma Al-Kuwari,Qatari writer,Q846,Q3861
+Q6737844,Q6581097,1961-10-04T00:00:00Z,5,Majid Maayouf,Majid Maayouf,footballer,Q846,Q846
+Q681606,Q6581097,1980-11-08T00:00:00Z,9,Mohammed Gholam,Mohammed Gholam,Qatari footballer,Q846,Q846
+Q68168797,Q6581097,1984-05-04T00:00:00Z,4,Mohamed Ghanem Salman,Mohamed Ghanem,Qatari association football player,Q846,Q846
+Q6817961,Q6581097,1949-01-01T00:00:00Z,11,Ali al-Qarahdaghi,Ali al-Qaradaghi,influential Sunni scholar of Islam,Q846,Q12232529
+Q6817961,Q6581097,1949-01-01T00:00:00Z,11,Ali al-Qarahdaghi,Ali al-Qaradaghi,influential Sunni scholar of Islam,Q796,Q12232529
+Q6821260,Q6581097,1984-05-02T00:00:00Z,12,Meshal Abdullah,Meshal Abdullah,football player,Q846,Q3861
+Q6851922,Q6581097,1971-03-30T00:00:00Z,12,Mubarak Mustafa,Mubarak Mustafa,Qatari footballer,Q846,Q3861
+Q6875474,Q6581097,1972-07-02T00:00:00Z,3,Mishaal bin Hamad Al Thani,Mishaal bin Hamad bin Khalifa Al Thani,Qatari Sheikh,Q846,Q3861
+Q6890985,Q6581097,1965-12-10T00:00:00Z,5,Mohamed Al Ammari,Mohamed Al-Amary,Qatari association football player and coach,Q846,Q846
+Q6891187,Q6581097,1984-12-31T00:00:00Z,3,Mohamed Faraj Al-Kaabi,Mohamed Faraj Al-Kaabi,Qatari hammer thrower,Q846,
+Q6891267,Q6581097,1981-11-18T00:00:00Z,4,Mohamed Issa Al-Thawadi,Mohamed Issa Al-Thawadi,Qatari long-distance runner,Q846,
+Q6891414,Q6581097,1983-01-27T00:00:00Z,6,"Mohammed Omar (footballer, born 1983)",Mohamed Omar Alyafai,Qatari footballer,Q846,Q3861
+Q6891462,Q6581097,1962-12-06T00:00:00Z,5,Mohamed Saeed Afifa,Mohamed Saeed Afifa,footballer,Q846,Q846
+Q6891592,Q6581097,1906-01-01T00:00:00Z,2,Mohamed bin Abdulrahman M. Hassan Fakhro,Mohamed bin Abdulrahman M. Hassan Fakhro,Qatari businessman,Q846,Q4703589
+Q6892910,Q6581097,1962-06-25T00:00:00Z,5,Mohammed Al-Sowaidi,Mohammed Al-Sowaidi,footballer,Q846,Q846
+Q6892944,Q6581097,1978-05-16T00:00:00Z,4,Mohammed Ali Ayad,Mohammed Ali Ayad,Qatari judoka,Q846,
+Q68930166,Q6581097,2001-08-20T00:00:00Z,5,Owaab Barrow,Owaab Barrow,Qatari athlete,Q846,
+Q6893214,Q6581097,1984-08-11T00:00:00Z,9,Mohammed Mubarak,Mohammed Mubarak,Qatari footballer,Q846,Q3861
+Q6893216,Q6581097,1988-04-13T00:00:00Z,4,Mohammed Muddather,Mohammed Muddather,Sudanese and Qatari footballer,Q1049,Q1049
+Q6893216,Q6581097,1988-04-13T00:00:00Z,4,Mohammed Muddather,Mohammed Muddather,Sudanese and Qatari footballer,Q846,Q1049
+Q6893286,Q6581097,1985-02-24T00:00:00Z,6,Mohammed Saad Al-Sulaiti,Mohammed Saad Al-Sulaiti,Qatari footballer,Q846,Q846
+Q6893304,Q6581097,1990-12-30T00:00:00Z,4,Mohammed Salam,Mohammed Salam,Sudanese footballer,Q846,Q846
+Q6893403,Q6581097,1982-10-10T00:00:00Z,4,Mohammed Yasser,Mohammed Yasser,Qatari footballer,Q846,
+Q6893462,Q6581097,1988-04-18T00:00:00Z,8,Mohammed bin Hamad Al Thani (born 1988),Mohammed bin Hamad bin Khalifa Al Thani,equestrian,Q846,Q846
+Q6926429,Q6581072,1957-01-01T00:00:00Z,8,Mouza al-Malki,Mouza Al Malki,writer and psychologist,Q846,Q3861
+Q6930684,Q6581097,1982-08-20T00:00:00Z,6,Muamer Abdulrab,Muamer Abdulrab,Qatari footballer,Q846,Q846
+Q6930818,Q6581097,1986-03-22T00:00:00Z,5,Mubarak Al-Beloushi,Mubarak Al-Beloushi,Qatari footballer,Q846,Q3861
+Q6930838,Q6581097,1954-01-01T00:00:00Z,6,Mubarak Anber,Mubarak Anber,footballer,Q846,Q846
+Q6932989,Q6581097,1993-01-28T00:00:00Z,5,Muhannad Naim,Muhannad Naim,Qatari footballer,Q846,Q846
+Q6933356,Q6581097,1981-08-12T00:00:00Z,5,Mujtaba Sayed Jaafar,Mujtaba Sayed Jaafar,Qatari footballer,Q846,Q3861
+Q693611,Q6581097,1987-03-27T00:00:00Z,17,Samuel Francis (sprinter),Samuel Francis,Nigerian-born Qatari sprinter,Q846,Q217432
+Q6937199,Q6581097,1991-06-12T00:00:00Z,8,Murad Naji,Murad Naji Hussein,Qatari footballer,Q846,Q3861
+Q6939920,Q6581097,1986-09-13T00:00:00Z,6,Musa Haroon,Musa Haroon,Qatari footballer,Q846,Q22948561
+Q6940062,Q6581097,1989-03-19T00:00:00Z,7,Musaeb Abdulrahman Balla,Musaeb Abdulrahman Balla,Qatari middle-distance runner of Sudanese descent,Q1049,Q1963
+Q6940062,Q6581097,1989-03-19T00:00:00Z,7,Musaeb Abdulrahman Balla,Musaeb Abdulrahman Balla,Qatari middle-distance runner of Sudanese descent,Q846,Q1963
+Q6943206,Q6581097,1984-01-02T00:00:00Z,10,Mustafa Abdi,Mustafa Abdi,footballer,Q846,Q3861
+Q6943253,Q6581097,1982-09-13T00:00:00Z,2,Mustafa Al-Sayyad,,Qatari basketball player (born 1982),Q1049,Q1963
+Q6943253,Q6581097,1982-09-13T00:00:00Z,2,Mustafa Al-Sayyad,,Qatari basketball player (born 1982),Q846,Q1963
+Q6957375,Q6581072,1994-10-30T00:00:00Z,9,Nada Arakji,Nada Arkaji,Qatari swimmer,Q846,Q3861
+Q6957572,Q6581097,1975-12-12T00:00:00Z,6,Nader Sufyan Abbas,Nader Sufyan Abbas,Qatari weightlifter,Q846,
+Q6967616,Q6581097,1983-11-30T00:00:00Z,2,Nasser Al Malki,Nasser Al Malki,Qatari motorcycle racer,Q846,Q3861
+Q6967635,Q6581097,1990-02-11T00:00:00Z,6,Nasser Nabeel,Nasser Nabeel,Qatari footballer,Q846,Q846
+Q6983135,Q6581097,1978-05-10T00:00:00Z,7,Nayef Mubarak Al-Khater,Nayef Mubarak Al Khater,Qatari footballer,Q846,Q846
+Q70356114,Q6581072,1999-11-10T00:00:00Z,4,Kenza Sosse,Kenza Sosse,Qatari athlete,Q846,
+Q70356114,Q6581072,1999-10-11T00:00:00Z,4,Kenza Sosse,Kenza Sosse,Qatari athlete,Q846,
+Q7037258,Q6581097,1958-01-01T00:00:00Z,7,Younes Ahmed,Younes Ahmed,footballer,Q846,Q846
+Q7037258,Q6581097,1963-07-17T00:00:00Z,7,Younes Ahmed,Younes Ahmed,footballer,Q846,Q846
+Q7037258,Q6581097,1963-08-17T00:00:00Z,7,Younes Ahmed,Younes Ahmed,footballer,Q846,Q846
+Q7090085,Q6581097,1985-10-01T00:00:00Z,5,Omer Abdelqader,Omer Abdelqader,Qatari basketball player (born 1983),Q846,Q3861
+Q7090085,Q6581097,1983-10-01T00:00:00Z,5,Omer Abdelqader,Omer Abdelqader,Qatari basketball player (born 1983),Q846,Q3861
+Q7159779,Q6581097,1990-08-06T00:00:00Z,31,Pedro Miguel (footballer),Pedro Miguel,Qatari association football player,Q1011,Q180972
+Q7159779,Q6581097,1990-08-06T00:00:00Z,31,Pedro Miguel (footballer),Pedro Miguel,Qatari association football player,Q846,Q180972
+Q7159779,Q6581097,1990-08-06T00:00:00Z,31,Pedro Miguel (footballer),Pedro Miguel,Qatari association football player,Q45,Q180972
+Q716409,Q6581097,1988-02-18T00:00:00Z,22,Khalfan Ibrahim,Khalfan Ibrahim,Qatari footballer,Q846,Q3861
+Q72657124,Q6581097,1999-01-06T00:00:00Z,3,Ahmed Al-Sibai,Ahmed Al-Sibai,syrian-born Qatari footballer,Q846,Q858
+Q7285583,Q6581097,1986-10-16T00:00:00Z,2,Rajab Kassim,Rajab Kassim,Qatari footballer,Q846,
+Q7285584,Q6581097,1986-10-16T00:00:00Z,10,Rajab Hamza,Rajab Hamza,Tanzanian and Qatari footballer,Q846,Q1774
+Q7285584,Q6581097,1986-10-16T00:00:00Z,10,Rajab Hamza,Rajab Hamza,Tanzanian and Qatari footballer,Q924,Q1774
+Q7294874,Q6581097,1980-08-18T00:00:00Z,6,Rashid Hamad Al-Athba,Rashid Al-Athba,Qatari sport shooter,Q846,
+Q7294895,Q6581097,1987-10-18T00:00:00Z,6,Rashid Saleh Al-Athba,Rashid Hamad,Qatari sport shooter,Q846,
+Q7395538,Q6581097,1985-05-02T00:00:00Z,5,Saad Abdulrahman,Saad Abdulrahman,Qatari basketball player (born 1985),Q846,Q3861
+Q7405414,Q6581097,1980-08-27T00:00:00Z,6,Selman Mesbeh,Salman Mesbeh,Qatari association football player,Q846,Q3861
+Q7409383,Q6581097,2000-01-01T00:00:00Z,6,Sami Mohamed Wafa,Sami Mohamed Wafa,Qatari footballer,Q846,
+Q7429086,Q6581097,1991-09-14T00:00:00Z,4,Sayaf Al-Korbi,Sayaf Al-Korbi,footballer,Q846,
+Q7429151,Q6581097,1980-06-21T00:00:00Z,10,Sayed Ali Bechir,Sayed Ali Bechir,Qatari footballer,Q846,Q1025
+Q7429151,Q6581097,1982-09-06T00:00:00Z,10,Sayed Ali Bechir,Sayed Ali Bechir,Qatari footballer,Q846,Q1025
+Q74404868,Q6581097,2001-05-28T00:00:00Z,4,Yacob Al-Khulaifi,Yacob Al-Khulaifi,Qatari swimmer,Q846,Q3861
+Q7492979,Q6581072,1962-01-01T00:00:00Z,5,Sheikha bint Yousuf Al-Jufairi,Sheikha Yousuf Hasan Al Jufairi,politician,Q846,Q846
+Q7562843,Q6581072,1983-01-01T00:00:00Z,9,Sophia Al Maria,Sophia Al Maria,multimedia artist (born 1983),Q846,Q199797
+Q7562843,Q6581072,1983-01-01T00:00:00Z,9,Sophia Al Maria,Sophia Al Maria,multimedia artist (born 1983),Q30,Q199797
+Q7635208,Q6581097,1933-01-01T00:00:00Z,2,Suhaim bin Hamad Al Thani,Suhaim bin Hamad Al Thani,Member of royal family and inister of Foreign Affairs for the State of Qatar (1933–1985),Q846,Q3861
+Q7636684,Q6581097,1977-03-16T00:00:00Z,3,Sultan Al-Alawi,Sultan Khalfan,Qatari tennis player,Q846,Q846
+Q76454697,Q6581097,1975-11-26T00:00:00Z,3,Hamad Al-Hammadi (table tennis),Hamad Al-Hammadi,Qatari table tennis player,Q846,
+Q76515166,Q6581097,1983-04-16T00:00:00Z,1,Moutaz Al-Khayyat,Moutaz Al-Khayyat,Qatari businessman,Q846,Q3766
+Q7675440,Q6581097,1988-08-20T00:00:00Z,5,Taher Zakaria,Taher Zakaria,Qatari footballer,Q846,Q851
+Q7709844,Q6581097,1988-11-12T00:00:00Z,4,Thamer Kamal Ali,Thamer Kamal Ali,Qatari athletics competitor (born 1988),Q846,
+Q776008,Q6581097,1973-11-12T00:00:00Z,31,Nasser Al-Khelaifi,Nasser Al-Kadafi,A Qatari businessman residing in France and president of Paris Saint-Germain football club,Q846,Q3861
+Q77954246,Q6581097,1984-07-20T00:00:00Z,1,Ramez Al-Khayyat,Ramez Al-Khayyat,Qatari businessman,Q846,Q3766
+Q79223004,Q6581097,2001-02-27T00:00:00Z,4,Mohamed Emad Ayash,Mohammed Emad Ayash,Qatari footballer,Q846,Q846
+Q7959383,Q6581097,1984-01-01T00:00:00Z,4,Wael Ghassan,Wael Ghassan,Qatari swimmer,Q846,
+Q7959758,Q6581097,1982-10-11T00:00:00Z,6,Waheed Mohammed Taher,Waheed Mohammed Taher,footballer,Q846,Q990414
+Q7961687,Q6581097,1982-06-17T00:00:00Z,9,Waleed Hamzah,Waleed Hamzah,Qatari footballer,Q846,Q846
+Q7961690,Q6581097,1982-05-22T00:00:00Z,5,Waleed Mohyaden,Waleed Mohyaden,Qatari footballer,Q846,Q846
+Q8049875,Q6581097,1980-08-12T00:00:00Z,5,Yaseen Musa,Yaseen Musa,Qatari basketball player (born 1980),Q846,Q1045
+Q8049893,Q6581097,1973-09-23T00:00:00Z,7,Yasser Nazmi,Yasser Nazmi,Qatari footballer,Q846,Q846
+Q8059121,Q6581097,1985-04-05T00:00:00Z,4,Yousuf Othman Qader,Yousuf Othman Qader,Qatari marathon runner,Q846,
+Q80809664,Q6581097,2002-02-20T00:00:00Z,22,Jassem Gaber,Jassem Gaber,Qatari footballer,Q846,Q3861
+Q8172513,Q6581097,1988-12-12T00:00:00Z,8,Ivanildo (footballer),Ivanildo Rodrigues,Brazilian and Qatari footballer,Q846,Q155
+Q8172513,Q6581097,1988-02-12T00:00:00Z,8,Ivanildo (footballer),Ivanildo Rodrigues,Brazilian and Qatari footballer,Q846,Q155
+Q8172513,Q6581097,1988-02-12T00:00:00Z,8,Ivanildo (footballer),Ivanildo Rodrigues,Brazilian and Qatari footballer,Q155,Q155
+Q8172513,Q6581097,1988-12-12T00:00:00Z,8,Ivanildo (footballer),Ivanildo Rodrigues,Brazilian and Qatari footballer,Q155,Q155
+Q83849153,Q6581097,1968-01-01T00:00:00Z,28,Khalid bin Khalifa bin Abdul Aziz Al Thani,Khalid bin Khalifa bin Abdul Aziz Al Thani,prime minister of Qatar (2020–2023),Q846,Q3861
+Q84293878,Q6581072,1985-01-01T00:00:00Z,5,Dana Al Fardan,Dana al-Fardan,Qatari composer,Q846,
+Q85088213,Q6581072,1986-08-14T00:00:00Z,7,Sara Hamdi Masoud,Sara Hamdi Masoud,Qatari Paralympic athlete,Q846,Q3861
+Q85202000,Q6581097,2002-03-22T00:00:00Z,3,Lotfi Madjer,Lotfi Madjer,Algerian-born Qatari footballer,Q262,Q262
+Q85202000,Q6581097,2002-03-22T00:00:00Z,3,Lotfi Madjer,Lotfi Madjer,Algerian-born Qatari footballer,Q846,Q262
+Q85202073,Q6581097,2001-07-18T00:00:00Z,17,Naif Al-Hadhrami,Naif Al-Hadhrami,Qatari footballer,Q846,Q18576873
+Q868836,Q6581097,1988-06-18T00:00:00Z,8,Rashid Al-Mannai,Rashid Al-Mannai,Track and field athlete,Q846,Q3861
+Q911857,Q6581097,1977-03-03T00:00:00Z,6,Tareq Esmaeili,Tareq Esmaeili,Qatari bicycle racer,Q846,Q846
+Q94136350,Q6581072,1959-01-01T00:00:00Z,4,Zakiya Mal Allah,Zakīyah Māl Allāh,Qatari poet and pharmacist,Q846,Q3861
+Q94136350,Q6581072,1959-01-01T00:00:00Z,4,Zakiya Mal Allah,Zakīyah Māl Allāh,Qatari poet and pharmacist,Q96404668,Q3861
+Q945956,Q6581097,1981-05-17T00:00:00Z,10,Mohamed Saqr,Mohamed Saqr,Qatari footballer,Q846,Q3718
+Q95680243,Q6581097,1999-04-24T00:00:00Z,16,Salah Zakaria,Salah Zakaria,Qatari footballer,Q846,Q846
+Q974400,Q6581097,1964-05-08T00:00:00Z,13,Talal Mansour,Talal Mansour,Qatari sprinter,Q846,
+Q97585648,Q6581072,1976-01-01T00:00:00Z,2,Hanan Al-Fayyad,Hanan Al-Fayyad,Qatari academic and writer,Q846,Q3861
+Q97723903,Q6581097,2000-02-10T00:00:00Z,4,Navid Dorzadeh,Navid Dorzadeh,Qatari footballer,Q846,Q846
+Q980226,Q6581097,1984-08-22T00:00:00Z,12,Lawrence Quaye,Lawrence Quaye,Ghanaian–Qatari footballer,Q846,Q3761
+Q980226,Q6581097,1984-08-22T00:00:00Z,12,Lawrence Quaye,Lawrence Quaye,Ghanaian–Qatari footballer,Q117,Q3761

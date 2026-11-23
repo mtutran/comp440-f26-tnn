@@ -1,0 +1,285 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q1256541,Q6581097,1917-08-10T00:00:00Z,9,Bayken Ashimov,Bayken Ashimov,Kazakhstani politician (1917-2010),Q15180,Q25563
+Q1256541,Q6581097,1917-08-10T00:00:00Z,9,Bayken Ashimov,Bayken Ashimov,Kazakhstani politician (1917-2010),Q2184,Q25563
+Q1256541,Q6581097,1917-08-10T00:00:00Z,9,Bayken Ashimov,Bayken Ashimov,Kazakhstani politician (1917-2010),Q232,Q25563
+Q1256541,Q6581097,1917-08-10T00:00:00Z,9,Bayken Ashimov,Bayken Ashimov,Kazakhstani politician (1917-2010),Q139319,Q25563
+Q12849490,Q6581097,1906-03-01T00:00:00Z,4,Shamil Azizbayov,Shamil Abdurrahim oglu Azizbayov,Azerbaijani geologist,Q139319,Q23438
+Q12849490,Q6581097,1906-03-01T00:00:00Z,4,Shamil Azizbayov,Shamil Abdurrahim oglu Azizbayov,Azerbaijani geologist,Q15180,Q23438
+Q12849490,Q6581097,1906-03-01T00:00:00Z,4,Shamil Azizbayov,Shamil Abdurrahim oglu Azizbayov,Azerbaijani geologist,Q34266,Q23438
+Q132524,Q6581072,1905-02-02T00:00:00Z,127,Ayn Rand,Ayn Rand,Russian-born American writer and public philosopher (1905–1982),Q15180,Q656
+Q132524,Q6581072,1905-02-02T00:00:00Z,127,Ayn Rand,Ayn Rand,Russian-born American writer and public philosopher (1905–1982),Q2184,Q656
+Q132524,Q6581072,1905-02-02T00:00:00Z,127,Ayn Rand,Ayn Rand,Russian-born American writer and public philosopher (1905–1982),Q30,Q656
+Q132524,Q6581072,1905-02-02T00:00:00Z,127,Ayn Rand,Ayn Rand,Russian-born American writer and public philosopher (1905–1982),Q34266,Q656
+Q132524,Q6581072,1905-02-02T00:00:00Z,127,Ayn Rand,Ayn Rand,Russian-born American writer and public philosopher (1905–1982),Q223050,Q656
+Q132524,Q6581072,1905-02-02T00:00:00Z,127,Ayn Rand,Ayn Rand,Russian-born American writer and public philosopher (1905–1982),Q139319,Q656
+Q1345193,Q6581097,1904-10-09T00:00:00Z,32,Mykola Bazhan,Mykola Bazhan,"Ukrainian writer, poet, highly decorated political and public figure (1904–1983)",Q133356,Q193965
+Q1345193,Q6581097,1904-10-09T00:00:00Z,32,Mykola Bazhan,Mykola Bazhan,"Ukrainian writer, poet, highly decorated political and public figure (1904–1983)",Q15180,Q193965
+Q1345193,Q6581097,1904-10-09T00:00:00Z,32,Mykola Bazhan,Mykola Bazhan,"Ukrainian writer, poet, highly decorated political and public figure (1904–1983)",Q1508143,Q193965
+Q1345193,Q6581097,1904-10-09T00:00:00Z,32,Mykola Bazhan,Mykola Bazhan,"Ukrainian writer, poet, highly decorated political and public figure (1904–1983)",Q243610,Q193965
+Q1345193,Q6581097,1904-10-09T00:00:00Z,32,Mykola Bazhan,Mykola Bazhan,"Ukrainian writer, poet, highly decorated political and public figure (1904–1983)",Q139319,Q193965
+Q1345193,Q6581097,1904-10-09T00:00:00Z,32,Mykola Bazhan,Mykola Bazhan,"Ukrainian writer, poet, highly decorated political and public figure (1904–1983)",Q34266,Q193965
+Q15992622,Q6581097,1915-10-25T00:00:00Z,7,Vladimir Tikhomirov,Vladimir Tikhomirov,Soviet geologist and historian of science (1915-1994),Q2305208,Q656
+Q15992622,Q6581097,1915-10-25T00:00:00Z,7,Vladimir Tikhomirov,Vladimir Tikhomirov,Soviet geologist and historian of science (1915-1994),Q34266,Q656
+Q15992622,Q6581097,1915-10-25T00:00:00Z,7,Vladimir Tikhomirov,Vladimir Tikhomirov,Soviet geologist and historian of science (1915-1994),Q206411,Q656
+Q15992622,Q6581097,1915-10-25T00:00:00Z,7,Vladimir Tikhomirov,Vladimir Tikhomirov,Soviet geologist and historian of science (1915-1994),Q15180,Q656
+Q15992622,Q6581097,1915-10-25T00:00:00Z,7,Vladimir Tikhomirov,Vladimir Tikhomirov,Soviet geologist and historian of science (1915-1994),Q159,Q656
+Q15992622,Q6581097,1915-10-25T00:00:00Z,7,Vladimir Tikhomirov,Vladimir Tikhomirov,Soviet geologist and historian of science (1915-1994),Q139319,Q656
+Q16335668,Q6581097,1906-04-21T00:00:00Z,3,Georgy Chernov,George Chernov,Russian geologist,Q2305208,Q649
+Q16335668,Q6581097,1906-04-21T00:00:00Z,3,Georgy Chernov,George Chernov,Russian geologist,Q159,Q649
+Q16335668,Q6581097,1906-04-21T00:00:00Z,3,Georgy Chernov,George Chernov,Russian geologist,Q15180,Q649
+Q16335668,Q6581097,1906-04-21T00:00:00Z,3,Georgy Chernov,George Chernov,Russian geologist,Q139319,Q649
+Q16335668,Q6581097,1906-04-21T00:00:00Z,3,Georgy Chernov,George Chernov,Russian geologist,Q34266,Q649
+Q16854152,Q6581097,1900-01-01T00:00:00Z,3,Mihail Savenco,Mihail Savenco,Moldovan politician,Q964024,Q1190582
+Q16854152,Q6581097,1900-01-01T00:00:00Z,3,Mihail Savenco,Mihail Savenco,Moldovan politician,Q34266,Q1190582
+Q16854152,Q6581097,1900-01-01T00:00:00Z,3,Mihail Savenco,Mihail Savenco,Moldovan politician,Q139319,Q1190582
+Q1747231,Q6581097,1903-03-23T00:00:00Z,15,Grigory Gamburtsev,Grigory Gamburtsev,Soviet seismologist (1903-1955),Q15180,Q656
+Q1747231,Q6581097,1903-03-23T00:00:00Z,15,Grigory Gamburtsev,Grigory Gamburtsev,Soviet seismologist (1903-1955),Q2305208,Q656
+Q1747231,Q6581097,1903-03-23T00:00:00Z,15,Grigory Gamburtsev,Grigory Gamburtsev,Soviet seismologist (1903-1955),Q139319,Q656
+Q1747231,Q6581097,1903-03-23T00:00:00Z,15,Grigory Gamburtsev,Grigory Gamburtsev,Soviet seismologist (1903-1955),Q34266,Q656
+Q17626506,Q6581097,1903-03-28T00:00:00Z,3,Anatoly Bokschanin,Anatoly Bokschanin,historian,Q139319,Q649
+Q17626506,Q6581097,1903-03-28T00:00:00Z,3,Anatoly Bokschanin,Anatoly Bokschanin,historian,Q15180,Q649
+Q17626506,Q6581097,1903-03-28T00:00:00Z,3,Anatoly Bokschanin,Anatoly Bokschanin,historian,Q34266,Q649
+Q18543529,Q6581072,1900-02-13T00:00:00Z,7,Anna Leporskaya,Anna Leporskaya,Russian Imperial and Soviet painter,Q15180,Q157053
+Q18543529,Q6581072,1900-02-13T00:00:00Z,7,Anna Leporskaya,Anna Leporskaya,Russian Imperial and Soviet painter,Q2305208,Q157053
+Q18543529,Q6581072,1900-02-13T00:00:00Z,7,Anna Leporskaya,Anna Leporskaya,Russian Imperial and Soviet painter,Q34266,Q157053
+Q18543529,Q6581072,1900-02-13T00:00:00Z,7,Anna Leporskaya,Anna Leporskaya,Russian Imperial and Soviet painter,Q139319,Q157053
+Q1862308,Q6581097,1911-01-15T00:00:00Z,22,Näcip Cihanov,Näcip Cihanof,Soviet Tatar composer (1911-1988),Q139319,Q487439
+Q1862308,Q6581097,1911-01-15T00:00:00Z,22,Näcip Cihanov,Näcip Cihanof,Soviet Tatar composer (1911-1988),Q34266,Q487439
+Q1862308,Q6581097,1911-01-15T00:00:00Z,22,Näcip Cihanov,Näcip Cihanof,Soviet Tatar composer (1911-1988),Q15180,Q487439
+Q1862308,Q6581097,1911-01-15T00:00:00Z,22,Näcip Cihanov,Näcip Cihanof,Soviet Tatar composer (1911-1988),Q2305208,Q487439
+Q18635157,Q6581097,1900-04-15T00:00:00Z,8,Nikolai Mikhailovich Strakhov,Nikolai Mikhailovich Strakhov,"petrologist, geologist and geochemist",Q2305208,Q105323
+Q18635157,Q6581097,1900-04-15T00:00:00Z,8,Nikolai Mikhailovich Strakhov,Nikolai Mikhailovich Strakhov,"petrologist, geologist and geochemist",Q34266,Q105323
+Q18635157,Q6581097,1900-04-15T00:00:00Z,8,Nikolai Mikhailovich Strakhov,Nikolai Mikhailovich Strakhov,"petrologist, geologist and geochemist",Q15180,Q105323
+Q18635157,Q6581097,1900-04-15T00:00:00Z,8,Nikolai Mikhailovich Strakhov,Nikolai Mikhailovich Strakhov,"petrologist, geologist and geochemist",Q139319,Q105323
+Q1958951,Q6581097,1905-08-04T00:00:00Z,18,Boris Aleksandrov (composer),Boris Alexandrovich Alexandrov,Soviet composer (1905-1994),Q159,Q105298
+Q1958951,Q6581097,1905-08-04T00:00:00Z,18,Boris Aleksandrov (composer),Boris Alexandrovich Alexandrov,Soviet composer (1905-1994),Q139319,Q105298
+Q1958951,Q6581097,1905-08-04T00:00:00Z,18,Boris Aleksandrov (composer),Boris Alexandrovich Alexandrov,Soviet composer (1905-1994),Q15180,Q105298
+Q1958951,Q6581097,1905-08-04T00:00:00Z,18,Boris Aleksandrov (composer),Boris Alexandrovich Alexandrov,Soviet composer (1905-1994),Q2305208,Q105298
+Q1958951,Q6581097,1905-08-04T00:00:00Z,18,Boris Aleksandrov (composer),Boris Alexandrovich Alexandrov,Soviet composer (1905-1994),Q34266,Q105298
+Q1976970,Q6581097,1903-09-21T00:00:00Z,7,Alexander Tolmachov,Aleksandr Tolmachev,Russian botanist (1903-1979),Q15180,Q656
+Q1976970,Q6581097,1903-09-21T00:00:00Z,7,Alexander Tolmachov,Aleksandr Tolmachev,Russian botanist (1903-1979),Q2305208,Q656
+Q1976970,Q6581097,1903-09-21T00:00:00Z,7,Alexander Tolmachov,Aleksandr Tolmachev,Russian botanist (1903-1979),Q34266,Q656
+Q1976970,Q6581097,1903-09-21T00:00:00Z,7,Alexander Tolmachov,Aleksandr Tolmachev,Russian botanist (1903-1979),Q139319,Q656
+Q19910005,Q6581097,1903-08-20T00:00:00Z,5,Sergei Markin (artist),Sergey Ivanovich Markin,Soviet and Russian painter (1903-1942),Q34266,Q18405787
+Q19910005,Q6581097,1903-08-20T00:00:00Z,5,Sergei Markin (artist),Sergey Ivanovich Markin,Soviet and Russian painter (1903-1942),Q139319,Q18405787
+Q19910005,Q6581097,1903-08-20T00:00:00Z,5,Sergei Markin (artist),Sergey Ivanovich Markin,Soviet and Russian painter (1903-1942),Q15180,Q18405787
+Q19910005,Q6581097,1903-08-20T00:00:00Z,5,Sergei Markin (artist),Sergey Ivanovich Markin,Soviet and Russian painter (1903-1942),Q2305208,Q18405787
+Q1996921,Q6581097,1903-11-15T00:00:00Z,9,Zinovie Serdiuk,Zinovie Serdiuk,Soviet politician (1903-1982),Q243610,Q2374956
+Q1996921,Q6581097,1903-11-15T00:00:00Z,9,Zinovie Serdiuk,Zinovie Serdiuk,Soviet politician (1903-1982),Q34266,Q2374956
+Q1996921,Q6581097,1903-11-15T00:00:00Z,9,Zinovie Serdiuk,Zinovie Serdiuk,Soviet politician (1903-1982),Q133356,Q2374956
+Q1996921,Q6581097,1903-11-15T00:00:00Z,9,Zinovie Serdiuk,Zinovie Serdiuk,Soviet politician (1903-1982),Q1508143,Q2374956
+Q1996921,Q6581097,1903-11-15T00:00:00Z,9,Zinovie Serdiuk,Zinovie Serdiuk,Soviet politician (1903-1982),Q139319,Q2374956
+Q1996921,Q6581097,1903-11-15T00:00:00Z,9,Zinovie Serdiuk,Zinovie Serdiuk,Soviet politician (1903-1982),Q15180,Q2374956
+Q2025358,Q6581097,1901-08-21T00:00:00Z,9,Leonid Korniyets,Leonid Korniyets,Ukrainian and Soviet politician (1901–1969),Q34266,Q591884
+Q2025358,Q6581097,1901-08-21T00:00:00Z,9,Leonid Korniyets,Leonid Korniyets,Ukrainian and Soviet politician (1901–1969),Q1508143,Q591884
+Q2025358,Q6581097,1901-08-21T00:00:00Z,9,Leonid Korniyets,Leonid Korniyets,Ukrainian and Soviet politician (1901–1969),Q15180,Q591884
+Q2025358,Q6581097,1901-08-21T00:00:00Z,9,Leonid Korniyets,Leonid Korniyets,Ukrainian and Soviet politician (1901–1969),Q243610,Q591884
+Q2025358,Q6581097,1901-08-21T00:00:00Z,9,Leonid Korniyets,Leonid Korniyets,Ukrainian and Soviet politician (1901–1969),Q139319,Q591884
+Q2025358,Q6581097,1901-08-21T00:00:00Z,9,Leonid Korniyets,Leonid Korniyets,Ukrainian and Soviet politician (1901–1969),Q133356,Q591884
+Q2050507,Q6581097,1906-03-03T00:00:00Z,12,Yevgeny Krinov,Yevgeny Krinov,Russian astronomer (1906–1984),Q34266,Q13652481
+Q2050507,Q6581097,1906-03-03T00:00:00Z,12,Yevgeny Krinov,Yevgeny Krinov,Russian astronomer (1906–1984),Q2305208,Q13652481
+Q2050507,Q6581097,1906-03-03T00:00:00Z,12,Yevgeny Krinov,Yevgeny Krinov,Russian astronomer (1906–1984),Q15180,Q13652481
+Q2050507,Q6581097,1906-03-03T00:00:00Z,12,Yevgeny Krinov,Yevgeny Krinov,Russian astronomer (1906–1984),Q139319,Q13652481
+Q208116,Q6581097,1913-03-13T00:00:00Z,59,Sergey Mikhalkov,Sergey Mikhalkov,Soviet and Russian writer (1913–2009),Q15180,Q649
+Q208116,Q6581097,1913-03-13T00:00:00Z,59,Sergey Mikhalkov,Sergey Mikhalkov,Soviet and Russian writer (1913–2009),Q34266,Q649
+Q208116,Q6581097,1913-03-13T00:00:00Z,59,Sergey Mikhalkov,Sergey Mikhalkov,Soviet and Russian writer (1913–2009),Q139319,Q649
+Q208116,Q6581097,1913-03-13T00:00:00Z,59,Sergey Mikhalkov,Sergey Mikhalkov,Soviet and Russian writer (1913–2009),Q159,Q649
+Q21644165,Q6581097,1905-11-11T00:00:00Z,6,Dmitrii Abramovich Raikov,Dmitry Raikov,Russian mathematician,Q133356,Q1874
+Q21644165,Q6581097,1905-11-11T00:00:00Z,6,Dmitrii Abramovich Raikov,Dmitry Raikov,Russian mathematician,Q243610,Q1874
+Q21644165,Q6581097,1905-11-11T00:00:00Z,6,Dmitrii Abramovich Raikov,Dmitry Raikov,Russian mathematician,Q139319,Q1874
+Q21644165,Q6581097,1905-11-11T00:00:00Z,6,Dmitrii Abramovich Raikov,Dmitry Raikov,Russian mathematician,Q15180,Q1874
+Q21644165,Q6581097,1905-11-11T00:00:00Z,6,Dmitrii Abramovich Raikov,Dmitry Raikov,Russian mathematician,Q34266,Q1874
+Q2358989,Q6581097,1901-07-24T00:00:00Z,23,Igor Ilyinsky,Igor Ilyinsky,"Soviet film and stage actor, director (1901–1987)",Q34266,Q649
+Q2358989,Q6581097,1901-07-24T00:00:00Z,23,Igor Ilyinsky,Igor Ilyinsky,"Soviet film and stage actor, director (1901–1987)",Q2305208,Q649
+Q2358989,Q6581097,1901-07-24T00:00:00Z,23,Igor Ilyinsky,Igor Ilyinsky,"Soviet film and stage actor, director (1901–1987)",Q15180,Q649
+Q2358989,Q6581097,1901-07-24T00:00:00Z,23,Igor Ilyinsky,Igor Ilyinsky,"Soviet film and stage actor, director (1901–1987)",Q139319,Q649
+Q242097,Q6581072,1916-09-28T00:00:00Z,24,Olga Lepeshinskaya (dancer),Olga Lepeshinskaya,Soviet ballet dancer,Q15180,Q1899
+Q242097,Q6581072,1916-09-28T00:00:00Z,24,Olga Lepeshinskaya (dancer),Olga Lepeshinskaya,Soviet ballet dancer,Q34266,Q1899
+Q242097,Q6581072,1916-09-28T00:00:00Z,24,Olga Lepeshinskaya (dancer),Olga Lepeshinskaya,Soviet ballet dancer,Q243610,Q1899
+Q242097,Q6581072,1916-09-28T00:00:00Z,24,Olga Lepeshinskaya (dancer),Olga Lepeshinskaya,Soviet ballet dancer,Q139319,Q1899
+Q242097,Q6581072,1916-09-28T00:00:00Z,24,Olga Lepeshinskaya (dancer),Olga Lepeshinskaya,Soviet ballet dancer,Q159,Q1899
+Q242097,Q6581072,1916-09-28T00:00:00Z,24,Olga Lepeshinskaya (dancer),Olga Lepeshinskaya,Soviet ballet dancer,Q1508143,Q1899
+Q2443754,Q6581072,1908-01-08T00:00:00Z,13,Eufrosinia Kersnovskaya,Eufrosinia Kersnovskaya,Russian writer (1908–1994),Q139319,Q1874
+Q2443754,Q6581072,1908-01-08T00:00:00Z,13,Eufrosinia Kersnovskaya,Eufrosinia Kersnovskaya,Russian writer (1908–1994),Q159,Q1874
+Q2443754,Q6581072,1908-01-08T00:00:00Z,13,Eufrosinia Kersnovskaya,Eufrosinia Kersnovskaya,Russian writer (1908–1994),Q34266,Q1874
+Q2443754,Q6581072,1908-01-08T00:00:00Z,13,Eufrosinia Kersnovskaya,Eufrosinia Kersnovskaya,Russian writer (1908–1994),Q203493,Q1874
+Q2443754,Q6581072,1908-01-08T00:00:00Z,13,Eufrosinia Kersnovskaya,Eufrosinia Kersnovskaya,Russian writer (1908–1994),Q15180,Q1874
+Q2630812,Q6581097,1917-11-01T00:00:00Z,21,Kaisyn Kuliev,Qaysin Quli,Balkar Soviet writer (1917–1985),Q1639475,Q16629870
+Q2630812,Q6581097,1917-11-01T00:00:00Z,21,Kaisyn Kuliev,Qaysin Quli,Balkar Soviet writer (1917–1985),Q15180,Q16629870
+Q2630812,Q6581097,1917-11-01T00:00:00Z,21,Kaisyn Kuliev,Qaysin Quli,Balkar Soviet writer (1917–1985),Q2184,Q16629870
+Q2630812,Q6581097,1917-11-01T00:00:00Z,21,Kaisyn Kuliev,Qaysin Quli,Balkar Soviet writer (1917–1985),Q139319,Q16629870
+Q2630812,Q6581097,1917-11-01T00:00:00Z,21,Kaisyn Kuliev,Qaysin Quli,Balkar Soviet writer (1917–1985),Q4533605,Q16629870
+Q2631297,Q6581097,1908-12-13T00:00:00Z,21,Rostislav Plyatt,Rostislav Plyatt,Soviet actor (1908–1989),Q34266,Q908
+Q2631297,Q6581097,1908-12-13T00:00:00Z,21,Rostislav Plyatt,Rostislav Plyatt,Soviet actor (1908–1989),Q15180,Q908
+Q2631297,Q6581097,1908-12-13T00:00:00Z,21,Rostislav Plyatt,Rostislav Plyatt,Soviet actor (1908–1989),Q2305208,Q908
+Q2631297,Q6581097,1908-12-13T00:00:00Z,21,Rostislav Plyatt,Rostislav Plyatt,Soviet actor (1908–1989),Q139319,Q908
+Q271853,Q6581097,1904-09-29T00:00:00Z,68,Nikolai Ostrovsky,Nikolai Ostrovsky,Ukrainian-Russian writer (1904-1936),Q34266,Q3558423
+Q271853,Q6581097,1904-09-29T00:00:00Z,68,Nikolai Ostrovsky,Nikolai Ostrovsky,Ukrainian-Russian writer (1904-1936),Q133356,Q3558423
+Q271853,Q6581097,1904-09-29T00:00:00Z,68,Nikolai Ostrovsky,Nikolai Ostrovsky,Ukrainian-Russian writer (1904-1936),Q243610,Q3558423
+Q271853,Q6581097,1904-09-29T00:00:00Z,68,Nikolai Ostrovsky,Nikolai Ostrovsky,Ukrainian-Russian writer (1904-1936),Q139319,Q3558423
+Q271853,Q6581097,1904-09-29T00:00:00Z,68,Nikolai Ostrovsky,Nikolai Ostrovsky,Ukrainian-Russian writer (1904-1936),Q15180,Q3558423
+Q292295,Q6581072,1900-11-09T00:00:00Z,28,Bluma Zeigarnik,Bluma Zeigarnik,Soviet psychologist,Q34266,Q499318
+Q292295,Q6581072,1900-11-09T00:00:00Z,28,Bluma Zeigarnik,Bluma Zeigarnik,Soviet psychologist,Q2305208,Q499318
+Q292295,Q6581072,1900-11-09T00:00:00Z,28,Bluma Zeigarnik,Bluma Zeigarnik,Soviet psychologist,Q15180,Q499318
+Q292295,Q6581072,1900-11-09T00:00:00Z,28,Bluma Zeigarnik,Bluma Zeigarnik,Soviet psychologist,Q139319,Q499318
+Q295781,Q6581097,1903-02-18T00:00:00Z,48,Nikolai Podgorny,Mykola Pidhornyi,Soviet politician (1903-1983),Q139319,Q218393
+Q295781,Q6581097,1903-02-18T00:00:00Z,48,Nikolai Podgorny,Mykola Pidhornyi,Soviet politician (1903-1983),Q15180,Q218393
+Q295781,Q6581097,1903-02-18T00:00:00Z,48,Nikolai Podgorny,Mykola Pidhornyi,Soviet politician (1903-1983),Q34266,Q218393
+Q295781,Q6581097,1903-02-18T00:00:00Z,48,Nikolai Podgorny,Mykola Pidhornyi,Soviet politician (1903-1983),Q243610,Q218393
+Q295781,Q6581097,1903-02-18T00:00:00Z,48,Nikolai Podgorny,Mykola Pidhornyi,Soviet politician (1903-1983),Q133356,Q218393
+Q295781,Q6581097,1903-02-18T00:00:00Z,48,Nikolai Podgorny,Mykola Pidhornyi,Soviet politician (1903-1983),Q1508143,Q218393
+Q332263,Q6581097,1902-08-19T00:00:00Z,10,Boris Gudz,Boris Gudz,OGPU agent (1902-2006),Q2184,Q911
+Q332263,Q6581097,1902-08-19T00:00:00Z,10,Boris Gudz,Boris Gudz,OGPU agent (1902-2006),Q159,Q911
+Q332263,Q6581097,1902-08-19T00:00:00Z,10,Boris Gudz,Boris Gudz,OGPU agent (1902-2006),Q34266,Q911
+Q332263,Q6581097,1902-08-19T00:00:00Z,10,Boris Gudz,Boris Gudz,OGPU agent (1902-2006),Q139319,Q911
+Q3385294,Q6581072,1905-10-26T00:00:00Z,14,Ariadna Scriabina,Ariadna Scriabina,Russian poet and activist in the French Resistance (1905-1944),Q142,Q266592
+Q3385294,Q6581072,1905-10-26T00:00:00Z,14,Ariadna Scriabina,Ariadna Scriabina,Russian poet and activist in the French Resistance (1905-1944),Q2184,Q266592
+Q3385294,Q6581072,1905-10-26T00:00:00Z,14,Ariadna Scriabina,Ariadna Scriabina,Russian poet and activist in the French Resistance (1905-1944),Q139319,Q266592
+Q3385294,Q6581072,1905-10-26T00:00:00Z,14,Ariadna Scriabina,Ariadna Scriabina,Russian poet and activist in the French Resistance (1905-1944),Q34266,Q266592
+Q355672,Q6581097,1900-10-11T00:00:00Z,27,Boris Yefimov,Boris Yefimov,Soviet and Russian political and propaganda artist (1900-2008),Q139319,Q1899
+Q355672,Q6581097,1900-10-11T00:00:00Z,27,Boris Yefimov,Boris Yefimov,Soviet and Russian political and propaganda artist (1900-2008),Q2305208,Q1899
+Q355672,Q6581097,1900-10-11T00:00:00Z,27,Boris Yefimov,Boris Yefimov,Soviet and Russian political and propaganda artist (1900-2008),Q159,Q1899
+Q355672,Q6581097,1900-10-11T00:00:00Z,27,Boris Yefimov,Boris Yefimov,Soviet and Russian political and propaganda artist (1900-2008),Q15180,Q1899
+Q3561748,Q6581097,1908-10-24T00:00:00Z,6,Vladimir Pozner Sr.,Vladimir Pozner,Soviet spy (1908–1975),Q139319,Q656
+Q3561748,Q6581097,1908-10-24T00:00:00Z,6,Vladimir Pozner Sr.,Vladimir Pozner,Soviet spy (1908–1975),Q15180,Q656
+Q3561748,Q6581097,1908-10-24T00:00:00Z,6,Vladimir Pozner Sr.,Vladimir Pozner,Soviet spy (1908–1975),Q30,Q656
+Q3561748,Q6581097,1908-10-24T00:00:00Z,6,Vladimir Pozner Sr.,Vladimir Pozner,Soviet spy (1908–1975),Q34266,Q656
+Q3561748,Q6581097,1908-10-24T00:00:00Z,6,Vladimir Pozner Sr.,Vladimir Pozner,Soviet spy (1908–1975),Q142,Q656
+Q3561748,Q6581097,1908-10-24T00:00:00Z,6,Vladimir Pozner Sr.,Vladimir Pozner,Soviet spy (1908–1975),Q37,Q656
+Q3741466,Q6581097,1904-03-18T00:00:00Z,8,Vitaly Lagutenko,Vitaly Lagutenko,Belarusian architect (1904–1968),Q2305208,Q154835
+Q3741466,Q6581097,1904-03-18T00:00:00Z,8,Vitaly Lagutenko,Vitaly Lagutenko,Belarusian architect (1904–1968),Q15180,Q154835
+Q3741466,Q6581097,1904-03-18T00:00:00Z,8,Vitaly Lagutenko,Vitaly Lagutenko,Belarusian architect (1904–1968),Q34266,Q154835
+Q3741466,Q6581097,1904-03-18T00:00:00Z,8,Vitaly Lagutenko,Vitaly Lagutenko,Belarusian architect (1904–1968),Q139319,Q154835
+Q4082557,Q6581097,1904-07-08T00:00:00Z,14,Vladimir Belokurov,Vladimir Belokurov,Soviet actor (1904—1973),Q139319,Q13207581
+Q4082557,Q6581097,1904-07-08T00:00:00Z,14,Vladimir Belokurov,Vladimir Belokurov,Soviet actor (1904—1973),Q15180,Q13207581
+Q4082557,Q6581097,1904-07-08T00:00:00Z,14,Vladimir Belokurov,Vladimir Belokurov,Soviet actor (1904—1973),Q2305208,Q13207581
+Q4082557,Q6581097,1904-07-08T00:00:00Z,14,Vladimir Belokurov,Vladimir Belokurov,Soviet actor (1904—1973),Q34266,Q13207581
+Q4094490,Q6581097,1917-08-18T00:00:00Z,5,Vasyl Borodai,Vasyl Borodai,Ukrainian sculptor (1917-2010),Q243610,Q48256
+Q4094490,Q6581097,1917-08-18T00:00:00Z,5,Vasyl Borodai,Vasyl Borodai,Ukrainian sculptor (1917-2010),Q139319,Q48256
+Q4094490,Q6581097,1917-08-18T00:00:00Z,5,Vasyl Borodai,Vasyl Borodai,Ukrainian sculptor (1917-2010),Q15180,Q48256
+Q4094490,Q6581097,1917-08-18T00:00:00Z,5,Vasyl Borodai,Vasyl Borodai,Ukrainian sculptor (1917-2010),Q212,Q48256
+Q4148913,Q6581097,1902-01-31T00:00:00Z,15,Alexey Gribov,Alexey Gribov,Soviet actor (1902–1977),Q15180,Q649
+Q4148913,Q6581097,1902-01-31T00:00:00Z,15,Alexey Gribov,Alexey Gribov,Soviet actor (1902–1977),Q139319,Q649
+Q4148913,Q6581097,1902-01-31T00:00:00Z,15,Alexey Gribov,Alexey Gribov,Soviet actor (1902–1977),Q2305208,Q649
+Q4148913,Q6581097,1902-01-31T00:00:00Z,15,Alexey Gribov,Alexey Gribov,Soviet actor (1902–1977),Q34266,Q649
+Q4172957,Q6581097,1911-07-22T00:00:00Z,7,Emmanuil Yevzerikhin,Emmanuil Evzerikhin,Russian photographer (1911–1984),Q139319,Q908
+Q4172957,Q6581097,1911-07-22T00:00:00Z,7,Emmanuil Yevzerikhin,Emmanuil Evzerikhin,Russian photographer (1911–1984),Q34266,Q908
+Q4172957,Q6581097,1911-07-22T00:00:00Z,7,Emmanuil Yevzerikhin,Emmanuil Evzerikhin,Russian photographer (1911–1984),Q2305208,Q908
+Q4172957,Q6581097,1911-07-22T00:00:00Z,7,Emmanuil Yevzerikhin,Emmanuil Evzerikhin,Russian photographer (1911–1984),Q15180,Q908
+Q4176093,Q6581097,1908-05-19T00:00:00Z,11,Alexei Yepishev,Alexei Yepishev,Soviet general and politician (1908-1985),Q34266,Q3927
+Q4176093,Q6581097,1908-05-19T00:00:00Z,11,Alexei Yepishev,Alexei Yepishev,Soviet general and politician (1908-1985),Q2305208,Q3927
+Q4176093,Q6581097,1908-05-19T00:00:00Z,11,Alexei Yepishev,Alexei Yepishev,Soviet general and politician (1908-1985),Q139319,Q3927
+Q4176093,Q6581097,1908-05-19T00:00:00Z,11,Alexei Yepishev,Alexei Yepishev,Soviet general and politician (1908-1985),Q15180,Q3927
+Q4219683,Q6581097,1905-06-23T00:00:00Z,6,Anton Antonovich Kersnovsky,Anton Kersnovsky,Russian military historian (1905–1944),Q203493,Q4504453
+Q4219683,Q6581097,1905-06-23T00:00:00Z,6,Anton Antonovich Kersnovsky,Anton Kersnovsky,Russian military historian (1905–1944),Q139319,Q4504453
+Q4219683,Q6581097,1905-06-23T00:00:00Z,6,Anton Antonovich Kersnovsky,Anton Kersnovsky,Russian military historian (1905–1944),Q34266,Q4504453
+Q4233445,Q6581097,1909-01-01T00:00:00Z,3,Leonid Corneanu,Leonid Corneanu,Moldovan writer (1909–1957),Q243610,Q2439502
+Q4233445,Q6581097,1909-01-01T00:00:00Z,3,Leonid Corneanu,Leonid Corneanu,Moldovan writer (1909–1957),Q15180,Q2439502
+Q4233445,Q6581097,1909-01-01T00:00:00Z,3,Leonid Corneanu,Leonid Corneanu,Moldovan writer (1909–1957),Q1508143,Q2439502
+Q4233445,Q6581097,1909-01-01T00:00:00Z,3,Leonid Corneanu,Leonid Corneanu,Moldovan writer (1909–1957),Q2078820,Q2439502
+Q4233445,Q6581097,1909-01-01T00:00:00Z,3,Leonid Corneanu,Leonid Corneanu,Moldovan writer (1909–1957),Q34266,Q2439502
+Q4233445,Q6581097,1909-01-01T00:00:00Z,3,Leonid Corneanu,Leonid Corneanu,Moldovan writer (1909–1957),Q133356,Q2439502
+Q4233445,Q6581097,1909-01-01T00:00:00Z,3,Leonid Corneanu,Leonid Corneanu,Moldovan writer (1909–1957),Q139319,Q2439502
+Q4241700,Q6581097,1910-11-24T00:00:00Z,7,Pyotr Kropotkin (geologist),Pyotr Nikolayevich Kropotkin,"Russian geologist, tectonician, and geophysicist (1910-1996)",Q159,Q649
+Q4241700,Q6581097,1910-11-24T00:00:00Z,7,Pyotr Kropotkin (geologist),Pyotr Nikolayevich Kropotkin,"Russian geologist, tectonician, and geophysicist (1910-1996)",Q34266,Q649
+Q4241700,Q6581097,1910-11-24T00:00:00Z,7,Pyotr Kropotkin (geologist),Pyotr Nikolayevich Kropotkin,"Russian geologist, tectonician, and geophysicist (1910-1996)",Q15180,Q649
+Q4241700,Q6581097,1910-11-24T00:00:00Z,7,Pyotr Kropotkin (geologist),Pyotr Nikolayevich Kropotkin,"Russian geologist, tectonician, and geophysicist (1910-1996)",Q2305208,Q649
+Q4241700,Q6581097,1910-11-24T00:00:00Z,7,Pyotr Kropotkin (geologist),Pyotr Nikolayevich Kropotkin,"Russian geologist, tectonician, and geophysicist (1910-1996)",Q139319,Q649
+Q4256424,Q6581097,1907-01-13T00:00:00Z,5,Wilhelm Levick,Wilhelm Levick,Soviet writer (1906–1982),Q34266,Q1899
+Q4256424,Q6581097,1907-01-13T00:00:00Z,5,Wilhelm Levick,Wilhelm Levick,Soviet writer (1906–1982),Q139319,Q1899
+Q4256424,Q6581097,1907-01-13T00:00:00Z,5,Wilhelm Levick,Wilhelm Levick,Soviet writer (1906–1982),Q15180,Q1899
+Q4296631,Q6581097,1901-07-05T00:00:00Z,18,Mark Mitin,Mark Mitin,Soviet philosopher and journalist (1901-1987),Q15180,Q156713
+Q4296631,Q6581097,1901-07-05T00:00:00Z,18,Mark Mitin,Mark Mitin,Soviet philosopher and journalist (1901-1987),Q139319,Q156713
+Q4296631,Q6581097,1901-07-05T00:00:00Z,18,Mark Mitin,Mark Mitin,Soviet philosopher and journalist (1901-1987),Q2305208,Q156713
+Q4296631,Q6581097,1901-07-05T00:00:00Z,18,Mark Mitin,Mark Mitin,Soviet philosopher and journalist (1901-1987),Q34266,Q156713
+Q4427118,Q6581097,1914-04-09T00:00:00Z,10,Boris Sokolov (geologist),Boris Sokolov,Russian paleontologist (1914–2013),Q2305208,Q134181
+Q4427118,Q6581097,1914-04-09T00:00:00Z,10,Boris Sokolov (geologist),Boris Sokolov,Russian paleontologist (1914–2013),Q34266,Q134181
+Q4427118,Q6581097,1914-04-09T00:00:00Z,10,Boris Sokolov (geologist),Boris Sokolov,Russian paleontologist (1914–2013),Q15180,Q134181
+Q4427118,Q6581097,1914-04-09T00:00:00Z,10,Boris Sokolov (geologist),Boris Sokolov,Russian paleontologist (1914–2013),Q159,Q134181
+Q4427118,Q6581097,1914-04-09T00:00:00Z,10,Boris Sokolov (geologist),Boris Sokolov,Russian paleontologist (1914–2013),Q139319,Q134181
+Q4459172,Q6581097,1917-10-25T00:00:00Z,4,Pyotr Toburokov,Petr Nikolayevich Toburokov,Russian writer (1917-2001),Q159,Q23897830
+Q4459172,Q6581097,1917-10-25T00:00:00Z,4,Pyotr Toburokov,Petr Nikolayevich Toburokov,Russian writer (1917-2001),Q2305208,Q23897830
+Q4459172,Q6581097,1917-10-25T00:00:00Z,4,Pyotr Toburokov,Petr Nikolayevich Toburokov,Russian writer (1917-2001),Q15180,Q23897830
+Q4459172,Q6581097,1917-10-25T00:00:00Z,4,Pyotr Toburokov,Petr Nikolayevich Toburokov,Russian writer (1917-2001),Q139319,Q23897830
+Q4460028,Q6581097,1906-05-01T00:00:00Z,13,Yuri Tolubeyev,Yuri Tolubeyev,Russian Soviet actor (1906-1979),Q2305208,Q656
+Q4460028,Q6581097,1906-05-01T00:00:00Z,13,Yuri Tolubeyev,Yuri Tolubeyev,Russian Soviet actor (1906-1979),Q139319,Q656
+Q4460028,Q6581097,1906-05-01T00:00:00Z,13,Yuri Tolubeyev,Yuri Tolubeyev,Russian Soviet actor (1906-1979),Q15180,Q656
+Q4460028,Q6581097,1906-05-01T00:00:00Z,13,Yuri Tolubeyev,Yuri Tolubeyev,Russian Soviet actor (1906-1979),Q34266,Q656
+Q450382,Q6581072,1917-05-12T00:00:00Z,36,Maya Deren,Maya Deren,Ukrainian-born American avant-garde filmmaker (1917–1961),Q139319,Q1899
+Q450382,Q6581072,1917-05-12T00:00:00Z,36,Maya Deren,Maya Deren,Ukrainian-born American avant-garde filmmaker (1917–1961),Q243610,Q1899
+Q450382,Q6581072,1917-05-12T00:00:00Z,36,Maya Deren,Maya Deren,Ukrainian-born American avant-garde filmmaker (1917–1961),Q34266,Q1899
+Q450382,Q6581072,1917-05-12T00:00:00Z,36,Maya Deren,Maya Deren,Ukrainian-born American avant-garde filmmaker (1917–1961),Q30,Q1899
+Q4526895,Q6581097,1902-10-15T00:00:00Z,12,Andriy Shtoharenko,Andrii Shtoharenko,"Soviet and Ukrainian composer, music teacher (1902—1992)",Q34266,Q48256
+Q4526895,Q6581097,1902-10-15T00:00:00Z,12,Andriy Shtoharenko,Andrii Shtoharenko,"Soviet and Ukrainian composer, music teacher (1902—1992)",Q212,Q48256
+Q4526895,Q6581097,1902-10-15T00:00:00Z,12,Andriy Shtoharenko,Andrii Shtoharenko,"Soviet and Ukrainian composer, music teacher (1902—1992)",Q15180,Q48256
+Q4526895,Q6581097,1902-10-15T00:00:00Z,12,Andriy Shtoharenko,Andrii Shtoharenko,"Soviet and Ukrainian composer, music teacher (1902—1992)",Q139319,Q48256
+Q461726,Q6581097,1901-01-24T00:00:00Z,42,Mikhail Romm,Mikhail Romm,Soviet film director (1901–1971),Q15180,Q6576
+Q461726,Q6581097,1901-01-24T00:00:00Z,42,Mikhail Romm,Mikhail Romm,Soviet film director (1901–1971),Q139319,Q6576
+Q461726,Q6581097,1901-01-24T00:00:00Z,42,Mikhail Romm,Mikhail Romm,Soviet film director (1901–1971),Q2305208,Q6576
+Q461726,Q6581097,1901-01-24T00:00:00Z,42,Mikhail Romm,Mikhail Romm,Soviet film director (1901–1971),Q34266,Q6576
+Q5348233,Q6581097,1913-02-19T00:00:00Z,6,Egor Popov,Egor Popov,American engineer (1913–2001),Q34266,Q1899
+Q5348233,Q6581097,1913-02-19T00:00:00Z,6,Egor Popov,Egor Popov,American engineer (1913–2001),Q139319,Q1899
+Q5348233,Q6581097,1913-02-19T00:00:00Z,6,Egor Popov,Egor Popov,American engineer (1913–2001),Q30,Q1899
+Q5348233,Q6581097,1913-02-19T00:00:00Z,6,Egor Popov,Egor Popov,American engineer (1913–2001),Q81126,Q1899
+Q55038248,Q6581097,1912-03-06T00:00:00Z,6,Mercury Ghilarov,Mercury Sergeevich Ghilarov,Russian and Soviet soil zoologist,Q139319,Q1899
+Q55038248,Q6581097,1912-03-06T00:00:00Z,6,Mercury Ghilarov,Mercury Sergeevich Ghilarov,Russian and Soviet soil zoologist,Q2381337,Q1899
+Q55038248,Q6581097,1912-03-06T00:00:00Z,6,Mercury Ghilarov,Mercury Sergeevich Ghilarov,Russian and Soviet soil zoologist,Q34266,Q1899
+Q55038248,Q6581097,1912-03-06T00:00:00Z,6,Mercury Ghilarov,Mercury Sergeevich Ghilarov,Russian and Soviet soil zoologist,Q15180,Q1899
+Q5556386,Q6581097,1902-11-09T00:00:00Z,7,Gheorghe Pintilie,Gheorghe Pintilie,Russian-born Romanian communist activist and intelligence officer,Q2305208,Q132572
+Q5556386,Q6581097,1902-11-09T00:00:00Z,7,Gheorghe Pintilie,Gheorghe Pintilie,Russian-born Romanian communist activist and intelligence officer,Q842794,Q132572
+Q5556386,Q6581097,1902-11-09T00:00:00Z,7,Gheorghe Pintilie,Gheorghe Pintilie,Russian-born Romanian communist activist and intelligence officer,Q203493,Q132572
+Q5556386,Q6581097,1902-11-09T00:00:00Z,7,Gheorghe Pintilie,Gheorghe Pintilie,Russian-born Romanian communist activist and intelligence officer,Q139319,Q132572
+Q5556386,Q6581097,1902-11-09T00:00:00Z,7,Gheorghe Pintilie,Gheorghe Pintilie,Russian-born Romanian communist activist and intelligence officer,Q2685298,Q132572
+Q5556386,Q6581097,1902-11-09T00:00:00Z,7,Gheorghe Pintilie,Gheorghe Pintilie,Russian-born Romanian communist activist and intelligence officer,Q15180,Q132572
+Q5556386,Q6581097,1902-11-09T00:00:00Z,7,Gheorghe Pintilie,Gheorghe Pintilie,Russian-born Romanian communist activist and intelligence officer,Q34266,Q132572
+Q571742,Q6581097,1917-11-07T00:00:00Z,20,Lev Kerbel,Lev Kerbel,Russian sculptor (1917-2003),Q15180,Q149155
+Q571742,Q6581097,1917-11-07T00:00:00Z,20,Lev Kerbel,Lev Kerbel,Russian sculptor (1917-2003),Q139319,Q149155
+Q571742,Q6581097,1917-11-07T00:00:00Z,20,Lev Kerbel,Lev Kerbel,Russian sculptor (1917-2003),Q2184,Q149155
+Q571742,Q6581097,1917-11-07T00:00:00Z,20,Lev Kerbel,Lev Kerbel,Russian sculptor (1917-2003),Q159,Q149155
+Q594632,Q6581097,1909-11-14T00:00:00Z,9,Mikhail Chumakov,Mikhail Chumakov,"Soviet microbiologist, virologist (1909-1993)",Q159,Q307508
+Q594632,Q6581097,1909-11-14T00:00:00Z,9,Mikhail Chumakov,Mikhail Chumakov,"Soviet microbiologist, virologist (1909-1993)",Q15180,Q307508
+Q594632,Q6581097,1909-11-14T00:00:00Z,9,Mikhail Chumakov,Mikhail Chumakov,"Soviet microbiologist, virologist (1909-1993)",Q139319,Q307508
+Q594632,Q6581097,1909-11-14T00:00:00Z,9,Mikhail Chumakov,Mikhail Chumakov,"Soviet microbiologist, virologist (1909-1993)",Q2305208,Q307508
+Q594632,Q6581097,1909-11-14T00:00:00Z,9,Mikhail Chumakov,Mikhail Chumakov,"Soviet microbiologist, virologist (1909-1993)",Q34266,Q307508
+Q7196929,Q6581097,1905-06-05T00:00:00Z,9,Pyotr Borodin,Piotr Borodin,Soviet politician (1905–1986),Q139319,Q48256
+Q7196929,Q6581097,1905-06-05T00:00:00Z,9,Pyotr Borodin,Piotr Borodin,Soviet politician (1905–1986),Q1508143,Q48256
+Q7196929,Q6581097,1905-06-05T00:00:00Z,9,Pyotr Borodin,Piotr Borodin,Soviet politician (1905–1986),Q15180,Q48256
+Q7196929,Q6581097,1905-06-05T00:00:00Z,9,Pyotr Borodin,Piotr Borodin,Soviet politician (1905–1986),Q243610,Q48256
+Q7196929,Q6581097,1905-06-05T00:00:00Z,9,Pyotr Borodin,Piotr Borodin,Soviet politician (1905–1986),Q34266,Q48256
+Q7196929,Q6581097,1905-06-05T00:00:00Z,9,Pyotr Borodin,Piotr Borodin,Soviet politician (1905–1986),Q133356,Q48256
+Q724267,Q6581097,1901-05-19T00:00:00Z,10,Yuri Alexandrovich Bilibin,Yuri Bilibin,Soviet geologist (1901-1952),Q2305208,Q193342
+Q724267,Q6581097,1901-05-19T00:00:00Z,10,Yuri Alexandrovich Bilibin,Yuri Bilibin,Soviet geologist (1901-1952),Q139319,Q193342
+Q724267,Q6581097,1901-05-19T00:00:00Z,10,Yuri Alexandrovich Bilibin,Yuri Bilibin,Soviet geologist (1901-1952),Q34266,Q193342
+Q724267,Q6581097,1901-05-19T00:00:00Z,10,Yuri Alexandrovich Bilibin,Yuri Bilibin,Soviet geologist (1901-1952),Q15180,Q193342
+Q725435,Q6581097,1908-02-14T00:00:00Z,23,Petro Shelest,Petro Shelest,Ukrainian politician (1908-1996),Q34266,Q4065578
+Q725435,Q6581097,1908-02-14T00:00:00Z,23,Petro Shelest,Petro Shelest,Ukrainian politician (1908-1996),Q1508143,Q4065578
+Q725435,Q6581097,1908-02-14T00:00:00Z,23,Petro Shelest,Petro Shelest,Ukrainian politician (1908-1996),Q15180,Q4065578
+Q725435,Q6581097,1908-02-14T00:00:00Z,23,Petro Shelest,Petro Shelest,Ukrainian politician (1908-1996),Q243610,Q4065578
+Q725435,Q6581097,1908-02-14T00:00:00Z,23,Petro Shelest,Petro Shelest,Ukrainian politician (1908-1996),Q139319,Q4065578
+Q725435,Q6581097,1908-02-14T00:00:00Z,23,Petro Shelest,Petro Shelest,Ukrainian politician (1908-1996),Q133356,Q4065578
+Q725435,Q6581097,1908-02-14T00:00:00Z,23,Petro Shelest,Petro Shelest,Ukrainian politician (1908-1996),Q159,Q4065578
+Q7938635,Q6581097,1907-11-20T00:00:00Z,3,Vladimir Shcherbina,Vladimir Shcherbina,Soviet mineralogist,Q34266,Q656
+Q7938635,Q6581097,1907-11-20T00:00:00Z,3,Vladimir Shcherbina,Vladimir Shcherbina,Soviet mineralogist,Q15180,Q656
+Q7938635,Q6581097,1907-11-20T00:00:00Z,3,Vladimir Shcherbina,Vladimir Shcherbina,Soviet mineralogist,Q139319,Q656
+Q91348245,Q6581097,1916-10-23T00:00:00Z,2,Aleksandr Vtorov,Aleksandr Vtorov,soviet equestrian,Q34266,Q23976827
+Q91348245,Q6581097,1916-10-23T00:00:00Z,2,Aleksandr Vtorov,Aleksandr Vtorov,soviet equestrian,Q139319,Q23976827
+Q91348245,Q6581097,1916-10-23T00:00:00Z,2,Aleksandr Vtorov,Aleksandr Vtorov,soviet equestrian,Q15180,Q23976827
+Q91348245,Q6581097,1916-10-23T00:00:00Z,2,Aleksandr Vtorov,Aleksandr Vtorov,soviet equestrian,Q2305208,Q23976827
+Q91529872,Q6581097,1905-12-14T00:00:00Z,4,William Schneiderman,William Schneiderman,secretary of the Communist Party USA for California,Q2305208,
+Q91529872,Q6581097,1905-12-14T00:00:00Z,4,William Schneiderman,William Schneiderman,secretary of the Communist Party USA for California,Q15180,
+Q91529872,Q6581097,1905-12-14T00:00:00Z,4,William Schneiderman,William Schneiderman,secretary of the Communist Party USA for California,Q139319,
+Q91529872,Q6581097,1905-12-14T00:00:00Z,4,William Schneiderman,William Schneiderman,secretary of the Communist Party USA for California,Q239543,
+Q91529872,Q6581097,1905-12-14T00:00:00Z,4,William Schneiderman,William Schneiderman,secretary of the Communist Party USA for California,Q34266,
+Q91529872,Q6581097,1905-12-14T00:00:00Z,4,William Schneiderman,William Schneiderman,secretary of the Communist Party USA for California,Q30,
+Q94314881,Q6581097,1905-01-01T00:00:00Z,3,William Siegel,William Siegel,20th-century American graphic artist and illustrator,Q34266,Q1773
+Q94314881,Q6581097,1905-01-01T00:00:00Z,3,William Siegel,William Siegel,20th-century American graphic artist and illustrator,Q30,Q1773
+Q94314881,Q6581097,1905-01-01T00:00:00Z,3,William Siegel,William Siegel,20th-century American graphic artist and illustrator,Q139319,Q1773
+Q94314881,Q6581097,1905-01-01T00:00:00Z,3,William Siegel,William Siegel,20th-century American graphic artist and illustrator,Q2305208,Q1773
+Q967061,Q6581097,1908-02-12T00:00:00Z,15,Julian Scriabin,Julian Scriabin,Russian composer (1908–1919),Q139319,Q807
+Q967061,Q6581097,1908-02-12T00:00:00Z,15,Julian Scriabin,Julian Scriabin,Russian composer (1908–1919),Q2184,Q807
+Q967061,Q6581097,1908-02-12T00:00:00Z,15,Julian Scriabin,Julian Scriabin,Russian composer (1908–1919),Q4533605,Q807
+Q967061,Q6581097,1908-02-12T00:00:00Z,15,Julian Scriabin,Julian Scriabin,Russian composer (1908–1919),Q243610,Q807
+Q967061,Q6581097,1908-02-12T00:00:00Z,15,Julian Scriabin,Julian Scriabin,Russian composer (1908–1919),Q34266,Q807
+Q982769,Q6581097,1917-11-06T00:00:00Z,30,Sharof Rashidov,Sharof Rashidov,"Soviet politician, writer (1917-1983)",Q2184,Q572380
+Q982769,Q6581097,1917-11-06T00:00:00Z,30,Sharof Rashidov,Sharof Rashidov,"Soviet politician, writer (1917-1983)",Q139319,Q572380
+Q982769,Q6581097,1917-11-06T00:00:00Z,30,Sharof Rashidov,Sharof Rashidov,"Soviet politician, writer (1917-1983)",Q15180,Q572380

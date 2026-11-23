@@ -1,0 +1,388 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q108442904,Q6581097,1944-03-04T00:00:00Z,4,Adalbert Oster,Adalbert Oster,Romanian sports shooter,Q203493,Q83404
+Q108442904,Q6581097,1944-03-04T00:00:00Z,4,Adalbert Oster,Adalbert Oster,Romanian sports shooter,Q218,Q83404
+Q11218312,Q6581097,1905-01-01T00:00:00Z,5,Yidele Horowitz,Yidele Horowitz,Hasidic Rabbi,Q203493,Q5319922
+Q11218312,Q6581097,1905-01-01T00:00:00Z,5,Yidele Horowitz,Yidele Horowitz,Hasidic Rabbi,Q207272,Q5319922
+Q11218312,Q6581097,1905-01-01T00:00:00Z,5,Yidele Horowitz,Yidele Horowitz,Hasidic Rabbi,Q801,Q5319922
+Q1129194,Q6581097,1907-05-30T00:00:00Z,6,Alex Leon,Alex Leon,Hungarian painter (1907-1944),Q203493,Q746041
+Q1129194,Q6581097,1907-05-30T00:00:00Z,6,Alex Leon,Alex Leon,Hungarian painter (1907-1944),Q171150,Q746041
+Q12171056,Q6581072,1916-05-16T00:00:00Z,7,Miroslava Șandru,Miroslava Șandru,,Q203493,Q4442409
+Q12171056,Q6581072,1916-05-16T00:00:00Z,7,Miroslava Șandru,Miroslava Șandru,,Q2685298,Q4442409
+Q12171056,Q6581072,1916-05-16T00:00:00Z,7,Miroslava Șandru,Miroslava Șandru,,Q842794,Q4442409
+Q12171056,Q6581072,1916-05-16T00:00:00Z,7,Miroslava Șandru,Miroslava Șandru,,Q243610,Q4442409
+Q12171056,Q6581072,1916-05-16T00:00:00Z,7,Miroslava Șandru,Miroslava Șandru,,Q457167,Q4442409
+Q124436231,Q6581072,1926-10-21T00:00:00Z,3,Mica Ertegün,Mica Ertegün,Romanian American interior designer and philanthropist,Q203493,Q19660
+Q124436231,Q6581072,1926-10-21T00:00:00Z,3,Mica Ertegün,Mica Ertegün,Romanian American interior designer and philanthropist,Q30,Q19660
+Q126177509,Q6581097,1905-08-14T00:00:00Z,4,Ștefan Tita,Ștefan Tita,"(1905–1977), Romanian writer and political figure",Q2685298,Q19660
+Q126177509,Q6581097,1905-08-14T00:00:00Z,4,Ștefan Tita,Ștefan Tita,"(1905–1977), Romanian writer and political figure",Q842794,Q19660
+Q126177509,Q6581097,1905-08-14T00:00:00Z,4,Ștefan Tita,Ștefan Tita,"(1905–1977), Romanian writer and political figure",Q203493,Q19660
+Q12725581,Q6581097,1924-05-21T00:00:00Z,6,Constantin Popovici (scholar),Constantin Popovici,Moldovan literary critic (1924-2010),Q217,Q4397111
+Q12725581,Q6581097,1924-05-21T00:00:00Z,6,Constantin Popovici (scholar),Constantin Popovici,Moldovan literary critic (1924-2010),Q15180,Q4397111
+Q12725581,Q6581097,1924-05-21T00:00:00Z,6,Constantin Popovici (scholar),Constantin Popovici,Moldovan literary critic (1924-2010),Q203493,Q4397111
+Q12730323,Q6581097,1941-08-18T00:00:00Z,2,Ilie Motrescu,Ilie Motrescu,Romanian writer and publicist in Soviet Ukraine,Q203493,Q1786728
+Q12730323,Q6581097,1941-08-18T00:00:00Z,2,Ilie Motrescu,Ilie Motrescu,Romanian writer and publicist in Soviet Ukraine,Q15180,Q1786728
+Q12734886,Q6581072,1940-02-19T00:00:00Z,2,Maria Butaciu,Maria Butaciu,Romanian singer,Q203493,Q16425794
+Q12734886,Q6581072,1940-02-19T00:00:00Z,2,Maria Butaciu,Maria Butaciu,Romanian singer,Q218,Q16425794
+Q12736752,Q6581097,1936-09-09T00:00:00Z,6,Nicolae Sulac,Nicolae Sulac,Moldovan singer and musician,Q15180,Q1776367
+Q12736752,Q6581097,1936-09-09T00:00:00Z,6,Nicolae Sulac,Nicolae Sulac,Moldovan singer and musician,Q217,Q1776367
+Q12736752,Q6581097,1936-09-09T00:00:00Z,6,Nicolae Sulac,Nicolae Sulac,Moldovan singer and musician,Q203493,Q1776367
+Q12740819,Q6581097,1908-05-17T00:00:00Z,7,Sigismund Toduță,Sigismund Toduță,Romanian composer,Q203493,Q837154
+Q12740819,Q6581097,1908-05-17T00:00:00Z,7,Sigismund Toduță,Sigismund Toduță,Romanian composer,Q218,Q837154
+Q12740819,Q6581097,1908-05-17T00:00:00Z,7,Sigismund Toduță,Sigismund Toduță,Romanian composer,Q28513,Q837154
+Q12742626,Q6581097,1912-12-02T00:00:00Z,2,Tudor Drăganu,Tudor Drăganu,Romanian jurist (1912–2010),Q218,Q651322
+Q12742626,Q6581097,1912-12-02T00:00:00Z,2,Tudor Drăganu,Tudor Drăganu,Romanian jurist (1912–2010),Q28513,Q651322
+Q12742626,Q6581097,1912-12-02T00:00:00Z,2,Tudor Drăganu,Tudor Drăganu,Romanian jurist (1912–2010),Q203493,Q651322
+Q12743571,Q6581097,1914-03-14T00:00:00Z,5,Visarion Aștileanu,Visarion Aștileanu,"Greek-catholic, than roman-catholic, than orthodox priest and bishop of Arad",Q218,Q100188
+Q12743571,Q6581097,1914-03-14T00:00:00Z,5,Visarion Aștileanu,Visarion Aștileanu,"Greek-catholic, than roman-catholic, than orthodox priest and bishop of Arad",Q28,Q100188
+Q12743571,Q6581097,1914-03-14T00:00:00Z,5,Visarion Aștileanu,Visarion Aștileanu,"Greek-catholic, than roman-catholic, than orthodox priest and bishop of Arad",Q203493,Q100188
+Q12744103,Q6581097,1934-05-12T00:00:00Z,4,Zsolt Kerestely,Jolt Kerestely,Hungarian-Romanian composer,Q218,Q714367
+Q12744103,Q6581097,1934-05-12T00:00:00Z,4,Zsolt Kerestely,Jolt Kerestely,Hungarian-Romanian composer,Q842794,Q714367
+Q12744103,Q6581097,1934-05-12T00:00:00Z,4,Zsolt Kerestely,Jolt Kerestely,Hungarian-Romanian composer,Q203493,Q714367
+Q1336266,Q6581097,1941-11-24T00:00:00Z,7,Emil Hossu,Emil Hossu,Romanian actor (1941-2012),Q203493,Q186719
+Q1336266,Q6581097,1941-11-24T00:00:00Z,7,Emil Hossu,Emil Hossu,Romanian actor (1941-2012),Q218,Q186719
+Q1363756,Q6581097,1935-10-02T00:00:00Z,23,Paul Goma,Paul Goma,Romanian writer (1935–2020),Q203493,Q4280113
+Q1363756,Q6581097,1935-10-02T00:00:00Z,23,Paul Goma,Paul Goma,Romanian writer (1935–2020),Q842794,Q4280113
+Q137386464,Q6581097,1918-01-01T00:00:00Z,2,Iancu Solomon,Iancu Solomon,Romanian soldier,Q203493,Q476226
+Q141141552,Q6581097,1909-06-08T00:00:00Z,1,Dimitrie Batova,Dimitrie Batova,"Romanian writer, soldier, and political figure (1909–1942)",Q203493,Q5052950
+Q141679983,Q6581097,1921-05-18T00:00:00Z,1,Lev Lieberman,Lev Lieberman,Moldovan writer and Zionist activist (1921–2007),Q203493,Q423258
+Q141679983,Q6581097,1921-05-18T00:00:00Z,1,Lev Lieberman,Lev Lieberman,Moldovan writer and Zionist activist (1921–2007),Q801,Q423258
+Q141679983,Q6581097,1921-05-18T00:00:00Z,1,Lev Lieberman,Lev Lieberman,Moldovan writer and Zionist activist (1921–2007),Q15180,Q423258
+Q15072183,Q6581097,1924-01-06T00:00:00Z,5,Shabsa Mashkautsan,Shabsa Mashkautsan,Bessarabian Jewish Hero of the Soviet Union,Q30,Q423258
+Q15072183,Q6581097,1924-01-06T00:00:00Z,5,Shabsa Mashkautsan,Shabsa Mashkautsan,Bessarabian Jewish Hero of the Soviet Union,Q15180,Q423258
+Q15072183,Q6581097,1924-01-06T00:00:00Z,5,Shabsa Mashkautsan,Shabsa Mashkautsan,Bessarabian Jewish Hero of the Soviet Union,Q203493,Q423258
+Q1521559,Q6581097,1924-03-30T00:00:00Z,4,George Guțiu,George Guțiu,Romanian bishop (1924–2011),Q203493,Q741124
+Q1521559,Q6581097,1924-03-30T00:00:00Z,4,George Guțiu,George Guțiu,Romanian bishop (1924–2011),Q218,Q741124
+Q153905,Q6581097,1920-11-23T00:00:00Z,61,Paul Celan,Paul Celan,French-Romanian poet and translator (1920–1970),Q142,Q157725
+Q153905,Q6581097,1920-11-23T00:00:00Z,61,Paul Celan,Paul Celan,French-Romanian poet and translator (1920–1970),Q15180,Q157725
+Q153905,Q6581097,1920-11-23T00:00:00Z,61,Paul Celan,Paul Celan,French-Romanian poet and translator (1920–1970),Q218,Q157725
+Q153905,Q6581097,1920-11-23T00:00:00Z,61,Paul Celan,Paul Celan,French-Romanian poet and translator (1920–1970),Q203493,Q157725
+Q15437596,Q6581097,1921-03-16T00:00:00Z,3,Nicolae Lupan,Nicolae Lupan,Moldovan journalist (1921–2017),Q142,Q2439632
+Q15437596,Q6581097,1921-03-16T00:00:00Z,3,Nicolae Lupan,Nicolae Lupan,Moldovan journalist (1921–2017),Q203493,Q2439632
+Q15437596,Q6581097,1921-03-16T00:00:00Z,3,Nicolae Lupan,Nicolae Lupan,Moldovan journalist (1921–2017),Q218,Q2439632
+Q15437596,Q6581097,1921-03-16T00:00:00Z,3,Nicolae Lupan,Nicolae Lupan,Moldovan journalist (1921–2017),Q217,Q2439632
+Q15437596,Q6581097,1921-03-16T00:00:00Z,3,Nicolae Lupan,Nicolae Lupan,Moldovan journalist (1921–2017),Q15180,Q2439632
+Q1547477,Q6581097,1901-04-11T00:00:00Z,8,Theodor Rogalski,Theodor Rogalski,Romanian composer (1901–1954),Q203493,Q19660
+Q16095556,Q6581097,1934-06-06T00:00:00Z,6,Dickran Kouymjian,Dickran Kouymjian,American Armenologist,Q203493,Q218
+Q16095556,Q6581097,1934-06-06T00:00:00Z,6,Dickran Kouymjian,Dickran Kouymjian,American Armenologist,Q142,Q218
+Q1617489,Q6581097,1921-02-20T00:00:00Z,11,Boris Trakhtenbrot,Boris Trakhtenbrot,Russian-Israeli mathematician,Q203493,Q4096633
+Q1617489,Q6581097,1921-02-20T00:00:00Z,11,Boris Trakhtenbrot,Boris Trakhtenbrot,Russian-Israeli mathematician,Q15180,Q4096633
+Q1617489,Q6581097,1921-02-20T00:00:00Z,11,Boris Trakhtenbrot,Boris Trakhtenbrot,Russian-Israeli mathematician,Q801,Q4096633
+Q1671893,Q6581097,1905-10-11T00:00:00Z,5,Ioan Dragomir,Ioan Dragomir,Romanian bishop,Q203493,Q1190826
+Q167387,Q6581072,1900-01-06T00:00:00Z,40,Maria of Yugoslavia,Maria of Yugoslavia,Queen Consort of Yugoslavia (1922 - 1934),Q191077,Q6986
+Q167387,Q6581072,1900-01-06T00:00:00Z,40,Maria of Yugoslavia,Maria of Yugoslavia,Queen Consort of Yugoslavia (1922 - 1934),Q203493,Q6986
+Q167387,Q6581072,1900-01-06T00:00:00Z,40,Maria of Yugoslavia,Maria of Yugoslavia,Queen Consort of Yugoslavia (1922 - 1934),Q15102440,Q6986
+Q1675460,Q6581097,1914-04-13T00:00:00Z,5,Iuliu Hirțea,Iuliu Hirțea,Romanian bishop (1914-1978),Q28513,Q16425655
+Q1675460,Q6581097,1914-04-13T00:00:00Z,5,Iuliu Hirțea,Iuliu Hirțea,Romanian bishop (1914-1978),Q203493,Q16425655
+Q1675460,Q6581097,1914-04-13T00:00:00Z,5,Iuliu Hirțea,Iuliu Hirțea,Romanian bishop (1914-1978),Q842794,Q16425655
+Q1818751,Q6581097,1901-03-26T00:00:00Z,9,Leo Stern (historian),Leo Stern,Austrian-German political activist and historian (1901-1982),Q16957,Q2091615
+Q1818751,Q6581097,1901-03-26T00:00:00Z,9,Leo Stern (historian),Leo Stern,Austrian-German political activist and historian (1901-1982),Q40,Q2091615
+Q1818751,Q6581097,1901-03-26T00:00:00Z,9,Leo Stern (historian),Leo Stern,Austrian-German political activist and historian (1901-1982),Q15180,Q2091615
+Q1818751,Q6581097,1901-03-26T00:00:00Z,9,Leo Stern (historian),Leo Stern,Austrian-German political activist and historian (1901-1982),Q203493,Q2091615
+Q1828731,Q6581097,1908-07-07T00:00:00Z,8,Meir Just,Meir Just,Dutch rabbi (1908-2010),Q801,Q149118
+Q1828731,Q6581097,1908-07-07T00:00:00Z,8,Meir Just,Meir Just,Dutch rabbi (1908-2010),Q39,Q149118
+Q1828731,Q6581097,1908-07-07T00:00:00Z,8,Meir Just,Meir Just,Dutch rabbi (1908-2010),Q600018,Q149118
+Q1828731,Q6581097,1908-07-07T00:00:00Z,8,Meir Just,Meir Just,Dutch rabbi (1908-2010),Q29999,Q149118
+Q1828731,Q6581097,1908-07-07T00:00:00Z,8,Meir Just,Meir Just,Dutch rabbi (1908-2010),Q28513,Q149118
+Q1828731,Q6581097,1908-07-07T00:00:00Z,8,Meir Just,Meir Just,Dutch rabbi (1908-2010),Q203493,Q149118
+Q18391,Q6581097,1928-09-30T00:00:00Z,106,Elie Wiesel,Elie Wiesel,"Romanian-born American writer, professor, political activist, Nobel laureate, and Holocaust survivor (1928–2016)",Q203493,Q16898380
+Q18391,Q6581097,1928-09-30T00:00:00Z,106,Elie Wiesel,Elie Wiesel,"Romanian-born American writer, professor, political activist, Nobel laureate, and Holocaust survivor (1928–2016)",Q600018,Q16898380
+Q18391,Q6581097,1928-09-30T00:00:00Z,106,Elie Wiesel,Elie Wiesel,"Romanian-born American writer, professor, political activist, Nobel laureate, and Holocaust survivor (1928–2016)",Q223050,Q16898380
+Q18391,Q6581097,1928-09-30T00:00:00Z,106,Elie Wiesel,Elie Wiesel,"Romanian-born American writer, professor, political activist, Nobel laureate, and Holocaust survivor (1928–2016)",Q30,Q16898380
+Q18391,Q6581097,1928-09-30T00:00:00Z,106,Elie Wiesel,Elie Wiesel,"Romanian-born American writer, professor, political activist, Nobel laureate, and Holocaust survivor (1928–2016)",Q801,Q16898380
+Q18543681,Q6581097,1907-01-06T00:00:00Z,2,Ion I. Agârbiceanu,Ion I. Agârbiceanu,Romanian physicist (1907–1971),Q203493,Q1193905
+Q18543681,Q6581097,1907-01-06T00:00:00Z,2,Ion I. Agârbiceanu,Ion I. Agârbiceanu,Romanian physicist (1907–1971),Q842794,Q1193905
+Q18543681,Q6581097,1907-01-06T00:00:00Z,2,Ion I. Agârbiceanu,Ion I. Agârbiceanu,Romanian physicist (1907–1971),Q28513,Q1193905
+Q18543681,Q6581097,1907-01-06T00:00:00Z,2,Ion I. Agârbiceanu,Ion I. Agârbiceanu,Romanian physicist (1907–1971),Q2685298,Q1193905
+Q18545102,Q6581097,1929-05-09T00:00:00Z,3,Gheorghe Paladi,Gheorghe Paladi,Moldovan gynaecologist,Q170895,Q1003159
+Q18545102,Q6581097,1929-05-09T00:00:00Z,3,Gheorghe Paladi,Gheorghe Paladi,Moldovan gynaecologist,Q217,Q1003159
+Q18545102,Q6581097,1929-05-09T00:00:00Z,3,Gheorghe Paladi,Gheorghe Paladi,Moldovan gynaecologist,Q203493,Q1003159
+Q18549328,Q6581097,1928-08-27T00:00:00Z,5,Mircea Zaciu,Mircea Zaciu,"Romanian critic, literary historian and prose writer",Q218,Q93358
+Q18549328,Q6581097,1928-08-27T00:00:00Z,5,Mircea Zaciu,Mircea Zaciu,"Romanian critic, literary historian and prose writer",Q203493,Q93358
+Q193405,Q6581097,1911-04-08T00:00:00Z,83,Emil Cioran,Emil Cioran,Romanian-French philosopher and essayist (1911–1995),Q203493,Q938640
+Q193405,Q6581097,1911-04-08T00:00:00Z,83,Emil Cioran,Emil Cioran,Romanian-French philosopher and essayist (1911–1995),Q28513,Q938640
+Q193405,Q6581097,1911-04-08T00:00:00Z,83,Emil Cioran,Emil Cioran,Romanian-French philosopher and essayist (1911–1995),Q218,Q938640
+Q1965406,Q6581097,1934-03-09T00:00:00Z,15,Mihai Volontir,Mihai Volontir,Soviet and Moldovan actor and politician (1934-2015),Q217,Q217
+Q1965406,Q6581097,1934-03-09T00:00:00Z,15,Mihai Volontir,Mihai Volontir,Soviet and Moldovan actor and politician (1934-2015),Q15180,Q217
+Q1965406,Q6581097,1934-03-09T00:00:00Z,15,Mihai Volontir,Mihai Volontir,Soviet and Moldovan actor and politician (1934-2015),Q203493,Q217
+Q1965914,Q6581097,1914-01-01T00:00:00Z,8,Leibu Levin,Leibu Levin,"Yiddish artistic narrator, singer, composer (1914–1983)",Q28513,Q652802
+Q1965914,Q6581097,1914-01-01T00:00:00Z,8,Leibu Levin,Leibu Levin,"Yiddish artistic narrator, singer, composer (1914–1983)",Q15180,Q652802
+Q1965914,Q6581097,1914-01-01T00:00:00Z,8,Leibu Levin,Leibu Levin,"Yiddish artistic narrator, singer, composer (1914–1983)",Q203493,Q652802
+Q1965914,Q6581097,1914-01-01T00:00:00Z,8,Leibu Levin,Leibu Levin,"Yiddish artistic narrator, singer, composer (1914–1983)",Q801,Q652802
+Q1973108,Q6581097,1902-01-01T00:00:00Z,6,Chaim Zanvil Abramowitz,Chaim Zanvl Abramowitz,"20th century Hasidic Rebbe born in Romania, died in the USA",Q801,Q178855
+Q1973108,Q6581097,1902-01-01T00:00:00Z,6,Chaim Zanvil Abramowitz,Chaim Zanvl Abramowitz,"20th century Hasidic Rebbe born in Romania, died in the USA",Q15180,Q178855
+Q1973108,Q6581097,1902-01-01T00:00:00Z,6,Chaim Zanvil Abramowitz,Chaim Zanvl Abramowitz,"20th century Hasidic Rebbe born in Romania, died in the USA",Q30,Q178855
+Q1973108,Q6581097,1902-01-01T00:00:00Z,6,Chaim Zanvil Abramowitz,Chaim Zanvl Abramowitz,"20th century Hasidic Rebbe born in Romania, died in the USA",Q218,Q178855
+Q1973108,Q6581097,1902-01-01T00:00:00Z,6,Chaim Zanvil Abramowitz,Chaim Zanvl Abramowitz,"20th century Hasidic Rebbe born in Romania, died in the USA",Q203493,Q178855
+Q1978057,Q6581097,1909-08-08T00:00:00Z,13,Emilian Bucov,Emilian Bukov,Soviet writer (1909-1984),Q15180,Q889966
+Q1978057,Q6581097,1909-08-08T00:00:00Z,13,Emilian Bucov,Emilian Bukov,Soviet writer (1909-1984),Q203493,Q889966
+Q1995843,Q6581097,1923-06-02T00:00:00Z,6,Yisroel Avrohom Portugal,Yisroel Avrohom Portugal,"Rebbe (Grand Rabbi) of Skulen in Brooklyn, New York (1923-2019)",Q218,Q2633540
+Q1995843,Q6581097,1923-06-02T00:00:00Z,6,Yisroel Avrohom Portugal,Yisroel Avrohom Portugal,"Rebbe (Grand Rabbi) of Skulen in Brooklyn, New York (1923-2019)",Q203493,Q2633540
+Q1995843,Q6581097,1923-06-02T00:00:00Z,6,Yisroel Avrohom Portugal,Yisroel Avrohom Portugal,"Rebbe (Grand Rabbi) of Skulen in Brooklyn, New York (1923-2019)",Q30,Q2633540
+Q1995850,Q6581097,1940-10-28T00:00:00Z,7,David Twersky (Skverer Rebbe),David Twersky,Skverer Rebbe,Q203493,Q46852
+Q1995850,Q6581097,1940-10-28T00:00:00Z,7,David Twersky (Skverer Rebbe),David Twersky,Skverer Rebbe,Q30,Q46852
+Q1995850,Q6581097,1940-10-28T00:00:00Z,7,David Twersky (Skverer Rebbe),David Twersky,Skverer Rebbe,Q218,Q46852
+Q20069585,Q6581097,1941-07-16T00:00:00Z,4,Ion Russu,Ion Russu,Moldovan politician,Q203493,Q2440727
+Q20069585,Q6581097,1941-07-16T00:00:00Z,4,Ion Russu,Ion Russu,Moldovan politician,Q15180,Q2440727
+Q20069585,Q6581097,1941-07-16T00:00:00Z,4,Ion Russu,Ion Russu,Moldovan politician,Q217,Q2440727
+Q2042234,Q6581097,1934-03-18T00:00:00Z,13,Semion Grossu,Semion Grossu,Moldovan politician and businessman,Q15180,Q4325868
+Q2042234,Q6581097,1934-03-18T00:00:00Z,13,Semion Grossu,Semion Grossu,Moldovan politician and businessman,Q203493,Q4325868
+Q2042234,Q6581097,1934-03-18T00:00:00Z,13,Semion Grossu,Semion Grossu,Moldovan politician and businessman,Q217,Q4325868
+Q20984554,Q6581097,1920-07-03T00:00:00Z,3,Paul-Mihu Sadoveanu,Paul-Mihu Sadovean,Romanian novelist (1920-1944),Q203493,Q46852
+Q229162,Q6581072,1916-01-07T00:00:00Z,56,Elena Ceaușescu,Elena Ceaușescu,Romanian politician (1919–1989),Q2685298,Q1912804
+Q229162,Q6581072,1916-01-07T00:00:00Z,56,Elena Ceaușescu,Elena Ceaușescu,Romanian politician (1919–1989),Q842794,Q1912804
+Q229162,Q6581072,1919-01-20T00:00:00Z,56,Elena Ceaușescu,Elena Ceaușescu,Romanian politician (1919–1989),Q842794,Q1912804
+Q229162,Q6581072,1916-01-07T00:00:00Z,56,Elena Ceaușescu,Elena Ceaușescu,Romanian politician (1919–1989),Q203493,Q1912804
+Q229162,Q6581072,1919-01-20T00:00:00Z,56,Elena Ceaușescu,Elena Ceaușescu,Romanian politician (1919–1989),Q203493,Q1912804
+Q229162,Q6581072,1919-01-20T00:00:00Z,56,Elena Ceaușescu,Elena Ceaușescu,Romanian politician (1919–1989),Q2685298,Q1912804
+Q2343027,Q6581097,1900-12-07T00:00:00Z,8,Ștefan Neaga,Stepan Njaga,Moldavian conductor (1900–1951),Q15180,Q21197
+Q2343027,Q6581097,1900-12-07T00:00:00Z,8,Ștefan Neaga,Stepan Njaga,Moldavian conductor (1900–1951),Q203493,Q21197
+Q240772,Q6581097,1902-10-31T00:00:00Z,32,Abraham Wald,Abraham Wald,"American mathematician, statistician, and scientist (1902–1950)",Q203493,Q100188
+Q240772,Q6581097,1902-10-31T00:00:00Z,32,Abraham Wald,Abraham Wald,"American mathematician, statistician, and scientist (1902–1950)",Q30,Q100188
+Q240772,Q6581097,1902-10-31T00:00:00Z,32,Abraham Wald,Abraham Wald,"American mathematician, statistician, and scientist (1902–1950)",Q171150,Q100188
+Q2407899,Q6581072,1926-01-04T00:00:00Z,15,Margareta Niculescu,Margareta Niculescu,Romanian theatre director and puppeteer (1926–2018),Q842794,Q46852
+Q2407899,Q6581072,1926-01-04T00:00:00Z,15,Margareta Niculescu,Margareta Niculescu,Romanian theatre director and puppeteer (1926–2018),Q2685298,Q46852
+Q2407899,Q6581072,1926-01-04T00:00:00Z,15,Margareta Niculescu,Margareta Niculescu,Romanian theatre director and puppeteer (1926–2018),Q203493,Q46852
+Q2407899,Q6581072,1926-01-04T00:00:00Z,15,Margareta Niculescu,Margareta Niculescu,Romanian theatre director and puppeteer (1926–2018),Q142,Q46852
+Q2419125,Q6581097,1913-01-13T00:00:00Z,14,Prince Mircea of Romania,Prince Mircea of Romania,Romanian Royal (1913–1916),Q203493,Q19660
+Q2443754,Q6581072,1908-01-08T00:00:00Z,13,Eufrosinia Kersnovskaya,Eufrosinia Kersnovskaya,Russian writer (1908–1994),Q15180,Q1874
+Q2443754,Q6581072,1908-01-08T00:00:00Z,13,Eufrosinia Kersnovskaya,Eufrosinia Kersnovskaya,Russian writer (1908–1994),Q139319,Q1874
+Q2443754,Q6581072,1908-01-08T00:00:00Z,13,Eufrosinia Kersnovskaya,Eufrosinia Kersnovskaya,Russian writer (1908–1994),Q34266,Q1874
+Q2443754,Q6581072,1908-01-08T00:00:00Z,13,Eufrosinia Kersnovskaya,Eufrosinia Kersnovskaya,Russian writer (1908–1994),Q203493,Q1874
+Q2443754,Q6581072,1908-01-08T00:00:00Z,13,Eufrosinia Kersnovskaya,Eufrosinia Kersnovskaya,Russian writer (1908–1994),Q159,Q1874
+Q24909969,Q6581097,1901-04-12T00:00:00Z,3,David L. Genuth,David L. Genuth,American rabbi,Q203493,Q596609
+Q24909969,Q6581097,1901-04-12T00:00:00Z,3,David L. Genuth,David L. Genuth,American rabbi,Q30,Q596609
+Q24909969,Q6581097,1901-04-12T00:00:00Z,3,David L. Genuth,David L. Genuth,American rabbi,Q28513,Q596609
+Q250551,Q6581097,1912-09-22T00:00:00Z,11,József Dudás,József Dudás,Hungarian revolutionary (1912-1957),Q218,Q186349
+Q250551,Q6581097,1912-09-22T00:00:00Z,11,József Dudás,József Dudás,Hungarian revolutionary (1912-1957),Q28,Q186349
+Q250551,Q6581097,1912-09-22T00:00:00Z,11,József Dudás,József Dudás,Hungarian revolutionary (1912-1957),Q203493,Q186349
+Q2546258,Q6581097,1906-01-10T00:00:00Z,19,Grigore Moisil,Grigore Moisil,"Romanian mathematician, computer pioneer (1906–1973)",Q203493,Q11585
+Q2546258,Q6581097,1906-01-10T00:00:00Z,19,Grigore Moisil,Grigore Moisil,"Romanian mathematician, computer pioneer (1906–1973)",Q218,Q11585
+Q2560981,Q6581097,1925-03-28T00:00:00Z,14,Dmytro Hnatyuk,Dmytro Hnatyuk,Soviet and Ukrainian singer (1925-2016),Q203493,Q203493
+Q2560981,Q6581097,1925-03-28T00:00:00Z,14,Dmytro Hnatyuk,Dmytro Hnatyuk,Soviet and Ukrainian singer (1925-2016),Q203493,Q2387700
+Q2560981,Q6581097,1925-03-28T00:00:00Z,14,Dmytro Hnatyuk,Dmytro Hnatyuk,Soviet and Ukrainian singer (1925-2016),Q203493,Q4279765
+Q2560981,Q6581097,1925-03-28T00:00:00Z,14,Dmytro Hnatyuk,Dmytro Hnatyuk,Soviet and Ukrainian singer (1925-2016),Q15180,Q203493
+Q2560981,Q6581097,1925-03-28T00:00:00Z,14,Dmytro Hnatyuk,Dmytro Hnatyuk,Soviet and Ukrainian singer (1925-2016),Q15180,Q2387700
+Q2560981,Q6581097,1925-03-28T00:00:00Z,14,Dmytro Hnatyuk,Dmytro Hnatyuk,Soviet and Ukrainian singer (1925-2016),Q15180,Q4279765
+Q2560981,Q6581097,1925-03-28T00:00:00Z,14,Dmytro Hnatyuk,Dmytro Hnatyuk,Soviet and Ukrainian singer (1925-2016),Q212,Q203493
+Q2560981,Q6581097,1925-03-28T00:00:00Z,14,Dmytro Hnatyuk,Dmytro Hnatyuk,Soviet and Ukrainian singer (1925-2016),Q212,Q2387700
+Q2560981,Q6581097,1925-03-28T00:00:00Z,14,Dmytro Hnatyuk,Dmytro Hnatyuk,Soviet and Ukrainian singer (1925-2016),Q212,Q4279765
+Q257116,Q6581097,1905-08-12T00:00:00Z,19,Emerich Vogl,Emerich Vogl,Romanian footballer (1905-1971),Q203493,Q83404
+Q257116,Q6581097,1905-08-12T00:00:00Z,19,Emerich Vogl,Emerich Vogl,Romanian footballer (1905-1971),Q842794,Q83404
+Q2610508,Q6581097,1936-11-06T00:00:00Z,25,Emil Loteanu,Emil Loteanu,Moldovan filmmaker (1936–2003),Q159,Q2385322
+Q2610508,Q6581097,1936-11-06T00:00:00Z,25,Emil Loteanu,Emil Loteanu,Moldovan filmmaker (1936–2003),Q217,Q2385322
+Q2610508,Q6581097,1936-11-06T00:00:00Z,25,Emil Loteanu,Emil Loteanu,Moldovan filmmaker (1936–2003),Q203493,Q2385322
+Q2610508,Q6581097,1936-11-06T00:00:00Z,25,Emil Loteanu,Emil Loteanu,Moldovan filmmaker (1936–2003),Q15180,Q2385322
+Q2613159,Q6581097,1910-09-29T00:00:00Z,21,Arsenie Boca,Arsenie Boca,Romanian monk and theologian (1910-1989),Q842794,Q754254
+Q2613159,Q6581097,1910-09-29T00:00:00Z,21,Arsenie Boca,Arsenie Boca,Romanian monk and theologian (1910-1989),Q2685298,Q754254
+Q2613159,Q6581097,1910-09-29T00:00:00Z,21,Arsenie Boca,Arsenie Boca,Romanian monk and theologian (1910-1989),Q28513,Q754254
+Q2613159,Q6581097,1910-09-29T00:00:00Z,21,Arsenie Boca,Arsenie Boca,Romanian monk and theologian (1910-1989),Q203493,Q754254
+Q2732492,Q6581097,1902-07-05T00:00:00Z,12,Ion Moța,Ion Moţa,Romanian politician (1902-1937),Q203493,Q262472
+Q2732492,Q6581097,1902-07-05T00:00:00Z,12,Ion Moța,Ion Moţa,Romanian politician (1902-1937),Q28,Q262472
+Q274763,Q6581072,1924-02-05T00:00:00Z,14,Selma Meerbaum-Eisinger,Selma Meerbaum-Eisinger,German language lyricist and Holocaust victim (1924-1942),Q40,Q157725
+Q274763,Q6581072,1924-02-05T00:00:00Z,14,Selma Meerbaum-Eisinger,Selma Meerbaum-Eisinger,German language lyricist and Holocaust victim (1924-1942),Q218,Q157725
+Q274763,Q6581072,1924-02-05T00:00:00Z,14,Selma Meerbaum-Eisinger,Selma Meerbaum-Eisinger,German language lyricist and Holocaust victim (1924-1942),Q15180,Q157725
+Q274763,Q6581072,1924-02-05T00:00:00Z,14,Selma Meerbaum-Eisinger,Selma Meerbaum-Eisinger,German language lyricist and Holocaust victim (1924-1942),Q203493,Q157725
+Q2919282,Q6581097,1922-12-20T00:00:00Z,13,Randolph L. Braham,Randolph L. Braham,American historian and political scientist (1922-2018),Q28,Q19660
+Q2919282,Q6581097,1922-12-20T00:00:00Z,13,Randolph L. Braham,Randolph L. Braham,American historian and political scientist (1922-2018),Q30,Q19660
+Q2919282,Q6581097,1922-12-20T00:00:00Z,13,Randolph L. Braham,Randolph L. Braham,American historian and political scientist (1922-2018),Q218,Q19660
+Q2919282,Q6581097,1922-12-20T00:00:00Z,13,Randolph L. Braham,Randolph L. Braham,American historian and political scientist (1922-2018),Q203493,Q19660
+Q2919703,Q6581097,1904-01-29T00:00:00Z,10,Vasile Marin,Vasile Marin,Romanian politician,Q203493,Q19660
+Q294072,Q6581097,1901-11-08T00:00:00Z,50,Gheorghe Gheorghiu-Dej,Gheorghe Gheorghiu-Dej,47th Prime Minister of Romania (1952-1955),Q2685298,Q335868
+Q294072,Q6581097,1901-11-08T00:00:00Z,50,Gheorghe Gheorghiu-Dej,Gheorghe Gheorghiu-Dej,47th Prime Minister of Romania (1952-1955),Q203493,Q335868
+Q3038282,Q6581097,1900-09-22T00:00:00Z,10,Dovid Knut,Dovid Knut,Russian writer (1900-1955),Q142,Q423258
+Q3038282,Q6581097,1900-09-23T00:00:00Z,10,Dovid Knut,Dovid Knut,Russian writer (1900-1955),Q801,Q423258
+Q3038282,Q6581097,1900-09-22T00:00:00Z,10,Dovid Knut,Dovid Knut,Russian writer (1900-1955),Q203493,Q423258
+Q3038282,Q6581097,1900-09-22T00:00:00Z,10,Dovid Knut,Dovid Knut,Russian writer (1900-1955),Q801,Q423258
+Q3038282,Q6581097,1900-09-23T00:00:00Z,10,Dovid Knut,Dovid Knut,Russian writer (1900-1955),Q203493,Q423258
+Q3038282,Q6581097,1900-09-23T00:00:00Z,10,Dovid Knut,Dovid Knut,Russian writer (1900-1955),Q142,Q423258
+Q3310032,Q6581097,1921-04-19T00:00:00Z,7,Michel Klein (veterinarian),Michel Klein,French television presenter and veterinarian (1921–2024),Q203493,Q334874
+Q3310032,Q6581097,1921-04-19T00:00:00Z,7,Michel Klein (veterinarian),Michel Klein,French television presenter and veterinarian (1921–2024),Q142,Q334874
+Q37649008,Q6581097,1919-08-25T00:00:00Z,3,Eliyahu Tamler,Eliyahu Temler,Romanian Zionist and Senior commander in the Irgun,Q193714,Q149035
+Q37649008,Q6581097,1919-08-25T00:00:00Z,3,Eliyahu Tamler,Eliyahu Temler,Romanian Zionist and Senior commander in the Irgun,Q203493,Q149035
+Q399969,Q6581097,1932-02-16T00:00:00Z,29,Aharon Appelfeld,Aharon Appelfeld,Israeli writer (1932–2018),Q15180,Q4439678
+Q399969,Q6581097,1932-02-16T00:00:00Z,29,Aharon Appelfeld,Aharon Appelfeld,Israeli writer (1932–2018),Q203493,Q4439678
+Q399969,Q6581097,1932-02-16T00:00:00Z,29,Aharon Appelfeld,Aharon Appelfeld,Israeli writer (1932–2018),Q801,Q4439678
+Q4066092,Q6581097,1917-04-03T00:00:00Z,6,Vladimir Andrunakievich,Vladimir Andrunakievich,Russian mathematician (1917-1997),Q15180,Q656
+Q4066092,Q6581097,1917-04-03T00:00:00Z,6,Vladimir Andrunakievich,Vladimir Andrunakievich,Russian mathematician (1917-1997),Q203493,Q656
+Q4066092,Q6581097,1917-04-03T00:00:00Z,6,Vladimir Andrunakievich,Vladimir Andrunakievich,Russian mathematician (1917-1997),Q217,Q656
+Q4103730,Q6581072,1928-03-19T00:00:00Z,16,Varduhi Varderesyan,Varduhi Varderesyan,Armenian actress (1928-2015),Q15180,Q19660
+Q4103730,Q6581072,1928-03-19T00:00:00Z,16,Varduhi Varderesyan,Varduhi Varderesyan,Armenian actress (1928-2015),Q203493,Q19660
+Q4103730,Q6581072,1928-03-19T00:00:00Z,16,Varduhi Varderesyan,Varduhi Varderesyan,Armenian actress (1928-2015),Q399,Q19660
+Q4118462,Q6581097,1904-03-05T00:00:00Z,9,Haig Acterian,Haig Acterian,Romanian journalist (1904-1943),Q203493,Q79808
+Q41590,Q6581097,1907-03-22T00:00:00Z,70,Mircea Eliade,Mircea Eliade,"Romanian-American historian, writer, philosopher and professor at the University of Chicago (1907–1986)",Q30,Q19660
+Q41590,Q6581097,1907-03-22T00:00:00Z,70,Mircea Eliade,Mircea Eliade,"Romanian-American historian, writer, philosopher and professor at the University of Chicago (1907–1986)",Q203493,Q19660
+Q41590,Q6581097,1907-03-22T00:00:00Z,70,Mircea Eliade,Mircea Eliade,"Romanian-American historian, writer, philosopher and professor at the University of Chicago (1907–1986)",Q2685298,Q19660
+Q4202608,Q6581097,1935-12-25T00:00:00Z,7,Vlad Ioviță,Vlad Ioviţă,Moldovan writer (1935–1983),Q15180,Q2261598
+Q4202608,Q6581097,1935-12-25T00:00:00Z,7,Vlad Ioviță,Vlad Ioviţă,Moldovan writer (1935–1983),Q203493,Q2261598
+Q4219683,Q6581097,1905-06-23T00:00:00Z,6,Anton Antonovich Kersnovsky,Anton Kersnovsky,Russian military historian (1905–1944),Q139319,Q4504453
+Q4219683,Q6581097,1905-06-23T00:00:00Z,6,Anton Antonovich Kersnovsky,Anton Kersnovsky,Russian military historian (1905–1944),Q203493,Q4504453
+Q4219683,Q6581097,1905-06-23T00:00:00Z,6,Anton Antonovich Kersnovsky,Anton Kersnovsky,Russian military historian (1905–1944),Q34266,Q4504453
+Q4222544,Q6581097,1933-12-28T00:00:00Z,4,Stefan Kitzac,Ștefan Chițac,Russian military officer,Q907112,Q4338737
+Q4222544,Q6581097,1933-12-28T00:00:00Z,4,Stefan Kitzac,Ștefan Chițac,Russian military officer,Q15180,Q4338737
+Q4222544,Q6581097,1933-12-28T00:00:00Z,4,Stefan Kitzac,Ștefan Chițac,Russian military officer,Q159,Q4338737
+Q4222544,Q6581097,1933-12-28T00:00:00Z,4,Stefan Kitzac,Ștefan Chițac,Russian military officer,Q203493,Q4338737
+Q4236130,Q6581097,1913-11-24T00:00:00Z,3,Boris Kotlyarov,Boris Kotlyarov,Russian ethnomusicologist and pedagogue (1913–1982),Q203493,Q158292
+Q4236130,Q6581097,1913-11-24T00:00:00Z,3,Boris Kotlyarov,Boris Kotlyarov,Russian ethnomusicologist and pedagogue (1913–1982),Q15180,Q158292
+Q4247930,Q6581097,1930-12-05T00:00:00Z,7,Vladimir Curbet,Vladimir Curbet,Moldovan choreographer (1930-2017),Q217,Q1988264
+Q4247930,Q6581097,1930-12-05T00:00:00Z,7,Vladimir Curbet,Vladimir Curbet,Moldovan choreographer (1930-2017),Q15180,Q1988264
+Q4247930,Q6581097,1930-12-05T00:00:00Z,7,Vladimir Curbet,Vladimir Curbet,Moldovan choreographer (1930-2017),Q203493,Q1988264
+Q4256554,Q6581097,1922-04-17T00:00:00Z,2,Izeaslav Levit,Izyaslav Elikovich Levit,Moldovan-American historian,Q217,Q21197
+Q4256554,Q6581097,1922-04-17T00:00:00Z,2,Izeaslav Levit,Izyaslav Elikovich Levit,Moldovan-American historian,Q203493,Q21197
+Q4256554,Q6581097,1922-04-17T00:00:00Z,2,Izeaslav Levit,Izyaslav Elikovich Levit,Moldovan-American historian,Q15180,Q21197
+Q4256554,Q6581097,1922-04-17T00:00:00Z,2,Izeaslav Levit,Izyaslav Elikovich Levit,Moldovan-American historian,Q30,Q21197
+Q4286061,Q6581072,1922-03-17T00:00:00Z,5,Yenta Mash,Yente Mash,Moldovan-born Israeli Yiddish author,Q801,Q2439578
+Q4286061,Q6581072,1922-03-17T00:00:00Z,5,Yenta Mash,Yente Mash,Moldovan-born Israeli Yiddish author,Q203493,Q2439578
+Q4286061,Q6581072,1922-03-17T00:00:00Z,5,Yenta Mash,Yente Mash,Moldovan-born Israeli Yiddish author,Q15180,Q2439578
+Q4290681,Q6581097,1918-05-20T00:00:00Z,6,George Meniuc,George Meniuc,Moldovan writer (1918-1987),Q15180,Q21197
+Q4290681,Q6581097,1918-05-20T00:00:00Z,6,George Meniuc,George Meniuc,Moldovan writer (1918-1987),Q203493,Q21197
+Q435805,Q6581072,1934-11-05T00:00:00Z,55,Kira Muratova,Kira Muratova,"Soviet and Ukrainian film director, screenwriter, film actress (1934–2018)",Q15180,Q853785
+Q435805,Q6581072,1934-11-05T00:00:00Z,55,Kira Muratova,Kira Muratova,"Soviet and Ukrainian film director, screenwriter, film actress (1934–2018)",Q203493,Q853785
+Q435805,Q6581072,1934-11-05T00:00:00Z,55,Kira Muratova,Kira Muratova,"Soviet and Ukrainian film director, screenwriter, film actress (1934–2018)",Q212,Q853785
+Q4373161,Q6581097,1936-06-11T00:00:00Z,5,Oleksiy Ivanovich Poroshenko,Oleksii Poroshenko,Ukrainian entrepreneur and politician (1936-2020),Q203493,Q1981858
+Q4373161,Q6581097,1936-06-11T00:00:00Z,5,Oleksiy Ivanovich Poroshenko,Oleksii Poroshenko,Ukrainian entrepreneur and politician (1936-2020),Q212,Q1981858
+Q4373161,Q6581097,1936-06-11T00:00:00Z,5,Oleksiy Ivanovich Poroshenko,Oleksii Poroshenko,Ukrainian entrepreneur and politician (1936-2020),Q15180,Q1981858
+Q4397003,Q6581097,1913-10-07T00:00:00Z,9,Valter Roman,Valter Roman,Romanian politician (1913-1983),Q203493,Q93358
+Q4397003,Q6581097,1913-10-07T00:00:00Z,9,Valter Roman,Valter Roman,Romanian politician (1913-1983),Q842794,Q93358
+Q4397003,Q6581097,1913-10-07T00:00:00Z,9,Valter Roman,Valter Roman,Romanian politician (1913-1983),Q28513,Q93358
+Q4397003,Q6581097,1913-10-07T00:00:00Z,9,Valter Roman,Valter Roman,Romanian politician (1913-1983),Q2685298,Q93358
+Q4450651,Q6581072,1912-08-08T00:00:00Z,9,Sidi Tal,Sidi Tal,Soviet singer (1912-1983),Q15180,Q157725
+Q4450651,Q6581072,1912-08-08T00:00:00Z,9,Sidi Tal,Sidi Tal,Soviet singer (1912-1983),Q28513,Q157725
+Q4450651,Q6581072,1912-08-08T00:00:00Z,9,Sidi Tal,Sidi Tal,Soviet singer (1912-1983),Q203493,Q157725
+Q4456468,Q6581097,1927-08-01T00:00:00Z,7,Nicolae Testemițanu,Nicolae Testemițanu,Moldovan physician and politician (1927–1986),Q203493,Q2439621
+Q4456468,Q6581097,1927-08-01T00:00:00Z,7,Nicolae Testemițanu,Nicolae Testemițanu,Moldovan physician and politician (1927–1986),Q15180,Q2439621
+Q446658,Q6581072,1919-01-25T00:00:00Z,15,Dina Vierny,Dina Vierny,Besarabia-born French model and muse,Q203493,Q21197
+Q446658,Q6581072,1919-01-25T00:00:00Z,15,Dina Vierny,Dina Vierny,Besarabia-born French model and muse,Q142,Q21197
+Q4484005,Q6581097,1926-03-03T00:00:00Z,9,Nicolae Filip,Nicolae Filip,physicist (1926–2009),Q217,Q2439075
+Q4484005,Q6581097,1926-03-03T00:00:00Z,9,Nicolae Filip,Nicolae Filip,physicist (1926–2009),Q15180,Q2439075
+Q4484005,Q6581097,1926-03-03T00:00:00Z,9,Nicolae Filip,Nicolae Filip,physicist (1926–2009),Q203493,Q2439075
+Q4507244,Q6581097,1930-02-24T00:00:00Z,17,Hryhorii Chapkis,Grigoriy Chapkis,Ukrainian soviet & Ukrainian dancer & choreographer,Q212,Q21197
+Q4507244,Q6581097,1930-02-24T00:00:00Z,17,Hryhorii Chapkis,Grigoriy Chapkis,Ukrainian soviet & Ukrainian dancer & choreographer,Q203493,Q21197
+Q4507244,Q6581097,1930-02-24T00:00:00Z,17,Hryhorii Chapkis,Grigoriy Chapkis,Ukrainian soviet & Ukrainian dancer & choreographer,Q15180,Q21197
+Q457290,Q6581097,1935-07-18T00:00:00Z,12,Ioan Holender,Ioan Holender,Austrian opera administrator,Q40,Q83404
+Q457290,Q6581097,1935-07-18T00:00:00Z,12,Ioan Holender,Ioan Holender,Austrian opera administrator,Q218,Q83404
+Q457290,Q6581097,1935-07-18T00:00:00Z,12,Ioan Holender,Ioan Holender,Austrian opera administrator,Q203493,Q83404
+Q460839,Q6581072,1929-05-30T00:00:00Z,18,Doina Cornea,Doina Cornea,Romanian academic and activist (1929–2018),Q218,Q82174
+Q460839,Q6581072,1929-05-30T00:00:00Z,18,Doina Cornea,Doina Cornea,Romanian academic and activist (1929–2018),Q203493,Q82174
+Q4685505,Q6581097,1903-02-22T00:00:00Z,7,Tudor Mușatescu,Tudor Mușatescu,Romanian writer (1903–1970),Q203493,Q736296
+Q4685505,Q6581097,1903-02-22T00:00:00Z,7,Tudor Mușatescu,Tudor Mușatescu,Romanian writer (1903–1970),Q842794,Q736296
+Q4685505,Q6581097,1903-02-22T00:00:00Z,7,Tudor Mușatescu,Tudor Mușatescu,Romanian writer (1903–1970),Q2685298,Q736296
+Q4948961,Q6581072,1924-06-15T00:00:00Z,16,Hédi Fried,Hédi Fried,Swedish writer; survivor of the Holocaust,Q28,Q334874
+Q4948961,Q6581072,1924-06-15T00:00:00Z,16,Hédi Fried,Hédi Fried,Swedish writer; survivor of the Holocaust,Q203493,Q334874
+Q4948961,Q6581072,1924-06-15T00:00:00Z,16,Hédi Fried,Hédi Fried,Swedish writer; survivor of the Holocaust,Q34,Q334874
+Q4948961,Q6581072,1924-06-15T00:00:00Z,16,Hédi Fried,Hédi Fried,Swedish writer; survivor of the Holocaust,Q218,Q334874
+Q5026527,Q6581097,1927-04-20T00:00:00Z,4,Camil Mureșanu,Camil Mureșanu,Romanian academic,Q203493,Q209809
+Q5026527,Q6581097,1927-04-20T00:00:00Z,4,Camil Mureșanu,Camil Mureșanu,Romanian academic,Q218,Q209809
+Q504652,Q6581097,1909-03-24T00:00:00Z,25,Richard Wurmbrand,Richard Wurmbrand,Romanian Christian minister of Jewish descent (1909-2001),Q203493,Q19660
+Q51078527,Q6581072,1920-07-23T00:00:00Z,3,Adriana Georgescu-Cosmovici,Adriana Georgescu-Cosmovici,Romanian memorialist,Q145,Q19660
+Q51078527,Q6581072,1920-07-23T00:00:00Z,3,Adriana Georgescu-Cosmovici,Adriana Georgescu-Cosmovici,Romanian memorialist,Q174193,Q19660
+Q51078527,Q6581072,1920-07-23T00:00:00Z,3,Adriana Georgescu-Cosmovici,Adriana Georgescu-Cosmovici,Romanian memorialist,Q203493,Q19660
+Q513752,Q6581097,1937-01-22T00:00:00Z,7,Alexandru Mesian,Alexandru Mesian,Romanian bishop (1937–2023),Q218,Q12723512
+Q513752,Q6581097,1937-01-22T00:00:00Z,7,Alexandru Mesian,Alexandru Mesian,Romanian bishop (1937–2023),Q203493,Q12723512
+Q529045,Q6581097,1903-08-05T00:00:00Z,28,Prince Nicholas of Romania,Prince Nicolae of Romania,"Romanian Royal (1903–1978), prince regent of Romania from 1927 to 1930",Q203493,Q213296
+Q545497,Q6581097,1921-04-18T00:00:00Z,9,Nykodym Rusnak,Nicodemus,Ukrainian Orthodox metropolitan bishop of Kharkiv and Bohodukhiv (1921–2011),Q15180,Q4153902
+Q545497,Q6581097,1921-04-18T00:00:00Z,9,Nykodym Rusnak,Nicodemus,Ukrainian Orthodox metropolitan bishop of Kharkiv and Bohodukhiv (1921–2011),Q212,Q4153902
+Q545497,Q6581097,1921-04-18T00:00:00Z,9,Nykodym Rusnak,Nicodemus,Ukrainian Orthodox metropolitan bishop of Kharkiv and Bohodukhiv (1921–2011),Q203493,Q4153902
+Q5556386,Q6581097,1902-11-09T00:00:00Z,7,Gheorghe Pintilie,Gheorghe Pintilie,Russian-born Romanian communist activist and intelligence officer,Q2305208,Q132572
+Q5556386,Q6581097,1902-11-09T00:00:00Z,7,Gheorghe Pintilie,Gheorghe Pintilie,Russian-born Romanian communist activist and intelligence officer,Q34266,Q132572
+Q5556386,Q6581097,1902-11-09T00:00:00Z,7,Gheorghe Pintilie,Gheorghe Pintilie,Russian-born Romanian communist activist and intelligence officer,Q203493,Q132572
+Q5556386,Q6581097,1902-11-09T00:00:00Z,7,Gheorghe Pintilie,Gheorghe Pintilie,Russian-born Romanian communist activist and intelligence officer,Q15180,Q132572
+Q5556386,Q6581097,1902-11-09T00:00:00Z,7,Gheorghe Pintilie,Gheorghe Pintilie,Russian-born Romanian communist activist and intelligence officer,Q2685298,Q132572
+Q5556386,Q6581097,1902-11-09T00:00:00Z,7,Gheorghe Pintilie,Gheorghe Pintilie,Russian-born Romanian communist activist and intelligence officer,Q139319,Q132572
+Q5556386,Q6581097,1902-11-09T00:00:00Z,7,Gheorghe Pintilie,Gheorghe Pintilie,Russian-born Romanian communist activist and intelligence officer,Q842794,Q132572
+Q573921,Q6581097,1928-08-23T00:00:00Z,11,Israel Gohberg,Israel Gohberg,Russian mathematician (1928-2009),Q15180,Q2037768
+Q573921,Q6581097,1928-08-23T00:00:00Z,11,Israel Gohberg,Israel Gohberg,Russian mathematician (1928-2009),Q801,Q2037768
+Q573921,Q6581097,1928-08-23T00:00:00Z,11,Israel Gohberg,Israel Gohberg,Russian mathematician (1928-2009),Q203493,Q2037768
+Q579173,Q6581097,1911-11-19T00:00:00Z,7,Ioan Ploscaru,Ioan Ploscaru,Romanian archbishop (1911-1998),Q203493,Q12724772
+Q579173,Q6581097,1911-11-19T00:00:00Z,7,Ioan Ploscaru,Ioan Ploscaru,Romanian archbishop (1911-1998),Q218,Q12724772
+Q579173,Q6581097,1911-11-19T00:00:00Z,7,Ioan Ploscaru,Ioan Ploscaru,Romanian archbishop (1911-1998),Q28513,Q12724772
+Q6042326,Q6581097,1914-08-09T00:00:00Z,4,Alexandru Mandy,Alexandru Mandy,Romanian composer,Q203493,Q168057
+Q6042326,Q6581097,1914-08-09T00:00:00Z,4,Alexandru Mandy,Alexandru Mandy,Romanian composer,Q218,Q168057
+Q61748039,Q6581072,1919-02-19T00:00:00Z,3,Sanda Stolojan,Sanda Stolojan,Romanian poet and essayist (1919–2005),Q203493,Q19660
+Q61748039,Q6581072,1919-02-19T00:00:00Z,3,Sanda Stolojan,Sanda Stolojan,Romanian poet and essayist (1919–2005),Q2685298,Q19660
+Q61748039,Q6581072,1919-02-19T00:00:00Z,3,Sanda Stolojan,Sanda Stolojan,Romanian poet and essayist (1919–2005),Q142,Q19660
+Q630256,Q6581097,1921-11-29T00:00:00Z,6,Arkady Gendler,Arkady Gendler,Yiddish singer-songwriter,Q212,Q853785
+Q630256,Q6581097,1921-11-29T00:00:00Z,6,Arkady Gendler,Arkady Gendler,Yiddish singer-songwriter,Q15180,Q853785
+Q630256,Q6581097,1921-11-29T00:00:00Z,6,Arkady Gendler,Arkady Gendler,Yiddish singer-songwriter,Q203493,Q853785
+Q672846,Q6581097,1916-08-31T00:00:00Z,19,Neagu Djuvara,Neagu Djuvara,Romanian historian,Q142,Q19660
+Q672846,Q6581097,1916-08-31T00:00:00Z,19,Neagu Djuvara,Neagu Djuvara,Romanian historian,Q218,Q19660
+Q672846,Q6581097,1916-08-31T00:00:00Z,19,Neagu Djuvara,Neagu Djuvara,Romanian historian,Q203493,Q19660
+Q673162,Q6581097,1912-06-05T00:00:00Z,21,Alexandru Todea,Alexandru Todea,Greece-Catholic cardinal (1912-2002),Q28513,Q839583
+Q673162,Q6581097,1912-06-05T00:00:00Z,21,Alexandru Todea,Alexandru Todea,Greece-Catholic cardinal (1912-2002),Q203493,Q839583
+Q673162,Q6581097,1912-06-05T00:00:00Z,21,Alexandru Todea,Alexandru Todea,Greece-Catholic cardinal (1912-2002),Q218,Q839583
+Q6816376,Q6581097,1923-01-01T00:00:00Z,9,Menachem Mendel Taub,Menachem Mendel Taub,Hasidic rebbe,Q801,Q750222
+Q6816376,Q6581097,1923-01-01T00:00:00Z,9,Menachem Mendel Taub,Menachem Mendel Taub,Hasidic rebbe,Q28,Q750222
+Q6816376,Q6581097,1923-01-01T00:00:00Z,9,Menachem Mendel Taub,Menachem Mendel Taub,Hasidic rebbe,Q218,Q750222
+Q6816376,Q6581097,1923-01-01T00:00:00Z,9,Menachem Mendel Taub,Menachem Mendel Taub,Hasidic rebbe,Q203493,Q750222
+Q6849602,Q6581097,1931-05-04T00:00:00Z,4,Mikhail Makarenko,Mikhail Makarenko,Soviet dissident (1931-2007),Q203493,Q170996
+Q6849602,Q6581097,1931-05-04T00:00:00Z,4,Mikhail Makarenko,Mikhail Makarenko,Soviet dissident (1931-2007),Q30,Q170996
+Q6849602,Q6581097,1931-05-04T00:00:00Z,4,Mikhail Makarenko,Mikhail Makarenko,Soviet dissident (1931-2007),Q15180,Q170996
+Q6916156,Q6581097,1921-01-01T00:00:00Z,8,Moshe Schnitzer,Moshe Schnitzer,Israeli businessman,Q801,Q157725
+Q6916156,Q6581097,1921-01-01T00:00:00Z,8,Moshe Schnitzer,Moshe Schnitzer,Israeli businessman,Q203493,Q157725
+Q70284021,Q6581072,1934-09-21T00:00:00Z,4,Maria Constantinescu (handballer),Maria Constantinescu,Romanian former handballer (1934-2026),Q218,Q1094277
+Q70284021,Q6581072,1934-09-21T00:00:00Z,4,Maria Constantinescu (handballer),Maria Constantinescu,Romanian former handballer (1934-2026),Q203493,Q1094277
+Q7029195,Q6581097,1934-02-01T00:00:00Z,6,Nicolae Breban,Nicolae Breban,Romanian writer,Q203493,Q218
+Q7029195,Q6581097,1934-02-01T00:00:00Z,6,Nicolae Breban,Nicolae Breban,Romanian writer,Q183,Q218
+Q7029195,Q6581097,1934-02-01T00:00:00Z,6,Nicolae Breban,Nicolae Breban,Romanian writer,Q218,Q218
+Q717311,Q6581097,1911-02-21T00:00:00Z,17,Szilárd Bogdánffy,Szilárd Bogdánffy,Roman Catholic bishop (1911-1953),Q171150,Q998732
+Q717311,Q6581097,1911-02-21T00:00:00Z,17,Szilárd Bogdánffy,Szilárd Bogdánffy,Roman Catholic bishop (1911-1953),Q203493,Q998732
+Q7293779,Q6581097,1912-09-04T00:00:00Z,5,Raoul Șorban,Raoul Șorban,Romanian writer (1912-2006),Q28513,Q273801
+Q7293779,Q6581097,1912-09-04T00:00:00Z,5,Raoul Șorban,Raoul Șorban,Romanian writer (1912-2006),Q203493,Q273801
+Q7293779,Q6581097,1912-09-04T00:00:00Z,5,Raoul Șorban,Raoul Șorban,Romanian writer (1912-2006),Q218,Q273801
+Q7373293,Q6581097,1925-09-16T00:00:00Z,4,Roy Redgrave (British Army officer),Roy Redgrave,British Army officer (1925-2011),Q145,Q19660
+Q7373293,Q6581097,1925-09-16T00:00:00Z,4,Roy Redgrave (British Army officer),Roy Redgrave,British Army officer (1925-2011),Q203493,Q19660
+Q744393,Q6581097,1932-06-17T00:00:00Z,11,Sabin Bălașa,Sabin Bălașa,Romanian artist (1932-2008),Q842794,Q12101588
+Q744393,Q6581097,1932-06-17T00:00:00Z,11,Sabin Bălașa,Sabin Bălașa,Romanian artist (1932-2008),Q203493,Q12101588
+Q744393,Q6581097,1932-06-17T00:00:00Z,11,Sabin Bălașa,Sabin Bălașa,Romanian artist (1932-2008),Q218,Q12101588
+Q754063,Q6581072,1938-10-16T00:00:00Z,14,Veronica Lazăr,Veronica Lazăr,Italian actress (1938-2014),Q38,Q19660
+Q754063,Q6581072,1938-10-16T00:00:00Z,14,Veronica Lazăr,Veronica Lazăr,Italian actress (1938-2014),Q203493,Q19660
+Q754063,Q6581072,1938-10-16T00:00:00Z,14,Veronica Lazăr,Veronica Lazăr,Italian actress (1938-2014),Q172579,Q19660
+Q7680838,Q6581072,1919-07-18T00:00:00Z,11,Tamara Tchinarova,Tamara Tchinarova,French and Australian ballet dancer (1919–2017),Q203493,Q672990
+Q7680838,Q6581072,1919-07-18T00:00:00Z,11,Tamara Tchinarova,Tamara Tchinarova,French and Australian ballet dancer (1919–2017),Q142,Q672990
+Q7680838,Q6581072,1919-07-18T00:00:00Z,11,Tamara Tchinarova,Tamara Tchinarova,French and Australian ballet dancer (1919–2017),Q408,Q672990
+Q7916651,Q6581097,1926-01-20T00:00:00Z,2,Vasile Vasilenco,Vasile Vasilenco,Moldovan writer (1926–1977),Q203493,Q736305
+Q7916651,Q6581097,1926-01-20T00:00:00Z,2,Vasile Vasilenco,Vasile Vasilenco,Moldovan writer (1926–1977),Q15180,Q736305
+Q7926255,Q6581097,1943-07-18T00:00:00Z,3,Victor Pușcaș,Victor Pușcaș,Moldovan politician,Q217,Q2391935
+Q7926255,Q6581097,1943-07-18T00:00:00Z,3,Victor Pușcaș,Victor Pușcaș,Moldovan politician,Q15180,Q2391935
+Q7926255,Q6581097,1943-07-18T00:00:00Z,3,Victor Pușcaș,Victor Pușcaș,Moldovan politician,Q203493,Q2391935
+Q7926473,Q6581097,1924-01-01T00:00:00Z,2,Victor Zâmbrea,Victor Zâmbrea,Romanian activist (1924-2000),Q15180,Q890311
+Q7926473,Q6581097,1924-01-01T00:00:00Z,2,Victor Zâmbrea,Victor Zâmbrea,Romanian activist (1924-2000),Q203493,Q890311
+Q7926473,Q6581097,1924-01-01T00:00:00Z,2,Victor Zâmbrea,Victor Zâmbrea,Romanian activist (1924-2000),Q217,Q890311
+Q80212098,Q6581097,1937-08-11T00:00:00Z,5,Lazăr Baroga,Lazăr Baroga,Romanian weightlifter,Q203493,Q837173
+Q80212098,Q6581097,1937-08-11T00:00:00Z,5,Lazăr Baroga,Lazăr Baroga,Romanian weightlifter,Q2685298,Q837173
+Q80212098,Q6581097,1937-08-11T00:00:00Z,5,Lazăr Baroga,Lazăr Baroga,Romanian weightlifter,Q842794,Q837173
+Q80212098,Q6581097,1937-08-11T00:00:00Z,5,Lazăr Baroga,Lazăr Baroga,Romanian weightlifter,Q218,Q837173
+Q80504,Q6581097,1918-01-26T00:00:00Z,119,Nicolae Ceaușescu,Nicolae Ceaușescu,dictator of Romania from 1965 to 1989,Q2685298,Q584825
+Q80504,Q6581097,1918-01-26T00:00:00Z,119,Nicolae Ceaușescu,Nicolae Ceaușescu,dictator of Romania from 1965 to 1989,Q203493,Q584825
+Q80504,Q6581097,1918-01-26T00:00:00Z,119,Nicolae Ceaușescu,Nicolae Ceaușescu,dictator of Romania from 1965 to 1989,Q842794,Q584825
+Q8051413,Q6581097,1912-01-01T00:00:00Z,4,Yekusiel Yehuda Teitelbaum (II),Yekusiel Yehuda Teitelbaum,Hungarian rabbi,Q203493,Q334874
+Q8051413,Q6581097,1908-01-01T00:00:00Z,4,Yekusiel Yehuda Teitelbaum (II),Yekusiel Yehuda Teitelbaum,Hungarian rabbi,Q243652,Q334874
+Q8051413,Q6581097,1908-01-01T00:00:00Z,4,Yekusiel Yehuda Teitelbaum (II),Yekusiel Yehuda Teitelbaum,Hungarian rabbi,Q203493,Q334874
+Q8051413,Q6581097,1912-01-01T00:00:00Z,4,Yekusiel Yehuda Teitelbaum (II),Yekusiel Yehuda Teitelbaum,Hungarian rabbi,Q243652,Q334874
+Q8051413,Q6581097,1908-01-01T00:00:00Z,4,Yekusiel Yehuda Teitelbaum (II),Yekusiel Yehuda Teitelbaum,Hungarian rabbi,Q28513,Q334874
+Q8051413,Q6581097,1911-01-01T00:00:00Z,4,Yekusiel Yehuda Teitelbaum (II),Yekusiel Yehuda Teitelbaum,Hungarian rabbi,Q243652,Q334874
+Q8051413,Q6581097,1911-01-01T00:00:00Z,4,Yekusiel Yehuda Teitelbaum (II),Yekusiel Yehuda Teitelbaum,Hungarian rabbi,Q28513,Q334874
+Q8051413,Q6581097,1912-01-01T00:00:00Z,4,Yekusiel Yehuda Teitelbaum (II),Yekusiel Yehuda Teitelbaum,Hungarian rabbi,Q28513,Q334874
+Q8051413,Q6581097,1911-01-01T00:00:00Z,4,Yekusiel Yehuda Teitelbaum (II),Yekusiel Yehuda Teitelbaum,Hungarian rabbi,Q203493,Q334874
+Q8051413,Q6581097,1912-01-01T00:00:00Z,4,Yekusiel Yehuda Teitelbaum (II),Yekusiel Yehuda Teitelbaum,Hungarian rabbi,Q600018,Q334874
+Q8051413,Q6581097,1908-01-01T00:00:00Z,4,Yekusiel Yehuda Teitelbaum (II),Yekusiel Yehuda Teitelbaum,Hungarian rabbi,Q600018,Q334874
+Q8051413,Q6581097,1911-01-01T00:00:00Z,4,Yekusiel Yehuda Teitelbaum (II),Yekusiel Yehuda Teitelbaum,Hungarian rabbi,Q600018,Q334874
+Q830786,Q6581097,1937-05-09T00:00:00Z,6,Ionel Haiduc,Ionel Haiduc,Romanian chemist,Q218,Q100188
+Q830786,Q6581097,1937-05-09T00:00:00Z,6,Ionel Haiduc,Ionel Haiduc,Romanian chemist,Q203493,Q100188
+Q84520,Q6581097,1912-05-31T00:00:00Z,10,Josef Burg (writer),Josef Burg,Ukrainian Jewish writer (1912-2009),Q203493,Q149118
+Q84520,Q6581097,1912-05-31T00:00:00Z,10,Josef Burg (writer),Josef Burg,Ukrainian Jewish writer (1912-2009),Q15180,Q149118
+Q84520,Q6581097,1912-05-31T00:00:00Z,10,Josef Burg (writer),Josef Burg,Ukrainian Jewish writer (1912-2009),Q28513,Q149118
+Q84520,Q6581097,1912-05-31T00:00:00Z,10,Josef Burg (writer),Josef Burg,Ukrainian Jewish writer (1912-2009),Q212,Q149118
+Q869137,Q6581097,1914-05-20T00:00:00Z,15,Corneliu Coposu,Corneliu Coposu,Romanian politician (1914–1995),Q218,Q1081295
+Q869137,Q6581097,1914-05-20T00:00:00Z,15,Corneliu Coposu,Corneliu Coposu,Romanian politician (1914–1995),Q203493,Q1081295
+Q869137,Q6581097,1914-05-20T00:00:00Z,15,Corneliu Coposu,Corneliu Coposu,Romanian politician (1914–1995),Q842794,Q1081295
+Q869137,Q6581097,1914-05-20T00:00:00Z,15,Corneliu Coposu,Corneliu Coposu,Romanian politician (1914–1995),Q2685298,Q1081295
+Q869137,Q6581097,1914-05-20T00:00:00Z,15,Corneliu Coposu,Corneliu Coposu,Romanian politician (1914–1995),Q28513,Q1081295
+Q9057126,Q6581097,1907-09-03T00:00:00Z,6,Pavel Dan,Pavel Dan,Romanian writer (1907-1937),Q203493,Q4334645
+Q9057126,Q6581097,1907-09-03T00:00:00Z,6,Pavel Dan,Pavel Dan,Romanian writer (1907-1937),Q28513,Q4334645
+Q930013,Q6581097,1921-10-25T00:00:00Z,66,Michael I of Romania,Michael I of Romania,"last king of Romania (r. 1927–1930, 1940–1947)",Q39,Q18538722
+Q930013,Q6581097,1921-10-25T00:00:00Z,66,Michael I of Romania,Michael I of Romania,"last king of Romania (r. 1927–1930, 1940–1947)",Q218,Q18538722
+Q930013,Q6581097,1921-10-25T00:00:00Z,66,Michael I of Romania,Michael I of Romania,"last king of Romania (r. 1927–1930, 1940–1947)",Q145,Q18538722
+Q930013,Q6581097,1921-10-25T00:00:00Z,66,Michael I of Romania,Michael I of Romania,"last king of Romania (r. 1927–1930, 1940–1947)",Q203493,Q18538722
+Q99802,Q6581097,1919-03-24T00:00:00Z,10,Stefan Baretzki,Stefan Baretzki,SS guard at Auschwitz of Romanian Volksdeutsche origin (1919–1988),Q203493,Q157725
+Q99802,Q6581097,1919-03-24T00:00:00Z,10,Stefan Baretzki,Stefan Baretzki,SS guard at Auschwitz of Romanian Volksdeutsche origin (1919–1988),Q7318,Q157725
+Q99802,Q6581097,1919-03-24T00:00:00Z,10,Stefan Baretzki,Stefan Baretzki,SS guard at Auschwitz of Romanian Volksdeutsche origin (1919–1988),Q713750,Q157725

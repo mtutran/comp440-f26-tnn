@@ -1,0 +1,735 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q1016653,Q6581072,1982-05-28T00:00:00Z,14,Ochirbatyn Burmaa,Ochirbatyn Burmaa,Olympic wrestler,Q711,Q23430
+Q1018453,Q6581097,1952-11-13T00:00:00Z,10,Byambasuren Sharav,Byambasuren Sharav,Composer and musician (1952–2019),Q711,Q1025038
+Q10264313,Q6581097,1969-01-13T00:00:00Z,2,Dashdendeviin Makhashiri,Dashdendev Makhashiri,Mongolian discus thrower,Q711,
+Q104012895,Q6581097,2001-03-07T00:00:00Z,2,Dewanoryū Kazuki,Dewanoryū Kazuki,Mongolian sumo wrestler,Q711,Q23430
+Q104028140,Q6581072,1991-06-05T00:00:00Z,5,Dulguun Odkhuu,Dulguun Odkhuu,Mongolian actress,Q711,Q23430
+Q105061779,Q6581072,1941-07-17T00:00:00Z,2,Gerel Ochir,Gerel Ochir,Mongolian geologist,Q711,Q649
+Q10551990,Q6581097,1976-02-23T00:00:00Z,2,Jargalsaikhan Munkhbayar,Jargalsaikhan Munkhbayar,Mongolian footballer,Q711,Q711
+Q105528187,Q6581097,1932-01-01T00:00:00Z,3,Molom Tsend,Molom Tsend,Mongolian statesman and economist (1932–2020),Q711,
+Q10554131,Q6581097,1991-04-12T00:00:00Z,3,Bilgüün Ganbold,Ganbold Bilguun,footballer,Q711,Q711
+Q10554131,Q6581097,1983-04-02T00:00:00Z,3,Bilgüün Ganbold,Ganbold Bilguun,footballer,Q711,Q711
+Q10554134,Q6581097,1991-07-28T00:00:00Z,6,Batmönkhiin Erkhembayar,Batmunkh Erkhembayar,footballer,Q711,Q711
+Q106407586,Q6581072,1929-01-15T00:00:00Z,1,Ganginchugin Hulgana,Ganginchugin Hulgana,Mongolian chess player,Q711,
+Q106448492,Q6581097,1977-01-01T00:00:00Z,5,Batzorig Vaanchig,Batzorig Vaanchig,Mongolian traditional throat singer,Q711,
+Q106619882,Q6581097,1989-07-04T00:00:00Z,3,Danaa Batgerel,Danaa Batgerel,Mongolian mixed martial arts (MMA) fighter,Q711,Q3402197
+Q106622697,Q6581072,1987-01-01T00:00:00Z,3,Gennie,Gennie,Female rapper from Mongolia,Q711,
+Q106811657,Q6581072,1996-05-03T00:00:00Z,8,Khürelkhüügiin Bolortuyaa,Khürelkhüügiin Bolortuyaa,Mongolian freestyle wrestler,Q711,Q230628
+Q107000988,Q6581097,1968-07-04T00:00:00Z,4,Gürsediin Saikhanbayar,Gürsediin Saikhanbayar,Mongolian Minister of Defense,Q711,Q23430
+Q107622135,Q6581097,1996-12-20T00:00:00Z,10,Baatarkhuyagiin Otgonbold,Otgonbold Baatarkhuyag,Mongolian archer,Q711,
+Q107636152,Q6581072,1993-01-29T00:00:00Z,9,Enkhtaivany Chimeddolgor,Enkhtaivany Chimeddolgor,Mongolian basketball player (born 1993),Q711,Q711
+Q107636163,Q6581072,1996-03-13T00:00:00Z,11,Mönkhsaikhany Tserenlkham,Mönkhsaikhany Tserenlkham,Mongolian basketball player (born 1996),Q711,Q711
+Q107636176,Q6581072,1990-02-06T00:00:00Z,10,Bayasgalangiin Solongo,Bayasgalangiin Solongo,Mongolian basketball player,Q711,Q23430
+Q107636183,Q6581072,1999-07-27T00:00:00Z,11,Onolbaataryn Khulan,Onolbaataryn Khulan,Mongolian basketball player (born 1999),Q711,Q23430
+Q107670236,Q6581072,1973-12-09T00:00:00Z,9,Battsetseg Batmunkh,Batmunkh Battsetseg,Mongolian politician,Q711,Q276200
+Q107701040,Q6581072,2001-05-27T00:00:00Z,9,Boldsaikhan Khongorzul,Boldsaikhany Khongorzul,Mongolian freestyle wrestler,Q711,Q804117
+Q107720854,Q6581072,2002-11-12T00:00:00Z,2,Batmönkhiin Bolor-Erdene,Batmönkhiin Bolor-Erdene,Mongolian table tennis player,Q711,Q23430
+Q107723800,Q6581072,2001-12-14T00:00:00Z,3,Batbayaryn Enkhkhüslen,Batbayaryn Enkhkhüslen,Mongolian swimmer,Q711,Q23430
+Q107916878,Q6581097,1998-01-01T00:00:00Z,10,Mönkhtöriin Lkhagvagerel,Mönkhtöriin Lkhagvagerel,Mongolian wrestler,Q711,Q23430
+Q108404060,Q6581072,1961-01-01T00:00:00Z,4,Togszhargalyn Gandi,Togszhargalyn Gandi,Mongolian diplomat,Q711,Q23430
+Q108404060,Q6581072,1963-01-01T00:00:00Z,4,Togszhargalyn Gandi,Togszhargalyn Gandi,Mongolian diplomat,Q711,Q23430
+Q108829653,Q6581072,2001-10-02T00:00:00Z,10,Dolgorjavyn Otgonjargal,Dolgorjavyn Otgonjargal,Mongolian freestyle wrestler,Q711,Q23430
+Q109320664,Q6581072,1995-01-21T00:00:00Z,4,Ganbaataryn Narantsetseg,Narantsetseg Ganbaatar,Mongolian judoka,Q711,
+Q109408672,Q6581097,2006-12-11T00:00:00Z,3,Amilal Munkhdalai,Amilal Munkhdalai,Mongolian chess player,Q711,
+Q109422588,Q6581072,2005-01-07T00:00:00Z,4,Bat-Erdene Mungunzul,Bat-Erdene Mungunzul,Mongolian chess player,Q711,
+Q10943912,Q6581072,1962-11-17T00:00:00Z,6,Naren Hua,Na Renhua,Chinese film and television actress,Q711,Q573124
+Q110167787,Q6581072,1975-01-01T00:00:00Z,3,Nyamjav Urtnasan,Nyamjav Urtnasan,Mongolian politician,Q711,
+Q110168680,Q6581097,1973-01-01T00:00:00Z,4,Amarsaikhan Sainbuyan,Sainbuyan Amarsaikhan,Deputy Prime Minister of Mongolia,Q711,
+Q110403608,Q6581097,1997-04-09T00:00:00Z,4,Ōshōma Degi,Oshoma Degi,Japanese sumo wrestler,Q711,Q276195
+Q110442382,Q6581097,1986-07-23T00:00:00Z,1,Battushig Batbold,Battushig Batbold,Mongolian businessman and member of the IOC,Q711,
+Q11048642,Q6581097,1972-04-12T00:00:00Z,6,Bayanmönkhiin Gantogtokh,Bayanmönkhiin Gantogtokh,Mongolian wrestler,Q711,Q23430
+Q111011415,Q6581072,2000-03-26T00:00:00Z,7,Amarsaikhany Adiyaasüren,Amarsaikhany Adiyaasüren,Mongolian judoka,Q711,
+Q111011627,Q6581072,1999-11-26T00:00:00Z,22,Bavuudorjiin Baasankhüü,Bavuudorjiin Baasankhüü,Mongolian judoka,Q711,Q572951
+Q11111060,Q6581097,1900-01-01T00:00:00Z,6,Gelegdorjiin Demid,Gelegdorjiin Demid,Mongolian Army marshal,Q711,Q2089519
+Q11256195,Q6581072,1967-01-01T00:00:00Z,3,Ariunaa,Ariunaa,Mongolian pop singer (b. 1967),Q711,Q23430
+Q112913532,Q6581072,1991-05-08T00:00:00Z,3,Enji (singer),Enji,Mongolian jazz singer and songwriter,Q711,Q23430
+Q11292472,Q6581072,1975-11-10T00:00:00Z,6,Oyunaa,Oyunaa,Mongol singer,Q711,Q23430
+Q113027310,Q6581097,1977-01-01T00:00:00Z,5,Togmidyn Dorjkhand,Togmidyn Dorjkhand,"Mongolian politician, leader of an opposition party",Q711,Q23430
+Q113115631,Q6581097,2015-01-01T00:00:00Z,8,10th Jebtsundamba Khutuktu,10th Jebtsundamba Khutughtu,Buddhist leader,Q30,Q61
+Q113115631,Q6581097,2015-01-01T00:00:00Z,8,10th Jebtsundamba Khutuktu,10th Jebtsundamba Khutughtu,Buddhist leader,Q711,Q61
+Q11327873,Q6581097,1989-07-10T00:00:00Z,11,Battulgyn Temüülen,Battulgyn Temüülen,Mongol judoka,Q711,Q23430
+Q113566768,Q6581097,1999-03-02T00:00:00Z,5,Rōga Tokiyoshi,Rōga Tokiyoshi,Russian professional sumo wrestler,Q159,Q6049
+Q113566768,Q6581097,1999-03-02T00:00:00Z,5,Rōga Tokiyoshi,Rōga Tokiyoshi,Russian professional sumo wrestler,Q711,Q6049
+Q11361983,Q6581097,1946-05-20T00:00:00Z,7,Bakhvain Buyadaa,Bakhvain Buyadaa,Mongol mixed martial artist,Q711,
+Q11361983,Q6581097,1946-04-20T00:00:00Z,7,Bakhvain Buyadaa,Bakhvain Buyadaa,Mongol mixed martial artist,Q711,
+Q1147910,Q6581072,1972-11-28T00:00:00Z,6,Mungonzazal Janshindulam,Mungonzazal Janshindulam,pianist (1972-2007),Q711,Q23430
+Q11511849,Q6581097,1988-08-09T00:00:00Z,4,Kyokushūhō Kōki,Kyokushūhō Kōki,Mongolian sumo wrestler,Q711,Q23430
+Q115248156,Q6581097,1990-04-08T00:00:00Z,1,Davaasambuugiin Delgernyam,Delgernyam Davaasambuu,Mongolian basketball player (born 1990),Q711,
+Q115248161,Q6581097,1992-03-27T00:00:00Z,1,Dulguun Enkhbat,Enkhbat Dulguun,Mongolian basketball player (born 1992),Q711,
+Q115466564,Q6581072,1998-01-17T00:00:00Z,1,Twinpearly,Twinpearly,Mongolin singer-songwriter,Q711,Q23430
+Q115570798,Q6581072,2001-03-21T00:00:00Z,3,Oyuntsetsegiin Yesügen,Yesugen Oyuntsetseg,Mongolian boxer,Q711,Q23430
+Q115570798,Q6581072,2000-12-09T00:00:00Z,3,Oyuntsetsegiin Yesügen,Yesugen Oyuntsetseg,Mongolian boxer,Q711,Q23430
+Q11616189,Q6581097,1991-11-29T00:00:00Z,14,Terunofuji Haruo,Terunofuji Haruo,Mongolian sumo wrestler,Q17,Q23430
+Q11616189,Q6581097,1991-11-29T00:00:00Z,14,Terunofuji Haruo,Terunofuji Haruo,Mongolian sumo wrestler,Q711,Q23430
+Q11618883,Q6581097,1986-08-21T00:00:00Z,5,Arawashi Tsuyoshi,Tsuyoshi Arawashi,sumo wrestler,Q711,Q23430
+Q116256552,Q6581072,1977-01-01T00:00:00Z,3,Purev-Ochiryn Anujin,Purev-Ochiryn Anujin,Mongolian politician,Q711,Q23430
+Q11634736,Q6581097,1990-02-26T00:00:00Z,5,Takanoiwa Yoshimori,Takanoiwa Yoshimori,"sumo wrestler from Ulan-Bator, Mongolia",Q711,Q23430
+Q11651286,Q6581097,1988-02-09T00:00:00Z,4,Kagamiō Hideoki,Nanji Kagamiō,Japanese rikishi,Q711,Q23430
+Q11651286,Q6581097,1988-02-09T00:00:00Z,4,Kagamiō Hideoki,Nanji Kagamiō,Japanese rikishi,Q17,Q23430
+Q11693096,Q6581072,1964-07-29T00:00:00Z,2,Davaagiin Enkhee,Davaagiin Enkhee,Mongolian skier,Q711,Q192942
+Q11695923,Q6581097,1978-09-13T00:00:00Z,2,Jargalyn Erdenetülkhüür,Jargalyn Erdenetülkhüür,Mongolian cross-country skier,Q711,Q23430
+Q1171809,Q6581097,1906-11-17T00:00:00Z,21,Dashdorjiin Natsagdorj,Dashdorjiin Natsagdorj,Mongolian writer and poet (1906–1937),Q711,Q276195
+Q1171817,Q6581097,1942-06-20T00:00:00Z,12,Dashiin Byambasüren,Dashiin Byambasüren,Prime Minister of Mongolia from 1990 to 1992,Q711,Q3404134
+Q1171817,Q6581097,1942-07-20T00:00:00Z,12,Dashiin Byambasüren,Dashiin Byambasüren,Prime Minister of Mongolia from 1990 to 1992,Q711,Q3404134
+Q117459363,Q6581072,1976-01-01T00:00:00Z,8,Bolor Ganbold,Bolor Ganbold,Mongolian general (c. 1977-),Q711,Q23430
+Q11764369,Q6581097,1940-05-17T00:00:00Z,3,Luvsan-Ayuushiin Dashdemberel,Luwsan-Ajuuszijn Daszdemberel,Mongolian cross-country skier,Q711,Q234680
+Q11764370,Q6581097,1940-05-15T00:00:00Z,4,Luvsanlkhagvyn Dashnyam,Luvsanlkhagvyn Dashnyam,Mongol speed skater,Q711,Q945055
+Q11789442,Q6581097,1949-01-11T00:00:00Z,3,Namsrain Sandagdorj,Namsrajn Sandagdordż,Mongolian cross-country skier,Q711,
+Q11792571,Q6581097,1973-03-05T00:00:00Z,3,Nyamdondovyn Ganbold,Njamdondowyn Ganbold,Mongol speed skater,Q711,Q23430
+Q118106803,Q6581097,1997-04-17T00:00:00Z,1,Ariunboldyn Anand,Ariunboldyn Anand,Mongolian basketball player (born 1997),Q711,
+Q118106803,Q6581097,1997-04-14T00:00:00Z,1,Ariunboldyn Anand,Ariunboldyn Anand,Mongolian basketball player (born 1997),Q711,
+Q118903065,Q6581097,2002-08-27T00:00:00Z,2,Mike Sharavjamts,Mike Sharavjamts,Mongolian basketball player (born 2002),Q711,Q16556
+Q12018373,Q6581097,1953-08-24T00:00:00Z,5,Gombyn Khishigbaatar,Gombyn Khishigbaatar,Mongol amateur wrestler,Q711,
+Q12018373,Q6581097,1953-08-24T00:00:00Z,5,Gombyn Khishigbaatar,Gombyn Khishigbaatar,Mongol amateur wrestler,Q212056,
+Q12018373,Q6581097,1955-01-01T00:00:00Z,5,Gombyn Khishigbaatar,Gombyn Khishigbaatar,Mongol amateur wrestler,Q711,
+Q12018373,Q6581097,1955-01-01T00:00:00Z,5,Gombyn Khishigbaatar,Gombyn Khishigbaatar,Mongol amateur wrestler,Q212056,
+Q12040384,Q6581097,1955-06-08T00:00:00Z,6,Nanzadyn Büregdaa,Nandzadyn Bürgedaa,Mongol amateur wrestler,Q711,Q3404324
+Q122170726,Q6581097,2003-02-13T00:00:00Z,2,Filip Chinzorig,Filip Andersen,danish-Mongolian footballer (born 2003),Q711,Q1162621
+Q122170726,Q6581097,2003-02-13T00:00:00Z,2,Filip Chinzorig,Filip Andersen,danish-Mongolian footballer (born 2003),Q756617,Q1162621
+Q123284852,Q6581097,1959-01-01T00:00:00Z,3,Dangaasürengiin Enkhbat,Dangaasürengiin Enkhbat,Mongolian politician,Q711,Q213272
+Q123405245,Q6581097,1999-01-08T00:00:00Z,2,Asahakuryū Tarō,Asahakuryū Tarō,sumo wrestler,Q711,Q23430
+Q123416095,Q6581097,2005-01-19T00:00:00Z,3,Tuguldur Gantogtokh,Tuguldur Gantogtokh,Mongolian footballer (born 2005),Q711,
+Q1235524,Q6581072,1973-10-31T00:00:00Z,3,Dolgor Ser-Od,Dolgor Ser-Od,Mongolian painter,Q711,Q23430
+Q1235627,Q6581097,1945-03-08T00:00:00Z,5,Doljingiin Adiyaatömör,Doljingiin Adyaatömör,Olympic wrestler of Mongolia,Q711,
+Q123944499,Q6581072,1991-01-01T00:00:00Z,4,Zoljargal Purevdash,Zoljargal Purevdash,Mongolian film director,Q711,
+Q123944499,Q6581072,1990-01-01T00:00:00Z,4,Zoljargal Purevdash,Zoljargal Purevdash,Mongolian film director,Q711,
+Q125680170,Q6581097,1999-01-14T00:00:00Z,3,Batu Gendunov,Batu Gendunov,Russian and Mongolian professional ice hockey player,Q711,Q6576
+Q125680170,Q6581097,1999-01-14T00:00:00Z,3,Batu Gendunov,Batu Gendunov,Russian and Mongolian professional ice hockey player,Q159,Q6576
+Q126005677,Q6581097,2000-05-05T00:00:00Z,3,Ōnokatsu Kazuhiro,Ōnokatsu Kazuhiro,Mongolian sumo wrestler,Q711,Q192942
+Q126163331,Q6581097,2000-01-30T00:00:00Z,5,Lavjargalyn Ankhzayaa,Lavjargalyn Ankhzayaa,Mongolian judoka,Q711,
+Q1262021,Q6581097,1957-06-10T00:00:00Z,9,Janlavyn Narantsatsralt,Janlavyn Narantsatsralt,Prime Minister of Mongolia from 1998-12-09 to 1999-07-22,Q711,Q23430
+Q126333196,Q6581097,1967-08-07T00:00:00Z,4,Erdenebalsuren Damdin,Erdenebalsuren Damdin,Judge of the International Criminal Court,Q711,
+Q128840716,Q6581097,2000-04-04T00:00:00Z,2,Kyokukaiyū Ren,Ren Kyokukaiyū,Mongolian sumo wrestler,Q711,Q276200
+Q1296029,Q6581097,1940-10-25T00:00:00Z,6,Tserendorjiin Dagvadorj,Tserendorjiin Dagvadorj,Mongolian archer,Q711,
+Q131124067,Q6581072,1999-01-03T00:00:00Z,2,Munkhshur Narmandakh,Munkhshur Narmandakh,Mongolian memory athlete,Q711,Q23430
+Q131125144,Q6581072,1999-01-03T00:00:00Z,2,Enkhshur Narmandakh,Enkhshur Narmandakh,Mongolian memory athlete,Q711,Q23430
+Q131305963,Q6581097,1996-08-24T00:00:00Z,2,Gantömöriin Bayandüüren,Gantumur Bayanduuren,,Q711,Q23430
+Q1319488,Q6581097,1985-09-17T00:00:00Z,12,Bayasgalangiin Garidmagnai,Bayasgalangiin Garidmagnai,Mongolian footballer,Q711,Q23430
+Q134470484,Q6581072,1994-08-14T00:00:00Z,1,Narantuya Bayarsaikhan,Narantuya Bayarsaikhan,snooker player,Q711,
+Q134892028,Q6581097,2000-01-01T00:00:00Z,5,Kazirbekiin Yolk,Kazirbekiin Yolk,Mongolian judoka,Q711,
+Q13576363,Q6581072,1954-03-05T00:00:00Z,5,Natsagiin Udval,Natsagiin Udval,Mongolian politician,Q711,Q2672420
+Q136308983,Q6581072,2003-04-13T00:00:00Z,5,Togtokhyn Altjin,Togtokhyn Altjin,Mongolian freestyle wrestler,Q711,
+Q136331119,Q6581072,1995-07-12T00:00:00Z,2,Lutsaikhany Altantsetseg,Lutsaikhany Altantsetseg,Mongolian boxer,Q711,Q23430
+Q136767344,Q6581072,2003-08-14T00:00:00Z,1,Chinbaatar Solongo,,footballer,Q711,
+Q137799036,Q6581097,2000-08-24T00:00:00Z,2,Toshinofuji Taisei,Toshinofuji Taisei,Mongolian sumo wrestler,Q711,Q23430
+Q138654832,Q6581097,1973-12-30T00:00:00Z,3,Batyn Batbaatar,Batyn Batbaatar,Mongolian politician,Q711,Q23430
+Q138676,Q6581097,1982-03-20T00:00:00Z,19,Uranchimegiin Mönkh-Erdene,Uranchimegiin Mönkh-Erdene,Mongoliian boxer,Q711,Q717684
+Q1393095,Q6581097,1935-05-02T00:00:00Z,11,Sharavyn Gungaadorj,Sharavyn Gungaadorj,Prime Minister of Mongolia in 1990,Q711,Q3874729
+Q1393121,Q6581097,1919-02-18T00:00:00Z,10,Sembiin Gonchigsumlaa,Sembiin Gonchigsumlaa,Mongolian musician (1919–1991),Q711,Q804117
+Q1393569,Q6581097,1961-02-02T00:00:00Z,13,Rinchinnyamyn Amarjargal,Rinchinnyamyn Amarjargal,"Mongolian politician, Prime Minister of Mongolia from July 30, 1999 to July 26, 2000",Q711,Q23430
+Q1393621,Q6581097,1955-06-04T00:00:00Z,11,Mendsaikhany Enkhsaikhan,Mendsaikhany Enkhsaikhan,former Prime Minister of Mongolia,Q711,Q23430
+Q139410767,Q6581097,1965-01-01T00:00:00Z,2,Jadambyn Bat-Erdene,Jadambyn Bat-Erdene,Mongolian politician (born 1965),Q711,
+Q14688984,Q6581097,1987-12-15T00:00:00Z,11,Dashdavaagiin Amartüvshin,Amartuvshin Dashdavaa,Mongolian judoka,Q711,Q711
+Q14920401,Q6581097,1986-05-11T00:00:00Z,16,Ganzorigiin Mandakhnaran,Ganzorigiin Mandakhnaran,Mongolian wrestler,Q711,Q276195
+Q1492716,Q6581097,1938-05-01T00:00:00Z,6,Galsangiin Byambaa,Galsangiin Byambaa,Mongolian archer,Q711,
+Q14930472,Q6581072,1990-02-28T00:00:00Z,8,Erdenechimegiin Sumiyaa,Erdenechimegiin Sumiyaa,Mongolian sport wrestler,Q711,Q711
+Q15220811,Q6581097,1987-02-04T00:00:00Z,8,Tsegmediin Batchuluun,Tsegmed Batchuluun,Mongolian chess player,Q711,Q23430
+Q15254899,Q6581097,1989-05-29T00:00:00Z,3,Bayarsaikhan Gundavaa,Bayarsaikhan Gundavaa,Mongolian chess player,Q711,Q234713
+Q15434868,Q6581097,1968-01-01T00:00:00Z,5,Enkhjargal Dandarvaanchig,Enkhjargal Dandarvaanchig,Mongolian musician,Q711,Q23430
+Q15574553,Q6581097,1990-01-06T00:00:00Z,11,Ruslan Otverchenko,Ruslan Otverčenko,Ukrainian basketball player (1990–2023),Q711,Q23430
+Q15574553,Q6581097,1990-01-06T00:00:00Z,11,Ruslan Otverchenko,Ruslan Otverčenko,Ukrainian basketball player (1990–2023),Q212,Q23430
+Q15712903,Q6581097,1991-04-06T00:00:00Z,7,Boldyn Byambadorj,Bold Byambadorj,Mongolian cross-country skier,Q711,Q209774
+Q15736051,Q6581072,1991-04-30T00:00:00Z,6,Chinbatyn Otgontsetseg,Otgontsetseg Chinbat,Mongolian cross-country skier,Q711,Q3396355
+Q15919874,Q6581072,1966-10-26T00:00:00Z,4,Oyungerel Tsedevdamba,Tsedevdamba Oyungerel,politician,Q711,
+Q15934317,Q6581097,1969-02-17T00:00:00Z,22,Chimediin Saikhanbileg,Chimediin Saikhanbileg,Mongolian politician,Q711,Q207795
+Q15934896,Q6581072,1958-08-01T00:00:00Z,9,Bu Xiaolin,Bu Xiaolin,Chinese politician,Q148,Q1354654
+Q15934896,Q6581072,1958-08-01T00:00:00Z,9,Bu Xiaolin,Bu Xiaolin,Chinese politician,Q711,Q1354654
+Q16089061,Q6581097,1921-01-01T00:00:00Z,5,Daramyn Tömör-Ochir,Daramyn Tömör-Ochir,Mongolian politician (1921-1985),Q711,Q276195
+Q1612889,Q6581097,1985-06-17T00:00:00Z,4,Tuulkhangain Tögöldör,Tuulchangain Tögöldör,Mongolian cyclist,Q711,Q711
+Q16158534,Q6581097,1956-01-27T00:00:00Z,5,Aduuchiin Baatarkhüü,Aduuchiin Baatarkhüü,Mongol amateur wrestler,Q711,Q731256
+Q16159863,Q6581097,1964-09-22T00:00:00Z,3,Khenmedekhiin Amaraa,Chenmedechijn Amaraa,Mongolian wrestler,Q711,
+Q16197529,Q6581097,1969-03-16T00:00:00Z,2,Batchuluuny Bat-Orgil,Batchuluuny Bat-Orgil,Mongolian speed skater,Q711,Q23430
+Q16214846,Q6581097,1974-05-03T00:00:00Z,1,Ganaagiin Galbadrakh,Ganaagiin Galbadrakh,Mongolian swimmer,Q711,Q23430
+Q16216061,Q6581072,1976-03-06T00:00:00Z,1,Sanjaajamtsyn Altantuyaa,Sanjaajamtsyn Altantuyaa,Mongolian swimmer,Q711,Q23430
+Q16228128,Q6581072,1992-06-14T00:00:00Z,4,Tüvshinjargalyn Enkhjargal,Enkhjargal Tuvshinjargal,cyclist,Q711,Q23430
+Q16235093,Q6581097,1992-08-08T00:00:00Z,3,Tsetsenbaataryn Darambayar,Darambayar Tsetsenbaatar,footballer,Q711,Q23430
+Q16264136,Q6581097,1993-04-07T00:00:00Z,7,Ichinojō Takashi,Ichinojō Takashi,Mongolian sumo wrestler,Q711,Q4079574
+Q16264136,Q6581097,1993-04-07T00:00:00Z,7,Ichinojō Takashi,Ichinojō Takashi,Mongolian sumo wrestler,Q17,Q4079574
+Q16291651,Q6581097,1912-03-16T00:00:00Z,7,Jamiyangiin Lhagvasuren,Zhamyangiyn Lhagvasuren,Mongolian politician (1912-1982),Q711,Q711
+Q16530780,Q6581097,1961-06-25T00:00:00Z,3,Avirmediin Enkhee,Awirmedijn Enchee,Mongolian wrestler,Q711,
+Q16532865,Q6581097,1964-04-14T00:00:00Z,3,Boldyn Javkhlantögs,Boldyn Dżawchlantögs,Mongol amateur wrestler,Q711,
+Q16535362,Q6581097,1967-07-03T00:00:00Z,4,Tserenbaataryn Enkhbayar,Cerenbaataryn Enchbajar,Mongolian wrestler,Q711,
+Q16535747,Q6581097,1965-09-28T00:00:00Z,6,Khaltmaagiin Battuul,Chaltmagiijn Battuul,Mongolian wrestler,Q711,
+Q16540973,Q6581097,1992-05-07T00:00:00Z,7,Dorjkhandyn Khüderbulga,Dorjkhandyn Khüderbulga,Mongol amateur wrestler,Q711,Q276195
+Q16571000,Q6581097,1937-08-20T00:00:00Z,5,Lkhamjavyn Dekhlee,Lkhamjavyn Dekhlee,Mongolian sports shooter (* 1937),Q711,
+Q16572607,Q6581097,1964-10-01T00:00:00Z,4,Lodoin Enkhbayar,Lodoin Erkhbajar,Mongolian wrestler,Q711,Q23430
+Q16573325,Q6581097,1967-12-03T00:00:00Z,3,Luvsan-Ishiin Sergelenbaatar,Luwsan-Iszijn Serglenbaatar,Mongolian wrestler,Q711,
+Q16581142,Q6581097,1990-12-14T00:00:00Z,8,Natsagsürengiin Zolboo,Natsagsürengiin Zolboo,Mongol amateur wrestler,Q711,Q23430
+Q16581791,Q6581097,1970-01-01T00:00:00Z,4,Nergüin Tümennast,Nergüin Tümennast,Mongolian wrestler,Q711,Q3403754
+Q16581791,Q6581097,1967-01-01T00:00:00Z,4,Nergüin Tümennast,Nergüin Tümennast,Mongolian wrestler,Q711,Q3403754
+Q16612333,Q6581097,1973-08-27T00:00:00Z,3,Tümen-Ölziin Mönkhbayar,Tümen-Öldzijn Mönchbajar,Mongolian wrestler,Q711,
+Q16612335,Q6581097,1964-03-01T00:00:00Z,3,Tümendembereliin Sükhbaatar,Tümendemberelijn Süchbaatar,Mongol amateur wrestler,Q711,
+Q16612338,Q6581097,1934-05-01T00:00:00Z,4,Tüvdiin Tserendondov,Tüvdiin Tserendondov,Mongolian sports shooter (born 1934),Q711,Q3403786
+Q16612341,Q6581097,1982-08-04T00:00:00Z,4,Tüvshintöriin Enkhtuyaa,Tüvshintöriin Enkhtuyaa,Olympic wrestler,Q711,Q23430
+Q16628523,Q6581097,1912-05-25T00:00:00Z,4,Butochiyn Tsog,Butochiyn Tsog,Mongol military personnel (1912-1989),Q711,Q711
+Q1669181,Q6581097,1945-01-29T00:00:00Z,6,Tsambyn Danzan,Tsambyn Danzan,Mongol biathlete,Q711,
+Q1681476,Q6581097,1933-01-06T00:00:00Z,11,9th Jebtsundamba Khutughtu,9th Jebtsundamba Khutughtu,Buddhist leader (1933–2012),Q2444884,Q5869
+Q1681476,Q6581097,1933-01-06T00:00:00Z,11,9th Jebtsundamba Khutughtu,9th Jebtsundamba Khutughtu,Buddhist leader (1933–2012),Q711,Q5869
+Q16905174,Q6581097,1979-02-12T00:00:00Z,3,Jamyangiin Mönkhbat,Jamiyan Munkhbat,Mongolian politician,Q711,Q207809
+Q17037897,Q6581097,1981-07-01T00:00:00Z,6,Damdiny Süldbayar,Damdiny Süldbayar,Mongol judoka,Q711,
+Q170380,Q6581097,1935-12-21T00:00:00Z,22,Rinchen Barsbold,Rinchen Barsbold,Mongolian paleontologist and geologist (1935–2025),Q711,Q23430
+Q1706022,Q6581097,1972-04-12T00:00:00Z,10,Jantsangiin Gantögs,Jantsangiin Gantögs,Mongolian archer,Q711,Q649
+Q17060957,Q6581097,1963-01-01T00:00:00Z,4,Dashdembereliin Bat-Erdene,Dashdemberal Bat-Erden,politician,Q711,Q822808
+Q17141465,Q6581072,1978-05-06T00:00:00Z,5,Altantuya Shaaribuu,Altantuya Shaaribuu,,Q711,Q711
+Q17151723,Q6581097,1977-10-17T00:00:00Z,6,Baljinnyamyn Amarsaikhan,Baljinnyamyn Amarsaikhan,Mongolian actor,Q711,Q23430
+Q17160247,Q6581097,1988-08-18T00:00:00Z,4,Seirō Takeshi,Takeshi Seirō,Mongolian sumo wrestler,Q711,Q23430
+Q17160468,Q6581097,1994-08-28T00:00:00Z,3,Daishōhō Kiyohiro,Kiyohiro Daishōhō,Mongolian sumo wrestler,Q711,Q23430
+Q17222052,Q6581097,1991-07-20T00:00:00Z,5,Chiyoshōma Fujio,Fujio Chiyoshōma,Mongolian sumo wrestler,Q711,Q23430
+Q17222052,Q6581097,1991-07-20T00:00:00Z,5,Chiyoshōma Fujio,Fujio Chiyoshōma,Mongolian sumo wrestler,Q17,Q23430
+Q17466586,Q6581097,1973-12-13T00:00:00Z,4,Gelegjamtsyn Ösökhbayar,Gelegjamtsyn Ösökhbayar,Mongolian wrestler,Q711,Q4079574
+Q17486501,Q6581072,1987-12-30T00:00:00Z,3,Selenge Erdene-Ochir,Selenge Erdene-Ochir,Mongolian model; winner of Miss World Mongolia 2006,Q711,Q230628
+Q17523796,Q6581097,1940-03-08T00:00:00Z,4,Luvsangiin Buudai,Luvsangiin Buudai,Mongolian cyclist,Q711,
+Q17541215,Q6581097,1943-01-18T00:00:00Z,4,Luvsangiin Erkhemjamts,Luvsangiin Erkhemjamts,Mongolian cyclist,Q711,Q23430
+Q17558493,Q6581097,1965-08-04T00:00:00Z,4,Tserenbaataryn Khosbayar,Cerenbaataryn Chosbajar,Mongolian wrestler,Q711,
+Q17558517,Q6581097,1955-02-07T00:00:00Z,6,Zevegiin Düvchin,Zevegiin Düvchin,Mongolian wrestler,Q711,Q234713
+Q17558646,Q6581097,1974-01-20T00:00:00Z,3,Tümendembereliin Züünbayan,Tümendemberlijn Dzüünbajan,Mongolian wrestler,Q711,
+Q17579864,Q6581097,1940-08-03T00:00:00Z,5,Yanjingiin Baatar,Yanjingiin Baatar,Mongolian cyclist,Q711,Q23430
+Q1760124,Q6581072,1981-04-06T00:00:00Z,7,Tsogtbazaryn Enkhjargal,Tsogtbazaryn Enkhjargal,Olympic wrestler,Q711,Q3300811
+Q17607952,Q6581097,1987-01-03T00:00:00Z,9,Ganbatyn Boldbaatar,Ganbatyn Boldbaatar,Mongolian judoka,Q711,Q711
+Q17612662,Q6581097,1991-02-23T00:00:00Z,3,Mönkh-Erdengiin Tögöldör,Tuguldur Munkh-Erdene,Mongolian footballer,Q711,Q23430
+Q17612662,Q6581097,1995-05-08T00:00:00Z,3,Mönkh-Erdengiin Tögöldör,Tuguldur Munkh-Erdene,Mongolian footballer,Q711,Q23430
+Q17627289,Q6581097,1993-02-04T00:00:00Z,6,Batboldyn Nomin,Batboldyn Nomin,Mongol amateur wrestler,Q711,
+Q1770085,Q6581097,1943-04-10T00:00:00Z,9,Tömöriin Artag,Tömöriin Artag,Olympic wrestler,Q711,Q192942
+Q1791337,Q6581097,1917-01-01T00:00:00Z,10,Chadraabalyn Lodoidamba,Lodoidamba Chadraabal,Mongolian writer (1917–1970),Q711,Q711
+Q18014901,Q6581072,1995-02-24T00:00:00Z,7,Sükheegiin Tserenchimed,Sukhee Tserenchimed,Mongolian wrestler,Q711,Q239040
+Q18020631,Q6581097,1985-03-10T00:00:00Z,6,Enkhsaikhany Nyam-Ochir,Enkhsaikhany Nyam-Ochir,Mongol amateur wrestler,Q711,Q711
+Q18211361,Q6581097,1937-02-04T00:00:00Z,4,Choijiljavyn Samand,Choijiljavyn Samand,Mongolian cyclist,Q711,
+Q18236276,Q6581097,1914-09-17T00:00:00Z,4,Batyn Dorj,Batyn Dorzh,Mongolian politician,Q711,Q3403731
+Q1827532,Q6581072,1977-02-24T00:00:00Z,10,Bishindeegiin Urantungalag,Bishindeegiin Urantungalag,Mongolian archer,Q711,Q239040
+Q18384681,Q6581097,1991-12-12T00:00:00Z,3,Altanzulyn Altansükh,Altanzulyn Altansükh,Mongol bicycle racer,Q711,Q711
+Q18411875,Q6581097,1948-03-15T00:00:00Z,4,Gaadangiin Altankhuyag,Gaadangiin Altankhuyag,Mongolian composer and musician,Q711,Q23430
+Q18412872,Q6581097,1927-05-03T00:00:00Z,3,Sharavyn Pürevjav,Sharav Purevzhav,Mongolian chess player,Q711,
+Q1862599,Q6581097,1936-02-10T00:00:00Z,7,Ryenchinii Choinom,Ryenchinii Choinom,Mongolian poet (1936–1979),Q711,Q3404301
+Q18640503,Q6581097,1974-11-19T00:00:00Z,7,Tsend-Ayuushiin Ochirbat,Tsend-Ayuushiin Ochirbat,Olympic judoka,Q711,Q23430
+Q18640504,Q6581097,1977-03-11T00:00:00Z,8,Batjargalyn Odkhüü,Batjargalyn Odkhüü,Olympic judoka,Q711,Q3410102
+Q18685765,Q6581072,1977-07-26T00:00:00Z,6,Erdene-Ochiryn Dolgormaa,Erdene-Ochiryn Dolgormaa,Olympic judoka,Q711,Q23430
+Q18685774,Q6581097,1948-10-01T00:00:00Z,1,Lkhamsürengiin Dorjsüren,Lkhamsürengiin Dorjsüren,Mongolian football player and manager,Q711,Q711
+Q18686267,Q6581097,1953-01-01T00:00:00Z,1,Zandraagiin Ganbaatar,Zandraa Ganbaatar,Mongolian shooter,Q711,
+Q18687897,Q6581072,1992-06-11T00:00:00Z,2,Tugsuu Idersaikhan,Tugsuu Idersaikhan,Mongolian model,Q711,Q23430
+Q18705765,Q6581097,1944-02-20T00:00:00Z,5,Tsedendambyn Natsagdorj,Tsedendambyn Natsagdorj,Mongol amateur wrestler (1944-2017),Q711,Q804117
+Q18721968,Q6581097,1949-01-01T00:00:00Z,4,Dasrangiin Myagmar,Dasrangiin Myagmar,Mongol amateur wrestler,Q711,Q3300847
+Q18764021,Q6581097,1982-01-01T00:00:00Z,1,Myagmarsürengiin Dorjdagva,Dorjdagva Myagmarsuren,Mongolian long song singer,Q711,
+Q18915334,Q6581097,1934-10-25T00:00:00Z,5,Luvsandorjiin Sandagdorj,Luvsandorjiin Sandagdorj,Mongolian football player and manager,Q711,Q23430
+Q1919030,Q6581097,1984-05-04T00:00:00Z,3,Selengiin Odkhüü,Selengiin Odkhüü,Mongolian footballer,Q711,Q711
+Q1919030,Q6581097,1985-05-04T00:00:00Z,3,Selengiin Odkhüü,Selengiin Odkhüü,Mongolian footballer,Q711,Q711
+Q19337745,Q6581097,1995-08-08T00:00:00Z,5,Gandelger Ganbold,Gandelger Ganbold,Mongolian footballer,Q711,Q23430
+Q19356823,Q6581097,1918-09-19T00:00:00Z,4,Shagdarjavyn Natsagdorj,Shagdarzhavyn Natsagdorzh,Mongolian scientist (1918–2001),Q711,Q23430
+Q19366459,Q6581072,1981-04-06T00:00:00Z,9,Ankhnyam Ragchaa,Ankhnyam Ragchaa,Mongolian actress,Q711,Q711
+Q19517912,Q6581097,1964-09-15T00:00:00Z,2,Mönkhchuluuny Zorigt,Mönkhchuluuny Zorigt,Mongolian politician,Q711,
+Q1955866,Q6581097,1959-01-01T00:00:00Z,4,Bazarsadyn Jargalsaikhan,Bazarsad Jargalsaikhan,Mongolian politician,Q711,
+Q1956352,Q6581097,1948-10-10T00:00:00Z,4,Luvsangiin Erdenechuluun,Luvsangiin Erdenechuluun,Mongolian politician,Q711,Q23430
+Q19571884,Q6581072,2000-02-15T00:00:00Z,7,Davaadembereliin Nomin-Erdene,Nomin-Erdene Davaademberel,Mongolian chess player,Q711,Q23430
+Q19571884,Q6581072,2000-02-15T00:00:00Z,7,Davaadembereliin Nomin-Erdene,Nomin-Erdene Davaademberel,Mongolian chess player,Q28,Q23430
+Q19661181,Q6581072,1937-03-01T00:00:00Z,2,Ider Luvsandanzan,Ider Luvsandanzan,Mongolian diplomat,Q711,
+Q197062,Q6581097,1950-08-14T00:00:00Z,15,Zevegiin Oidov,Zevegiin Oidov,Olympic wrestler,Q711,Q932069
+Q1975273,Q6581097,1933-11-26T00:00:00Z,11,Puntsagiin Jasrai,Puntsagiin Jasrai,former prime minister of Mongolia (1933-2007),Q711,Q2353218
+Q19803181,Q6581097,1989-04-08T00:00:00Z,3,Tungalagiin Sanchir,Sanchir Tungalag,Mongolian basketball player (born 1989),Q711,Q23430
+Q19840425,Q6581097,1952-01-01T00:00:00Z,4,Mend-Ooyo Gombojav,Mend-Ooyo Gombojav,Mongolian poet and writer (born 1952),Q711,Q3402318
+Q19958236,Q6581097,1959-03-20T00:00:00Z,3,Luvsandagvyn Jargalsaikhan,Luvsandagvyn Jargalsaikhan,Mongol bicycle racer,Q711,
+Q20028139,Q6581072,1945-11-23T00:00:00Z,3,Ramazangiin Aldaa-nysh,Ramazangiin Aldaa-nysh,Mongol athletics competitor (* 1945),Q711,
+Q20028270,Q6581097,1943-08-25T00:00:00Z,6,Damirangiin Baatarjav,Damirangiin Baatarjav,Mongolian judoka (* 1943),Q711,
+Q20028275,Q6581097,1954-02-24T00:00:00Z,4,Odnoin Bakhyt,Odnojn Bachyt,Mongolian wrestler,Q711,
+Q20028447,Q6581097,1960-08-25T00:00:00Z,6,Buyandelgeriin Bold,Bujandelgerijn Bold,Mongolian wrestler,Q711,Q23430
+Q20028457,Q6581097,1958-03-24T00:00:00Z,3,Jamtsyn Bor,Dżamcyn Bor,Mongolian wrestler,Q711,
+Q20028742,Q6581097,1955-08-24T00:00:00Z,3,Nyamyn Jargalsaikhan,Njamyn Dżargalsajchan,Mongol amateur wrestler,Q711,
+Q20028743,Q6581097,1959-10-23T00:00:00Z,3,Byambajavyn Javkhlantögs,Bjambdżawyn Dżawchlantögs,Mongol amateur wrestler,Q711,
+Q20028757,Q6581097,1952-02-28T00:00:00Z,4,Ochirdolgoryn Enkhtaivan,Oczirdolgoryn Enchtajwan,Mongolian wrestler,Q711,
+Q20028764,Q6581097,1936-04-01T00:00:00Z,5,Ölziisaikhany Erdene-Ochir,Öldzijsajchany Erden-Oczir,Mongol amateur wrestler (1936-2017),Q711,Q2607977
+Q20028942,Q6581097,1953-04-13T00:00:00Z,3,Chimidiin Gochoosüren,Czimedijn Goczoosüren,Mongolian wrestler,Q711,Q2089849
+Q20029864,Q6581097,1950-05-12T00:00:00Z,3,Jamsrangiin Mönkh-Ochir,Dżamsrangijn Mönch-Oczir,Mongol amateur wrestler,Q711,
+Q20029929,Q6581097,1955-09-05T00:00:00Z,4,Ölziibayaryn Nasanjargal,Öldzijbajaryn Nasandżargal,Mongol amateur wrestler,Q711,
+Q20030031,Q6581097,1942-10-10T00:00:00Z,4,Choidoryn Övgönkhüü,Czojdoryn Öwgönchüü,Mongolian judoka (1942-2019),Q711,Q3403882
+Q20030550,Q6581097,1937-04-09T00:00:00Z,5,Baldangiin Sanjaa,Baldangijn Sandżaa,Mongolian wrestler (* 1937),Q711,
+Q20030551,Q6581097,1937-01-01T00:00:00Z,5,Tserendonoin Sanjaa,Cerendonojn Sandżaa,Mongolian wrestler (1936-2019),Q711,Q234713
+Q20030551,Q6581097,1937-01-01T00:00:00Z,5,Tserendonoin Sanjaa,Cerendonojn Sandżaa,Mongolian wrestler (1936-2019),Q711,Q932069
+Q20030551,Q6581097,1936-11-07T00:00:00Z,5,Tserendonoin Sanjaa,Cerendonojn Sandżaa,Mongolian wrestler (1936-2019),Q711,Q234713
+Q20030551,Q6581097,1936-11-07T00:00:00Z,5,Tserendonoin Sanjaa,Cerendonojn Sandżaa,Mongolian wrestler (1936-2019),Q711,Q932069
+Q20030586,Q6581072,1990-11-20T00:00:00Z,10,Baatarjavyn Shoovdor,Baatarjavyn Shoovdor,Mongol amateur wrestler,Q711,
+Q20030759,Q6581097,1943-05-15T00:00:00Z,4,Bazaryn Sükhbaatar,Badzryn Süchbaatar,Mongol amateur wrestler (* 1943),Q711,Q945055
+Q20039295,Q6581097,1960-05-11T00:00:00Z,10,Odvogiin Baljinnyam,Odvogin Baljinnyam,Mongolian judoka,Q711,Q3403815
+Q20040417,Q6581097,1983-08-30T00:00:00Z,6,Sanjaasürengiin Miyaaragchaa,Sanjaasürengiin Miyaaragchaa,Mongolian judoka,Q711,
+Q20041228,Q6581097,1966-03-04T00:00:00Z,8,Dashgombyn Battulga,Dashgombyn Battulga,Mongolian judoka,Q711,
+Q20041436,Q6581072,1992-01-27T00:00:00Z,9,Naranjargal Tsend-Ayush,Tsend-Ayush Naranjargal,Mongol judoka,Q711,Q711
+Q2005870,Q6581097,1954-01-30T00:00:00Z,6,Nyamtserengiin Byambasüren,Nyamtserengiin Byambasüren,Mongolian archer,Q711,
+Q20111934,Q6581072,1994-06-27T00:00:00Z,5,Gankhuyag Nandinzaya,Gankhuyagiin Nandinzayaa,Mongolian sports shooter,Q711,
+Q2027898,Q6581097,1963-01-01T00:00:00Z,4,Lamjavyn Gündalai,Lamjavyn Gündalai,Mongolian politician,Q711,
+Q2030564,Q6581097,1987-03-27T00:00:00Z,9,Byambyn Tüvshinbat,Byambyn Tüvshinbat,Mongolian boxer,Q711,Q23430
+Q20606689,Q6581097,1923-01-01T00:00:00Z,2,Jarantyn Avkhia,Zharantaĭn Avkhia,Mongolian communist politician,Q711,
+Q20608313,Q6581097,1915-01-01T00:00:00Z,3,Sanjiin Bataa,Sanjiin Bataa,Mongolian communist politician,Q711,
+Q20608812,Q6581072,1965-01-18T00:00:00Z,9,Khajidsuren Bolormaa,Khajidsuren Bolormaa,Mongolian mineralogist,Q711,Q23430
+Q20609374,Q6581097,1970-07-30T00:00:00Z,6,Sainkhüügiin Ganbaatar,Sainkhüügiin Ganbaatar,Mongolian politician,Q711,
+Q20609412,Q6581097,1959-09-06T00:00:00Z,6,Jambalyn Ganbold,Jambalyn Ganbold,Mongolian judoka,Q711,Q3403723
+Q20610199,Q6581072,1934-01-01T00:00:00Z,2,Shagdaryn Dulmaa,Shagdaryn Dulmaa,Mongolian writer and poet (1934–2024),Q711,Q3396325
+Q20610422,Q6581097,1914-01-01T00:00:00Z,4,Tsedengiin Janchiv,Tsedengiin Janchiv,Mongolian communist politician,Q711,Q234713
+Q20610819,Q6581097,1923-01-01T00:00:00Z,4,Tsogt-Ochiryn Lookhuuz,T͡Sogt-Ochiryn Lookhuuz,Mongolian politician,Q711,
+Q20610836,Q6581097,1924-12-19T00:00:00Z,4,Sonomyn Luvsangombo,Sonomyn Luvsangombo,Mongolian politician,Q711,Q213272
+Q20610865,Q6581097,1973-02-26T00:00:00Z,5,Luvsannyamyn Gantömör,Luvsannyam Gantumur,Mongolian politician,Q711,
+Q20611443,Q6581097,1927-06-15T00:00:00Z,4,Tsegmidiin Namsraijav,Ts. Namsraijav,Mongolian Composer (1927-1987),Q711,Q1025040
+Q20611529,Q6581097,1974-10-07T00:00:00Z,6,Pürevdorjiin Nyamlkhagva,Pürevdorjiin Nyamljagva,Mongol judoka (1974-),Q711,Q711
+Q20611540,Q6581097,1978-07-02T00:00:00Z,4,Nyamtaishiryn Nomtoibayar,Nomtoibayar Nyamtaishir,Mongolian politician,Q711,
+Q20611540,Q6581097,1978-01-01T00:00:00Z,4,Nyamtaishiryn Nomtoibayar,Nomtoibayar Nyamtaishir,Mongolian politician,Q711,
+Q20611888,Q6581072,1948-12-21T00:00:00Z,7,Namsrayn Suvd,Namsrayn Suvd,Mongolian actor (born 1948),Q711,Q23430
+Q20612229,Q6581072,1924-06-15T00:00:00Z,5,Luvsanjamtsyn Tsogzolmaa,Luvsanjamtsyn Tsogzolmaa,Mongolian actress (b. 1924),Q711,Q3396365
+Q20612280,Q6581097,1948-11-20T00:00:00Z,4,Shagdaryn Chanrav,Shagdaryn Chanrav,Mongolian judoka,Q711,Q2093450
+Q20612310,Q6581097,1928-01-01T00:00:00Z,2,Jamyangiin Chuluun,Jamyangiin Chuluun,"Mongolian composer, conductor, and violinist",Q711,
+Q20612383,Q6581097,1963-01-01T00:00:00Z,4,Sodnomzunduin Erdene,Sodnomzundui Erdene,Mongolian politician,Q711,
+Q20612390,Q6581097,1992-08-13T00:00:00Z,14,Erdenebatyn Bekhbayar,Erdenebatyn Bekhbayar,Mongol amateur wrestler,Q711,Q23430
+Q20612402,Q6581072,1967-01-01T00:00:00Z,3,Luvsangiin Erdenechimeg,Luvsangiin Erdenechimeg,Mongolian politician,Q711,
+Q20614828,Q6581097,1923-01-01T00:00:00Z,4,Jamsrangijn Jondon,Jamsrangijn Jondon,,Q711,Q3402215
+Q20642010,Q6581072,1947-11-06T00:00:00Z,3,Yadamsürengiin Tuyaa,Yadamsürengiin Tuyaa,artistic gymnast (* 1947),Q711,Q23430
+Q2068149,Q6581097,1908-09-14T00:00:00Z,19,Tsendiin Damdinsüren,Tsendiin Damdinsüren,Mongolian writer and linguist (1908–1986),Q711,Q3410012
+Q20716393,Q6581097,1958-11-27T00:00:00Z,3,Batsükhiin Khayankhyarvaa,Batsükhiin Khayankhyarvaa,Mongol bicycle racer,Q711,
+Q2086873,Q6581097,1939-07-27T00:00:00Z,10,Tüdeviin Üitümen,Tüdeviin Üitümen,Mongolian chess player,Q711,Q433861
+Q209451,Q6581072,1985-05-30T00:00:00Z,12,Chuluuny Khulan,Chuluuny Khulan,Mongol actress,Q711,Q932069
+Q20982545,Q6581097,1956-12-17T00:00:00Z,3,Damdinsürengiin Orgodol,Damdinsürengiin Orgodol,Mongol bicycle racer,Q711,
+Q20982569,Q6581097,1957-02-01T00:00:00Z,3,Dashjamtsyn Tömörbaatar,Dashjamtsyn Tömörbaatar,Mongol bicycle racer,Q711,
+Q20982571,Q6581097,1957-08-30T00:00:00Z,3,Dorjpalamyn Tsolmon,Dorjpalamyn Tsolmon,Mongol bicycle racer,Q711,
+Q20985572,Q6581097,1945-02-05T00:00:00Z,2,Tüdeviin Myagmarjav,Tüdeviin Myagmarjav,Mongolian sports shooter (* 1945),Q711,Q192945
+Q20988054,Q6581072,1993-10-10T00:00:00Z,7,Bayartsogtyn Mönkhzayaa,Munkhzaya Bayartsogt,Mongolian athlete,Q711,Q207795
+Q21012876,Q6581072,1965-01-01T00:00:00Z,5,Badema,Badema,Chinese actress and singer,Q711,Q992936
+Q21064584,Q6581072,1971-01-18T00:00:00Z,16,Baatarsuren Shuudertsetseg,Baatarsuren Shuudertsetseg,Mongolian author,Q711,Q23430
+Q2108005,Q6581097,1986-07-20T00:00:00Z,20,Sainjargalyn Nyam-Ochir,Sainjargalyn Nyam-Ochir,Mongolian judoka,Q711,Q192942
+Q2108166,Q6581097,1990-09-29T00:00:00Z,11,Davaadorjiin Tömörkhüleg,Davaadorjiin Tömörkhüleg,Mongolian judoka,Q711,Q23430
+Q21141411,Q6581072,1940-05-05T00:00:00Z,4,Sandagdorj Handsuren,Sandagdorj Handsuren,Mongolian chess player,Q711,Q23430
+Q21284931,Q6581097,1988-10-03T00:00:00Z,1,Munkhbileg Enebish,Munkhbileg Enebish,,Q711,Q23430
+Q21290532,Q6581097,1992-07-31T00:00:00Z,4,Törbat Daginaa,Turbat Daginaa,Mongolian footballer,Q711,Q23430
+Q2153936,Q6581097,1965-01-01T00:00:00Z,5,Mishigiin Sonompil,Mishigiin Sonompil,Mongolian politician,Q711,Q3402407
+Q2153979,Q6581097,1919-09-15T00:00:00Z,10,Luvsanjambyn Mördorj,Luvsanjambyn Mördorj,Mongolian musician (1919–1996),Q711,Q23430
+Q2155411,Q6581097,1919-01-01T00:00:00Z,10,Bilegiin Damdinsüren,Bilegiin Damdinsüren,Mongolian musician (1919–1992),Q711,Q3396295
+Q2173833,Q6581097,1982-11-26T00:00:00Z,3,Dagva Enkhtaivan,Dagva Enkhtaivan,Mongolian footballer,Q711,Q711
+Q2188992,Q6581097,1940-07-11T00:00:00Z,6,Luvsansharavyn Tsend,Luvsansharavyn Tsend,Mongolian speed skater (1940–2023),Q711,Q945055
+Q22003326,Q6581097,1945-09-27T00:00:00Z,2,Yondonjamtsyn Batsükh,Yondonjamtsyn Batsükh,Mongolian sports shooter (* 1945),Q711,Q239040
+Q22005620,Q6581097,1944-03-15T00:00:00Z,2,Mendbayaryn Jantsankhorloo,Mendbayaryn Jantsankhorloo,Mongolian sports shooter (* 1944),Q711,
+Q2204307,Q6581097,1975-10-11T00:00:00Z,3,Semjbaataryn Baatarsüren,Semjbaatar Baatarsuren,Mongolian footballer,Q711,Q711
+Q2204307,Q6581097,1975-11-10T00:00:00Z,3,Semjbaataryn Baatarsüren,Semjbaatar Baatarsuren,Mongolian footballer,Q711,Q711
+Q2222535,Q6581097,1969-01-01T00:00:00Z,5,Sangidorjiin Sansargereltekh,Sangidorjiin Sansargereltekh,composer,Q711,Q23430
+Q2260632,Q6581072,1990-03-14T00:00:00Z,25,Mönkhbatyn Urantsetseg,Urantsetseg Munkhbat,Mongolian judoka,Q711,Q2089871
+Q2271929,Q6581097,1981-10-07T00:00:00Z,10,Bat-Ochir Ser-Od,Bat-Ochiryn Ser-Od,Mongolian long-distance runner,Q711,Q23430
+Q22911202,Q6581097,1994-10-15T00:00:00Z,5,Batmönkhiin Maral-Erdene,Maral-Erdene Batmunkh,cyclist,Q711,Q711
+Q22918348,Q6581097,1986-07-30T00:00:00Z,1,Battulgyn Achitbileg,Achitbileg Battulga,Mongolian male sprinter,Q711,
+Q22918669,Q6581097,1947-04-20T00:00:00Z,2,Püreviin Jigjidsüren,Purev Jigjidsuren,Mongolian chess player,Q711,
+Q229803,Q6581097,1948-04-27T00:00:00Z,5,Zunduin Khangal,Zunduin Khangal,Mongolian musician,Q711,Q23430
+Q23007562,Q6581097,1989-02-03T00:00:00Z,4,Dambadarjaagiin Gantulga,Gantulga Dambadarjaa,Mongolian male distance runner,Q711,Q23430
+Q23023218,Q6581097,1946-05-02T00:00:00Z,2,Tserenjavyn Ölziibayar,Tserenjavyn Ölziibayar,Mongolian sport shooter (* 1946),Q711,
+Q23062682,Q6581097,1955-11-07T00:00:00Z,2,Pürevjavyn Batsükh,Pürevjavyn Batsükh,Mongolian cross-country skier,Q711,Q244788
+Q2353207,Q6581097,1982-01-31T00:00:00Z,5,Shōtenrō Taishi,Shōtenrō Taishi,sumo wrestler,Q17,Q711
+Q2353207,Q6581097,1982-01-31T00:00:00Z,5,Shōtenrō Taishi,Shōtenrō Taishi,sumo wrestler,Q711,Q711
+Q2353281,Q6581097,1985-08-10T00:00:00Z,15,Kakuryū Rikisaburō,Kakuryū Rikisaburō,sumo wrestler,Q711,Q244804
+Q2353281,Q6581097,1985-08-10T00:00:00Z,15,Kakuryū Rikisaburō,Kakuryū Rikisaburō,sumo wrestler,Q17,Q244804
+Q23668417,Q6581097,1992-01-22T00:00:00Z,8,Tümenbilegiin Tüvshintulga,Tumenbilegiin Tuvshintulga,Mongol amateur wrestler,Q711,Q2606122
+Q23668722,Q6581072,1995-05-26T00:00:00Z,7,Enkhbatyn Gantuyaa,Enjbat Gantuya,Mongol amateur wrestler,Q711,Q711
+Q2371755,Q6581072,1991-03-11T00:00:00Z,24,Dorjsürengiin Sumiyaa,Dorjsürengiin Sumiyaa,Mongolian judoka,Q711,Q3403748
+Q2372051,Q6581072,1985-09-04T00:00:00Z,12,Mönkhbaataryn Bundmaa,Mönkhbaataryn Bundmaa,Mongolian judoka,Q711,Q932069
+Q2372809,Q6581072,1986-06-13T00:00:00Z,11,Tsedevsürengiin Mönkhzayaa,Tsedevsürengiin Mönkhzayaa,Mongolian judoka,Q711,Q23430
+Q23874278,Q6581097,1988-01-28T00:00:00Z,15,Dorjnyambuugiin Otgondalai,Dorjnyambuugiin Otgondalai,Mongolian boxer,Q711,Q711
+Q24051583,Q6581097,1994-06-02T00:00:00Z,4,Pürevjavyn Temüüjin,Pürevjavyn Temüüjin,Mongol taekwondo athlete,Q711,Q235571
+Q24061168,Q6581097,1993-03-29T00:00:00Z,8,Gankhuyagiin Gan-Erdene,Gankhuyagiin Gan-Erdene,Mongol boxer,Q711,
+Q24174854,Q6581097,1957-11-25T00:00:00Z,4,Danzangiin Lündeejantsan,Danzan Lundeejantsan,Mongolian politician,Q711,Q23430
+Q24174857,Q6581072,1973-01-26T00:00:00Z,5,Batchimeg Migeddorj,Batchimeg Migeddorj,Mongol politician,Q711,Q234713
+Q24248226,Q6581097,1980-06-29T00:00:00Z,33,Luvsannamsrain Oyun-Erdene,Luvsannamsrain Oyun-Erdene,"32nd Prime Minister of Mongolia, leader of the governing political party",Q711,Q23430
+Q2425427,Q6581097,1958-01-01T00:00:00Z,7,Agvaantserengiin Enkhtaivan,Agvaantserengiin Enkhtaivan,"composer, film maker",Q711,Q711
+Q2426638,Q6581097,1978-05-14T00:00:00Z,4,Dul Erdenebileg,Dul Erdenebileg,Mongolian draughts player,Q711,Q23430
+Q24324351,Q6581072,1984-06-01T00:00:00Z,13,Uisenma Borchu,Uisenma Borchu,Mongolian-German film director,Q711,Q23430
+Q24324351,Q6581072,1984-06-01T00:00:00Z,13,Uisenma Borchu,Uisenma Borchu,Mongolian-German film director,Q183,Q23430
+Q2444765,Q6581097,1977-01-27T00:00:00Z,15,Donorovyn Lümbengarav,Donorovyn Lümbengarav,Mongolian footballer,Q711,Q23430
+Q2459200,Q6581097,1936-02-20T00:00:00Z,6,Tudeviin Lkhamsüren,Tudeviin Lkhamsüren,Mongol biathlete,Q711,
+Q24868827,Q6581072,1992-01-25T00:00:00Z,26,Otgontsetseg Galbadrakh,Otgontsetseg Galbadrakh,Mongolian-Kazakhstani judoka,Q232,Q23430
+Q24868827,Q6581072,1992-01-25T00:00:00Z,26,Otgontsetseg Galbadrakh,Otgontsetseg Galbadrakh,Mongolian-Kazakhstani judoka,Q711,Q23430
+Q25632474,Q6581097,1943-01-01T00:00:00Z,2,Chilkhaajavyn Avday,Chilkhaajavyn Avday,Mongol politician,Q711,Q192942
+Q25632551,Q6581097,1975-01-01T00:00:00Z,2,Zayasaikhan Sambuu,Zayasaikhan Sambuu,"Mongolian artist, born 1975",Q711,Q2593925
+Q25633019,Q6581072,1959-01-01T00:00:00Z,2,Garamjav Tseden,Garamjav Tseden,Mongolian businesswoman and politician,Q711,
+Q25768293,Q6581097,1927-09-03T00:00:00Z,6,Shagdaryn Bira,Shagdaryn Bira,Mongolian historian,Q711,
+Q25848773,Q6581097,1973-06-17T00:00:00Z,20,Jargaltulgyn Erdenebat,Jargaltulga Erdenebat,politician,Q711,Q2748006
+Q25848773,Q6581097,1973-06-17T00:00:00Z,20,Jargaltulgyn Erdenebat,Jargaltulga Erdenebat,politician,Q212056,Q2748006
+Q25931028,Q6581097,1964-08-13T00:00:00Z,3,Dashnyamyn Tömör-Ochir,Dashnyamyn Tömör-Ochir,Mongolian cyclist,Q711,
+Q26042352,Q6581097,1996-03-16T00:00:00Z,20,Tsend-Ochiryn Tsogtbaatar,Tsogtbaatar Tsend-Ochir,Mongolian judoka,Q711,Q23430
+Q26042352,Q6581097,1996-03-16T00:00:00Z,20,Tsend-Ochiryn Tsogtbaatar,Tsogtbaatar Tsend-Ochir,Mongolian judoka,Q711,Q804117
+Q2606073,Q6581097,1941-06-01T00:00:00Z,15,Jigjidiin Mönkhbat,Jigjidiin Mönkhbat,Olympic wrestler (1941-2018),Q711,Q3396427
+Q26207444,Q6581072,1991-04-12T00:00:00Z,3,Anu Namshir,Anu Namshir,Mongolian model and beauty queen,Q711,Q23430
+Q26233737,Q6581072,1992-11-07T00:00:00Z,3,Adiyaasambuugiin Tsolmon,Tsolmon Adiyasambuu,Mongolian judoka,Q711,
+Q26251160,Q6581097,1961-12-27T00:00:00Z,2,Dashjamtsyn Mönkhbat,Dashjamtsyn Mönkhbat,Mongolian cyclist,Q711,Q23430
+Q26251238,Q6581097,1967-02-13T00:00:00Z,2,Zundui Naran,Zundui Naran,Mongolian cyclist,Q711,Q23430
+Q26252955,Q6581097,1993-01-20T00:00:00Z,13,Lkhagvasürengiin Otgonbaatar,Lkhagvasürengiin Otgonbaatar,Mongolian judoka,Q711,Q4079574
+Q2625422,Q6581072,1990-10-05T00:00:00Z,18,Soronzonboldyn Battsetseg,Soronzonboldyn Battsetseg,Mongolian wrestler,Q711,Q2093510
+Q26254258,Q6581097,1996-03-16T00:00:00Z,3,Gal-Erdenegiin Soyol-Erdene,Soyol-Erdene Gal-Erdene,association football player,Q711,Q711
+Q26260144,Q6581097,1996-10-16T00:00:00Z,14,Erdenebatyn Tsendbaatar,Erdenebatyn Tsendbaatar,Mongol boxer,Q711,Q529834
+Q26260154,Q6581097,1991-09-21T00:00:00Z,14,Baatarsükhiin Chinzorig,Baatarsükhiin Chinzorig,Mongol boxer (* 1991),Q711,Q23430
+Q26260181,Q6581097,1986-10-26T00:00:00Z,4,Batsaikhany Dölgöön,Batsaikhany Dulguun,Mongol swimmer,Q711,
+Q26263132,Q6581097,1992-08-05T00:00:00Z,7,Kharkhüügiin Enkh-Amar,Kharkhüügiin Enkh-Amar,Mongol boxer,Q711,Q731256
+Q26263155,Q6581072,2000-07-21T00:00:00Z,5,Bayaryn Yesüi,Yesui Bayar,Mongolian swimmer,Q711,Q711
+Q26270580,Q6581072,1997-12-25T00:00:00Z,7,Mönkhjantsangiin Ankhtsetseg,Mönkhjantsangiin Ankhtsetseg,Mongolian weightlifter,Q711,Q23430
+Q26300210,Q6581097,1992-01-05T00:00:00Z,28,Saeid Mollaei,Saeid Mollaei,Iranian judoka,Q711,Q3616
+Q26300210,Q6581097,1992-01-05T00:00:00Z,28,Saeid Mollaei,Saeid Mollaei,Iranian judoka,Q794,Q3616
+Q26300211,Q6581097,1988-02-19T00:00:00Z,8,Otgonbaataryn Uuganbaatar,Uuganbaataryn Otgonbaatar,Mongolian judoka,Q711,Q23430
+Q26483251,Q6581097,1990-07-07T00:00:00Z,5,Tseveenravdangiin Byambajav,Tseveenravdan Byambajav,Mongolian athlete,Q711,Q822815
+Q26704290,Q6581097,2000-09-03T00:00:00Z,11,Ganbold Ganbayar,Ganbold Ganbayar,association football player,Q711,Q234680
+Q26789937,Q6581097,1997-05-06T00:00:00Z,2,Ösökhbayaryn Chagnaadorj,Chagnaadorj Ösökhbayaryn,Mongolian weightlifter,Q711,
+Q26789989,Q6581097,1989-08-20T00:00:00Z,11,Ganbaataryn Odbayar,Ganbaataryn Odbayar,Mongolian judoka,Q711,Q23430
+Q27057586,Q6581097,1971-10-20T00:00:00Z,9,Khaliuny Boldbaatar,Khaliun Boldbaatar,Mongolian judoka,Q711,Q23430
+Q27058418,Q6581097,1968-06-14T00:00:00Z,51,Ukhnaagiin Khürelsükh,Khurelsukh Ukhnaa,6th President of Mongolia,Q711,Q23430
+Q27114014,Q6581097,1996-09-04T00:00:00Z,11,Sainbayaryn Jambaljamts,Jambaljamts Sainbayar,Mongolian cyclist,Q711,Q23430
+Q27306334,Q6581072,1993-12-25T00:00:00Z,12,Pürevdorjiin Orkhon,Pürevdorjiin Orkhon,Mongol amateur wrestler,Q711,Q711
+Q27449504,Q6581072,1955-01-01T00:00:00Z,3,Biambasuren Luvsandamdingiin,Biambasuren Luvsandamdingiin,Mongolian architect,Q711,
+Q27523620,Q6581097,1997-03-25T00:00:00Z,2,Sumiyaagiin Bilgüün,Sumiya Bilguun,Mongolian chess player,Q711,Q23430
+Q27597903,Q6581072,1972-01-30T00:00:00Z,4,Tsagaan Battsetseg,Tsagaan Battsetseg,chess player,Q711,
+Q276238,Q6581072,1964-01-18T00:00:00Z,12,Sanjaasürengiin Oyun,Oyuun Sanjaasüren,Mongolian politician,Q711,Q23430
+Q27663152,Q6581097,1984-01-01T00:00:00Z,1,Noyon Khutagt Danzanluvsantudev,Noyon Khutagt Danzanluvsantudev,Mongolian tulku,Q711,
+Q2783620,Q6581097,1965-01-01T00:00:00Z,4,Gankhüügiin Pürevbat,Ganchugiyn Purevbat,"Mongolian artist painter, art collector, museum director and Buddhist teacher (1965–2024)",Q711,Q3396355
+Q28028660,Q6581072,1974-03-27T00:00:00Z,5,Sambuugiin Dashdulam,Sambuugiin Dashdulam,Mongolian judoka,Q711,
+Q28480214,Q6581072,2002-05-04T00:00:00Z,3,Törmönkhiin Mönkhzul,Turmunkh Munkhzul,Mongolian chess player,Q711,
+Q28503851,Q6581097,1990-01-22T00:00:00Z,3,Nyamsürengiin Dagvasüren,Nyamsürengiin Dagvasüren,Mongol judoka (1990-),Q711,
+Q28737903,Q6581072,1990-11-29T00:00:00Z,6,Bayartsetseg Altangerel,Bayartsetseg Altangerel,Mongolian actor,Q711,Q23430
+Q28741315,Q6581097,1964-10-18T00:00:00Z,5,Tsendiin Mönkh-Orgil,Tsend Munkh-Orgil,Mongolian politician,Q711,Q809657
+Q28810352,Q6581097,1988-04-08T00:00:00Z,7,Ariunbaatar Ganbaatar,Ariunbaatar Ganbaatar,Mongolian baritone,Q711,Q711
+Q28840049,Q6581097,1946-02-25T00:00:00Z,4,Luvsansharavyn Rentsendorj,Luvsansharavyn Rentsendorj,Mongol judoka (1946-),Q711,
+Q28868697,Q6581072,1973-01-01T00:00:00Z,4,Bolortsetseg Minjin,Bolortsetseg Minjin,Mongolian paleontologist,Q711,Q23430
+Q28869081,Q6581072,1996-01-14T00:00:00Z,3,Ariunsanaagiin Enkhtuul,Enkhtul Ariunsanaa,Mongolian cross-country skier,Q711,
+Q28882221,Q6581097,1994-12-21T00:00:00Z,6,Batmönkhiin Achbadrakh,Achbadrakh Batmunkh,Mongolian cross-country skier,Q711,Q23430
+Q288943,Q6581097,1974-09-13T00:00:00Z,8,Kyokutenhō Masaru,Kyokutenhō Masaru,sumo wrestler,Q711,Q2282418
+Q288943,Q6581097,1974-09-13T00:00:00Z,8,Kyokutenhō Masaru,Kyokutenhō Masaru,sumo wrestler,Q17,Q2282418
+Q29446430,Q6581097,1956-05-04T00:00:00Z,3,Dashdorj Bayarkhuu,Dashdorj Bayarkhuu,Mongolian diplomat and writer,Q711,Q23430
+Q29576754,Q6581072,1988-02-18T00:00:00Z,3,Battulgyn Mönkhtuyaa,Battulgyn Mönjtuyaa,Mongolian judoka,Q711,
+Q2982132,Q6581097,1933-07-14T00:00:00Z,14,Dumaagiin Sodnom,Dumaagiin Sodnom,former prime minister of Mongolia,Q711,Q3874907
+Q29835902,Q6581097,1988-01-06T00:00:00Z,4,Dovdony Altansükh,Dovdony Altansükh,Mongolian judoka,Q711,
+Q30068087,Q6581097,1992-02-24T00:00:00Z,4,Ganboldyn Kherlen,Kherlen Ganbold,Mongolian judoka,Q711,
+Q30068964,Q6581072,1969-05-19T00:00:00Z,1,Erkhemsaikhany Davaajargal,Erkhemsaikhany Davaajargal,Mongolian long-distance runner,Q711,
+Q30099251,Q6581072,1995-02-21T00:00:00Z,7,Boldyn Gankhaich,Boldyn Gankhaich,Mongol judoka (1995-),Q711,
+Q3012631,Q6581097,1961-06-02T00:00:00Z,8,Dambadondogiin Baatarjav,Dambadondogiin Baatarjav,Mongolian Paralympic archer,Q711,
+Q30127625,Q6581097,1994-02-10T00:00:00Z,2,Purevdorj Erdenebat,Purevdorj Erdenebat,association football player,Q711,Q711
+Q30127625,Q6581097,1994-10-02T00:00:00Z,2,Purevdorj Erdenebat,Purevdorj Erdenebat,association football player,Q711,Q711
+Q30230939,Q6581097,1996-02-15T00:00:00Z,5,Zandanbudyn Zanabazar,Zandanbudyn Zanabazar,Mongol amateur wrestler,Q711,Q822808
+Q30230946,Q6581072,1993-03-22T00:00:00Z,6,Erkhembayaryn Davaachimeg,Erkhembayaryn Davaachimeg,Mongol amateur wrestler,Q711,Q711
+Q30310085,Q6581097,2004-01-22T00:00:00Z,4,Dambasürengiin Batsüren,Dambasuren Batsuren,chess player,Q711,Q23430
+Q3051543,Q6581097,1962-04-20T00:00:00Z,12,Sanjaasürengiin Zorig,Sanjaasürengiin Zorig,Mongolian politician,Q711,Q23430
+Q3074542,Q6581097,1957-03-31T00:00:00Z,17,Tsendiin Damdin,Tsendiin Damdin,Mongolian judoka (1957-2018),Q711,Q239040
+Q30951215,Q6581097,1981-01-01T00:00:00Z,4,Dashzegviin Amarbayasgalan,Dashzegve Amarbayasgalan,Mongolian politician,Q711,
+Q30951236,Q6581097,1974-01-01T00:00:00Z,6,Sandagiin Byambatsogt,Byambatsogt Sandag,politician of Mongolia,Q711,
+Q31271123,Q6581097,1950-12-18T00:00:00Z,2,Byambajavyn Enkhbaatar,Byambajavyn Enkhbaatar,Mongolian sprinter (* 1950),Q711,
+Q3140043,Q6581097,1972-03-10T00:00:00Z,11,Lakva Sim,Lakva Sim,Mongolian boxer,Q711,Q23430
+Q3155264,Q6581097,1968-04-09T00:00:00Z,4,Ishdorjiin Otgonbayar,Ishdorj Otgonbayar,Mongolian football manager,Q711,Q23430
+Q3196245,Q6581097,1983-11-14T00:00:00Z,6,Khürelbaataryn Khash-Erdene,Khurelbaatar Khash Erdene,Mongolian cross-country skier,Q711,Q711
+Q3278862,Q6581072,1985-01-01T00:00:00Z,11,Gankhuyagiin Oyuungerel,Oyuungerel Gankhuyag,Mongolian beauty pageant titleholder,Q711,Q23430
+Q3278871,Q6581072,1975-07-07T00:00:00Z,9,Khishigbatyn Erdenet-Od,Khishigbatyn Erdenet-Od,Mongolian judoka,Q711,Q235571
+Q32860724,Q6581097,1995-06-01T00:00:00Z,2,Tögöldur Galt,Tögöldur Galt,association football player,Q711,Q711
+Q3335478,Q6581072,1931-12-10T00:00:00Z,8,Namjilyn Norovbanzad,Namjilyn Norovbanzad,Mongolian musician,Q711,Q711
+Q334601,Q6581097,1980-09-27T00:00:00Z,23,Asashōryū Akinori,Asashōryū Akinori,Mongolian former sumo wrestler (born 1980),Q711,Q23430
+Q3346574,Q6581097,1957-01-06T00:00:00Z,7,Nyamaagiin Enkhbold,Nyamaagiin Enkhbold,Mongolian politician,Q711,Q943374
+Q334679,Q6581097,1950-04-22T00:00:00Z,31,Natsagiin Bagabandi,Natsagiin Bagabandi,Mongolian politician,Q711,Q3403779
+Q3351752,Q6581097,1958-10-30T00:00:00Z,5,Ölziisaikhany Enkhtüvshin,Olziisaikhan Enkhtuvshin,Mongolian politician,Q711,Q244788
+Q3380631,Q6581072,1989-04-14T00:00:00Z,10,Ochirbatyn Nasanburmaa,Ochirbatyn Nasanburmaa,wrestler,Q711,Q212056
+Q3380644,Q6581072,1986-09-18T00:00:00Z,10,Pürevjargalyn Lkhamdegd,Pürevjargalyn Lkhamdegd,Mongol judoka,Q711,Q23430
+Q33806543,Q6581097,1996-09-21T00:00:00Z,7,Myagmaryn Delgerkhüü,Myagmaryn Delgerkhüü,Mongolian swimmer,Q711,
+Q34110119,Q6581097,1971-10-05T00:00:00Z,5,Erdenotsogtyn Tsogtjargal,Erdenentsogt Tsogtjargal,Mongol boxer,Q711,Q711
+Q3426376,Q6581072,1990-09-26T00:00:00Z,10,Davaasükhiin Otgontsetseg,Davaasükhiin Otgontsetseg,Mongolian wrestler,Q711,Q235571
+Q34345383,Q6581097,1987-03-11T00:00:00Z,2,Lkhagva Erdene,Lkhagva Erdene,"Mongolian TV host, television producer, investigative reporter and activist",Q711,Q235571
+Q3491505,Q6581097,1954-01-01T00:00:00Z,7,Baabar,Baabar,Mongolian political analyst and writer,Q711,Q529834
+Q3501239,Q6581097,1962-03-19T00:00:00Z,17,Nergüin Enkhbat,Nergüin Enkhbat,boxer (1962–2022),Q711,Q23430
+Q35142890,Q6581072,1990-08-28T00:00:00Z,4,Galbadrakhyn Khishigsaikhan,Galbadrakhyn Khishigsaikhan,Mongolian athlete,Q711,
+Q353539,Q6581097,1984-06-01T00:00:00Z,27,Naidangiin Tüvshinbayar,Naidangiin Tüvshinbayar,Mongolian judoka,Q711,Q711
+Q3544781,Q6581097,1900-01-01T00:00:00Z,11,Navaandorjiin Jadambaa,Navaandorjiin Jadambaa,Mongolian president in 1924,Q711,Q711
+Q35495971,Q6581072,1973-01-01T00:00:00Z,4,Undraa Agvaanluvsan,Undraa Agvaanluvsan,Mongolian politician,Q711,Q23430
+Q3608573,Q6581097,1957-12-25T00:00:00Z,14,Dugarsürengiin Oyuunbold,Dugarsürengiin Oyuunbold,Olympic wrestler (1957–2002),Q711,Q46319
+Q3614041,Q6581097,1953-06-28T00:00:00Z,15,Jamtsyn Davaajav,Jamtsyn Davaajav,Mongolian Olympic wrestler (1953–2000),Q711,Q2606122
+Q372131,Q6581097,1956-03-04T00:00:00Z,18,Sanjiin Bayar,Sanjaagiin Bayar,Mongolian Prime Minister,Q711,Q23430
+Q372202,Q6581097,1963-06-24T00:00:00Z,24,Sükhbaataryn Batbold,Sükhbaataryn Batbold,Mongolian politician,Q711,Q23430
+Q372223,Q6581097,1985-06-03T00:00:00Z,27,Enkhbatyn Badar-Uugan,Enkhbatyn Badar-Uugan,boxer,Q711,Q23430
+Q372262,Q6581097,1981-08-07T00:00:00Z,6,Asasekiryū Tarō,Asasekiryū Tarō,sumo wrestler,Q711,Q23430
+Q372262,Q6581097,1981-08-07T00:00:00Z,6,Asasekiryū Tarō,Asasekiryū Tarō,sumo wrestler,Q17,Q23430
+Q3809494,Q6581097,1901-01-01T00:00:00Z,9,Dansranbilegiin Dogsom,Dansranbilegiin Dogsom,Mongolian politician (1884–1941),Q711,Q239040
+Q3810829,Q6581097,1993-05-25T00:00:00Z,10,"Juan Ramírez (footballer, born 1993)",Juan Edgardo Ramírez,Argentine association football player,Q711,Q1496283
+Q3810829,Q6581097,1993-05-25T00:00:00Z,10,"Juan Ramírez (footballer, born 1993)",Juan Edgardo Ramírez,Argentine association football player,Q414,Q1496283
+Q381908,Q6581097,1945-03-21T00:00:00Z,10,Chimedbazaryn Damdinsharav,Chimedbazaryn Damdinsharav,Olympic wrestler,Q711,Q3402397
+Q38243252,Q6581072,1994-06-11T00:00:00Z,6,Baldorjyn Möngönchimeg,Baldorjyn Möngönchimeg,Mongolian judoka (1994-),Q711,
+Q3874389,Q6581097,1975-12-18T00:00:00Z,20,Dorjpalamyn Narmandakh,Dorjpalamyn Narmandakh,judoka,Q711,Q235571
+Q3874472,Q6581097,1983-08-06T00:00:00Z,4,Tokusegawa Masanao,Tokusegawa Masanao,Mongolian sumo wrestler,Q711,Q23430
+Q3874529,Q6581097,1954-03-20T00:00:00Z,13,Ravdangiin Davaadalai,Ravdangiin Davaadalai,Mongolian judoka,Q212056,Q3874968
+Q3874529,Q6581097,1954-03-20T00:00:00Z,13,Ravdangiin Davaadalai,Ravdangiin Davaadalai,Mongolian judoka,Q711,Q3874968
+Q3874537,Q6581072,1985-01-01T00:00:00Z,6,Chinbatyn Anun,Anun Chinbat,Mongolian beauty pageant contestant,Q711,Q23430
+Q3874541,Q6581097,1979-09-10T00:00:00Z,9,Tokitenkū Yoshiaki,Tokitenkū Yoshiaki,Mongolian sumo wrestler (1979-2017),Q17,Q276195
+Q3874541,Q6581097,1979-09-10T00:00:00Z,9,Tokitenkū Yoshiaki,Tokitenkū Yoshiaki,Mongolian sumo wrestler (1979-2017),Q711,Q276195
+Q3874585,Q6581097,1983-03-11T00:00:00Z,6,Ryūō Noboru,Ryūō Noboru,Mongolian sumo wrestler,Q711,Q711
+Q3874590,Q6581097,1973-03-08T00:00:00Z,6,Kyokushūzan Noboru,Kyokushūzan Noboru,Mongolian sumo wrestler,Q711,Q23430
+Q3874608,Q6581097,1974-01-01T00:00:00Z,7,Dolgorsürengiin Sumyaabazar,Dolgorsürengiin Sumiyaabazar,"Mongolian wrestler, mixed martial artist and politician",Q711,Q23430
+Q3874626,Q6581097,1983-05-05T00:00:00Z,4,Hakuba Takeshi,Hakuba Takeshi,Mongolian sumo wrestler,Q711,Q23430
+Q3874632,Q6581097,1984-04-05T00:00:00Z,3,Mōkonami Sakae,Mōkonami Sakae,sumo wrestler,Q711,Q23430
+Q3874697,Q6581097,1973-11-23T00:00:00Z,7,Oyuunbilegiin Pürevbaatar,Oyuunbilegiin Pürevbaatar,Olympic wrestler,Q711,Q23430
+Q3874840,Q6581072,1982-05-21T00:00:00Z,9,Sambuugiin Serchmaa,Serchmaa,Mongolian musician,Q711,Q23430
+Q3875008,Q6581097,1965-08-10T00:00:00Z,13,Namjilyn Bayarsaikhan,Namjilyn Bayarsaikhan,boxer,Q711,Q167764
+Q3875101,Q6581097,1946-05-11T00:00:00Z,5,Dovdoin Bayar,Bayar Dovdoi,Mogolian academic (1946-2010),Q711,Q23430
+Q3875110,Q6581097,1984-11-16T00:00:00Z,5,Tamawashi Ichirō,Tamawashi Ichirō,Mongolian sumo wrestler,Q711,Q23430
+Q3875123,Q6581097,1984-02-04T00:00:00Z,4,Kōryū Tadaharu,Kōryū Tadaharu,Mongolian sumo wrestler,Q711,Q23430
+Q3875137,Q6581097,1987-02-27T00:00:00Z,10,Zorigtbaataryn Enkhzorig,Zorigtbaataryn Enkhzorig,Mongolian boxer (1987–2018),Q711,Q230628
+Q38947237,Q6581097,1964-06-25T00:00:00Z,3,Tserendorj Amarjargal,Tserendorj Amarjargol,Mongol boxer (* 1964),Q711,Q711
+Q39980506,Q6581097,1970-09-27T00:00:00Z,4,Nyamaagiin Altankhuyag,Nyamaagiin Altankhuyag,Mongol boxer (* 1970),Q711,
+Q40044071,Q6581097,1993-03-06T00:00:00Z,3,Tamashōhō Manpei,Tamashohō Manpei,Mongolian sumo wrestler,Q711,Q23430
+Q40280178,Q6581097,1971-10-05T00:00:00Z,2,Erdene Chuluun,Erdene Chuluun,Mongol boxer,Q711,Q23430
+Q4075220,Q6581097,1912-05-15T00:00:00Z,7,Bazaryn Shirendev,Bazaryn Shirendev,Mongol academic (1912-2001),Q711,
+Q4142905,Q6581097,1970-03-08T00:00:00Z,22,Gombojavyn Zandanshatar,Gombojavyn Zandanshatar,Prime Minister of Mongolia from 2025 to 2026,Q711,Q2593925
+Q4154389,Q6581097,1908-01-01T00:00:00Z,4,Dashiin Damba,Dashiin Damba,Mongolian politician (1908–1993),Q711,Q2606122
+Q41672819,Q6581097,1998-06-01T00:00:00Z,5,Tegshbayar Batsaikhan,Tegshbayar Batsaikhan,Mongol cyclist,Q711,
+Q41693275,Q6581097,1968-11-27T00:00:00Z,3,Tseyen-Oidovyn Tserennyam,Tseyen-Oidovyn Tserennyam,Mongol boxer (* 1968),Q711,
+Q41698666,Q6581097,1994-04-25T00:00:00Z,4,Mitoryū Takayuki,Mitoryū Takayuki,Mongolian sumo wrestler,Q711,Q23430
+Q4193943,Q6581097,1986-09-17T00:00:00Z,4,Zorigtyn Battulga,Zorigt Battulga,Mongolian footballer,Q711,Q23430
+Q4193943,Q6581097,1986-09-19T00:00:00Z,4,Zorigtyn Battulga,Zorigt Battulga,Mongolian footballer,Q711,Q23430
+Q42304436,Q6581097,1975-01-30T00:00:00Z,1,Puntsag-Ochiryn Pürevsüren,Puntsag-Ochiryn Pürevsüren,Mongolian athlete,Q711,
+Q4267170,Q6581097,1914-01-01T00:00:00Z,7,Tsagaanlamyn Dügersüren,Tsagaanlamyn Dügersüren,Mongolian politician (1914–1986),Q711,Q711
+Q4267187,Q6581097,1912-01-01T00:00:00Z,7,Sonomyn Luvsan,Sonomyn Luvsan,Mongolian politician (1912–1994),Q711,Q711
+Q42934448,Q6581072,1962-01-01T00:00:00Z,4,Davaajantsangiin Sarangerel,Davaajantsangiin Sarangerel,Mongolian politician and journalist (born 1962),Q711,Q23430
+Q42939420,Q6581072,1959-01-01T00:00:00Z,2,Tserenbaltavyn Sarantuyaa,Tserenbaltavyn Sarantuyaa,"Mongolian social scientist, lawyer and writer",Q711,Q23430
+Q43016825,Q6581072,1976-01-21T00:00:00Z,3,Baatarkhüügiin Battsetseg,Baatarkhüügiin Battsetseg,Mongolian long-distance runner,Q711,
+Q4310208,Q6581097,1938-02-17T00:00:00Z,7,Lhamsuren Myagmarsuren,Lkhamsürengiin Myagmarsüren,Mongolian chess player,Q711,Q3300847
+Q4353654,Q6581072,1982-07-13T00:00:00Z,9,Luvsanlkhündegiin Otgonbayar,Luvsanlkhündegiin Otgonbayar,Mongolian marathon runner,Q711,Q235579
+Q43844028,Q6581097,1961-10-22T00:00:00Z,1,Dondogiin Gankhuyag,Dondogiin Gankhuyag,(born 1961),Q711,
+Q444506,Q6581072,1987-10-08T00:00:00Z,14,Batkhuyag Munguntuul,Batkhuyagiin Möngöntuul,Mongolian chess player,Q711,Q23430
+Q444801,Q6581072,1978-05-23T00:00:00Z,17,Otryadyn Gündegmaa,Otryadyn Gündegmaa,sport shooter,Q711,Q23430
+Q448054,Q6581097,1985-03-11T00:00:00Z,26,Hakuhō Shō,Hakuhō Shō,Japanese sumo wrestler,Q711,Q23430
+Q448054,Q6581097,1985-03-11T00:00:00Z,26,Hakuhō Shō,Hakuhō Shō,Japanese sumo wrestler,Q17,Q23430
+Q44870931,Q6581072,1993-12-26T00:00:00Z,5,Yanjaa,Yanjaa,Mongolian-Swedish memory athlete,Q34,Q23430
+Q44870931,Q6581072,1993-12-26T00:00:00Z,5,Yanjaa,Yanjaa,Mongolian-Swedish memory athlete,Q711,Q23430
+Q4502453,Q6581097,1990-02-22T00:00:00Z,10,Tsend-Ayuush Khürelbaatar,Khurelbaataryn Tsend-Ayush,Mongolian footballer,Q711,Q23430
+Q4502453,Q6581097,1992-02-22T00:00:00Z,10,Tsend-Ayuush Khürelbaatar,Khurelbaataryn Tsend-Ayush,Mongolian footballer,Q711,Q23430
+Q4506465,Q6581097,1984-10-26T00:00:00Z,9,Tserenjavyn Enkhjargal,Tserenjav Enkhjargal,Mongol association football player,Q711,Q23430
+Q4506465,Q6581097,1984-10-26T00:00:00Z,9,Tserenjavyn Enkhjargal,Tserenjav Enkhjargal,Mongol association football player,Q711,Q711
+Q4532127,Q6581097,1986-03-23T00:00:00Z,8,Enkhbatyn Amartüvshin,Amartuvshin,singer,Q711,Q244804
+Q467764,Q6581072,1971-01-01T00:00:00Z,19,Byambasuren Davaa,Byambasuren Davaa,Mongolian film director,Q711,Q23430
+Q4694716,Q6581097,1971-07-30T00:00:00Z,5,Agvaansamdangiin Sükhbat,Agvaansamdangiin Sükhbat,Mongolian sport wrestler,Q711,Q276195
+Q4694716,Q6581097,1971-06-30T00:00:00Z,5,Agvaansamdangiin Sükhbat,Agvaansamdangiin Sükhbat,Mongolian sport wrestler,Q711,Q276195
+Q47030809,Q6581072,1993-11-29T00:00:00Z,3,Enkhjin Tseveendash,Enkhjin Tseveendash,Mongol model,Q711,Q23430
+Q470328,Q6581097,1929-03-15T00:00:00Z,11,Begziin Yavuukhulan,Begziin Yavuukhulan,"Mongolian writer and journalist, 1929–1982",Q711,Q3403731
+Q47243530,Q6581097,1989-01-09T00:00:00Z,1,Otgonbaataryn Sergelen,Sergelen Otgonbaatar,Mongolian basketball player (born 1989),Q711,
+Q47299735,Q6581072,1944-05-25T00:00:00Z,3,Dashzevegiin Namjilmaa,Dashzevgiin Namjilmaa,Mongol athletics competitor (* 1944),Q711,Q23430
+Q4736157,Q6581097,1981-01-13T00:00:00Z,2,Altansükhiin Erdenebayar,Altansukh Erdenebayar,Mongolian footballer,Q711,Q711
+Q4745986,Q6581097,1987-12-18T00:00:00Z,2,Amgalangiin Chinzorig,Amgalan Chinzorig,Mongolian footballer,Q711,Q711
+Q4751598,Q6581097,1985-12-29T00:00:00Z,2,Batchuluuny Anar,Anar Batchuluun,Mongolian footballer,Q711,Q711
+Q4759568,Q6581097,1986-04-24T00:00:00Z,2,Andryein Tamir,Andryein Tamir,Mongolian swimmer,Q711,
+Q47668202,Q6581097,1974-01-01T00:00:00Z,3,Jalbasürengiin Batzandan,Jalbasürengiin Batzandan,Mongolian politician,Q711,
+Q4784405,Q6581097,1903-01-01T00:00:00Z,5,Shirnengiin Ayuush,Shirnengiin Ayuush,Mongolian musician,Q711,Q23430
+Q4837192,Q6581097,1985-03-30T00:00:00Z,2,Baatsuri Enkhbaatar,Baatsuri Enkhbaatar,Mongolian footballer,Q711,Q711
+Q4841019,Q6581097,1964-06-07T00:00:00Z,15,Badmaanyambuugiin Bat-Erdene,Badmaanyambuugiin Bat-Erdene,"Mongolian wrestler, politician.",Q711,Q239040
+Q4841108,Q6581072,1981-10-12T00:00:00Z,8,Badrakhyn Odonchimeg,Badrakhyn Odonchimeg,Olympic wrestler,Q711,Q3396337
+Q4857392,Q6581097,1906-01-01T00:00:00Z,4,Banzarjavyn Baasanjav,Banzarjavyn Baasanjav,Mongolian politician,Q711,Q194098
+Q4857392,Q6581097,1906-01-01T00:00:00Z,4,Banzarjavyn Baasanjav,Banzarjavyn Baasanjav,Mongolian politician,Q711,Q8733
+Q4857392,Q6581097,1906-01-01T00:00:00Z,4,Banzarjavyn Baasanjav,Banzarjavyn Baasanjav,Mongolian politician,Q711,Q909566
+Q4857399,Q6581072,1989-11-06T00:00:00Z,5,Banzragchiin Oyuunsüren,Banzragchiin Oyuunsuren,Mongolian wrestler,Q711,Q711
+Q4868868,Q6581072,1988-11-24T00:00:00Z,4,Batgereliin Möngöntuyaa,Batgereliin Möngöntuyaa,Mongolian sprinter,Q711,Q234713
+Q4869308,Q6581097,1953-12-03T00:00:00Z,3,Batjargalyn Batbayar,Batjargalyn Batbayar,Mongolian politician,Q711,Q234713
+Q4874325,Q6581097,1991-09-25T00:00:00Z,2,Nyantain Bayaraa,Nyantaigiin Bayaraa,Mongolian sport shooter,Q711,
+Q4875152,Q6581097,1950-12-12T00:00:00Z,5,Bazarragchaagiin Jamsran,Bazarragchaagiin Jamsran,Olympic wrestler,Q711,Q2607761
+Q4881601,Q6581097,1988-04-20T00:00:00Z,2,Bekhbatyn Ganbat,Bekhbat Ganbat,Mongolian footballer,Q711,Q46319
+Q48870803,Q6581072,1994-08-06T00:00:00Z,5,Altantsetsegiin Battsetseg,Altancecegijn Batceceg,Mongol amateur wrestler,Q711,Q18827
+Q4939047,Q6581097,1971-05-29T00:00:00Z,5,Boldyn Buman-Uchral,Bold Buman-Uchral,Mongolian footballer,Q711,Q23430
+Q5003347,Q6581097,1983-03-09T00:00:00Z,8,Buyanjavyn Batzorig,Buyanjavyn Batzorig,Mongolian wrestler,Q711,Q234680
+Q5005260,Q6581097,1946-02-17T00:00:00Z,4,Büdragchaagiin Dash-Yondon,Büdragchaagiin Dash-Yondon,Mongolian politician,Q711,Q244788
+Q50281742,Q6581097,1942-01-10T00:00:00Z,3,Jigjidsuren Gombojav,Jigjidsuren Gombojav,Mongolian film director,Q711,
+Q50387394,Q6581097,1991-10-22T00:00:00Z,4,Batmönkhiin Ganbold,Batmönkhiin Ganbold,Mongolian cross-country skier,Q711,
+Q5066881,Q6581097,1982-04-24T00:00:00Z,4,Chagnaadorjiin Ganzorig,Chagnaadorjiin Ganzorig,Olympic wrestler,Q711,Q2089895
+Q5103971,Q6581097,1971-10-06T00:00:00Z,3,Choi Tseveenpurev,Choi Tseveenpurev,Mongolian featherweight boxer,Q711,Q23430
+Q512933,Q6581097,1967-06-14T00:00:00Z,7,Jamsrangiin Ölzii-Orshikh,Jamsran Ulzii-Orshikh,Mongol cyclist (1967-2019),Q711,Q2607986
+Q51787776,Q6581072,1996-03-31T00:00:00Z,7,Tsogt-Ochiryn Namuuntsetseg,Cogt-Ocziryn Namuunceceg,Mongolian freestyle wrestler,Q711,Q239040
+Q51787799,Q6581097,1994-08-01T00:00:00Z,6,Ölziisaikhany Batzul,Batzul Ulziisaikhan,Mongol amateur wrestler,Q711,Q230628
+Q5212094,Q6581097,1968-11-01T00:00:00Z,2,Dambiijavyn Terbaatar,Dambiijav Terbaatar,Mongolian footballer,Q711,Q711
+Q521827,Q6581072,1985-07-14T00:00:00Z,6,Erdene-Ochiryn Ochirsüren,Erdene-Ochiryn Ochirsüren,Mongolian cross-country skier,Q711,Q711
+Q5221459,Q6581097,1943-04-23T00:00:00Z,9,Danzandarjaagiin Sereeter,Danzandarjaagiin Sereeter,Olympic wrestler,Q711,Q2089625
+Q5222664,Q6581097,1926-06-01T00:00:00Z,5,Dagvyn Luvsansharav,Dagvin Luvsansharav,composer (1927-2014),Q711,Q239040
+Q5226608,Q6581097,1950-08-11T00:00:00Z,4,Dashdorjiin Tserentogtokh,Dashdorjiin Tserentogtokh,Olympic wrestler,Q711,Q234713
+Q5226764,Q6581072,1990-09-19T00:00:00Z,3,Dashtserengiin Saintsetseg,Dashtserengiin Saintsetseg,Mongolian swimmer,Q711,Q230628
+Q5228124,Q6581097,1975-08-03T00:00:00Z,3,Davaagiin Bayarzorig,Davaa Bayarzorig,Mongolian footballer,Q711,Q711
+Q5228126,Q6581097,1957-09-28T00:00:00Z,5,Davaadorjiin Ganbold,Ganbold Davaadorj,Mongolian politician,Q711,Q23430
+Q526325,Q6581072,1986-05-03T00:00:00Z,11,Batchimeg Tuvshintugs,Batchimeg Tuvshintugs,Mongolian chess player,Q30,Q23430
+Q526325,Q6581072,1986-05-03T00:00:00Z,11,Batchimeg Tuvshintugs,Batchimeg Tuvshintugs,Mongolian chess player,Q711,Q23430
+Q5295572,Q6581097,1959-10-26T00:00:00Z,4,Dondogdorjiin Erdenebat,Dondogdorjiin Erdenebat,Mongolian politician,Q711,Q234680
+Q5298027,Q6581072,1977-04-15T00:00:00Z,7,Dorjgotovyn Tserenkhand,Dorjgotovyn Tserenkhand,Mongolian judoka,Q711,Q23430
+Q5298032,Q6581097,1950-08-15T00:00:00Z,3,Dorjzovdyn Ganbat,Dorjzovdyn Ganbat,Olympic wrestler,Q711,
+Q5321801,Q6581097,1926-01-01T00:00:00Z,4,Eregzengiin Choidog,Eregzengiin Choidog,Mongolian composer (1926–1988),Q212056,Q23430
+Q5321801,Q6581097,1926-01-01T00:00:00Z,4,Eregzengiin Choidog,Eregzengiin Choidog,Mongolian composer (1926–1988),Q711,Q23430
+Q53333066,Q6581097,1948-05-15T00:00:00Z,3,Gandolgoryn Batsükh,Gandolgoryn Batsükh,Mongolian judoka,Q711,Q2093804
+Q53356613,Q6581097,1952-01-01T00:00:00Z,4,Dambajavyn Tsend–Ayuush,Dambajavyn Tsend-Ayuush,Mongolian judoka,Q711,Q2607761
+Q5385278,Q6581097,1966-06-17T00:00:00Z,3,Sandagdorjiin Erdenebat,Erdenebat Sandagdorj,Mongolian football manager,Q711,Q23430
+Q5385281,Q6581072,1957-01-01T00:00:00Z,5,Luvsannorovyn Erdenechimeg,Erdenechimeg Luvsannorov,Mongolian ethnomusicologist,Q711,Q23430
+Q5385283,Q6581097,1957-07-01T00:00:00Z,6,Erdeniin Bat-Üül,Erdeniin Bat-Üül,Mongolian politician,Q711,Q23430
+Q539797,Q6581097,1979-09-25T00:00:00Z,9,Damdinsürengiin Nyamkhüü,Damdinsürengiin Nyamkhüü,Mongolian judoka,Q711,Q23430
+Q5402289,Q6581072,1985-05-09T00:00:00Z,2,Esui,Esui,Mongol mixed martial artist and professional wrestler,Q711,Q23430
+Q541220,Q6581072,1974-09-12T00:00:00Z,4,Ganbaataryn Khongorzul,Khongorzul,Mongolian musician,Q711,
+Q541239,Q6581072,1958-01-01T00:00:00Z,15,Nyam-Osoryn Tuyaa,Nyam-Osoryn Tuyaa,Acting prime minister of Mongolia from 1999-07-22 to 1999-07-30,Q711,Q23430
+Q54218665,Q6581097,1960-02-17T00:00:00Z,5,Rodnomyn Erkhembayar,Rodnomyn Erkhembayar,"Mongolian judoka, born 1960",Q711,Q3404388
+Q54218665,Q6581097,1960-02-17T00:00:00Z,5,Rodnomyn Erkhembayar,Rodnomyn Erkhembayar,"Mongolian judoka, born 1960",Q212056,Q3404388
+Q54820,Q6581097,1958-06-01T00:00:00Z,43,Nambaryn Enkhbayar,Nambaryn Enkhbayar,"Mongolian politician, Leader of Mongolian People's Revolutionary Party",Q711,Q23430
+Q5491993,Q6581097,1970-11-19T00:00:00Z,7,Davaasambuugiin Dorjbat,Davaasambuugiin Dorjbat,Mongolian judoka,Q711,
+Q5520545,Q6581097,1993-05-28T00:00:00Z,3,Ganbatyn Erdenebold,Ganbatyn Erdenebold,Mongolian gymnast,Q711,
+Q5521300,Q6581097,1973-01-01T00:00:00Z,2,Ganhuyag Chuluun Hutagt,Ganhuyag Chuluun Hutagt,Mongolian businessman,Q711,Q23430
+Q5521533,Q6581097,1981-01-08T00:00:00Z,8,Gantömöriin Dashdavaa,Gantömöriin Dashdavaa,Mongolian Olympic judoka,Q711,Q23430
+Q5521535,Q6581072,1992-05-19T00:00:00Z,2,Gantömöriin Oyuungerel,Gantömöriin Oyuungerel,Mongolian swimmer,Q711,
+Q5521571,Q6581097,1987-09-27T00:00:00Z,2,Erdene-Ochiriin Ganzorig,Ganzorig Erdene-Ochir,Mongolian footballer,Q711,Q711
+Q55390657,Q6581097,1998-02-11T00:00:00Z,13,Tömör-Ochiryn Tulga,Tömör-Ochiryn Tulga,Mongolian wrestler (born 1998),Q711,Q23430
+Q5581415,Q6581097,1916-01-01T00:00:00Z,2,Gonchigiin Birvaa,Gonchigiin Birvaa,Mongolian composer (1916–2006),Q711,
+Q5581787,Q6581097,1977-09-05T00:00:00Z,2,Gongorjavyn Davaa-Ochir,Gongorjav Davaa-Ochir,Mongolian footballer,Q711,Q711
+Q558683,Q6581097,1964-07-19T00:00:00Z,20,Miyeegombyn Enkhbold,Miyeegombyn Enkhbold,Mongolian politician,Q711,Q23430
+Q558706,Q6581097,1927-03-10T00:00:00Z,25,Jambyn Batmönkh,Jambyn Batmönkh,Mongolian politician (1927–1997),Q711,Q3402411
+Q558706,Q6581097,1926-03-10T00:00:00Z,25,Jambyn Batmönkh,Jambyn Batmönkh,Mongolian politician (1927–1997),Q711,Q3402411
+Q5637549,Q6581097,1961-10-24T00:00:00Z,6,Hadaa Sendoo,Hadaa Sendoo,Mongolian poet; founding father of the World Poetry Almanac,Q711,Q535534
+Q56394640,Q6581072,1994-08-18T00:00:00Z,2,Tsogkhüügiin Udval,Tsogkhuu Udval,Mongolian female ju-jitsu practitioner (born 1994),Q711,Q711
+Q56461415,Q6581097,1995-06-21T00:00:00Z,6,Gantulgyn Altanbagana,Altanbagana Gantulga,Mongol judoka (1995-),Q711,
+Q56618443,Q6581097,1994-07-31T00:00:00Z,11,Ölziibayaryn Düürenbayar,Ölziibayaryn Düürenbayar,Mongol judoka (1994-),Q711,
+Q57421,Q6581097,1963-03-30T00:00:00Z,62,Tsakhiagiin Elbegdorj,Tsakhiagiin Elbegdorj,Mongolian politician,Q711,Q3404073
+Q57888,Q6581097,1958-01-20T00:00:00Z,23,Norovyn Altankhuyag,Norovyn Altankhuyag,"Mongolian politician, Member of Parliament",Q711,Q822815
+Q58813112,Q6581097,1997-03-08T00:00:00Z,3,Narmandakh Artag,Narmandakh Artag,Mongolian footballer,Q711,Q711
+Q58836627,Q6581097,1999-04-04T00:00:00Z,2,Jansyerik Maratkhan,Maratkhan Janserik,Mongolian footballer,Q711,Q711
+Q5927039,Q6581097,1977-07-31T00:00:00Z,4,Jargalsaikhany Enkhbayar,Jargalsaikhan Enkhbayar,Mongolian footballer,Q711,Q23430
+Q59782033,Q6581097,1945-12-21T00:00:00Z,3,Nyamdashiin Batsüren,Nyamdashiin Batsüren,Mongolian boxer (* 1945),Q711,
+Q59782248,Q6581097,1945-11-08T00:00:00Z,3,Buyangiin Ganbat,Buyangiin Ganbat,Mongolian boxer (* 1945),Q711,
+Q60048443,Q6581097,1942-02-25T00:00:00Z,4,Damdinjavyn Bandi,Damdinjavyn Bandi,Mongolian boxer (1942-2018),Q711,
+Q60048918,Q6581097,1955-05-31T00:00:00Z,4,Ravsalyn Otgonbayar,Ravsalyn Otgonbayar,Mongolian boxer (* 1955),Q711,
+Q60194750,Q6581097,1954-11-04T00:00:00Z,3,Vanduin Bayasgalan,Vanduin Bayasgalan,Mongolian boxer (* 1954),Q711,
+Q60194764,Q6581097,1961-05-15T00:00:00Z,3,Nyamyn Narantuyaa,Nyamyn Narantuyaa,Mongolian boxer (* 1961),Q711,
+Q60194783,Q6581097,1956-11-15T00:00:00Z,3,Tsedengiin Narmandakh,Tsedengiin Narmandakh,Mongolian boxer (* 1956),Q711,
+Q60194890,Q6581097,1952-02-29T00:00:00Z,4,Galsandorjiin Batbileg,Galsandorjiin Batbileg,Mongolian boxer (* 1952),Q711,
+Q60675815,Q6581097,1999-01-30T00:00:00Z,4,Mönkh-Orgil Orkhon,Munkh-Orgil Orkhon,Mongolian footballer,Q711,Q711
+Q60676102,Q6581097,1965-03-09T00:00:00Z,3,Khaidavyn Gantulga,Khaidavyn Gantulga,Mongolian boxer (* 1965),Q711,
+Q60676784,Q6581097,1963-08-12T00:00:00Z,3,Ochiryn Demberel,Ochiryn Demberel,Mongolian boxer (1963-),Q711,
+Q61136771,Q6581097,1999-01-01T00:00:00Z,5,Odkhüügiin Tsetsentsengel,Tsetsentsengel Odkhuu,Mongolian judoka,Q711,
+Q6121194,Q6581097,1975-12-16T00:00:00Z,7,Jadamba Narantungalag,Jadamba Narantungalag,Mongolian martial artist,Q711,Q2605809
+Q6153556,Q6581097,1991-06-02T00:00:00Z,3,Tseveensürengiin Ganbayar,Tseveensuren Ganbayar,Mongolian footballer,Q711,Q23430
+Q6153556,Q6581097,1991-06-22T00:00:00Z,3,Tseveensürengiin Ganbayar,Tseveensuren Ganbayar,Mongolian footballer,Q711,Q23430
+Q6160161,Q6581097,1987-06-22T00:00:00Z,3,Jargalyn Tsatsral,Jargal Tsatsral,Mongolian footballer,Q711,Q711
+Q6160172,Q6581097,1984-12-03T00:00:00Z,7,Jargalsaikhany Chuluunbat,Jargalsaikhany Chuluunbat,Olympic wrestler,Q711,Q276200
+Q62085038,Q6581097,1996-04-24T00:00:00Z,9,Kirishima Tetsuo,Kirishima Tetsuo,Mongolian sumo wrestler,Q711,Q23430
+Q63255732,Q6581072,2001-03-20T00:00:00Z,10,Lkhagvasürengiin Sosorbaram,Ljagvasürenguiin Sosorbaram,Mongolian judoka,Q711,Q276200
+Q63255732,Q6581072,2001-03-22T00:00:00Z,10,Lkhagvasürengiin Sosorbaram,Ljagvasürenguiin Sosorbaram,Mongolian judoka,Q711,Q276200
+Q63307879,Q6581072,1998-12-28T00:00:00Z,13,Lkhagvatogoogiin Enkhriilen,Enkhriilen Lkhagvatogoo,Mongolian judoka,Q711,Q234680
+Q63342030,Q6581097,1997-06-20T00:00:00Z,1,Khash-Erdene Batbayar,Batbayar Khash-Erdene,Mongolian footballer,Q711,Q711
+Q63398288,Q6581097,1995-10-08T00:00:00Z,10,Enkhtaivany Ariunbold,Enkhtaivany Ariunbold,Mongolian judoka,Q711,
+Q63398313,Q6581097,1993-10-01T00:00:00Z,11,Yondonperenlein Baskhüü,Yondonperenlei Basjuu,Mongolian judoka,Q711,
+Q6400803,Q6581097,1910-01-01T00:00:00Z,4,Khas-Ochiryn Luvsandorj,Khas-Ochiryn Luvsandorj,Mongolian politician,Q711,Q3397359
+Q6400803,Q6581097,1910-01-01T00:00:00Z,4,Khas-Ochiryn Luvsandorj,Khas-Ochiryn Luvsandorj,Mongolian politician,Q711,Q8733
+Q6400803,Q6581097,1910-01-01T00:00:00Z,4,Khas-Ochiryn Luvsandorj,Khas-Ochiryn Luvsandorj,Mongolian politician,Q711,Q909566
+Q64010308,Q6581072,1969-01-11T00:00:00Z,12,Bayarjargal Agvaantseren,Bayarjargal Agvaantseren,Mongolian conservationist,Q711,Q2607741
+Q6414573,Q6581072,1988-08-29T00:00:00Z,5,Tungalagiin Mönkhtuyaa,Tungalagiin Mönkhtuyaa,Mongolian wrestler,Q711,Q711
+Q6416587,Q6581097,1974-09-03T00:00:00Z,2,Khishigdalain Battulga,Kishigdalai Battulga,Mongolian footballer,Q711,Q711
+Q64586913,Q6581097,1953-01-01T00:00:00Z,5,Radnaasümbereliin Gonchigdorj,Radnaasumbereliyn Gonchigdorj,Mongolian politician,Q711,Q207809
+Q64586913,Q6581097,1954-01-01T00:00:00Z,5,Radnaasümbereliin Gonchigdorj,Radnaasumbereliyn Gonchigdorj,Mongolian politician,Q711,Q207809
+Q64821313,Q6581097,1978-11-16T00:00:00Z,3,Bold (singer),Bold,"Mongolian pop singer, producer",Q711,Q23430
+Q64929906,Q6581097,1943-07-15T00:00:00Z,3,Luvsandashiin Dorj,Luvsandashiin Dorj,Mongolian cross-country skier,Q711,
+Q64929979,Q6581097,1960-03-18T00:00:00Z,1,Vangansürengiin Renchinkhorol,Vangansürengiin Renchinkhorol,Mongolian cross-country skier,Q711,
+Q65174832,Q6581097,1996-03-16T00:00:00Z,5,Ganbaataryn Gankhuyag,Ganbaataryn Gankhuyag,Mongol amateur wrestler (born 1996),Q711,
+Q65234415,Q6581097,1995-03-02T00:00:00Z,2,Batbayar Narangerel,,South Korean-Mongolian basketball player (born 1995),Q884,
+Q65234415,Q6581097,1995-03-02T00:00:00Z,2,Batbayar Narangerel,,South Korean-Mongolian basketball player (born 1995),Q711,
+Q65405999,Q6581072,1986-04-28T00:00:00Z,7,Ankhmaa,Ankhmaa,Mongolian Singer,Q711,Q23430
+Q65406584,Q6581097,1998-07-01T00:00:00Z,5,Orkhonbayar Bayarsaikhan,Bajarsaichany Orchonbajar,Mongolian wrestler,Q711,
+Q65408272,Q6581097,1996-05-16T00:00:00Z,2,Gremix,Gremix,Mongolian YouTuber,Q711,Q23430
+Q66087941,Q6581072,1946-02-06T00:00:00Z,2,Tsagaandorjiin Gündegmaa,Tsagaandorjiin Gündegmaa,Mongolian gymnast (* 1946),Q711,Q234713
+Q6683700,Q6581097,1964-11-07T00:00:00Z,2,Losolyn Byambajargal,Losolyn Byambajargal,Mongolian politician,Q711,Q192945
+Q6739401,Q6581097,1978-06-18T00:00:00Z,5,Makhgalyn Bayarjavkhlan,Makhgalyn Bayarjavkhlan,Olympic judoka,Q711,Q167764
+Q6750324,Q6581072,1972-12-12T00:00:00Z,3,Manjaagiin Ichinnorov,Manjaagiin Ichinnorov,Civil Rights activist,Q711,
+Q6808969,Q6581097,1948-05-07T00:00:00Z,5,Megdiin Khoilogdorj,Megdiin Khoilogdorj,Olympic wrestler,Q711,Q234713
+Q681110,Q6581097,1992-06-23T00:00:00Z,19,Tugstsogt Nyambayar,Nyambayaryn Tögstsogt,Mongolian boxer,Q711,Q23430
+Q68113390,Q6581097,2003-03-12T00:00:00Z,1,Sugaryn Gan-Erdene,Sugar Gan-Erdene,Mongolian chess player,Q711,
+Q68308840,Q6581072,2000-09-07T00:00:00Z,5,Enguun,Enguun,Mongolian violinist and singer,Q711,Q23430
+Q68645967,Q6581097,1999-05-22T00:00:00Z,12,Hōshōryū Tomokatsu,Hōshōryū Tomokatsu,"Mongolian sumo wrestler, 74th yokozuna",Q711,Q23430
+Q6875522,Q6581072,1988-11-09T00:00:00Z,7,Misheel Jargalsaikhan,Misheel Jargalsaikhan,Polish actress,Q711,Q23430
+Q689828,Q6581097,1944-12-26T00:00:00Z,15,Galsan Tschinag,Galsan Tschinag,Mongolian writer (born 1944),Q711,Q2667633
+Q6936744,Q6581097,1982-09-03T00:00:00Z,2,Mönkhtogtokhyn Idersaikhan,Munkhtogtokh Idersaikan,Mongolian footballer,Q711,Q711
+Q6939815,Q6581097,1989-09-21T00:00:00Z,9,Murun Altankhuyag,Murun Altankhuyag,Mongolian footballer,Q711,Q23430
+Q6959525,Q6581072,1979-11-14T00:00:00Z,6,Naidangiin Otgonjargal,Naidangiin Otgonjargal,Olympic wrestler,Q711,Q2089895
+Q6961923,Q6581072,1978-06-01T00:00:00Z,4,Namkhaidorjiin Bayarmaa,Namkhaidorjiin Bayarmaa,Mongolian weightlifter,Q711,Q23430
+Q6980261,Q6581097,1949-05-03T00:00:00Z,6,Natsagiin Jantsannorov,Natsagiyn Jantsannorov,Mongolian composer (born 1949),Q711,Q3403740
+Q70350136,Q6581072,1997-05-15T00:00:00Z,20,Bat-Ochiryn Bolortuyaa,Bat-Ochiryn Bolortuyaa,Mongol amateur wrestler,Q711,Q731256
+Q7048623,Q6581072,1989-11-09T00:00:00Z,6,Nominjin,Nominjin,Mongolian musician,Q711,
+Q7051375,Q6581097,1988-09-12T00:00:00Z,8,Norjmoogiin Tsedenbal,Norjmoo Tsedenbal,Mongolian footballer,Q711,Q711
+Q70562,Q6581072,1969-07-09T00:00:00Z,16,Munkhbayar Dorjsuren,Munkhbayar Dorjsuren,sport shooter,Q711,Q23430
+Q70562,Q6581072,1969-07-09T00:00:00Z,16,Munkhbayar Dorjsuren,Munkhbayar Dorjsuren,sport shooter,Q183,Q23430
+Q7070853,Q6581097,1960-04-01T00:00:00Z,3,Nyamjavyn Batbayar,Nyamjavyn Batbayar,Mongolian politician (born 1960),Q711,
+Q7070859,Q6581097,1919-05-04T00:00:00Z,7,Nyamyn Jagvaral,Nyamyn Jagvaral,Mongolian politician,Q711,Q4466804
+Q7076333,Q6581097,1957-02-10T00:00:00Z,3,Ochirbatyn Dashbalbar,Ochirbatyn Dashbalbar,Mongolian writer and politician (1957-1999),Q711,Q3402144
+Q7089288,Q6581097,1989-04-26T00:00:00Z,2,Olzvoin Ochbayar,Olzvoi Ochbayar,Mongolian footballer,Q711,Q711
+Q7102139,Q6581097,1989-04-29T00:00:00Z,9,Orgodolyn Üitümen,Orgodolyn Üitümen,Olympic wrestler,Q711,Q234713
+Q7102941,Q6581097,1984-05-04T00:00:00Z,2,Orkhonsaikhany Bayarjavkhlan,Orkhonsaikan Bayarjavkhlan,Mongolian footballer,Q711,Q711
+Q7116391,Q6581097,1989-08-16T00:00:00Z,2,Oyuunbatyn Bayarjargal,Oyunbat Bayarjargal,Mongolian footballer,Q711,Q711
+Q7124152,Q6581097,1988-02-05T00:00:00Z,2,Pagamsürengiin Altantulga,Pagamsuren Altantuga,Mongolian footballer,Q711,Q711
+Q71292538,Q6581097,1944-09-10T00:00:00Z,3,Jambaldoo Lhagva,Jambaldoo Lhagva,chess player,Q711,
+Q71319512,Q6581097,2005-02-18T00:00:00Z,3,Ganzorigiin Amartüvshin,Ganzorig Amartuvshin,Mongolian chess player,Q711,
+Q71943140,Q6581072,1975-08-15T00:00:00Z,5,Bolor-Erdene Khaltar,Bolor-Erdene Khaltar,Mongol journalist,Q711,Q23430
+Q7260615,Q6581097,1964-08-27T00:00:00Z,5,Puntsagiin Sükhbat,Puntsagiin Sükhbat,wrestler (1964–2015),Q711,Q23430
+Q7262844,Q6581097,1959-02-17T00:00:00Z,2,Pyambuugiin Tuul,Pyambuugiin Tuul,Mongolian marathon runner,Q711,
+Q7264860,Q6581097,1988-02-15T00:00:00Z,9,Pürevjavyn Önörbat,Pürevjavyn Önörbat,Olympic wrestler,Q711,Q18827
+Q7264862,Q6581097,1943-06-13T00:00:00Z,5,Püreviin Dagvasüren,Püreviin Dagvasüren,Mongolian wrestler and judoka (1943-2014),Q711,
+Q735754,Q6581097,1985-04-18T00:00:00Z,21,Pürevdorjiin Serdamba,Pürevdorjiin Serdamba,boxer,Q711,Q23430
+Q735768,Q6581097,1984-04-14T00:00:00Z,15,Harumafuji Kōhei,Harumafuji Kōhei,sumo wrestler,Q711,Q23430
+Q735910,Q6581097,1984-03-19T00:00:00Z,19,Khashbaataryn Tsagaanbaatar,Khashbaataryn Tsagaanbaatar,Mongolian judoka,Q711,Q3403748
+Q735933,Q6581097,1944-02-22T00:00:00Z,12,Khorloogiin Bayanmönkh,Khorloogiin Bayanmönkh,Olympic wrestler,Q711,Q192942
+Q7400518,Q6581097,1986-11-14T00:00:00Z,5,Yuragiin Sainkhüü,Sainkhuu Yura,Mongolian footballer,Q711,Q23430
+Q7489435,Q6581097,1968-08-03T00:00:00Z,2,Sharav Nasanjargal,Sharav Nasanjargal,Mongolian footballer,Q711,Q711
+Q7497691,Q6581097,1977-08-27T00:00:00Z,4,Shinny Bayaar,Shinny Bayaar,boxer,Q145,Q711
+Q7497691,Q6581097,1977-08-27T00:00:00Z,4,Shinny Bayaar,Shinny Bayaar,boxer,Q711,Q711
+Q75040001,Q6581097,1983-01-01T00:00:00Z,1,Baatarzorig Batjargal,Baatarzorig Batjargal,Mongolian painter (born 1983),Q711,Q23430
+Q7562208,Q6581072,1921-02-21T00:00:00Z,10,Sonomyn Udval,Sonomyn Udval,Mongolian politician and writer (1921–1991),Q711,Q2606094
+Q7650438,Q6581097,1976-01-01T00:00:00Z,2,Suurisürengiin Mönkhbaatar,Suurisuren Munkhbaatar,Mongolian footballer,Q711,Q711
+Q7666711,Q6581097,1951-05-20T00:00:00Z,2,Sükhbaataryn Sürenjav,Sükhbaataryn Sürenjav,Mongolian wrestler,Q711,
+Q7666751,Q6581072,1990-03-24T00:00:00Z,6,Sündeviin Byambatseren,Sündeviin Byambatseren,Olympic wrestler,Q711,Q235579
+Q7849297,Q6581097,1970-10-17T00:00:00Z,2,Tsagaantsooj Enkhtur,Tsagaantsooj Enkhtur,Mongolian footballer,Q711,Q711
+Q7849298,Q6581097,1992-07-16T00:00:00Z,2,Mönkh-Erdene Tsagaantsooj,Tsagaantsooj Munkh-Erdene,Mongolian footballer,Q711,Q711
+Q7849496,Q6581097,1989-02-24T00:00:00Z,2,Tsedenbalyn Tümenjargal,Tsedenbal Tumenjargal,Mongolian footballer,Q711,Q711
+Q7849496,Q6581097,1990-02-03T00:00:00Z,2,Tsedenbalyn Tümenjargal,Tsedenbal Tumenjargal,Mongolian footballer,Q711,Q711
+Q7849526,Q6581097,1956-01-01T00:00:00Z,4,Tsendiin Nyamdorj,Tsendiin Nyamdorj,Mongolian politician,Q711,Q192942
+Q7849559,Q6581097,1970-10-31T00:00:00Z,5,Tserenbaataryn Tsogtbayar,Tserenbaataryn Tsogtbayar,Olympic wrestler,Q711,Q23430
+Q7849820,Q6581072,1981-02-28T00:00:00Z,3,Tsogbadrakhyn Mönkhzul,Tsogbadrakhyn Mönkhzul,Olympic pistol shooter,Q711,Q23430
+Q786064,Q6581097,1985-05-13T00:00:00Z,9,Ganbaataryn Tögsbayar,Ganbaataryn Tögsbayar,Mongolian footballer,Q711,Q23430
+Q7862435,Q6581072,1981-08-23T00:00:00Z,6,Tümen-Odyn Battögs,Tümen-Odyn Battögs,Olympic judoka,Q711,Q572951
+Q7878711,Q6581097,1984-11-24T00:00:00Z,3,Byamba,Ulambayaryn Byambajav,Mongolian sumo wrestler (1984-2020),Q711,Q23430
+Q804097,Q6581097,1935-11-09T00:00:00Z,7,Bayanjavyn Damdinjav,Bayanjavyn Damdinjav,Mongol biathlete and cross-country skier,Q711,Q244788
+Q804108,Q6581097,1980-03-11T00:00:00Z,8,Bayaraagiin Naranbaatar,Bayaraagiin Naranbaatar,Mongolian wrestler,Q711,Q23430
+Q8062603,Q6581097,1956-01-01T00:00:00Z,2,Yümjiriin Mönkh-Amgalan,Yümjiriin Mönkh-Amgalan,Mongolian dialectoloigst,Q711,
+Q8073551,Q6581097,1901-01-01T00:00:00Z,5,Zolbingiin Shijee,Zolbingiin Shijee,Mongolian politician,Q711,Q1207820
+Q8074465,Q6581072,1974-03-19T00:00:00Z,1,Zorigtyn Batkhuyag,Zorigtyn Batkhuyag,Olympic rifle shooter,Q711,Q23430
+Q81065,Q6581097,1966-05-23T00:00:00Z,8,Zandaakhüügiin Enkhbold,Zandaakhüügiin Enkhbold,Mongolian politician,Q711,Q23430
+Q81067,Q6581097,1941-04-15T00:00:00Z,6,Damdiny Demberel,Damdiny Demberel,Chairman of the State Great Khural of Mongolia,Q711,
+Q81129,Q6581097,1947-12-05T00:00:00Z,33,Jügderdemidiin Gürragchaa,Jügderdemidiin Gürragchaa,Mongolian cosmonaut,Q711,Q2606082
+Q8189131,Q6581097,1976-12-01T00:00:00Z,7,Blue Wolf,Dolgorsürengiin Serjbüdee,Mongolian professional wrestler,Q711,Q23430
+Q823491,Q6581097,1949-02-05T00:00:00Z,12,Maidarjavyn Ganzorig,Maidarzhavyn Ganzorig,Mongolian cosmonaut (1949-2021),Q711,Q529834
+Q847306,Q6581072,1970-04-20T00:00:00Z,8,Sarantuya,Sarantuya,Mongolian singer,Q711,Q23430
+Q856997,Q6581097,1935-01-05T00:00:00Z,7,Bizyaagiin Dashgai,Bizyaagiin Dashgai,Mongolian cross-country skier and biathlete,Q711,Q3410111
+Q85860736,Q6581072,1998-04-06T00:00:00Z,7,Enkh-Amaryn Davaanasan,Enkh-Amaryn Davaanasan,Mongolian wrestler,Q711,
+Q85860739,Q6581072,1999-06-01T00:00:00Z,10,Enkhsaikhany Delgermaa,Enkhsaikhan Delgermaa,Mongol amateur wrestler,Q711,Q3403786
+Q85939462,Q6581072,1962-04-24T00:00:00Z,2,Byambajavyn Altantsetseg,Byambajavyn Altantsetseg,Mongolian sport shooter,Q711,
+Q86376914,Q6581072,1950-01-01T00:00:00Z,9,Gana Bayarsaikhan,Gana Bayarsaikhan,Mongolian actress,Q711,Q711
+Q879330,Q6581097,1905-12-25T00:00:00Z,16,Byambyn Rinchen,Byambyn Rinchen,Mongolian academic (1905-1977),Q711,Q2475882
+Q887753,Q6581097,1942-01-23T00:00:00Z,33,Punsalmaagiin Ochirbat,Punsalmaagiin Ochirbat,"Mongolian politician, president of Mongolia",Q711,Q167764
+Q891279,Q6581097,1983-06-23T00:00:00Z,4,Boldbaataryn Bold-Erdene,Boldbaatar Bold-Erdene,Mongol bicycle racer,Q711,
+Q891279,Q6581097,1983-06-24T00:00:00Z,4,Boldbaataryn Bold-Erdene,Boldbaatar Bold-Erdene,Mongol bicycle racer,Q711,
+Q902781,Q6581097,1962-08-16T00:00:00Z,2,Ganbold Davaakhuugiin,Ganbold Davaakhuugiin,Mongolian literary historian and translator,Q711,http://www.wikidata.org/.well-known/genid/0c2689c43dc6244d051496e737baebda
+Q9122260,Q6581097,1963-03-03T00:00:00Z,46,Khaltmaagiin Battulga,Khaltmaagiin Battulga,"Mongolian President, member of Democratic party",Q711,Q23430
+Q9122260,Q6581097,1963-03-03T00:00:00Z,46,Khaltmaagiin Battulga,Khaltmaagiin Battulga,"Mongolian President, member of Democratic party",Q212056,Q23430
+Q9139974,Q6581097,1959-04-04T00:00:00Z,4,Tsagaan Puntsag,Puntsagiin Tsagaan,politician,Q711,
+Q9143473,Q6581097,1973-01-01T00:00:00Z,4,Jadambyn Enkhbayar,Jadambyn Enkhbayar,politician,Q711,
+Q9149136,Q6581097,1968-01-16T00:00:00Z,4,Altangadasyn Sodnomdarjaa,Altangadasyn Sodnomdardżaa,Mongol speed skater,Q711,Q23430
+Q9164912,Q6581097,1937-10-14T00:00:00Z,2,Banzragchiin Zundui,Banzragchiin Zundui,Mongolian cross-country skier,Q711,
+Q9167377,Q6581097,1980-11-07T00:00:00Z,2,Battulgyn Oktyabri,Battulgyn Oktyabri,Mongolian speed skater,Q711,
+Q9176494,Q6581097,1976-12-04T00:00:00Z,5,Boldyn Sansarbileg,Boldyn Sansarbileg,Mongolian speed skater,Q711,Q956
+Q9176494,Q6581097,1976-04-12T00:00:00Z,5,Boldyn Sansarbileg,Boldyn Sansarbileg,Mongolian speed skater,Q711,Q956
+Q9183005,Q6581097,1943-07-15T00:00:00Z,4,Büjiin Jalbaa,Bujiin Jalbaa,Mongolian speed skater,Q711,Q244788
+Q9185494,Q6581072,1940-09-12T00:00:00Z,4,Tsedenjavyn Lkhamjav,Tsedenjavyn Lkhamjav,speed skater from Mongolia,Q711,Q3403761
+Q9201027,Q6581097,1941-06-20T00:00:00Z,2,Dambadarjaagiin Baadai,Dambadardżaagijn Baadaj,Mongolian cross-country skier,Q711,
+Q9201029,Q6581097,1968-01-05T00:00:00Z,3,Dambajantsagiin Battulga,Dambajantsagiin Battulga,Mongolian cross-country skier,Q711,
+Q9201195,Q6581097,1945-01-29T00:00:00Z,3,Danzangiin Narantungalag,Dandzangijn Narantungalag,Mongolian cross-country skier,Q711,
+Q9202461,Q6581097,1977-12-07T00:00:00Z,3,Dashzevegiin Ochirsükh,Daszdzewegijn Oczirsüch,Mongolian cross-country skier,Q711,
+Q9210100,Q6581072,1944-10-12T00:00:00Z,3,Dorjgotovyn Pürevloov,Dordżgotowyn Pürewloow,Athlete,Q711,
+Q9210102,Q6581097,1954-08-25T00:00:00Z,2,Dorjiin Tsenddoo,Dordżijn Cenddoo,Mongol speed skater,Q711,
+Q9248882,Q6581097,1967-03-01T00:00:00Z,4,Ziitsagaany Ganbat,Dzijcagaany Ganbat,Mongolian cross-country skier,Q711,
+Q9249714,Q6581072,1944-09-17T00:00:00Z,2,Jigjeegiin Javzandulam,Dżigdżeegijn Dżawdzandulam,Mongolian cross-country skier,Q711,
+Q9265811,Q6581097,1986-07-13T00:00:00Z,2,Ganbatyn Jargalanchuluun,Ganbatyn Jargalanchuluun,Mongolian speed skater,Q711,
+Q9266764,Q6581097,1944-08-10T00:00:00Z,5,Gendgeegiin Batmönkh,Gendgeegijn Batmönch,Mongolian cross-country skier,Q711,Q244788
+Q9274454,Q6581097,1967-07-31T00:00:00Z,3,Gongoryn Myeryei,Gongoryn Myeryei,Mongolian cross-country skier,Q711,
+Q9318440,Q6581097,1955-01-01T00:00:00Z,7,Dendeviin Terbishdagva,Dendev Terbishdagva,Mongolian politician,Q711,Q207809
+Q9318440,Q6581097,1955-01-01T00:00:00Z,7,Dendeviin Terbishdagva,Dendev Terbishdagva,Mongolian politician,Q711,Q23430
+Q9318440,Q6581097,1955-01-01T00:00:00Z,7,Dendeviin Terbishdagva,Dendev Terbishdagva,Mongolian politician,Q711,Q2672420
+Q932215,Q6581097,1945-07-01T00:00:00Z,11,Altangerel Perle,Altangerel Perle,Mongolian palaeontologist,Q711,Q711
+Q9339129,Q6581097,1938-09-10T00:00:00Z,3,Sodnomtserengiin Natsagdorj,Sodnomcerengijn Nacagdordż,Mongolian cross-country skier,Q711,
+Q9346959,Q6581097,1929-11-15T00:00:00Z,10,Gombojavyn Ochirbat,Gombojavyn Ochirbat,Leader of Mongolian People's Revolutionary Party at 1990-1991,Q711,Q167764
+Q9350396,Q6581097,1970-01-14T00:00:00Z,10,Damdiny Tsogtbaatar,Tsogtbaatar Damdin,Mongolian politician,Q711,Q23430
+Q9363813,Q6581097,1960-05-05T00:00:00Z,2,Tömörbaataryn Nyamdavaa,Tömörbaataryn Njamdawaa,Mongol speed skater,Q711,
+Q9452277,Q6581097,1961-01-01T00:00:00Z,4,Luvsanvandangiin Bold,Luvsanvandangiin Bold,Mongolian politician,Q711,
+Q97262294,Q6581072,1981-01-01T00:00:00Z,2,Khürelbaataryn Bulgantuya,Khurelbaataryn Bulgantuya,Mongolian politician,Q711,Q711
+Q97314741,Q6581097,1916-03-18T00:00:00Z,2,Dashiin Tserendagva,Dashiin Tserendagva,Mongolian chess player,Q711,
+Q97314880,Q6581097,1919-01-01T00:00:00Z,2,Tseveenii Jügder,Tseveenii Zhugder,Mongolian chess player,Q711,Q3410062
+Q97316369,Q6581097,1936-01-06T00:00:00Z,2,Purev Tumurbator,Purev Tumurbator,Mongolian chess player,Q711,
+Q982609,Q6581097,1929-12-07T00:00:00Z,6,Sengiin Erdene,Sengiin Erdene,Mongolian writer (1929–2000),Q711,Q3404134
+Q99913160,Q6581072,2000-01-01T00:00:00Z,3,Gankhuurai Battungalag,Gankhuurai Battungalag,Mongolian diplomat,Q711,

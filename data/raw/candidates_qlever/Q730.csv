@@ -1,0 +1,466 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q101150681,Q6581097,1955-01-01T00:00:00Z,4,Rajendre Khargi,Rajendre Khargi,Surinamese Journalist,Q29999,Q3001
+Q101150681,Q6581097,1955-01-01T00:00:00Z,4,Rajendre Khargi,Rajendre Khargi,Surinamese Journalist,Q730,Q3001
+Q101628259,Q6581097,2001-12-22T00:00:00Z,15,Nathan Tjoe-A-On,Nathan Tjoe-A-On,Indonesian football player,Q252,Q34370
+Q101628259,Q6581097,2001-12-22T00:00:00Z,15,Nathan Tjoe-A-On,Nathan Tjoe-A-On,Indonesian football player,Q29999,Q34370
+Q101628259,Q6581097,2001-12-22T00:00:00Z,15,Nathan Tjoe-A-On,Nathan Tjoe-A-On,Indonesian football player,Q730,Q34370
+Q10430328,Q6581097,1974-01-13T00:00:00Z,4,Orlando Grootfaam,Orlando Grootfaam,Surinamese footballer (1974-2019),Q730,Q730
+Q104530157,Q6581072,2000-01-01T00:00:00Z,3,Marthelise Eersel,Marthelise Eersel,Surinamese biostatician,Q730,
+Q104634496,Q6581097,2004-02-05T00:00:00Z,4,Aurelio Oehlers,Aurelio Oehlers,Dutch association football player,Q730,Q83178
+Q104634496,Q6581097,2004-02-05T00:00:00Z,4,Aurelio Oehlers,Aurelio Oehlers,Dutch association football player,Q29999,Q83178
+Q105224850,Q6581097,1995-03-02T00:00:00Z,2,Purcy de Baas,Purcy de Baas,Surinamese footballer,Q730,Q3001
+Q105336859,Q6581072,1980-01-16T00:00:00Z,2,Jolanda Saling,Jolanda Saling,Surinamese footballer,Q730,
+Q105528134,Q6581097,1988-07-18T00:00:00Z,2,Virgill Najoe,Virgill Najoe,Surinamese footballer,Q730,Q3001
+Q105912828,Q6581097,1965-01-01T00:00:00Z,3,Orlando Lansdorf,Orlando Lansdorf,Dutch drag queen and HIV activist,Q29999,
+Q105912828,Q6581097,1965-01-01T00:00:00Z,3,Orlando Lansdorf,Orlando Lansdorf,Dutch drag queen and HIV activist,Q730,
+Q105954938,Q6581097,1942-06-09T00:00:00Z,4,Asongo Alalaparu,Asongo Alalaparu,Surinamese paramount chief,Q730,Q7646305
+Q106096066,Q6581097,1962-01-09T00:00:00Z,3,Shahied Wagid Hosain,Shahied Wagid Hosain,Surinamese singer,Q730,Q106111222
+Q106096066,Q6581097,1962-01-09T00:00:00Z,3,Shahied Wagid Hosain,Shahied Wagid Hosain,Surinamese singer,Q29999,Q106111222
+Q106322773,Q6581072,1952-02-20T00:00:00Z,2,Hélène Ramjiawan,Hélène Ramjiawan,writer (1952-2021),Q730,Q953057
+Q106368319,Q6581097,2002-07-08T00:00:00Z,4,Silvinho Esajas,Silvinho Esajas,Surinamese footballer,Q730,Q9821
+Q106368319,Q6581097,2002-07-08T00:00:00Z,4,Silvinho Esajas,Silvinho Esajas,Surinamese footballer,Q29999,Q9821
+Q106823868,Q6581072,1958-01-01T00:00:00Z,3,Karin Refos,Karin Refos,Surinamese entrepreneur and human rights activist,Q730,
+Q106906868,Q6581072,1990-07-10T00:00:00Z,6,A Mili,A Mili,Surinamese singer,Q730,Q3001
+Q1069740,Q6581097,1983-09-24T00:00:00Z,7,Cerezo Fung a Wing,Cerezo Fung a Wing,Dutch footballer,Q730,Q3001
+Q1069740,Q6581097,1983-09-24T00:00:00Z,7,Cerezo Fung a Wing,Cerezo Fung a Wing,Dutch footballer,Q29999,Q3001
+Q1071555,Q6581097,1985-09-03T00:00:00Z,18,Tyrone Spong,Tyrone Spong,Surinamese martial artist,Q730,Q3001
+Q1071555,Q6581097,1985-09-03T00:00:00Z,18,Tyrone Spong,Tyrone Spong,Surinamese martial artist,Q29999,Q3001
+Q107549374,Q6581097,1944-12-02T00:00:00Z,2,Lex Rijger,Lex Rijger,Surinamese country singer and songwriter,Q730,
+Q108000377,Q6581097,2002-04-23T00:00:00Z,11,Yannick Leliendal,Yannick Leliendal,Surinamese association football player (born 2002),Q29999,Q727
+Q108000377,Q6581097,2002-04-23T00:00:00Z,11,Yannick Leliendal,Yannick Leliendal,Surinamese association football player (born 2002),Q730,Q727
+Q1089237,Q6581097,1978-06-25T00:00:00Z,17,Chuckie (DJ),Chuckie,Surinamese DJ and producer,Q730,Q3001
+Q108964239,Q6581072,1959-04-08T00:00:00Z,4,Fidelia Graand-Galon,Fidelia Graand-Galon,Surinamese sociologue and former ambassador,Q730,Q24226
+Q10964090,Q6581097,1935-08-04T00:00:00Z,3,Michaël Slory,Michaël Slory,Surinamese poet (1935-2018),Q730,Q1357920
+Q109771543,Q6581097,2002-08-09T00:00:00Z,9,Jaden Montnor,Jaden Montnor,Surinamese footballer,Q29999,Q727
+Q109771543,Q6581097,2002-08-09T00:00:00Z,9,Jaden Montnor,Jaden Montnor,Surinamese footballer,Q730,Q727
+Q110771832,Q6581097,1999-11-11T00:00:00Z,3,Jamilhio Rigters,Jamilhio Rigters,Surinamese footballer,Q730,Q730
+Q111692754,Q6581072,2003-03-06T00:00:00Z,3,Cady Chin See Chong,Cady Chin See Chong,Surinamese footballer,Q730,Q3001
+Q113957603,Q6581097,1989-10-03T00:00:00Z,4,Zachari Zeegelaar,Zachari Zeegelaar,Surinames soccer arbiter,Q730,Q3001
+Q1142382,Q6581072,1995-01-06T00:00:00Z,7,Crystal Leefmans,Crystal Leefmans,badminton player,Q730,
+Q1158226,Q6581097,1986-07-02T00:00:00Z,5,Damaru (singer),Damaru,rapper and singer from Surinam,Q730,Q3001
+Q116209582,Q6581097,1949-11-11T00:00:00Z,6,Dilip Sardjoe,Dilip Sardjoe,Surinamese businessman and politician,Q730,Q952510
+Q116303961,Q6581072,1961-04-24T00:00:00Z,3,Ingrid Bouterse-Waldring,Ingrid Bouterse-Waldring,wife of Desi Bouterse,Q730,Q3001
+Q117213595,Q6581072,1949-11-09T00:00:00Z,2,Renate Wouden,Renate Wouden,Surinamese trade unionist,Q730,
+Q11789393,Q6581097,1986-04-20T00:00:00Z,6,Naldo Kwasie,Naldo Kwasie,Surinamese footballer,Q730,Q730
+Q1195363,Q6581097,1976-05-11T00:00:00Z,17,Melvin Manhoef,Melvin Manhoef,Surinamese-Dutch professional kickboxer and mixed martial artist,Q730,Q3001
+Q1195363,Q6581097,1976-05-11T00:00:00Z,17,Melvin Manhoef,Melvin Manhoef,Surinamese-Dutch professional kickboxer and mixed martial artist,Q29999,Q3001
+Q119949323,Q6581097,2006-06-02T00:00:00Z,12,Givairo Read,Givairo Read,Dutch footballer,Q730,Q727
+Q119949323,Q6581097,2006-06-02T00:00:00Z,12,Givairo Read,Givairo Read,Dutch footballer,Q29999,Q727
+Q120240194,Q6581097,1989-01-01T00:00:00Z,3,Mitchell Brunings,Mitchell Brunings,Surinamese singer,Q730,
+Q120622123,Q6581097,2004-12-29T00:00:00Z,8,Issam Asinga,Issam Asinga,Surinamese sprinter (born 2004),Q730,Q23556
+Q121841645,Q6581097,2003-05-14T00:00:00Z,4,Shiloh 't Zand,Shiloh 't Zand,Dutch-Surinamese association football player (born 2003),Q730,Q34370
+Q121841645,Q6581097,2003-05-14T00:00:00Z,4,Shiloh 't Zand,Shiloh 't Zand,Dutch-Surinamese association football player (born 2003),Q29999,Q34370
+Q125856797,Q6581097,1916-06-23T00:00:00Z,2,Mohamed Islam Ramdjan,Mohamed Islam Ramdjan,Surinam wrestler and politician,Q730,
+Q126118691,Q6581072,1964-02-08T00:00:00Z,2,Monique Pool,Monique Pool,Surinamese environmentalist,Q730,
+Q1283127,Q6581097,1923-05-12T00:00:00Z,4,Eddy Snijders,Eddy Snijders,"Surinamese conductor, composer and musicologist",Q730,Q3001
+Q130809319,Q6581097,2005-10-02T00:00:00Z,7,Marvin Young (footballer),Marvin Young,footballer,Q29999,Q52101
+Q130809319,Q6581097,2005-10-02T00:00:00Z,7,Marvin Young (footballer),Marvin Young,footballer,Q730,Q52101
+Q131622850,Q6581072,1988-11-25T00:00:00Z,7,Maya Parbhoe,Maya Parbhoe,Surinamese entrepreneur,Q730,Q3001
+Q132717155,Q6581097,1951-01-28T00:00:00Z,2,Jules Brand-Flu,,Surinamese artist and art teacher (born 1951),Q730,Q3001
+Q1337396,Q6581097,1961-08-16T00:00:00Z,11,Robert Ameerali,Robert Ameerali,Surinamese politician,Q730,Q3001
+Q134717518,Q6581097,2008-05-22T00:00:00Z,1,Chivano Wijks,Chivano Wijks,Dutch footballer (born 2008),Q29999,Q36600
+Q134717518,Q6581097,2008-05-22T00:00:00Z,1,Chivano Wijks,Chivano Wijks,Dutch footballer (born 2008),Q730,Q36600
+Q13476112,Q6581097,1992-12-22T00:00:00Z,4,Dylan Darmohoetomo,Dylan Darmohoetomo,badminton player,Q730,Q738313
+Q13576621,Q6581097,1924-09-22T00:00:00Z,5,Emile Wijntuin,Emile Wijntuin,Surinamese politician (1924-2020),Q730,Q1357920
+Q135880981,Q6581097,2007-11-12T00:00:00Z,3,Rojendro Oudsten,Rojendro Oudsten,Surinamese footballer,Q730,Q730
+Q135880981,Q6581097,2007-12-11T00:00:00Z,3,Rojendro Oudsten,Rojendro Oudsten,Surinamese footballer,Q730,Q730
+Q13657643,Q6581097,1940-03-31T00:00:00Z,3,Harvey Naarendorp,Harvey Naarendorp,Surinamese politician,Q730,Q3001
+Q13749896,Q6581097,1954-09-24T00:00:00Z,6,Lesley Rahman,Lesley Rahman,Surinamese journalist,Q730,Q21203
+Q1375385,Q6581097,1984-12-09T00:00:00Z,5,Wensley Christoph,Wensley Christoph,Surinamese footballer,Q730,Q3001
+Q138917509,Q6581097,2009-04-18T00:00:00Z,4,Jivayno Zinhagel,Jivayno Zinhagel,Dutch footballer (born 2009),Q29999,Q34370
+Q138917509,Q6581097,2009-04-18T00:00:00Z,4,Jivayno Zinhagel,Jivayno Zinhagel,Dutch footballer (born 2009),Q730,Q34370
+Q140764414,Q6581097,2002-03-12T00:00:00Z,4,Damian Pinas,Damian Pinas,Surinamese-Aruban mixed martial arts fighter,Q730,Q3001
+Q140918275,Q6581097,1933-04-24T00:00:00Z,1,August Foe A Man,August Foe A Man,Surinamese footballer (1933–2022),Q7646305,Q3001
+Q140918275,Q6581097,1933-04-24T00:00:00Z,1,August Foe A Man,August Foe A Man,Surinamese footballer (1933–2022),Q730,Q3001
+Q140918275,Q6581097,1933-04-24T00:00:00Z,1,August Foe A Man,August Foe A Man,Surinamese footballer (1933–2022),Q19901436,Q3001
+Q14337713,Q6581097,1959-11-28T00:00:00Z,4,Siegfried Cruden,Siegfried Cruden,Surinamese sprinter,Q730,
+Q1444020,Q6581097,1934-09-03T00:00:00Z,9,Pretaap Radhakishun,Pretaap Radhakishun,Surinamese politician (1934-2001),Q730,Q730
+Q1474935,Q6581097,1989-07-21T00:00:00Z,6,Furhgill Zeldenrust,Furhgill Zeldenrust,Dutch footballer,Q730,Q3001
+Q1474935,Q6581097,1989-07-21T00:00:00Z,6,Furhgill Zeldenrust,Furhgill Zeldenrust,Dutch footballer,Q29999,Q3001
+Q1493605,Q6581097,1933-02-28T00:00:00Z,12,Aloysius Ferdinandus Zichem,Aloysius Ferdinandus Zichem,Surinamese Roman Catholic bishop (1933–2016),Q730,Q3001
+Q151329,Q6581097,1994-03-22T00:00:00Z,27,Jean-Paul Boëtius,Jean-Paul Boëtius,Surinamese association football player (born 1994),Q730,Q34370
+Q151329,Q6581097,1994-03-22T00:00:00Z,27,Jean-Paul Boëtius,Jean-Paul Boëtius,Surinamese association football player (born 1994),Q29999,Q34370
+Q151847,Q6581097,1933-01-12T00:00:00Z,7,Harold Riedewald,Harold Riedewald,Surinamese lawyer,Q730,Q3001
+Q15615205,Q6581097,1982-03-17T00:00:00Z,8,Andy Ristie,Andy Ristie,Dutch-Surinamese kickboxer,Q730,Q3001
+Q15820879,Q6581097,1993-10-19T00:00:00Z,10,Jaïr Tjon En Fa,Jair Tjon En Fa,Surinamese cyclist,Q730,Q3001
+Q15869330,Q6581072,1965-06-03T00:00:00Z,4,Adelien Wijnerman,Adelien Wijnerman,Surinamese politician,Q730,Q3001
+Q15943533,Q6581097,1941-03-18T00:00:00Z,2,Max Nijman,Max Nijman,Surinamese singer (1941-2016),Q730,Q1140897
+Q15943533,Q6581097,1941-03-18T00:00:00Z,2,Max Nijman,Max Nijman,Surinamese singer (1941-2016),Q730,Q24226
+Q15987764,Q6581097,1982-11-29T00:00:00Z,3,Redouan Cairo,Redouan Cairo,kickboxer,Q730,
+Q16003031,Q6581097,1911-07-23T00:00:00Z,5,Lodewijk Parisius,Lodewijk Parisius,Surinamese/Dutch tenor saxophonist (1911-1963),Q730,
+Q16003031,Q6581097,1911-07-23T00:00:00Z,5,Lodewijk Parisius,Lodewijk Parisius,Surinamese/Dutch tenor saxophonist (1911-1963),Q29999,
+Q1604941,Q6581097,1936-04-25T00:00:00Z,24,Henck Arron,Henck Arron,First Suriname Prime Minister (1936–2000),Q730,Q3001
+Q16069223,Q6581097,1994-07-31T00:00:00Z,20,Sean Klaiber,Sean Klaiber,Dutch footballer,Q730,Q10050
+Q16069223,Q6581097,1994-07-31T00:00:00Z,20,Sean Klaiber,Sean Klaiber,Dutch footballer,Q29999,Q10050
+Q16069260,Q6581097,1995-02-09T00:00:00Z,22,Sheraldo Becker,Sheraldo Becker,Surinamese association football player (born 1995),Q29999,Q727
+Q16069260,Q6581097,1995-02-09T00:00:00Z,22,Sheraldo Becker,Sheraldo Becker,Surinamese association football player (born 1995),Q730,Q727
+Q16145959,Q6581097,1988-07-13T00:00:00Z,2,Ifrish Alberg,Ifrish Alberg,"Surinamese athlete, soccer player and economist",Q730,Q3001
+Q16149407,Q6581097,1994-07-19T00:00:00Z,5,Dimitrie Apai,Dimitrie Apai,Surinamese footballer,Q730,Q730
+Q16201341,Q6581097,1964-08-08T00:00:00Z,3,Hugo Jabini,Hugo Jabini,Surinamese environmentalist,Q730,
+Q16209447,Q6581097,1971-11-03T00:00:00Z,2,Lucien Boldewijn,Lucien Boldewijn,Dutch basketball player,Q730,Q3001
+Q16209447,Q6581097,1971-11-03T00:00:00Z,2,Lucien Boldewijn,Lucien Boldewijn,Dutch basketball player,Q29999,Q3001
+Q16217293,Q6581097,1978-12-18T00:00:00Z,2,Mike Fung-A-Wing,Mike Fung-A-Wing,Surinamese swimmer,Q730,Q3001
+Q17198195,Q6581097,1990-12-06T00:00:00Z,5,Obrendo Huiswoud,Obrendo Huiswoud,Surinamese footballer,Q730,Q730
+Q17269638,Q6581072,1947-01-01T00:00:00Z,3,Ruth Wijdenbosch,Ruth Wijdenbosch,Surinamese politician,Q730,
+Q17269736,Q6581097,1970-01-01T00:00:00Z,5,Marinus Bee,Marinus Bee,Surinamese politician,Q730,Q24226
+Q17269855,Q6581097,1958-01-01T00:00:00Z,5,Frederik Finisie,Frederik Finisie,Surinamese politician,Q730,
+Q17269886,Q6581097,1952-04-05T00:00:00Z,3,Winston Jessurun,Winston Jessurun,Surinamese politician,Q730,Q1130141
+Q17269993,Q6581072,1979-01-01T00:00:00Z,3,Diana Pokie,Diana M. Pokie,Surinamese politician,Q730,Q927447
+Q17270421,Q6581097,1956-03-10T00:00:00Z,3,Mahinder Rathipal,Mahinder Rathipal,Surinamese politician,Q730,
+Q17412698,Q6581097,1940-01-01T00:00:00Z,2,Belfon Aboikoni,Belfon Aboikoni,Granman of the Saamaka,Q730,
+Q17477927,Q6581097,1933-08-17T00:00:00Z,5,Humbert Boerleider,Humbert Boerleider,Surinamese sports coach and association football player (1933-2016),Q730,Q3001
+Q17478268,Q6581097,1984-03-25T00:00:00Z,5,Vangelino Sastromedjo,Vangelino Sastrodimedjo,Surinamese association football player,Q730,Q3001
+Q17478289,Q6581097,1988-02-04T00:00:00Z,5,Galgyto Talea,Galgyto Talea,Surinamese association football player and bicycle racer,Q730,Q730
+Q17478308,Q6581097,1983-08-04T00:00:00Z,4,Germaine van Dijk,Germaine van Dijk,Surinamese association football player,Q730,Q730
+Q17544353,Q6581097,1997-07-30T00:00:00Z,7,Miguel van Assen,Miguel Van Assen,Surinamese athletics competitor,Q730,Q730
+Q17563125,Q6581097,1981-07-26T00:00:00Z,4,Gordon Kinsaini,Gordon Kinsaini,Surinamese association football player,Q730,Q730
+Q17633323,Q6581097,1985-02-26T00:00:00Z,6,Gregory Rigters,Gregory Rigters,Surinamese association football player and bicycle racer (1985-2017),Q730,Q730
+Q1809058,Q6581097,1978-07-21T00:00:00Z,5,Marlon Felter,Marlon Felter,Surinamese association football player,Q730,Q730
+Q181987,Q6581097,1989-02-12T00:00:00Z,19,Dion Malone,Dion Malone,Surinamese footballer,Q730,Q3001
+Q181987,Q6581097,1989-02-12T00:00:00Z,19,Dion Malone,Dion Malone,Surinamese footballer,Q29999,Q3001
+Q181987,Q6581097,1989-02-13T00:00:00Z,19,Dion Malone,Dion Malone,Surinamese footballer,Q29999,Q3001
+Q181987,Q6581097,1989-02-13T00:00:00Z,19,Dion Malone,Dion Malone,Surinamese footballer,Q730,Q3001
+Q18199174,Q6581097,1995-12-02T00:00:00Z,17,Gyrano Kerk,Gyrano Kerk,Surinamese footballer,Q29999,Q727
+Q18199174,Q6581097,1995-12-02T00:00:00Z,17,Gyrano Kerk,Gyrano Kerk,Surinamese footballer,Q730,Q727
+Q18223847,Q6581097,1939-06-05T00:00:00Z,4,Ronald Kolf,Ronald Kolf,Surinamese sports coach,Q730,Q3001
+Q1826643,Q6581097,1972-11-18T00:00:00Z,4,Giovanni Linscheer,Giovanni Linscheer,Surinamese swimmer (1972–2000),Q730,Q730
+Q1828494,Q6581097,1937-09-29T00:00:00Z,7,Wim Udenhout,Wim Udenhout,Surinamese politician (1937–2023),Q730,Q1130141
+Q1830631,Q6581097,1968-11-20T00:00:00Z,6,Tommy Asinga,Tommy Asinga,athletics competitor (* 1968),Q730,Q24226
+Q1834461,Q6581097,1944-07-20T00:00:00Z,6,Borger Breeveld,Borger Breeveld,actor (born 1944),Q730,Q3001
+Q1855672,Q6581097,1984-07-05T00:00:00Z,6,Sergio De Randamie,Sergio de Randamie,Surinamese basketball player (born 1984),Q29999,Q3001
+Q1855672,Q6581097,1984-07-05T00:00:00Z,6,Sergio De Randamie,Sergio de Randamie,Surinamese basketball player (born 1984),Q730,Q3001
+Q1859370,Q6581097,1956-09-21T00:00:00Z,4,Ruben Rozendaal,Ruben Rozendaal,Surinamese soldier (1956-2017),Q730,Q3001
+Q18686377,Q6581097,1974-09-14T00:00:00Z,2,Roberto Gödeken,Roberto Gödeken,Surinamese football manager,Q730,Q3001
+Q1870732,Q6581097,1953-05-05T00:00:00Z,5,Surendre Rambocus,Soerinder Rambocus,Surinamese military personnel (1953-1982),Q730,Q1147515
+Q1871549,Q6581097,1958-02-27T00:00:00Z,9,Albert Ramdin,Albert Ramdin,Surinamese diplomat,Q730,Q2688457
+Q1879283,Q6581097,1951-09-08T00:00:00Z,6,John Baboeram,John Baboeram,Surinamese lawyer (1951–1982),Q730,Q738313
+Q1916814,Q6581097,1953-08-02T00:00:00Z,5,Sammy Monsels,Sammy Monsels,Surinamese athletics competitor,Q730,Q3001
+Q1917888,Q6581097,1955-05-25T00:00:00Z,3,André Pakosie,André Pakosie,"Herbalist, poet, and Ndyuka activist, who founded Sabanapeti health center and the Sabanapeti Foundation",Q730,Q2418540
+Q1932869,Q6581097,1951-01-18T00:00:00Z,7,Bram Behr,Bram Behr,Surinamese communist journalist (1951–1982),Q730,Q25279
+Q1939484,Q6581097,1985-08-26T00:00:00Z,7,Mitchel Wongsodikromo,Mitchel Wongsodikromo,badminton player,Q730,Q3001
+Q1949087,Q6581097,1945-01-27T00:00:00Z,11,Jules Ajodhia,Jules Ajodhia,Surinamese politician (1945–2024),Q29999,Q1147524
+Q1949087,Q6581097,1945-01-27T00:00:00Z,11,Jules Ajodhia,Jules Ajodhia,Surinamese politician (1945–2024),Q730,Q1147524
+Q1955114,Q6581097,1933-11-19T00:00:00Z,4,Cyrill Ramkisor,Cyrill Ramkisor,Dutch politician,Q730,
+Q19587751,Q6581097,1961-11-01T00:00:00Z,7,Kenny B,Kenny B,Surinamese singer,Q730,Q3001
+Q19587751,Q6581097,1961-11-01T00:00:00Z,7,Kenny B,Kenny B,Surinamese singer,Q29999,Q3001
+Q1968705,Q6581097,1961-03-07T00:00:00Z,22,Ronnie Brunswijk,Ronnie Brunswijk,Surinamese politician and former rebel (born 1961),Q730,Q2653931
+Q19787518,Q6581097,1990-03-20T00:00:00Z,8,Charlon Kloof,Charlon Kloof,Surinamese basketball player,Q29999,Q3001
+Q19787518,Q6581097,1990-03-20T00:00:00Z,8,Charlon Kloof,Charlon Kloof,Surinamese basketball player,Q730,Q3001
+Q1992304,Q6581097,1954-09-22T00:00:00Z,2,Harry Kisoensingh,Harry Kisoensingh,Surinamese politician,Q730,
+Q19974536,Q6581097,1974-10-19T00:00:00Z,5,Enrico Linscheer,Enrico Linscheer,Surinamese swimmer (* 1974),Q730,Q730
+Q20090594,Q6581097,1993-07-28T00:00:00Z,4,Bruce Diporedjo,Bruce Diporedjo,Surinamese association football player,Q730,Q730
+Q2032675,Q6581097,1971-08-08T00:00:00Z,8,Oscar Brandon,Oscar Brandon,badminton player,Q730,Q3001
+Q2038278,Q6581097,1962-10-28T00:00:00Z,4,Mohamed Madhar,Mohamed Madhar,Surinamese judoka,Q730,
+Q20631045,Q6581097,1994-09-15T00:00:00Z,5,Roxey Fer,Roxey Fer,Surinamese association football player,Q730,Q730
+Q20670527,Q6581097,1980-06-10T00:00:00Z,12,Ashwin Adhin,Ashwin Adhin,Surinamese politician,Q730,Q3001
+Q2067555,Q6581097,1935-01-26T00:00:00Z,5,Bhai (writer),Bhai,Surinamese poet (1935–2018),Q730,Q2688457
+Q2067916,Q6581097,1990-02-16T00:00:00Z,8,Giovanni Drenthe,Giovanni Drenthe,Surinamese footballer,Q730,Q3001
+Q2082693,Q6581097,2000-01-01T00:00:00Z,4,Jimmy Leonard Stolk,Jimmy Leonard Stolk,Surinamese businessman,Q730,
+Q20881255,Q6581097,1992-12-21T00:00:00Z,6,Jeffrey Vanan,Jeffrey Vanan,Surinamese athlete,Q730,
+Q2090067,Q6581097,1979-10-18T00:00:00Z,4,Ronny Aloema,Ronny Aloema,Surinamese association football player,Q730,Q730
+Q20972390,Q6581097,1998-03-13T00:00:00Z,15,Jay-Roy Grot,Jay-Roy Grot,Surinamese association football player (born 1998),Q730,Q1310
+Q20972390,Q6581097,1998-03-13T00:00:00Z,15,Jay-Roy Grot,Jay-Roy Grot,Surinamese association football player (born 1998),Q29999,Q1310
+Q2115868,Q6581097,1994-06-26T00:00:00Z,7,Diguan Pigot,Diguan Pigot,Surinamese swimmer,Q730,Q3001
+Q2118552,Q6581072,1977-02-04T00:00:00Z,6,Alice Amafo,Alice Amafo,Surinamese government minister,Q730,Q3001
+Q2120461,Q6581072,1965-03-08T00:00:00Z,6,Cándani,Cándani,writer from Suriname (1965-2021),Q730,Q2688457
+Q2124641,Q6581097,1939-03-21T00:00:00Z,6,André Haakmat,André Haakmat,Dutch politician and lawyer,Q730,Q3001
+Q2124641,Q6581097,1939-03-21T00:00:00Z,6,André Haakmat,André Haakmat,Dutch politician and lawyer,Q29999,Q3001
+Q2125987,Q6581097,1943-05-02T00:00:00Z,6,Paul Somohardjo,Paul Somohardjo,Surinamese politician,Q730,Q3001
+Q2126205,Q6581072,1993-05-01T00:00:00Z,7,Chinyere Pigot,Chinyere Pigot,Surinamese swimmer,Q730,Q3001
+Q21285651,Q6581097,1989-05-25T00:00:00Z,4,Giovanni Waal,Giovanni Waal,Surinamese association football player,Q730,Q3001
+Q2136171,Q6581072,1947-07-31T00:00:00Z,3,Willy Alberga,Willy Alberga,Surinamese journalist and writer,Q730,
+Q21467493,Q6581097,1958-12-20T00:00:00Z,11,Karel Choennie,Karel Marinus Choennie,Surinamese Roman Catholic bishop,Q730,Q1147524
+Q2148619,Q6581097,1953-05-08T00:00:00Z,4,Iwan Blijd,Iwan Blijd,Surinamese judoka,Q730,
+Q2162598,Q6581097,1909-12-12T00:00:00Z,7,Henry Lucien de Vries,Henry Lucien de Vries,Surinamese entrepreneur and politician (1909–1987),Q730,Q3001
+Q2162598,Q6581097,1909-12-12T00:00:00Z,7,Henry Lucien de Vries,Henry Lucien de Vries,Surinamese entrepreneur and politician (1909–1987),Q29999,Q3001
+Q2177923,Q6581097,1925-12-12T00:00:00Z,6,Eugène Drenthe,Eugène Drenthe,Surinamese poet and playwright (1925–2009),Q730,Q2445362
+Q2177923,Q6581097,1925-12-12T00:00:00Z,6,Eugène Drenthe,Eugène Drenthe,Surinamese poet and playwright (1925–2009),Q730,Q730
+Q2183590,Q6581072,1978-08-27T00:00:00Z,6,Carolyn Adel,Carolyn Adel,Surinamese swimmer (* 1978),Q730,Q730
+Q21849797,Q6581097,1939-07-07T00:00:00Z,6,Armand Sahadewsing,Armand Sahadewsing,Surinamese footballer,Q730,Q3001
+Q21872491,Q6581097,1982-04-05T00:00:00Z,3,Roché Emanuelson,Roché Emanuelson,Surinamese association football player,Q730,Q3001
+Q2191914,Q6581097,1919-04-21T00:00:00Z,3,Frank Essed,Frank Essed,Surinam politician and forestry academics,Q29999,Q3001
+Q2191914,Q6581097,1919-04-21T00:00:00Z,3,Frank Essed,Frank Essed,Surinam politician and forestry academics,Q730,Q3001
+Q2192029,Q6581097,1945-06-04T00:00:00Z,5,Robby Sohansingh,Robby Sohansingh,,Q730,Q3001
+Q21964597,Q6581097,1977-06-02T00:00:00Z,4,Julian Emanuelson,Julian Emanuelson,Footballer (born 1977),Q730,Q3001
+Q2197078,Q6581097,1940-08-25T00:00:00Z,4,Sugrim Oemrawsingh,Sugrim Oemrawsingh,Surinamese mathematician (1940–1982),Q730,Q1147515
+Q2199201,Q6581097,1904-01-01T00:00:00Z,3,Gazon Matodya,Gazon Matodya,Surinamese chief (1920–2011),Q730,Q55623571
+Q2199201,Q6581097,1920-04-20T00:00:00Z,3,Gazon Matodya,Gazon Matodya,Surinamese chief (1920–2011),Q730,Q55623571
+Q22003256,Q6581072,1962-07-04T00:00:00Z,11,Niermala Badrising,Niermala Badrising,politician and diplomat from Suriname,Q730,Q3001
+Q22003457,Q6581097,1933-11-18T00:00:00Z,5,Walther Braithwaite,Walther Braithwaite,association football player (1933–2018),Q730,Q1147515
+Q22004205,Q6581097,1953-04-16T00:00:00Z,5,Errol Emanuelson,Errol Emanuelson,association football player,Q730,Q3001
+Q22004737,Q6581097,1941-06-05T00:00:00Z,4,Siegfried Haltman,Siegfried Haltman,association football player (1941-2016),Q730,Q24226
+Q22004835,Q6581097,1999-09-17T00:00:00Z,9,Gleofilo Vlijter,Gleofilo Vlijter,Surinamese association football player,Q730,Q3001
+Q22004835,Q6581097,1999-09-17T00:00:00Z,9,Gleofilo Vlijter,Gleofilo Vlijter,Surinamese association football player,Q730,Q730
+Q22005870,Q6581097,1930-06-28T00:00:00Z,4,Leo Kogeldans,Leo Kogeldans,association football player (1930–2024),Q730,Q3001
+Q22007243,Q6581097,1950-08-28T00:00:00Z,4,Remie Olmberg,Remie Olmberg,Surinamese association football player,Q730,Q3001
+Q2202036,Q6581097,1953-12-13T00:00:00Z,5,Roy Horb,Roy Horb,Surinamese politician,Q730,Q730
+Q2207734,Q6581097,1981-02-13T00:00:00Z,4,Ferdinand Jap A Joe,Ferdinand Jap A Joe,Surinamese association football player,Q730,Q3001
+Q2212953,Q6581097,1955-12-07T00:00:00Z,4,Ivan Fernald,Ivan Fernald,Surinamese politician and taekwondo-in,Q730,Q3001
+Q22132866,Q6581097,1935-02-16T00:00:00Z,3,Stanley Duyzer,Stanley Duyzer,association football player (1935-2015),Q730,Q1130141
+Q22132962,Q6581097,1935-09-12T00:00:00Z,6,Herman Rijkaard,Herman Rijkaard,Surinamese association football player,Q730,Q3001
+Q22277213,Q6581097,1948-06-26T00:00:00Z,3,Wensley Bundel,Wensley Bundel,Surinamese footballer (1948–2024),Q730,Q3001
+Q22277706,Q6581097,1955-01-01T00:00:00Z,4,Rinaldo Entingh,Rinaldo Entingh,Surinamese footballer,Q730,Q3001
+Q22279207,Q6581097,1933-02-08T00:00:00Z,5,Frank Mijnals,Frank Mijnals,Surinamese football player,Q730,Q24226
+Q22279993,Q6581097,1942-12-26T00:00:00Z,3,Harald Reumel,Harald Reumel,association football player,Q730,Q580016
+Q22280034,Q6581097,1956-12-31T00:00:00Z,5,Delano Rigters,Delano Rigters,Surinamese footballer,Q730,Q1130141
+Q22280304,Q6581097,1943-10-03T00:00:00Z,4,Edwin Schal,Edwin Schal,association football player,Q730,Q3001
+Q22280436,Q6581097,1947-12-18T00:00:00Z,4,Roy Vanenburg,Roy Vanenburg,Surinamese footballer and manager,Q730,Q3001
+Q22280463,Q6581097,1974-11-17T00:00:00Z,3,Ifenildo Vlijter,Ifenildo Vlijter,association football player,Q730,Q3001
+Q22280465,Q6581097,1976-10-07T00:00:00Z,4,Cleven Wanabo,Cleven Wanabo,association football player,Q730,Q3001
+Q2235556,Q6581097,1965-12-30T00:00:00Z,5,Tito Rodrigues,Tito Rodrigues,Surinamese athletics competitor,Q730,Q730
+Q2240873,Q6581097,1983-04-22T00:00:00Z,2,Cornelis Sibe,Cornelis Sibe,Surinamese athletics competitor,Q730,
+Q2245780,Q6581072,1948-11-12T00:00:00Z,2,Celestine Raalte,Celestine Raalte,writer and performance artist from Suriname,Q730,Q124825047
+Q2245780,Q6581072,1948-11-12T00:00:00Z,2,Celestine Raalte,Celestine Raalte,writer and performance artist from Suriname,Q730,Q3001
+Q2245780,Q6581072,1948-01-01T00:00:00Z,2,Celestine Raalte,Celestine Raalte,writer and performance artist from Suriname,Q730,Q124825047
+Q2245780,Q6581072,1948-01-01T00:00:00Z,2,Celestine Raalte,Celestine Raalte,writer and performance artist from Suriname,Q730,Q3001
+Q2283325,Q6581097,1935-04-16T00:00:00Z,6,Wim Esajas,Wim Esajas,Surinamese athlete (1935–2005),Q730,
+Q2287887,Q6581097,1962-10-25T00:00:00Z,3,Reinier Asmoredjo,Reinier Asmoredjo,Surinamese painter (born 1962),Q730,Q3001
+Q2294834,Q6581097,1955-01-01T00:00:00Z,6,Wilfred Hawker,Wilfred Hawker,Surinamese rebel,Q730,Q730
+Q22953752,Q6581072,1950-06-13T00:00:00Z,12,Gloria Wekker,Gloria Wekker,Surinamese-Dutch university professor,Q29999,Q3001
+Q22953752,Q6581072,1950-06-13T00:00:00Z,12,Gloria Wekker,Gloria Wekker,Surinamese-Dutch university professor,Q730,Q3001
+Q23008618,Q6581097,1938-09-20T00:00:00Z,4,Leo Schipper,Leo Schipper,association football player (1938-1984),Q730,Q3001
+Q23071137,Q6581097,1937-04-10T00:00:00Z,4,Emile Barron,Emile Barron,association football player (1937-2015),Q730,Q3001
+Q2312071,Q6581097,1951-01-14T00:00:00Z,4,Roy Bottse,Roy Bottse,Surinamese athletics competitor,Q730,Q730
+Q2312194,Q6581072,1991-08-26T00:00:00Z,5,Kirsten Nieuwendam,Kirsten Nieuwendam,Surinamese athlete,Q730,Q3001
+Q2342008,Q6581072,1940-12-04T00:00:00Z,6,Trudi Guda,Trudi Guda,Surinamese poet & anthropologist,Q730,Q3001
+Q2343151,Q6581097,1929-03-04T00:00:00Z,4,Bernardo Ashetu,Bernardo Ashetu,poet poet (1929-1982),Q730,Q130391959
+Q2343151,Q6581097,1929-03-04T00:00:00Z,4,Bernardo Ashetu,Bernardo Ashetu,poet poet (1929-1982),Q730,Q956753
+Q2346692,Q6581097,1975-01-12T00:00:00Z,2,Dennis Baino,Dennis Baino,Surinamese footballer,Q730,
+Q23682757,Q6581097,1939-07-31T00:00:00Z,4,Jules Lagadeau,Jules Lagadeau,Surinamese footballer (1939–2019),Q730,Q3001
+Q23771694,Q6581097,1992-07-02T00:00:00Z,3,Claidel Kohinor,Claidel Kohinor,association football player,Q730,Q3001
+Q23883776,Q6581097,1995-07-08T00:00:00Z,15,Renzo Tjon-A-Joe,Renzo Tjon-A-Joe,Surinamese swimmer,Q730,Q3001
+Q2408633,Q6581097,1936-05-29T00:00:00Z,4,Cyrill Daal,Cyrill Daal,Surinamese trade unionist (1936–1982),Q730,Q3001
+Q2422077,Q6581097,1922-06-09T00:00:00Z,9,Hein Eersel,Hein Eersel,Surinamese linguist (1922–2022),Q730,Q3001
+Q24258720,Q6581097,1982-03-08T00:00:00Z,2,Guillermo Dongo,Guillermo Dongo,Surinamese sprinter,Q730,Q3001
+Q2433485,Q6581097,1930-12-21T00:00:00Z,14,Humphrey Mijnals,Humphrey Mijnals,Dutch-Surinamese footballer (1930-2019),Q730,Q24226
+Q2433485,Q6581097,1930-12-21T00:00:00Z,14,Humphrey Mijnals,Humphrey Mijnals,Dutch-Surinamese footballer (1930-2019),Q29999,Q24226
+Q2433870,Q6581097,1969-09-05T00:00:00Z,3,Realdo Jessurun,Realdo Jessurun,Surinamese bicycle racer,Q730,
+Q2439456,Q6581097,1905-07-26T00:00:00Z,3,Louis Doedel,Louis Doedel,Surinamese trade unionist (1905–1980),Q730,Q3001
+Q2442167,Q6581097,1921-10-17T00:00:00Z,3,Olton van Genderen,Olton van Genderen,Surinamese politician (1921-1990),Q730,Q580016
+Q24457686,Q6581097,1997-05-16T00:00:00Z,11,Sören Opti,Sören Opti,badminton player,Q730,Q3001
+Q2446660,Q6581097,1916-01-15T00:00:00Z,10,Henri Frans de Ziel,Henri Frans de Ziel,Surinamese writer (1916-1975),Q29999,Q3001
+Q2446660,Q6581097,1916-01-15T00:00:00Z,10,Henri Frans de Ziel,Henri Frans de Ziel,Surinamese writer (1916-1975),Q730,Q3001
+Q2447202,Q6581097,1930-12-14T00:00:00Z,3,Stuart Robles de Medina,Stuart Robles de Medina,Surinamese artist (1930-2006),Q730,Q3001
+Q2447202,Q6581097,1930-12-14T00:00:00Z,3,Stuart Robles de Medina,Stuart Robles de Medina,Surinamese artist (1930-2006),Q29999,Q3001
+Q2457129,Q6581072,1959-10-16T00:00:00Z,3,Marylin Simons,Marylin Simons,Surinamese writer,Q730,Q3001
+Q2506619,Q6581097,1924-09-27T00:00:00Z,11,André Kamperveen,André Kamperveen,Surinamese football player and politician (1924-1982),Q730,Q3001
+Q2516545,Q6581097,1946-04-14T00:00:00Z,3,Armand Zunder,Armand Zunder,Surinamese economist,Q730,
+Q2517443,Q6581097,1959-11-09T00:00:00Z,7,Gregory Rusland,Gregory Rusland,Surinamese politician,Q730,Q3001
+Q2522630,Q6581097,1964-01-01T00:00:00Z,5,Hugo Goossen,Hugo Goossen,Surinamese swimmer,Q730,Q55
+Q2526862,Q6581097,1940-08-25T00:00:00Z,2,Baal Oemrawsingh,Baal Oemrawsingh,politician (1940-1982),Q730,Q1147515
+Q2565939,Q6581097,1936-07-20T00:00:00Z,3,Frank Leeflang,Frank Leeflang,Surinamese jurist and politician (1936–2024),Q730,Q3001
+Q2568430,Q6581097,1940-03-31T00:00:00Z,6,Fred Derby,Fred Derby,Surinamese politician (1940-2001),Q29999,Q1140891
+Q2568430,Q6581097,1940-03-31T00:00:00Z,6,Fred Derby,Fred Derby,Surinamese politician (1940-2001),Q730,Q1140891
+Q25753030,Q6581072,1967-04-04T00:00:00Z,3,Angelic del Castilho,Angelic del Castilho,Surinamese politician and diplomat,Q730,Q3001
+Q2576365,Q6581072,1988-09-30T00:00:00Z,3,Sade Daal,Sade Daal,Surinamese swimmer,Q730,Q3001
+Q2581834,Q6581097,1957-10-04T00:00:00Z,6,Kenneth Jaliens,Kenneth Jaliens,Surinamese football manager,Q730,Q3001
+Q2598129,Q6581097,1938-10-08T00:00:00Z,5,Henk Herrenberg,Henk Herrenberg,Surinamese diplomat and politician (1938–2024),Q730,Q3001
+Q2601388,Q6581097,1977-08-18T00:00:00Z,11,Clifton Sandvliet,Clifton Sandvliet,Surinamese footballer,Q730,Q3001
+Q260251,Q6581072,1964-10-05T00:00:00Z,24,Letitia Vriesde,Letitia Vriesde,Surinamese athletics competitor (born 1964),Q730,Q1130141
+Q2619553,Q6581097,1954-09-16T00:00:00Z,5,Ricardo Elmont,Ricardo Elmont,Surinamese judoka (1954-2013),Q730,Q3001
+Q26234424,Q6581097,1985-10-16T00:00:00Z,6,Yigal Kopinsky,Yigal Kopinsky,judoka,Q730,
+Q26251626,Q6581072,1954-12-13T00:00:00Z,8,Jennifer van Dijk-Silos,Jennifer van Dijk-Silos,"Surinamese teacher, lawyer and government minister of Justice and Police",Q730,Q3001
+Q26262334,Q6581072,1990-08-14T00:00:00Z,6,Sunayna Wahi,Sunayna Wahi,Surinamese sprinter,Q730,Q3001
+Q2630297,Q6581072,2000-01-01T00:00:00Z,3,Cynthia Valstein-Montnor,Cynthia Valstein-Montnor,Surinamese judge,Q730,Q730
+Q2648686,Q6581097,1945-06-20T00:00:00Z,4,Soeki Irodikromo,Soeki Irodikromo,Surinamese artist and ceramicist (1945–2020),Q730,Q2321835
+Q2656870,Q6581097,1934-10-21T00:00:00Z,7,Eddy Hoost,Eddy Hoost,Surinamese politician and lawyer (1934-1982),Q730,Q3001
+Q2656870,Q6581097,1934-10-21T00:00:00Z,7,Eddy Hoost,Eddy Hoost,Surinamese politician and lawyer (1934-1982),Q29999,Q3001
+Q2661379,Q6581097,1979-10-05T00:00:00Z,11,Darl Douglas,Darl Douglas,Surinamese soccer player and musician,Q730,Q3001
+Q2677731,Q6581072,1935-11-06T00:00:00Z,8,Bea Vianen,Bea Vianen,Surinamese writer (1935-2019),Q730,Q3001
+Q2677731,Q6581072,1935-11-06T00:00:00Z,8,Bea Vianen,Bea Vianen,Surinamese writer (1935-2019),Q29999,Q3001
+Q2680755,Q6581072,1946-11-11T00:00:00Z,5,Lilian Gonçalves-Ho Kang You,Lilian Gonçalves-Ho Kang You,Surinam-Dutch jurist,Q730,Q3001
+Q2680755,Q6581072,1946-11-11T00:00:00Z,5,Lilian Gonçalves-Ho Kang You,Lilian Gonçalves-Ho Kang You,Surinam-Dutch jurist,Q29999,Q3001
+Q2682734,Q6581097,1948-11-30T00:00:00Z,8,Errol Alibux,Errol Alibux,Surinamese politician,Q730,Q3001
+Q27049330,Q6581072,1995-07-05T00:00:00Z,5,Evita Leter,Evita Leter,Surinamese swimmer,Q730,
+Q2711470,Q6581072,1953-01-01T00:00:00Z,5,Henna Goudzand Nahar,Henna Goudzand Nahar,Surinamese-Dutch writer and literary critic,Q730,Q3001
+Q2715772,Q6581097,1945-09-02T00:00:00Z,4,Subhas Mungra,Subhas Mungra,Surinamese politician,Q730,
+Q2722202,Q6581097,1943-03-06T00:00:00Z,5,Gerard Leckie,Gerard Leckie,Surinamese scientist,Q730,Q3001
+Q2741909,Q6581097,1950-11-30T00:00:00Z,5,Paul Bhagwandas,Paul Bhagwandas,Surinamese association football manager,Q730,Q730
+Q2750706,Q6581097,1972-09-27T00:00:00Z,3,Dino Bouterse,Dino Bouterse,Surinamese criminal,Q730,Q81175
+Q2752415,Q6581097,1962-09-28T00:00:00Z,5,Guno Castelen,Guno Castelen,Surinamese politician,Q730,Q3001
+Q2754115,Q6581097,1927-01-01T00:00:00Z,4,Yngwe Elstak,Yngwe Elstak,Surinamese military personnel,Q730,Q730
+Q2757274,Q6581097,1955-01-16T00:00:00Z,7,Rashied Doekhi,Rashied Doekhi,Surinamese politician,Q730,Q3001
+Q2777974,Q6581097,1970-05-03T00:00:00Z,8,Def Rhymz,Def Rhymz,Dutch rapper (1970-2024),Q730,Q3001
+Q2777974,Q6581097,1970-05-03T00:00:00Z,8,Def Rhymz,Def Rhymz,Dutch rapper (1970-2024),Q29999,Q3001
+Q2778834,Q6581072,1951-12-28T00:00:00Z,5,Marijke Djwalapersad,Marijke Djwalapersad,Surinamese politician,Q730,Q1934017
+Q27825050,Q6581097,1994-12-12T00:00:00Z,14,Myenty Abena,Myenty Abena,Surinamese footballer,Q730,Q3001
+Q27825050,Q6581097,1994-12-12T00:00:00Z,14,Myenty Abena,Myenty Abena,Surinamese footballer,Q29999,Q3001
+Q2784271,Q6581097,1921-07-25T00:00:00Z,3,Harry Radhakishun,Harry Radhakishun,Surinamese politician (1921-1983),Q730,Q3001
+Q2784407,Q6581097,1938-07-23T00:00:00Z,8,Hans Prade,Hans Prade,Surinam diplomat (1938–2020),Q730,Q730
+Q27918561,Q6581097,1986-01-21T00:00:00Z,3,Gilmar Jones,Gilmar Jones,badminton player,Q730,Q3001
+Q28017429,Q6581097,1961-01-26T00:00:00Z,3,Dewperkash Gajadin,Dewperkash Gajadin,Surinamese chess player,Q730,
+Q2802462,Q6581097,1938-08-21T00:00:00Z,5,Evert Gonesh,Evert Azimullah,Suriname diplomat,Q730,Q3001
+Q28109988,Q6581097,1993-11-06T00:00:00Z,31,Jeangu Macrooy,Jeangu Macrooy,Surinamese singer-songwriter (born 1993),Q730,Q3001
+Q28366462,Q6581097,1999-01-12T00:00:00Z,6,Alvaro Verwey,Alvaro Verwey,association football player,Q730,Q3001
+Q28800427,Q6581097,1996-05-16T00:00:00Z,4,Ivanildo Rozenblad,Ivanildo Rozenblad,association football player,Q730,Q730
+Q28859452,Q6581072,1983-04-21T00:00:00Z,11,Yldiz Pollack-Beighle,Yildiz Pollack-Beighle,Surinamese politician and Minister of Foreign Affairs (* 1983),Q730,Q3001
+Q28925148,Q6581097,1999-12-21T00:00:00Z,12,Justin Lonwijk,Justin Lonwijk,Surinamese footballer,Q29999,Q9871
+Q28925148,Q6581097,1999-12-21T00:00:00Z,12,Justin Lonwijk,Justin Lonwijk,Surinamese footballer,Q730,Q9871
+Q28974368,Q6581097,1996-05-11T00:00:00Z,3,Saverio Adenie,Saverio Adenie,association football player,Q730,
+Q29002474,Q6581097,1993-05-27T00:00:00Z,2,Miquel Darson,Miquel Darson,association football player,Q730,Q3001
+Q29032338,Q6581097,1992-04-15T00:00:00Z,4,Gillermo Faerber,Gillermo Faerber,association football player,Q730,http://www.wikidata.org/.well-known/genid/663a455c96920399bad37b89419e5da8
+Q29319950,Q6581097,1948-09-11T00:00:00Z,2,Clarence Breeveld,Clarence Breeveld,musical artist (1948–2017),Q29999,
+Q29319950,Q6581097,1948-09-11T00:00:00Z,2,Clarence Breeveld,Clarence Breeveld,musical artist (1948–2017),Q730,
+Q2971060,Q6581072,1953-01-01T00:00:00Z,5,Joanna Werners,Joanna Werners,Dutch writer,Q730,Q3001
+Q2971060,Q6581072,1953-01-01T00:00:00Z,5,Joanna Werners,Joanna Werners,Dutch writer,Q29999,Q3001
+Q2971060,Q6581072,1953-12-25T00:00:00Z,5,Joanna Werners,Joanna Werners,Dutch writer,Q730,Q3001
+Q2971060,Q6581072,1953-12-25T00:00:00Z,5,Joanna Werners,Joanna Werners,Dutch writer,Q29999,Q3001
+Q29833499,Q6581097,1993-04-19T00:00:00Z,3,Cedric Manhoef,Cedric Manhoef,Surinamese professional kickboxer,Q730,Q3001
+Q299020,Q6581097,1936-06-18T00:00:00Z,44,Ronald Venetiaan,Ronald Venetiaan,Surinamese politician (1936–2025),Q730,Q3001
+Q299020,Q6581097,1936-06-18T00:00:00Z,44,Ronald Venetiaan,Ronald Venetiaan,Surinamese politician (1936–2025),Q29999,Q3001
+Q3032805,Q6581097,1995-04-21T00:00:00Z,10,Djavan Anderson,Djavan Anderson,Surinamese footballer,Q29999,Q727
+Q3032805,Q6581097,1995-04-21T00:00:00Z,10,Djavan Anderson,Djavan Anderson,Surinamese footballer,Q730,Q727
+Q3054656,Q6581097,1974-01-11T00:00:00Z,7,Enrico Wijngaarde,Enrico Wijngaarde,Surinamese football referee,Q730,Q3001
+Q3077378,Q6581097,1940-01-05T00:00:00Z,16,Pim de la Parra,Pim de la Parra,Surinamese-Dutch film director,Q730,Q3001
+Q3077378,Q6581097,1940-01-05T00:00:00Z,16,Pim de la Parra,Pim de la Parra,Surinamese-Dutch film director,Q29999,Q3001
+Q3108833,Q6581097,1959-01-26T00:00:00Z,5,Glenn van Straatum,Glenn van Straatum,Surinamese footballer and manager,Q730,Q3001
+Q3127467,Q6581072,1950-07-13T00:00:00Z,7,Marie Levens,Marie Levens,Suriname diplomat and politician,Q730,
+Q3128351,Q6581097,1985-06-09T00:00:00Z,4,Gordon Touw Ngie Tjouw,Gordon Touw Ngie Tjouw,Surinamese swimmer,Q730,
+Q3168781,Q6581097,1926-11-08T00:00:00Z,2,Rudi Kappel,Ronald Kappel,Surinamese politician (1926–1959),Q730,
+Q32146181,Q6581072,1965-01-05T00:00:00Z,2,Yvette Bonapart,Yvette Bonapart,Surinamese athlete,Q730,
+Q3216137,Q6581097,1929-12-21T00:00:00Z,9,Erwin de Vries,Erwin de Vries,Surinamese artist (1929-2018),Q730,Q3001
+Q3216137,Q6581097,1929-12-21T00:00:00Z,9,Erwin de Vries,Erwin de Vries,Surinamese artist (1929-2018),Q29999,Q3001
+Q3231742,Q6581097,1985-10-26T00:00:00Z,9,Jurgen Themen,Jurgen Themen,Surinamese athletics competitor (born 1985),Q730,Q3001
+Q333129,Q6581097,1910-05-12T00:00:00Z,37,Johan Ferrier,Johan Ferrier,Dutch-Surinamese politician (1910-2010),Q730,Q3001
+Q333129,Q6581097,1910-05-12T00:00:00Z,37,Johan Ferrier,Johan Ferrier,Dutch-Surinamese politician (1910-2010),Q29999,Q3001
+Q333135,Q6581097,1959-02-03T00:00:00Z,51,Chan Santokhi,Chan Santokhi,President of Suriname from 2020 to 2025,Q730,Q935545
+Q33420417,Q6581072,1994-10-22T00:00:00Z,3,Xiomara Getrouw,Xiomara Getrouw,Surinamese swimmer,Q730,Q3001
+Q335287,Q6581097,1916-09-21T00:00:00Z,6,Jagernath Lachmon,Jagernath Lachmon,Surinamese politician (1916-2001),Q730,Q738313
+Q3426747,Q6581097,1940-11-16T00:00:00Z,7,Kenneth Gonçalves,Kenneth Gonçalves,Surinamese lawyer,Q730,Q3001
+Q3486213,Q6581097,1954-12-23T00:00:00Z,5,Winston Lackin,Winston Lackin,Surinamese politician (1954-2019),Q730,Q1147515
+Q3539633,Q6581097,1940-12-16T00:00:00Z,3,Saimin Redjosentono,Saimin Redjosentono,Surinamese politician (1940-2024),Q730,
+Q380734,Q6581097,1941-05-02T00:00:00Z,32,Jules Wijdenbosch,Jules Wijdenbosch,Surinamese politician,Q730,Q3001
+Q3929644,Q6581097,1934-12-13T00:00:00Z,3,Lieve Hugo,Lieve Hugo,Surinamese singer (1934–1975),Q730,Q3001
+Q4005248,Q6581097,1957-04-15T00:00:00Z,4,Jiwansingh Sheombar,Jiwansingh Sheombar,Surinamese military personnel,Q730,Q3001
+Q40119122,Q6581097,1962-12-17T00:00:00Z,5,Gillmore Hoefdraad,Gillmore Hoefdraad,"Surinamese politician, economist and chess player",Q730,Q3001
+Q4019824,Q6581097,1991-05-02T00:00:00Z,2,Wilfried Galimo,Wilfried Galimo,Surinamese association football player,Q730,Q730
+Q4034811,Q6581097,1948-01-24T00:00:00Z,6,Eddy Monsels,Eddy Monsels,Surinamese athletics competitor,Q730,Q3001
+Q433137,Q6581097,1967-11-25T00:00:00Z,29,Anthony Nesty,Anthony Nesty,Surinamese swimmer,Q730,Q39178
+Q436463,Q6581097,1903-11-07T00:00:00Z,9,Lou Lichtveld,Albert Helman,Dutch-Surinamese writer and politician (1903-1996),Q730,Q3001
+Q436463,Q6581097,1903-11-07T00:00:00Z,9,Lou Lichtveld,Albert Helman,Dutch-Surinamese writer and politician (1903-1996),Q29999,Q3001
+Q4380428,Q6581097,1908-04-03T00:00:00Z,5,Iding Soemita,Iding Soemita,Surinamese politician (1908-2001),Q730,Q1184259
+Q440403,Q6581072,1953-09-05T00:00:00Z,39,Jennifer Geerlings-Simons,Jennifer Geerlings-Simons,Surinamese physician and politician,Q730,Q3001
+Q4408925,Q6581097,1952-10-24T00:00:00Z,4,Caprino Alendy,Caprino Alendy,Surinam politician (1952–2020),Q730,
+Q443374,Q6581072,1936-10-04T00:00:00Z,18,Cynthia McLeod,Cynthia McLeod,Surinamese novelist,Q730,Q3001
+Q444334,Q6581097,1976-01-10T00:00:00Z,25,Remy Bonjasky,Remy Bonjasky,Surinamese-Dutch kickboxer,Q29999,Q3001
+Q444334,Q6581097,1976-01-10T00:00:00Z,25,Remy Bonjasky,Remy Bonjasky,Surinamese-Dutch kickboxer,Q730,Q3001
+Q4512548,Q6581097,1911-02-11T00:00:00Z,3,Max Woiski Sr.,Max Woiski Sr.,musical artist (1911–1981),Q730,Q650018
+Q4513681,Q6581072,1956-01-25T00:00:00Z,5,Ismene Krishnadath,Ismene Krishnadath,Surinamese writer,Q730,Q3001
+Q4681484,Q6581097,1940-01-25T00:00:00Z,6,Jozef Slagveer,Jozef Slagveer,Surinamese poet,Q730,Q1357920
+Q4703626,Q6581072,1967-11-01T00:00:00Z,7,Tessa Leuwsha,Tessa Leuwsha,Surinamese-Dutch writer,Q730,Q727
+Q4873102,Q6581097,1925-05-30T00:00:00Z,4,Eddy Bruma,Eddy Bruma,"Surinamese lawyer, politician and playwright (1925-2000)",Q730,Q3001
+Q4879698,Q6581097,1927-12-19T00:00:00Z,3,Wim van Eer,Wim van Eer,Surinamese politician (1927-2011),Q730,Q3001
+Q5015350,Q6581097,1992-03-26T00:00:00Z,7,Stefano Rijssel,Stefano Rijssel,Surinmaese footballer,Q730,Q730
+Q50359710,Q6581097,1997-08-20T00:00:00Z,5,Jean-Marc Pansa,Jean-Marc Pansa,French basketball player (born 1997),Q730,Q273312
+Q50359710,Q6581097,1997-08-20T00:00:00Z,5,Jean-Marc Pansa,Jean-Marc Pansa,French basketball player (born 1997),Q142,Q273312
+Q50398555,Q6581072,1954-04-04T00:00:00Z,6,Cristien Polak,Cristien Polak,Surinamese diplomate and government minister,Q730,
+Q50821925,Q6581097,2001-12-18T00:00:00Z,13,Kenzo Goudmijn,Kenzo Goudmijn,association football player,Q730,Q9938
+Q50821925,Q6581097,2001-12-18T00:00:00Z,13,Kenzo Goudmijn,Kenzo Goudmijn,association football player,Q29999,Q9938
+Q5181490,Q6581097,1922-11-26T00:00:00Z,2,Guno Hoen,Guno Hoen,association football player (1922-2010),Q730,Q3001
+Q5311996,Q6581097,1926-12-12T00:00:00Z,3,Shrinivási,Shrinivási,Surinam poet (1926–2019),Q730,Q1757289
+Q532792,Q6581097,1985-03-11T00:00:00Z,7,Virgil Soeroredjo,Virgil Soeroredjo,badminton player,Q730,Q3001
+Q5371894,Q6581097,1988-12-04T00:00:00Z,7,Emilio Limón,Emilio Limón,Surinamese footballer,Q730,Q730
+Q5407844,Q6581072,1938-12-03T00:00:00Z,6,Thea Doelwijt,Thea Doelwijt,writer and journalist from Suriname,Q730,Q33432868
+Q5407844,Q6581072,1938-12-03T00:00:00Z,6,Thea Doelwijt,Thea Doelwijt,writer and journalist from Suriname,Q29999,Q33432868
+Q5520311,Q6581097,1968-12-21T00:00:00Z,3,Papa Touwtjie,Papa Touwtjie,Surinamese singer (1968-2005),Q730,Q3001
+Q55759701,Q6581072,1969-09-05T00:00:00Z,4,Mireille Sankatsing,Mireille Sankatsing,Surinamese athletics competitor,Q730,Q730
+Q55759701,Q6581072,1969-09-15T00:00:00Z,4,Mireille Sankatsing,Mireille Sankatsing,Surinamese athletics competitor,Q730,Q730
+Q55993490,Q6581097,1998-03-17T00:00:00Z,8,Sherwin Seedorf,Sherwin Seedorf,Surinamese association football player (1998-),Q730,Q730
+Q55993490,Q6581097,1998-03-17T00:00:00Z,8,Sherwin Seedorf,Sherwin Seedorf,Surinamese association football player (1998-),Q29999,Q730
+Q5623190,Q6581072,1947-04-27T00:00:00Z,12,Astrid Roemer,Astrid Roemer,Surinamese author,Q730,Q3001
+Q5677395,Q6581097,1975-07-21T00:00:00Z,5,Harvey Limón,Harvey Limón,Surinamese footballer,Q730,Q730
+Q57304982,Q6581072,1999-08-01T00:00:00Z,4,Quinty Sabajo,Quinty Sabajo,Surinamese association football player (born 1999),Q29999,Q932008
+Q57304982,Q6581072,1999-08-01T00:00:00Z,4,Quinty Sabajo,Quinty Sabajo,Surinamese association football player (born 1999),Q730,Q932008
+Q576431,Q6581097,1910-03-09T00:00:00Z,5,Raymond Pos,Raymond Henri Pos,Surinamese politician (1910-1964),Q730,Q3001
+Q57667,Q6581097,1945-10-13T00:00:00Z,61,Dési Bouterse,Desi Bouterse,"leader of Suriname (1980–1987, 2010–2020)",Q730,Q650018
+Q57667,Q6581097,1945-10-13T00:00:00Z,61,Dési Bouterse,Desi Bouterse,"leader of Suriname (1980–1987, 2010–2020)",Q29999,Q650018
+Q58100423,Q6581097,1997-06-24T00:00:00Z,6,Ivenzo Comvalius,Ivenzo Comvalius,Surinamese footballer,Q730,Q3001
+Q58149,Q6581072,1941-06-18T00:00:00Z,10,Lygia Kraag-Keteldijk,Lygia Kraag-Keteldijk,Surinamese politician,Q730,Q3001
+Q584322,Q6581097,1934-01-18T00:00:00Z,23,Henk Chin A Sen,Henk Chin A Sen,President of Suriname (1934–1999),Q730,Q580016
+Q58932317,Q6581097,2000-01-01T00:00:00Z,7,Roscello Vlijter,Roscello Vlijter,Surinamese footballer,Q730,Q3001
+Q60047729,Q6581097,2001-02-05T00:00:00Z,9,Eros Maddy,Eros Maddy,Dutch association football player,Q29999,Q5128
+Q60047729,Q6581097,2001-02-05T00:00:00Z,9,Eros Maddy,Eros Maddy,Dutch association football player,Q730,Q5128
+Q604927,Q6581072,1977-12-25T00:00:00Z,9,Karin Amatmoekrim,Karin Amatmoekrim,Surinamese writer (* 1977),Q730,Q3001
+Q60677520,Q6581097,2000-07-07T00:00:00Z,9,Richonell Margaret,Richonell Margaret,Surinamese footballer,Q730,Q55
+Q60677520,Q6581097,2000-07-07T00:00:00Z,9,Richonell Margaret,Richonell Margaret,Surinamese footballer,Q730,Q9930
+Q60677520,Q6581097,2000-07-07T00:00:00Z,9,Richonell Margaret,Richonell Margaret,Surinamese footballer,Q29999,Q55
+Q60677520,Q6581097,2000-07-07T00:00:00Z,9,Richonell Margaret,Richonell Margaret,Surinamese footballer,Q29999,Q9930
+Q608056,Q6581072,1910-07-11T00:00:00Z,7,Johanna Schouten-Elsenhout,Johanna Schouten-Elsenhout,poet (1910–1992),Q730,Q3001
+Q613821,Q6581097,1935-10-10T00:00:00Z,9,Ram Sardjoe,Ram Sardjoe,Surinamese politician,Q730,Q2688457
+Q62714713,Q6581097,1952-09-07T00:00:00Z,4,Lucien Carbin,Lucien Carbin,Surinamese-Dutch martial artist,Q29999,Q1140891
+Q62714713,Q6581097,1952-09-07T00:00:00Z,4,Lucien Carbin,Lucien Carbin,Surinamese-Dutch martial artist,Q730,Q1140891
+Q64214112,Q6581097,1992-12-16T00:00:00Z,4,Regian Eersel,Regian Eersel,Surinamese-Dutch kickboxer,Q730,Q3001
+Q64214112,Q6581097,1992-12-16T00:00:00Z,4,Regian Eersel,Regian Eersel,Surinamese-Dutch kickboxer,Q29999,Q3001
+Q64224434,Q6581097,2002-05-28T00:00:00Z,13,Melayro Bogarde,Melayro Bogarde,Surinamese association football player (born 2002),Q29999,Q34370
+Q64224434,Q6581097,2002-05-28T00:00:00Z,13,Melayro Bogarde,Melayro Bogarde,Surinamese association football player (born 2002),Q730,Q34370
+Q64562034,Q6581097,1965-08-01T00:00:00Z,6,Edward Belfort,Edward Belfort,Surinamese politician,Q730,Q24226
+Q64747908,Q6581097,1997-05-20T00:00:00Z,4,Donegi Abena,Donegi Abena,Dutch-Surinamese kickboxer,Q730,Q3001
+Q65588803,Q6581072,2001-07-01T00:00:00Z,2,Lakeesha Eijken,Lakeesha Eijken,Surinamese association football player (born 2001),Q730,
+Q65588803,Q6581072,2001-07-01T00:00:00Z,2,Lakeesha Eijken,Lakeesha Eijken,Surinamese association football player (born 2001),Q29999,
+Q67783452,Q6581097,2002-05-03T00:00:00Z,5,Jaymillio Pinas,Jaymillio Pinas,Surinamese association football player,Q730,Q727
+Q6939735,Q6581097,1986-10-10T00:00:00Z,10,Murthel Groenhart,Murthel Groenhart,Dutch martial artist,Q29999,Q727
+Q6939735,Q6581097,1986-10-10T00:00:00Z,10,Murthel Groenhart,Murthel Groenhart,Dutch martial artist,Q730,Q727
+Q72547040,Q6581097,2001-12-02T00:00:00Z,6,Iman Griffith,Iman Griffith,Surinamese association football player,Q730,Q55
+Q728017,Q6581097,1937-06-25T00:00:00Z,5,Guillaume Lo-A-Njoe,Guillaume Lo-A-Njoe,Dutch artist (born 1937),Q730,Q727
+Q728017,Q6581097,1937-06-25T00:00:00Z,5,Guillaume Lo-A-Njoe,Guillaume Lo-A-Njoe,Dutch artist (born 1937),Q29999,Q727
+Q7289323,Q6581097,1942-12-19T00:00:00Z,4,Ramdew Chaitoe,Ramdew Chaitoe,Surinamese musician (1942-1994),Q730,Q1147515
+Q7289323,Q6581097,1942-12-19T00:00:00Z,4,Ramdew Chaitoe,Ramdew Chaitoe,Surinamese musician (1942-1994),Q730,Q730
+Q730036,Q6581097,1937-11-06T00:00:00Z,21,Ramsewak Shankar,Ramsewak Shankar,4th President of Suriname,Q730,Q59134053
+Q73243050,Q6581072,1963-05-23T00:00:00Z,6,Krishna Mathoera,Krishna Mathoera,Surinamese politician,Q730,Q1147524
+Q73362309,Q6581097,1988-03-17T00:00:00Z,16,Jairzinho Rozenstruik,Jairzinho Rozenstruik,Surinamese mixed martial artist,Q730,Q3001
+Q73516024,Q6581097,1965-02-20T00:00:00Z,4,Dew Sharman,Dew Sharman,Surinamese politician,Q730,Q7134228
+Q735230,Q6581097,1977-02-02T00:00:00Z,4,Lorenzo Wiebers,Lorenzo Wiebers,Surinamese footballer,Q730,Q3001
+Q739964,Q6581097,1913-07-29T00:00:00Z,20,Johan Kraag,Johan Kraag,President of Suriname (1913–1996),Q730,Q1757255
+Q74245997,Q6581072,1976-06-17T00:00:00Z,3,Patricia Etnel,Patricia Etnel,Surinamese politician,Q730,
+Q7454454,Q6581097,1987-11-01T00:00:00Z,4,Sergio Wielzen,Sergio Wielzen,Surinamese-Dutch mixed martial arts (MMA) fighter,Q730,
+Q7454454,Q6581097,1987-11-01T00:00:00Z,4,Sergio Wielzen,Sergio Wielzen,Surinamese-Dutch mixed martial arts (MMA) fighter,Q29999,
+Q75183839,Q6581072,1972-01-01T00:00:00Z,4,Ingrid Karta-Bink,Ingrid Karta-Bink,Surinamese politician,Q730,Q952510
+Q75191674,Q6581072,2001-02-12T00:00:00Z,3,Chanté Dompig,Chanté Dompig,Surinamese association football player (born 2001),Q29999,Q727
+Q75191674,Q6581072,2001-02-12T00:00:00Z,3,Chanté Dompig,Chanté Dompig,Surinamese association football player (born 2001),Q730,Q727
+Q76945602,Q6581097,1965-04-10T00:00:00Z,3,Theo Jubitana,Theo Jubitana,Surinamese board member and politician (1965-2021),Q730,Q1147515
+Q769825,Q6581097,1936-03-01T00:00:00Z,7,Willy Soemita,Willy Soemita,Surinamese politician (1936–2022),Q730,Q952510
+Q78125183,Q6581097,1940-04-18T00:00:00Z,4,Stanley Rensch,Stanley Rensch,Surinamese human rights activist (1940–2024),Q730,Q21503646
+Q79585241,Q6581097,1993-05-20T00:00:00Z,3,Albert Nibte,Albert Nibte,Surinamese association football player,Q730,Q3001
+Q79585260,Q6581097,1991-09-24T00:00:00Z,3,Anduelo Amoeferie,Anduelo Amoeferie,Surinamese association football player,Q730,Q3001
+Q79585276,Q6581097,1993-07-08T00:00:00Z,2,Ivanildo Misidjan,Ivanildo Misidjan,Surinamese association football player,Q730,Q3001
+Q79585293,Q6581097,1997-07-24T00:00:00Z,4,Ronaldo Kemble,Ronaldo Kemble,Surinamese association football player,Q730,Q738313
+Q79585305,Q6581097,2002-07-23T00:00:00Z,2,Zerguinho Deira,Zerguinho Deira,Surinamese association football player,Q730,Q3001
+Q79585324,Q6581097,1994-09-04T00:00:00Z,4,Sergino Eduard,Sergino Eduard,Surinamese association football player,Q730,Q3001
+Q79585324,Q6581097,1994-09-04T00:00:00Z,4,Sergino Eduard,Sergino Eduard,Surinamese association football player,Q730,Q730
+Q79585324,Q6581097,1995-09-04T00:00:00Z,4,Sergino Eduard,Sergino Eduard,Surinamese association football player,Q730,Q3001
+Q79585324,Q6581097,1995-09-04T00:00:00Z,4,Sergino Eduard,Sergino Eduard,Surinamese association football player,Q730,Q730
+Q79585369,Q6581097,1995-04-06T00:00:00Z,2,Ervin Tjon-A-Loi,Ervin Tjon A Loi,Surinamese association football player,Q730,Q1357920
+Q79585387,Q6581097,1999-10-05T00:00:00Z,4,Abraham Graves,Abraham Graves,Surinamese association football player,Q730,Q3001
+Q79585406,Q6581097,1996-09-12T00:00:00Z,2,Renzo Akrosie,Renzo Akrosie,Surinamese association football player,Q730,Q3001
+Q79585424,Q6581097,1996-12-18T00:00:00Z,2,Gilberto Cronie,Gilberto Cronie,Surinamese association football player,Q730,Q3001
+Q79585443,Q6581097,1994-03-03T00:00:00Z,2,Cerezo Haabo,Cerezo Haabo,Surinamese association football player,Q730,Q7478113
+Q8074656,Q6581072,1991-06-19T00:00:00Z,3,Zoureena Rijger,Zoureena Rijger,Surinamese model,Q730,Q3001
+Q86836081,Q6581097,1953-10-14T00:00:00Z,3,Sham Binda,Sham Binda,"Surinamese politician, entrepreneur and board member",Q730,
+Q880312,Q6581097,1942-09-29T00:00:00Z,12,Ivan Graanoogst,Ivan Graanoogst,Surinamese politician,Q730,Q3001
+Q887828,Q6581097,1926-10-28T00:00:00Z,21,Fred Ramdat Misier,Fred Ramdat Misier,President of Suriname (1926–2004),Q730,Q3001
+Q89353167,Q6581072,1970-11-11T00:00:00Z,3,Danielle Veira,Danielle Veira,Surinamese director of National Security,Q730,Q3001
+Q90412083,Q6581097,1931-07-17T00:00:00Z,5,Bas Mulder,Bas Mulder,Dutch-Surinamese priest (1931-2020),Q29999,Q1922772
+Q90412083,Q6581097,1931-07-17T00:00:00Z,5,Bas Mulder,Bas Mulder,Dutch-Surinamese priest (1931-2020),Q730,Q1922772
+Q9069069,Q6581097,2000-01-01T00:00:00Z,6,Ricardo Winter,Ricardo Winter,Surinamese professional football manager,Q730,Q730
+Q924337,Q6581097,1922-09-28T00:00:00Z,14,Jules Sedney,Jules Sedney,Prime Minister of Suriname (1922-2020),Q730,Q3001
+Q9256500,Q6581097,1990-11-30T00:00:00Z,5,Evani Esperance,Evani Esperance,Surinamese footballer,Q730,Q730
+Q9263847,Q6581097,1990-06-09T00:00:00Z,4,Friso Mando,Friso Mando,Surinamese footballer,Q730,Q730
+Q94819,Q6581097,1923-01-01T00:00:00Z,4,Ping Pong (singer),Ping Pong,Surinamese singer,Q730,Q3001
+Q94819,Q6581097,1923-01-01T00:00:00Z,4,Ping Pong (singer),Ping Pong,Surinamese singer,Q730,Q730
+Q94819,Q6581097,1923-01-01T00:00:00Z,4,Ping Pong (singer),Ping Pong,Surinamese singer,Q31,Q3001
+Q94819,Q6581097,1923-01-01T00:00:00Z,4,Ping Pong (singer),Ping Pong,Surinamese singer,Q31,Q730
+Q949604,Q6581097,1969-06-10T00:00:00Z,5,Dennis Purperhart,Dennis Purperhart,football player,Q730,Q3001
+Q95995476,Q6581072,2000-06-12T00:00:00Z,3,Naomi Piqué,Naomi Piqué,Surinamese association football player (born 2000),Q730,Q803
+Q95995476,Q6581072,2000-06-12T00:00:00Z,3,Naomi Piqué,Naomi Piqué,Surinamese association football player (born 2000),Q29999,Q803
+Q96655928,Q6581097,1945-10-05T00:00:00Z,6,Ulrich Aron,Ulrich Aron,Surinamese politician,Q730,Q7646305
+Q97441386,Q6581097,1977-01-01T00:00:00Z,4,Ivan Tai-Apin,Ivan Tai-Apin,Surinamese actor,Q730,Q3001
+Q97480668,Q6581097,1932-11-15T00:00:00Z,2,Harry Kensmil,Harry Kensmil,Deputy Prime Minister of Suriname,Q730,Q3001
+Q97480668,Q6581097,1932-01-01T00:00:00Z,2,Harry Kensmil,Harry Kensmil,Deputy Prime Minister of Suriname,Q730,Q3001
+Q97500097,Q6581097,1958-02-27T00:00:00Z,4,Amar Ramadhin,Amar Ramadhin,Surinamese government minister,Q730,Q730
+Q97686480,Q6581072,1974-07-06T00:00:00Z,5,Saskia Walden,Saskia Walden,Surinamese government minister,Q730,Q730
+Q977361,Q6581097,1910-02-27T00:00:00Z,6,Severinus Desiré Emanuels,Severinus Desiré Emanuels,Surinamese politician and diplomat (1910-1981),Q29999,Q34370
+Q977361,Q6581097,1910-02-27T00:00:00Z,6,Severinus Desiré Emanuels,Severinus Desiré Emanuels,Surinamese politician and diplomat (1910-1981),Q730,Q34370
+Q98149043,Q6581072,1942-11-03T00:00:00Z,2,Liesbeth Venetiaan-Vanenburg,Liesbeth Venetiaan,Surinamese social worker and first lady,Q730,
+Q99348963,Q6581097,2002-01-07T00:00:00Z,5,Djenairo Daniels,Djenairo Daniels,Surinamese footballer,Q730,Q488545
+Q99348963,Q6581097,2002-01-07T00:00:00Z,5,Djenairo Daniels,Djenairo Daniels,Surinamese footballer,Q29999,Q488545
+Q99518850,Q6581072,1927-01-01T00:00:00Z,2,Petronella Breinburg,Petronella Breinburg,"Surinamese-born, Guyanese and British author and teacher (born 1927)",Q730,Q730

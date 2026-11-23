@@ -1,0 +1,902 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q100987652,Q6581072,1959-04-20T00:00:00Z,4,Cecilia Menjívar,Cecilia Menjívar,American sociologist,Q792,Q792
+Q102271167,Q6581072,1990-01-01T00:00:00Z,6,Wendy Caishpal,Wendy Caishpal,Salvadoran disabled rights activist,Q792,Q186935
+Q103376687,Q6581072,1985-01-08T00:00:00Z,3,Marcela Rodezno,Marcela Rodezno,Salvadoran tennis player,Q792,Q930820
+Q103503109,Q6581072,1987-04-12T00:00:00Z,3,Ana Osorio,Ana Osorio,Salvadoran tennis player,Q792,Q3110
+Q10414774,Q6581097,1963-07-30T00:00:00Z,2,Nelson Mauricio Ancheta,Nelson Mauricio Ancheta,Salvadoran football manager,Q792,Q2565837
+Q10415415,Q6581097,1975-04-11T00:00:00Z,4,"Israel Castro (footballer, born 1975)",Israel Castro Franco,Footballer (born 1975),Q792,Q4361
+Q10415415,Q6581097,1975-04-11T00:00:00Z,4,"Israel Castro (footballer, born 1975)",Israel Castro Franco,Footballer (born 1975),Q155,Q4361
+Q10439509,Q6581097,1981-07-13T00:00:00Z,3,Selvin Zepeda,Selvin Bonifacio Zepeda,Salvadorian footballer,Q792,Q383546
+Q10439714,Q6581097,1922-01-10T00:00:00Z,3,Luis Antonio Regalado,Luis Antonio Regalado,Salvadoran footballer (1922-2001),Q792,Q2420477
+Q10448894,Q6581097,1987-04-28T00:00:00Z,5,Herber Barrera,Herber Barrera,Salvadoran footballer,Q792,Q1018092
+Q10448894,Q6581097,1987-03-17T00:00:00Z,5,Herber Barrera,Herber Barrera,Salvadoran footballer,Q792,Q1018092
+Q10450755,Q6581097,1914-08-07T00:00:00Z,3,Armando Chacón,Armando Chacón,Salvadoran footballer,Q792,Q792
+Q10455980,Q6581097,1990-01-11T00:00:00Z,6,Herbert Sosa,Herbert Sosa,Salvadoran footballer,Q792,Q3110
+Q10474141,Q6581097,1952-09-01T00:00:00Z,5,Juan Ramón Sánchez (footballer),Juan Ramón Sánchez,Salvadoran footballer and manager,Q792,Q682226
+Q105123718,Q6581097,1999-08-28T00:00:00Z,5,Kevin Reyes,Kevin Reyes,Salvadoran footballer,Q792,Q2631462
+Q10542320,Q6581097,1969-08-04T00:00:00Z,5,Guillermo García (Salvadoran footballer),Guillermo García,Salvadoran footballer,Q792,Q792
+Q10551338,Q6581097,1992-08-02T00:00:00Z,12,Eriq Zavaleta,Eriq Zavaleta,Salvadoran-American soccer player,Q30,Q1012128
+Q10551338,Q6581097,1992-08-02T00:00:00Z,12,Eriq Zavaleta,Eriq Zavaleta,Salvadoran-American soccer player,Q792,Q1012128
+Q10554017,Q6581097,1992-05-31T00:00:00Z,6,Marvin Iraheta,Marvin Iraheta,Salvadoran footballer,Q792,Q2335680
+Q10554855,Q6581097,1995-09-10T00:00:00Z,11,Amando Moreno,Amando Moreno,Salvadoran-American soccer player,Q30,Q985592
+Q10554855,Q6581097,1995-09-10T00:00:00Z,11,Amando Moreno,Amando Moreno,Salvadoran-American soccer player,Q792,Q985592
+Q105724583,Q6581097,1985-08-12T00:00:00Z,3,Xavier Zablah Bukele,Xavier Zablah Bukele,Salvadoran politician,Q792,Q3110
+Q106232702,Q6581072,1948-01-01T00:00:00Z,4,Negra Álvarez,Negra Álvarez,Salvadoran plastic artist,Q792,Q739664
+Q106368077,Q6581072,1959-01-01T00:00:00Z,4,Sandra Yanira Martínez Tobar,Sandra Martínez,"Salvadoran meteorologist, politician",Q792,Q3110
+Q106466237,Q6581072,2000-12-21T00:00:00Z,2,Amaya González,Amaya González,American–Salvadoran footballer,Q792,Q30
+Q106466237,Q6581072,2000-12-21T00:00:00Z,2,Amaya González,Amaya González,American–Salvadoran footballer,Q30,Q30
+Q106550588,Q6581097,1940-12-31T00:00:00Z,2,Leonel Gómez Vides,Leonel Gómez Vides,Salvadoran political activist,Q792,Q739664
+Q106674295,Q6581097,1998-08-17T00:00:00Z,7,Walmer Martínez,Walmer Martinez,American soccer player,Q30,Q159232
+Q106674295,Q6581097,1998-08-17T00:00:00Z,7,Walmer Martínez,Walmer Martinez,American soccer player,Q792,Q159232
+Q106692572,Q6581072,2005-01-22T00:00:00Z,2,Victoria Meza,Victoria Meza,Salvadoran association football player,Q792,Q792
+Q106705010,Q6581072,1993-05-12T00:00:00Z,1,Ingrid Osegueda,Ingrid Osegueda,Salvadoran-American soccer player,Q792,Q104994
+Q106705010,Q6581072,1993-05-12T00:00:00Z,1,Ingrid Osegueda,Ingrid Osegueda,Salvadoran-American soccer player,Q30,Q104994
+Q106705714,Q6581072,1994-01-23T00:00:00Z,1,Jency Ramírez,Jency Ramírez,Salvadoran-American soccer player,Q30,Q23556
+Q106705714,Q6581072,1994-01-23T00:00:00Z,1,Jency Ramírez,Jency Ramírez,Salvadoran-American soccer player,Q792,Q23556
+Q107024994,Q6581072,1950-01-01T00:00:00Z,1,Ana Margarita Gasteazoro,Ana Gasteazoro,Salvadoran political activist,Q792,
+Q107334246,Q6581097,1997-05-20T00:00:00Z,5,"Mario González (footballer, born 1997)",Mario González,Salvadoran footballer (born 1997),Q792,Q672458
+Q107436373,Q6581097,1976-01-01T00:00:00Z,1,Guadalupe Maravilla,Guadalupe Maravilla,Salvadoran-American drawing artist (born 1976),Q792,Q3110
+Q107436373,Q6581097,1976-01-01T00:00:00Z,1,Guadalupe Maravilla,Guadalupe Maravilla,Salvadoran-American drawing artist (born 1976),Q30,Q3110
+Q107524282,Q6581097,1999-07-30T00:00:00Z,5,Melvin Cartagena,Melvin Cartagena,Salvadoran footballer,Q792,Q739664
+Q107616079,Q6581097,1993-08-16T00:00:00Z,2,"Rodrigo Rivera (footballer, born 1993)",Rodrigo Rivera,Salvadoran association football player,Q792,Q649241
+Q108129880,Q6581072,1983-01-01T00:00:00Z,3,Lucía Parker,Lucía Parker,Salvadoran singer-songwriter (born 1983),Q792,Q3110
+Q108293969,Q6581097,1985-11-01T00:00:00Z,4,Herbert Aceituno,Herbert Aceituno,Salvadoran Paralympic powerlifter,Q792,Q3110
+Q108383704,Q6581072,1993-04-11T00:00:00Z,6,Becky Soundy,Becky Soundy,Salvadoran linguist and activist,Q792,Q3110
+Q108407671,Q6581097,1925-05-14T00:00:00Z,2,Francisco José Guerrero,Francisco José Guerrero Cienfuegos,Minister of foreign affairs for El Salvador,Q792,
+Q108407677,Q6581097,1936-04-17T00:00:00Z,3,Rodolfo Antonio Castillo Claramount,Rodolfo Antonio Castillo Claramount,Minister of foreign affairs for El Salvador,Q792,Q1014248
+Q109567478,Q6581097,2004-02-11T00:00:00Z,5,Damián Alguera,Damián Alguera,Salvadoran footballer,Q792,Q16553
+Q109567478,Q6581097,2004-02-11T00:00:00Z,5,Damián Alguera,Damián Alguera,Salvadoran footballer,Q30,Q16553
+Q1097507,Q6581072,1975-07-22T00:00:00Z,6,Claudia Hernández (writer),Claudia Hernández González,Salvadoran writer (born 1975),Q792,Q3110
+Q109836206,Q6581072,1999-08-22T00:00:00Z,3,Idalia Serrano,Idalia Serrano,Salvadoran association football player,Q30,Q43301
+Q109836206,Q6581072,1999-08-22T00:00:00Z,3,Idalia Serrano,Idalia Serrano,Salvadoran association football player,Q792,Q43301
+Q109900601,Q6581097,2003-08-20T00:00:00Z,9,Harold Osorio,Harold Osorio,Salvadorean footballer,Q792,Q1154953
+Q109930112,Q6581072,1989-01-01T00:00:00Z,2,Johanna Toruño,Johanna Toruño,Salvadoran artist,Q792,
+Q11107132,Q6581097,1960-09-03T00:00:00Z,3,Sigfrido Reyes Morales,Sigfrido Reyes Morales,Salvadoran politician,Q792,Q3110
+Q111433994,Q6581097,1996-11-05T00:00:00Z,5,"Cristian Gil (footballer, born 1996)",Cristian Gil,Salvadoran-Colombian footballer,Q792,Q51103
+Q111433994,Q6581097,1996-11-05T00:00:00Z,5,"Cristian Gil (footballer, born 1996)",Cristian Gil,Salvadoran-Colombian footballer,Q739,Q51103
+Q11171709,Q6581097,1950-01-01T00:00:00Z,5,Roberto Castillo (philosopher),Roberto Castillo,Honduran writer and philosopher,Q792,Q792
+Q112223481,Q6581072,1964-01-01T00:00:00Z,1,Yanci Urbina,Yanci Urbina,Salvadoran politician,Q792,
+Q11283946,Q6581072,1964-12-17T00:00:00Z,6,Maureen Kaila,Maureen Kaila Vergara,Salvadorian cyclist,Q792,Q62
+Q11283946,Q6581072,1964-12-17T00:00:00Z,6,Maureen Kaila,Maureen Kaila Vergara,Salvadorian cyclist,Q30,Q62
+Q112861778,Q6581072,1984-03-27T00:00:00Z,2,Lilliam Armijo,Lilliam Armijo,poetress,Q792,Q3110
+Q113515856,Q6581097,2004-01-12T00:00:00Z,9,Nathan Ordaz,Nathan Ordaz,American soccer player,Q792,Q769446
+Q113515856,Q6581097,2004-01-12T00:00:00Z,9,Nathan Ordaz,Nathan Ordaz,American soccer player,Q96,Q769446
+Q113515856,Q6581097,2004-01-12T00:00:00Z,9,Nathan Ordaz,Nathan Ordaz,American soccer player,Q30,Q769446
+Q1138843,Q6581097,1940-02-24T00:00:00Z,17,Raúl Magaña,Raúl Magaña,Salvadoran footballer (1940-2009),Q792,Q739664
+Q114465380,Q6581072,1986-01-01T00:00:00Z,3,Teodora del Carmen Vásquez,Teodora del Carmen Vasquez,Salvadoran civil rights activist,Q792,
+Q114567137,Q6581097,2004-11-23T00:00:00Z,5,Robinson Aguirre,Robinson Aguirre,Salvadoran footballer,Q30,Q341915
+Q114567137,Q6581097,2004-11-23T00:00:00Z,5,Robinson Aguirre,Robinson Aguirre,Salvadoran footballer,Q792,Q341915
+Q115492470,Q6581097,2003-05-18T00:00:00Z,4,Ronald Arévalo,Ronald Arévalo,Salvadoran-American soccer player,Q792,
+Q115492470,Q6581097,2003-05-18T00:00:00Z,4,Ronald Arévalo,Ronald Arévalo,Salvadoran-American soccer player,Q30,
+Q115765770,Q6581097,1970-08-14T00:00:00Z,10,Evelio Menjivar-Ayala,Evelio Menjivar-Ayala,Salvadorian Roman-Catholic bishop,Q792,Q2290501
+Q116214236,Q6581072,1987-09-10T00:00:00Z,3,Claudia Ortiz (politician),Claudia Ortiz,Salvadoran politician,Q792,Q3110
+Q11728602,Q6581097,1931-03-19T00:00:00Z,2,José Mario Váldez,José Mario Váldez,Salvadoran sports shooter,Q792,
+Q11729202,Q6581097,1943-11-16T00:00:00Z,2,Julio González (sport shooter),Julio González,Salvadoran sports shooter,Q792,
+Q118289687,Q6581097,2001-10-24T00:00:00Z,4,Leonardo Menjívar,Leonardo Menjívar,Salvadoran footballer,Q792,Q2290501
+Q11835027,Q6581097,1900-03-04T00:00:00Z,2,Roberto Soundy,Roberto Soundy,Salvadoran sports shooter,Q792,Q3110
+Q120556028,Q6581097,1965-10-15T00:00:00Z,3,Manuel Flores (Salvadoran politician),Manuel Flores,Salvadoran politician,Q792,Q1154058
+Q120693159,Q6581097,1960-04-02T00:00:00Z,2,Luis Parada (lawyer),Luis Parada,"Lawyer, soldier, and politician",Q792,Q64620898
+Q121097069,Q6581097,1928-08-22T00:00:00Z,2,Enrique Borgo Bustamante,Enrique Borgo Bustamante,Salvadoran politician,Q792,Q3110
+Q121097480,Q6581097,1952-02-29T00:00:00Z,3,José Francisco Merino,José Francisco Merino,Salvadoran politician,Q792,Q672458
+Q123140627,Q6581072,2001-11-10T00:00:00Z,5,Isabella García-Manzo,Isabella García-Manzo,Salvadoran beauty pageant titleholder,Q792,
+Q123221669,Q6581097,1986-03-10T00:00:00Z,3,Karim Bukele,Karim Bukele,Salvadoran businessman and politician,Q792,
+Q123304488,Q6581097,1989-09-22T00:00:00Z,5,Yusef Bukele,Yusef Bukele,"Salvadoran businessman, politician, and economist",Q792,Q3110
+Q123537202,Q6581072,1940-11-13T00:00:00Z,2,Yolanda Consuegra Martínez,Yolanda C. Martínez,Salvadoran writer,Q792,Q139248
+Q123591159,Q6581072,1980-01-01T00:00:00Z,20,Claudia Rodríguez de Guevara,Claudia Juana Rodríguez de Guevara,designated president of El Salvador since 2023,Q792,
+Q1239558,Q6581097,1938-04-12T00:00:00Z,4,Héctor Dada Hirezi,Héctor Dada Hirezi,Salvadoran politician,Q792,Q3110
+Q124398755,Q6581097,1943-01-01T00:00:00Z,3,Victoriano Gómez Urrutia,Victoriano Gómez Urrutia,Salvadoran murderer (1943–1971),Q792,Q930804
+Q124516204,Q6581097,1977-02-12T00:00:00Z,1,Alejandro Muyshondt,Alejandro Muyshondt,Salvadoran politician (1977–2024),Q792,
+Q124618472,Q6581097,1952-05-09T00:00:00Z,2,Reinaldo Carballo,Reynaldo Carballo,Salvadorian businessman and politician,Q792,Q3666268
+Q125350717,Q6581072,1950-03-12T00:00:00Z,3,Silvia Matus,Silvia Matus,Salvadorean poet and sociologist,Q792,Q1003551
+Q125404179,Q6581097,1991-02-14T00:00:00Z,2,Erick Iván Ortiz,Erick Iván Ortiz,"Salvadoran activist, politician (born 1991)",Q792,Q739664
+Q125618400,Q6581097,1970-01-01T00:00:00Z,1,Hugo Osorio,Hugo Osorio,Salvadoran serial killer,Q792,
+Q126534193,Q6581097,1989-09-22T00:00:00Z,3,Ibrajim Bukele,Ibrajim Bukele,Salvadoran businessman and politician,Q792,
+Q126595824,Q6581097,1961-03-10T00:00:00Z,4,Reinaldo Sorto Martínez,Reinaldo Sorto Martínez,Salvadoran Catholic priest,Q792,Q139248
+Q1284301,Q6581097,1968-01-01T00:00:00Z,2,Edgardo Carlos Suárez Mallagray,Edgardo Carlos Suárez Mallagray,Salvadordan diplomat,Q792,
+Q1284605,Q6581097,1947-03-06T00:00:00Z,2,Fermán Cienfuegos,Fermán Cienfuegos,Salvadoran rebel,Q792,Q3070
+Q1290790,Q6581097,1930-07-02T00:00:00Z,6,Eduardo Alas Alfaro,Eduardo Alas Alfaro,Salvadoran catholic priest (1930-2020),Q792,
+Q1292736,Q6581072,1956-10-31T00:00:00Z,8,María Eugenia Brizuela de Ávila,María Eugenia Brizuela de Ávila,Salvadoran lawyer,Q792,Q3110
+Q1301166,Q6581097,1930-11-09T00:00:00Z,17,Ignacio Ellacuría,Ignacio Ellacuría,"Spanish philosopher, Jesuit priest, assassinated martyr in El Salvador",Q792,Q548441
+Q1301166,Q6581097,1930-09-09T00:00:00Z,17,Ignacio Ellacuría,Ignacio Ellacuría,"Spanish philosopher, Jesuit priest, assassinated martyr in El Salvador",Q792,Q548441
+Q1301166,Q6581097,1930-11-09T00:00:00Z,17,Ignacio Ellacuría,Ignacio Ellacuría,"Spanish philosopher, Jesuit priest, assassinated martyr in El Salvador",Q29,Q548441
+Q1301166,Q6581097,1930-09-09T00:00:00Z,17,Ignacio Ellacuría,Ignacio Ellacuría,"Spanish philosopher, Jesuit priest, assassinated martyr in El Salvador",Q29,Q548441
+Q130263924,Q6581097,1964-12-16T00:00:00Z,4,Mauricio Arriaza Chicas,Mauricio Arriaza Chicas,Salvadoran police officer,Q792,Q2565837
+Q130336489,Q6581097,1965-12-26T00:00:00Z,1,Jaime Comandari,Jaime Comandari,Salvadoran athlete,Q792,
+Q130336489,Q6581097,1965-01-01T00:00:00Z,1,Jaime Comandari,Jaime Comandari,Salvadoran athlete,Q792,
+Q130336489,Q6581097,1965-12-28T00:00:00Z,1,Jaime Comandari,Jaime Comandari,Salvadoran athlete,Q792,
+Q130661994,Q6581097,2005-11-07T00:00:00Z,2,Francis Castillo,Francis Castillo,Salvadoran-American soccer player,Q792,
+Q130661994,Q6581097,2005-11-07T00:00:00Z,2,Francis Castillo,Francis Castillo,Salvadoran-American soccer player,Q30,
+Q132767515,Q6581097,1977-12-02T00:00:00Z,3,Francisco Javier Roman-Bardales,Francisco Javier Roman-Bardales,Salvadoran narcoterrorist (born 1977),Q792,
+Q1334497,Q6581097,1951-02-16T00:00:00Z,6,Elías Samuel Bolaños Avelar,Elías Samuel Bolaños Avelar,Salvadoran Roman Catholic bishop,Q792,
+Q133877781,Q6581097,1995-01-01T00:00:00Z,5,Kilmar Armando Abrego Garcia,Kilmar Armando Ábrego García,Salvadoran man illegally deported from the United States in 2025 to El Salvador,Q792,
+Q134890650,Q6581097,1999-09-10T00:00:00Z,3,Bryan Pérez (surfer),,Salvadoran surfer,Q792,Q2631462
+Q134970525,Q6581097,2008-09-05T00:00:00Z,2,Brandon Ramírez,Brandon Ramírez,Salvadoran footballer,Q792,
+Q135206218,Q6581097,2000-01-24T00:00:00Z,1,Jorge Cruz (footballer),Jorge Cruz,Salvadoran footballer,Q792,
+Q136852635,Q6581097,1991-09-22T00:00:00Z,1,Michell Mercado,Michell Mercado,Salvadoran footballer,Q792,
+Q137366349,Q6581097,2008-03-29T00:00:00Z,3,Anthony Umanzor,Anthony Umanzor,Canadian-Guatemalan-Salvadorean soccer player,Q16,Q172
+Q137366349,Q6581097,2008-05-26T00:00:00Z,3,Anthony Umanzor,Anthony Umanzor,Canadian-Guatemalan-Salvadorean soccer player,Q792,Q172
+Q137366349,Q6581097,2008-03-29T00:00:00Z,3,Anthony Umanzor,Anthony Umanzor,Canadian-Guatemalan-Salvadorean soccer player,Q792,Q172
+Q137366349,Q6581097,2008-03-29T00:00:00Z,3,Anthony Umanzor,Anthony Umanzor,Canadian-Guatemalan-Salvadorean soccer player,Q774,Q172
+Q137366349,Q6581097,2008-05-26T00:00:00Z,3,Anthony Umanzor,Anthony Umanzor,Canadian-Guatemalan-Salvadorean soccer player,Q774,Q172
+Q137366349,Q6581097,2008-05-26T00:00:00Z,3,Anthony Umanzor,Anthony Umanzor,Canadian-Guatemalan-Salvadorean soccer player,Q16,Q172
+Q1388651,Q6581097,1982-12-01T00:00:00Z,16,Alfredo Pacheco,Alfredo Pacheco,Salvadoran footballer (1982-2015),Q792,Q739664
+Q1389181,Q6581097,1918-08-06T00:00:00Z,7,Cayetano Carpio,Cayetano Carpio,Salvadroan revolutionary (1918-1983),Q792,Q723246
+Q1390584,Q6581097,1961-06-20T00:00:00Z,6,Fabio Reynaldo Colindres Abarca,Fabio Reynaldo Colindres Abarca,Salvadoran catholic priest,Q792,Q2779383
+Q139146069,Q6581097,1969-12-20T00:00:00Z,1,Rigoberto Soto,Rigoberto Soto,Salvadoran businessperson,Q792,
+Q1416471,Q6581097,1957-11-01T00:00:00Z,4,Rodolfo Parker,Rodolfo Parker,Salvadoran politician,Q792,Q3110
+Q141883249,Q6581097,1996-09-27T00:00:00Z,3,Komanche,Komanche,Salvadoran streamer and YouTuber (1996–2026),Q96,Q383546
+Q141883249,Q6581097,1996-09-27T00:00:00Z,3,Komanche,Komanche,Salvadoran streamer and YouTuber (1996–2026),Q792,Q383546
+Q14508266,Q6581097,1985-11-17T00:00:00Z,7,Armando Collado,Armando Collado,Nicaraguan footballer,Q792,Q3982494
+Q1476587,Q6581097,1962-07-20T00:00:00Z,8,José Elías Rauda Gutiérrez,José Elías Rauda Gutiérrez,Salvadoran catholic priest,Q792,
+Q14838817,Q6581097,1929-07-07T00:00:00Z,4,Rubén Martínez Bulnes,Rubén Martínez,Salvadoran architect and sculptor,Q792,Q3110
+Q14854020,Q6581097,1994-08-08T00:00:00Z,7,Oscar Sorto,Oscar Sorto,American soccer player,Q792,Q65
+Q14854020,Q6581097,1994-08-08T00:00:00Z,7,Oscar Sorto,Oscar Sorto,American soccer player,Q30,Q65
+Q14854020,Q6581097,1994-08-13T00:00:00Z,7,Oscar Sorto,Oscar Sorto,American soccer player,Q792,Q65
+Q14854020,Q6581097,1994-09-13T00:00:00Z,7,Oscar Sorto,Oscar Sorto,American soccer player,Q30,Q65
+Q14854020,Q6581097,1994-08-13T00:00:00Z,7,Oscar Sorto,Oscar Sorto,American soccer player,Q30,Q65
+Q14854020,Q6581097,1994-09-13T00:00:00Z,7,Oscar Sorto,Oscar Sorto,American soccer player,Q792,Q65
+Q1498485,Q6581097,1955-05-25T00:00:00Z,7,Miguel Ángel Morán Aquino,Miguel Ángel Morán Aquino,Salvadoran catholic priest,Q792,Q739664
+Q15041689,Q6581097,1993-11-12T00:00:00Z,5,Maikon Orellana,Maikon Orellana,Salvadoran footballer,Q792,Q2290501
+Q1545283,Q6581097,1942-09-03T00:00:00Z,28,Gregorio Rosa Chávez,Gregorio Rosa Chávez,Catholic cardinal,Q792,Q765679
+Q15710455,Q6581097,1992-06-27T00:00:00Z,10,Alexander Larín,Alexander Larín,Salvadorean footballer,Q792,Q3110
+Q15715168,Q6581097,1976-01-01T00:00:00Z,13,José Salvador Alvarenga,José Salvador Alvarenga,Fisherman who possibly survived 13 months at sea,Q792,
+Q1580887,Q6581097,1987-05-22T00:00:00Z,8,Mario Wilfredo Contreras,Mario Wilfredo Contreras,Salvadoran road cyclist,Q792,Q739664
+Q15843836,Q6581097,1952-10-30T00:00:00Z,5,Salvador Vilanova,Salvador Vilanova,Salvadoran swimmer,Q792,Q3110
+Q15845953,Q6581097,1954-01-01T00:00:00Z,2,Arturo Zablah,Arturo Zablah,Salvadoran politician,Q792,
+Q16009526,Q6581072,1938-01-01T00:00:00Z,4,Rosa Judith Cisneros,Rosa Judith Cisneros,"Salvadoran lawyer, promoter of human rights and family planning",Q792,
+Q16016513,Q6581097,1978-09-24T00:00:00Z,4,"William López (footballer, born 1978)",William López,Salvadoran footballer (1978-2005),Q792,Q1154058
+Q16017407,Q6581097,1981-07-04T00:00:00Z,3,Selvin González,Selvin González,Salvadoran footballer (1981-2006),Q792,Q956031
+Q16017548,Q6581097,1934-11-09T00:00:00Z,1,Pablo Ríos,Pablo Ríos,Salvadoran singer,Q792,
+Q16018885,Q6581097,1914-12-20T00:00:00Z,4,Aníbal Portillo,Aníbal Portillo,Salvadoran politician and a member of the Civic-Military Directory,Q792,Q2565837
+Q16079045,Q6581097,1911-03-23T00:00:00Z,1,José Francisco Valiente,José Francisco Valiente,Salvadoran politician and a member of the Civic-Military Directory,Q792,Q739664
+Q16104803,Q6581097,1937-03-20T00:00:00Z,3,Raúl Corcio,Raúl Corcio Zavaleta,Salvadoran footballer,Q792,Q739664
+Q16146128,Q6581097,1990-06-04T00:00:00Z,8,Alexander Mendoza,Alexander Enrique Mendoza,Salvadoran footballer,Q792,Q3110
+Q16146154,Q6581097,1953-09-05T00:00:00Z,6,Cesar Acevedo,Cesar Acevedo,Salvadoran footballer,Q792,Q2565837
+Q16146916,Q6581097,1982-11-24T00:00:00Z,6,"Francisco Álvarez (footballer, born 1982)",Francisco Jovel Álvarez,Salvadoran footballer,Q792,Q2308276
+Q16191127,Q6581072,1953-01-01T00:00:00Z,1,Loly Rico,Loly Rico,Canadian refugee activist,Q792,
+Q16194468,Q6581097,1962-05-19T00:00:00Z,4,Joaquín Canales,Joaquín Canales,Salvadoran footballer,Q792,Q3110
+Q16196743,Q6581097,1966-12-08T00:00:00Z,4,Giovanni Trigueros,Giovanni Trigueros,Salvadoran footballer,Q792,Q186935
+Q16201527,Q6581097,1993-01-12T00:00:00Z,1,Juan Elias Garcia,Juan Elias Garcia,,Q792,Q2308276
+Q16209480,Q6581097,1975-05-27T00:00:00Z,3,José Cortez,José Cortéz,American football player (born 1975),Q792,Q1094372
+Q16210687,Q6581072,1979-10-07T00:00:00Z,2,Luisa Maida,Luisa Maida,Salvadoran sports shooter,Q792,Q3110
+Q16217647,Q6581097,1978-07-21T00:00:00Z,2,Francisco Suriano,Francisco Suriano,Salvadoran swimmer,Q792,
+Q16222095,Q6581097,1982-12-21T00:00:00Z,5,Rolando Torres,Rolando Torres,Salvadoran footballer,Q792,Q3808621
+Q16223409,Q6581072,1984-07-05T00:00:00Z,3,Jessie Rodriguez,Jessie Rodriguez,American politician,Q792,Q164920
+Q16223409,Q6581072,1984-07-05T00:00:00Z,3,Jessie Rodriguez,Jessie Rodriguez,American politician,Q30,Q164920
+Q16232310,Q6581097,1988-09-10T00:00:00Z,7,Néstor Renderos,Néstor Renderos,Salvadoran footballer,Q792,Q3110
+Q16234491,Q6581072,1992-08-25T00:00:00Z,10,Marisela de Montecristo,Marisela de Montecristo,Salvadorian beauty pageant winner,Q792,Q1154537
+Q1635429,Q6581097,1968-01-02T00:00:00Z,9,Hugo Martínez (politician),Hugo Martínez,El Salvadorean foreign minister,Q792,Q3907668
+Q1641252,Q6581097,1985-07-08T00:00:00Z,7,"Julio Martínez (footballer, born 1985)",Julio Enrique Martínez,Salvadoran footballer,Q792,Q3681838
+Q16508893,Q6581097,1924-01-01T00:00:00Z,4,Ernesto Antonio Claramount Roseville,Ernesto Antonio Claramount Roseville,Salvadoran politician and general,Q792,Q723792
+Q16527894,Q6581072,1989-01-01T00:00:00Z,2,Alba Delgado,Alba Delgado,Salvadoran beauty pageant contestant,Q792,Q3110
+Q1653250,Q6581097,1983-02-05T00:00:00Z,9,Eliseo Quintanilla,Eliseo Quintanilla,Salvadoran footballer,Q792,Q2631462
+Q16543276,Q6581097,1903-05-02T00:00:00Z,3,Carlos Irigoyen Ruiz,Carlos Irigoyen Ruiz,El Salvador conductor and composer,Q792,Q792
+Q16564668,Q6581097,1995-12-21T00:00:00Z,14,Ignacio Pussetto,Ignacio Pussetto,Argentinian association football player,Q792,Q984150
+Q16574150,Q6581097,1946-01-01T00:00:00Z,5,Hato Hasbún,Hato Hasbún,Salvadoran politician,Q792,Q3110
+Q16599863,Q6581097,2000-01-01T00:00:00Z,2,Mario Roberto Zuñiga,Mario Roberto Zúniga,Salvadoran musician,Q792,Q1094372
+Q167116,Q6581097,1959-01-17T00:00:00Z,47,Jaime Rodríguez,Jaime Rodríguez Jiménez,Salvadoran footballer,Q792,Q3110
+Q16745428,Q6581072,1993-01-01T00:00:00Z,3,Patricia Murillo,Patricia Murillo,Salvadoran beauty pageant contestant,Q792,Q1006979
+Q1690736,Q6581097,1986-07-04T00:00:00Z,11,Rafael Arévalo,Rafael Arévalo,Salvadorian tennis player,Q792,Q1014248
+Q16937400,Q6581072,1993-01-01T00:00:00Z,3,Larissa Vega,Larissa Vega,Beauty pageant winner,Q792,Q739664
+Q1707920,Q6581097,1971-01-06T00:00:00Z,9,Misael Alfaro,Álvaro Misael Alfaro,football player,Q792,Q723246
+Q1708892,Q6581097,1936-09-26T00:00:00Z,4,José Adolfo Mojica Morales,José Adolfo Mojica Morales,Roman Catholic bishop (1936-2012),Q792,Q1003568
+Q1709545,Q6581097,1938-11-29T00:00:00Z,4,José Oscar Barahona Castillo,José Oscar Barahona Castillo,Roman Catholic bishop (1938–2016),Q792,
+Q17103142,Q6581072,1948-04-08T00:00:00Z,2,Rhina Toruño Haensly,Rhina Toruño Haensly,El Salvador linguist,Q792,Q3110
+Q17712353,Q6581097,1981-07-24T00:00:00Z,81,Nayib Bukele,Nayib Bukele,President of El Salvador since 2019,Q792,Q3110
+Q1773795,Q6581097,1980-01-07T00:00:00Z,8,Deris Umanzor,Deris Umanzor,Salvadoran footballer,Q792,Q2308276
+Q18043664,Q6581097,1939-01-16T00:00:00Z,7,Mauricio Bolaños,Mauricio Bolaños,Salvadoran cyclist,Q792,Q2302179
+Q18043892,Q6581097,1950-03-28T00:00:00Z,6,Francisco Funes,Francisco Funes,Salvadoran cyclist,Q792,Q647944
+Q18044976,Q6581097,1941-12-10T00:00:00Z,7,David Miranda (cyclist),David Miranda,Salvadoran cyclist,Q792,Q739664
+Q18044995,Q6581097,1948-06-14T00:00:00Z,7,Juan Molina (cyclist),Juan Molina,Salvadoran cyclist,Q792,Q3110
+Q18044999,Q6581097,1991-03-01T00:00:00Z,9,Marvin Monterroza,Marvin Monterrosa,Salvadoran footballer,Q792,Q2537220
+Q18057072,Q6581097,1937-09-08T00:00:00Z,6,Roberto García (cyclist),Roberto García,Salvadoran cyclist,Q792,Q3110
+Q18124561,Q6581072,1901-01-01T00:00:00Z,2,Eleonora Carrillo,Eleonora Carrillo,Salvadoran model,Q792,Q3110
+Q18151529,Q6581072,1976-04-22T00:00:00Z,5,Milena Mayorga,Milena Mayorga,El Salvadorian ambassador,Q792,Q3110
+Q18161985,Q6581097,1930-03-04T00:00:00Z,5,Enrique Álvarez Córdova,Enrique Álvarez Córdova,Salvadoran politician and statesman (1930–1980),Q792,Q3110
+Q181925,Q6581097,1985-07-18T00:00:00Z,8,Cristian Sánchez Prette,Cristian Sánchez Prette,Argentine association football player,Q792,Q983451
+Q181925,Q6581097,1985-05-10T00:00:00Z,8,Cristian Sánchez Prette,Cristian Sánchez Prette,Argentine association football player,Q414,Q983451
+Q181925,Q6581097,1985-07-18T00:00:00Z,8,Cristian Sánchez Prette,Cristian Sánchez Prette,Argentine association football player,Q414,Q983451
+Q181925,Q6581097,1985-05-10T00:00:00Z,8,Cristian Sánchez Prette,Cristian Sánchez Prette,Argentine association football player,Q792,Q983451
+Q18590611,Q6581072,1943-01-01T00:00:00Z,5,Victoria Marina Velásquez,Victoria Marina Velásquez de Avilés,Salvadoran lawyer,Q792,Q1018092
+Q18637223,Q6581097,1988-10-24T00:00:00Z,6,Ibsen Castro,Ibsen Castro,footballer,Q792,Q1154058
+Q18921390,Q6581097,1996-02-12T00:00:00Z,7,Juan Barahona (footballer),Juan Barahona,Salvadoran footballer,Q792,Q3110
+Q18921390,Q6581097,1995-02-12T00:00:00Z,7,Juan Barahona (footballer),Juan Barahona,Salvadoran footballer,Q792,Q3110
+Q18921611,Q6581097,1987-11-07T00:00:00Z,6,Danny Torres,Danny Torres,Salvadoran footballer,Q792,Q3110
+Q18921887,Q6581097,1991-10-17T00:00:00Z,7,"Henry Romero (footballer, born 1991)",Henry Romero,Salvadoran footballer,Q792,Q2308276
+Q18921887,Q6581097,1991-09-17T00:00:00Z,7,"Henry Romero (footballer, born 1991)",Henry Romero,Salvadoran footballer,Q792,Q2308276
+Q18921948,Q6581097,1991-02-10T00:00:00Z,5,Irvin Valdez,Irvin Valdez,Salvadoran footballer,Q792,Q3686045
+Q1932671,Q6581097,1905-07-04T00:00:00Z,5,Miguel Mármol,Miguel Mármol,Salvadoran trade unionist (1905–1993),Q792,Q1659066
+Q19561386,Q6581097,1988-12-31T00:00:00Z,5,Marlon Trejo,Marlon Trejo,Salvadoran footballer,Q792,Q1018092
+Q19576856,Q6581097,1947-01-24T00:00:00Z,2,Ricardo López Tenorio,Ricardo López Tenorio,Salvadoran football manager,Q792,Q739664
+Q19598996,Q6581072,1993-07-20T00:00:00Z,4,Francisca González,Francisca González,Salvadoran footballer,Q792,Q792
+Q19599145,Q6581072,1990-08-14T00:00:00Z,3,Damaris Quélez,Damaris Quéles,Salvadoran footballer,Q792,Q792
+Q19599145,Q6581072,1990-08-04T00:00:00Z,3,Damaris Quélez,Damaris Quéles,Salvadoran footballer,Q792,Q792
+Q19757599,Q6581072,1989-09-06T00:00:00Z,2,Xenia Estrada,Xenia Estrada,Salvadoran bicycle racer,Q792,Q792
+Q19877287,Q6581097,1951-06-24T00:00:00Z,4,Mauricio Alvarenga,Mauricio Alvarenga,Salvadoran footballer,Q792,Q792
+Q19958180,Q6581097,1991-08-30T00:00:00Z,7,Irvin Herrera,Irvin Herrera,Biografy,Q792,Q3947453
+Q19958188,Q6581097,1989-05-01T00:00:00Z,8,Iván Mancía,Ivan Mancia,association football player,Q792,Q619646
+Q19958188,Q6581097,1992-12-19T00:00:00Z,8,Iván Mancía,Ivan Mancia,association football player,Q792,Q619646
+Q19974548,Q6581072,1976-09-27T00:00:00Z,2,María José Marenco,María José Marenco,Salvadoran swimmer,Q792,
+Q1998485,Q6581097,1953-06-05T00:00:00Z,13,José Luis Rugamas,José Luis Rugamas,Salvadoran footballer,Q792,Q3110
+Q1998492,Q6581097,1958-12-11T00:00:00Z,17,Ever Hernández,Ever Hernández,Salvadoran footballer,Q792,Q1438464
+Q19989065,Q6581072,1933-01-01T00:00:00Z,10,Alicia Nash,Alicia Nash,"Salvadoran-American physicist, mental health-care advocate",Q792,Q3110
+Q19989065,Q6581072,1933-01-01T00:00:00Z,10,Alicia Nash,Alicia Nash,"Salvadoran-American physicist, mental health-care advocate",Q30,Q3110
+Q20018222,Q6581072,1955-12-20T00:00:00Z,4,Lorena Peña,Lorena Guadalupe Peña,Salvadoran politician and women's rights advocate,Q792,Q3110
+Q20048170,Q6581072,1987-05-25T00:00:00Z,5,Luedji Luna,Luedji Luna,Brazilian singer-songwriter and bandleader,Q155,Q36947
+Q20048170,Q6581072,1987-05-25T00:00:00Z,5,Luedji Luna,Luedji Luna,Brazilian singer-songwriter and bandleader,Q792,Q36947
+Q20065425,Q6581072,1901-08-11T00:00:00Z,3,Zélie Lardé,Zélie Lardé,Salvadoran painter,Q792,Q3110
+Q20111550,Q6581072,1986-12-19T00:00:00Z,3,Lilian Castro,Lilian Castro,Salvadoran sports shooter,Q792,Q739664
+Q2035466,Q6581097,1970-02-01T00:00:00Z,16,Raúl Díaz Arce,Raúl Díaz Arce,Salvadoran footballer,Q792,Q672458
+Q2059911,Q6581097,1938-11-27T00:00:00Z,15,Mario Monge,Mario Monge,Salvadoran footballer,Q792,Q3110
+Q20640895,Q6581072,1951-04-23T00:00:00Z,4,María Teresa Tula,María Teresa Tula,Salvadoran activist,Q792,Q682226
+Q20655705,Q6581097,1995-01-28T00:00:00Z,13,Narciso Orellana,Narciso Orellana,association football player,Q792,Q739664
+Q20676424,Q6581097,1995-08-10T00:00:00Z,9,Denis Pineda,Denis Pineda,Salvadoran footballer,Q792,Q1094372
+Q20676424,Q6581097,1996-04-01T00:00:00Z,9,Denis Pineda,Denis Pineda,Salvadoran footballer,Q792,Q1094372
+Q2070086,Q6581097,1985-01-10T00:00:00Z,10,Dennis Alas,Dennis Alas,El Salvadorean footballer,Q792,Q3110
+Q20748116,Q6581072,1915-04-17T00:00:00Z,11,María Cristina Vilanova,María Cristina Vilanova,First Lady of Guatemala,Q792,Q3110
+Q20748116,Q6581072,1915-04-17T00:00:00Z,11,María Cristina Vilanova,María Cristina Vilanova,First Lady of Guatemala,Q774,Q3110
+Q20748116,Q6581072,1915-04-17T00:00:00Z,11,María Cristina Vilanova,María Cristina Vilanova,First Lady of Guatemala,Q800,Q3110
+Q20898433,Q6581097,1942-01-01T00:00:00Z,2,Mario Aguiñada Carranza,Mario Aguiñada Carranza,Salvadoran politician (1942-2015),Q792,Q212540
+Q20899722,Q6581097,1963-07-31T00:00:00Z,4,Juan Vargas (judoka),Juan Vargas,Salvadoran judok,Q792,
+Q20963079,Q6581072,1995-11-11T00:00:00Z,4,Beatriz Flamenco,Beatriz Flamenco,Salvadoran athletics competitor,Q792,
+Q20979493,Q6581097,1998-12-12T00:00:00Z,5,Natán Rivera,Natán Rivera,Salvadoran athletics competitor,Q792,Q792
+Q21004982,Q6581097,1985-10-23T00:00:00Z,6,Jonathan Barrios,Jonathan Barrios,footballer,Q792,Q3110
+Q21005444,Q6581097,1993-09-14T00:00:00Z,5,Marlón Cornejo,Marlón Cornejo,Salvadoran association football player,Q792,Q792
+Q21066589,Q6581097,1992-04-26T00:00:00Z,8,Joaquín Rivas,Joaquin Rivas,Salvadoran association football player,Q792,Q739664
+Q2107289,Q6581097,1985-03-27T00:00:00Z,5,Carlos Figueroa (judoka),Carlos Figueroa,Salvadoran judoka,Q792,Q3110
+Q211000,Q6581097,1965-03-09T00:00:00Z,38,Antonio Saca,Antonio Saca,Salvadoran politician,Q792,Q1018092
+Q21141161,Q6581097,1993-07-31T00:00:00Z,4,Roberto López (rower),Roberto López,Salvadorian rower,Q792,Q3110
+Q21189006,Q6581097,1982-10-27T00:00:00Z,3,Luis Contreras (footballer),Luis Contreras,Salvadorian association football player,Q792,Q2420477
+Q21200479,Q6581097,1993-10-26T00:00:00Z,8,Miguel Lemus,Miguel Lemus,Salvadoran association football player,Q792,Q792
+Q2161301,Q6581097,1938-03-14T00:00:00Z,5,Rodrigo Orlando Cabrera Cuéllar,Rodrigo Orlando Cabrera Cuéllar,El Salvatorian Roman Catholic prelate (1938–2022),Q792,Q3984168
+Q21621397,Q6581097,1993-06-12T00:00:00Z,5,Tomás Granitto,Tomás Granitto,Salvadoran association football player,Q792,Q3110
+Q21621397,Q6581097,1993-04-12T00:00:00Z,5,Tomás Granitto,Tomás Granitto,Salvadoran association football player,Q792,Q3110
+Q21622025,Q6581097,1994-02-04T00:00:00Z,4,Rommel Mejía,Rommel Mejía,association football player,Q792,Q792
+Q21622346,Q6581097,1994-12-10T00:00:00Z,6,José Ángel Peña,José Ángel Peña,association football player,Q792,Q3110
+Q21622547,Q6581072,1994-08-04T00:00:00Z,2,Idubina Rivas,Idubina Rivas,Salvadorian model and beauty pageant titleholder,Q792,Q3110
+Q21623202,Q6581097,1990-02-17T00:00:00Z,11,David Rugamas,David Rugamas,association football player,Q792,Q2003995
+Q2165984,Q6581097,1987-06-24T00:00:00Z,6,Ronnie Aguilar,Ronnie Aguilar,Salvadoran basketball player (born 1987),Q792,Q65
+Q2165984,Q6581097,1987-06-24T00:00:00Z,6,Ronnie Aguilar,Ronnie Aguilar,Salvadoran basketball player (born 1987),Q30,Q65
+Q21808627,Q6581097,1963-06-14T00:00:00Z,2,René López (athlete),René López Escobar,Salvadoran sprinter,Q792,
+Q21808673,Q6581097,1958-06-03T00:00:00Z,2,Aldo Salandra,Aldo Salandra,Salvadoran sprinter,Q792,
+Q21832706,Q6581097,1925-01-18T00:00:00Z,2,Tomás Vilanova,Tomás Vilanova,Salvadoran sports shooter,Q792,Q739664
+Q21855677,Q6581097,1962-07-21T00:00:00Z,2,Luis Campos (race walker),Luis Campos,Salvadoran racewalker,Q792,
+Q21931860,Q6581097,1940-05-08T00:00:00Z,1,Alex Panamá,Alex Panamá,Salvadoran composer (1940-2010),Q792,Q739664
+Q21932119,Q6581097,1968-04-08T00:00:00Z,4,Douglas Vidal Jiménez,Douglas Vidal Jiménez,Salvadoran football coach,Q792,Q3110
+Q21932422,Q6581097,1975-01-19T00:00:00Z,1,Ricardo Serrano (football manager),Ricardo Serrano,Salvadoran association football manager,Q792,Q2290501
+Q21965891,Q6581072,1963-09-20T00:00:00Z,3,Kriscia García,Kriscia Lorena García,Salvadoran athlete,Q792,
+Q22003117,Q6581097,1924-11-22T00:00:00Z,2,Andrés Amador,Andrés Amador,Salvadoran sports shooter (1924–2013),Q792,Q1014248
+Q22003577,Q6581097,1914-07-20T00:00:00Z,2,Tito Castillo,Tito Castillo,Salvadoran sports shooter (1914–2000),Q792,Q723246
+Q22003578,Q6581097,1917-10-20T00:00:00Z,2,Helio Castro,Helio Castro,Salvadoran sports shooter,Q792,Q1129788
+Q22132871,Q6581097,2000-01-01T00:00:00Z,1,Humberto Lara Gavidia,Humberto Lara Gavidia,Salvadoran baseball player (2000-2014),Q792,
+Q2232850,Q6581072,1980-04-23T00:00:00Z,7,Paulina Gálvez (Miss International),Paulina Gálvez,Colombian model,Q739,Q3110
+Q2232850,Q6581072,1980-04-23T00:00:00Z,7,Paulina Gálvez (Miss International),Paulina Gálvez,Colombian model,Q792,Q3110
+Q2266268,Q6581097,1933-05-15T00:00:00Z,5,Segundo Montes,Segundo Montes,"Spanish Jesuit priest and scholar, assassinated martyr in El Salvador",Q29,Q8356
+Q2266268,Q6581097,1933-05-15T00:00:00Z,5,Segundo Montes,Segundo Montes,"Spanish Jesuit priest and scholar, assassinated martyr in El Salvador",Q792,Q8356
+Q22665545,Q6581097,1998-01-21T00:00:00Z,11,Joshua Pérez,Joshua Perez,Salvadoran-American soccer player,Q30,Q948071
+Q22665545,Q6581097,1998-01-21T00:00:00Z,11,Joshua Pérez,Joshua Perez,Salvadoran-American soccer player,Q792,Q948071
+Q22957817,Q6581072,1961-12-01T00:00:00Z,4,Ana Ligia Mixco Sol de Saca,Ana Ligia Mixco Sol de Saca,"Salvadoran businesswoman, former First Lady of El Salvador",Q792,Q723246
+Q22958030,Q6581072,1950-04-04T00:00:00Z,5,Margarita Villalta de Sánchez,Margarita Villalta de Sánchez,politician,Q792,Q1154058
+Q22958118,Q6581072,1901-01-01T00:00:00Z,5,Rosa Amelia Guzmán,Rosa Amelia Guzmán,"Salvadoran journalist, feminist and suffragette",Q792,
+Q23007616,Q6581097,1989-01-09T00:00:00Z,3,Roberto Hernández (archer),Roberto Hernandez,Salvadoran archer,Q792,Q792
+Q2301551,Q6581072,1981-01-26T00:00:00Z,2,Sonia Zepeda,Sonia Zepeda,Salvadoran chess player,Q792,Q3110
+Q23020876,Q6581097,1943-03-01T00:00:00Z,2,José Luis Rosales,José Luis Rosales,Salvadoran sports shooter,Q792,
+Q23023825,Q6581097,1948-01-03T00:00:00Z,2,Ricardo Soundy,Ricardo Soundy,Salvadoran sports shooter,Q792,Q3110
+Q23418761,Q6581097,1968-02-12T00:00:00Z,3,Roberto José d'Aubuisson Munguía,Roberto José d'Aubuisson Munguía,Salvadoran politician,Q792,Q723246
+Q2358698,Q6581097,1984-08-25T00:00:00Z,7,Christian Castillo (footballer),Christian Castillo,Salvadoran footballer,Q792,Q3110
+Q23641667,Q6581097,1977-03-02T00:00:00Z,4,Miguel Angel Moreno,Miguel Ángel Moreno Mendoza,Salvadoran judoka,Q792,
+Q23683350,Q6581097,1929-08-11T00:00:00Z,2,Juan Antonio Valencia,Juan Antonio Valencia,Salvadoran sports shooter,Q792,Q3110
+Q24005010,Q6581072,1980-02-15T00:00:00Z,1,Patricia Rivas,Patricia Rivas,Salvadoran sport shooter,Q792,Q3110
+Q24005324,Q6581097,1997-05-09T00:00:00Z,10,Roberto Domínguez (footballer),Roberto Domínguez,Salvadoran footballer,Q792,Q2290501
+Q2402608,Q6581097,1968-02-12T00:00:00Z,12,Mauricio Cienfuegos,Mauricio Cienfuegos,Salvadoran footballer,Q792,Q3110
+Q2438288,Q6581097,1961-09-02T00:00:00Z,16,Luis Guevara Mora,Luis Guevara Mora,Salvadoran footballer,Q792,Q3110
+Q2465851,Q6581097,1989-01-17T00:00:00Z,8,Léster Blanco,Léster Blanco,Salvadoran footballer,Q792,Q956031
+Q24701586,Q6581097,1990-01-28T00:00:00Z,4,Óscar Daniel Arroyo,Óscar Arroyo,association football player,Q792,Q739664
+Q2473839,Q6581072,1929-05-17T00:00:00Z,14,Ana María,Ana María,Salvadoran revolutionary (1929–1983),Q792,Q679112
+Q2479555,Q6581097,1982-05-25T00:00:00Z,11,Ramón Sánchez (footballer),Ramón Sánchez,Salvadoran footballer,Q792,Q2003995
+Q24960893,Q6581097,1928-01-01T00:00:00Z,3,Walter Béneke,Walter Béneke,salvadorean politologist,Q792,Q3110
+Q24960893,Q6581097,1930-05-31T00:00:00Z,3,Walter Béneke,Walter Béneke,salvadorean politologist,Q792,Q3110
+Q250808,Q6581097,1925-10-08T00:00:00Z,19,Álvaro Magaña,Álvaro Magaña,President of El Salvador (1925-2001),Q792,Q186935
+Q2562994,Q6581097,1988-07-03T00:00:00Z,16,Rodolfo Zelaya,Rodolfo Zelaya,Salvadorian footballer,Q792,Q1018092
+Q2602932,Q6581097,1986-04-18T00:00:00Z,9,Osael Romero,Osael Romero,Salvadoran footballer,Q792,Q1018092
+Q2607083,Q6581072,1919-02-20T00:00:00Z,9,Matilde Elena López,Matilde Elena López,Salvadoran writer (1919-2010),Q792,Q3110
+Q26236427,Q6581097,1996-07-11T00:00:00Z,9,Marcelo Acosta,Marcelo Acosta,Salvadoran swimmer,Q792,Q792
+Q26237962,Q6581072,1997-08-28T00:00:00Z,7,Rebeca Quinteros,Rebeca Quinteros,Salvadoran swimmer,Q792,
+Q26267524,Q6581097,1992-09-22T00:00:00Z,5,Juan Diego Turcios,Juan Diego Turcios,Salvadoran judoka,Q792,Q792
+Q26465687,Q6581097,1958-01-01T00:00:00Z,3,Atilio Benítez,José Atilio Benítez Parada,politician,Q792,Q672458
+Q26611914,Q6581097,1994-01-18T00:00:00Z,3,Luis Lopez (Salvadoran race walker),Luis Lopez,Salvadoran athletics competitor,Q792,Q3947416
+Q26789912,Q6581097,1992-01-18T00:00:00Z,3,Enrique Arathoon,Enrique Jose Arathoon Pacas,Salvadoran competitive sailor,Q792,Q1555
+Q26924490,Q6581072,1994-03-26T00:00:00Z,3,Yesenia Miranda,Yesenia Miranda,Salvadoran athletics competitor,Q792,Q3110
+Q2700157,Q6581097,1989-07-30T00:00:00Z,16,Jaime Alas,Jaime Alas,Salvadoran footballer,Q792,Q3110
+Q270601,Q6581072,1924-05-12T00:00:00Z,36,Claribel Alegría,Claribel Alegría,Nicaraguan writer (1924-2018),Q811,Q1007634
+Q270601,Q6581072,1924-05-12T00:00:00Z,36,Claribel Alegría,Claribel Alegría,Nicaraguan writer (1924-2018),Q792,Q1007634
+Q27107158,Q6581097,1995-02-21T00:00:00Z,9,Bryan Tamacas,Bryan Tamacas,Association football player,Q792,Q3110
+Q2738509,Q6581072,1980-01-21T00:00:00Z,13,Mari Possa,Mari Possa,Salvadoran-American pornographic actress,Q792,Q672458
+Q27472818,Q6581072,1985-07-21T00:00:00Z,2,Liz Cruz (tennis),Liz Cruz,Salvadoran tennis player,Q792,Q3110
+Q2753341,Q6581097,1946-02-24T00:00:00Z,16,Elmer Acevedo,Elmer Acevedo,Salvadoran footballer (1949-2017),Q792,Q792
+Q2753341,Q6581097,1949-01-27T00:00:00Z,16,Elmer Acevedo,Elmer Acevedo,Salvadoran footballer (1949-2017),Q792,Q792
+Q2760285,Q6581097,1990-07-02T00:00:00Z,6,Ricardo Ulloa,Ricardo Ulloa,Salvadoran footballer,Q792,Q2537220
+Q2761753,Q6581097,1990-08-31T00:00:00Z,13,Andrés Flores,Andrés Flores,Salvadoran footballer,Q792,Q3110
+Q27734119,Q6581097,1962-03-23T00:00:00Z,2,Daniel Guttfreund,Daniel Georg Guttfreund Schneider,"Ph, D. Phsychologist",Q792,Q3110
+Q27736573,Q6581097,1952-09-12T00:00:00Z,2,Ernesto Durón,Ernesto Durón,Salvadoran swimmer,Q792,Q3110
+Q27805385,Q6581097,1951-10-24T00:00:00Z,2,Abel Muñoz,Abel Muñoz,Salvadoran swimmer,Q792,Q1018092
+Q27824104,Q6581097,1952-11-17T00:00:00Z,2,Friedrich Jokisch,Friedrich Jokisch,Salvadoran swimmer,Q792,Q3110
+Q27824107,Q6581097,1953-09-17T00:00:00Z,2,Arturo Carranza,Arturo Carranza,Salvadoran swimmer,Q792,Q3110
+Q27851518,Q6581072,1952-06-29T00:00:00Z,2,Carmen Ferracuti,Carmen Ferracuti,Salvadoran swimmer,Q792,Q3110
+Q27851525,Q6581072,1952-05-21T00:00:00Z,2,Rosa Hasbún,Rosa Hasbún,Salvadoran swimmer,Q792,Q2004074
+Q27856749,Q6581072,1953-09-05T00:00:00Z,2,Donatella Ferracuti,Donatella Ferracuti,Salvadoran swimmer,Q792,Q3110
+Q27881120,Q6581072,1954-09-13T00:00:00Z,3,Celia Jokisch,Celia Jokisch,Salvadoran swimmer,Q792,Q3110
+Q27881182,Q6581072,1952-12-02T00:00:00Z,2,María Moreño,María Moreño,Salvadoran swimmer,Q792,Q3110
+Q27881187,Q6581072,1953-11-13T00:00:00Z,2,María Castro (swimmer),María Castro,Salvadoran swimmer,Q792,Q3110
+Q27909506,Q6581097,1947-09-27T00:00:00Z,2,Sergio Hasbún,Sergio Hasbún,Salvadoran swimmer,Q792,
+Q27909809,Q6581097,1953-06-11T00:00:00Z,2,Eduardo Ramos (swimmer),Eduardo Ramos,Salvadoran swimmer,Q792,Q3110
+Q27917127,Q6581097,2000-01-01T00:00:00Z,2,Alejandro Cabrera (swimmer),Alejandro Cabrera,Salvadoran swimmer,Q792,
+Q27918282,Q6581097,1953-08-20T00:00:00Z,2,José Alvarado (swimmer),José Alvarado,Salvadoran swimmer,Q792,Q3110
+Q27923564,Q6581097,1954-11-01T00:00:00Z,2,Rubén Guerrero,Rubén Guerrero,Salvadoran swimmer,Q792,Q3110
+Q28026926,Q6581072,1960-01-01T00:00:00Z,16,Morena Herrera,Morena Herrera,Salvadoran feminist and women's rights activist,Q792,Q792
+Q28062457,Q6581097,1958-01-01T00:00:00Z,5,Mario Vega (pastor),Mario Vega,Salvadoran pastor,Q792,Q3110
+Q28063962,Q6581097,1901-01-01T00:00:00Z,2,René Portillo Cuadra,René Portillo Cuadra,Salvadoran politician,Q792,Q3674976
+Q2825017,Q6581097,1982-04-08T00:00:00Z,10,Gerardo Celasco,Gerardo Celasco,American actor,Q792,Q8652
+Q2825017,Q6581097,1982-04-08T00:00:00Z,10,Gerardo Celasco,Gerardo Celasco,American actor,Q30,Q8652
+Q282719,Q6581097,1969-05-21T00:00:00Z,16,Pete Sandoval,Pete Sandoval,American drummer,Q792,Q739664
+Q282719,Q6581097,1969-05-21T00:00:00Z,16,Pete Sandoval,Pete Sandoval,American drummer,Q30,Q739664
+Q28314453,Q6581097,1995-01-20T00:00:00Z,5,Andrés Flores Jaco,Andrés Flores Jaco,association football player,Q792,Q739664
+Q28501667,Q6581072,2001-01-22T00:00:00Z,3,Marjorie Herrera,Marjorie Herrera,Salvadoran chess player,Q792,Q3110
+Q285331,Q6581097,1975-01-03T00:00:00Z,14,Ronald Cerritos,Ronald Cerritos,Salvadoran footballer,Q792,Q3110
+Q28736661,Q6581097,1992-03-30T00:00:00Z,6,Cyril Errington,Cyril Errington,Nicaraguan association football player,Q792,Q3110
+Q28736661,Q6581097,1992-03-30T00:00:00Z,6,Cyril Errington,Cyril Errington,Nicaraguan association football player,Q811,Q3110
+Q2884663,Q6581072,1933-08-09T00:00:00Z,4,Mercedes Durand,Mercedes Durand,Salvadoran writer and journalist (1933-1999),Q792,Q3110
+Q2888606,Q6581072,1946-04-03T00:00:00Z,6,Lil Milagro Ramírez,Lil Milagro Ramírez,Salvadoran poet and revolutionary,Q792,Q3110
+Q29034260,Q6581097,1995-06-15T00:00:00Z,7,"Víctor García (footballer, born 1995)",Victor García,association football player,Q792,Q1018092
+Q29046239,Q6581097,1987-09-05T00:00:00Z,2,Anibal Echeverria,Anibal Echeverria,Salvadoran-American soccer player,Q30,Q49225
+Q29046239,Q6581097,1987-09-05T00:00:00Z,2,Anibal Echeverria,Anibal Echeverria,Salvadoran-American soccer player,Q792,Q49225
+Q2915381,Q6581097,1973-02-21T00:00:00Z,5,"Roberto Martínez (footballer, born 1973)",Roberto Guadalupe Martínez,Salvadoran footballer,Q792,Q672458
+Q29315167,Q6581097,2000-12-19T00:00:00Z,9,Tomás Romero (footballer),Tomas Romero,Salvadoran-American soccer player,Q792,Q2710598
+Q29315167,Q6581097,2000-12-19T00:00:00Z,9,Tomás Romero (footballer),Tomas Romero,Salvadoran-American soccer player,Q30,Q2710598
+Q29315167,Q6581097,2000-12-12T00:00:00Z,9,Tomás Romero (footballer),Tomas Romero,Salvadoran-American soccer player,Q30,Q2710598
+Q29315167,Q6581097,2000-12-12T00:00:00Z,9,Tomás Romero (footballer),Tomas Romero,Salvadoran-American soccer player,Q792,Q2710598
+Q293400,Q6581097,1910-12-14T00:00:00Z,18,Óscar Osorio,Óscar Osorio,Salvadoran politician and military official (1910-1969),Q792,Q1014248
+Q293455,Q6581097,1917-08-15T00:00:00Z,61,Óscar Romero,Óscar Romero,"Salvadoran Catholic archbishop and saint (1917–1980), assassinated while celebrating Mass",Q792,Q1157078
+Q29451986,Q6581097,1990-01-01T00:00:00Z,5,Javier Zamora,Javier Zamora,El Salvadoran American poet,Q792,Q609519
+Q2947467,Q6581072,1982-12-29T00:00:00Z,14,Evelyn García,Evelyn García,Salvadoran cyclist,Q792,Q739664
+Q2980097,Q6581097,1950-02-28T00:00:00Z,17,Imanol Uribe,Imanol Uribe,Spanish film director,Q792,Q3110
+Q2980097,Q6581097,1950-02-28T00:00:00Z,17,Imanol Uribe,Imanol Uribe,Spanish film director,Q29,Q3110
+Q29917654,Q6581072,1980-01-01T00:00:00Z,6,Marcela Zamora,Marcela Zamora,Film director and journalist from El Salvador,Q792,Q792
+Q3028357,Q6581097,1959-08-17T00:00:00Z,6,Rafael Menjívar Ochoa,Rafael Menjívar Ochoa,Salvadoran writer,Q792,Q3110
+Q30312911,Q6581097,1998-01-02T00:00:00Z,8,Eric Calvillo,Eric Calvillo,Salvadoran-American soccer player,Q792,Q488940
+Q30312911,Q6581097,1998-01-02T00:00:00Z,8,Eric Calvillo,Eric Calvillo,Salvadoran-American soccer player,Q30,Q488940
+Q3037172,Q6581072,1939-06-30T00:00:00Z,4,Dorothy Kazel,Dorothy Kazel,Catholic missionary raped and murdered by the military of El Salvador,Q792,Q37320
+Q3037172,Q6581072,1939-06-30T00:00:00Z,4,Dorothy Kazel,Dorothy Kazel,Catholic missionary raped and murdered by the military of El Salvador,Q30,Q37320
+Q3062580,Q6581097,1949-04-07T00:00:00Z,9,Fernando Llort,Fernando Llort Choussy,Salvadoran artist (1949-2018),Q792,Q3110
+Q3088809,Q6581097,1982-04-17T00:00:00Z,9,Marvin González,Marvin González,Salvadoran footballer,Q792,Q2779429
+Q3132118,Q6581097,1981-05-19T00:00:00Z,8,Luis Anaya,Luis Anaya,Salvadoran footballer,Q792,Q3947416
+Q314717,Q6581097,1975-07-02T00:00:00Z,28,Joel Aguilar,Joel Aguilar,Salvadoran football referee,Q792,Q3110
+Q3155830,Q6581072,1940-04-23T00:00:00Z,4,Ita Ford,Ita Ford,Catholic martyr of El Salvador (1940-1980),Q30,Q18419
+Q3155830,Q6581072,1940-04-23T00:00:00Z,4,Ita Ford,Ita Ford,Catholic martyr of El Salvador (1940-1980),Q792,Q18419
+Q3157091,Q6581072,1961-09-01T00:00:00Z,9,Jacinta Escudos,Jacinta Escudos,Salvadoran writer,Q792,Q3110
+Q32323110,Q6581097,1973-01-25T00:00:00Z,1,Edgardo Antonio Serpas,Edgardo Antonio Serpas,Salvadoran sprinter,Q792,
+Q32323110,Q6581097,1974-01-25T00:00:00Z,1,Edgardo Antonio Serpas,Edgardo Antonio Serpas,Salvadoran sprinter,Q792,
+Q3247454,Q6581097,1954-04-09T00:00:00Z,8,Álvaro Torres,Álvaro Torres,Salvadoran musician,Q792,Q1018092
+Q32574202,Q6581072,1996-01-25T00:00:00Z,7,Alisson Abarca,Alisson Abarca,"Salvadoran beauty pageant contestant, Miss Universe El Salvador 2017",Q792,Q3110
+Q3293717,Q6581072,1968-04-06T00:00:00Z,12,Marisol Argueta de Barillas,Marisol Argueta de Barillas,Salvadoran politician,Q792,
+Q3300222,Q6581072,1931-01-13T00:00:00Z,2,Maura Clarke,Maura Clarke,Maryknoll Sister murdered in El Salvador (1931-1980),Q792,Q18424
+Q3300222,Q6581072,1931-01-13T00:00:00Z,2,Maura Clarke,Maura Clarke,Maryknoll Sister murdered in El Salvador (1931-1980),Q30,Q18424
+Q33026024,Q6581097,1947-05-17T00:00:00Z,1,José Astacio,José Astacio,Salvadoran sprinter,Q792,Q3110
+Q33076497,Q6581097,1971-12-19T00:00:00Z,5,Giovanni Gil,Giovanni Gil,Visual Artist and Engraver,Q792,Q3110
+Q33419639,Q6581072,1999-07-16T00:00:00Z,4,Celina Márquez,Celina Marquez,Salvadoran swimmer,Q792,Q3110
+Q3379311,Q6581072,1973-03-18T00:00:00Z,7,Eva Dimas,Eva Dimas,Salvadoran weightlifter,Q792,Q3110
+Q3389307,Q6581097,1990-02-21T00:00:00Z,8,Edwin Sánchez (footballer),Edwin Sánchez,Salvadoran footballer,Q792,Q723246
+Q3424732,Q6581097,1901-06-24T00:00:00Z,10,Ricardo Saprissa,Ricardo Saprissa,Spanish tennis player,Q792,Q3110
+Q349540,Q6581097,1922-08-14T00:00:00Z,6,Noe Canjura,Noe Canjura,Salvadorian artist (1922-1970),Q792,Q619646
+Q3543847,Q6581097,1987-02-15T00:00:00Z,7,Shawn Martin,Shawn Martin,Salvadoran footballer,Q792,Q3274
+Q3543847,Q6581097,1982-02-15T00:00:00Z,7,Shawn Martin,Shawn Martin,Salvadoran footballer,Q792,Q3274
+Q3544123,Q6581097,1901-04-24T00:00:00Z,8,Luis Chávez y González,Luis Chávez y González,Catholic bishop (1901–1987),Q792,Q1130677
+Q3544123,Q6581097,1901-04-24T00:00:00Z,8,Luis Chávez y González,Luis Chávez y González,Catholic bishop (1901–1987),Q792,Q5823190
+Q3544123,Q6581097,1901-01-24T00:00:00Z,8,Luis Chávez y González,Luis Chávez y González,Catholic bishop (1901–1987),Q792,Q1130677
+Q3544123,Q6581097,1901-01-24T00:00:00Z,8,Luis Chávez y González,Luis Chávez y González,Catholic bishop (1901–1987),Q792,Q5823190
+Q35543990,Q6581072,1968-07-30T00:00:00Z,1,Arely Franco,Arely Franco,Salvadoran sprinter,Q792,Q3110
+Q360283,Q6581097,1925-11-23T00:00:00Z,30,José Napoleón Duarte,José Napoleón Duarte,President of El Salvador (1925-1990),Q792,Q739664
+Q3608648,Q6581097,1947-11-19T00:00:00Z,15,Alberto Villalta,Alberto Villalta,Salvadoran footballer (1947-2017),Q792,Q3110
+Q3608648,Q6581097,1940-01-16T00:00:00Z,15,Alberto Villalta,Alberto Villalta,Salvadoran footballer (1947-2017),Q792,Q3110
+Q3614867,Q6581072,1992-04-28T00:00:00Z,9,Ana Yancy Clavel,Ana Yancy Clavel,model and beauty pageant contestant,Q792,Q3110
+Q365374,Q6581097,1947-11-22T00:00:00Z,29,Alfredo Cristiani,Alfredo Cristiani,President of El Salvador,Q792,Q3110
+Q3660123,Q6581097,1950-06-30T00:00:00Z,13,Carlos Recinos,Carlos Recinos,Salvadoran footballer,Q792,Q3110
+Q3697373,Q6581097,1986-05-02T00:00:00Z,5,Cristian Esnal,Cristian Esnal,Salvadoran footballer,Q792,Q3110
+Q3703090,Q6581097,1945-09-12T00:00:00Z,15,David Cabrera (Salvadoran footballer),David Arnoldo Cabrera,Salvadoran footballer,Q792,Q739664
+Q3707132,Q6581097,1982-06-20T00:00:00Z,5,"Diego Mejía (footballer, born 1982)",Diego Mejía,Salvadoran footballer,Q792,Q3110
+Q3719810,Q6581097,1958-01-31T00:00:00Z,15,Eduardo Hernández (goalkeeper),Eduardo Hernández,Salvadoran footballer,Q792,Q1438464
+Q3719810,Q6581097,1961-01-31T00:00:00Z,15,Eduardo Hernández (goalkeeper),Eduardo Hernández,Salvadoran footballer,Q792,Q1438464
+Q3732161,Q6581097,1948-12-28T00:00:00Z,14,Ernesto Aparicio,Ernesto Aparicio,Salvadoran footballer,Q792,Q3110
+Q3751029,Q6581097,1957-03-20T00:00:00Z,14,Francisco Osorto,Francisco Osorto,Salvadoran footballer (1957–2023),Q792,Q2420477
+Q3759402,Q6581097,1948-11-28T00:00:00Z,15,Genaro Sermeño,Genaro Sermeño,Salvadoran footballer (1948–2022),Q792,Q3720891
+Q3761309,Q6581097,1989-02-09T00:00:00Z,11,Gerson Mayen,Gerson Mayen,association football player,Q792,Q65
+Q3761309,Q6581097,1989-02-09T00:00:00Z,11,Gerson Mayen,Gerson Mayen,association football player,Q30,Q65
+Q3778106,Q6581097,1941-07-12T00:00:00Z,16,Gualberto Fernández,Gualberto Fernández,Salvadoran footballer,Q783,Q3238
+Q3778106,Q6581097,1941-07-12T00:00:00Z,16,Gualberto Fernández,Gualberto Fernández,Salvadoran footballer,Q792,Q3238
+Q3779621,Q6581097,1940-06-25T00:00:00Z,14,Guillermo Castro (Salvadoran footballer),Guillermo Castro,Salvadoran footballer,Q792,Q3110
+Q3779633,Q6581097,1956-11-05T00:00:00Z,14,Guillermo Ragazzone,Guillermo Ragazzone,Salvadoran footballer,Q792,Q3110
+Q3779633,Q6581097,1956-01-05T00:00:00Z,14,Guillermo Ragazzone,Guillermo Ragazzone,Salvadoran footballer,Q792,Q3110
+Q3782788,Q6581097,1958-05-12T00:00:00Z,19,José María Rivas,José María Rivas,Salvadoran footballer (1958-2016),Q792,Q3110
+Q3806185,Q6581097,1947-09-18T00:00:00Z,14,Jaime Portillo,Jaime Portillo,Salvadoran footballer,Q792,Q582242
+Q3808595,Q6581097,1956-10-23T00:00:00Z,14,Joaquín Ventura,Joaquín Ventura,Salvadoran footballer,Q792,Q2420477
+Q3808595,Q6581097,1956-10-27T00:00:00Z,14,Joaquín Ventura,Joaquín Ventura,Salvadoran footballer,Q792,Q2420477
+Q381002,Q6581097,1959-10-17T00:00:00Z,27,Francisco Flores Pérez,Francisco Flores,President of El Salvador (1959-2016),Q792,Q739664
+Q3810047,Q6581097,1945-04-23T00:00:00Z,14,Jorge Vásquez (Salvadoran footballer),Jorge Vásquez,Salvadoran footballer,Q792,Q739664
+Q381018,Q6581097,1948-06-24T00:00:00Z,28,Armando Calderón Sol,Armando Calderón Sol,President of El Salvador (1948-2017),Q792,Q3110
+Q3810440,Q6581097,1951-05-26T00:00:00Z,15,Francisco Jovel,José Francisco Jovel,Salvadoran footballer,Q792,Q1018092
+Q3810912,Q6581097,1948-04-20T00:00:00Z,16,Juan Ramón Martínez (footballer),Juan Ramón Martínez,Salvadoran footballer (1948–2024),Q792,Q672458
+Q3811157,Q6581097,1943-02-14T00:00:00Z,16,Sergio Méndez,Sergio Méndez,Salvadoran footballer (1943-1976),Q792,Q1154924
+Q38202210,Q6581097,1993-07-07T00:00:00Z,9,Fernanfloo,Fernanfloo,Salvadoran YouTuber and streamer (born 1993),Q792,Q3110
+Q382584,Q6581097,1923-09-30T00:00:00Z,12,Arturo Rivera y Damas,Arturo Rivera y Damas,Catholic archbishop (1923–1994),Q792,Q3947024
+Q384292,Q6581097,1956-02-13T00:00:00Z,16,Mauricio Alfaro,Mauricio Alfaro,Salvadoran footballer,Q792,Q139248
+Q3847678,Q6581072,1948-08-07T00:00:00Z,13,Marianella García Villas,Marianella García Villas,Salvadoran politician and lawyer (1948-1983),Q792,Q3110
+Q3848431,Q6581097,1951-10-31T00:00:00Z,15,Mario Castillo,Mario Castillo,Salvadoran footballer,Q792,Q672458
+Q3848431,Q6581097,1951-10-30T00:00:00Z,15,Mario Castillo,Mario Castillo,Salvadoran footballer,Q792,Q672458
+Q3852458,Q6581097,1943-09-30T00:00:00Z,14,Mauricio Manzano,Mauricio Manzano,Salvadoran footballer,Q792,Q3110
+Q3857296,Q6581097,1957-01-27T00:00:00Z,14,Miguel Díaz (Salvadoran footballer),Miguel Ángel Díaz,Salvadoran footballer,Q792,Q2290501
+Q3893292,Q6581097,1942-11-07T00:00:00Z,7,Ignacio Martín-Baró,Ignacio Martín-Baró,"Spanish scholar, Jesuit priest, assassinated martyr in El Salvador (1942-1989)",Q792,Q8356
+Q3893292,Q6581097,1942-11-07T00:00:00Z,7,Ignacio Martín-Baró,Ignacio Martín-Baró,"Spanish scholar, Jesuit priest, assassinated martyr in El Salvador (1942-1989)",Q29,Q8356
+Q3931213,Q6581072,1986-06-17T00:00:00Z,6,Rebeca Moreno,Rebeca Moreno,Salvadoran model,Q792,Q3110
+Q3939102,Q6581097,1941-07-17T00:00:00Z,14,Roberto Rivas (footballer),Roberto Rivas,Salvadoran footballer (1941-1972),Q792,Q956031
+Q3945883,Q6581097,1947-02-28T00:00:00Z,14,Salvador Flamenco,Salvador Cabezas,Salvadoran footballer,Q792,Q3110
+Q3945901,Q6581097,1943-12-27T00:00:00Z,14,Salvador Mariona,Salvador Mariona,Salvadoran footballer,Q792,Q723246
+Q3945901,Q6581097,1943-12-16T00:00:00Z,14,Salvador Mariona,Salvador Mariona,Salvadoran footballer,Q792,Q723246
+Q3950851,Q6581097,1945-01-06T00:00:00Z,14,Saturnino Osorio,Saturnino Osorio,Salvadoran footballer (1945-1980),Q792,Q3110
+Q3960824,Q6581097,1949-06-30T00:00:00Z,14,Silvio Aquino,Silvio Aquino,Salvadoran footballer,Q792,Q984133
+Q3964762,Q6581072,1990-01-01T00:00:00Z,4,Sonia Cruz,Sonia Cruz,"Nuestra Belleza El Salvador 2010, contestant in Miss Universe 2010 and Miss Continente Americano 2010",Q792,Q3110
+Q4118202,Q6581097,1976-04-12T00:00:00Z,7,Víctor Velásquez,Víctor Velásquez,Salvadoran footballer,Q792,Q2420477
+Q41199557,Q6581072,1948-02-07T00:00:00Z,1,Cecilia Sosa,Cecilia Sosa,Salvadoran sprinter,Q792,Q3110
+Q4131777,Q6581097,1984-09-11T00:00:00Z,6,Reynaldo Hernández,Reynaldo Antonio Hernández,Salvadoran footballer,Q792,Q1154651
+Q4132106,Q6581097,1979-11-16T00:00:00Z,9,Dagoberto Portillo,Dagoberto Portillo,Salvadoran footballer,Q792,Q3110
+Q4153063,Q6581097,1936-04-05T00:00:00Z,5,Jaime Abdul Gutiérrez,Jaime Abdul Gutiérrez Avendaño,Salvadoran politician (1936-2012),Q792,Q1014248
+Q4214790,Q6581097,1950-06-15T00:00:00Z,5,Jesus Rojas,Jesus Rojas,Nicaraguan Jesuit (1950-1991),Q792,
+Q4214790,Q6581097,1950-06-15T00:00:00Z,5,Jesus Rojas,Jesus Rojas,Nicaraguan Jesuit (1950-1991),Q811,
+Q42210383,Q6581097,1945-11-27T00:00:00Z,1,Alfredo Cubías,Alfredo Cubías,Salvadoran middle-distance runner,Q792,
+Q42671036,Q6581097,2000-10-02T00:00:00Z,6,Alexis Cerritos,Alexis Cerritos,Salvadoran-American soccer player,Q30,Q16553
+Q42671036,Q6581097,2000-10-02T00:00:00Z,6,Alexis Cerritos,Alexis Cerritos,Salvadoran-American soccer player,Q792,Q16553
+Q4272340,Q6581072,1954-03-02T00:00:00Z,9,Ana Vilma de Escobar,Ana Vilma de Escobar,Salvadoran politician,Q792,Q3110
+Q4285641,Q6581097,1938-04-21T00:00:00Z,5,Adolfo Arnoldo Majano,Adolfo Arnoldo Majano,politician,Q792,Q3800717
+Q4290591,Q6581097,1935-01-03T00:00:00Z,4,Rafael Menjívar Larín,Rafael Menjívar Larín,Salvadoran politician (1935-2000),Q792,Q739664
+Q4299754,Q6581097,1990-04-01T00:00:00Z,7,Gilberto Baires,Gilberto Baires,Salvadoran footballer,Q792,Q1491
+Q43019777,Q6581072,1968-12-07T00:00:00Z,2,Elizabeth Zaragoza,Elizabeth Zaragoza,Salvadoran athlete,Q792,Q62
+Q430468,Q6581097,1945-09-12T00:00:00Z,18,Pipo Rodríguez,Mauricio Alonso Rodríguez,Salvadoran footballer,Q792,Q3110
+Q433299,Q6581097,1959-03-10T00:00:00Z,14,José Luis Escobar Alas,José Luis Escobar Alas,Archbishop of San Salvador in El Salvador,Q792,Q2779509
+Q433742,Q6581072,1949-10-04T00:00:00Z,12,Anne W. Patterson,Anne W. Patterson,United States Department of State official and diplomat,Q792,Q79535
+Q433742,Q6581072,1949-10-04T00:00:00Z,12,Anne W. Patterson,Anne W. Patterson,United States Department of State official and diplomat,Q30,Q79535
+Q43472149,Q6581097,1938-03-08T00:00:00Z,1,Efraín Cordero,Efraín Cordero,Salvadoran middle-distance runner,Q792,
+Q4353088,Q6581097,1983-09-25T00:00:00Z,7,Ricardo Merlos,Ricardo Merlos,Salvadoran archer,Q792,
+Q4358378,Q6581097,1980-11-08T00:00:00Z,8,Juan José Gómez,Juan José Gómez,Salvadoran footballer,Q792,Q672458
+Q436059,Q6581097,1964-06-25T00:00:00Z,6,Rodrigo Ávila,Rodrigo Ávila Avilés,Salvadoran politician,Q792,Q3110
+Q44436,Q6581097,1939-06-06T00:00:00Z,6,Eduardo Hernández (forward),Eduardo Hernández Martínez,Salvadoran footballer,Q792,Q3110
+Q44521852,Q6581072,1971-01-05T00:00:00Z,1,Ivis Martínez,Ivis Martínez,Salvadoran athletics competitor,Q792,
+Q445703,Q6581072,1901-04-10T00:00:00Z,20,Consuelo de Saint-Exupéry,Consuelo de Saint Exupéry,Salvadoran-French writer and artist (1901-1979),Q792,Q682015
+Q45190342,Q6581097,1946-04-09T00:00:00Z,2,Ricardo Cruz (athlete),Ricardo Cruz,Salvadoran racewalker,Q792,
+Q45193703,Q6581097,1950-10-07T00:00:00Z,2,Roberto Castellanos,Roberto Castellanos,Salvadoran athlete,Q792,
+Q46130953,Q6581097,1970-04-10T00:00:00Z,1,Angelo Iannuzzelli,Angelo Iannuzzelli,Salvadoran athletics competitor,Q792,
+Q4669094,Q6581097,1975-07-03T00:00:00Z,4,Abraham Monterrosa,Abraham Monterrosa,Salvadoran footballer,Q792,Q2631462
+Q4684254,Q6581097,1970-04-13T00:00:00Z,4,Adolfo Menéndez,Adolfo Menéndez,Salvadoran footballer,Q792,Q739664
+Q4684497,Q6581097,1975-10-03T00:00:00Z,4,Adonai Martínez,Adonai Martínez,Salvadoran footballer,Q792,Q3110
+Q4694679,Q6581097,1948-08-14T00:00:00Z,4,Agustín García Calderón,Agustín García Calderón,former President of the Supreme Court of El Salvador,Q792,Q739664
+Q47092982,Q6581097,1945-12-02T00:00:00Z,1,Mauricio Jubis,Mauricio Jubis,Salvadoran athletics competitor,Q792,
+Q4712018,Q6581097,1948-04-16T00:00:00Z,5,Albert Fay (footballer),Alberto Fay,Uruguayan footballer,Q792,Q1335
+Q4712018,Q6581097,1948-04-16T00:00:00Z,5,Albert Fay (footballer),Alberto Fay,Uruguayan footballer,Q77,Q1335
+Q4718524,Q6581097,1980-05-08T00:00:00Z,6,Alexander Campos,Alexander Campos,Salvadoran footballer,Q792,Q792
+Q4718524,Q6581097,1980-05-07T00:00:00Z,6,Alexander Campos,Alexander Campos,Salvadoran footballer,Q792,Q792
+Q4718809,Q6581097,1984-04-04T00:00:00Z,7,Alexander Escobar,Alexander Escobar,Salvadoran footballer,Q792,Q2537220
+Q4721989,Q6581097,1982-03-28T00:00:00Z,4,Alfonso Perla,Alfonso Alberto Perla Fuentes,Salvadoran footballer,Q792,Q927114
+Q4722091,Q6581097,1940-12-08T00:00:00Z,5,Alfonso Quijada Urías,Alfonso Quijada Urías,Salvadoran poet,Q792,Q1154058
+Q4723715,Q6581097,1914-10-26T00:00:00Z,5,Alfredo Betancourt,Alfredo Betancourt,Salvadoran writers,Q792,Q792
+Q4723769,Q6581097,1900-01-08T00:00:00Z,7,Alfredo Espino,Alfredo Espino Najarro,Salvadoran poet,Q792,Q31934454
+Q4723858,Q6581097,1932-10-14T00:00:00Z,5,Alfredo Ruano,Alfredo Ruano,Salvadoran footballer (1932-1987),Q792,Q792
+Q47462762,Q6581072,1974-02-03T00:00:00Z,5,Eeileen Romero,Eeileen Romero,attorney from El Salvador,Q792,Q3110
+Q47467666,Q6581097,1996-07-28T00:00:00Z,12,Alex Roldán,Alex Roldan,Salvadorean-American soccer player,Q792,Q526814
+Q47467666,Q6581097,1996-07-28T00:00:00Z,12,Alex Roldán,Alex Roldan,Salvadorean-American soccer player,Q30,Q526814
+Q47484741,Q6581097,1949-01-01T00:00:00Z,2,Carlos Hasbún,Carlos Hasbún,Salvadoran athletics competitor,Q792,Q3110
+Q4750417,Q6581072,1937-05-28T00:00:00Z,3,Ana María de Martínez,Ana Maria de Martinez,Salvadoran artist (1937-2012),Q792,Q739664
+Q4776648,Q6581097,1964-10-16T00:00:00Z,4,Antonio García Prieto,Antonio García Prieto,Salvadoran footballer,Q792,Q3110
+Q4777005,Q6581097,1915-01-01T00:00:00Z,4,Antonio Toledo (footballer),Antonio Toledo Valle,footballer,Q792,Q139248
+Q4792744,Q6581097,1947-04-14T00:00:00Z,2,Armando Contreras Palma,Armando Contreras Palma,Salvadoran football manager,Q792,Q672458
+Q4801691,Q6581097,1979-10-16T00:00:00Z,6,Arturo Albarrán,Arturo Albarrán,professional footballer,Q96,Q1489
+Q4801691,Q6581097,1979-10-16T00:00:00Z,6,Arturo Albarrán,Arturo Albarrán,professional footballer,Q792,Q1489
+Q4821281,Q6581097,1956-07-01T00:00:00Z,1,Augusto Crespin,Augusto Crespin,Salvadoran artist,Q792,Q723411
+Q48688454,Q6581072,1972-12-20T00:00:00Z,4,Michelle Sol,Michelle Sol,Salvadoran politician,Q792,Q3879293
+Q4888251,Q6581097,1902-12-28T00:00:00Z,5,Benjamin Barrera y Reyes,Benjamin Barrera y Reyes,Catholic bishop (1902-1999),Q792,Q2335680
+Q4889529,Q6581097,1988-07-15T00:00:00Z,8,Benji Villalobos,Benji Villalobos,Salvadoran footballer,Q792,Q1157240
+Q4893369,Q6581097,1943-01-10T00:00:00Z,4,Bernard Lewinsky,Bernard Lewinsky,American physician,Q30,Q3110
+Q4893369,Q6581097,1943-01-10T00:00:00Z,4,Bernard Lewinsky,Bernard Lewinsky,American physician,Q792,Q3110
+Q48975101,Q6581097,1925-10-15T00:00:00Z,1,Gabriel Montenegro Gutiérrez,Gabriel Montenegro Gutiérrez,Salvadoran politician (1925-2014),Q792,Q739664
+Q5026544,Q6581072,1986-09-22T00:00:00Z,3,Camila Vargas Palomo,Camila Vargas Palomo,Salvadorian rower,Q792,Q202071
+Q5026740,Q6581097,1917-11-11T00:00:00Z,3,Camilo Minero,Camilo Minero,Salvadoran artist (1917-2005),Q792,Q139248
+Q5041771,Q6581097,1956-11-12T00:00:00Z,4,Carlos Antonio Meléndez,Carlos Antonio Meléndez,Salvadoran footballer,Q792,Q3110
+Q5041803,Q6581097,1982-12-23T00:00:00Z,4,Carlos Ayala (footballer),Carlos Ayala,Salvadoran footballer,Q792,Q956031
+Q5041821,Q6581097,1966-01-01T00:00:00Z,3,Carlos Barrios,Carlos Barrios,Australian artist,Q408,Q3110
+Q5041821,Q6581097,1966-01-01T00:00:00Z,3,Carlos Barrios,Carlos Barrios,Australian artist,Q792,Q3110
+Q5041880,Q6581097,1986-01-18T00:00:00Z,4,Carlos Calderón (Salvadoran footballer),Carlos Calderón,Salvadoran footballer,Q792,Q3110
+Q5041901,Q6581097,1984-10-12T00:00:00Z,5,Carlos Carrillo (footballer),Carlos Carrillo,Salvadoran footballer,Q792,Q3110
+Q5041920,Q6581097,1967-08-01T00:00:00Z,5,Carlos Castro Borja,Carlos Castro Borja,Salvadoran footballer,Q792,Q3110
+Q5041923,Q6581097,1944-01-01T00:00:00Z,3,Carlos Castro (writer),Carlos Castro,Salvadoran novelist,Q792,Q186935
+Q5041929,Q6581097,1924-09-03T00:00:00Z,6,Carlos Cañas,Carlos Cañas,Salvadoran painter,Q792,Q3110
+Q5042056,Q6581097,1937-11-29T00:00:00Z,3,Carlos Eugenio Vides Casanova,Carlos Eugenio Vides Casanova,Salvadoran military officer (1937–2023),Q792,Q739664
+Q5042396,Q6581097,1985-04-29T00:00:00Z,4,Carlos Monteagudo,Carlos Monteagudo,Salvadoran footballer,Q792,Q1094372
+Q5043460,Q6581072,1950-01-01T00:00:00Z,4,Carmen Elena Figueroa,Carmen Elena Figueroa,Beauty pageant winner,Q792,Q3110
+Q5043517,Q6581072,1949-11-28T00:00:00Z,4,Carmen María Gallardo Hernández,Carmen María Gallardo Hernández,El Salvador Ambassador,Q792,Q3110
+Q5058106,Q6581097,1969-09-20T00:00:00Z,3,Celio Rodríguez,Celio Rodríguez,Salvadoran footballer,Q792,Q925758
+Q50826704,Q6581097,1944-12-12T00:00:00Z,4,Dagoberto Gutiérrez,Dagoberto Gutiérrez,Salvadoran politician (1944–2024),Q792,Q2565837
+Q510975,Q6581072,1954-09-24T00:00:00Z,10,Lilian Mercedes Letona,Lilian Mercedes Letona,Salvadoran guerrilla and revolutionary (1954-1983),Q792,Q2779405
+Q5109779,Q6581097,1987-12-10T00:00:00Z,5,Cristián Bautista,Christian Javier Bautista,Salvadoran footballer,Q792,Q2420477
+Q5162670,Q6581097,1928-10-14T00:00:00Z,7,Conrado Miranda,Conrado Miranda,Salvadoran footballer,Q792,Q1094372
+Q5186185,Q6581097,1978-04-19T00:00:00Z,5,Cristian Álvarez (Salvadoran footballer),Cristian Edgardo Álvarez,Salvadoran footballer,Q792,Q739664
+Q51881967,Q6581097,1996-01-11T00:00:00Z,5,Baco Exu do Blues,Baco Exu do Blues,"Brazilian singer, rapper and songwriter",Q155,Q36947
+Q51881967,Q6581097,1996-01-11T00:00:00Z,5,Baco Exu do Blues,Baco Exu do Blues,"Brazilian singer, rapper and songwriter",Q792,Q36947
+Q5202571,Q6581097,1988-04-21T00:00:00Z,5,César Larios,César Larios,Salvadoran association football player,Q792,Q739664
+Q52063121,Q6581097,1964-01-01T00:00:00Z,1,Javier Simán,Javier Simán,politician,Q792,Q3110
+Q5225938,Q6581097,1990-08-06T00:00:00Z,5,Darwin Bonilla,Darwin Bonilla,Salvadoran footballer,Q792,Q3110
+Q5258925,Q6581097,1986-07-23T00:00:00Z,4,Dennis Salinas,Dennis Salinas,Salvadoran footballer,Q792,Q3110
+Q5277862,Q6581072,1946-01-01T00:00:00Z,4,Dina Posada,Dina Posada,Central-American poet,Q792,Q3110
+Q5290392,Q6581097,1940-08-04T00:00:00Z,2,Domingo Monterrosa,Domingo Monterrosa,Salvadoran military commander,Q792,
+Q529062,Q6581097,1954-06-11T00:00:00Z,6,Herbert Anaya,Herbert Anaya,President of the Human Rights Commission of El Salvador (1954-1987),Q792,Q3110
+Q5317088,Q6581097,1992-03-21T00:00:00Z,12,Dustin Corea,Dustin Corea,Salvadorian soccer player,Q792,Q65
+Q5317088,Q6581097,1992-03-21T00:00:00Z,12,Dustin Corea,Dustin Corea,Salvadorian soccer player,Q30,Q65
+Q5337288,Q6581097,1964-03-16T00:00:00Z,4,Edgar Henríquez,Edgar Henríquez,Salvadoran footballer,Q792,Q3110
+Q5337409,Q6581097,1950-01-01T00:00:00Z,3,Edgar Palacios,Edgar Palacios,Baptist minister,Q792,Q792
+Q5340727,Q6581097,1931-10-31T00:00:00Z,5,Eduardo Pineda,Eduardo Pineda,footballer,Q792,Q739664
+Q5346453,Q6581097,1977-06-20T00:00:00Z,5,Edwin González (Salvadoran footballer),Edwin González,Salvadoran footballer,Q792,Q672458
+Q5346667,Q6581097,1981-01-28T00:00:00Z,5,Edwin Miranda,Edwin Miranda,American soccer player,Q30,Q139248
+Q5346667,Q6581097,1981-01-28T00:00:00Z,5,Edwin Miranda,Edwin Miranda,American soccer player,Q792,Q139248
+Q5346752,Q6581097,1962-11-17T00:00:00Z,4,Edwin Portillo,Edwin Portillo,Salvadoran football manager,Q792,Q2537220
+Q5347568,Q6581097,1961-04-11T00:00:00Z,4,Efraín Burgos,Efrain Burgos,Salvadoran footballer,Q792,Q739664
+Q5347570,Q6581097,1988-08-14T00:00:00Z,7,Junior Burgos,"Efrain Burgos, Jr.",Salvadoran footballer,Q792,Q739664
+Q5353945,Q6581097,1980-10-14T00:00:00Z,5,Elder Figueroa,Elder José Figueroa,Colombian footballer,Q739,Q826566
+Q5353945,Q6581097,1980-10-14T00:00:00Z,5,Elder Figueroa,Elder José Figueroa,Colombian footballer,Q792,Q826566
+Q5359139,Q6581072,1991-10-15T00:00:00Z,3,Elena Tedesco,Elena Tedesco,Salvadoran beauty pageant winner,Q792,Q3110
+Q5361713,Q6581097,1979-10-24T00:00:00Z,3,Eliseo Salamanca,Eliseo Salamanca,Salvadoran footballer,Q792,Q949719
+Q5368665,Q6581097,1973-12-25T00:00:00Z,4,Elías Montes,Elías Montes,Salvadoran footballer,Q792,Q3110
+Q5370877,Q6581097,1988-01-20T00:00:00Z,8,Emerson Hernández,Emerson Esnal Hernández,Salvaroran racewalker,Q792,Q3110
+Q5370945,Q6581097,1981-11-12T00:00:00Z,4,Emerson Umaña,Emerson Umaña,Salvadoran footballer,Q792,Q1094372
+Q537580,Q6581097,1930-10-14T00:00:00Z,17,Schafik Hándal,Schafik Handal,Salvadoran politician (1930-2006),Q792,Q1018092
+Q537580,Q6581097,1930-10-13T00:00:00Z,17,Schafik Hándal,Schafik Handal,Salvadoran politician (1930-2006),Q792,Q1018092
+Q53764781,Q6581072,1986-01-01T00:00:00Z,18,Sara García Gross,Sara García Gross,human rights activist and feminist from El Salvador,Q792,Q2565837
+Q5385096,Q6581097,1969-04-08T00:00:00Z,3,Erber Burgos,Erber Burgos,Salvadoran footballer,Q792,Q575756
+Q5388157,Q6581097,1976-01-25T00:00:00Z,6,Erick Prado,Erick Dowson Prado,Salvadoran footballer,Q792,Q3110
+Q5394179,Q6581097,1976-09-14T00:00:00Z,3,Ernesto Góchez,Ernesto Góchez,Salvadoran footballer,Q792,Q3110
+Q539461,Q6581097,1935-05-14T00:00:00Z,21,Roque Dalton,Roque Dalton Garcia,Salvadoran journalist and poet (1935-1975),Q792,Q3110
+Q5400754,Q6581097,1929-08-03T00:00:00Z,4,Esteban Blanco,Esteban Blanco,Salvadoran footballer (1929-2011),Q792,Q672458
+Q5428168,Q6581097,1990-12-03T00:00:00Z,4,Fabricio Alfaro,Fabricio Alfaro,association football player,Q792,Q3110
+Q5479126,Q6581072,1957-08-05T00:00:00Z,1,Francesca Miranda,Francesca Miranda,Salvadoran businessman,Q792,Q3110
+Q5483111,Q6581097,1942-10-10T00:00:00Z,3,Francisco Andrés Escobar,Francisco Andrés Escobar,Salvadoran actor and writer (1942-2010),Q792,Q3110
+Q5483694,Q6581097,1983-07-14T00:00:00Z,4,Francisco Medrano (footballer),Francisco Medrano,Salvadoran footballer,Q792,Q3110
+Q5483794,Q6581097,1967-01-01T00:00:00Z,5,Francisco Pineda (environmentalist),Francisco Pineda,environmentalist,Q792,Q1154075
+Q5484075,Q6581097,1939-01-01T00:00:00Z,4,Francisco Zamora,Francisco Zamora Salinas,football player from El Salvador (1939-2002),Q792,
+Q5490091,Q6581097,1990-02-12T00:00:00Z,7,Frank Velásquez,Frank Velasquez,El Salvador international beach soccer player,Q792,Q5719875
+Q5491357,Q6581097,1983-12-21T00:00:00Z,6,Franklin Cisneros,Franklin Cisneros,Olympic judoka,Q792,Q3110
+Q549590,Q6581072,1958-08-29T00:00:00Z,3,Anita Cristina Escher Echeverría,Anita Cristina Escher Echeverría,Salvadoran diplomat,Q792,Q34404
+Q5499590,Q6581097,1992-05-24T00:00:00Z,3,Fredy López,Fredy López,Salvadoran judoka,Q792,
+Q550645,Q6581097,1988-06-03T00:00:00Z,10,Rafael Burgos,Rafael Burgos,Salvadoran footballer,Q792,Q1129788
+Q55273355,Q6581097,1975-08-30T00:00:00Z,7,Ernesto Muyshondt,Ernesto Muyshondt,Salvadoran politician,Q792,Q3110
+Q55297320,Q6581097,1970-01-01T00:00:00Z,3,Guillermo Gallegos,Guillermo Gallegos,politician,Q792,Q3110
+Q5549075,Q6581097,1917-10-13T00:00:00Z,6,Hugo Lindo,Hugo Lindo,Salvadoran diplomat and lawyer (1917-1985),Q792,Q2420477
+Q5551074,Q6581097,1954-07-09T00:00:00Z,5,Germán Cáceres,German Cáceres,Salvadoran composer and oboist,Q792,Q3110
+Q55583954,Q6581097,1999-08-17T00:00:00Z,6,Nelson Blanco,Nelson Blanco,Salvadoran association football player,Q792,Q792
+Q5561383,Q6581097,1981-01-22T00:00:00Z,5,Gilberto Murgas,Gilberto Murgas,Salvadoran footballer,Q792,Q2779429
+Q55636892,Q6581097,1976-02-11T00:00:00Z,4,Carlos Calleja,Carlos Calleja,Salvadoran politician and businessman,Q792,Q3110
+Q5566427,Q6581072,1990-03-01T00:00:00Z,4,Gladys Landaverde,Gladys Landaverde,Salvadroan distance runner,Q792,Q3947358
+Q5566427,Q6581072,1990-02-23T00:00:00Z,4,Gladys Landaverde,Gladys Landaverde,Salvadroan distance runner,Q792,Q3947358
+Q55690030,Q6581072,1982-10-10T00:00:00Z,4,Cristina Cornejo (politician),Cristina Cornejo,Salvadoran deputy,Q792,Q2565407
+Q5578983,Q6581072,1983-03-15T00:00:00Z,4,Golda Marcus,Golda Marcus,swimmer,Q792,Q224791
+Q5616237,Q6581097,1939-03-13T00:00:00Z,2,Guillermo Reynaldo Cortez,Guillermo Reynaldo Cortez,Salvadoran military officer (1939–1969),Q792,Q3110
+Q5616244,Q6581097,1969-11-25T00:00:00Z,5,Guillermo Rivera (footballer),Guillermo Rivera,Salvadoran footballer,Q792,Q3110
+Q5616294,Q6581097,1931-09-03T00:00:00Z,4,Guillermo Ungo,Guillermo Ungo,Salvadorian politician (1931–1991),Q792,Q3110
+Q5621440,Q6581097,1959-11-09T00:00:00Z,3,Gustavo Manzur,Gustavo Manzur,Olympic wrestler,Q792,
+Q56249753,Q6581097,1977-09-29T00:00:00Z,2,Nelson Fuentes,Nelson Eduardo Fuentes Menjivar,Minister of Finance of El Salvador,Q792,Q3110
+Q5667834,Q6581097,1923-09-23T00:00:00Z,4,Alfredo Martínez Moreno,Alfredo Martínez Moreno,Salvadoran lawyer (1923–2021),Q792,Q792
+Q5676998,Q6581097,1928-02-24T00:00:00Z,3,Aniceto Porsisoca,Aniceto Porsisoca,Salvadoran actor (1928–1993),Q792,Q739664
+Q57220837,Q6581072,1982-06-27T00:00:00Z,3,Johanna Segovia,Johanna Segovia,Salvadoran marine ecologist (born 1982),Q792,
+Q5722931,Q6581097,1985-01-04T00:00:00Z,7,Henry Hernández,Henry Hernández,Salvadoran footballer,Q792,Q3110
+Q5725565,Q6581097,1971-01-20T00:00:00Z,2,Henry Martínez (boxer),Henry Martínez,boxer,Q792,
+Q5726163,Q6581097,1932-05-04T00:00:00Z,3,Benjamín Solís Menéndez,Benjamín Solís Menénde,"Salvadoran composer, pianist and conductor (1932-2019)",Q792,Q2565837
+Q5732212,Q6581097,1958-11-28T00:00:00Z,3,Boris Pineda,Boris Pineda,Salvadoran chess player (1958–2021),Q792,Q792
+Q57342,Q6581097,1959-10-18T00:00:00Z,57,Mauricio Funes,Mauricio Funes,President of El Salvador from 2009 to 2014,Q811,Q3110
+Q57342,Q6581097,1959-10-18T00:00:00Z,57,Mauricio Funes,Mauricio Funes,President of El Salvador from 2009 to 2014,Q792,Q3110
+Q5770238,Q6581097,1945-05-03T00:00:00Z,2,Ciro Cruz Zepeda,Ciro Cruz Zepeda,Salvadoran politician,Q792,
+Q5807351,Q6581097,1914-05-06T00:00:00Z,3,Juan Isolino Rosa,Juan Isolino Rosa,Salvadoran composer (1914-2004),Q792,Q969396
+Q58174149,Q6581097,1946-09-20T00:00:00Z,2,Víctor Azúcar,Víctor Azúcar,association football player,Q792,Q3110
+Q5839017,Q6581072,1952-01-01T00:00:00Z,8,Violeta Menjívar,Violeta Menjívar,Salvadoran politician,Q792,Q3621436
+Q5849167,Q6581097,1921-10-16T00:00:00Z,3,Esteban Servellón,Esteban Servellón,Salvadoran composer (1921-2003),Q792,Q3947024
+Q5865514,Q6581097,1984-09-15T00:00:00Z,3,Francisco Caceres,Francisco Cáceres,Salvadoran journalist,Q792,Q792
+Q5866998,Q6581097,1912-02-28T00:00:00Z,4,Francisco Palaviccini,Francisco Palaviccini,Salvadoran composer (1912-1996),Q792,Q739664
+Q589474,Q6581097,1988-04-13T00:00:00Z,9,Víctor Turcios,Víctor Turcios,Salvadoran footballer,Q792,Q2420477
+Q59161685,Q6581072,1983-01-01T00:00:00Z,4,María Teresa Rivera,María Teresa Rivera,"woman's human rights defender, working in abortion rights, from El Salvador",Q792,
+Q5925524,Q6581097,1993-08-31T00:00:00Z,11,Jairo Henríquez,Jairo Henríquez,Salvadoran association football player,Q792,Q3110
+Q5935342,Q6581097,1967-09-30T00:00:00Z,3,Jorge Jiménez (archer),Jorge Jiménez,Salvadoran archer,Q792,Q792
+Q5937973,Q6581097,1935-07-03T00:00:00Z,4,José Antonio Morales Ehrlich,José Antonio Morales Erlich,Salvadoran politician (1935-2021),Q792,Q739664
+Q5943606,Q6581097,1947-01-01T00:00:00Z,4,José María Tojeira,José María Tojeira,Salvadoran Catholic priest,Q792,Q3398819
+Q5944494,Q6581097,1935-11-24T00:00:00Z,9,Manlio Argueta,Manlio Argueta,"Salvadoran writer, critic",Q792,Q672458
+Q5952268,Q6581097,1984-06-14T00:00:00Z,5,Juan Ramón Solís,Juan Ramón Solís,Panamanian footballer,Q792,Q657763
+Q5954661,Q6581072,1917-05-23T00:00:00Z,3,Julia Díaz,Julia Díaz,Salvadoran painter (1917-1999),Q792,Q2565407
+Q5963757,Q6581097,1976-07-15T00:00:00Z,4,Héctor Canjura,Héctor Canjura,Salvadoran footballer,Q792,Q3110
+Q5964119,Q6581097,1978-04-09T00:00:00Z,4,Héctor Ávalos,Héctor Ávalos,Salvadoran footballer,Q792,Q186935
+Q597611,Q6581097,1945-01-19T00:00:00Z,14,Santiago Cortés (footballer),Santiago Cortéz,Salvadoran footballer (1945-2011),Q792,Q3110
+Q5976355,Q6581072,1905-03-24T00:00:00Z,5,Lilian Serpas,Lilian Serpas,Salvadoran writer and journalist (1905-1985),Q792,Q3110
+Q5982071,Q6581072,1980-11-17T00:00:00Z,5,Luciana Sandoval,Luciana Sandoval,Salvadoran presenter,Q792,Q3110
+Q5995962,Q6581097,1988-08-05T00:00:00Z,6,Marcelo Tejeda,Marcelo Tejeda,Salvadoran footballer,Q792,Q739664
+Q5998065,Q6581072,1934-08-22T00:00:00Z,6,Maribel Arrieta,Maribel Arrieta,"Beauty contestant, artist",Q792,Q3110
+Q6003945,Q6581072,1922-11-05T00:00:00Z,10,María Isabel Rodríguez (government official),María Isabel Rodríguez,Salvadoran doctor,Q792,Q3110
+Q6008488,Q6581097,1952-04-16T00:00:00Z,2,Medardo González,Medardo González,Salvadoran politician,Q792,Q3110
+Q6009640,Q6581072,1987-08-03T00:00:00Z,5,Melissa Mikec,Melissa Mikec,Salvadoran sports shooter,Q792,Q3110
+Q6010864,Q6581072,1941-09-24T00:00:00Z,7,Gloria Salguero Gross,Gloria Salguero Gross,Salvadoran politician,Q792,Q739664
+Q6016332,Q6581072,1945-01-01T00:00:00Z,5,Milena Calderón Sol de Escalón,Milena Calderón Sol de Escalón,Salvadoran politician,Q792,Q739664
+Q6024101,Q6581072,1922-04-20T00:00:00Z,5,Morena Celarié,Morena Celarié,Salvadoran dancer (1922-1972),Q792,Q3110
+Q6033194,Q6581072,1971-04-13T00:00:00Z,4,Ingrid González,Ingrid González,Salvadoran tennis player,Q792,Q792
+Q6044733,Q6581072,1969-03-24T00:00:00Z,7,Nora Méndez,Nora Méndez,Salvadorian poet and writer,Q792,Q3110
+Q6066624,Q6581072,1953-10-03T00:00:00Z,4,Patricia Escobar,Patricia de Arzú,Salvadoran politician,Q792,Q3110
+Q6072024,Q6581072,1986-08-09T00:00:00Z,7,Irma Dimas,Irma Dimas,Salvadoran politician,Q792,Q3110
+Q60736460,Q6581097,1990-09-04T00:00:00Z,1,"Francisco García (footballer, born 1990)",Francisco García,Salvadoran footballer,Q792,Q3110
+Q6074000,Q6581097,1991-06-24T00:00:00Z,6,Nelson Rivera,Nelson Rivera,Salvadoran footballer (1991-2010),Q792,Q739664
+Q6081025,Q6581097,1989-10-21T00:00:00Z,6,Isidro Gutiérrez,Isidro Gutiérrez,Salvadoran footballer,Q792,Q3860588
+Q609326,Q6581097,1938-12-27T00:00:00Z,23,Jon Sobrino,Jon Sobrino,Spanish theologian,Q29,Q1492
+Q609326,Q6581097,1938-12-27T00:00:00Z,23,Jon Sobrino,Jon Sobrino,Spanish theologian,Q792,Q1492
+Q6096963,Q6581097,1982-05-30T00:00:00Z,8,Ivan Menjivar,Ivan Menjivar,Salvadoran-Canadian martial artist,Q792,Q340
+Q61022687,Q6581097,1951-04-06T00:00:00Z,11,Félix Ulloa,"Félix Ulloa, Jr.",Vice President of El Salvador (born 1951),Q792,Q3674976
+Q610466,Q6581097,1959-10-28T00:00:00Z,15,José Luis Munguía,José Luis Munguía,Salvadoran footballer (1959-1985),Q792,Q3110
+Q6107428,Q6581097,1918-10-21T00:00:00Z,6,Reynaldo Galindo Pohl,Reynaldo Galindo Pohl,El Salvador politician,Q792,Q1014248
+Q6108056,Q6581097,1912-10-28T00:00:00Z,4,Ricardo Cabrera Martínez,Ricardo Cabrera Martínez,"Salvadoran tenor, poet and diplomat",Q792,Q723246
+Q6109584,Q6581097,1937-12-13T00:00:00Z,5,Roberto Armijo,Roberto Armijo,Salvadoran writer (1937-1997),Q792,Q2290501
+Q6109651,Q6581097,1901-01-01T00:00:00Z,3,Roberto Cañas López,Roberto Cañas López,Salvadoran politician,Q792,Q3110
+Q61163004,Q6581072,1976-01-02T00:00:00Z,5,Carmen Aída Lazo,Carmen Aída Lazo,Salvadoran economist and politician (b. 1976),Q792,Q3110
+Q6117701,Q6581097,1951-11-04T00:00:00Z,4,Salvador Infante,Salvador Infante,Salvadoran chess player,Q792,Q792
+Q6122508,Q6581097,1910-01-01T00:00:00Z,5,Stanley Boggs,Stanley Boggs,American archaeologist,Q792,Q1397
+Q6123780,Q6581097,1980-05-10T00:00:00Z,3,Jaime Gómez (Salvadoran footballer),Jaime Gómez,Salvadoran footballer,Q792,Q739664
+Q6123947,Q6581097,1974-05-10T00:00:00Z,6,Jaime Vladimir Cubías,Jaime Vladimir Cubías,Salvadoran footballer,Q792,Q383546
+Q6142522,Q6581072,1922-10-09T00:00:00Z,4,Teresa Bolaños de Zarco,Teresa Bolaños de Zarco,Salvadoran writer and pianist (1922-1998),Q792,Q739664
+Q61458203,Q6581072,1976-04-05T00:00:00Z,2,Karina Sosa,Karina Sosa,Salvadoran politician,Q792,Q3110
+Q6158874,Q6581097,1902-01-01T00:00:00Z,5,Valentín Estrada,Valentín Estrada,Salvadoran sculptor,Q792,Q792
+Q616055,Q6581097,1985-02-05T00:00:00Z,15,Steve Purdy,Steve Purdy,American-Salvadoran soccer player,Q30,Q49256
+Q616055,Q6581097,1985-02-05T00:00:00Z,15,Steve Purdy,Steve Purdy,American-Salvadoran soccer player,Q792,Q49256
+Q6167808,Q6581097,1943-03-24T00:00:00Z,1,Willie Maldonado,Willie Maldonado,broadcaster,Q792,Q1555
+Q6172848,Q6581097,1931-03-13T00:00:00Z,4,Álvaro Menéndez Leal,Álvaro Menen Desleal,Salvadorean playwright,Q792,Q739664
+Q6174519,Q6581097,1932-01-01T00:00:00Z,3,Ítalo López Vallecillos,Ítalo López Vallecillos,Salvadoran poet,Q792,Q3110
+Q6174519,Q6581097,1932-11-15T00:00:00Z,3,Ítalo López Vallecillos,Ítalo López Vallecillos,Salvadoran poet,Q792,Q3110
+Q62001114,Q6581097,1995-08-22T00:00:00Z,3,Renato Punyed,Renato Punyed,Footballer (born 1995),Q811,Q3110
+Q62001114,Q6581097,1995-08-22T00:00:00Z,3,Renato Punyed,Renato Punyed,Footballer (born 1995),Q30,Q3110
+Q62001114,Q6581097,1995-08-22T00:00:00Z,3,Renato Punyed,Renato Punyed,Footballer (born 1995),Q792,Q3110
+Q62036483,Q6581072,1961-01-01T00:00:00Z,3,Muriel Hasbun,Muriel Hasbun,Salvadoran photographer (b. 1961),Q792,Q3110
+Q6274924,Q6581097,1990-11-11T00:00:00Z,4,Jonathan Águila,Jonathan Águila,Salvadoran footballer,Q792,Q672458
+Q6277598,Q6581097,1964-10-16T00:00:00Z,3,Jorge Ábrego,Jorge Abrego,football player,Q792,Q739664
+Q6277776,Q6581097,1946-05-05T00:00:00Z,4,Jorge Búcaro,Jorge Búcaro,Salvadoran footballer and manager (born 1946),Q792,Q792
+Q6277820,Q6581097,1942-12-12T00:00:00Z,4,Jorge Cañas,Jorge Cañas,Salvadoran footballer (1942-1997),Q792,Q739664
+Q6277941,Q6581097,1979-03-13T00:00:00Z,4,"Jorge Sánchez (footballer, born 1979)",Jorge Elenilson Sánchez,Salvadoran footballer,Q792,Q1018092
+Q6278130,Q6581097,1971-05-20T00:00:00Z,11,"Jorge Rodríguez (footballer, born 1971)",Jorge Humberto Rodríguez,Salvadoran footballer,Q792,Q927114
+Q6278378,Q6581097,1988-04-10T00:00:00Z,5,Jorge Morán,Jorge Morán,association football player,Q792,Q3681838
+Q6278671,Q6581097,1945-04-17T00:00:00Z,5,Jorge Suárez (footballer),Jorge Suárez,Salvadoran footballer (1945-1997),Q792,Q2537220
+Q6279252,Q6581097,1967-01-01T00:00:00Z,2,Jose B. Gonzalez,Jose B. Gonzalez,poet,Q792,Q3110
+Q6279339,Q6581097,1920-08-04T00:00:00Z,2,Jose Domingo Medrano,Jose Domingo Medrano,Salvadoran doctor,Q792,
+Q6291188,Q6581097,1988-05-13T00:00:00Z,5,Josué Flores,Josué Flores,Salvadorian footballer,Q792,Q739664
+Q6291191,Q6581097,1982-12-18T00:00:00Z,5,Josué Galdámez,Josué Galdámez,Salvadoran footballer,Q792,Q1018092
+Q6291292,Q6581097,1917-01-01T00:00:00Z,5,José Alberto Medrano,José Alberto Medrano,El Salvador General,Q792,Q3110
+Q6291323,Q6581097,1975-01-03T00:00:00Z,5,Alexander Amaya,José Alexander Amaya,Salvadoran footballer,Q792,Q3110
+Q6291323,Q6581097,1975-01-04T00:00:00Z,5,Alexander Amaya,José Alexander Amaya,Salvadoran footballer,Q792,Q3110
+Q6291618,Q6581097,2000-01-01T00:00:00Z,3,José Arturo Vásquez Machado,José Arturo Vásquez Machado,Salvadoran politician,Q792,Q792
+Q6291779,Q6581097,1983-03-15T00:00:00Z,4,José Campos (footballer),José Campos,Salvadoran footballer,Q792,Q1018092
+Q6292444,Q6581097,1987-05-24T00:00:00Z,8,José Henríquez,José Henríquez,Salvadoran footballer,Q792,Q3811629
+Q6292534,Q6581097,1934-01-01T00:00:00Z,1,José Inocencio Alas,José Inocencio Alas,Peasants rights advocate,Q792,
+Q6292952,Q6581097,1985-07-15T00:00:00Z,4,Manfredi Portillo,José Manfredi Portillo,Salvadorean footballer,Q792,Q3860588
+Q6293013,Q6581097,1981-10-06T00:00:00Z,4,José Manuel González (footballer),José Manuel González Hernández,Salvadoran footballer,Q792,Q672458
+Q6293153,Q6581097,1979-09-30T00:00:00Z,5,Chepe Martínez,José Martínez,Salvadoran footballer,Q792,Q3110
+Q6293442,Q6581097,1988-09-28T00:00:00Z,4,José Miguel Granadino,José Miguel Granadino,Salvadoran footballer,Q792,Q739664
+Q6293782,Q6581097,1975-11-24T00:00:00Z,4,Rafael Tobar,José Rafael Tobar Lemus,Salvadoran footballer,Q792,Q2779405
+Q6293874,Q6581097,1939-04-10T00:00:00Z,5,José Roberto Cea,José Roberto Cea,Salvadoran novelista y poeta,Q792,Q682226
+Q6298876,Q6581097,1941-12-03T00:00:00Z,4,Maquinita Merlos,Juan Antonio Merlos,Salvadoran Association football player (1941-2014),Q792,Q672458
+Q6299327,Q6581097,1982-05-06T00:00:00Z,5,Juan Carlos Moscoso,Juan Carlos Moscoso,Salvadoran footballer,Q792,Q1154656
+Q6299357,Q6581097,1977-04-12T00:00:00Z,3,Juan Carlos Panameño,Juan Carlos Panameño,Salvadoran footballer,Q792,Q3110
+Q6299651,Q6581097,1985-11-08T00:00:00Z,4,Juan Alberto Díaz,Juan Díaz Rodríguez,Salvadoran footballer,Q792,Q1003551
+Q6300102,Q6581097,1963-07-04T00:00:00Z,2,Juan José Daboub,Juan José Daboub,Government minister of El Salvador,Q792,Q3110
+Q6300839,Q6581097,1935-01-31T00:00:00Z,2,Juan Rafael Bustillo,Juan Rafael Bustillo,Salvadoran general,Q792,Q672458
+Q6300866,Q6581097,1950-05-23T00:00:00Z,5,Juan Ramón Paredes,Juan Ramón Paredes,Salvadoran footballer,Q792,Q723246
+Q6309456,Q6581097,1962-01-18T00:00:00Z,4,Julio Palacios,Julio Palacios Lozano,Salvadoran footballer,Q792,Q3110
+Q6309521,Q6581097,1989-07-15T00:00:00Z,2,Julio Salamanca,Julio Cesar Salamanca Pineda,Salvardoran weightlifter,Q792,
+Q634257,Q6581097,1963-11-08T00:00:00Z,21,"Hugo Pérez (soccer, born 1963)",Hugo Pérez,American soccer player,Q792,Q1122836
+Q634257,Q6581097,1963-11-08T00:00:00Z,21,"Hugo Pérez (soccer, born 1963)",Hugo Pérez,American soccer player,Q30,Q1122836
+Q6369621,Q6581072,1991-12-16T00:00:00Z,3,Karen Landaverde,Karen Elizabeth Landaverde,Salvadoran footballer,Q792,Q3110
+Q6372435,Q6581072,1983-05-23T00:00:00Z,2,Karla Cubias,Karla Cubias,musician,Q792,Q739664
+Q63744690,Q6581072,1965-01-01T00:00:00Z,7,Alexandra Hill Tinoco,Alexandra Hill Tinoco,Salvadoran politician,Q792,Q3110
+Q637768,Q6581097,1911-07-22T00:00:00Z,14,José María Lemus,José María Lemus,President of El Salvador (1911-1993),Q792,Q2420477
+Q63877349,Q6581072,1985-03-31T00:00:00Z,10,Gabriela Rodríguez de Bukele,Gabriela Rodríguez de Bukele,Salvadoran educator and prenatal psychologist (born 1985),Q792,Q3110
+Q6397434,Q6581097,1991-01-11T00:00:00Z,7,Kevin Santamaría,Kevin Santamaria,Salvadoran footballer,Q792,Q723246
+Q640588,Q6581097,1939-01-01T00:00:00Z,15,Tomás Pineda,Tomás Pineda,Salvadoran footballer,Q792,Q739664
+Q640588,Q6581097,1946-01-21T00:00:00Z,15,Tomás Pineda,Tomás Pineda,Salvadoran footballer,Q792,Q739664
+Q641672,Q6581097,1954-01-06T00:00:00Z,18,Luis Ramírez Zapata,Luis Ramírez Zapata,Salvadoran footballer,Q792,Q3110
+Q64748388,Q6581097,1991-12-31T00:00:00Z,6,"Juan Carlos Portillo (footballer, born 1991)",Juan Carlos Portillo,Salvadoran footballer,Q792,Q1014248
+Q64853334,Q6581097,1990-01-22T00:00:00Z,5,Santos Ortíz,Santos Ortiz,Salvadoran association football player,Q792,Q672458
+Q6499221,Q6581072,1986-12-11T00:00:00Z,3,Laura Molina (beach volleyball),Laura Molina,Salvadorian beach volleyball player,Q792,
+Q65030610,Q6581097,1987-02-11T00:00:00Z,10,Julio Torres,Julio Torres,Salvadoran writer and comedian,Q792,Q792
+Q6526220,Q6581097,1965-05-05T00:00:00Z,7,Leonel Cárcamo,Leonel Cárcamo,Salvadoran footballer,Q792,Q1018092
+Q6526224,Q6581097,1983-10-07T00:00:00Z,5,Leonel Guevara,Leonel Guevara,Salvadoran footballer,Q792,Q927114
+Q6526224,Q6581097,1983-10-02T00:00:00Z,5,Leonel Guevara,Leonel Guevara,Salvadoran footballer,Q792,Q927114
+Q655797,Q6581097,1956-06-06T00:00:00Z,18,Norberto Huezo,Norberto Huezo,Salvadoran footballer,Q792,Q3110
+Q65640339,Q6581097,2000-09-12T00:00:00Z,7,Uriel Canjura,Uriel Canjura,badminton player,Q792,Q2779509
+Q65922866,Q6581097,2003-04-01T00:00:00Z,4,Jeremy Garay,Jeremy Garay,Salvadorean-American soccer player,Q30,Q1375929
+Q65922866,Q6581097,2003-04-01T00:00:00Z,4,Jeremy Garay,Jeremy Garay,Salvadorean-American soccer player,Q792,Q1375929
+Q65969669,Q6581072,1997-07-17T00:00:00Z,3,Andrea Michelle Velasco Barrera,Andrea Michelle Velasco Barrera,Salvadoran pole vaulter,Q792,
+Q6700239,Q6581097,1950-08-10T00:00:00Z,4,Luis Abraham Coreas,Luis Abraham Coreas,Salvadoran footballer (1950-1978),Q792,Q5243466
+Q6700856,Q6581097,1985-02-09T00:00:00Z,5,Luis Miguel Hernández,Luis Miguel Hernández,Salvadoran footballer,Q792,Q3674976
+Q67054108,Q6581097,1963-01-01T00:00:00Z,6,René Merino Monroy,René Francis Merino Monroy,Minister of Defense of El Salvador (2019–present),Q792,Q792
+Q67056339,Q6581097,1983-04-03T00:00:00Z,6,Mario Durán,Mario Edgardo Durán Gavidia,Salvadoran politician,Q792,Q3110
+Q6706760,Q6581097,1981-05-19T00:00:00Z,3,Luís Castro (Salvadoran footballer),Luís Castro,Salvadoran footballer,Q792,Q2631462
+Q6752498,Q6581097,1947-11-12T00:00:00Z,5,Manuel Cañadas,Manuel Cañadas,Salvadoran footballer,Q792,Q672458
+Q6752860,Q6581097,1986-01-23T00:00:00Z,6,Manuel Salazar (footballer),Manuel Salazar,Salvadoran footballer,Q792,Q3110
+Q6756491,Q6581097,1990-10-17T00:00:00Z,24,Marcelo Arévalo,Marcelo Arévalo,Salvadorian tennis player (born 1990),Q792,Q1014248
+Q6763865,Q6581072,1957-07-01T00:00:00Z,3,Marina Manzanares Monjarás,Marina Manzanares Monjarás,Salvadoran activist,Q792,Q672458
+Q6764515,Q6581097,1984-07-31T00:00:00Z,4,Mario Aguilar (footballer),Mario Aguilar,football player,Q792,Q2537220
+Q6764564,Q6581097,1949-03-20T00:00:00Z,4,Mario Bencastro,Mario Bencastro,Salvadoran novelist and painter,Q792,Q186935
+Q6764657,Q6581097,1971-03-01T00:00:00Z,4,Mario Guevara,Mario Elias Guevara,Salvadoran footballer,Q792,Q1014248
+Q6764796,Q6581097,1968-05-19T00:00:00Z,3,Mario Mayén Meza,Mario Mayén Meza,Salvadoran footballer,Q792,Q2631462
+Q6764820,Q6581097,1930-08-30T00:00:00Z,3,Mario Montoya (footballer),Mario Montoya,Salvadoran footballer,Q792,Q792
+Q6771954,Q6581097,1965-09-01T00:00:00Z,3,Marlon Menjívar,Marlon Menjívar,Salvadoran footballer,Q792,Q792
+Q6774092,Q6581072,1950-01-01T00:00:00Z,7,Marta Benavides,Marta Benavides,Salvadoran activist,Q792,Q3110
+Q6778459,Q6581097,1979-10-10T00:00:00Z,4,Marvin Quijano,Marvin Quijano,Salvadoran footballer,Q792,Q3110
+Q6781952,Q6581072,1942-05-05T00:00:00Z,4,María Cristina Gómez,María Cristina Gómez,Salvadoran activist (1942-1989),Q792,
+Q6782044,Q6581072,1939-01-30T00:00:00Z,5,María Julia Hernández,María Julia Hernández,Salvadoran activist,Q792,Q1154512
+Q6793579,Q6581097,1952-10-08T00:00:00Z,5,"Mauricio Quintanilla (footballer, born 1952)",Mauricio Quintanilla Villalobos,Salvadoran footballer,Q792,Q3110
+Q6793600,Q6581097,1942-05-13T00:00:00Z,5,Mauricio González (footballer),Mauricio Ernesto González,Salvadoran footballer (1942-2018),Q792,Q3110
+Q6793639,Q6581097,1981-10-31T00:00:00Z,5,"Mauricio Quintanilla (footballer, born 1981)",Mauricio Quintanilla,Salvadoran footballer,Q792,Q1659066
+Q6797042,Q6581072,1988-06-01T00:00:00Z,1,Mayella Mena,Mayella Mena,Salvadoran model,Q792,Q3110
+Q6813935,Q6581097,1976-08-05T00:00:00Z,4,Melvin Barrera,Melvin Barrera,Salvadoran footballer,Q792,Q792
+Q6844393,Q6581097,1953-01-21T00:00:00Z,3,Miguel Aguilar (Salvadoran footballer),Miguel Aguilar Obando,Salvadoran football manager,Q792,Q1018092
+Q6844491,Q6581097,1982-12-28T00:00:00Z,7,Maycoll Cañizalez,Maycoll Cañizalez,Canadian soccer player,Q16,Q1154058
+Q6844491,Q6581097,1982-12-28T00:00:00Z,7,Maycoll Cañizalez,Maycoll Cañizalez,Canadian soccer player,Q792,Q1154058
+Q6844514,Q6581097,1911-01-01T00:00:00Z,5,Miguel Cruz,Miguel Cruz,Footballer (1911-2000),Q792,Q792
+Q6844808,Q6581097,1980-02-21T00:00:00Z,3,Miguel Solís (footballer),Miguel Solís Estupiñián,Colombian footballer,Q792,Q51103
+Q6844808,Q6581097,1980-02-21T00:00:00Z,3,Miguel Solís (footballer),Miguel Solís Estupiñián,Colombian footballer,Q739,Q51103
+Q6844914,Q6581097,1902-12-17T00:00:00Z,6,Miguel Ángel Espino,Miguel Ángel Espino Najarro,Salvadoran writer,Q792,Q739664
+Q6861332,Q6581097,1967-03-08T00:00:00Z,5,Milton Meléndez,Milton Meléndez,Salvadoran footballer,Q792,Q3110
+Q6861340,Q6581097,1989-02-02T00:00:00Z,8,Milton Molina,Milton Molina,Salvadoran footballer,Q792,Q2537220
+Q6962730,Q6581072,1976-10-14T00:00:00Z,2,Nancy Guillén,Nancy Guillén,Salvadoran hammer thrower,Q792,
+Q6965084,Q6581097,1941-12-14T00:00:00Z,1,Napoleón Herson Calitto,Napoleón Herson Calitto Arbaiza,Salvadoran military (Colonel),Q792,
+Q6990386,Q6581097,1990-09-11T00:00:00Z,16,Nelson Bonilla,Nelson Bonilla,Salvadoran footballer,Q792,Q3110
+Q69930633,Q6581072,1952-07-20T00:00:00Z,2,Milagro Navas,Milagro Navas,Salvadoran politician,Q792,Q1130677
+Q7036941,Q6581097,1968-10-29T00:00:00Z,9,Nildeson,Nenei,Brazilian footballer,Q155,Q8678
+Q7036941,Q6581097,1968-10-29T00:00:00Z,9,Nildeson,Nenei,Brazilian footballer,Q792,Q8678
+Q704029,Q6581097,1932-11-16T00:00:00Z,13,Fernando Sáenz Lacalle,Fernando Sáenz Lacalle,Archbishop of San Salvador (1932–2022),Q792,Q1637322
+Q704029,Q6581097,1932-11-16T00:00:00Z,13,Fernando Sáenz Lacalle,Fernando Sáenz Lacalle,Archbishop of San Salvador (1932–2022),Q29,Q1637322
+Q7052708,Q6581097,1946-11-02T00:00:00Z,9,Norman Quijano,Norman Quijano,Salvadoran Politician,Q792,Q739664
+Q7076818,Q6581097,1944-03-22T00:00:00Z,3,Octavio Ortiz,Octavio Ortiz,Salvadroan priest (1944–1979),Q792,
+Q7105953,Q6581097,1948-10-06T00:00:00Z,4,"Óscar Benítez (footballer, born 1948)",Oscar Emigdio Benítez,Salvadoran footballer,Q792,Q1094372
+Q7108995,Q6581097,1983-12-22T00:00:00Z,3,Otoniel Carranza,Otoniel Carranza,Salvadoran footballer,Q792,Q3800717
+Q7129104,Q6581072,1991-05-09T00:00:00Z,4,Pamela Benítez,Pamela Benítez,Salvadoran swimmer,Q792,
+Q715094,Q6581097,1985-06-28T00:00:00Z,17,"Arturo Álvarez (footballer, born 1985)",Arturo Álvarez,American soccer player,Q30,Q16555
+Q715094,Q6581097,1985-06-28T00:00:00Z,17,"Arturo Álvarez (footballer, born 1985)",Arturo Álvarez,American soccer player,Q792,Q16555
+Q715119,Q6581097,1927-08-06T00:00:00Z,21,Arturo Armando Molina,Arturo Armando Molina,"Salvadoran politician, President of El Salvador between 1972–1977 (1927–2021)",Q792,Q3110
+Q7154702,Q6581072,1957-10-13T00:00:00Z,5,Paula Heredia,Paula Heredia,American film director,Q30,Q3110
+Q7154702,Q6581072,1957-10-13T00:00:00Z,5,Paula Heredia,Paula Heredia,American film director,Q792,Q3110
+Q7159604,Q6581097,1908-09-16T00:00:00Z,6,Pedro Geoffroy Rivas,Pedro Geoffroy Rivas,"anthropologist, poet, and linguist (1908–1979)",Q792,Q739664
+Q71753642,Q6581097,1944-12-16T00:00:00Z,5,Armando Bukele Kattán,Armando Bukele Kattán,Salvadorean chemist (1944-2015),Q792,Q3110
+Q719545,Q6581097,1956-11-21T00:00:00Z,9,Horacio Castellanos Moya,Horacio Castellanos Moya,Salvadoran writer and journalist,Q792,Q3238
+Q72035967,Q6581072,1918-01-01T00:00:00Z,2,Adela Cabezas de Allwood,Adela Cabezas de Allwood,Salvadorean physician,Q792,Q739664
+Q7282013,Q6581097,1992-02-04T00:00:00Z,3,Rafael Alfaro,Rafael Alfaro,Salvadoran swimmer,Q792,
+Q7282042,Q6581097,1915-07-08T00:00:00Z,2,Rafael Barrientos (musician),Rafael Barrientos,Salvadoran musician (1915–2008),Q792,Q682015
+Q7282123,Q6581097,1979-05-12T00:00:00Z,4,Rafael Barrientos (footballer),Rafael Ernesto Barrientos,Salvadoran footballer,Q792,Q3110
+Q7289604,Q6581097,1978-03-16T00:00:00Z,4,Ramiro Carballo,Ramiro Carballo,Salvadoran footballer,Q792,Q3683887
+Q7289819,Q6581097,1981-02-10T00:00:00Z,4,"Ramón Martínez (footballer, born 1981)",Ramon De Paz,Salvadoran footballer,Q792,Q1018092
+Q7290480,Q6581097,1982-08-21T00:00:00Z,4,Ramón Flores (footballer),Ramón Flores,Salvadoran footballer,Q792,Q739664
+Q7290481,Q6581097,1954-12-25T00:00:00Z,16,Ramón Fagoaga,Ramón Fagoaga,Salvadoran footballer,Q792,Q672458
+Q7290481,Q6581097,1952-01-12T00:00:00Z,16,Ramón Fagoaga,Ramón Fagoaga,Salvadoran footballer,Q792,Q672458
+Q7299728,Q6581097,1962-09-13T00:00:00Z,7,"Raúl García (footballer, born 1962)",Raúl Antonio García,Salvadoran footballer (1962-2018),Q792,Q672458
+Q7322533,Q6581097,1980-05-23T00:00:00Z,4,Ricardo Alvarado,Ricardo Alvarado,Salvadoran football player,Q792,Q3110
+Q7322613,Q6581097,1939-09-06T00:00:00Z,6,Ricardo Díaz (footballer),Ricardo Diaz Bach,Salvadoran footballer (1939-2011),Q792,Q139248
+Q7322742,Q6581097,1949-11-09T00:00:00Z,1,Ricardo Montenegro,Ricardo Montenegro,Salvadoran politician,Q792,Q166481
+Q7322775,Q6581097,1946-05-03T00:00:00Z,3,Ricardo Poma,Ricardo Poma,Salvadoran businessman,Q792,Q3110
+Q7322840,Q6581097,1926-10-05T00:00:00Z,4,Ricardo Valencia,Ricardo Valencia,Salvadoran footballer (1927-2010),Q792,Q739664
+Q7333846,Q6581097,1932-06-11T00:00:00Z,6,Rigoberto Guzmán,Rigoberto Guzmán,Salvadoran footballer (1932-2014),Q792,Q2779447
+Q73545355,Q6581072,1941-09-11T00:00:00Z,2,Isabel Dada,Isabel Dada,Salvadorean actress,Q792,Q3110
+Q7360573,Q6581097,1971-08-13T00:00:00Z,7,Rolando Molina,Rolando Molina,Salvadoran actor,Q792,Q3110
+Q7360573,Q6581097,1971-08-13T00:00:00Z,7,Rolando Molina,Rolando Molina,Salvadoran actor,Q30,Q3110
+Q7365172,Q6581097,1985-04-17T00:00:00Z,4,Ronald Pimentel,Ronald Pimentel,Salvadoran footballer,Q792,Q1014248
+Q73662047,Q6581072,1930-07-27T00:00:00Z,3,Ana Mercedes Campos,Ana Mercedes Campos,Salvadoran athlete,Q792,Q1014248
+Q7376443,Q6581097,1925-01-11T00:00:00Z,3,Rubén Alonso Rosales,Rubén Alonso Rosales,Military officer and coup/junta participant in El Salvador,Q792,
+Q7376525,Q6581097,1985-12-18T00:00:00Z,3,Rubén Quijada,Rubén Quijada,Salvadoran footballer,Q792,Q3110
+Q7376550,Q6581097,1942-11-09T00:00:00Z,4,Rubén Zamora,Rubén Ignacio Zamora Rivas,Salvadoran politician,Q792,Q3110
+Q7377953,Q6581072,1943-01-01T00:00:00Z,3,Rufina Amaya,Rufina Amaya,survivor/El Mozote massacre/El Salvador,Q792,
+Q7406395,Q6581097,1984-09-29T00:00:00Z,5,"Salvador Coreas (footballer, born 1984)",Salvador Coreas,Salvadoran footballer (born 1984),Q792,Q672458
+Q7406396,Q6581097,1960-11-22T00:00:00Z,2,"Salvador Coreas (footballer, born 1960)",Salvador Coreas Privado,football coach,Q792,Q5243466
+Q7406429,Q6581097,1984-08-23T00:00:00Z,4,Salvador Mira,Salvador Mira,Salvadoran race walker,Q792,Q723411
+Q7420316,Q6581097,1963-04-06T00:00:00Z,2,Santiago Mellado,Santiago Mellado,Non-profit President and CEO,Q792,Q792
+Q7420606,Q6581097,1976-11-01T00:00:00Z,7,Santos Cabrera,Santos Cabrera,Salvadoran footballer,Q792,Q3896916
+Q7420635,Q6581097,1974-04-08T00:00:00Z,6,Santos Rivera,Santos Rivera,Salvadoran footballer,Q792,Q3461857
+Q7423475,Q6581072,1977-09-14T00:00:00Z,4,Saraí Mendoza,Saraí Mendoza,Salvadorian judoka,Q792,Q1130677
+Q7429443,Q6581097,1938-03-14T00:00:00Z,4,Saúl Molina,Saúl Molina,Salvadoran footballer,Q792,Q3879289
+Q7448874,Q6581097,1979-03-01T00:00:00Z,3,Selvin Zelaya,Selvin Zelaya,Salvadorian footballer,Q792,Q1018092
+Q748324,Q6581097,1947-10-29T00:00:00Z,14,José Quintanilla (footballer),José Quintanilla,Salvadoran footballer (1947-1977),Q792,Q1014248
+Q762497,Q6581097,1958-03-13T00:00:00Z,24,Mágico González,Mágico González,Salvadoran footballer,Q792,Q3110
+Q76756010,Q6581097,2001-06-28T00:00:00Z,7,Brayan Gil,Brayan Gil,Salvadoran-Colombian footballer,Q739,Q51103
+Q76756010,Q6581097,2001-06-28T00:00:00Z,7,Brayan Gil,Brayan Gil,Salvadoran-Colombian footballer,Q792,Q51103
+Q76759194,Q6581072,1992-10-28T00:00:00Z,21,Vivienne Medrano,Vivienne Medrano,American animator,Q30,Q1391
+Q76759194,Q6581072,1992-10-28T00:00:00Z,21,Vivienne Medrano,Vivienne Medrano,American animator,Q792,Q1391
+Q7678107,Q6581097,1985-08-05T00:00:00Z,5,Takeshi Fujiwara,Takeshi Fujiwara,Olympic sprinter,Q792,Q3110
+Q76824190,Q6581097,1991-01-27T00:00:00Z,22,Iván Barton,Iván Barton,Salvadorian association football referee,Q792,Q739664
+Q7923121,Q6581072,1986-07-09T00:00:00Z,3,Verónica Colindres,Verónica Colindres,Salvadoran race walker,Q792,Q2003995
+Q7925177,Q6581097,1982-09-06T00:00:00Z,5,Vicente Melgar,Vicente Melgar,Salvadoran footballer,Q792,Q3949527
+Q7925513,Q6581072,1944-10-22T00:00:00Z,3,Vicky Guzmán,Vicky Guzmán,El Salvadoran doctor,Q792,Q739664
+Q7926260,Q6581097,1974-07-20T00:00:00Z,2,Victor R. Ramirez,Victor R. Ramirez,American politician,Q30,Q3110
+Q7926260,Q6581097,1974-07-20T00:00:00Z,2,Victor R. Ramirez,Victor R. Ramirez,American politician,Q792,Q3110
+Q7938192,Q6581097,1967-07-26T00:00:00Z,6,Vladan Vićević,Vladan Vićević,Salvadoran footballer,Q792,Q59473
+Q7944604,Q6581097,1963-03-30T00:00:00Z,4,Víctor Coreas,Víctor Coreas,Salvadoran footballer,Q792,Q3927597
+Q7944620,Q6581097,1978-07-02T00:00:00Z,4,Víctor Fuentes (Salvadoran footballer),Víctor Fuentes,Salvadoran footballer,Q792,Q2420477
+Q7944692,Q6581097,1979-08-18T00:00:00Z,6,Víctor Merino,Víctor Merino,Salvadoran footballer,Q792,Q619646
+Q7961523,Q6581097,1967-04-02T00:00:00Z,3,Waldir Guerra,Waldir Guerra,Salvadoran footballer,Q792,Q1094372
+Q796461,Q6581097,1933-01-01T00:00:00Z,5,José Guillermo García,José Guillermo García,former general of the military of El Salvador,Q792,Q1094372
+Q7966168,Q6581097,1983-12-22T00:00:00Z,4,Walter Soto,Walter Soto,footballer,Q792,Q672458
+Q7972554,Q6581097,1964-05-26T00:00:00Z,4,Washington de la Cruz,Washington de la Cruz,Salvadoran footballer,Q77,Q1335
+Q7972554,Q6581097,1964-05-26T00:00:00Z,4,Washington de la Cruz,Washington de la Cruz,Salvadoran footballer,Q792,Q1335
+Q79914823,Q6581072,1973-01-01T00:00:00Z,3,Aida Batlle,Aida Batlle,El Salvadoran coffee farmer and businesswoman,Q792,Q792
+Q8001915,Q6581097,1967-02-22T00:00:00Z,5,Wilfredo Iraheta,Wilfredo Iraheta,Salvadoran footballer,Q792,Q2335680
+Q8004497,Q6581097,1981-05-30T00:00:00Z,5,"William Torres (footballer, born 1981)",William Antonio Torres,Salvadoran footballer,Q792,Q3110
+Q8004532,Q6581097,1968-01-01T00:00:00Z,1,William Archila,William Archila,poet,Q792,Q739664
+Q8004532,Q6581097,1968-01-01T00:00:00Z,1,William Archila,William Archila,poet,Q30,Q739664
+Q8015065,Q6581097,1990-01-03T00:00:00Z,5,William Maldonado,William Maldonado,Salvadoran footballer,Q792,Q739664
+Q8016393,Q6581097,1971-04-13T00:00:00Z,7,William Osorio,William Osorio,Salvadoran footballer,Q792,Q3110
+Q8017479,Q6581097,1971-10-03T00:00:00Z,4,William Renderos,William Renderos Iraheta,Salvadoran footballer,Q792,Q792
+Q8019474,Q6581097,1976-10-27T00:00:00Z,6,"William Torres (footballer, born 1976)",William Torres,Salvadoran footballer (born 1976),Q792,Q672458
+Q8021088,Q6581097,1976-10-30T00:00:00Z,6,Williams Reyes,Williams Reyes,Honduran footballer,Q783,Q916536
+Q8021088,Q6581097,1976-10-30T00:00:00Z,6,Williams Reyes,Williams Reyes,Honduran footballer,Q792,Q916536
+Q8023224,Q6581097,1978-05-25T00:00:00Z,4,Wilson Sánchez,Wilson Sánchez,Colombian footballer,Q792,Q739
+Q8023224,Q6581097,1978-05-25T00:00:00Z,4,Wilson Sánchez,Wilson Sánchez,Colombian footballer,Q739,Q739
+Q8043245,Q6581097,1990-06-26T00:00:00Z,8,Xavier García (footballer),Xavier García,Salvadoran footballer,Q792,Q3110
+Q8059395,Q6581097,1980-04-11T00:00:00Z,3,Yovani Romero,Yovani Humberto Romero,Salvadoran footballer,Q792,Q2308276
+Q8076641,Q6581097,1980-07-28T00:00:00Z,4,Álex Erazo,Álex Erazo,Salvadoran footballer,Q792,Q3110
+Q8076874,Q6581097,1975-03-02T00:00:00Z,4,Ángel Orellana,Ángel Orellana,Salvadoran football manager (born 1975),Q792,Q792
+Q8078589,Q6581072,1979-07-06T00:00:00Z,4,Íngrid Medrano,Íngrid Medrano,Salvardorian wrestler,Q792,Q3110
+Q8078795,Q6581097,1963-09-16T00:00:00Z,5,Óscar Ulloa,Óscar Antonio Ulloa,Salvadoran footballer,Q792,Q792
+Q8078796,Q6581097,1970-10-15T00:00:00Z,6,Tito Díaz,Óscar Armando Díaz,Salvadoran footballer (1970-1998),Q792,Q2308276
+Q8078804,Q6581097,1991-10-26T00:00:00Z,7,Óscar Cerén,Óscar Céren,El Salvadorean footballer,Q792,Q1154058
+Q8078833,Q6581097,1979-04-18T00:00:00Z,5,"Óscar Jiménez (footballer, born 1979)",Óscar Jiménez,Salvadoran footballer,Q792,Q1659066
+Q8078844,Q6581097,1979-01-13T00:00:00Z,6,Óscar Navarro,Óscar Navarro,Salvadoran footballer,Q792,Q2631462
+Q8078853,Q6581097,1962-02-14T00:00:00Z,6,Óscar Ortiz (Salvadoran politician),Óscar Ortiz,Vice-President of El Salvador,Q792,Q927114
+Q81601609,Q6581097,1994-08-26T00:00:00Z,5,Diego Coca,Diego Coca,Salvadoran footballer,Q792,Q792
+Q81923013,Q6581097,1995-05-27T00:00:00Z,5,Bryan Landaverde,Bryan Landaverde,Salvadoran association football player,Q792,Q1659066
+Q829266,Q6581097,1901-12-11T00:00:00Z,7,George Mantello,George Mantello,Salvadoran politician (1901–1992),Q792,Q187205
+Q83540864,Q6581072,1972-10-23T00:00:00Z,6,Julia Emma Villatoro Tario,Julia Emma Villatoro Tario,El Salvador's ambassador to the European Union,Q792,Q3110
+Q85191654,Q6581072,1972-10-23T00:00:00Z,5,María Luisa Hayem,Maria Luisa Hayem,Salvadoran economist and politician,Q792,
+Q85761911,Q6581097,1974-10-08T00:00:00Z,1,Francisco Cáceres,Francisco Cáceres,Salvadoran weightlifter,Q792,
+Q85762465,Q6581097,1994-01-24T00:00:00Z,3,"Gabriel Núñez (footballer, born 1994)",Gabriel Núñez,Dominican Republic association football player,Q786,Q723246
+Q85762465,Q6581097,1994-01-24T00:00:00Z,3,"Gabriel Núñez (footballer, born 1994)",Gabriel Núñez,Dominican Republic association football player,Q792,Q723246
+Q85871450,Q6581097,1994-11-08T00:00:00Z,5,Isaac Portillo,Isaac Portillo,Salvadoran association football player,Q792,Q619646
+Q85877275,Q6581097,1992-01-01T00:00:00Z,3,Rudy Clavel,Rudy Clavel,Salvadoran association football player,Q792,Q739664
+Q86735533,Q6581097,1960-11-10T00:00:00Z,5,Nelson Lemus,Nelson Rutilio Lemus,,Q792,Q984328
+Q8775517,Q6581097,1972-07-06T00:00:00Z,5,Emiliano Pedrozo,Emiliano Pedrozo,Argentine footballer,Q414,Q1622565
+Q8775517,Q6581097,1972-07-06T00:00:00Z,5,Emiliano Pedrozo,Emiliano Pedrozo,Argentine footballer,Q792,Q1622565
+Q880982,Q6581097,1924-02-29T00:00:00Z,22,Carlos Humberto Romero,Carlos Humberto Romero,President of El Salvador (1924-2017),Q792,Q2290501
+Q887623,Q6581097,1921-09-02T00:00:00Z,15,Julio Adalberto Rivera Carballo,Julio Adalberto Rivera Carballo,President of El Salvador (1921-1973),Q792,Q139248
+Q887693,Q6581097,1917-07-07T00:00:00Z,24,Fidel Sánchez Hernández,Fidel Sánchez Hernández,President of El Salvador (1917-2003),Q792,Q845966
+Q8962270,Q6581097,1900-12-03T00:00:00Z,3,Pancho Lara,"Francisco ""Pancho"" Lara",Salvadoran musician and composer (1900 - 1989),Q792,Q739664
+Q89832323,Q6581097,2003-09-07T00:00:00Z,6,Mayer Gil,Mayer Gil,Salvadoran-Colombian footballer,Q792,Q13591
+Q89832323,Q6581097,2003-09-07T00:00:00Z,6,Mayer Gil,Mayer Gil,Salvadoran-Colombian footballer,Q739,Q13591
+Q9015509,Q6581097,1935-03-12T00:00:00Z,7,Juan Francisco Barraza,Juan Francisco Barraza,Salvadoran footballer (1935-1997),Q792,Q672458
+Q9028594,Q6581097,1981-11-09T00:00:00Z,6,Marcelo Messias,Marcelo Messias,Brazilian footballer,Q792,Q503852
+Q9028594,Q6581097,1981-11-09T00:00:00Z,6,Marcelo Messias,Marcelo Messias,Brazilian footballer,Q155,Q503852
+Q9050036,Q6581097,1981-12-21T00:00:00Z,10,Nicolás Muñoz,Nicolás Muñoz,Panamanian footballer,Q804,Q3306
+Q9050036,Q6581097,1981-12-21T00:00:00Z,10,Nicolás Muñoz,Nicolás Muñoz,Panamanian footballer,Q792,Q3306
+Q9092579,Q6581072,1963-02-16T00:00:00Z,7,Vanda Pignato,Vanda Pignato,Salvadoran lawyer,Q792,Q174
+Q929099,Q6581097,1979-11-06T00:00:00Z,11,Rudis Corrales,Rudis Corrales,Salvadoran footballer,Q792,Q765679
+Q9291391,Q6581097,1967-12-15T00:00:00Z,4,Herbert Rodríguez,Herbert Rodríguez,Salvadoran athletics competitor,Q792,Q792
+Q9323551,Q6581097,1972-09-16T00:00:00Z,2,Ruben Benitez,Rubén Benítez,Salvadoran athletics competitor,Q792,
+Q932501,Q6581097,1928-07-05T00:00:00Z,19,Rutilio Grande,Rutilio Grande,Salvadoran martyr (1928-1977),Q792,Q984328
+Q934686,Q6581097,1951-01-01T00:00:00Z,5,Joaquín Villalobos,Joaquín Villalobos,Salvadorian politician,Q792,Q3110
+Q936831,Q6581097,1944-06-18T00:00:00Z,47,Salvador Sánchez Cerén,Salvador Sánchez Cerén,president of El Salvador (2014–2019),Q792,Q1154058
+Q937138,Q6581097,1947-04-27T00:00:00Z,5,René Emilio Ponce,René Emilio Ponce,Salvadoran politician (1947-2011),Q792,Q2335680
+Q958690,Q6581072,1982-09-19T00:00:00Z,9,Cristina López (race walker),Cristina López,Salvadoran racewalker,Q792,Q2842672
+Q96197075,Q6581097,1924-08-06T00:00:00Z,1,Manuel Escobar,Manuel Escobar,Salvadoran sailor,Q792,Q3110
+Q96374478,Q6581097,1940-10-06T00:00:00Z,1,Carlos Ruiz (sailor),Carlos Ruiz,Salvadoran sailor,Q792,Q3110
+Q974790,Q6581097,1980-02-12T00:00:00Z,8,"Miguel Montes (footballer, born 1980)",Miguel Montes,Salvadoran footballer,Q792,Q2335680
+Q97572637,Q6581097,1938-01-01T00:00:00Z,2,Raúl Molina Martínez,Raúl Molina Martínez,Salvadoran politician,Q792,
+Q978119,Q6581097,1934-12-08T00:00:00Z,7,Jon de Cortina,Jon de Cortina,Salvadroan theologian (1934–2005),Q29,Q8692
+Q978119,Q6581097,1934-12-08T00:00:00Z,7,Jon de Cortina,Jon de Cortina,Salvadroan theologian (1934–2005),Q792,Q8692
+Q98083080,Q6581072,1996-09-30T00:00:00Z,2,Stephanie Zúñiga,Stephanie Herrera,American soccer player,Q792,Q62
+Q98083080,Q6581072,1996-09-30T00:00:00Z,2,Stephanie Zúñiga,Stephanie Herrera,American soccer player,Q30,Q62
+Q98084401,Q6581072,2003-02-16T00:00:00Z,2,Andrea Amaya,Andrea Amaya,Salvadoran association football player,Q792,Q792
+Q98084408,Q6581072,2002-02-18T00:00:00Z,2,Samaria Gómez,Samaria Gomez,Salvadoran association football player,Q792,
+Q981443,Q6581097,1944-08-23T00:00:00Z,17,Roberto D'Aubuisson,Roberto D'Aubuisson,"extreme-right Salvadoran soldier, politician and death-squad leader (1944-1992)",Q792,Q723246
+Q98215654,Q6581097,1900-06-05T00:00:00Z,1,Pedro de Matheu,Pedro de Matheu,Salvadoran artist,Q792,Q739664
+Q983539,Q6581097,1960-01-23T00:00:00Z,13,Max Keiser,Max Keiser,American-Salvadoran broadcaster,Q30,Q744948
+Q983539,Q6581097,1960-01-23T00:00:00Z,13,Max Keiser,Max Keiser,American-Salvadoran broadcaster,Q792,Q744948
+Q98515383,Q6581097,1936-06-16T00:00:00Z,3,Mario Antonio Andino,Mario Antonio Andino,Salvadoran politician,Q792,Q3110
+Q99600269,Q6581097,1989-10-10T00:00:00Z,3,"Erick Rivera (footballer, born 1989)",Erick Alejandro Rivera,Salvadoran footballer,Q792,Q723246

@@ -1,0 +1,502 @@
+person,gender,birth,sitelinks,title,label,description,cit,place
+Q100874415,Q6581097,1998-08-16T00:00:00Z,6,Cyril Langevine,Cyril Langevine,American basketball player,Q30,Q10717
+Q100874415,Q6581097,1998-08-16T00:00:00Z,6,Cyril Langevine,Cyril Langevine,American basketball player,Q734,Q10717
+Q102117515,Q6581097,1906-08-10T00:00:00Z,2,Oscar Wight,Oscar Wight,Guyanese cricketer,Q734,Q10717
+Q102160027,Q6581097,1931-01-30T00:00:00Z,2,Eric Chase,Eric Chase,Guyanese cricketer,Q734,
+Q102195488,Q6581097,1953-10-30T00:00:00Z,2,William White (Guyanese cricketer),William White,Guyanese cricketer,Q734,Q10717
+Q102195960,Q6581097,1903-09-13T00:00:00Z,2,Cecil Nascimento,Cecil Nascimento,Guyanese cricketer (1903-1952),Q734,
+Q1037408,Q6581097,1977-11-01T00:00:00Z,15,Carl Cort,Carl Cort,English-Guyanese footballer (born 1977),Q734,Q5273898
+Q1037408,Q6581097,1977-11-01T00:00:00Z,15,Carl Cort,Carl Cort,English-Guyanese footballer (born 1977),Q145,Q5273898
+Q104256002,Q6581097,1983-01-11T00:00:00Z,1,Ron Matthews (cricketer),Ron Matthews,Guyanese cricketer,Q734,Q10717
+Q10463121,Q6581097,1982-03-16T00:00:00Z,4,Howard Newton,Howard Newton,Guyanese footballer,Q734,Q277162
+Q104707770,Q6581072,1983-01-01T00:00:00Z,3,Sonia Parag,Sonia Parag,Guyanese politician,Q734,
+Q104833675,Q6581097,1947-01-31T00:00:00Z,1,Keith Cameron (cricketer),Keith Cameron,Guyanese cricketer,Q145,Q10717
+Q104833675,Q6581097,1947-01-31T00:00:00Z,1,Keith Cameron (cricketer),Keith Cameron,Guyanese cricketer,Q734,Q10717
+Q10553991,Q6581097,1991-11-09T00:00:00Z,11,Emery Welshman,Emery Welshman,Guyanese footballer,Q30,Q50816
+Q10553991,Q6581097,1991-11-09T00:00:00Z,11,Emery Welshman,Emery Welshman,Guyanese footballer,Q734,Q50816
+Q10554954,Q6581097,1994-10-03T00:00:00Z,10,Anthony Jeffrey,Anthony Jeffrey,English association football player who plays for Guyana,Q734,Q149787
+Q10554954,Q6581097,1994-10-03T00:00:00Z,10,Anthony Jeffrey,Anthony Jeffrey,English association football player who plays for Guyana,Q145,Q149787
+Q106302202,Q6581097,2003-11-22T00:00:00Z,8,Omari Glasgow,Omari Glasgow,Guyanese footballer,Q734,Q10717
+Q106462953,Q6581097,1995-12-09T00:00:00Z,7,Andrew Fowler (swimmer),Andrew Fowler,Guyanese swimmer,Q734,Q10717
+Q106645029,Q6581097,1992-10-26T00:00:00Z,3,Shaquille Agard,Shaquille Agard,Canadian soccer player,Q734,Q10717
+Q106645029,Q6581097,1993-12-07T00:00:00Z,3,Shaquille Agard,Shaquille Agard,Canadian soccer player,Q734,Q10717
+Q106645029,Q6581097,1992-10-26T00:00:00Z,3,Shaquille Agard,Shaquille Agard,Canadian soccer player,Q16,Q10717
+Q106645029,Q6581097,1993-12-07T00:00:00Z,3,Shaquille Agard,Shaquille Agard,Canadian soccer player,Q16,Q10717
+Q107053740,Q6581072,1994-03-14T00:00:00Z,6,Jasmine Abrams,Jasmine Abrams,Guyanese sprinter,Q734,Q60
+Q107113725,Q6581072,1999-12-31T00:00:00Z,1,Annalisa Vincent,Annalisa Vincent,Guyanese footballer,Q734,
+Q107344834,Q6581072,1999-09-22T00:00:00Z,5,Mandy Mangru,Mandy Mangru,West Indian cricketer,Q734,Q10717
+Q107417570,Q6581097,1998-03-06T00:00:00Z,1,Curtez Kellman,Curtez Kellman,Guyanese footballer,Q734,Q10717
+Q107604992,Q6581097,1973-09-13T00:00:00Z,6,Lenox Shuman,Lennox Shuman,Guyanese politician (born 1973),Q734,Q7587692
+Q107652623,Q6581072,1997-07-06T00:00:00Z,5,Chelsea Edghill,Chelsea Edghill,Guyanese table tennis player (* 1997),Q734,Q18419
+Q107723709,Q6581072,2006-02-24T00:00:00Z,5,Aleka Persaud,Aleka Persaud,Guyanese swimmer,Q734,
+Q108659285,Q6581097,1987-07-09T00:00:00Z,4,Carlston Harris,Carlston Harris,Guyanese mixed martial arts (MMA) fighter,Q734,Q1051779
+Q108855897,Q6581097,1991-10-12T00:00:00Z,2,Ubraj Narine,Ubraj Narine,Guyanese politician,Q734,
+Q109179940,Q6581097,2001-07-19T00:00:00Z,11,Osaze De Rosario,Osaze De Rosario,Guyanese footballer,Q16,Q16553
+Q109179940,Q6581097,2001-07-19T00:00:00Z,11,Osaze De Rosario,Osaze De Rosario,Guyanese footballer,Q30,Q16553
+Q109179940,Q6581097,2001-07-19T00:00:00Z,11,Osaze De Rosario,Osaze De Rosario,Guyanese footballer,Q734,Q16553
+Q1101987,Q6581097,1944-08-31T00:00:00Z,13,Clive Lloyd,Clive Lloyd,former World Cup winning captain of West Indies in 1975 and 1979,Q734,Q10717
+Q112199539,Q6581097,2000-01-01T00:00:00Z,4,Marcus Simmons (footballer),Marcus Simmons,professional Canadian soccer player (born 2000),Q734,Q2096
+Q112199539,Q6581097,2000-01-01T00:00:00Z,4,Marcus Simmons (footballer),Marcus Simmons,professional Canadian soccer player (born 2000),Q16,Q2096
+Q11308219,Q6581072,1981-01-01T00:00:00Z,4,Shondell Alfred,Shondell Alfred,boxer,Q734,Q734
+Q114903102,Q6581072,1932-04-24T00:00:00Z,3,Philomena Sahoye-Shury,Philomena Sahoye-Shury,Guyanese politician and trade unionist,Q734,
+Q115943240,Q6581097,1957-07-06T00:00:00Z,3,Aubrey Norton,Aubrey Norton,Guyanese politician,Q734,Q741134
+Q116312377,Q6581072,1979-12-06T00:00:00Z,2,Amanza Walton Desir,Amanza O.R. Walton-Desir,Guyanese politician,Q734,
+Q11690766,Q6581097,1937-03-10T00:00:00Z,7,Clayton Glasgow,Clayton Glasgow,Guyanese athletics competitor (1937-2020),Q734,Q10717
+Q11753395,Q6581097,1987-05-05T00:00:00Z,4,Leslain Baird,Leslain Baird,Guyanese athletics competitor,Q734,
+Q121069164,Q6581097,1926-07-18T00:00:00Z,2,Ashton Chase,Ashton Chase,Guyanese politician,Q734,Q10717
+Q122804365,Q6581072,1993-01-03T00:00:00Z,2,Hannah Baptiste,Hannah Baptiste,English-Guyanese footballer,Q734,
+Q122804365,Q6581072,1993-01-03T00:00:00Z,2,Hannah Baptiste,Hannah Baptiste,English-Guyanese footballer,Q145,
+Q123356083,Q6581072,1943-07-27T00:00:00Z,3,"Mona Williams (writer, born 1943)",Mona Williams,Guyanese-New Zealand writer and educator,Q664,Q741134
+Q123356083,Q6581072,1943-07-27T00:00:00Z,3,"Mona Williams (writer, born 1943)",Mona Williams,Guyanese-New Zealand writer and educator,Q734,Q741134
+Q124303078,Q6581072,1973-01-01T00:00:00Z,2,Suchitra Mattai,Suchitra Mattai,Guyanese-born American multi-disciplinary artist (born 1973),Q734,Q10717
+Q1255117,Q6581097,1987-05-19T00:00:00Z,12,Winston George,Winston George,Guyanese sprinter,Q734,Q10717
+Q1264049,Q6581097,1934-02-26T00:00:00Z,8,Frank Bowling,Frank Bowling,British painter,Q145,Q809428
+Q1264049,Q6581097,1934-02-26T00:00:00Z,8,Frank Bowling,Frank Bowling,British painter,Q734,Q809428
+Q1273562,Q6581097,1912-06-27T00:00:00Z,15,E. R. Braithwaite,E. R. Braithwaite,Guyanese writer (1912–2016),Q734,Q10717
+Q130240282,Q6581072,1991-12-04T00:00:00Z,1,Jem Hussain-Adams,Jem Hussain-Adams,Guyanese-American reality television contestant,Q734,
+Q130240282,Q6581072,1991-12-04T00:00:00Z,1,Jem Hussain-Adams,Jem Hussain-Adams,Guyanese-American reality television contestant,Q30,
+Q1302890,Q6581097,1931-10-07T00:00:00Z,5,Mohamed Shahabuddeen,Mohamed Shahabuddeen,Guyanese politician and judge (1931-2018),Q734,Q1018877
+Q130639267,Q6581097,1999-10-27T00:00:00Z,3,Ryan Khedoo,Ryan Khedoo,Canadian-Guyanese soccer player,Q16,
+Q130639267,Q6581097,1999-10-27T00:00:00Z,3,Ryan Khedoo,Ryan Khedoo,Canadian-Guyanese soccer player,Q734,
+Q131726191,Q6581097,1932-01-04T00:00:00Z,3,Kit Nascimento,Kit Nascimento,Guyanese journalist and former politician,Q734,
+Q133805222,Q6581097,1909-05-13T00:00:00Z,1,"Motee ""Kid"" Singh",Motee Singh,Indo-Guyanese boxer (1909-1971),Q734,Q1277758
+Q133867305,Q6581097,1945-05-17T00:00:00Z,1,Charley Charles,Charley Charles,Guyanese-born British drummer (1945—1990),Q734,Q734
+Q135221886,Q6581072,2007-09-24T00:00:00Z,2,Tianna Springer,Tianna Springer,Guyanese athlete,Q734,
+Q136002145,Q6581097,2001-02-20T00:00:00Z,2,Liam Butts,Liam Butts,Guyanese-American soccer player,Q734,
+Q136002145,Q6581097,2001-02-20T00:00:00Z,2,Liam Butts,Liam Butts,Guyanese-American soccer player,Q30,
+Q1363974,Q6581097,1982-02-20T00:00:00Z,11,Rawle Marshall,Rawle Marshall,American basketball player,Q30,Q10717
+Q1363974,Q6581097,1982-02-20T00:00:00Z,11,Rawle Marshall,Rawle Marshall,American basketball player,Q734,Q10717
+Q137908521,Q6581097,2000-08-04T00:00:00Z,3,Quentin Sampson,Quentin Sampson,Guyanese cricketer,Q734,
+Q1380489,Q6581097,1986-12-03T00:00:00Z,8,Frank Elegar,Frank Elegar,United States Virgin Islands basketball player (born 1986),Q30,Q60
+Q1380489,Q6581097,1986-12-03T00:00:00Z,8,Frank Elegar,Frank Elegar,United States Virgin Islands basketball player (born 1986),Q734,Q60
+Q1383132,Q6581097,1975-08-09T00:00:00Z,7,Wayne Braithwaite,Wayne Braithwaite,Guyanese boxer,Q734,Q10717
+Q138465487,Q6581097,1953-01-24T00:00:00Z,1,Ransford Goodluck,Ransford Goodluck,Guyanese sport shooter,Q734,Q10717
+Q1394990,Q6581097,1942-03-23T00:00:00Z,25,Walter Rodney,Walter Rodney,"Guyanese Marxist, Pan-Afrianist, and historian (1942-1980)",Q734,Q10717
+Q1400508,Q6581097,1967-06-18T00:00:00Z,20,Alex Bunbury,Alex Bunbury,Canadian soccer player,Q16,Q7200790
+Q1400508,Q6581097,1967-06-18T00:00:00Z,20,Alex Bunbury,Alex Bunbury,Canadian soccer player,Q734,Q7200790
+Q140514499,Q6581097,2007-01-01T00:00:00Z,3,Reiss Elliott-Parris,Reiss Elliott-Parris,Guyanese football player (born 2007),Q145,Q800451
+Q140514499,Q6581097,2007-01-01T00:00:00Z,3,Reiss Elliott-Parris,Reiss Elliott-Parris,Guyanese football player (born 2007),Q734,Q800451
+Q14856076,Q6581097,1993-09-09T00:00:00Z,8,Terell Ondaan,Terell Ondaan,Dutch footballer,Q29999,Q727
+Q14856076,Q6581097,1993-09-09T00:00:00Z,8,Terell Ondaan,Terell Ondaan,Dutch footballer,Q734,Q727
+Q15060072,Q6581072,1990-03-07T00:00:00Z,6,Kayla De Souza,Kayla De Souza,association football player,Q734,Q1025401
+Q15060073,Q6581072,1991-05-22T00:00:00Z,6,Briana De Souza,Briana De Souza,association football player,Q734,Q1025401
+Q15497505,Q6581097,1933-04-18T00:00:00Z,4,Ian McDonald (Guyanese writer),Ian McDonald,Trinidad and Tobago writer,Q734,Q7400994
+Q15964496,Q6581072,1992-09-03T00:00:00Z,1,Melissa Caddle,Melissa Caddle,Guyanese sprinter,Q734,
+Q16018860,Q6581097,1941-01-31T00:00:00Z,4,Winston Murray (Guyanese politician),Winston Murray,Guyanese politician (1941-2010),Q734,
+Q16151974,Q6581097,1952-05-13T00:00:00Z,5,Sew Shivnarine,Sew Shivnarine,West Indian cricketer,Q734,Q4712467
+Q1618124,Q6581097,1923-12-21T00:00:00Z,5,Keevil Daly,Keevil Daly,Canadian weightlifter (1923–2011),Q734,Q918126
+Q1618124,Q6581097,1923-12-21T00:00:00Z,5,Keevil Daly,Keevil Daly,Canadian weightlifter (1923–2011),Q16,Q918126
+Q16194128,Q6581097,1961-02-12T00:00:00Z,2,Ray Joseph,Ray Joseph,Guyanese cricketer (born 1961),Q734,
+Q16194128,Q6581097,1961-02-12T00:00:00Z,2,Ray Joseph,Ray Joseph,Guyanese cricketer (born 1961),Q145,
+Q16203969,Q6581097,1985-04-03T00:00:00Z,3,Cleveland Forde,Cleveland Forde,Guyanese athletics competitor,Q734,Q10717
+Q16210709,Q6581097,1974-01-01T00:00:00Z,2,Abdul Hassan (lawyer),Abdul Karim Hassan,American lawyer,Q30,Q734
+Q16210709,Q6581097,1974-01-01T00:00:00Z,2,Abdul Hassan (lawyer),Abdul Karim Hassan,American lawyer,Q734,Q734
+Q16214083,Q6581097,1972-07-12T00:00:00Z,6,Neil McGarrell,Neil McGarrell,West Indian cricketer,Q734,Q10717
+Q16215450,Q6581097,1975-03-16T00:00:00Z,1,Natural Black,Natural Black,Guyana reggae singer,Q734,Q10717
+Q16223495,Q6581097,1984-04-11T00:00:00Z,4,Onan Thom,Onan Orlando Thom,Guyanese swimmer (* 1984),Q734,Q741134
+Q16227205,Q6581097,2000-01-01T00:00:00Z,2,Stephan Rose,Stephan Rose,Guyanese boxer,Q734,Q10717
+Q16232088,Q6581072,1988-12-14T00:00:00Z,3,Arti Cameron,Arti Cameron,Guyanese model,Q734,
+Q16442102,Q6581097,1988-11-11T00:00:00Z,3,Clive Atwell,Clive Atwell,boxer,Q734,
+Q16466537,Q6581072,1985-09-17T00:00:00Z,5,Tremayne Smartt,Tremayne Smartt,cricketer,Q734,Q734
+Q16466549,Q6581072,1985-06-11T00:00:00Z,4,Subrina Munroe,Subrina Munroe,cricketer,Q734,Q10717
+Q16466565,Q6581072,1992-10-14T00:00:00Z,9,Shemaine Campbelle,Shemaine Campbelle,West Indian cricketer,Q734,Q2506033
+Q16734423,Q6581097,1933-01-01T00:00:00Z,1,Bishnodat Persaud,Bishnodat Persaud,Caribbean academic,Q734,
+Q16873156,Q6581097,1973-02-17T00:00:00Z,1,Mohabir Anil Nandlall,Mohabir Anil Nandlall,Guyanese politician,Q734,
+Q17146203,Q6581097,1955-01-01T00:00:00Z,3,Lawrence Williams (banker),Lawrence Williams,Guyanese banker (1955-2014),Q734,
+Q17305702,Q6581097,1943-10-30T00:00:00Z,3,Philbert Blair,Philbert Blair,West Indian cricketer,Q734,Q10717
+Q17388545,Q6581097,1915-01-01T00:00:00Z,3,Laddie Lewis,Laddie Lewis,Guyanese cyclist,Q734,
+Q17580031,Q6581097,1993-06-13T00:00:00Z,2,Stephan James (athlete),Stephan James,Guyanese athlete,Q734,Q10717
+Q17580031,Q6581097,1993-06-23T00:00:00Z,2,Stephan James (athlete),Stephan James,Guyanese athlete,Q734,Q10717
+Q18097678,Q6581097,1949-07-10T00:00:00Z,4,Aubrey Bryce,Aubrey Bryce,cyclist (* 1949),Q734,Q734
+Q181329,Q6581097,1923-01-24T00:00:00Z,4,Brindley Benn,Brindley Benn,Guyanese politician (1923-2009),Q734,Q10717
+Q181618,Q6581097,1909-12-16T00:00:00Z,6,Edgar Mittelholzer,Edgar Mittelholzer,Guyanese writer,Q734,Q923811
+Q181618,Q6581097,1909-12-16T00:00:00Z,6,Edgar Mittelholzer,Edgar Mittelholzer,Guyanese writer,Q174193,Q923811
+Q181618,Q6581097,1909-12-16T00:00:00Z,6,Edgar Mittelholzer,Edgar Mittelholzer,Guyanese writer,Q145,Q923811
+Q181723,Q6581097,1952-09-21T00:00:00Z,6,James Gilkes,James Gilkes,Guyanese sprinter,Q734,Q918126
+Q18353338,Q6581097,1985-01-01T00:00:00Z,2,Elton Dharry,Elton Felix Dharry,Guyanese boxer,Q734,
+Q18637527,Q6581097,1982-05-13T00:00:00Z,1,Imran Khan (Guyanese cricketer),Imran Khan,Guyanese cricketer born 1982,Q734,
+Q18638093,Q6581072,1996-07-22T00:00:00Z,4,Brenessa Thompson,Brenessa Thompson,Guyanese sprinter,Q734,Q60
+Q18645742,Q6581097,1950-08-31T00:00:00Z,2,Courtney Gonsalves,Courtney Gonsalves,Guyanese cricketer (1950-2013),Q734,Q2363129
+Q18645842,Q6581097,1926-06-03T00:00:00Z,1,Kayman Sankar,Kayman Sankar,Guyanese cricketer (1926-2014),Q734,
+Q18684021,Q6581097,1956-03-07T00:00:00Z,2,Lennox Alves,Lennox Alves,Guyanese cricketer,Q734,Q2363129
+Q18685784,Q6581097,1973-10-30T00:00:00Z,4,Wayne Dover,Wayne Dover,Guyanese football player and manager,Q734,Q734
+Q18687875,Q6581097,1948-08-04T00:00:00Z,3,Neville Hunte,Neville Hunte,cyclist (* 1948),Q734,
+Q18720545,Q6581097,1973-12-18T00:00:00Z,3,Ian Roberts (educator),Ian Roberts,Guyanese athletics competitor (* 1973),Q734,
+Q19561257,Q6581072,1985-01-01T00:00:00Z,4,Claire Fraser (cyclist),Claire Fraser,cyclist,Q734,Q734
+Q19664718,Q6581072,1923-10-13T00:00:00Z,2,Rajkumari Singh,Rajkumari Singh,"Guyanese writer, activist",Q734,
+Q1977501,Q6581097,1919-06-05T00:00:00Z,3,Andrew Morrison (Jesuit),Andrew Morrison,Guyanese Catholic priest,Q734,Q10717
+Q1989535,Q6581097,1979-07-05T00:00:00Z,12,Nigel Codrington,Nigel Codrington,footballer,Q734,Q10717
+Q19958286,Q6581072,1956-01-01T00:00:00Z,2,Meiling Jin,Meiling Jin,Guyanese author,Q734,Q734
+Q1999599,Q6581097,1964-04-09T00:00:00Z,3,Norman Madhoo,Norman Madhoo,Guyanese darts player,Q734,Q10717
+Q20029867,Q6581097,1962-01-29T00:00:00Z,5,Colin Moore,Colin Moore,Guyanese boxer (* 1962),Q734,Q734
+Q20065161,Q6581097,1989-08-08T00:00:00Z,5,Rajendra Chandrika,Rajindra Chandrika,Guyanese cricketer,Q734,Q5380262
+Q2021467,Q6581097,1983-09-10T00:00:00Z,12,Shawn James (basketball),Shawn James,Guyanese-American basketball player (born 1983),Q734,Q18419
+Q2021467,Q6581097,1983-09-10T00:00:00Z,12,Shawn James (basketball),Shawn James,Guyanese-American basketball player (born 1983),Q30,Q18419
+Q20640921,Q6581097,1952-06-03T00:00:00Z,3,Errol McLean,Errol McLean,Guyanese bicycle racer,Q734,
+Q20670784,Q6581097,1957-11-14T00:00:00Z,5,Aubrey Richmond,Aubrey Richmond,Guyanese bicycle racer (* 1957),Q734,Q866074
+Q20714701,Q6581097,1957-05-11T00:00:00Z,5,James Joseph (cyclist),James Joseph,cyclist,Q734,
+Q20736516,Q6581097,1975-03-17T00:00:00Z,2,Parasram Singh,Parasram Singh,Sint Maarten cricketer,Q29999,Q10717
+Q20736516,Q6581097,1975-03-17T00:00:00Z,2,Parasram Singh,Parasram Singh,Sint Maarten cricketer,Q734,Q10717
+Q20902042,Q6581072,1997-03-12T00:00:00Z,4,Andrea Foster,Andrea Foster,Guyanese female middle-distance runner,Q734,
+Q20970462,Q6581097,1955-08-12T00:00:00Z,3,Randolph Toussaint,Randolph Toussaint,Guyanese bicycle racer (* 1955),Q734,
+Q20983252,Q6581072,1951-01-01T00:00:00Z,4,Indranie Chandarpal,Indranie Chandarpal,Guyanese politician,Q734,Q110556473
+Q20984519,Q6581097,1925-01-27T00:00:00Z,3,Sase Narain,Sase Narain,Guyanese politician,Q734,
+Q21005672,Q6581097,1985-04-14T00:00:00Z,4,Sauid Drepaul,Sauid Drepaul,Surinamese cricketer,Q734,Q10717
+Q21009744,Q6581097,1910-05-11T00:00:00Z,1,Rahman Baccus Gajraj,Rahman Baccus Gajraj,Guyanese lawyer,Q734,Q10717
+Q2107443,Q6581097,1994-07-27T00:00:00Z,6,Raul Lall,Raul Lall,Guyanese judoka (* 1994),Q734,Q10717
+Q21181161,Q6581072,1993-07-22T00:00:00Z,4,Olivia Gonsalves,Olivia Gonsalves,Guyanese association football player,Q734,Q172
+Q21181211,Q6581072,1984-12-05T00:00:00Z,5,Alison Heydorn,Alison Heydorn,Guyanese association football player,Q734,Q734
+Q212760,Q6581097,1964-01-23T00:00:00Z,40,Bharrat Jagdeo,Bharrat Jagdeo,President and Prime Minister of Guyana,Q668,Q7893831
+Q212760,Q6581097,1964-01-23T00:00:00Z,40,Bharrat Jagdeo,Bharrat Jagdeo,President and Prime Minister of Guyana,Q734,Q7893831
+Q21597720,Q6581072,1943-04-10T00:00:00Z,1,Shana Yardan,Shana Yardan,poet,Q734,Q866074
+Q21622127,Q6581097,1995-03-29T00:00:00Z,8,Gudakesh Motie,Gudakesh Motie,Guyanese cricketer,Q734,Q10717
+Q21808632,Q6581097,1959-05-19T00:00:00Z,3,Earl Haley,Earl Haley,Guyanese athlete (* 1959),Q734,
+Q21872463,Q6581097,1983-05-09T00:00:00Z,2,Derwin Christian,Derwin Christian,cricketer,Q734,
+Q21872841,Q6581097,1986-03-07T00:00:00Z,2,Paul Wintz,Paul Wintz,cricketer,Q734,
+Q21936473,Q6581072,1957-06-16T00:00:00Z,6,June Griffith,June Griffith,Guyanese sprinter and long jumper,Q734,Q10717
+Q22003339,Q6581097,1992-09-17T00:00:00Z,4,Ronsford Beaton,Ronsford Beaton,Guyanese cricketer,Q734,Q13353
+Q22003446,Q6581097,1990-12-11T00:00:00Z,4,Anthony Bramble,Anthony Bramble,cricketer,Q734,Q734
+Q22004668,Q6581097,1991-04-18T00:00:00Z,3,Trevon Griffith,Trevon Griffith,cricketer,Q734,Q766
+Q22005592,Q6581097,1988-09-13T00:00:00Z,3,Steven Jacobs (cricketer),Steven Jacobs,cricketer,Q734,Q10717
+Q22007353,Q6581097,1998-02-21T00:00:00Z,8,Keemo Paul,Keemo Paul,cricketer,Q734,Q734
+Q2226539,Q6581097,1955-06-13T00:00:00Z,2,Satyadeow Sawh,Satyadeow Sawh,Guyanese politician (1955–2006),Q734,Q734
+Q22276863,Q6581097,1935-03-13T00:00:00Z,1,Arif Ali (publisher),Arif Ali,Guyanese journalist,Q734,
+Q22276863,Q6581097,1935-12-13T00:00:00Z,1,Arif Ali (publisher),Arif Ali,Guyanese journalist,Q734,
+Q22277122,Q6581097,1993-06-28T00:00:00Z,1,Kevon Boodie,Kevon Boodie,cricketer,Q734,
+Q22278448,Q6581097,1991-11-25T00:00:00Z,3,Keon Joseph,Keon Joseph,Guyanese cricketer,Q734,Q734
+Q22278585,Q6581072,1967-01-01T00:00:00Z,3,Nikki Kahn,Nikki Kahn,Pulitzer Prize winning American documentary photographer,Q734,Q10717
+Q22279248,Q6581097,1985-10-10T00:00:00Z,3,Zaheer Mohamed,Zaheer Mohamed,cricketer,Q734,Q10717
+Q22279884,Q6581072,1989-01-01T00:00:00Z,1,Shauna Ramdyhan,Shauna Ramdehan,Guyanese beauty pageant titleholder (born 1989),Q734,Q10717
+Q22279891,Q6581097,1946-08-11T00:00:00Z,2,Ralph Ramkarran,Ralph Ramkarran,Guyanese politician and lawyer,Q734,Q918126
+Q22279892,Q6581097,1941-07-25T00:00:00Z,2,Randolph Ramnarace,Randolph Ramnarace,cricketer,Q734,Q1051779
+Q22957900,Q6581072,1932-01-01T00:00:00Z,4,Doreen Chung,Doreen Chung,Guyanese politician (1932-2009),Q734,Q15889044
+Q22958658,Q6581097,1954-08-24T00:00:00Z,2,Calvin Burnett (Guyanese cricketer),Calvin Burnett,Guyanese cricketer,Q734,Q1018369
+Q2300762,Q6581097,1991-03-06T00:00:00Z,23,Matthew Briggs,Matthew Briggs,Guyanese association football player,Q734,Q84
+Q2300762,Q6581097,1991-03-06T00:00:00Z,23,Matthew Briggs,Matthew Briggs,Guyanese association football player,Q145,Q84
+Q23542720,Q6581097,1995-08-28T00:00:00Z,8,Marcel Barrington,Marcel Barrington,Footballer (born 1995),Q145,Q84
+Q23542720,Q6581097,1995-08-28T00:00:00Z,8,Marcel Barrington,Marcel Barrington,Footballer (born 1995),Q734,Q84
+Q236434,Q6581072,1952-12-25T00:00:00Z,33,CCH Pounder,,Guyanese actress (born 1952),Q734,Q10717
+Q23664630,Q6581097,1989-01-12T00:00:00Z,5,Vishaul Singh,Vishaul Singh,Guyanese cricketer,Q734,Q10717
+Q23682320,Q6581097,1945-03-14T00:00:00Z,3,Charles Amos,Charles Amos,Guyanese boxer (* 1945),Q734,Q734
+Q23761769,Q6581097,1994-11-26T00:00:00Z,8,Romario Shepherd,Romario Shepherd,Guyanese cricketer,Q734,Q10717
+Q23772382,Q6581097,1943-02-19T00:00:00Z,2,Lloyd Cornelius,Lloyd Cornelius,cricketer,Q734,Q563067
+Q23884848,Q6581072,1975-06-05T00:00:00Z,4,Alisha Natasha Fortune,Alisha Natasha Fortune,Guyanese female sprinter,Q734,
+Q239709,Q6581072,1920-10-20T00:00:00Z,39,Janet Jagan,Janet Jagan,"president of Guyana, prime minister of Guyana, nurse (1920-2009)",Q30,Q1297
+Q239709,Q6581072,1920-10-20T00:00:00Z,39,Janet Jagan,Janet Jagan,"president of Guyana, prime minister of Guyana, nurse (1920-2009)",Q734,Q1297
+Q24053807,Q6581072,1986-09-26T00:00:00Z,3,June Ogle,June Ogle,West Indian cricketer,Q734,Q10717
+Q24258801,Q6581097,1983-12-11T00:00:00Z,3,Devon Millington,Devon Millington,Guyanese association football player,Q734,Q734
+Q2437145,Q6581097,1984-05-07T00:00:00Z,11,Chris Nurse,Chris Nurse,English footballer (born 1984),Q734,Q84
+Q2437145,Q6581097,1984-05-07T00:00:00Z,11,Chris Nurse,Chris Nurse,English footballer (born 1984),Q145,Q84
+Q2455160,Q6581097,1972-01-13T00:00:00Z,4,Roger Khan,Roger Khan,Drug Lord,Q734,Q734
+Q25344461,Q6581097,1967-08-31T00:00:00Z,2,Byron James (cyclist),Byron James,Guyanese cyclist (* 1967),Q734,
+Q25706615,Q6581097,1956-03-14T00:00:00Z,2,Colin Abrams,Colin Winston Abrams,Guyanese/American Olympic Sprint Cyclist (* 1956),Q734,
+Q2586563,Q6581097,1982-03-27T00:00:00Z,6,Shawn Beveney,Shawn Beveney,Guyanese footballer,Q734,Q10717
+Q2622560,Q6581097,1941-07-16T00:00:00Z,3,Peter Minshall,Peter Minshall,Trinidadian artist,Q734,Q10717
+Q26263157,Q6581072,1997-03-20T00:00:00Z,8,Jamila Sanmoogan,Jamila Sanmoogan,Guyanese swimmer (* 1997),Q734,Q10717
+Q26459658,Q6581097,1997-08-30T00:00:00Z,9,Hannibal Gaskin,Hannibal Gaskin,Guyanese swimmer,Q734,Q10717
+Q2650816,Q6581097,1919-11-08T00:00:00Z,5,Cy Grant,Cy Grant,"Guyanese actor, musician and writer (1919–2010)",Q734,Q831083
+Q26790028,Q6581072,1997-04-03T00:00:00Z,9,Aliyah Abrams,Aliyah Abrams,Guyanese sprinter,Q734,Q60
+Q27049013,Q6581072,1990-05-08T00:00:00Z,3,Soyini Fraser,Soyini Fraser,Guyanese beauty pageant contestant,Q734,Q10717
+Q27489535,Q6581072,1993-10-31T00:00:00Z,48,Letitia Wright,Letitia Wright,Guyanese actress (born 1993),Q734,Q10717
+Q27489535,Q6581072,1993-10-31T00:00:00Z,48,Letitia Wright,Letitia Wright,Guyanese actress (born 1993),Q145,Q10717
+Q27661865,Q6581072,1936-04-27T00:00:00Z,2,Leila Locke,Leila Locke,artist,Q734,Q21
+Q27813775,Q6581097,1994-05-22T00:00:00Z,4,Raynauth Jeffrey,Raynauth Jeffrey,cyclist,Q734,Q10717
+Q27889029,Q6581097,1978-05-31T00:00:00Z,2,Andrew Gonsalves,Andrew Gonsalves,cricketer,Q734,Q2363129
+Q27889100,Q6581097,1977-01-07T00:00:00Z,2,Vishal Nagamootoo,Vishal Nagamootoo,cricketer,Q734,
+Q27899151,Q6581097,1980-09-03T00:00:00Z,2,Krishna Arjune,Krishna Arjune,cricketer,Q734,Q7893831
+Q27899197,Q6581097,1981-12-22T00:00:00Z,2,Rayon Thomas,Rayon Thomas,cricketer,Q734,Q2363129
+Q27899235,Q6581097,1981-10-24T00:00:00Z,2,Vishal Arjune,Vishal Arjune,Guyanese cricketer for the West Indies,Q734,Q7893831
+Q27916209,Q6581097,1991-07-09T00:00:00Z,2,Eon Hooper,Eon Hooper,cricketer,Q734,
+Q27943400,Q6581072,1995-07-01T00:00:00Z,2,Bria Williams,Bria Williams,Guyanese footballer,Q734,
+Q27943413,Q6581072,1997-09-10T00:00:00Z,2,Julia Gonsalves,Julia Gonsalves,Guyanese footballer,Q734,Q16
+Q27943414,Q6581072,1996-07-27T00:00:00Z,2,Kailey Leila,Kailey Leila,Guyanese footballer,Q734,Q16
+Q27943417,Q6581072,1992-04-14T00:00:00Z,2,Leah-Marie Ramalho,Leah-Marie Ramalho,Guyanese footballer,Q734,Q16
+Q27943419,Q6581072,1993-09-14T00:00:00Z,1,Otesha Charles,Otesha Charles,Guyanese footballer,Q734,
+Q28055247,Q6581072,1956-06-20T00:00:00Z,3,Beverley Drake,Beverley Drake,aviator,Q734,Q10717
+Q28062429,Q6581072,1950-12-14T00:00:00Z,3,Cheryl Pickering-Moore,Cheryl Pickering-Moore,pilot,Q734,Q10717
+Q28342859,Q6581072,1925-04-12T00:00:00Z,7,Elsa Goveia,Elsa Goveia,Guyanese historian,Q918126,Q918126
+Q28342859,Q6581072,1925-04-12T00:00:00Z,7,Elsa Goveia,Elsa Goveia,Guyanese historian,Q734,Q918126
+Q2836428,Q6581072,1978-03-09T00:00:00Z,9,Aliann Pompey,Aliann Pompey,Guyanese sprinter,Q734,Q10717
+Q2846659,Q6581097,1970-12-14T00:00:00Z,10,Andrew Lewis (boxer),Andrew Lewis,Guyanese boxer,Q734,Q10717
+Q28530123,Q6581097,1999-09-18T00:00:00Z,4,Bhaskar Yadram,Bhaskar Yadram,West Indian cricketer,Q734,Q734
+Q2870624,Q6581097,1990-10-11T00:00:00Z,13,Aubrey David,Aubrey David,Trinidadian footballer,Q754,Q10717
+Q2870624,Q6581097,1990-10-11T00:00:00Z,13,Aubrey David,Aubrey David,Trinidadian footballer,Q734,Q10717
+Q28864355,Q6581072,1958-01-19T00:00:00Z,1,Karen de Souza,Karen de Souza,Guyanese activist,Q734,Q10717
+Q28870684,Q6581097,1950-09-07T00:00:00Z,3,Lonsdale Skinner,Lonsdale Skinner,cricketer,Q734,Q7200790
+Q28871724,Q6581097,1921-01-01T00:00:00Z,2,Philip Moore (artist),Philip Moore,Guyanese painter (1921–2012),Q734,Q918126
+Q28955449,Q6581072,1913-11-02T00:00:00Z,5,Jane Phillips-Gay,Jane Phillips-Gay,afro-Guyanese trade unionist and ordained minister,Q734,Q10717
+Q28955449,Q6581072,1913-11-02T00:00:00Z,5,Jane Phillips-Gay,Jane Phillips-Gay,afro-Guyanese trade unionist and ordained minister,Q918126,Q10717
+Q29018301,Q6581097,1992-11-11T00:00:00Z,3,Clinton Pestano,Clinton Pestano,cricketer,Q734,Q1051779
+Q29169133,Q6581097,1994-12-14T00:00:00Z,7,Jordan Dover,Jordan Dover,Canadian-born Guyanese soccer player,Q734,Q386567
+Q29169133,Q6581097,1994-12-14T00:00:00Z,7,Jordan Dover,Jordan Dover,Canadian-born Guyanese soccer player,Q16,Q386567
+Q29420893,Q6581097,1998-08-15T00:00:00Z,7,Sherfane Rutherford,Sherfane Rutherford,cricketer,Q734,Q5379107
+Q29533182,Q6581097,1998-02-05T00:00:00Z,2,Akenie Adams,Akenie Adams,Guyanese cricketer,Q734,Q2363129
+Q29562479,Q6581097,1993-09-03T00:00:00Z,5,Chandrapaul Hemraj,Chandrapaul Hemraj,cricketer,Q734,Q734
+Q29563086,Q6581097,1948-03-16T00:00:00Z,2,Robert Adonis,Robert Adonis,British Guianese cricketer,Q734,Q831083
+Q29563087,Q6581097,1950-01-26T00:00:00Z,2,Vincent Adams,Vincent Adams,Guyanese cricketer and engineer,Q734,Q1185346
+Q2978877,Q6581097,1950-03-16T00:00:00Z,4,Clement Rohee,Clement Rohee,Guyanese politician,Q734,
+Q30303200,Q6581097,1934-05-13T00:00:00Z,6,Oliver Hunter,Oliver Hunter,Guyanese sprinter (1934-2010),Q734,
+Q30312341,Q6581072,1939-03-30T00:00:00Z,6,Claudette Masdammer,Claudette Masdammer,Guyanese sprinter (1939-2013),Q734,
+Q30316165,Q6581097,1924-01-01T00:00:00Z,5,Charles Thompson (athlete),Charles Thompson,Guyanese sprinter (* 1924),Q734,
+Q3048102,Q6581097,1935-12-26T00:00:00Z,9,Rohan Kanhai,Rohan Kanhai,West Indian cricketer,Q734,Q2506033
+Q3161626,Q6581097,1920-09-24T00:00:00Z,5,Jan Carew,Jan Carew,Guyanese writer and professor (1920–2012),Q734,Q918126
+Q3161626,Q6581097,1925-09-24T00:00:00Z,5,Jan Carew,Jan Carew,Guyanese writer and professor (1920–2012),Q734,Q918126
+Q317721,Q6581097,1978-03-22T00:00:00Z,26,Ezekiel Jackson,Ezekiel Jackson,Guyanese professional wrestler and bodybuilder,Q734,Q741134
+Q317721,Q6581097,1978-04-22T00:00:00Z,26,Ezekiel Jackson,Ezekiel Jackson,Guyanese professional wrestler and bodybuilder,Q734,Q741134
+Q327918,Q6581097,1936-01-23T00:00:00Z,11,Rudy Insanally,Rudy Insanally,Guyananese diplomat (1936–2023),Q734,Q10717
+Q327918,Q6581097,1936-06-23T00:00:00Z,11,Rudy Insanally,Rudy Insanally,Guyananese diplomat (1936–2023),Q734,Q10717
+Q3291210,Q6581072,1976-02-22T00:00:00Z,9,Marian Burnett,Marian Burnett,Guyanese middle-distance runner (* 1976),Q734,Q741134
+Q34070024,Q6581097,1974-10-28T00:00:00Z,4,Lancelot Gittens,Lancelot Gittens,Guyanese athlete (* 1974),Q734,Q734
+Q34111325,Q6581097,1970-09-15T00:00:00Z,4,Dillon Carew,Dillon Carew,Guyanese boxer (* 1970),Q734,Q10717
+Q3418831,Q6581097,1978-02-02T00:00:00Z,5,Randolph Jerome,Randolph Jerome,Guyanese footballer,Q734,Q10717
+Q3433056,Q6581097,1901-03-03T00:00:00Z,14,Walter Spence,Walter Spence,"Canadian and Guyanan swimmer, Olympic bronze medallist (1901–1958)",Q30,Q741134
+Q3433056,Q6581097,1901-03-03T00:00:00Z,14,Walter Spence,Walter Spence,"Canadian and Guyanan swimmer, Olympic bronze medallist (1901–1958)",Q16,Q741134
+Q3433056,Q6581097,1901-03-03T00:00:00Z,14,Walter Spence,Walter Spence,"Canadian and Guyanan swimmer, Olympic bronze medallist (1901–1958)",Q734,Q741134
+Q3476700,Q6581097,1985-01-26T00:00:00Z,5,Sean Cameron (footballer),Sean Cameron,American soccer player,Q30,Q18419
+Q3476700,Q6581097,1985-01-26T00:00:00Z,5,Sean Cameron (footballer),Sean Cameron,American soccer player,Q734,Q18419
+Q34989206,Q6581072,1960-04-02T00:00:00Z,2,Marilyn Dewarder,Marilyn Dewarder,Guyanese sprinter (* 1960),Q734,
+Q3561559,Q6581097,1978-06-17T00:00:00Z,5,Vivian Harris,Vivian Harris,Guyanese boxer,Q734,Q10717
+Q3565828,Q6581097,1984-09-01T00:00:00Z,13,"Walter Moore (footballer, born 1984)",Walter Moore,Guyanese footballer,Q734,Q10717
+Q3701757,Q6581097,1993-11-01T00:00:00Z,6,"Daniel Wilson (footballer, born 1993)",Daniel Wilson,Guyanese footballer,Q734,Q10717
+Q3808285,Q6581072,1942-09-21T00:00:00Z,6,Jill Gomez,Jill Gomez,British opera singer,Q734,Q923811
+Q3809534,Q6581097,1983-12-29T00:00:00Z,5,J. P. Rodrigues,J. P. Rodrigues,Guyanese footballer,Q30,Q49255
+Q3809534,Q6581097,1983-12-29T00:00:00Z,5,J. P. Rodrigues,J. P. Rodrigues,Guyanese footballer,Q734,Q49255
+Q381201,Q6581097,1918-01-10T00:00:00Z,34,Arthur Chung,Arthur Chung,"First President of Guyana, Senior Magistrate, Sworn Land Surveyor (1918–2008)",Q734,Q15889044
+Q38201870,Q6581072,1930-11-26T00:00:00Z,9,Viola Burnham,Viola Burnham,Guyanese politician (1930-2003),Q734,Q923811
+Q3830908,Q6581097,1978-08-03T00:00:00Z,4,Leslie Holligan,Leslie Holligan,Guyanese footballer (1978-2007),Q734,Q10717
+Q3874292,Q6581097,1982-11-23T00:00:00Z,13,Neil Danns,Neil Danns,Guyanese footballer,Q145,Q24826
+Q3874292,Q6581097,1982-11-23T00:00:00Z,13,Neil Danns,Neil Danns,Guyanese footballer,Q734,Q24826
+Q39073418,Q6581097,1973-12-10T00:00:00Z,4,Richard Jones (sprinter),Richard Jones,Guyanese sprinter (* 1973),Q734,
+Q39133530,Q6581097,1968-03-06T00:00:00Z,4,Andrew Harry,Andrew Harry,Guyanese sprinter (* 1968),Q734,
+Q3981663,Q6581097,1990-03-27T00:00:00Z,7,Taylor Benjamin,Taylor Benjamin,footballer,Q734,Q1020159
+Q399890,Q6581097,1948-03-05T00:00:00Z,31,Eddy Grant,Eddy Grant,British singer,Q145,Q7200790
+Q399890,Q6581097,1948-03-05T00:00:00Z,31,Eddy Grant,Eddy Grant,British singer,Q734,Q7200790
+Q4069258,Q6581097,1970-12-08T00:00:00Z,4,Howard Eastman,Howard Eastman,Guyanese-British boxer,Q734,Q923811
+Q41020689,Q6581097,1962-06-17T00:00:00Z,2,Curt Hampstead,Curt Hampstead,Guyanese athlete (* 1962),Q734,
+Q41447994,Q6581097,1976-01-30T00:00:00Z,4,Paul Tucker (athlete),Paul Tucker,Guyanese athletics competitor (* 1976),Q734,
+Q422830,Q6581097,1957-10-04T00:00:00Z,17,Michael Anthony (boxer),Michael Anthony,Guyana boxer,Q734,Q10717
+Q42302951,Q6581097,1968-11-14T00:00:00Z,2,Desmond Hector,Desmond Hector,Guyanese athlete (* 1968),Q734,
+Q42820931,Q6581072,1916-05-10T00:00:00Z,2,Winifred Gaskin,Winifred Gaskin,"Guyanese educator, journalist and politician (1916-1977)",Q734,Q5003252
+Q42820931,Q6581072,1916-05-10T00:00:00Z,2,Winifred Gaskin,Winifred Gaskin,"Guyanese educator, journalist and politician (1916-1977)",Q918126,Q5003252
+Q43038262,Q6581072,1946-08-13T00:00:00Z,3,Umblita Van Sluytman,Umblita Van Sluytman,Guyanese beauty queen (1946–2004),Q734,Q734
+Q43370595,Q6581072,1959-04-14T00:00:00Z,3,Deborah Backer,Deborah Backer,politician,Q734,
+Q43378158,Q6581072,1929-11-21T00:00:00Z,5,Doris Rogers,Doris Rogers,Guyanese artist,Q734,
+Q43388321,Q6581072,1947-01-01T00:00:00Z,5,Sandra Granger,Sandra Granger,first lady of Guyana (* 1947),Q734,Q10717
+Q4353100,Q6581097,1980-07-13T00:00:00Z,6,Richard Reynolds (footballer),Richard Reynolds,Guyana footballer,Q734,Q10717
+Q4647974,Q6581097,1914-01-12T00:00:00Z,4,A. J. Seymour,A. J. Seymour,"Guyanese, poet, essayist, memoirist, and founding editor of the literary journal Kyk-Over-Al",Q734,Q10717
+Q4665455,Q6581097,1952-01-01T00:00:00Z,3,Abdul Kadir (politician),Abdul Kadir,Guyanese politician,Q734,
+Q46778545,Q6581072,1987-02-11T00:00:00Z,3,Samantha Ramautar,Samantha Ramautar,cricketer,Q734,Q741134
+Q46778545,Q6581072,1987-02-11T00:00:00Z,3,Samantha Ramautar,Samantha Ramautar,cricketer,Q30,Q741134
+Q46844785,Q6581072,1974-03-13T00:00:00Z,3,Nicola Martial,Nicola Martial,Guyanese athlete (* 1974),Q734,
+Q46844785,Q6581072,1974-05-13T00:00:00Z,3,Nicola Martial,Nicola Martial,Guyanese athlete (* 1974),Q734,
+Q4690426,Q6581097,1977-07-09T00:00:00Z,3,Aftab Shamshudeen,Aftab Shamshudeen,Canadian cricketer,Q734,Q923811
+Q47012479,Q6581072,1974-05-31T00:00:00Z,2,Najuma Fletcher,Najuma Fletcher,Guyanese athlete (* 1974),Q734,
+Q47074517,Q6581097,1997-07-01T00:00:00Z,3,Akshaya Persaud,Akshaya Persaud,Guyanese cricketer,Q734,Q734
+Q47528442,Q6581072,1986-01-17T00:00:00Z,3,Erva Giddings,Erva Giddings,cricketer,Q734,Q675322
+Q4754846,Q6581097,1975-01-05T00:00:00Z,3,Andre Percival,Andre Percival,West Indian cricketer,Q734,Q923811
+Q4754855,Q6581097,1973-11-04T00:00:00Z,2,Andre Purlette,Andre Purlette,boxer,Q734,Q10717
+Q4756861,Q6581097,1984-08-02T00:00:00Z,3,Andrew Durant (footballer),Andrew Durant,Footballer from Guyana,Q734,Q10717
+Q4757446,Q6581097,1983-01-27T00:00:00Z,3,Andrew Jackman (cricketer),Andrew Jackman,West Indian cricketer,Q734,Q10717
+Q4808319,Q6581097,1985-08-01T00:00:00Z,5,Assad Fudadin,Assad Fudadin,cricketer,Q734,Q3233991
+Q48610312,Q6581097,1994-10-23T00:00:00Z,1,Ricardo Adams,Ricardo Adams,Guyanese cricketer,Q734,
+Q4863652,Q6581097,1967-09-16T00:00:00Z,5,Barrington Browne,Barrington Browne,cricketer,Q734,Q923811
+Q4867129,Q6581097,1933-09-03T00:00:00Z,5,Basil Butcher,Basil Butcher,West Indian cricketer (1933-2019),Q734,Q2506033
+Q4892805,Q6581072,1946-01-01T00:00:00Z,1,Bernadette Persaud,Bernadette Persaud,Guyanese painter,Q734,
+Q48955173,Q6581097,1959-03-16T00:00:00Z,4,Bheri Ramsaran,Bheri Sygmond Ramsaran,politician,Q734,
+Q48955373,Q6581072,1953-01-01T00:00:00Z,4,Merlin Udho,Merlin Udho,Guyanese diplomat,Q734,
+Q4898745,Q6581097,1991-05-05T00:00:00Z,4,Colin Edwards (footballer),Colin Edwards,Guyanese footballer (1991-2013),Q734,Q10717
+Q4907956,Q6581097,1991-04-22T00:00:00Z,9,Niall Roberts,Niall Roberts,Guyanese swimmer (* 1991),Q734,Q10717
+Q49086838,Q6581072,1939-03-02T00:00:00Z,3,Désirée Bernard,Désirée Bernard,Guyanese lawyer and jurist,Q734,Q10717
+Q4955808,Q6581072,1959-11-21T00:00:00Z,7,Jennifer Innis,Jennifer Innis,American long jumper and sprinter of Guyanese descent,Q734,
+Q4955808,Q6581072,1959-11-21T00:00:00Z,7,Jennifer Innis,Jennifer Innis,American long jumper and sprinter of Guyanese descent,Q30,
+Q4956771,Q6581097,1987-12-13T00:00:00Z,6,Brandon Bess,Brandon Bess,West Indian cricketer,Q734,Q1322106
+Q4960628,Q6581072,1942-09-17T00:00:00Z,8,Brenda Archer,Brenda Archer,Guyanese high jumper (* 1942),Q918126,Q10717
+Q4960628,Q6581072,1942-09-17T00:00:00Z,8,Brenda Archer,Brenda Archer,Guyanese high jumper (* 1942),Q734,Q10717
+Q4963544,Q6581072,1918-12-26T00:00:00Z,4,Olga Lopes-Seale,Olga Lopes-Seale,Guyanese radio personality and activist,Q734,Q918126
+Q4968497,Q6581097,1988-08-19T00:00:00Z,3,Brion Baker,Brion Baker,football player,Q734,Q734
+Q4969324,Q6581072,1996-11-17T00:00:00Z,4,Britany van Lange,Britany van Lange,Guyanese swimmer (* 1996),Q734,Q10717
+Q5006728,Q6581097,1952-04-01T00:00:00Z,2,C. N. Sharma,C. N. Sharma,Guyanese politician and businessman,Q734,
+Q5031554,Q6581072,1990-01-01T00:00:00Z,3,Candace Charles,Candace Charles,Guyanese beauty pageant contestant,Q734,
+Q5040337,Q6581097,1966-12-15T00:00:00Z,7,Carl Hooper,Carl Hooper,West Indian cricketer,Q734,Q10717
+Q5052882,Q6581072,1960-01-01T00:00:00Z,2,Catherine Pollard,Catherine Pollard,Guyanese diplomat,Q734,Q10717
+Q5081708,Q6581097,1973-03-24T00:00:00Z,7,Charles Pollard (footballer),Charles Pollard,Guyanese footballer,Q734,Q10717
+Q5109033,Q6581072,1985-01-01T00:00:00Z,1,Christa Simmons,Christa Simmons,Guyanese model,Q734,Q10717
+Q5111913,Q6581097,1987-01-06T00:00:00Z,5,Christopher Barnwell,Christopher Barnwell,West Indian cricketer,Q734,Q734
+Q5130282,Q6581097,1962-02-10T00:00:00Z,9,Clayton Lambert,Clayton Lambert,West Indian cricketer,Q30,Q675322
+Q5130282,Q6581097,1962-02-10T00:00:00Z,9,Clayton Lambert,Clayton Lambert,West Indian cricketer,Q734,Q675322
+Q5136884,Q6581097,1957-07-08T00:00:00Z,6,Clyde Butts,Clyde Butts,West Indian cricketer (1957–2023),Q734,Q866074
+Q5145022,Q6581097,1953-03-15T00:00:00Z,6,Colin Croft,Colin Croft,West Indian cricketer,Q734,
+Q5145600,Q6581097,1973-09-28T00:00:00Z,5,Colin Stuart (cricketer),Colin Stuart,West Indian cricketer,Q734,Q10717
+Q5210357,Q6581097,1936-01-01T00:00:00Z,2,Dale Bisnauth,Dale Bisnauth,Guyanese politician,Q734,
+Q5230470,Q6581097,1945-07-15T00:00:00Z,38,David A. Granger,David A. Granger,Guyanese politician,Q734,Q10717
+Q5266855,Q6581097,1985-11-06T00:00:00Z,9,Devendra Bishoo,Devendra Bishoo,West Indian cricketer,Q734,Q923811
+Q5294715,Q6581097,1930-09-17T00:00:00Z,5,Donald Locke,Donald Locke,Guyanese artist (1930-2010),Q734,Q7616028
+Q534727,Q6581097,1972-07-19T00:00:00Z,37,David Lammy,David Lammy,British politician (born 1972),Q145,Q7996907
+Q534727,Q6581097,1972-07-19T00:00:00Z,37,David Lammy,David Lammy,British politician (born 1972),Q734,Q7996907
+Q5370924,Q6581097,1928-08-22T00:00:00Z,1,Emerson Samuels,Emerson Samuels,Guyanese artist (1928-2003),Q734,Q6956700
+Q53848199,Q6581097,1949-03-03T00:00:00Z,5,Carl Barrington Greenidge,Carl Barrington Greenidge,politician,Q734,Q923811
+Q5402281,Q6581097,1981-12-17T00:00:00Z,3,Esuan Crandon,Esuan Crandon,West Indian cricketer,Q734,Q3233991
+Q5443634,Q6581097,1929-05-20T00:00:00Z,2,Fenton Ramsahoye,Fenton Ramsahoye,Guyanese lawyer,Q734,Q918126
+Q5490474,Q6581097,1950-05-22T00:00:00Z,2,Frank Woon-A-Tai,Frank Woon-a-tai,Guyanese martial artist,Q734,Q734
+Q5496751,Q6581097,1950-12-30T00:00:00Z,1,Freddie Kissoon,Freddie Kissoon,Guyanese journalist,Q734,
+Q5517553,Q6581097,1987-10-03T00:00:00Z,6,Gajanand Singh,Gajanand Singh,West Indian cricketer,Q734,
+Q5544562,Q6581097,1947-04-23T00:00:00Z,6,George Simon (artist),George Simon,Guyanese Lokono artist and archaeologist (1947-2020),Q734,Q7587692
+Q5562145,Q6581072,1983-06-19T00:00:00Z,8,Nicolette Fernandes,Nicolette Fernandes,Guyanese squash player,Q734,Q172
+Q56043434,Q6581072,1991-06-09T00:00:00Z,2,Jenea McCammon,Jenea McCammon,Guyanese hurdler,Q734,
+Q5657809,Q6581097,1944-01-01T00:00:00Z,2,Harischandra Khemraj,Harischandra Khemraj,Guyanese writer (* 1944),Q734,Q734
+Q569028,Q6581097,1979-09-11T00:00:00Z,15,Leon Cort,Leon Cort,English-Guyanese footballer (born 1979),Q734,Q730706
+Q569028,Q6581097,1979-09-11T00:00:00Z,15,Leon Cort,Leon Cort,English-Guyanese footballer (born 1979),Q145,Q730706
+Q57422,Q6581097,1950-10-22T00:00:00Z,31,Donald Ramotar,Donald Ramotar,"President of Guyana, economist",Q734,Q918126
+Q574846,Q6581097,1982-09-16T00:00:00Z,4,Derrick Carter (footballer),Derrick Carter,Guyanese footballer,Q734,Q10717
+Q57697,Q6581097,1943-12-27T00:00:00Z,39,Sam Hinds,Sam Hinds,5th Prime Minister of Guyana,Q734,Q10717
+Q58238,Q6581072,1973-09-16T00:00:00Z,15,Carolyn Rodrigues,Carolyn Rodrigues,Guyanese politician,Q734,
+Q6008181,Q6581097,1980-07-23T00:00:00Z,2,Imran Jafferally,Imran Jafferally,West Indian cricketer,Q734,Q1051779
+Q605178,Q6581097,1982-06-16T00:00:00Z,8,Gregory Richardson,Gregory Richardson,Guyanese footballer,Q734,Q734
+Q60581508,Q6581097,1949-08-04T00:00:00Z,3,Alfred Thomas (boxer),Alfred Thomas,Guyanese boxer (* 1949),Q734,
+Q60736628,Q6581097,1965-07-25T00:00:00Z,2,George Allison (boxer),George Allison,Guyanese boxer (* 1965),Q734,
+Q6124884,Q6581097,1984-06-09T00:00:00Z,4,Jake Newton (footballer),Jake Newton,Guyanese footballer,Q734,Q277162
+Q6127195,Q6581097,1988-02-22T00:00:00Z,6,Jamaal Smith,Jamaal Smith,Guyanese footballer,Q734,Q16
+Q6149898,Q6581072,1947-01-01T00:00:00Z,2,Jan Shinebourne,Jan Shinebourne,Guyanese writer,Q734,Q675322
+Q6152045,Q6581097,1993-11-05T00:00:00Z,9,Trayon Bobb,Trayon Bobb,Guyanese footballer,Q734,Q10717
+Q615817,Q6581097,1934-11-09T00:00:00Z,17,Hamilton Green,Hamilton Green,"Prime Minister of Guyana; Mayor of Georgetown, Guyana",Q734,Q10717
+Q6162237,Q6581097,1980-01-01T00:00:00Z,3,Jason Clive Lloyd,Jason Clive Lloyd,Guyanese footballer,Q734,Q18655
+Q6162237,Q6581097,1989-01-01T00:00:00Z,3,Jason Clive Lloyd,Jason Clive Lloyd,Guyanese footballer,Q734,Q18655
+Q6163126,Q6581097,1975-08-19T00:00:00Z,5,Jason Miskiri,Jason Miskiri,Guyanese basketball player,Q734,Q10717
+Q6170971,Q6581072,1962-05-06T00:00:00Z,4,Jean La Rose,Jean La Rose,Guyanese environmentalist,Q734,Q7419861
+Q6181094,Q6581097,1983-10-15T00:00:00Z,6,Jeremy Bascom,Jeremy Bascom,Guyanese sprinter,Q734,Q741134
+Q6212427,Q6581097,1930-08-26T00:00:00Z,6,Joe Solomon,Joe Solomon,West Indian cricketer (1930–2023),Q734,Q2506033
+Q6251504,Q6581097,1914-09-13T00:00:00Z,4,John P. Bennett,John P. Bennett,Arawak Anglican priest and linguist,Q734,Q734
+Q6251504,Q6581097,1914-11-30T00:00:00Z,4,John P. Bennett,John P. Bennett,Arawak Anglican priest and linguist,Q734,Q734
+Q6273120,Q6581097,1990-09-11T00:00:00Z,4,Jonathan Foo,Jonathan Foo,West Indian cricketer,Q734,Q2506033
+Q62733422,Q6581097,1960-10-12T00:00:00Z,3,Khemraj Ramjattan,Khemraj Ramjattan,politician in Guyana,Q734,
+Q62733847,Q6581097,1964-12-25T00:00:00Z,2,Juan Edghill,Juan A. Edghill,politician in Guyana,Q734,Q10717
+Q62733971,Q6581072,1952-07-18T00:00:00Z,4,Gail Teixeira,Gail Teixeira,politician in Guyana,Q734,Q10717
+Q62734370,Q6581072,1955-01-01T00:00:00Z,2,Yvonne Fredericks-Pearson,Yvonne P. Fredericks,politician in Guyana,Q734,
+Q63037431,Q6581072,1998-11-24T00:00:00Z,5,Natricia Hooper,Natricia Hooper,Guyanese athletics competitor,Q734,Q10717
+Q6313221,Q6581097,1966-04-15T00:00:00Z,1,Junior Cornette,Junior Cornette,Guyanese sprinter,Q734,
+Q6337248,Q6581072,1947-02-23T00:00:00Z,16,Shakira Caine,Shakira Caine,Guyanese-British model and actress,Q734,Q7587692
+Q6337248,Q6581072,1947-02-23T00:00:00Z,16,Shakira Caine,Shakira Caine,Guyanese-British model and actress,Q145,Q7587692
+Q6380659,Q6581097,1979-11-28T00:00:00Z,2,Kayode McKinnon,Kayode McKinnon,Guyanese footballer/ Football coach,Q734,Q734
+Q6385001,Q6581097,1970-08-21T00:00:00Z,5,Keith Semple (cricketer),Keith Semple,West Indian cricketer,Q734,Q10717
+Q6386706,Q6581097,1983-02-02T00:00:00Z,4,Kelvin McKenzie (footballer),Kelvin McKenzie,Guyanese footballer,Q734,Q10717
+Q6389858,Q6581097,1950-01-01T00:00:00Z,2,Kenneth Benjamin (judge),Kenneth Benjamin,"Caribbean jurist, Chief Justice of Belize",Q781,Q10717
+Q6389858,Q6581097,1950-01-01T00:00:00Z,2,Kenneth Benjamin (judge),Kenneth Benjamin,"Caribbean jurist, Chief Justice of Belize",Q734,Q10717
+Q6399416,Q6581097,1955-01-01T00:00:00Z,3,Khaleel Mohammed,Khaleel Mohammed,Guyanese-American professor (1955–2022),Q734,Q734
+Q6426499,Q6581097,1945-01-08T00:00:00Z,4,Kojo Nnamdi,Kojo Nnamdi,"Radio personality, journalist",Q30,Q734
+Q6426499,Q6581097,1945-01-08T00:00:00Z,4,Kojo Nnamdi,Kojo Nnamdi,"Radio personality, journalist",Q734,Q734
+Q6428889,Q6581097,1986-03-20T00:00:00Z,2,Konata Mannings,Konata Mannings,Guyanese footballer,Q734,Q10717
+Q64373739,Q6581072,1942-09-11T00:00:00Z,5,Andaiye,Andaiye,"Guyanese social, political, and gender rights activist",Q734,Q10717
+Q6437641,Q6581097,1975-01-01T00:00:00Z,1,Kriskal Persaud,Kriskal Persaud,Guyanese chess player,Q734,
+Q64740427,Q6581097,1994-09-09T00:00:00Z,5,Emanuel Archibald,Emanuel Archibald,Guyanese sprinter and long jumper,Q734,Q10717
+Q64747835,Q6581097,1988-10-25T00:00:00Z,6,Akel Clarke,Akel Clarke,Guyanese football player,Q734,Q10717
+Q64840184,Q6581097,1980-04-25T00:00:00Z,45,Irfaan Ali,Irfaan Ali,President of the Co-operative Republic of Guyana,Q734,Q6526679
+Q64984637,Q6581097,1998-01-01T00:00:00Z,5,Kevin Layne,Kevin Layne,Guyanese association football player,Q734,Q10717
+Q6505207,Q6581072,1951-06-05T00:00:00Z,3,Laxmi Kallicharan,Laxmi Kallicharan,Guyanese writer,Q734,
+Q651084,Q6581097,1987-07-21T00:00:00Z,7,Adam Harris (athlete),Adam Harris,athletics competitor (* 1987),Q734,Q575315
+Q6521663,Q6581097,1946-05-12T00:00:00Z,4,Len Baichan,Len Baichan,West Indian cricketer,Q734,
+Q6524720,Q6581097,1987-08-08T00:00:00Z,7,Leon Johnson (cricketer),Leon Johnson,West Indian cricketer,Q734,Q10717
+Q6552328,Q6581097,1969-01-08T00:00:00Z,3,Linden Joseph,Linden Joseph,West Indian cricketer,Q734,Q10717
+Q6578051,Q6581097,1986-05-04T00:00:00Z,8,Delroy James,Delroy James,American basketball player,Q30,Q1277758
+Q6578051,Q6581097,1987-05-04T00:00:00Z,8,Delroy James,Delroy James,American basketball player,Q30,Q1277758
+Q6578051,Q6581097,1986-05-04T00:00:00Z,8,Delroy James,Delroy James,American basketball player,Q734,Q1277758
+Q6578051,Q6581097,1987-05-04T00:00:00Z,8,Delroy James,Delroy James,American basketball player,Q734,Q1277758
+Q6662731,Q6581097,1925-06-28T00:00:00Z,2,Lloyd Searwar,Lloyd Searwar,Guyanese writer,Q734,Q10717
+Q6662731,Q6581097,1925-07-28T00:00:00Z,2,Lloyd Searwar,Lloyd Searwar,Guyanese writer,Q734,Q10717
+Q67153717,Q6581072,2000-07-14T00:00:00Z,7,Shabika Gajnabi,Shabika Gajnabi,West Indian cricketer,Q734,Q1277758
+Q67197325,Q6581072,1998-08-09T00:00:00Z,7,Sheneta Grimmond,Sheneta Grimmond,West Indian cricketer,Q734,Q10717
+Q6732730,Q6581072,1954-01-01T00:00:00Z,5,Mahadai Das,Mahadai Das,Guyanese writer,Q734,Q918126
+Q6733755,Q6581097,1975-10-09T00:00:00Z,5,Mahendra Nagamootoo,Mahendra Nagamootoo,West Indian cricketer,Q734,
+Q6753539,Q6581097,1955-11-14T00:00:00Z,2,Manzoor Nadir,Manzoor Nadir,"Guyanese politician, Leader of the United Front",Q734,
+Q6767930,Q6581097,1957-10-31T00:00:00Z,4,Mark Harper (cricketer),Mark Harper,West Indian cricketer,Q734,Q10717
+Q6768742,Q6581097,1969-06-06T00:00:00Z,3,Mark Mason (athlete),Mark Mason,athletics competitor (* 1969),Q734,
+Q6768845,Q6581097,1947-01-01T00:00:00Z,1,Mark McWatt,Mark McWatt,Guyanese writer,Q734,
+Q6775121,Q6581097,1927-06-07T00:00:00Z,5,Martin Carter,Martin Carter,Guyanese poet (1927-1997),Q734,Q10717
+Q6796745,Q6581072,1952-04-16T00:00:00Z,6,Maya Tiwari,Maya Tiwari,Holistic author and peace leader,Q734,Q734
+Q6830619,Q6581097,1933-01-01T00:00:00Z,4,Michael Gilkes (writer),Michael Gilkes,Guyanese writer,Q734,Q918126
+Q6861392,Q6581097,1950-01-27T00:00:00Z,5,Milton Pydanna,Milton Pydanna,West Indian cricketer,Q734,Q923811
+Q6915896,Q6581097,1947-11-30T00:00:00Z,23,Moses Nagamootoo,Moses Nagamootoo,Guyanese politician and novelist,Q734,Q675322
+Q6966055,Q6581072,1958-01-01T00:00:00Z,2,Narmala Shewcharan,Narmala Shewcharan,Guyanese-born novelist and anthropologist,Q734,
+Q6966383,Q6581097,1983-08-16T00:00:00Z,6,Narsingh Deonarine,Narsingh Deonarine,West Indian cricketer,Q734,Q675322
+Q69821146,Q6581072,1960-07-27T00:00:00Z,2,Ann Gollifer,Ann Gollifer,British-Guyanese visual artist,Q734,Q597458
+Q7004861,Q6581097,1975-05-05T00:00:00Z,3,Neville Stanton,Neville Stanton,Guyanese footballer,Q734,Q10717
+Q7088552,Q6581097,1961-04-03T00:00:00Z,3,Oslen Barr,Olsen Barr,Olympic athlete (* 1961),Q734,
+Q7108133,Q6581097,1954-01-01T00:00:00Z,4,Oswald Hussein,Oswald Hussein,"artist, sculptor, wood-carver (born 1954)",Q734,Q7587692
+Q7129201,Q6581072,1973-09-23T00:00:00Z,2,Pamela London,Pamela London,Guyanese boxer,Q734,
+Q718256,Q6581097,1923-02-20T00:00:00Z,30,Forbes Burnham,Forbes Burnham,Guyanese politician (1923-1985),Q734,Q10717
+Q720923,Q6581097,1979-03-10T00:00:00Z,7,Anthony Abrams,Anthony Abrams,Guyanese footballer,Q734,Q10717
+Q720923,Q6581097,1979-10-03T00:00:00Z,7,Anthony Abrams,Anthony Abrams,Guyanese footballer,Q734,Q10717
+Q724156,Q6581097,1918-03-22T00:00:00Z,36,Cheddi Jagan,Cheddi Jagan,"President of Guyana, Prime Minister of Guyana, dentist (1918-1997)",Q668,Q2506033
+Q724156,Q6581097,1918-03-22T00:00:00Z,36,Cheddi Jagan,Cheddi Jagan,"President of Guyana, Prime Minister of Guyana, dentist (1918-1997)",Q1775277,Q2506033
+Q724156,Q6581097,1918-03-22T00:00:00Z,36,Cheddi Jagan,Cheddi Jagan,"President of Guyana, Prime Minister of Guyana, dentist (1918-1997)",Q129286,Q2506033
+Q724156,Q6581097,1918-03-22T00:00:00Z,36,Cheddi Jagan,Cheddi Jagan,"President of Guyana, Prime Minister of Guyana, dentist (1918-1997)",Q734,Q2506033
+Q7271990,Q6581097,1994-09-13T00:00:00Z,13,Quillan Roberts,Quillan Roberts,Guyanese association football player,Q16,Q44198
+Q7271990,Q6581097,1994-09-13T00:00:00Z,13,Quillan Roberts,Quillan Roberts,Guyanese association football player,Q734,Q44198
+Q7287542,Q6581097,1937-06-13T00:00:00Z,6,Ralph Gomes,Ralph Gomes,Guyanese distance runner and sociologist (1937-2020),Q734,Q2666990
+Q7294023,Q6581097,1966-01-01T00:00:00Z,3,Raphael Trotman,Raphael Trotman,Guyanese politician,Q734,
+Q7298512,Q6581097,1991-05-11T00:00:00Z,7,Raymon Reifer,Raymon Reifer,Barbadian Cricketer,Q734,Q1647447
+Q7299359,Q6581097,1979-01-09T00:00:00Z,1,Rayon Griffith,Rayon Griffith,West Indian cricketer,Q734,
+Q7321351,Q6581072,1979-11-02T00:00:00Z,2,Rhona Fox,Rhona Fox,American actress,Q734,Q734
+Q7343112,Q6581097,1948-02-15T00:00:00Z,6,Robert Corbin (Guyanese politician),Robert Corbin,Guyanese politician,Q734,Q741134
+Q7358232,Q6581097,1972-05-23T00:00:00Z,6,Roger Gill (sprinter),Roger Gill,sprinter (1972-2008),Q734,Q734
+Q7366077,Q6581097,1983-03-29T00:00:00Z,2,Ronuel Greenidge,Ronuel Greenidge,Guyanese chess player,Q734,Q10717
+Q7372923,Q6581097,1926-08-13T00:00:00Z,7,Roy Heath,Roy Heath,Guyanese writer (1926-2008),Q734,Q10717
+Q7375248,Q6581097,1983-05-31T00:00:00Z,3,Royston Crandon,Royston Crandon,West Indian cricketer,Q734,
+Q7377665,Q6581097,1938-05-11T00:00:00Z,3,Rudy Narayan,Rudy Narayan,Guyanese lawyer,Q734,Q734
+Q7380353,Q6581097,1943-01-31T00:00:00Z,2,Rupert Roopnaraine,Rupert Roopnaraine,West Indian cricketer,Q734,Q10717
+Q7380460,Q6581072,1992-04-28T00:00:00Z,5,Ruqayyah Boyer,Ruqayyah Boyer,Beauty pageant winner,Q734,Q3001
+Q7384455,Q6581097,1983-07-03T00:00:00Z,4,Ryan Ramdass,Ryan Ramdass,West Indian cricketer,Q734,
+Q7458292,Q6581097,1981-04-03T00:00:00Z,5,Sewnarine Chattergoon,Sewnarine Chattergoon,West Indian cricketer,Q734,
+Q7491300,Q6581097,1979-09-15T00:00:00Z,4,Shawn Bishop,Shawn Bishop,Guyanese footballer,Q734,Q10717
+Q7668638,Q6581097,1900-01-01T00:00:00Z,4,T. Ras Makonnen,T. Ras Makonnen,Guyanese-born Pan-African activist (1909–1983),Q734,
+Q7674954,Q6581097,1992-01-01T00:00:00Z,2,Taffin Khan,Taffin Khan,Guyanese chess player,Q734,Q10717
+Q7675199,Q6581097,1996-05-31T00:00:00Z,5,Tagenarine Chanderpaul,Tagenarine Chanderpaul,West Indian cricketer,Q734,Q10717
+Q7807693,Q6581097,1957-06-07T00:00:00Z,3,Timur Mohamed,Timur Mohamed,cricketer,Q734,Q10717
+Q7836238,Q6581097,1977-02-24T00:00:00Z,6,Travis Dowlin,Travis Dowlin,West Indian cricketer,Q734,
+Q7918194,Q6581097,1989-08-11T00:00:00Z,6,Veerasammy Permaul,Veerasammy Permaul,cricketer,Q734,Q4712467
+Q7943694,Q6581097,1988-02-11T00:00:00Z,4,Vurlon Mills,Vurlon Mills,Guyanese footballer,Q734,Q734
+Q7943694,Q6581097,1990-12-10T00:00:00Z,4,Vurlon Mills,Vurlon Mills,Guyanese footballer,Q734,Q734
+Q7970149,Q6581097,1990-08-14T00:00:00Z,8,Warren Creavalle,Warren Creavalle,professional footballer,Q30,Q344933
+Q7970149,Q6581097,1990-08-14T00:00:00Z,8,Warren Creavalle,Warren Creavalle,professional footballer,Q734,Q344933
+Q79857573,Q6581097,1932-01-01T00:00:00Z,2,Michael Swain (weightlifter),Michael Swain,Guyanese weightlifter,Q734,
+Q79857573,Q6581097,1933-01-01T00:00:00Z,2,Michael Swain (weightlifter),Michael Swain,Guyanese weightlifter,Q734,
+Q79857573,Q6581097,1932-01-01T00:00:00Z,2,Michael Swain (weightlifter),Michael Swain,Guyanese weightlifter,Q918126,
+Q79857573,Q6581097,1933-01-01T00:00:00Z,2,Michael Swain (weightlifter),Michael Swain,Guyanese weightlifter,Q918126,
+Q816877,Q6581097,1927-12-02T00:00:00Z,8,Benedict Singh,Benedict Singh,Guyanese catholic bishop (1927–2018),Q734,Q5003252
+Q85748527,Q6581072,1999-07-21T00:00:00Z,7,Cherry-Ann Fraser,Cherry-Ann Fraser,West Indian cricketer,Q734,Q10717
+Q85751076,Q6581097,1929-11-01T00:00:00Z,3,Cecil Moore (weightlifter),Cecil Moore,Guyanese weightlifter,Q734,Q809428
+Q86481780,Q6581072,1919-01-01T00:00:00Z,5,Valerie Rodway,Valerie Rodway,Guyanese composer,Q734,Q923811
+Q86578138,Q6581072,1916-02-07T00:00:00Z,1,Lynette Dolphin,Lynette Dolphin,Guyanese musician,Q734,
+Q880984,Q6581097,1912-05-24T00:00:00Z,14,Edward Luckhoo,Edward Luckhoo,President of Guyana (1912-1998),Q734,Q923811
+Q88130176,Q6581097,1901-01-01T00:00:00Z,3,Lynden Archer,Lynden A Archer,American chemical engineer and scholar,Q30,Q734
+Q88130176,Q6581097,1901-01-01T00:00:00Z,3,Lynden Archer,Lynden A Archer,American chemical engineer and scholar,Q734,Q734
+Q88219271,Q6581072,2001-11-24T00:00:00Z,2,Tiandi Smith,Tiandi Smith,Guyanese association football player,Q734,Q734
+Q88220996,Q6581072,2000-07-06T00:00:00Z,4,Brianne Desa,Brianne Desa,Guyanese association football player,Q734,Q16
+Q88328156,Q6581072,2002-09-04T00:00:00Z,3,Jessica Myers,Jessica Myers,Guyanese footballer,Q734,Q16
+Q88328477,Q6581072,2001-09-10T00:00:00Z,4,Nailah Rowe,Nailah Rowe,Guyanese association football player,Q734,Q16
+Q887418,Q6581097,1929-03-09T00:00:00Z,26,Desmond Hoyte,Desmond Hoyte,"President of Guyana, politician, lawyer (1929-2002)",Q734,Q10717
+Q89127557,Q6581072,2001-11-09T00:00:00Z,4,Rylee Traicoff,Rylee Traicoff,Guyanese association football player,Q734,Q16
+Q89279727,Q6581072,1990-12-09T00:00:00Z,3,Shondel Archer,Shondel Archer,American-born Guyanese footballer,Q734,Q30
+Q89279727,Q6581072,1990-12-09T00:00:00Z,3,Shondel Archer,Shondel Archer,American-born Guyanese footballer,Q30,Q30
+Q89283633,Q6581072,1981-07-06T00:00:00Z,3,Donna Carvalhal,Donna Carvalhal,Guyanese footballer,Q734,Q16
+Q91151546,Q6581097,1943-02-13T00:00:00Z,4,John Percy Leon Lewis,John Percy Leon Lewis,Guyanese military officer,Q734,
+Q9267240,Q6581097,1936-07-01T00:00:00Z,7,George De Peana,George De Peana,Guyanese athletics competitor (1936–2021),Q734,Q10717
+Q9267240,Q6581097,1936-07-05T00:00:00Z,7,George De Peana,George De Peana,Guyanese athletics competitor (1936–2021),Q734,Q10717
+Q93292585,Q6581072,1979-05-24T00:00:00Z,1,Ronette Cort,Ronette Cort,Guyanese footballer,Q734,
+Q93292737,Q6581072,1991-12-09T00:00:00Z,2,Alyssa Budhoo,Alyssa Budhoo,Canadian–Guyanese footballer,Q734,
+Q95305041,Q6581072,1949-07-29T00:00:00Z,3,Deolatchmee Ramotar,Deolatchmee Ramotar,"Guyanese accountant, former First Lady of Guyana",Q734,
+Q958984,Q6581097,1928-10-03T00:00:00Z,14,Shridath Ramphal,Shridath Ramphal,Guyanese diplomat (1928-2024),Q734,Q923811
+Q958984,Q6581097,1928-10-03T00:00:00Z,14,Shridath Ramphal,Shridath Ramphal,Guyanese diplomat (1928-2024),Q145,Q923811
+Q959460,Q6581072,1988-01-01T00:00:00Z,6,Kara Lord,Kara Lord,2011 Miss Guyana Universe,Q734,Q10717
+Q96102038,Q6581072,1987-10-13T00:00:00Z,1,Akilah Castello,Akilah Castello,Guyanese football manager,Q734,
+Q96102379,Q6581072,1991-11-12T00:00:00Z,1,Melissia Elie,Melissa Elie,Canadian-born Guyanese footballer,Q734,Q30
+Q964765,Q6581097,1921-03-24T00:00:00Z,14,Wilson Harris,Wilson Harris,Guyanese writer (1921–2018),Q734,Q923811
+Q967484,Q6581097,1974-08-16T00:00:00Z,17,Shivnarine Chanderpaul,Shivnarine Chanderpaul,West Indian cricketer,Q734,Q7893831
+Q98053664,Q6581097,1961-10-05T00:00:00Z,22,Mark Phillips (Guyanese politician),Hugo Chávez,Guyanese politician and retired military officer,Q734,Q10717
+Q98085599,Q6581072,2001-08-29T00:00:00Z,3,Shanice Alfred,Shanice Alfred,Guyanese association football player,Q734,
+Q98085604,Q6581072,2004-02-17T00:00:00Z,2,Samantha Banfield,Samantha Banfield,Guyanese association football player,Q734,Q16
+Q98085618,Q6581072,2000-05-14T00:00:00Z,3,Raven Edwards-Dowdall,Raven Edwards-Dowdall,Guyanese association football player,Q734,
+Q98085629,Q6581072,2000-01-10T00:00:00Z,4,Stefanie Kouzas,Stefanie Kouzas,Guyanese association football player,Q734,Q340
+Q98085631,Q6581072,2002-08-01T00:00:00Z,3,Serena McDonald,Serena McDonald,Guyanese association football player,Q734,Q16
+Q98085647,Q6581072,2001-07-01T00:00:00Z,1,Makayla Rudder,Makalya Rudder,Guyanese association football player,Q734,Q16
+Q98085662,Q6581072,2000-10-11T00:00:00Z,1,Taylor White (goalkeeper),Taylor White,Guyanese association football player,Q734,
+Q99491143,Q6581072,1997-04-17T00:00:00Z,4,Kaysia Schultz,Kaysia Schultz,West Indian cricketer,Q734,Q809428
